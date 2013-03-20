@@ -2,56 +2,12 @@
 Firefox Health Report
 
 
-;Glossary
-Glossary
-
-
-;What the Firefox Health Report Measures
-What the Firefox Health Report Measures
-
-
-;The Firefox Health Report (FHR) has 5 categories of metrics:
-The Firefox Health Report (FHR) has 5 categories of metrics:
-
-
-;Configuration
-Configuration
-
-
-;Customizations
-Customizations
-
-
-;Add-ons, count and type
-Add-ons, count and type
-
-
-;Performance
-Performance
-
-
-;Timing of browser events, rendering, session restores
-Timing of browser events, rendering, session restores
-
-
-;Wear and Tear
-Wear and Tear
-
-
-;Length of session, how old a profile is, count of crashes, count of pages
-Length of session, how old a profile is, count of crashes, count of pages
-
-
-;Detailed Description
-Detailed Description
-
-
-;Device hardware, operating system, Firefox version
-Device hardware, operating system, Firefox version
-
-
 ;Raw Data
 Raw Data
+
+
+;Get insights and performance information about your version of Firefox.
+Get insights and performance information about your version of Firefox.
 
 
 ;Learn more...
@@ -66,16 +22,40 @@ Data Sharing
 ON
 
 
-;Welcome!
-Welcome!
+;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
+You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
 
 
-;See My Report
-See My Report
+;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
+Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
+
+
+;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
+You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
+
+
+;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
+Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
 
 
 ;Vital Stats
 Vital Stats
+
+
+;version
+version
+
+
+;time open
+time open
+
+
+;last crash
+last crash
+
+
+;bookmarks
+bookmarks
 
 
 ;This Month
@@ -110,12 +90,104 @@ Plugins
 Tips
 
 
+;Wear and Tear
+Wear and Tear
+
+
 ;It looks like your browser has crashed a number of times recently. To learn more:
 It looks like your browser has crashed a number of times recently. To learn more:
 
 
 ;OFF
 OFF
+
+
+;Visit our <a href="%(sumo_url)s">support website</a>
+Visit our <a href="%(sumo_url)s">support website</a>
+
+
+;View more <a href="%(details_url)s">detailed information</a>
+View more <a href="%(details_url)s">detailed information</a>
+
+
+;pages visited
+pages visited
+
+
+;Your browser seems to be running slower than usual. To learn more:
+Your browser seems to be running slower than usual. To learn more:
+
+
+;You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
+You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
+
+
+;Startup Time by Day
+Startup Time by Day
+
+
+;Graph:
+Graph:
+
+
+;Average
+Average
+
+
+;All
+All
+
+
+;Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
+Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
+
+
+;Data Collected
+Data Collected
+
+
+;Glossary
+Glossary
+
+
+;What the Firefox Health Report Measures
+What the Firefox Health Report Measures
+
+
+;The Firefox Health Report (FHR) has 5 categories of metrics:
+The Firefox Health Report (FHR) has 5 categories of metrics:
+
+
+;Configuration
+Configuration
+
+
+;Device hardware, operating system, Firefox version
+Device hardware, operating system, Firefox version
+
+
+;Customizations
+Customizations
+
+
+;Add-ons, count and type
+Add-ons, count and type
+
+
+;Performance
+Performance
+
+
+;Timing of browser events, rendering, session restores
+Timing of browser events, rendering, session restores
+
+
+;Length of session, how old a profile is, count of crashes, count of pages
+Length of session, how old a profile is, count of crashes, count of pages
+
+
+;Detailed Description
+Detailed Description
 
 
 ;Metric
@@ -154,8 +226,8 @@ The version number of any Mozilla hotfix applied to the application
 Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
 
 
-;The configured name of the application (Firefox / Aurora / Nightly for instance)
-The configured name of the application (Firefox / Aurora / Nightly for instance)
+;The configured name of the application (Firefox/Aurora/Nightly for instance)
+The configured name of the application (Firefox/Aurora/Nightly for instance)
 
 
 ;The channel this installation checks for application updates (nightly/aurora/beta/release)
@@ -330,116 +402,19 @@ Total number of pages listed in the history
 How long in minutes the current session has been running
 
 
-;The ID that was generated for a single data submission
-The ID that was generated for a single data submission
+;Welcome to your Firefox Health Report
+Welcome to your Firefox Health Report
 
 
-;UTC date of the last successful submission
-UTC date of the last successful submission
-
-
-;The ID that was generated for the last successful data submission
-The ID that was generated for the last successful data submission
-
-
-;Normal or Debug submission
-Normal or Debug submission
-
-
-;If new data types are added or the structure of the document changes, a new schemaVersion will be used.
-If new data types are added or the structure of the document changes, a new schemaVersion will be used.
-
-
-;UTC date of this submission
-UTC date of this submission
-
-
-;Get insights and performance information about your version of Firefox.
-Get insights and performance information about your version of Firefox.
-
-
-;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
-You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
-
-
-;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
-Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
-
-
-;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
-You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
-
-
-;Learn how we handle your data in our <a href="">privacy policy.</a>
-Learn how we handle your data in our <a href="">privacy policy.</a>
+;Welcome!
+Welcome!
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
 Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
 
 
-;version
-version
-
-
-;time open
-time open
-
-
-;last crash
-last crash
-
-
-;bookmarks
-bookmarks
-
-
-;pages visited
-pages visited
-
-
-;Visit our <a href="%(sumo_url)s">support website</a>
-Visit our <a href="%(sumo_url)s">support website</a>
-
-
-;View more <a href="%(details_url)s">detailed information</a>
-View more <a href="%(details_url)s">detailed information</a>
-
-
-;Your browser seems to be running slower than usual. To learn more:
-Your browser seems to be running slower than usual. To learn more:
-
-
-;You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
-You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
-
-
-;Startup Time by Day
-Startup Time by Day
-
-
-;Graph:
-Graph:
-
-
-;Average
-Average
-
-
-;All
-All
-
-
-;Time (in seconds)
-Time (in seconds)
-
-
-;Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
-Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
-
-
-
-;Data Collected
-Data Collected
+;See My Report
+See My Report
 
 

@@ -154,8 +154,8 @@ Le numéro de version de tout correctif de Mozilla appliqué à l'application
 Identifiant unique pour l'application indiquant qu'il s'agit de Firefox, Thunderbird etc. Il a toujours la même valeur pour toutes les installations, quelle que soit la valeur de <var>appName</var>
 
 
-;The configured name of the application (Firefox / Aurora / Nightly for instance)
-Nom paramétré de l'application (Firefox / Aurora / Nightly par exemple)
+;The configured name of the application (Firefox/Aurora/Nightly for instance)
+Nom paramétré de l'application (Firefox/Aurora/Nightly par exemple)
 
 
 ;The channel this installation checks for application updates (nightly/aurora/beta/release)
@@ -441,29 +441,5 @@ Le temps de démarrage permet de déterminer les performances de votre version d
 
 ;Data Collected
 Données collectées
-
-
-;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="">privacy policy.</a>
-Les données de votre bilan de santé seront également supprimées des serveurs de Mozilla. Apprenez-en davantage dans notre <a href="">politique de respect de la vie privée.</a>
-
-
-;Visit our <a href="https://support.mozilla.org">support website</a>
-Visitez notre <a href="https://support.mozilla.org">site web d'assistance</a>
-
-
-;View more <a href="">detailed information</a>
-Afficher des <a href="">informations plus détaillées</a>
-
-
-;Learn More...
-En savoir plus&hellip;
-
-
-;True if the application automatically disabled the add-on
-True si l'application a automatiquement désactivé le module
-
-
-;Welcome to your Firefox Health Report
-Bienvenue dans votre bilan de santé de Firefox
 
 
