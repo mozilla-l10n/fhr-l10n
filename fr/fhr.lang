@@ -175,7 +175,7 @@ Nombre de cœurs du processeur
 
 
 ;Whether the application is currently configured to be the default browser for the operating system
-Whether the application is currently configured to be the default browser for the operating system
+Si l'application est actuellement définie comme navigateur par défaut pour le système d'exploitation
 
 
 ;Locale currently being used
@@ -231,75 +231,75 @@ Le module contient-il du code natif
 
 
 ;The identifier of this add-on as defined by the add-on developer
-Identifiant du module tel que définit par son développeur
+Identifiant du module tel que défini par son développeur
 
 
 ;The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
-The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
+La date d'installation la plus récente pour ce module (les précédentes informations concernant un module désinstallé ne sont pas conservées).
 
 
 ;The number of searches performed with this search engine from this part of the UI
-The number of searches performed with this search engine from this part of the UI
+Le nombre de recherches effectuées avec ce moteur de recherche depuis cette partie de l'interface
 
 
 ;Whether this add-on was installed in the application directory or profile directory
-Whether this add-on was installed in the application directory or profile directory
+Le module a-t-il été installé dans le répertoire des applications ou bien dans le répertoire du profil
 
 
 ;Whether this add-on is an extension or a plug-in
-Whether this add-on is an extension or a plug-in
+Le module est-il une extension ou un plugin
 
 
 ;The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
-The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
+La date de mise à jour la plus récente pour ce module (les précédentes informations concernant un module désinstallé ne sont pas conservées).
 
 
 ;True if the user manually disabled the add-on
-True if the user manually disabled the add-on
+True si l'utilisateur a manuellement désactivé le module
 
 
 ;The current version of this add-on
-The current version of this add-on
+La version actuelle de ce module complémentaire
 
 
 ;How long in milliseconds it took during startup for the application to render the UI and display the window
-How long in milliseconds it took during startup for the application to render the UI and display the window
+Combien de temps en millisecondes a-t-il fallu pendant le démarrage de l'application pour dessiner l'interface et afficher la fenêtre
 
 
 ;How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
-How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
+Combien de temps en millisecondes a-t-il fallu pendant le démarrage de l'application pour charger les bibliothèques et terminer l'initialisation de base
 
 
 ;How long in milliseconds it took during startup for the application to restore tabs from the previous session
-How long in milliseconds it took during startup for the application to restore tabs from the previous session
+Combien de temps en millisecondes a-t-il fallu durant le démarrage de l'application pour restaurer les onglets de la session précédente
 
 
 ;The number of times the application was run and not cleanly shut down.
-The number of times the application was run and not cleanly shut down.
+Le nombre de fois où l'application a été exécutée et n'a pas été proprement fermée.
 
 
 ;The time in seconds that the aborted sessions were not idle
-The time in seconds that the aborted sessions were not idle
+Le temps en secondes d'activité continue des sessions interrompues
 
 
 ;The time in seconds that the aborted sessions were running
-The time in seconds that the aborted sessions were running
+Le temps en secondes du fonctionnement des sessions interrompues
 
 
 ;The number of days since this application profile directory was created
-The number of days since this application profile directory was created
+Le nombre de jours depuis que le répertoire de l'application a été créé
 
 
 ;The number of times the application was run and cleanly shut down.
-The number of times the application was run and cleanly shut down.
+Le nombre de fois où l'application a été exécutée et a été proprement fermée.
 
 
 ;The time in seconds that the completed sessions were not idle
-The time in seconds that the completed sessions were not idle
+Le temps en secondes d'activité continue des sessions terminées
 
 
 ;The time in seconds that the completed sessions were running
-The time in seconds that the completed sessions were running
+Le temps en secondes du fonctionnement des sessions terminées
 
 
 ;Total number of crashes that were recorded but not yet submitted
@@ -435,11 +435,35 @@ Temps (en secondes)
 
 
 ;Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
-Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
+Le temps de démarrage permet de déterminer les performances de votre version de Firefox. De façon générale, des temps courts (c'est-à-dire de faibles valeurs) indiquent de meilleures performances.
 
 
 
 ;Data Collected
 Données collectées
+
+
+;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="">privacy policy.</a>
+Les données de votre bilan de santé seront également supprimées des serveurs de Mozilla. Apprenez-en davantage dans notre <a href="">politique de respect de la vie privée.</a>
+
+
+;Visit our <a href="https://support.mozilla.org">support website</a>
+Visitez notre <a href="https://support.mozilla.org">site web d'assistance</a>
+
+
+;View more <a href="">detailed information</a>
+Afficher des <a href="">informations plus détaillées</a>
+
+
+;Learn More...
+En savoir plus&hellip;
+
+
+;True if the application automatically disabled the add-on
+True si l'application a automatiquement désactivé le module
+
+
+;Welcome to your Firefox Health Report
+Bienvenue dans votre bilan de santé de Firefox
 
 
