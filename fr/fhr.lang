@@ -35,7 +35,7 @@ Vous avez choisi de partager ponctuellement vos données avec Mozilla. Merci de 
 
 
 ;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
-Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
+Découvrez comment nous gérons vos données dans notre <a href="%(privacy_url)s">politique de respect de la vie privée.</a>
 
 
 ;Vital Stats
@@ -403,7 +403,7 @@ Durée de la session en cours en minutes
 
 
 ;Welcome to your Firefox Health Report
-Welcome to your Firefox Health Report
+Bienvenue dans votre bilan de santé de Firefox
 
 
 ;Welcome!
