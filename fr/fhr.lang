@@ -303,19 +303,19 @@ The time in seconds that the completed sessions were running
 
 
 ;Total number of crashes that were recorded but not yet submitted
-Total number of crashes that were recorded but not yet submitted
+Nombre total de plantages enregistrés mais non envoyés
 
 
 ;Total number of crashes that have been submitted
-Total number of crashes that have been submitted
+Nombre total de plantages envoyés
 
 
 ;Time in seconds the app has not been idle
-Time in seconds the app has not been idle
+Temps en secondes d'activité continue de l'application
 
 
 ;Time in seconds since the app was last started
-Time in seconds since the app was last started
+Temps en secondes depuis que le dernier lancement de l'application
 
 
 ;Total number of bookmarks
@@ -371,43 +371,43 @@ Vous avez choisi de partager ponctuellement vos données avec Mozilla. Merci de 
 
 
 ;Learn how we handle your data in our <a href="">privacy policy.</a>
-Découvrez comment nous gérons vos données nous notre <a href="">politique de respect de la vis privée.</a>
+Découvrez comment nous gérons vos données nous notre <a href="">politique de respect de la vie privée.</a>
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
-Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
+Le Bilan de Santé de Firefox vous permet de mieux comprendre les performances de Firefox et comment les améliorer.
 
 
 ;version
-version
+version {ok}
 
 
 ;time open
-time open
+ouvert depuis
 
 
 ;last crash
-last crash
+dernier plantage
 
 
 ;bookmarks
-bookmarks
+marque-pages
 
 
 ;pages visited
-pages visited
+pages visitées
 
 
 ;Visit our <a href="%(sumo_url)s">support website</a>
-Visit our <a href="%(sumo_url)s">support website</a>
+Visitez notre <a href="%(sumo_url)s">site d'assistance</a>
 
 
 ;View more <a href="%(details_url)s">detailed information</a>
-View more <a href="%(details_url)s">detailed information</a>
+Afficher des <a href="%(details_url)s">informations plus détaillées</a>
 
 
 ;Your browser seems to be running slower than usual. To learn more:
-Your browser seems to be running slower than usual. To learn more:
+Votre navigateur semble fonctionner plus lentement que d'habitude. Pour en savoir plus&nbsp;:
 
 
 ;You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
@@ -415,34 +415,31 @@ You'll be able to see more interesting and detailed information the more you use
 
 
 ;Startup Time by Day
-Startup Time by Day
+Temps de démarrage par jour
 
 
 ;Graph:
-Graph:
+Graphique&nbsp;:
 
 
 ;Average
-Average
+Moyenne
 
 
 ;All
-All
+Tout
 
 
 ;Time (in seconds)
-Time (in seconds)
+Temps (en secondes)
 
 
 ;Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
 Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
 
 
-;Learn More...
-Learn More...
-
 
 ;Data Collected
-Data Collected
+Données collectées
 
 
