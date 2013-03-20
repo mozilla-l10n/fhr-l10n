@@ -218,8 +218,8 @@ An application version which has been used with this installation profile
 The number of add-ons of this type that existed in the profile on this date
 
 
-;True if the application automatically disabled the add-on
-True if the application automatically disabled the add-on
+;<var>True</var> if the application automatically disabled the add-on
+<var>True</var> if the application automatically disabled the add-on
 
 
 ;Whether this add-on was installed by the user or automatically by another application
