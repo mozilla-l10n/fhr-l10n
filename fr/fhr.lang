@@ -1,5 +1,5 @@
 ;Firefox Health Report
-Rapport de santé de Firefox
+Bilan de santé de Firefox
 
 
 ;Glossary
@@ -39,7 +39,7 @@ Usure
 
 
 ;Length of session, how old a profile is, count of crashes, count of pages
-Durée de la session, âge du profil, nombre de plantes, nombre de pages
+Durée de la session, âge du profil, nombre de plantages, nombre de pages
 
 
 ;Detailed Description
@@ -151,7 +151,7 @@ Le numéro de version de tout correctif de Mozilla appliqué à l'application
 
 
 ;Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
-Identifiant unique pour l'application indiquant qu'il s'agit de Firefox, Thunderbird etc. Il a toujours la même valeur pout toutes les installations, quelque soit la valeurs de <var>appName</var>
+Identifiant unique pour l'application indiquant qu'il s'agit de Firefox, Thunderbird etc. Il a toujours la même valeur pour toutes les installations, quelle que soit la valeur de <var>appName</var>
 
 
 ;The configured name of the application (Firefox / Aurora / Nightly for instance)
@@ -167,7 +167,7 @@ Nom de l'entreprise ou du fournisseur qui a créé cette version
 
 
 ;The current version of the product
-Vesion actuelle du logiciel
+Version actuelle du logiciel
 
 
 ;Number of processor cores
@@ -187,15 +187,15 @@ Quantité de RAM en méga-octets
 
 
 ;Currently running Operating System (kernel) name
-Nom du système d'exploitation utilisé (noyeau)
+Nom du système d'exploitation utilisé (noyau)
 
 
 ;Currently running Operating System (kernel) version
-Version du système d'exploitation utilisé (noyeau)
+Version du système d'exploitation utilisé (noyau)
 
 
 ;The build identifier of the Gecko platform code
-Identifiant de compiltion du code plateforme Gecko
+Identifiant de compilation du code plateforme Gecko
 
 
 ;The version of the Gecko platform code
@@ -211,11 +211,11 @@ Date de première utilisation de cette version avec ce profil d'installation
 
 
 ;An application version which has been used with this installation profile
-Version d'application utilisée avec ce profile d'installation
+Version d'application utilisée avec ce profil d'installation
 
 
 ;The number of add-ons of this type that existed in the profile on this date
-Nombre de modules complémentiares de ce type qui existaient dans le profil à cette date
+Nombre de modules complémentaires de ce type qui existaient dans le profil à cette date
 
 
 ;<var>True</var> if the application automatically disabled the add-on
@@ -223,7 +223,7 @@ Nombre de modules complémentiares de ce type qui existaient dans le profil à c
 
 
 ;Whether this add-on was installed by the user or automatically by another application
-Le module a t'il été installé par l'utilisateur ou bien a t'il été installé automatiquement par une autre application
+Le module a-t-il été installé par l'utilisateur ou bien a-t-il été installé automatiquement par une autre application
 
 
 ;Whether this add-on has native code.
@@ -327,7 +327,7 @@ Nombre total de pages listées dans l'historique
 
 
 ;How long in minutes the current session has been running
-Durée de la session en cours en en minutes
+Durée de la session en cours en minutes
 
 
 ;The ID that was generated for a single data submission
@@ -347,7 +347,7 @@ Envoi en mode Normal ou Debug
 
 
 ;If new data types are added or the structure of the document changes, a new schemaVersion will be used.
-Si de nouveaux types de données sont ajoutés  ou si la structure du document change, une nouvelle valeur pour <var>schemaVersion</var> sera utilisée.
+Si de nouveaux types de données sont ajoutés ou si la structure du document change, une nouvelle valeur pour <var>schemaVersion</var> sera utilisée.
 
 
 ;UTC date of this submission
@@ -355,7 +355,7 @@ Date au format UTC de l'envoi
 
 
 ;Get insights and performance information about your version of Firefox.
-Apprenez-en davantage sur les performance de votre version de Firefox.
+Apprenez-en davantage sur les performances de votre version de Firefox.
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
@@ -367,7 +367,7 @@ Votre Bilan de santé sera aussi effacé des serveurs de Mozilla. Apprenez-en da
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
-Vous avez choisi de partager ponctuellement vos données avec Mozilla. Merci de nous aider à remplir notre mission et de contruite un meilleur avenir pour le Web avec nous.
+Vous avez choisi de partager ponctuellement vos données avec Mozilla. Merci de nous aider à remplir notre mission et de construire avec nous un meilleur avenir pour le Web.
 
 
 ;Learn how we handle your data in our <a href="">privacy policy.</a>
