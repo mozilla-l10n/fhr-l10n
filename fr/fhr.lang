@@ -118,13 +118,6 @@ Votre navigateur semble avoir beaucoup planté récemment, pour en savoir plus&n
 INACTIF
 
 
-;Enveloping
-Enveloping
-
-
-;Used to manage the longitudinal data series of coarse-grained daily data
-Used to manage the longitudinal data series of coarse-grained daily data
-
 
 ;Metric
 Métrique
@@ -151,31 +144,31 @@ Identifiant du canal de distribution spécifique du logiciel utilisé. Extrait d
 
 
 ;Version of the distribution, taken from the <var>distribution.version</var> preference
-Version of the distribution, taken from the <var>distribution.version</var> preference
+Version de la distribution, prise depuis la préférence <var>distribution.version</var>
 
 
 ;The version number of any Mozilla hotfix applied to the application
-The version number of any Mozilla hotfix applied to the application
+Le numéro de version de tout correctif de Mozilla appliqué à l'application
 
 
 ;Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
-Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
+Identifiant unique pour l'application indiquant qu'il s'agit de Firefox, Thunderbird etc. Il a toujours la même valeur pout toutes les installations, quelque soit la valeurs de <var>appName</var>
 
 
 ;The configured name of the application (Firefox / Aurora / Nightly for instance)
-The configured name of the application (Firefox / Aurora / Nightly for instance)
+Nom paramétré de l'application (Firefox / Aurora / Nightly par exemple)
 
 
 ;The channel this installation checks for application updates (nightly/aurora/beta/release)
-The channel this installation checks for application updates (nightly/aurora/beta/release)
+Canal utilisé pour la vérification des mises à jour (nightly/aurora/beta/release)
 
 
 ;The name of the company/provider who built this version
-The name of the company/provider who built this version
+Nom de l'entreprise ou du fournisseur qui a créé cette version
 
 
 ;The current version of the product
-The current version of the product
+Vesion actuelle du logiciel
 
 
 ;Number of processor cores
@@ -191,7 +184,7 @@ Code de locale actuellement utilisée
 
 
 ;Amount of RAM in megabytes
-Quantité de  AM en méga-octets
+Quantité de RAM en méga-octets
 
 
 ;Currently running Operating System (kernel) name
@@ -203,11 +196,11 @@ Version du système d'exploitation utilisé (noyeau)
 
 
 ;The build identifier of the Gecko platform code
-The build identifier of the Gecko platform code
+Identifiant de compiltion du code plateforme Gecko
 
 
 ;The version of the Gecko platform code
-The version of the Gecko platform code
+Version du code plateforme Gecko
 
 
 ;Processor architecture
@@ -215,31 +208,31 @@ Architecture du processeur
 
 
 ;The date this version was first used with this installation profile
-The date this version was first used with this installation profile
+Date de première utilisation de cette version avec ce profil d'installation
 
 
 ;An application version which has been used with this installation profile
-An application version which has been used with this installation profile
+Version d'application utilisée avec ce profile d'installation
 
 
 ;The number of add-ons of this type that existed in the profile on this date
-The number of add-ons of this type that existed in the profile on this date
+Nombre de modules complémentiares de ce type qui existaient dans le profil à cette date
 
 
-;True if the application automatically disabled the add-on
-True if the application automatically disabled the add-on
+;<var>True</var> if the application automatically disabled the add-on
+<var>True</var> si l'application a automatiquement désactivé le module
 
 
 ;Whether this add-on was installed by the user or automatically by another application
-Whether this add-on was installed by the user or automatically by another application
+Le module a t'il été installé par l'utilisateur ou bien a t'il été installé automatiquement par une autre application
 
 
 ;Whether this add-on has native code.
-Whether this add-on has native code.
+Le module contient-il du code natif
 
 
 ;The identifier of this add-on as defined by the add-on developer
-The identifier of this add-on as defined by the add-on developer
+Identifiant du module tel que définit par son développeur
 
 
 ;The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
