@@ -326,8 +326,8 @@ Le module est-il une extension ou un plugin
 La date de mise à jour la plus récente pour ce module (les précédentes informations concernant un module désinstallé ne sont pas conservées).
 
 
-;True if the user manually disabled the add-on
-True si l'utilisateur a manuellement désactivé le module
+;<var>True</var> if the user manually disabled the add-on
+<var>True</var> si l'utilisateur a manuellement désactivé le module
 
 
 ;The current version of this add-on

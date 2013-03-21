@@ -326,8 +326,8 @@ Whether this add-on is an extension or a plug-in
 The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
 
 
-;True if the user manually disabled the add-on
-True if the user manually disabled the add-on
+;<var>True</var> if the user manually disabled the add-on
+<var>True</var> if the user manually disabled the add-on
 
 
 ;The current version of this add-on
