@@ -103,11 +103,11 @@ malaktiva
 
 
 ;Visit our <a href="%(sumo_url)s">support website</a>
-Visit our <a href="%(sumo_url)s">support website</a>
+Vizitu nian <a href="%(sumo_url)s">helpan retejon</a>
 
 
 ;View more <a href="%(details_url)s">detailed information</a>
-View more <a href="%(details_url)s">detailed information</a>
+Vidu pli <a href="%(details_url)s">detalan informon</a>
 
 
 ;pages visited
@@ -119,7 +119,7 @@ Via retesplorilo ŝajnas ruli siajn taskojn pli malrapide ol kutime. Pli da info
 
 
 ;You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
-You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
+Ju pli vi uzos la retesplorilon des pli interesa kaj detala estos la informo. Kontrolu denove post unu aŭ du semajnoj kaj vi ekvidos tendencojn.
 
 
 ;Startup Time by Day
