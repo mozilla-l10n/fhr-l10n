@@ -139,7 +139,7 @@ Uile
 
 
 ;Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
-Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
+Léiríonn an t-am tosaithe cé chomh maith agus atá Firefox ag feidhmiú. Go ginearálta, léiríonn tosú níos sciobtha feidhmíocht níos fearr.
 
 
 ;Data Collected
@@ -219,11 +219,11 @@ Leagan den dáileadh. Glacadh ón tsainrogha <var>distribution.version</var> é.
 
 
 ;The version number of any Mozilla hotfix applied to the application
-The version number of any Mozilla hotfix applied to the application
+An leagan de cheartúchán ar bith a chuir Mozilla i bhfeidhm ar an bhfeidhmchlár
 
 
 ;Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
-Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
+Aitheantóir a léiríonn an feidhmchlár atá ann: Firefox, Thunderbird, etc. Is ionann an cás do gach suiteáil d'fheidhmchlár, is cuma cad is <var>appName</var>
 
 
 ;The configured name of the application (Firefox/Aurora/Nightly for instance)
@@ -231,7 +231,7 @@ Ainm cumraithe an fheidhmchláir (Firefox/Aurora/Nightly mar shampla)
 
 
 ;The channel this installation checks for application updates (nightly/aurora/beta/release)
-The channel this installation checks for application updates (nightly/aurora/beta/release)
+Lorgaítear nuashonruithe feidhmchláir sa gcainéal seo (nightly/aurora/beta/release)
 
 
 ;The name of the company/provider who built this version
@@ -335,27 +335,27 @@ An leagan reatha den bhreiseán seo
 
 
 ;How long in milliseconds it took during startup for the application to render the UI and display the window
-How long in milliseconds it took during startup for the application to render the UI and display the window
+Cá fhad a bhí sé sular thaispeáin an feidhmchlár an comhéadan agus an fhuinneog, i milleasoicindí
 
 
 ;How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
-How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
+Cá fhad a bhí sé sular luchtaigh an feidhmchlár leabharlanna agus sular chríochnaigh sé túsú bunúsach, i milleasoicindí
 
 
 ;How long in milliseconds it took during startup for the application to restore tabs from the previous session
-How long in milliseconds it took during startup for the application to restore tabs from the previous session
+Cá fhad a bhí sé sular athchóirigh an feidhmchlár na cluaisíní ón seisiún roimhe seo, i milleasoicindí
 
 
 ;The number of times the application was run and not cleanly shut down.
-The number of times the application was run and not cleanly shut down.
+Líon na n-uaireanta a tosaíodh an feidhmchlár gan é a bheith múchta mar is ceart.
 
 
 ;The time in seconds that the aborted sessions were not idle
-The time in seconds that the aborted sessions were not idle
+Cá fhad a bhí na seisiúin tobscortha gníomhach, i soicindí
 
 
 ;The time in seconds that the aborted sessions were running
-The time in seconds that the aborted sessions were running
+Cá fhad a bhí na seisiúin tobscortha ar siúl, i soicindí
 
 
 ;The number of days since this application profile directory was created
@@ -363,31 +363,31 @@ Laethanta ó cruthaíodh an chomhadlann phróifíle seo
 
 
 ;The number of times the application was run and cleanly shut down.
-The number of times the application was run and cleanly shut down.
+Líon na n-uaireanta a tosaíodh an feidhmchlár agus a bhí sé múchta mar is ceart.
 
 
 ;The time in seconds that the completed sessions were not idle
-The time in seconds that the completed sessions were not idle
+Cá fhad a bhí na seisiúin chríochnaithe gníomhach, i soicindí
 
 
 ;The time in seconds that the completed sessions were running
-The time in seconds that the completed sessions were running
+Cá fhad a bhí na seisiúin chríochnaithe ar siúl, i soicindí
 
 
 ;Total number of crashes that were recorded but not yet submitted
-Total number of crashes that were recorded but not yet submitted
+Líon na dtuairteanna a bhí taifeadta ach gan seoladh fós
 
 
 ;Total number of crashes that have been submitted
-Total number of crashes that have been submitted
+Líon na dtuairteanna a bhí seolta
 
 
 ;Time in seconds the app has not been idle
-Time in seconds the app has not been idle
+Cá fhad atá an feidhmchlár gníomhach, i soicindí
 
 
 ;Time in seconds since the app was last started
-Time in seconds since the app was last started
+Cá fhad ó tosaíodh an feidhmchlár
 
 
 ;Total number of bookmarks
@@ -399,7 +399,7 @@ Líon iomlán na leathanach sa stair
 
 
 ;How long in minutes the current session has been running
-How long in minutes the current session has been running
+Cá fhad atá an seisiún reatha ar siúl, i nóiméid
 
 
 ;Welcome to your Firefox Health Report
