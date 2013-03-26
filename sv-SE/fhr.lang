@@ -1,420 +1,420 @@
 ;Firefox Health Report
-Firefox Health Report
+Hälsorapport för Firefox
 
 
 ;Raw Data
-Raw Data
+Rådata
 
 
 ;Get insights and performance information about your version of Firefox.
-Get insights and performance information about your version of Firefox.
+Få insyn i och prestandainformation om din version av Firefox.
 
 
 ;Learn more...
-Learn more...
+Läs mer …
 
 
 ;Data Sharing
-Data Sharing
+Datadelning
 
 
 ;ON
-ON
+PÅ
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
-You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
+Du har valt att sluta dela data med Mozilla, men du kommer fortfarande att kunna se hur din webbläsare presterar.
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
-Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
+Din hälsorapportdata kommer även att tas bort från Mozillas servrar. Läs mer i vår <a href="%(privacy_url)s">sekretesspolicy.</a>
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
-You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
+Du har valt att då och då dela din data med Mozilla. Tusen tack för att du deltar i vårt arbete med att skapa en ljusare framtid för webben.
 
 
 ;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
-Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
+Läs i vår <a href="%(privacy_url)s">sekretesspolicy</a> om hur vi hanterar din data.
 
 
 ;Vital Stats
-Vital Stats
+Viktig statistik
 
 
 ;version
-version
+version {ok}
 
 
 ;time open
-time open
+körtid
 
 
 ;last crash
-last crash
+senaste krasch
 
 
 ;bookmarks
-bookmarks
+bokmärken
 
 
 ;This Month
-This Month
+Den här månaden
 
 
 ;crashes
-crashes
+krascher
 
 
 ;Add-ons
-Add-ons
+Tillägg
 
 
 ;View List
-View List
+Visa lista
 
 
 ;enabled
-enabled
+aktiverat
 
 
 ;disabled
-disabled
+inaktiverat
 
 
 ;Plugins
-Plugins
+Insticksmoduler
 
 
 ;Tips
-Tips
+Tips {ok}
 
 
 ;Wear and Tear
-Wear and Tear
+Slitage
 
 
 ;It looks like your browser has crashed a number of times recently. To learn more:
-It looks like your browser has crashed a number of times recently. To learn more:
+Det ser ut som att din webbläsare har kraschat flera gånger på senare tid. För mer information:
 
 
 ;OFF
-OFF
+AV
 
 
 ;Visit our <a href="%(sumo_url)s">support website</a>
-Visit our <a href="%(sumo_url)s">support website</a>
+Gå till vår <a href="%(sumo_url)s">supportwebbplats</a>
 
 
 ;View more <a href="%(details_url)s">detailed information</a>
-View more <a href="%(details_url)s">detailed information</a>
+Visa <a href="%(details_url)s">detaljerad information</a>
 
 
 ;pages visited
-pages visited
+besökta sidor
 
 
 ;Your browser seems to be running slower than usual. To learn more:
-Your browser seems to be running slower than usual. To learn more:
+Din webbläsare verkar köra långsammare än vanligt. För mer information:
 
 
 ;You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
-You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
+Du kommer att kunna se intressantare och mer detaljerad information ju mer du använder din webbläsare. Om du kommer tillbaka hit om några veckor, så kan du börja se trender och tendenser.
 
 
 ;Startup Time by Day
-Startup Time by Day
+Tidsåtgång för programstart, per dag
 
 
 ;Graph:
-Graph:
+Diagram:
 
 
 ;Average
-Average
+Genomsnitt
 
 
 ;All
-All
+Alla
 
 
 ;Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
-Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
+Tidsåtgången för programstart hjälper dig att avgöra hur bra din version av Firefox presterar. Som en tumregel gäller att ju snabbare tider (d.v.s. kortare tidsåtgång) desto bättre prestanda.
 
 
 ;Data Collected
-Data Collected
+Insamlad data
 
 
 ;Glossary
-Glossary
+Ordlista
 
 
 ;What the Firefox Health Report Measures
-What the Firefox Health Report Measures
+Vad Firefox hälsorapport mäter
 
 
 ;The Firefox Health Report (FHR) has 5 categories of metrics:
-The Firefox Health Report (FHR) has 5 categories of metrics:
+Firefox hälsorapport (FHR) gör mätningar inom 5 områden:
 
 
 ;Configuration
-Configuration
+Konfiguration
 
 
 ;Device hardware, operating system, Firefox version
-Device hardware, operating system, Firefox version
+Enhetens maskinvara, operativsystem, Firefoxversion
 
 
 ;Customizations
-Customizations
+Anpassningar
 
 
 ;Add-ons, count and type
-Add-ons, count and type
+Tillägg, antal och typer
 
 
 ;Performance
-Performance
+Prestanda
 
 
 ;Timing of browser events, rendering, session restores
-Timing of browser events, rendering, session restores
+Tidsåtgång för webbläsarhändelser, rendering, sessionsåterställningar
 
 
 ;Length of session, how old a profile is, count of crashes, count of pages
-Length of session, how old a profile is, count of crashes, count of pages
+Sessionslängd, hur gammal en profil är, antal krascher, antal sidor
 
 
 ;Detailed Description
-Detailed Description
+Detaljerad beskrivning
 
 
 ;Metric
-Metric
+Mått
 
 
 ;Description
-Description
+Beskrivning
 
 
 ;Binary interface for XPCOM
-Binary interface for XPCOM
+Binärt gränssnitt för XPCOM
 
 
 ;Identifier for this build of the application based on the date the build was started
-Identifier for this build of the application based on the date the build was started
+Identifierare för denna version av programmet, baserat på det datum som versionsbygget påbörjades
 
 
 ;Operating System for which this build was configured
-Operating System for which this build was configured
+Operativsystem för vilket denna version konfigurerades
 
 
 ;Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
-Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
+Identifierare för distributionen av det program som används. Värdet tas från inställningen <var>distribution.id</var>
 
 
 ;Version of the distribution, taken from the <var>distribution.version</var> preference
-Version of the distribution, taken from the <var>distribution.version</var> preference
+Distributionens version. Värdet tas från inställningen <var>distribution.version</var>
 
 
 ;The version number of any Mozilla hotfix applied to the application
-The version number of any Mozilla hotfix applied to the application
+Versionsnummer för en Mozilla-snabbkorrigering, om någon sådan har tillämpats på programmet
 
 
 ;Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
-Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
+Unik programidentifierare som visar om det är Firefox, Thunderbird, etc. Delas av alla installationer av ett program oavsett värdet för programnamnet (<var>appName</var>)
 
 
 ;The configured name of the application (Firefox/Aurora/Nightly for instance)
-The configured name of the application (Firefox/Aurora/Nightly for instance)
+Det konfigurerade namnet på programmet (t.ex. Firefox/Aurora/Nightly)
 
 
 ;The channel this installation checks for application updates (nightly/aurora/beta/release)
-The channel this installation checks for application updates (nightly/aurora/beta/release)
+Den kanal på vilken den här installationen söker efter programuppdateringar (nightly/aurora/beta/release)
 
 
 ;The name of the company/provider who built this version
-The name of the company/provider who built this version
+Namnet på det företag/den leverantör som byggde den här versionen
 
 
 ;The current version of the product
-The current version of the product
+Produktens aktuella version
 
 
 ;Number of processor cores
-Number of processor cores
+Antal processorkärnor
 
 
 ;Whether the application is currently configured to be the default browser for the operating system
-Whether the application is currently configured to be the default browser for the operating system
+Huruvida programmet för närvarande är konfigurerat att vara operativsystemets standardwebbläsare
 
 
 ;Locale currently being used
-Locale currently being used
+Den översättning som för närvarande används
 
 
 ;Amount of RAM in megabytes
-Amount of RAM in megabytes
+RAM-minnets storlek (MB)
 
 
 ;Currently running Operating System (kernel) name
-Currently running Operating System (kernel) name
+Namn på det operativsystem (kernel) som för närvarande körs
 
 
 ;Currently running Operating System (kernel) version
-Currently running Operating System (kernel) version
+Version av det operativsystem (kernel) som för närvarande körs
 
 
 ;The build identifier of the Gecko platform code
-The build identifier of the Gecko platform code
+Versionsidentifierare för Geckos plattformskod
 
 
 ;The version of the Gecko platform code
-The version of the Gecko platform code
+Version av Geckos plattformskod
 
 
 ;Processor architecture
-Processor architecture
+Processorarkitektur
 
 
 ;The date this version was first used with this installation profile
-The date this version was first used with this installation profile
+Det datum denna version första gången användes med denna installationsprofil
 
 
 ;An application version which has been used with this installation profile
-An application version which has been used with this installation profile
+En programversion som har använts med denna installationsprofil
 
 
 ;The number of add-ons of this type that existed in the profile on this date
-The number of add-ons of this type that existed in the profile on this date
+Antalet tillägg av denna typ som fanns i profilen vid detta datum
 
 
 ;<var>True</var> if the application automatically disabled the add-on
-<var>True</var> if the application automatically disabled the add-on
+<var>True</var> (sant) om programmet inaktiverade tillägget automatiskt
 
 
 ;Whether this add-on was installed by the user or automatically by another application
-Whether this add-on was installed by the user or automatically by another application
+Huruvida detta tillägg installerades av användaren eller automatiskt av ett annat program
 
 
 ;Whether this add-on has native code.
-Whether this add-on has native code.
+Huruvida detta tillägg har intern kod.
 
 
 ;The identifier of this add-on as defined by the add-on developer
-The identifier of this add-on as defined by the add-on developer
+Identifierare för detta tillägg definierad av tilläggets utvecklare
 
 
 ;The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
-The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
+Det senaste datumet som detta tillägg installerades (information om tidigare avinstallerat tillägg sparas inte).
 
 
 ;The number of searches performed with this search engine from this part of the UI
-The number of searches performed with this search engine from this part of the UI
+Antal sökningar som utförts med denna sökmotor från den här delen av användargränssnittet
 
 
 ;Whether this add-on was installed in the application directory or profile directory
-Whether this add-on was installed in the application directory or profile directory
+Huruvida detta tillägg installerades i programmappen eller profilmappen
 
 
 ;Whether this add-on is an extension or a plug-in
-Whether this add-on is an extension or a plug-in
+Huruvida detta tillägg är en programutökning eller en insticksmodul
 
 
 ;The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
-The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
+Det senaste datumet som detta tillägg uppdaterades (information om tidigare avinstallerat tillägg sparas inte).
 
 
 ;<var>True</var> if the user manually disabled the add-on
-<var>True</var> if the user manually disabled the add-on
+<var>True</var> (sant) om användaren inaktiverade tillägget manuellt
 
 
 ;The current version of this add-on
-The current version of this add-on
+Aktuell version av detta tillägg
 
 
 ;How long in milliseconds it took during startup for the application to render the UI and display the window
-How long in milliseconds it took during startup for the application to render the UI and display the window
+Den tidsperiod (ms) det tog för programmet att under programstarten rendera användargränssnittet och visa fönstret
 
 
 ;How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
-How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
+Den tidsperiod (ms) det tog för programmet att under programstarten läsa in bibliotek och slutföra grundläggande initiering
 
 
 ;How long in milliseconds it took during startup for the application to restore tabs from the previous session
-How long in milliseconds it took during startup for the application to restore tabs from the previous session
+Den tidsperiod (ms) det tog för programmet att under programstarten återställa flikar från föregående session
 
 
 ;The number of times the application was run and not cleanly shut down.
-The number of times the application was run and not cleanly shut down.
+Det antal gånger som programmet har körts och inte avslutats på korrekt sätt.
 
 
 ;The time in seconds that the aborted sessions were not idle
-The time in seconds that the aborted sessions were not idle
+Den tidsperiod (s) som de avbrutna sessionerna inte var inaktiva
 
 
 ;The time in seconds that the aborted sessions were running
-The time in seconds that the aborted sessions were running
+Den tidsperiod (s) som de avbrutna sessionerna kördes
 
 
 ;The number of days since this application profile directory was created
-The number of days since this application profile directory was created
+Antalet dagar sedan denna programprofilmapp skapades
 
 
 ;The number of times the application was run and cleanly shut down.
-The number of times the application was run and cleanly shut down.
+Det antal gånger som programmet har körts och avslutats på korrekt sätt.
 
 
 ;The time in seconds that the completed sessions were not idle
-The time in seconds that the completed sessions were not idle
+Den tidsperiod (s) som de slutförda sessionerna inte var inaktiva
 
 
 ;The time in seconds that the completed sessions were running
-The time in seconds that the completed sessions were running
+Den tidsperiod (s) som de slutförda sessionerna kördes
 
 
 ;Total number of crashes that were recorded but not yet submitted
-Total number of crashes that were recorded but not yet submitted
+Det totala antalet krascher som registrerades, men som ännu inte har skickats in
 
 
 ;Total number of crashes that have been submitted
-Total number of crashes that have been submitted
+Det totala antalet krascher som har skickats in
 
 
 ;Time in seconds the app has not been idle
-Time in seconds the app has not been idle
+Den tidsperiod (s) som programmet inte var inaktivt
 
 
 ;Time in seconds since the app was last started
-Time in seconds since the app was last started
+Den tidsperiod (s) som förflutit sedan programmet senast startades
 
 
 ;Total number of bookmarks
-Total number of bookmarks
+Det totala antalet bokmärken
 
 
 ;Total number of pages listed in the history
-Total number of pages listed in the history
+Det totala antalet sidor som listas i historiken
 
 
 ;How long in minutes the current session has been running
-How long in minutes the current session has been running
+Den tidsperiod (min) som den aktuella sessionen har körts
 
 
 ;Welcome to your Firefox Health Report
-Welcome to your Firefox Health Report
+Välkommen till din hälsorapport för Firefox
 
 
 ;Welcome!
-Welcome!
+Välkommen!
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
-Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
+Hälsorapporten för Firefox talar om för dig hur din Firefox presterar och vad du kan göra för att förbättra prestandan.
 
 
 ;See My Report
-See My Report
+Visa min rapport
 
 
