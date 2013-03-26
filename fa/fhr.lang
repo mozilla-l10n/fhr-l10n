@@ -1,21 +1,21 @@
 ;Firefox Health Report
-Firefox Health Report
+گزارش سلامتی فایرفاکس
 
 
 ;Raw Data
-Raw Data
+اطلاعات خام
 
 
 ;Get insights and performance information about your version of Firefox.
-Get insights and performance information about your version of Firefox.
+اطلاعات مربوط به کارایی نسخه فایرفاکس خود را دریافت کنید.
 
 
 ;Learn more...
-Learn more...
+اطلاعات بیشتر...
 
 
 ;Data Sharing
-Data Sharing
+اشتراک‌گذاری داده‌ها
 
 
 ;ON
@@ -23,71 +23,71 @@ ON
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
-You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
+شما تصمیم گرفته‌اید که اطلاعات خود را با موزیلا به‌اشتراک نگذارید، با این حال هنوز می‌توانید ببینید که مرورگر شما چگونه عمل می‌کند.
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
-Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
+همچنین گزارش سلامتی شما از کارگزارهای موزیلا حذف خواهند شد. اطلاعات بیشتر را در <a href="%(privacy_url)s">سیاست‌های حریم خصوصی</a> ما ببینید.
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
-You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
+شما تصمیم گرفته‌اید که اطلاعات خود را هر از گاهی با موزیلا به‌اشتراک بگذارید. به خاطر اینکه بخشی از ماموریت ما برای ساختن آینده‌ای روشن‌تر برای وب هستید، از شما متشکریم.
 
 
 ;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
-Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
+در مورد اینکه ما چطور از اطلاعات شما استفاده می‌کنیم در <a href="%(privacy_url)s">سیاست‌های حریم خصوصی</a> بخوانید.
 
 
 ;Vital Stats
-Vital Stats
+آمارهای حیاتی
 
 
 ;version
-version
+نسخه
 
 
 ;time open
-time open
+زمان باز بودن
 
 
 ;last crash
-last crash
+آخرین فروپاشی
 
 
 ;bookmarks
-bookmarks
+نشانک‌ها
 
 
 ;This Month
-This Month
+این ماه
 
 
 ;crashes
-crashes
+فروپاشی‌ها
 
 
 ;Add-ons
-Add-ons
+متصل‌شونده‌ها
 
 
 ;View List
-View List
+نمایش فهرست
 
 
 ;enabled
-enabled
+فعال
 
 
 ;disabled
-disabled
+غیرفعال
 
 
 ;Plugins
-Plugins
+افزونه‌ها
 
 
 ;Tips
-Tips
+نکته‌ها
 
 
 ;Wear and Tear
@@ -95,7 +95,7 @@ Wear and Tear
 
 
 ;It looks like your browser has crashed a number of times recently. To learn more:
-It looks like your browser has crashed a number of times recently. To learn more:
+به‌نظر می‌رسد مرورگر شما اخیرا چند باری فروپاشیده است. برای اطلاعات بیشتر:
 
 
 ;OFF
@@ -103,318 +103,316 @@ OFF
 
 
 ;Visit our <a href="%(sumo_url)s">support website</a>
-Visit our <a href="%(sumo_url)s">support website</a>
+<a href="%(sumo_url)s">پایگاه پشتیبانی</a> ما را ببینید
 
 
 ;View more <a href="%(details_url)s">detailed information</a>
-View more <a href="%(details_url)s">detailed information</a>
+نمایش <a href="%(details_url)s">اطلاعات جزئی‌تر</a>
 
 
 ;pages visited
-pages visited
+صفحات مرور شده
 
 
 ;Your browser seems to be running slower than usual. To learn more:
-Your browser seems to be running slower than usual. To learn more:
+به‌نظر می‌رسد مرورگر شما کندتر از همیشه اجرا می‌شود. برای اطلاعات بیشتر:
 
 
 ;You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
-You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
+هر چه بیشتر از مرورگر خود استفاده کنید می‌توانید اطلاعات جالب‌تر و جزئی‌تری را ببینید. دوباره بعد از چند هفته بررسی کنید تا روندهای جذابی را ببینید.
 
 
 ;Startup Time by Day
-Startup Time by Day
+زمان اجرا بر اساس روز
 
 
 ;Graph:
-Graph:
+نمودار:
 
 
 ;Average
-Average
+میانگین
 
 
 ;All
-All
+همه
 
 
 ;Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
-Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
+زمان اجرا مشخص می‌کند که چه میزان عملکرد نسخه فایرفاکس شما مناسب است. به‌طور کلی، زمان‌های سریع‌تر (مثلا مدت کمتر) نشان‌دهنده عملکرد بهتر است.
 
 
 ;Data Collected
-Data Collected
+داده‌های جمع‌آوری شده
 
 
 ;Glossary
-Glossary
+واژه‌نامه
 
 
 ;What the Firefox Health Report Measures
-What the Firefox Health Report Measures
+مواردی که گزارش سلامتی فایرفاکس اندازه می‌گیرد
 
 
 ;The Firefox Health Report (FHR) has 5 categories of metrics:
-The Firefox Health Report (FHR) has 5 categories of metrics:
+گزارش سلامتی فایرفاکس (FHR) دارای ۵ دسته‌بندی اندازه‌گیری است:
 
 
 ;Configuration
-Configuration
+پیکربندی
 
 
 ;Device hardware, operating system, Firefox version
-Device hardware, operating system, Firefox version
+سخت‌افزار دستگاه، سیستم‌عامل، نسخه فایرفاکس
 
 
 ;Customizations
-Customizations
+سفارشی‌سازی‌ها
 
 
 ;Add-ons, count and type
-Add-ons, count and type
+متصل‌شونده‌ها، تعداد و نوع
 
 
 ;Performance
-Performance
+کارایی
 
 
 ;Timing of browser events, rendering, session restores
-Timing of browser events, rendering, session restores
+زمان‌سنجی رویدادهای مرورگر، ترجمه اطلاعات، بازیابی نشست‌ها
 
 
 ;Length of session, how old a profile is, count of crashes, count of pages
-Length of session, how old a profile is, count of crashes, count of pages
+طول نشست، چقدر مجموعه‌تنظیمات قدیمی است، تعداد فروپاشی‌ها، تعداد صفحات
 
 
 ;Detailed Description
-Detailed Description
+توضیحات جزئی‌تر
 
 
 ;Metric
-Metric
+استاندارد اندازه‌گیری
 
 
 ;Description
-Description
+توضیح
 
 
 ;Binary interface for XPCOM
-Binary interface for XPCOM
+واسط باینری برای XPCOM
 
 
 ;Identifier for this build of the application based on the date the build was started
-Identifier for this build of the application based on the date the build was started
+شناسه مربوط به این ساخت از برنامه بر اساس تاریخی که این ساخت شروع شده است
 
 
 ;Operating System for which this build was configured
-Operating System for which this build was configured
+سیستم‌عاملی که این ساخت برای آن پیکربندی شده است
 
 
 ;Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
-Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
+شناسه مربوط به یک توزیع خاص از برنامه که در حال استفاده است. این شناسه از ترجیحات <var>distribution.id</var> گرفته شده است
 
 
 ;Version of the distribution, taken from the <var>distribution.version</var> preference
-Version of the distribution, taken from the <var>distribution.version</var> preference
+نسخه توزیع، که از ترجیحات <var>distribution.version</var> گرفته شده است
 
 
 ;The version number of any Mozilla hotfix applied to the application
-The version number of any Mozilla hotfix applied to the application
+عدد نسخه‌ی هر hotfix موزیلا که بر روی برنامه اعمال شده است
 
 
 ;Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
-Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
+شناسه‌ای که مختص برنامه است و نشان می‌دهد مثلا فایرفاکس است یا تاندربرد. برای تمام برپاسازی‌های برنامه بدون درنظر گرفتن مقدار <var>appName</var> یکسان است.
 
 
 ;The configured name of the application (Firefox/Aurora/Nightly for instance)
-The configured name of the application (Firefox/Aurora/Nightly for instance)
+نام پیکربندی شده‌ی برنامه (فایرفاکس/آئورا/شبانه برای مثال)
 
 
 ;The channel this installation checks for application updates (nightly/aurora/beta/release)
-The channel this installation checks for application updates (nightly/aurora/beta/release)
+کانالی که این برپاسازی جهت بروزرسانی‌ها بررسی می‌کند (شبانه/آئورا/بتا/انتشار)
 
 
 ;The name of the company/provider who built this version
-The name of the company/provider who built this version
+نام شرکت/ارائه‌دهنده‌ای که این نسخه را ساخته است
 
 
 ;The current version of the product
-The current version of the product
+نسخه فعلی محصول
 
 
 ;Number of processor cores
-Number of processor cores
+تعداد هسته‌های پردازنده
 
 
 ;Whether the application is currently configured to be the default browser for the operating system
-Whether the application is currently configured to be the default browser for the operating system
+اینکه آیا برنامه در حال حاضر برای مرورگر پیش‌فرض سیستم‌عامل بودن، پیکربندی شده است یا خیر
 
 
 ;Locale currently being used
-Locale currently being used
+محلی که در حال حاضر در حال استفاده است
 
 
 ;Amount of RAM in megabytes
-Amount of RAM in megabytes
+مقدار RAM به مگابایت
 
 
 ;Currently running Operating System (kernel) name
-Currently running Operating System (kernel) name
+نام سیستم‌عامل (هسته) در حال اجرا فعلی
 
 
 ;Currently running Operating System (kernel) version
-Currently running Operating System (kernel) version
+نسخه سیستم‌عامل (هسته) در حال اجرا فعلی
 
 
 ;The build identifier of the Gecko platform code
-The build identifier of the Gecko platform code
+شناسه ساخت کد بستر Gecko
 
 
 ;The version of the Gecko platform code
-The version of the Gecko platform code
+نسخه کد بستر Gecko
 
 
 ;Processor architecture
-Processor architecture
+معماری پردازنده
 
 
 ;The date this version was first used with this installation profile
-The date this version was first used with this installation profile
+تاریخی که این نسخه برای بار اول توسط این برپاسازیِ مجموعه‌تنظیمات استفاده شده است
 
 
 ;An application version which has been used with this installation profile
-An application version which has been used with this installation profile
+یک نسخه برنامه که توسط این برپاسازیِ مجموعه‌تنظیمات استفاده می‌شده است
 
 
 ;The number of add-ons of this type that existed in the profile on this date
-The number of add-ons of this type that existed in the profile on this date
+تعداد متصل‌شونده‌های از این نوع که در تاریخ کنونی در این مجموعه‌تنظیمات وجود دارند
 
 
 ;<var>True</var> if the application automatically disabled the add-on
-<var>True</var> if the application automatically disabled the add-on
+<var>درست</var> اگر که برنامه به‌طور خودکار متصل‌شونده را غیرفعال کرده است
 
 
 ;Whether this add-on was installed by the user or automatically by another application
-Whether this add-on was installed by the user or automatically by another application
+اینکه آیا این متصل‌شونده توسط کاربر نصب شده است و یا به‌طور خودکار توسط یک برنامه دیگر
 
 
 ;Whether this add-on has native code.
-Whether this add-on has native code.
+اینکه آیا این متصل‌شونده دارای کدهای محلی است یا خیر.
 
 
 ;The identifier of this add-on as defined by the add-on developer
-The identifier of this add-on as defined by the add-on developer
+شناسه این متصل‌شونده بر اساس آنچه توسعه‌دهنده متصل‌شونده تعریف کرده است
 
 
 ;The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
-The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
+آخرین تاریخ اخیری که این متصل‌شونده نصب شده بوده است (اطلاعات قبلی در خصوص متصل‌شونده‌های پاک شده نگهداری نمی‌شوند).
 
 
 ;The number of searches performed with this search engine from this part of the UI
-The number of searches performed with this search engine from this part of the UI
+تعداد دفعاتی که از این موتور جست‌وجو از این قسمت واسط کاربری برای جست‌وجو استفاده شده است
 
 
 ;Whether this add-on was installed in the application directory or profile directory
-Whether this add-on was installed in the application directory or profile directory
+اینکه آیا این متصل‌شونده در شاخه برنامه نصب شده است یا در شاخه مجموعه‌تنظیمات
 
 
 ;Whether this add-on is an extension or a plug-in
-Whether this add-on is an extension or a plug-in
+اینکه آیا این متصل‌شونده یک گسترش‌دهنده است یا یک افزونه
 
 
 ;The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
-The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
+آخرین تاریخ که این متصل‌شونده بروزرسانی شده است (اطلاعات قبلی در خصوص متصل‌شونده‌های پاک شده نگهداری نمی‌شوند).
 
 
 ;<var>True</var> if the user manually disabled the add-on
-<var>True</var> if the user manually disabled the add-on
+<var>درست</var> اگر که کاربر متصل‌شونده را دستی غیرفعال کرده است
 
 
 ;The current version of this add-on
-The current version of this add-on
+نسخه فعلی این متصل‌شونده
 
 
 ;How long in milliseconds it took during startup for the application to render the UI and display the window
-How long in milliseconds it took during startup for the application to render the UI and display the window
+چه مدتی بر اساس میلی‌ثانیه در زمان آغاز بکار برای برنامه طول کشیده است تا واسط کاربری را ترجمه و پنجره را نمایش دهد
 
 
 ;How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
-How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
+چه مدتی بر اساس میلی‌ثانیه در زمان آغاز بکار برای برنامه طول کشیده است تا کتابخانه‌ها را بار کند و آماده‌سازی اولیه را به پایان برساند
 
 
 ;How long in milliseconds it took during startup for the application to restore tabs from the previous session
-How long in milliseconds it took during startup for the application to restore tabs from the previous session
+چه مدتی بر اساس میلی‌ثانیه در زمان آغاز بکار برای برنامه طول کشیده است تا زبانه‌های نشست قبلی را بازآوری کند
 
 
 ;The number of times the application was run and not cleanly shut down.
-The number of times the application was run and not cleanly shut down.
+تعداد دفعاتی که برنامه درحال اجرا بوده است و به‌طور بی‌نقص خاموش نشده است.
 
 
 ;The time in seconds that the aborted sessions were not idle
-The time in seconds that the aborted sessions were not idle
+زمان بر اساس ثانیه که نشست‌های ناکامل بی‌کار نبوده‌اند
 
 
 ;The time in seconds that the aborted sessions were running
-The time in seconds that the aborted sessions were running
+زمان بر اساس ثانیه که نشست‌های ناکامل اجرا شده‌اند
 
 
 ;The number of days since this application profile directory was created
-The number of days since this application profile directory was created
+تعداد روزهایی که شاخه مجموعه‌تنظیمات ساخته شده است
 
 
 ;The number of times the application was run and cleanly shut down.
-The number of times the application was run and cleanly shut down.
+تعداد دفعاتی که برنامه درحال اجرا بوده است و به‌طور بی‌نقصی خاموش شده است.
 
 
 ;The time in seconds that the completed sessions were not idle
-The time in seconds that the completed sessions were not idle
+زمان بر اساس ثانیه که نشستِ کامل شده بی‌کار نبوده است
 
 
 ;The time in seconds that the completed sessions were running
-The time in seconds that the completed sessions were running
+زمان بر اساس ثانیه که نشستِ کامل شده در حال اجرا بوده است
 
 
 ;Total number of crashes that were recorded but not yet submitted
-Total number of crashes that were recorded but not yet submitted
+تعداد کل فروپاشی‌هایی که ضبط شده‌اند اما ثبت نشده‌اند
 
 
 ;Total number of crashes that have been submitted
-Total number of crashes that have been submitted
+تعداد کل فروپاشی‌هایی که ثبت شده‌اند
 
 
 ;Time in seconds the app has not been idle
-Time in seconds the app has not been idle
+زمان بر اساس ثانیه آخرین باری که برنامه بی‌کار نبوده است
 
 
 ;Time in seconds since the app was last started
-Time in seconds since the app was last started
+زمان بر اساس ثانیه آخرین باری که برنامه آخرین بار اجرا شده است
 
 
 ;Total number of bookmarks
-Total number of bookmarks
+تعداد کل نشانک‌ها
 
 
 ;Total number of pages listed in the history
-Total number of pages listed in the history
+تعداد کل صفحات فهرست شده در تاریخچه
 
 
 ;How long in minutes the current session has been running
-How long in minutes the current session has been running
+چه مدتی بر اساس دقیقه نشست فعلی اجرا می‌شده است
 
 
 ;Welcome to your Firefox Health Report
-Welcome to your Firefox Health Report
+به گزارش سلامتی فایرفاکس خود خوش‌آمدید
 
 
 ;Welcome!
-Welcome!
+خوش‌آمدید!
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
-Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
+گزارش سلامتی فایرفاکس به شما اجازه می‌دهد از نحوه عملکرد فایرفاکس خود و چگونگی افزایش کارایی‌اش، اطلاع پیدا کنید.
 
 
 ;See My Report
-See My Report
-
-
+گزارش من را ببینید
