@@ -387,7 +387,7 @@ Die Zeit in Sekunden, in der die Anwendung aktiv verwendet wurde
 
 
 ;Time in seconds since the app was last started
-Zeit in Sekunden, seit die Anwendung zuletzt gestartet wurde
+Die Zeit in Sekunden, seit die Anwendung zuletzt gestartet wurde
 
 
 ;Total number of bookmarks
@@ -399,7 +399,7 @@ Gesamtzahl der Seiten, die in der Chronik aufgeführt werden
 
 
 ;How long in minutes the current session has been running
-Zeit in Minuten, wie lange die aktuelle Sitzung läuft
+Dauer der aktuellen Sitzung in Minuten
 
 
 ;Welcome to your Firefox Health Report
