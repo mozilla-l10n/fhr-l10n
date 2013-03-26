@@ -1,5 +1,5 @@
 ;Firefox Health Report
-Firefox-Gesundheitsbericht
+Firefox-Statusbericht
 
 
 ;Raw Data
@@ -23,11 +23,11 @@ AN
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
-Sie haben beschlossen, keine Daten mehr an Mozilla weiterzugeben, aber Sie sehen trotzdem noch die Leistung Ihre Browsers.
+Sie haben beschlossen, keine Daten mehr an Mozilla weiterzugeben, aber Sie können weiterhin die Leistung Ihres Browsers analysieren.
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
-Die Daten Ihres Gesundheitsberichts werden auch von den Mozilla-Servern entfernt. Erfahren Sie mehr in unserer <a href="%(privacy_url)s">Datenschutzerklärung.</a>
+Die Daten Ihres Statusberichts werden auch von den Mozilla-Servern entfernt. Erfahren Sie mehr in unserer <a href="%(privacy_url)s">Datenschutzerklärung.</a>
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
@@ -39,7 +39,7 @@ Wie wir mit Ihren Daten umgehen, erfahren Sie in unserer <a href="%(privacy_url)
 
 
 ;Vital Stats
-Vitalparameter
+Grundlegende Werte
 
 
 ;version
@@ -91,7 +91,7 @@ Tipps
 
 
 ;Wear and Tear
-Abnutzung
+Nutzung
 
 
 ;It looks like your browser has crashed a number of times recently. To learn more:
@@ -127,7 +127,7 @@ Startzeit nach Tag
 
 
 ;Graph:
-Graph: {ok}
+Diagramm:
 
 
 ;Average
@@ -139,7 +139,7 @@ Gesamt
 
 
 ;Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
-Mit der Startzeit wird gemessen, wie gut Ihre Firefox-Version läuft. Im Allgemeinen weisen kürzere Startzeiten (d.h. weniger Zeit) auf bessere Leistung hin.
+Mit der Startzeit wird gemessen, wie gut Ihre Firefox-Version läuft. Im Allgemeinen weisen kürzere Startzeiten (d.h. kürzere Zeit) auf bessere Leistung hin.
 
 
 ;Data Collected
@@ -151,11 +151,11 @@ Glossar
 
 
 ;What the Firefox Health Report Measures
-Was der Firefox-Gesundheitsbericht misst
+Was der Firefox-Statusbericht misst
 
 
 ;The Firefox Health Report (FHR) has 5 categories of metrics:
-Der Firefox-Gesundheitsbericht (FGB) verwendet 5 Maßkategorien:
+Der Firefox-Statusbericht (FSB) verwendet 5 Maßkategorien:
 
 
 ;Configuration
@@ -203,7 +203,7 @@ Binäre Schnittstelle für XPCOM
 
 
 ;Identifier for this build of the application based on the date the build was started
-Identifikator für diesen Build der Anwendung, basieren auf dem Datum, zu dem der Erstellungsprozess begonnen wurde
+Identifikator für diesen Build der Anwendung, basierend auf dem Datum, zu dem der Erstellungsprozess begonnen wurde
 
 
 ;Operating System for which this build was configured
@@ -219,7 +219,7 @@ Version der Distribution; stammt aus der Einstellung <var>distribution.version</
 
 
 ;The version number of any Mozilla hotfix applied to the application
-Die Versionsnummer einer Mozilla-Fehlerkorrektur für die Anwendung
+Die Versionsnummer einer installierten Mozilla-Fehlerkorrektur für die Anwendung
 
 
 ;Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
@@ -227,7 +227,7 @@ Eindeutiger Identifikator für die Anwendung, der anzeigt, ob es sich um Firefox
 
 
 ;The configured name of the application (Firefox/Aurora/Nightly for instance)
-Der Konfigurierte Name der Anwendung (zum Beispiel Firefox/Aurora/Nightly)
+Der konfigurierte Name der Anwendung (zum Beispiel Firefox/Aurora/Nightly)
 
 
 ;The channel this installation checks for application updates (nightly/aurora/beta/release)
@@ -267,11 +267,11 @@ Version des derzeit laufenden Betriebssystems (Kernel)
 
 
 ;The build identifier of the Gecko platform code
-Der Build-Identifikator des Quelltexts der Gecko-Plattform
+Der Build-Identifikator der Gecko-Plattform
 
 
 ;The version of the Gecko platform code
-Die Version des Quelltexts der Gecko-Plattform
+Die Version der Gecko-Plattform
 
 
 ;Processor architecture
@@ -287,11 +287,11 @@ Eine Version der Anwendung, die mit diesem Profil der Installation verwendet wur
 
 
 ;The number of add-ons of this type that existed in the profile on this date
-Die Zahl der Add-ons, die zu diesem Datum in diesem Profil vorhanden waren
+Die Zahl der Add-ons diesen Typs, die zu diesem Datum in diesem Profil vorhanden waren
 
 
 ;<var>True</var> if the application automatically disabled the add-on
-<var>True</var> (wahr), wenn die Anwendung das Add-on automatisch deaktiviert hat
+<var>True</var> (wahr), falls die Anwendung das Add-on automatisch deaktiviert hat
 
 
 ;Whether this add-on was installed by the user or automatically by another application
@@ -299,7 +299,7 @@ Ob dieses Add-on vom Anwender oder automatisch von einer anderen Anwendung insta
 
 
 ;Whether this add-on has native code.
-Ob dieses Add-on nativen Quelltext besitzt.
+Ob dieses Add-on nativen Binärcode besitzt.
 
 
 ;The identifier of this add-on as defined by the add-on developer
@@ -327,7 +327,7 @@ Das neueste Datum, zu dem dieses Add-on aktualisiertt wurde (vorherige Daten üb
 
 
 ;<var>True</var> if the user manually disabled the add-on
-<var>True</var> (wahr), wenn der Anwender das Add-on manuell deaktiviert hat
+<var>True</var> (wahr), falls der Anwender das Add-on manuell deaktiviert hat
 
 
 ;The current version of this add-on
@@ -347,19 +347,19 @@ Die Zeit in Millisekunden, die es beim Start der Anwendung dauerte, Tabs aus der
 
 
 ;The number of times the application was run and not cleanly shut down.
-Wie oft die Anwendung ausgeführt, aber nicht sauber beendet wurde.
+Wie oft die Anwendung ausgeführt, aber nicht sauber beendet wurde
 
 
 ;The time in seconds that the aborted sessions were not idle
-Die Zeit in Sekunden, in denen die abgebrochenen Sitzungen nicht untätig waren
+Die Zeit in Sekunden, in der die abgebrochenen Sitzungen aktiv verwendet wurden
 
 
 ;The time in seconds that the aborted sessions were running
-Die Zeit in Sekunden, in denen die abgebrochenen Sitzungen liefen
+Die Zeit in Sekunden, in der die abgebrochenen Sitzungen liefen
 
 
 ;The number of days since this application profile directory was created
-Die Tage, seitdem dieses Profilverzeichnis der Anwendung erstellt wurde
+Die Anzahl der Tage, seitdem dieses Profilverzeichnis der Anwendung erstellt wurde
 
 
 ;The number of times the application was run and cleanly shut down.
@@ -367,11 +367,11 @@ Wie oft diese Anwendung ausgeführt und sauber beendet wurde.
 
 
 ;The time in seconds that the completed sessions were not idle
-Die Zeit in Sekunden, in denen die abgeschlossenen Sitzungen nicht untätig waren
+Die Zeit in Sekunden, in der die abgeschlossenen Sitzungen aktiv verwendet wurden
 
 
 ;The time in seconds that the completed sessions were running
-Die Zeit in Sekunden, in denen die abgeschlossenen Sitzungen liefen
+Die Zeit in Sekunden, in der die abgeschlossenen Sitzungen liefen
 
 
 ;Total number of crashes that were recorded but not yet submitted
@@ -383,7 +383,7 @@ Gesamtzahl der Abstürze, die übermittelt wurden
 
 
 ;Time in seconds the app has not been idle
-Zeit in Sekunden, in denen die Anwendung nicht untätig war
+Die Zeit in Sekunden, in der die Anwendung aktiv verwendet wurde
 
 
 ;Time in seconds since the app was last started
@@ -395,7 +395,7 @@ Gesamtzahl der Lesezeichen
 
 
 ;Total number of pages listed in the history
-Gesamtzahl der Seiten, die derzeit in der Chronik aufgeführt werden
+Gesamtzahl der Seiten, die in der Chronik aufgeführt werden
 
 
 ;How long in minutes the current session has been running
@@ -403,7 +403,7 @@ Zeit in Minuten, wie lange die aktuelle Sitzung läuft
 
 
 ;Welcome to your Firefox Health Report
-Willkommen bei Ihren Firefox-Gesundheitsbericht
+Willkommen bei Ihrem Firefox-Statusbericht
 
 
 ;Welcome!
@@ -411,10 +411,10 @@ Willkommen!
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
-Der Firefox-Gesundheitsbericht zeigt Ihnen, wie gut Ihr Firefox läuft und wie sie das verbessern können.
+Der Firefox-Statusbericht zeigt Ihnen, wie gut Ihr Firefox läuft und wie Sie ihn verbessern können.
 
 
 ;See My Report
-Meinen Bericht anzeigen
+Bericht für meinen Firefox anzeigen
 
 
