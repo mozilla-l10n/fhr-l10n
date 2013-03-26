@@ -1,105 +1,105 @@
 ;Firefox Health Report
-Firefox Health Report
+Sanraporto de Firefox
 
 
 ;Raw Data
-Raw Data
+Krudaj datumoj
 
 
 ;Get insights and performance information about your version of Firefox.
-Get insights and performance information about your version of Firefox.
+Sciu pli pri la efikeco de via versio de Firefox.
 
 
 ;Learn more...
-Learn more...
+Pli da informo...
 
 
 ;Data Sharing
-Data Sharing
+Divido de datumoj
 
 
 ;ON
-ON
+aktiva
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
-You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
+Vi decidis ne plu dividi datumojn kun Mozilla, sed vi povos vidi kiel fartas via retesplorilo.
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
-Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
+Ankaŭ la datumoj de via sanraporto estos forigitaj el la serviloj de Mozilla. Trovu pli da informo en nia <a href="%(privacy_url)s">politiko pri privateco.</a>
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
-You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
+Vi decidis dividi viajn datumojn kun Mozilla de tempo al tempo. Dankon por partopreni nian mision: konstrui pli brilan estontecon por la Teksaĵo.
 
 
 ;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
-Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
+Trovu pli da informo pri kiel ni traktas viajn datumojn en nia <a href="%(privacy_url)s">politko pri privateco.</a>
 
 
 ;Vital Stats
-Vital Stats
+Plej gravaj statistikoj
 
 
 ;version
-version
+versio
 
 
 ;time open
-time open
+malfermita de
 
 
 ;last crash
-last crash
+lasta paneo
 
 
 ;bookmarks
-bookmarks
+legosignoj
 
 
 ;This Month
-This Month
+Ĉi monate
 
 
 ;crashes
-crashes
+paneoj
 
 
 ;Add-ons
-Add-ons
+Aldonaĵoj
 
 
 ;View List
-View List
+Vidi liston
 
 
 ;enabled
-enabled
+aktivaj
 
 
 ;disabled
-disabled
+malaktivaj
 
 
 ;Plugins
-Plugins
+Kromprogramoj
 
 
 ;Tips
-Tips
+Konsiletoj
 
 
 ;Wear and Tear
-Wear and Tear
+Eluzado
 
 
 ;It looks like your browser has crashed a number of times recently. To learn more:
-It looks like your browser has crashed a number of times recently. To learn more:
+Ŝajnas ke via retesplorilo multe paneis lastatempe. Pli da informo:
 
 
 ;OFF
-OFF
+malaktiva
 
 
 ;Visit our <a href="%(sumo_url)s">support website</a>
@@ -111,11 +111,11 @@ View more <a href="%(details_url)s">detailed information</a>
 
 
 ;pages visited
-pages visited
+vizititaj paĝoj
 
 
 ;Your browser seems to be running slower than usual. To learn more:
-Your browser seems to be running slower than usual. To learn more:
+Via retesplorilo ŝajnas ruli siajn taskojn pli malrapide ol kutime. Pli da informo:
 
 
 ;You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
@@ -123,298 +123,298 @@ You'll be able to see more interesting and detailed information the more you use
 
 
 ;Startup Time by Day
-Startup Time by Day
+Tempo de starto laŭ tago
 
 
 ;Graph:
-Graph:
+Grafikaĵo:
 
 
 ;Average
-Average
+Meznombro
 
 
 ;All
-All
+Ĉiuj
 
 
 ;Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
-Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
+La tempo de starto helpas scii kiel bone fartas via versio de Firefox. Kutime, pli rapidaj startoj (tio estas malpli da tempo) indikas pli bonan efikecon.
 
 
 ;Data Collected
-Data Collected
+Kolektitaj datumoj
 
 
 ;Glossary
-Glossary
+Glosaro
 
 
 ;What the Firefox Health Report Measures
-What the Firefox Health Report Measures
+Kion mezuras la sanraporto de Firefox?
 
 
 ;The Firefox Health Report (FHR) has 5 categories of metrics:
-The Firefox Health Report (FHR) has 5 categories of metrics:
+La sanraporto de Firefox (angle FHR) havas kvin tipojn de mezuroj:
 
 
 ;Configuration
-Configuration
+Agordo
 
 
 ;Device hardware, operating system, Firefox version
-Device hardware, operating system, Firefox version
+Aparataro, mastruma sistemo, versio de Firefox
 
 
 ;Customizations
-Customizations
+Personaj agordoj
 
 
 ;Add-ons, count and type
-Add-ons, count and type
+Aldonaĵoj, nombro kaj tipoj
 
 
 ;Performance
-Performance
+Efikeco
 
 
 ;Timing of browser events, rendering, session restores
-Timing of browser events, rendering, session restores
+Mezuroj pri la funkciado de la retesplorilo, montrado, restartigo de seancoj
 
 
 ;Length of session, how old a profile is, count of crashes, count of pages
-Length of session, how old a profile is, count of crashes, count of pages
+Daŭro de seancoj, aĝo de profilo, nombro de paneoj, nombro de paĝoj
 
 
 ;Detailed Description
-Detailed Description
+Detala priskribo
 
 
 ;Metric
-Metric
+Mezuro
 
 
 ;Description
-Description
+Priskribo
 
 
 ;Binary interface for XPCOM
-Binary interface for XPCOM
+Duuma fasado por XPCOM
 
 
 ;Identifier for this build of the application based on the date the build was started
-Identifier for this build of the application based on the date the build was started
+Identigilo de la programo, surbaze de la dato de kompilado
 
 
 ;Operating System for which this build was configured
-Operating System for which this build was configured
+Mastruma sistemo laŭ kiu estis agordita tiu ĉi programo
 
 
 ;Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
-Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
+Identigilo por la aparta distribuo de la uzata programo. Ĝi estas prenita el la atributo <var>distribution.id</var>
 
 
 ;Version of the distribution, taken from the <var>distribution.version</var> preference
-Version of the distribution, taken from the <var>distribution.version</var> preference
+Versio de la distribuo, prenita el la atributo <var>distribution.version</var>
 
 
 ;The version number of any Mozilla hotfix applied to the application
-The version number of any Mozilla hotfix applied to the application
+La numero de versio de iu ajn korektaĵo aplikita de Mozilla al la programo
 
 
 ;Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
-Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
+Identigilo unika por la programo kiu indikas ĉu ĝi estas Firefox aŭ Thunderbird, ktp. Ĝi estas sama por ĉiuj instaladoj de la programo, malgraŭ la valoro de <var>appName</var>
 
 
 ;The configured name of the application (Firefox/Aurora/Nightly for instance)
-The configured name of the application (Firefox/Aurora/Nightly for instance)
+La agordita nomo de la programo (ekzemple Firefox/Aurora/Nightly)
 
 
 ;The channel this installation checks for application updates (nightly/aurora/beta/release)
-The channel this installation checks for application updates (nightly/aurora/beta/release)
+La kanalo kontrolita de tiu programo por trovi ĝisdatigojn (nightly/aurora/beta/release)
 
 
 ;The name of the company/provider who built this version
-The name of the company/provider who built this version
+La nomo de la kompanio kiu kreis tiun ĉi version
 
 
 ;The current version of the product
-The current version of the product
+La nuna versio de la programo
 
 
 ;Number of processor cores
-Number of processor cores
+Nombro de kernoj en ĉeftraktilo
 
 
 ;Whether the application is currently configured to be the default browser for the operating system
-Whether the application is currently configured to be the default browser for the operating system
+Ĉu la programo estas nun la norma retesplorilo por la mastruma sistemo
 
 
 ;Locale currently being used
-Locale currently being used
+Kodo de la lokaĵaro nuntempe uzata
 
 
 ;Amount of RAM in megabytes
-Amount of RAM in megabytes
+Kvanto de RAM en Mo
 
 
 ;Currently running Operating System (kernel) name
-Currently running Operating System (kernel) name
+Nomo de la nuna mastruma sistemo (kerno)
 
 
 ;Currently running Operating System (kernel) version
-Currently running Operating System (kernel) version
+Versio de la nuna mastruma sistemo (kerno)
 
 
 ;The build identifier of the Gecko platform code
-The build identifier of the Gecko platform code
+La identigilo de la kodo de soklo Gecko
 
 
 ;The version of the Gecko platform code
-The version of the Gecko platform code
+La versio de la kodo de soklo Gecko
 
 
 ;Processor architecture
-Processor architecture
+Arĥitekturo de traktilo
 
 
 ;The date this version was first used with this installation profile
-The date this version was first used with this installation profile
+La dato de unua uzado de tiu ĉi versio kun tiu ĉi profilo de instalado
 
 
 ;An application version which has been used with this installation profile
-An application version which has been used with this installation profile
+Versio de programo kiu estis uzita kun ti profilo de instalado
 
 
 ;The number of add-ons of this type that existed in the profile on this date
-The number of add-ons of this type that existed in the profile on this date
+La nombro de aldonaĵoj de tiu ĉi tipo, kiuj ekzistis en la profilo je tiu dato
 
 
 ;<var>True</var> if the application automatically disabled the add-on
-<var>True</var> if the application automatically disabled the add-on
+<var>Vera</var> se la programo aŭtomate malaktivigis la aldonaĵon
 
 
 ;Whether this add-on was installed by the user or automatically by another application
-Whether this add-on was installed by the user or automatically by another application
+Ĉu tiu ĉi aldonaĵo estis instalita de la uzanto aŭ aŭtomate de alia programo
 
 
 ;Whether this add-on has native code.
-Whether this add-on has native code.
+Ĉu tiu ĉi aldonaĵo havas nativan kodon.
 
 
 ;The identifier of this add-on as defined by the add-on developer
-The identifier of this add-on as defined by the add-on developer
+La identigilo de tiu ĉi aldonaĵo, laŭ ĝia disvolvanto
 
 
 ;The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
-The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
+La dato de la lasta instalado de tiu ĉi aldonaĵo (antaŭa informo pri malinstalita aldonaĵo ne estas konservita).
 
 
 ;The number of searches performed with this search engine from this part of the UI
-The number of searches performed with this search engine from this part of the UI
+La nombro de serĉoj faritaj de tiu ĉi serĉilo el tiu ĉi parto de la fasado
 
 
 ;Whether this add-on was installed in the application directory or profile directory
-Whether this add-on was installed in the application directory or profile directory
+Ĉu tiu ĉi aldonaĵo estis instalita en la dosierujo programa aŭ en la profila
 
 
 ;Whether this add-on is an extension or a plug-in
-Whether this add-on is an extension or a plug-in
+Ĉu tiu ĉi aldonaĵo estas etendaĵo aŭ kromprogramo
 
 
 ;The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
-The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
+La dato de la lasta ĝisdatigo de tiu ĉi aldonaĵo (antaŭa informo pri malinstalita aldonaĵo ne estas konservita).
 
 
 ;<var>True</var> if the user manually disabled the add-on
-<var>True</var> if the user manually disabled the add-on
+<var>Vera</var> se la uzanto permane malaktivigis la aldonaĵon
 
 
 ;The current version of this add-on
-The current version of this add-on
+La nuna versio de tiu ĉi aldonaĵo
 
 
 ;How long in milliseconds it took during startup for the application to render the UI and display the window
-How long in milliseconds it took during startup for the application to render the UI and display the window
+Milonsekundoj bezonataj dum starto de la programo por desegni la fasadon kaj montri la fenestron
 
 
 ;How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
-How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
+Milonsekundoj bezonataj dum starto de la programo por la ŝargado de bibliotekoj kaj bazajn valorojn
 
 
 ;How long in milliseconds it took during startup for the application to restore tabs from the previous session
-How long in milliseconds it took during startup for the application to restore tabs from the previous session
+Milonsekundoj bezonataj dum starto de la programo por restartigi langetojn de la antaŭa seanco
 
 
 ;The number of times the application was run and not cleanly shut down.
-The number of times the application was run and not cleanly shut down.
+Kiom da fojoj oni rulis la programon kaj ne finis ĝin bone.
 
 
 ;The time in seconds that the aborted sessions were not idle
-The time in seconds that the aborted sessions were not idle
+Tempo, en sekundoj, de aktiveco de la abortitaj seancoj
 
 
 ;The time in seconds that the aborted sessions were running
-The time in seconds that the aborted sessions were running
+Tempo, en sekundoj, de funkciado de la abortitaj seancoj
 
 
 ;The number of days since this application profile directory was created
-The number of days since this application profile directory was created
+Aĝo, en tagoj, ekde la kreado de la dosierujo profila
 
 
 ;The number of times the application was run and cleanly shut down.
-The number of times the application was run and cleanly shut down.
+Kiom da fojoj oni rulis la programon kaj finis ĝin bone.
 
 
 ;The time in seconds that the completed sessions were not idle
-The time in seconds that the completed sessions were not idle
+Tempo, en sekundoj, de aktiveco de la finitaj seancoj
 
 
 ;The time in seconds that the completed sessions were running
-The time in seconds that the completed sessions were running
+Tempo, en sekundoj, de funkciado de la finitaj seancoj
 
 
 ;Total number of crashes that were recorded but not yet submitted
-Total number of crashes that were recorded but not yet submitted
+Tuta nombro de ĉiuj paneoj registritaj sed kies raportoj ankoraŭ ne estis senditaj
 
 
 ;Total number of crashes that have been submitted
-Total number of crashes that have been submitted
+Tuta nombro de paneoj kies raportoj estis senditaj
 
 
 ;Time in seconds the app has not been idle
-Time in seconds the app has not been idle
+Tempo, en sekundoj, de aktiveco de la programo
 
 
 ;Time in seconds since the app was last started
-Time in seconds since the app was last started
+Tempo, en sekundoj, ekde la lasta starto de la programo
 
 
 ;Total number of bookmarks
-Total number of bookmarks
+Tuta nombro de legosignoj
 
 
 ;Total number of pages listed in the history
-Total number of pages listed in the history
+Tuta nombro de paĝoj listigitaj en la historio
 
 
 ;How long in minutes the current session has been running
-How long in minutes the current session has been running
+Daŭro, en minutoj, de funkciado de la nuna seanco
 
 
 ;Welcome to your Firefox Health Report
-Welcome to your Firefox Health Report
+Bonvenon al la sanraporto de Firefox
 
 
 ;Welcome!
-Welcome!
+Bonvenon!
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
-Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
+La sanraporto de Firefox permesas al vi scii kiel fartas via Firefox kaj kion fari por plibonigi tion.
 
 
 ;See My Report
-See My Report
+Vidi mian raporton
 
 
