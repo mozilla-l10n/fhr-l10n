@@ -1,141 +1,141 @@
 ;Firefox Health Report
-Firefox Health Report
+Tuairisc Shláinte Firefox
 
 
 ;Raw Data
-Raw Data
+Amhshonraí
 
 
 ;Get insights and performance information about your version of Firefox.
-Get insights and performance information about your version of Firefox.
+Faigh léargas ar fheidhmíocht an leagain Firefox atá agat.
 
 
 ;Learn more...
-Learn more...
+Tuilleadh Eolais...
 
 
 ;Data Sharing
-Data Sharing
+Comhroinnt Sonraí
 
 
 ;ON
-ON
+AR SIÚL
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
-You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
+Dúirt tú nár mhaith leat sonraí a sheoladh chuig Mhozilla, ach beidh tú ábalta feidhmíocht do bhrabhsálaí a iniúchadh mar sin féin.
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
-Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
+Scriosfar do chuid sonraí ó Thuairiscí Sláinte ó fhreastalaithe Mozilla. Faigh tuilleadh eolais sa <a href="%(privacy_url)s">bpolasaí príobháideachta.</a>
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
-You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
+Dúirt tú go mbeifeá sásta sonraí a chomhroinnt le Mozilla anois is arís. Go raibh maith agat as cabhrú linn feabhas a chur ar an nGréasán.
 
 
 ;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
-Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
+Faigh tuilleadh eolais faoi úsáid do chuid sonraí sa <a href="%(privacy_url)s">bpolasaí príobháideachta.</a>
 
 
 ;Vital Stats
-Vital Stats
+Staitisticí Bunúsacha
 
 
 ;version
-version
+leagan
 
 
 ;time open
-time open
+aga oscailte
 
 
 ;last crash
-last crash
+tuairteáil is déanaí
 
 
 ;bookmarks
-bookmarks
+leabharmharcanna
 
 
 ;This Month
-This Month
+An Mhí Seo
 
 
 ;crashes
-crashes
+tuairt
 
 
 ;Add-ons
-Add-ons
+Breiseáin
 
 
 ;View List
-View List
+Féach ar Liosta
 
 
 ;enabled
-enabled
+cumasaithe
 
 
 ;disabled
-disabled
+díchumasaithe
 
 
 ;Plugins
-Plugins
+Breiseáin
 
 
 ;Tips
-Tips
+Leideanna
 
 
 ;Wear and Tear
-Wear and Tear
+Caitheamh is Cuimilt
 
 
 ;It looks like your browser has crashed a number of times recently. To learn more:
-It looks like your browser has crashed a number of times recently. To learn more:
+Dealraíonn sé gur thuairteáil do bhrabhsálaí cúpla uair le déanaí. Tuilleadh eolais:
 
 
 ;OFF
-OFF
+STOPTHA
 
 
 ;Visit our <a href="%(sumo_url)s">support website</a>
-Visit our <a href="%(sumo_url)s">support website</a>
+Déan cuairt ar ár <a href="%(sumo_url)s">suíomh tacaíochta</a>
 
 
 ;View more <a href="%(details_url)s">detailed information</a>
-View more <a href="%(details_url)s">detailed information</a>
+Faigh <a href="%(details_url)s">na mionsonraí</a>
 
 
 ;pages visited
-pages visited
+leathanaigh feicthe
 
 
 ;Your browser seems to be running slower than usual. To learn more:
-Your browser seems to be running slower than usual. To learn more:
+Dealraíonn sé go bhfuil do bhrabhsálaí níos moille ná mar is gnáth. Tuilleadh eolais:
 
 
 ;You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
-You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
+Dá mhéad a úsáideann tú do bhrabhsálaí, is ea is fearr na mionsonraí a gheobhaidh tú ón tuairisc. Déan iarracht eile i gceann cúpla seachtain.
 
 
 ;Startup Time by Day
-Startup Time by Day
+Am Tosaithe Gach Lá
 
 
 ;Graph:
-Graph:
+Graf:
 
 
 ;Average
-Average
+Meán
 
 
 ;All
-All
+Uile
 
 
 ;Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
@@ -143,79 +143,79 @@ Startup time helps determine how well your version of Firefox is performing. In 
 
 
 ;Data Collected
-Data Collected
+Sonraí Bailithe
 
 
 ;Glossary
-Glossary
+Gluais
 
 
 ;What the Firefox Health Report Measures
-What the Firefox Health Report Measures
+Na Rudaí a Thomhaiseann Tuairisc Shláinte Firefox
 
 
 ;The Firefox Health Report (FHR) has 5 categories of metrics:
-The Firefox Health Report (FHR) has 5 categories of metrics:
+Bailíonn Tuairisc Shláinte Firefox sonraí i gcúig chatagóir:
 
 
 ;Configuration
-Configuration
+Cumraíocht
 
 
 ;Device hardware, operating system, Firefox version
-Device hardware, operating system, Firefox version
+Crua-earraí, córas oibriúcháin, leagan Firefox
 
 
 ;Customizations
-Customizations
+Saincheapadh
 
 
 ;Add-ons, count and type
-Add-ons, count and type
+Breiseáin, cé mhéad agus cén sórt
 
 
 ;Performance
-Performance
+Feidhmíocht
 
 
 ;Timing of browser events, rendering, session restores
-Timing of browser events, rendering, session restores
+Uainiú teagmhas brabhsálaí, rindreáil, athchóiriú seisiún
 
 
 ;Length of session, how old a profile is, count of crashes, count of pages
-Length of session, how old a profile is, count of crashes, count of pages
+Fad an tseisiúin, aois na próifíle, líon na dtuairteanna, líon na leathanach
 
 
 ;Detailed Description
-Detailed Description
+Cur Síos Mionsonraithe
 
 
 ;Metric
-Metric
+Méadrach
 
 
 ;Description
-Description
+Cur Síos
 
 
 ;Binary interface for XPCOM
-Binary interface for XPCOM
+Comhéadan dénártha ar XPCON
 
 
 ;Identifier for this build of the application based on the date the build was started
-Identifier for this build of the application based on the date the build was started
+Aitheantóir don leagan seo den fheidhmchlár, bunaithe ar an dáta a tosaíodh an tógáil
 
 
 ;Operating System for which this build was configured
-Operating System for which this build was configured
+Córas Oibriúcháin a bhfeidhmíonn an leagan seo leis
 
 
 ;Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
-Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
+Aitheantóir dháileadh an fheidhmchláir atá in úsáid. Glacadh ón tsainrogha <var>distribution.id</var> é.
 
 
 ;Version of the distribution, taken from the <var>distribution.version</var> preference
-Version of the distribution, taken from the <var>distribution.version</var> preference
+Leagan den dáileadh. Glacadh ón tsainrogha <var>distribution.version</var> é.
 
 
 ;The version number of any Mozilla hotfix applied to the application
@@ -227,7 +227,7 @@ Identifier unique to the application that indicates it is Firefox or Thunderbird
 
 
 ;The configured name of the application (Firefox/Aurora/Nightly for instance)
-The configured name of the application (Firefox/Aurora/Nightly for instance)
+Ainm cumraithe an fheidhmchláir (Firefox/Aurora/Nightly mar shampla)
 
 
 ;The channel this installation checks for application updates (nightly/aurora/beta/release)
@@ -235,103 +235,103 @@ The channel this installation checks for application updates (nightly/aurora/bet
 
 
 ;The name of the company/provider who built this version
-The name of the company/provider who built this version
+Ainm an chomhlachta/an tsoláthraí a thóg an leagan seo
 
 
 ;The current version of the product
-The current version of the product
+Leagan reatha den táirge
 
 
 ;Number of processor cores
-Number of processor cores
+Líon na gcór
 
 
 ;Whether the application is currently configured to be the default browser for the operating system
-Whether the application is currently configured to be the default browser for the operating system
+An bhfuil an feidhmchlár roghnaithe mar bhrabhsálaí réamhshocraithe ar an gcóras
 
 
 ;Locale currently being used
-Locale currently being used
+Logchaighdeán in úsáid faoi láthair
 
 
 ;Amount of RAM in megabytes
-Amount of RAM in megabytes
+Cé mhéad RAM, meigibhirt
 
 
 ;Currently running Operating System (kernel) name
-Currently running Operating System (kernel) name
+Ainm an Chórais Oibriúcháin (eithne)
 
 
 ;Currently running Operating System (kernel) version
-Currently running Operating System (kernel) version
+Leagan an Chórais Oibriúcháin (eithne)
 
 
 ;The build identifier of the Gecko platform code
-The build identifier of the Gecko platform code
+Aitheantóir an ardáin Gecko
 
 
 ;The version of the Gecko platform code
-The version of the Gecko platform code
+Leagan an ardáin Gecko
 
 
 ;Processor architecture
-Processor architecture
+Ailtireacht an phróiseálaí
 
 
 ;The date this version was first used with this installation profile
-The date this version was first used with this installation profile
+Dáta a úsáideadh an leagan seo leis an bpróifíl suiteála seo den chéad uair
 
 
 ;An application version which has been used with this installation profile
-An application version which has been used with this installation profile
+Leagan den fheidhmchlár a úsáideadh leis an bpróifíl suiteála seo
 
 
 ;The number of add-ons of this type that existed in the profile on this date
-The number of add-ons of this type that existed in the profile on this date
+Líon na mbreiseán den chineál seo a bhí sa bpróifíl ar an dáta seo
 
 
 ;<var>True</var> if the application automatically disabled the add-on
-<var>True</var> if the application automatically disabled the add-on
+<var>Fíor</var> má dhíchumasaigh an feidhmchlár an breiseán go huathoibríoch
 
 
 ;Whether this add-on was installed by the user or automatically by another application
-Whether this add-on was installed by the user or automatically by another application
+An raibh an breiseán seo suiteáilte ag an úsáideoir nó ag feidhmchlár eile go huathoibríoch
 
 
 ;Whether this add-on has native code.
-Whether this add-on has native code.
+An bhfuil cód dúchasach sa mbreiseán seo
 
 
 ;The identifier of this add-on as defined by the add-on developer
-The identifier of this add-on as defined by the add-on developer
+Aitheantóir an bhreiseáin seo, roghnaithe ag forbróir an bhreiseáin
 
 
 ;The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
-The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
+An dáta is déanaí a suiteáladh an breiseán seo (ní choinnímid seanfhaisnéis faoi bhreiseáin díshuiteáilte).
 
 
 ;The number of searches performed with this search engine from this part of the UI
-The number of searches performed with this search engine from this part of the UI
+Líon na gcuardach a rinneadh leis an inneall cuardaigh seo ón gcuid seo den chomhéadan
 
 
 ;Whether this add-on was installed in the application directory or profile directory
-Whether this add-on was installed in the application directory or profile directory
+An raibh an breiseán seo suiteáilte i gcomhadlann an fheidhmchláir nó i gcomhadlann na próifíle
 
 
 ;Whether this add-on is an extension or a plug-in
-Whether this add-on is an extension or a plug-in
+An eisínteacht nó forlíontán é an breiseán seo
 
 
 ;The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
-The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
+An dáta is déanaí a nuashonraíodh an breiseán seo (ní choinnímid seanfhaisnéis faoi bhreiseáin díshuiteáilte).
 
 
 ;<var>True</var> if the user manually disabled the add-on
-<var>True</var> if the user manually disabled the add-on
+<var>Fíor</var> má dhíchumasaigh an t-úsáideoir an breiseán de láimh
 
 
 ;The current version of this add-on
-The current version of this add-on
+An leagan reatha den bhreiseán seo
 
 
 ;How long in milliseconds it took during startup for the application to render the UI and display the window
@@ -359,7 +359,7 @@ The time in seconds that the aborted sessions were running
 
 
 ;The number of days since this application profile directory was created
-The number of days since this application profile directory was created
+Laethanta ó cruthaíodh an chomhadlann phróifíle seo
 
 
 ;The number of times the application was run and cleanly shut down.
@@ -391,11 +391,11 @@ Time in seconds since the app was last started
 
 
 ;Total number of bookmarks
-Total number of bookmarks
+Líon iomlán na leabharmharcanna
 
 
 ;Total number of pages listed in the history
-Total number of pages listed in the history
+Líon iomlán na leathanach sa stair
 
 
 ;How long in minutes the current session has been running
@@ -403,18 +403,16 @@ How long in minutes the current session has been running
 
 
 ;Welcome to your Firefox Health Report
-Welcome to your Firefox Health Report
+Fáilte go Tuairisc Shláinte Firefox
 
 
 ;Welcome!
-Welcome!
+Fáilte!
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
-Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
+Tugann Tuairisc Shláinte Firefox eolas duit maidir le feidhmíocht Firefox agus conas is féidir feabhas a chur air.
 
 
 ;See My Report
-See My Report
-
-
+Féach Mo Thuairisc
