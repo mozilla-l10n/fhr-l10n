@@ -1,9 +1,9 @@
 ;Firefox Health Report
-Firefox Health Report
+Αναφορά υγείας του Firefox
 
 
 ;Raw Data
-Raw Data
+Ακατέργαστα δεδομένα
 
 
 ;Get insights and performance information about your version of Firefox.
@@ -11,31 +11,30 @@ Get insights and performance information about your version of Firefox.
 
 
 ;Learn more...
-Learn more...
+Μάθετε περισσότερα...
 
 
 ;Data Sharing
-Data Sharing
+Κοινοποίηση δεδομένων
 
 
 ;ON
-ON
-
+Ενεργό
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
-You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
+Παρόλο που επιλέξατε να σταματήσετε την κοινοποίηση δεδομένων στο έργο Mozilla, θα μπορείτε να δείτε πληροφορίες για την κατάσταση του περιηγητή σας.
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
-Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
+Τα δεδομένα της αναφοράς υγείας του περιηγητή σας θα αφαιρεθούν και από τους εξυπηρετητές του Mozilla. Μάθετε περισσότερα στην <a href="%(privacy_url)s">πολιτική απορρήτου.</a> μας.
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
-You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
+Επιλέξατε να κοινοποιείτε περιοδικά δεδομένα σας στο έργο Mozilla. Σας ευχαριστούμε που συμμετέχετε στο όραμα μας να φτιάξουμε ένα λαμπρότερο μέλλον για τον ιστό.
 
 
 ;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
-Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
+Μάθετε πως θα διαχειριστούμε τα δεδομένα σας στην <a href="%(privacy_url)s">πολιτική απορρήτου.</a> μας.
 
 
 ;Vital Stats
@@ -43,7 +42,7 @@ Vital Stats
 
 
 ;version
-version
+έκδοση
 
 
 ;time open
@@ -51,131 +50,130 @@ time open
 
 
 ;last crash
-last crash
+τελευταία κατάρρευση
 
 
 ;bookmarks
-bookmarks
+σελιδοδείκτες
 
 
 ;This Month
-This Month
+Αυτό το μήνα
 
 
 ;crashes
-crashes
+καταρεύσεις
 
 
 ;Add-ons
-Add-ons
+Πρόσθετα
 
 
 ;View List
-View List
+Προβολή λίστας
 
 
 ;enabled
-enabled
+ενεργοποιημένο
 
 
 ;disabled
-disabled
+απενεργοποιημένο
 
 
 ;Plugins
-Plugins
+Πρόσθετες λειτουργίες
 
 
 ;Tips
-Tips
+Συμβουλές
 
 
 ;Wear and Tear
-Wear and Tear
+Φυσιολογική φθορά
 
 
 ;It looks like your browser has crashed a number of times recently. To learn more:
-It looks like your browser has crashed a number of times recently. To learn more:
+Φαίνεται ότι ο περιηγητής σας κατέρρευσε αρκετές φορές πρόσφατα. Για να μάθετε περισσότερα:
 
 
 ;OFF
-OFF
+Ανενεργό
 
 
 ;Visit our <a href="%(sumo_url)s">support website</a>
-Visit our <a href="%(sumo_url)s">support website</a>
+Επισκεφθείτε τον <a href="%(sumo_url)s">ιστότοπο υποστήριξης</a>
 
 
 ;View more <a href="%(details_url)s">detailed information</a>
-View more <a href="%(details_url)s">detailed information</a>
+Δείτε πιο <a href="%(details_url)s">λεπτομερείς πληροφορίες</a>
 
 
 ;pages visited
-pages visited
-
+σελίδες που επισκεφθείκατε
 
 ;Your browser seems to be running slower than usual. To learn more:
-Your browser seems to be running slower than usual. To learn more:
+Ο περιηγητής σας φαίνεται να λειτουργεί πιο αργά από το κανονικό. Για να μάθετε περισσότερα:
 
 
 ;You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
-You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
+Όσο πιο συχνά χρησιμοποιείτε τον περιηγητή σας, τόσο πιο ενδιαφέρουσες και αναλυτικές πληροφορίες θα μπορείτε να δείτε. Ελέγξτε ξανά σε μερικές εβδομάδες για να δείτε τις τάσεις που διαμορφώνονται.
 
 
 ;Startup Time by Day
-Startup Time by Day
+Χρόνος εκκίνησης ανά ημέρα
 
 
 ;Graph:
-Graph:
+Γράφημα:
 
 
 ;Average
-Average
+Μέσος όρος
 
 
 ;All
-All
+Όλα
 
 
 ;Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
-Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
+Ο χρόνος εκκίνησης βοηθάει στον υπολογισμό του πόσο καλά λειτουργεί η έκδοση του Firefox που έχετε. Σε γενικές γραμμές, η γρηγορότερη εκκίνηση (δηλ. μικρότερος χρόνος) είναι ένδειξη καλύτερης λειτουργίας.
 
 
 ;Data Collected
-Data Collected
+δεδομένα που έχουν συλλεγεί
 
 
 ;Glossary
-Glossary
+Γλωσσάρι
 
 
 ;What the Firefox Health Report Measures
-What the Firefox Health Report Measures
+Τι μετράει η αναφορά υγείας του Firefox
 
 
 ;The Firefox Health Report (FHR) has 5 categories of metrics:
-The Firefox Health Report (FHR) has 5 categories of metrics:
+Η αναφορά υγείας του Firefox (FHR) έχει 5 κατηγορίες μετρήσεων:
 
 
 ;Configuration
-Configuration
+Ρυθμίσεις
 
 
 ;Device hardware, operating system, Firefox version
-Device hardware, operating system, Firefox version
+Υλικό συσκευής, λειτουργικό σύστημα, έκδοση του Firefox
 
 
 ;Customizations
-Customizations
+Προσαρμογή
 
 
 ;Add-ons, count and type
-Add-ons, count and type
+Αριθμός και τύπος πρόσθετων
 
 
 ;Performance
-Performance
+Επιδόσεις
 
 
 ;Timing of browser events, rendering, session restores
@@ -243,7 +241,7 @@ The current version of the product
 
 
 ;Number of processor cores
-Number of processor cores
+Αριθμός πυρήνων επεξεργαστή
 
 
 ;Whether the application is currently configured to be the default browser for the operating system
@@ -251,19 +249,19 @@ Whether the application is currently configured to be the default browser for th
 
 
 ;Locale currently being used
-Locale currently being used
+Τρέχουσα γλώσσα
 
 
 ;Amount of RAM in megabytes
-Amount of RAM in megabytes
+Μέγεθος RAM σε megabyte
 
 
 ;Currently running Operating System (kernel) name
-Currently running Operating System (kernel) name
+Όνομα τρέχοντος λειτουργικού συστήματος (πυρήνα)
 
 
 ;Currently running Operating System (kernel) version
-Currently running Operating System (kernel) version
+Έκδοση τρέχοντος λειτουργικού συστήματος (πυρήνα)
 
 
 ;The build identifier of the Gecko platform code
@@ -359,55 +357,55 @@ The time in seconds that the aborted sessions were running
 
 
 ;The number of days since this application profile directory was created
-The number of days since this application profile directory was created
+Αριθμός ημερών από την ημερομηνία δημιουργίας του συγκεκριμένου φακέλου προφίλ της εφαρμογής.
 
 
 ;The number of times the application was run and cleanly shut down.
-The number of times the application was run and cleanly shut down.
+Συνολικός αριθμός φορών που η εφαρμογή εκτελέστηκε και τερματίστηκε κανονικά.
 
 
 ;The time in seconds that the completed sessions were not idle
-The time in seconds that the completed sessions were not idle
+Χρόνος που οι ολοκληρωμένες συνεδρίες δεν ήταν αδρανείς σε δευτερόλεπτα.
 
 
 ;The time in seconds that the completed sessions were running
-The time in seconds that the completed sessions were running
+Χρόνος εκτέλεσης ολοκληρωμένων συνεδριών σε δευτερόλεπτα.
 
 
 ;Total number of crashes that were recorded but not yet submitted
-Total number of crashes that were recorded but not yet submitted
+Συνολικός αριθμός καταρρεύσεων που έχουν καταγραφεί αλλά δεν έχουν αναφερθεί ακόμα.
 
 
 ;Total number of crashes that have been submitted
-Total number of crashes that have been submitted
+Συνολικός αριθμός καταρρεύσεων που έχουν αναφερθεί.
 
 
 ;Time in seconds the app has not been idle
-Time in seconds the app has not been idle
+Χρόνος σε δευτερόλεπτα που η εφαρμογή δεν ήταν αδρανής.
 
 
 ;Time in seconds since the app was last started
-Time in seconds since the app was last started
+Χρόνος σε δευτερόλεπτα από την τελευταία εκκίνηση της εφαρμογής.
 
 
 ;Total number of bookmarks
-Total number of bookmarks
+Συνολικός αριθμός σελιδοδεικτών.
 
 
 ;Total number of pages listed in the history
-Total number of pages listed in the history
+Συνολικός αριθμός σελίδων που αναφέρονται στο ιστορικό.
 
 
 ;How long in minutes the current session has been running
-How long in minutes the current session has been running
+Χρόνος διάρκειας σε λεπτά της τρέχουσας συνεδρίας.
 
 
 ;Welcome to your Firefox Health Report
-Welcome to your Firefox Health Report
+Καλωσήρθατε στην αναφορά υγείας του Firefox.
 
 
 ;Welcome!
-Welcome!
+Καλώς ορίσατε!
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
@@ -415,6 +413,6 @@ Firefox Health Report lets you know how your Firefox is performing and what you 
 
 
 ;See My Report
-See My Report
+Εμφάνιση της αναφοράς μου
 
 
