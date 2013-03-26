@@ -299,7 +299,7 @@ Ob dieses Add-on vom Anwender oder automatisch von einer anderen Anwendung insta
 
 
 ;Whether this add-on has native code.
-Ob dieses Add-on nativen Binärcode besitzt.
+Ob dieses Add-on nativen Binärcode besitzt
 
 
 ;The identifier of this add-on as defined by the add-on developer
