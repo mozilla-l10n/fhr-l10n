@@ -203,23 +203,23 @@ Interfaccia binaria per XPCOM
 
 
 ;Identifier for this build of the application based on the date the build was started
-Identificativo per la versione dell'applicazione basato sulla data di avvio della versione
+Identificativo della build dell'applicazione basato sulla data di compilazione
 
 
 ;Operating System for which this build was configured
-Sistema operativo per cui la versione è stata configurata
+Sistema operativo di riferimento di questa build
 
 
 ;Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
-Identificativo per la distribuzione particolare dell'applicazione in uso. Ricavata dalla preferenza <var>distribution.id</var>
+Identificativo della particolare distribuzione dell'applicazione in uso. Ricavata dalla preferenza <var>distribution.id</var>
 
 
 ;Version of the distribution, taken from the <var>distribution.version</var> preference
-Versione di distribuzione, ricavata dalla preferenza <var>distribution.version</var>
+Versione della distribuzione, ricavata dalla preferenza <var>distribution.version</var>
 
 
 ;The version number of any Mozilla hotfix applied to the application
-Il numero di versione di tutti gli aggiornamenti rapidi implementati nell'applicazione
+Il numero di versione di ciascun aggiornamento rapido rilasciato da Mozilla che è stato installato nell'applicazione
 
 
 ;Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
@@ -227,23 +227,23 @@ Identificativo univoco per l'applicazione, indica se si tratta di Firefox, Thund
 
 
 ;The configured name of the application (Firefox/Aurora/Nightly for instance)
-Il nome configurato dell'applicazione (esempio: Firefox/Aurora/Nightly)
+Il nome personalizzato dell'applicazione (esempio: Firefox/Aurora/Nightly)
 
 
 ;The channel this installation checks for application updates (nightly/aurora/beta/release)
-Il canale utilizzato dalla versione installata per controllare gli aggiornamenti (nightly/aurora/beta/release)
+Il canale di aggiornamento utilizzato dalla versione in uso (nightly/aurora/beta/release)
 
 
 ;The name of the company/provider who built this version
-Il nome della società o del gestore che ha sviluppato la versione in uso
+Il nome della società o del fornitore che ha sviluppato la versione in uso
 
 
 ;The current version of the product
-La versione in uso del prodotto
+L'attuale versione del prodotto in uso.
 
 
 ;Number of processor cores
-Numero di processori core
+numero dei motori di calcolo (core) del processore
 
 
 ;Whether the application is currently configured to be the default browser for the operating system
@@ -266,11 +266,11 @@ Versione del sistema operativo (kernel) attualmente in uso
 
 
 ;The build identifier of the Gecko platform code
-L'identificativo di versione per il codice piattaforma Gecko
+L'identificativo della build di Gecko
 
 
 ;The version of the Gecko platform code
-La versione del codice piattaforma Gecko
+La versione del codice di Gecko
 
 
 ;Processor architecture
@@ -278,11 +278,11 @@ Architettura processore
 
 
 ;The date this version was first used with this installation profile
-La data del primo utilizzo della versione con questo profilo di installazione
+Il primo giorno in cui si è utilizzato questo profilo utente con la versione attualmente in uso
 
 
 ;An application version which has been used with this installation profile
-Una versione dell'applicazione utilizzata con questo profilo di installazione
+Una versione dell'applicazione che ha utilizzato questo profilo
 
 
 ;The number of add-ons of this type that existed in the profile on this date
@@ -305,7 +305,7 @@ L'identificativo scelto dallo sviluppatore per questo componente aggiuntivo
 
 
 ;The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
-La data di installazione più recente di questo componente aggiuntivo (le informazioni riguardo ai componenti aggiuntivi disinstallati non vengono conservate).
+La data dell'ultima installazione di questo componente aggiuntivo (le informazioni riguardo ai componenti aggiuntivi disinstallati non vengono conservate).
 
 
 ;The number of searches performed with this search engine from this part of the UI
@@ -321,7 +321,7 @@ Se questo componente aggiuntivo è un'estensione o un plugin
 
 
 ;The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
-La data dell'aggiornamento più recente di questo componente aggiuntivo (le informazioni riguardo ai componenti aggiuntivi disinstallati non vengono conservate).
+La data dell'ultimo aggiornamento di questo componente aggiuntivo (le informazioni riguardo ai componenti aggiuntivi disinstallati non vengono conservate).
 
 
 ;<var>True</var> if the user manually disabled the add-on
@@ -345,7 +345,7 @@ Il tempo, espresso in millisecondi, impiegato dall'applicazione all'avvio per ri
 
 
 ;The number of times the application was run and not cleanly shut down.
-Il numero di volte in cui l'applicazione è stata terminata in modo forzato
+Il numero di volte in cui l'applicazione è stata terminata in modo anomalo
 
 
 ;The time in seconds that the aborted sessions were not idle
@@ -365,11 +365,11 @@ Il numero di volte in cui l'applicazione è stata avviata e terminata in modo co
 
 
 ;The time in seconds that the completed sessions were not idle
-Il tempo, espresso in secondi, di non inattività della sessione completata
+Il tempo, espresso in secondi, di non inattività della sessione terminata correttamente
 
 
 ;The time in seconds that the completed sessions were running
-Il tempo, espresso in secondi, di attività della sessione completata
+Il tempo, espresso in secondi, di attività della sessione terminata correttamente
 
 
 ;Total number of crashes that were recorded but not yet submitted
