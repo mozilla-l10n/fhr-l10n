@@ -1,420 +1,418 @@
 ;Firefox Health Report
-Firefox Health Report
+Valutazione integrità di Firefox
 
 
 ;Raw Data
-Raw Data
+Mostra dettagli
 
 
 ;Get insights and performance information about your version of Firefox.
-Get insights and performance information about your version of Firefox.
+Ottieni un'analisi dettagliata e informazioni sulle prestazioni della versione di Firefox in uso.
 
 
 ;Learn more...
-Learn more...
+Ulteriori informazioni
 
 
 ;Data Sharing
-Data Sharing
+Condivisione dati
 
 
 ;ON
-ON
+Attivata
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
-You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
+Hai scelto di non condividere più i dati con Mozilla,ma potrai sempre accedere alle informazioni sulle prestazioni del tuo browser.
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
-Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
+I tuoi dati riguardanti la Valutazione integrità verranno rimossi anche dal server Mozilla. Ulteriori informazioni nell'<a href="%(privacy_url)s">Informativa sulla privacy.</a>
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
-You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
+Hai scelto di condividere i tuoi dati con Mozilla volta per volta. Grazie per il tuo contributo alla missione Mozilla di costruire un Web migliore.
 
 
 ;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
-Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
+Consulta la nostra <a href="%(privacy_url)s">Informativa sulla privacy</a> per conoscere come vengono trattati i tuoi dati personali.
 
 
 ;Vital Stats
-Vital Stats
+Statistiche essenziali
 
 
 ;version
-version
+versione
 
 
 ;time open
-time open
+tempo di utilizzo totale
 
 
 ;last crash
-last crash
+ultimo arresto anomalo
 
 
 ;bookmarks
-bookmarks
+segnalibri
 
 
 ;This Month
-This Month
+Mese corrente
 
 
 ;crashes
-crashes
+arresti anomali
 
 
 ;Add-ons
-Add-ons
+Componenti aggiuntivi
 
 
 ;View List
-View List
+Visualizza elenco
 
 
 ;enabled
-enabled
+attivati
 
 
 ;disabled
-disabled
+disattivati
 
 
 ;Plugins
-Plugins
+Plugin
 
 
 ;Tips
-Tips
+Suggerimenti
 
 
 ;Wear and Tear
-Wear and Tear
+Danni da usura
 
 
 ;It looks like your browser has crashed a number of times recently. To learn more:
-It looks like your browser has crashed a number of times recently. To learn more:
+Recentemente sono stati rilevati diversi arresti anomali sulla versione attualmente in uso. Per ulteriori informazioni:
 
 
 ;OFF
-OFF
+Disattivata
 
 
 ;Visit our <a href="%(sumo_url)s">support website</a>
-Visit our <a href="%(sumo_url)s">support website</a>
+Visita il nostro <a href="%(sumo_url)s">sito di supporto</a>
 
 
 ;View more <a href="%(details_url)s">detailed information</a>
-View more <a href="%(details_url)s">detailed information</a>
+Visualizza <a href="%(details_url)s">informazioni più dettagliate</a>
 
 
 ;pages visited
-pages visited
+pagine visitate
 
 
 ;Your browser seems to be running slower than usual. To learn more:
-Your browser seems to be running slower than usual. To learn more:
+Il tuo browser risulta più lento del solito. Per ulteriori informazioni:
 
 
 ;You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
-You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
+Più il browser viene utilizzato, più dettagliate e interessanti saranno le informazioni visualizzate. Controlla nuovamente questa pagina tra un paio di settimane per scoprire nuove tendenze.
 
 
 ;Startup Time by Day
-Startup Time by Day
+Tempi di avvio per giorno
 
 
 ;Graph:
-Graph:
+Grafico:
 
 
 ;Average
-Average
+Media
 
 
 ;All
-All
+Tutti
 
 
 ;Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
-Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
+Il tempo di avvio è un parametro per valutare le prestazioni della versione di Firefox in uso. Normalmente un tempo di avvio più rapido corrisponde a prestazioni migliori.
 
 
 ;Data Collected
-Data Collected
+Dati raccolti
 
 
 ;Glossary
-Glossary
+Glossario
 
 
 ;What the Firefox Health Report Measures
-What the Firefox Health Report Measures
+Dati misurati dalla Valutazione integrità di Firefox
 
 
 ;The Firefox Health Report (FHR) has 5 categories of metrics:
-The Firefox Health Report (FHR) has 5 categories of metrics:
+La Valutazione integrità di Firefox (FHR) presenta 5 categorie di metrica:
 
 
 ;Configuration
-Configuration
+Configurazione
 
 
 ;Device hardware, operating system, Firefox version
-Device hardware, operating system, Firefox version
+Dispositivo hardware, sistema operativo, versione di Firefox
 
 
 ;Customizations
-Customizations
+Personalizzazione
 
 
 ;Add-ons, count and type
-Add-ons, count and type
+Componenti aggiuntivi, numero e tipo
 
 
 ;Performance
-Performance
+Prestazioni
 
 
 ;Timing of browser events, rendering, session restores
-Timing of browser events, rendering, session restores
+Intervalli degli eventi del browser, rendering, ripristino sessioni
 
 
 ;Length of session, how old a profile is, count of crashes, count of pages
-Length of session, how old a profile is, count of crashes, count of pages
+Durata della sessione, , età del profilo, numero di arresti anomali, numero di pagine
 
 
 ;Detailed Description
-Detailed Description
+Descrizione dettagliata
 
 
 ;Metric
-Metric
+Metrica
 
 
 ;Description
-Description
+Descrizione
 
 
 ;Binary interface for XPCOM
-Binary interface for XPCOM
+Interfaccia binaria per XPCOM
 
 
 ;Identifier for this build of the application based on the date the build was started
-Identifier for this build of the application based on the date the build was started
+Identificativo per la versione dell'applicazione basato sulla data di avvio della versione
 
 
 ;Operating System for which this build was configured
-Operating System for which this build was configured
+Sistema operativo per cui la versione è stata configurata
 
 
 ;Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
-Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
+Identificativo per la distribuzione particolare dell'applicazione in uso. Ricavata dalla preferenza <var>distribution.id</var>
 
 
 ;Version of the distribution, taken from the <var>distribution.version</var> preference
-Version of the distribution, taken from the <var>distribution.version</var> preference
+Versione di distribuzione, ricavata dalla preferenza <var>distribution.version</var>
 
 
 ;The version number of any Mozilla hotfix applied to the application
-The version number of any Mozilla hotfix applied to the application
+Il numero di versione di tutti gli aggiornamenti rapidi implementati nell'applicazione
 
 
 ;Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
-Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
+Identificativo univoco per l'applicazione, indica se si tratta di Firefox, Thunderbird ecc. Valido per tutte le installazioni di un'applicazione indipendentemente dal valore di <var>appName</var>
 
 
 ;The configured name of the application (Firefox/Aurora/Nightly for instance)
-The configured name of the application (Firefox/Aurora/Nightly for instance)
+Il nome configurato dell'applicazione (esempio: Firefox/Aurora/Nightly)
 
 
 ;The channel this installation checks for application updates (nightly/aurora/beta/release)
-The channel this installation checks for application updates (nightly/aurora/beta/release)
+Il canale utilizzato dalla versione installata per controllare gli aggiornamenti (nightly/aurora/beta/release)
 
 
 ;The name of the company/provider who built this version
-The name of the company/provider who built this version
+Il nome della società o del gestore che ha sviluppato la versione in uso
 
 
 ;The current version of the product
-The current version of the product
+La versione in uso del prodotto
 
 
 ;Number of processor cores
-Number of processor cores
+Numero di processori core
 
 
 ;Whether the application is currently configured to be the default browser for the operating system
-Whether the application is currently configured to be the default browser for the operating system
-
+Se l'applicazione è attualmente configurata come browser predefinito del sistema operativo
 
 ;Locale currently being used
-Locale currently being used
+Locale attualmente in uso
 
 
 ;Amount of RAM in megabytes
-Amount of RAM in megabytes
+Quantità di RAM in megabyte
 
 
 ;Currently running Operating System (kernel) name
-Currently running Operating System (kernel) name
+Nome del sistema operativo (kernel) attualmente in uso
 
 
 ;Currently running Operating System (kernel) version
-Currently running Operating System (kernel) version
+Versione del sistema operativo (kernel) attualmente in uso
 
 
 ;The build identifier of the Gecko platform code
-The build identifier of the Gecko platform code
+L'identificativo di versione per il codice piattaforma Gecko
 
 
 ;The version of the Gecko platform code
-The version of the Gecko platform code
+La versione del codice piattaforma Gecko
 
 
 ;Processor architecture
-Processor architecture
+Architettura processore
 
 
 ;The date this version was first used with this installation profile
-The date this version was first used with this installation profile
+La data del primo utilizzo della versione con questo profilo di installazione
 
 
 ;An application version which has been used with this installation profile
-An application version which has been used with this installation profile
+Una versione dell'applicazione utilizzata con questo profilo di installazione
 
 
 ;The number of add-ons of this type that existed in the profile on this date
-The number of add-ons of this type that existed in the profile on this date
-
+Il numero di componenti aggiuntivi di questo tipo presenti nel profilo in questa data
 
 ;<var>True</var> if the application automatically disabled the add-on
-<var>True</var> if the application automatically disabled the add-on
+<var>True</var> se l'applicazione ha disattivato il componente aggiuntivo automaticamente
 
 
 ;Whether this add-on was installed by the user or automatically by another application
-Whether this add-on was installed by the user or automatically by another application
+Se il componente aggiuntivo è stato installato dall'utente o da un'applicazione
 
 
 ;Whether this add-on has native code.
-Whether this add-on has native code.
+Se il componente aggiuntivo utilizza codice nativo.
 
 
 ;The identifier of this add-on as defined by the add-on developer
-The identifier of this add-on as defined by the add-on developer
+L'identificativo scelto dallo sviluppatore per questo componente aggiuntivo
 
 
 ;The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
-The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
+La data di installazione più recente di questo componente aggiuntivo (le informazioni riguardo ai componenti aggiuntivi disinstallati non vengono conservate).
 
 
 ;The number of searches performed with this search engine from this part of the UI
-The number of searches performed with this search engine from this part of the UI
+Il numero di ricerche effettuate con questo motore di ricerca da questo elemento dell'interfaccia
 
 
 ;Whether this add-on was installed in the application directory or profile directory
-Whether this add-on was installed in the application directory or profile directory
+Se questo componente aggiuntivo è installato nella cartella del programma o del profilo
 
 
 ;Whether this add-on is an extension or a plug-in
-Whether this add-on is an extension or a plug-in
+Se questo componente aggiuntivo è un'estensione o un plugin
 
 
 ;The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
-The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
+La data dell'aggiornamento più recente di questo componente aggiuntivo (le informazioni riguardo ai componenti aggiuntivi disinstallati non vengono conservate).
 
 
 ;<var>True</var> if the user manually disabled the add-on
-<var>True</var> if the user manually disabled the add-on
+<var>True</var> se l'utente ha disattivato manualmente il componente aggiuntivo
 
 
 ;The current version of this add-on
-The current version of this add-on
+La versione attuale del componente aggiuntivo
 
 
 ;How long in milliseconds it took during startup for the application to render the UI and display the window
-How long in milliseconds it took during startup for the application to render the UI and display the window
+Il tempo, espresso in millisecondi, impiegato dall'applicazione all'avvio per visualizzare la finestra e l'interfaccia utente.
 
 
 ;How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
-How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
+Il tempo, espresso in millisecondi, impiegato dall'applicazione all'avvio per caricare le librerie e completare l'inizializzazione dei componenti principali
 
 
 ;How long in milliseconds it took during startup for the application to restore tabs from the previous session
-How long in milliseconds it took during startup for the application to restore tabs from the previous session
+Il tempo, espresso in millisecondi, impiegato dall'applicazione all'avvio per ripristinare le schede della sessione precedente
 
 
 ;The number of times the application was run and not cleanly shut down.
-The number of times the application was run and not cleanly shut down.
+Il numero di volte in cui l'applicazione è stata terminata in modo forzato
 
 
 ;The time in seconds that the aborted sessions were not idle
-The time in seconds that the aborted sessions were not idle
+Il tempo, espresso in secondi, di non inattività della sessione interrotta
 
 
 ;The time in seconds that the aborted sessions were running
-The time in seconds that the aborted sessions were running
+Il tempo, espresso in secondi, di attività della sessione interrotta
 
 
 ;The number of days since this application profile directory was created
-The number of days since this application profile directory was created
+Il numero di giorni dalla creazione della cartella del profilo dell'applicazione
 
 
 ;The number of times the application was run and cleanly shut down.
-The number of times the application was run and cleanly shut down.
+Il numero di volte in cui l'applicazione è stata avviata e terminata in modo corretto.
 
 
 ;The time in seconds that the completed sessions were not idle
-The time in seconds that the completed sessions were not idle
+Il tempo, espresso in secondi, di non inattività della sessione completata
 
 
 ;The time in seconds that the completed sessions were running
-The time in seconds that the completed sessions were running
+Il tempo, espresso in secondi, di attività della sessione completata
 
 
 ;Total number of crashes that were recorded but not yet submitted
-Total number of crashes that were recorded but not yet submitted
+Numero totale di arresti anomali registrati ma non ancora inviati
 
 
 ;Total number of crashes that have been submitted
-Total number of crashes that have been submitted
+Numero totale di arresti anomali inviati
 
 
 ;Time in seconds the app has not been idle
-Time in seconds the app has not been idle
+Tempo, espresso in secondi, in cui l'app non è rimasta inattiva
 
 
 ;Time in seconds since the app was last started
-Time in seconds since the app was last started
+Tempo, espresso in secondi, trascorso dall'ultimo avvio dell'app
 
 
 ;Total number of bookmarks
-Total number of bookmarks
+Numero totale di segnalibri
 
 
 ;Total number of pages listed in the history
-Total number of pages listed in the history
+Numero totale delle pagine memorizzate nella cronologia
 
 
 ;How long in minutes the current session has been running
-How long in minutes the current session has been running
+Il tempo trascorso, espresso in minuti, dall'avvio della sessione corrente
 
 
 ;Welcome to your Firefox Health Report
-Welcome to your Firefox Health Report
+Benvenuto nella pagina di valutazione integrità di Firefox
 
 
 ;Welcome!
-Welcome!
+Benvenuto/a.
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
-Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
+Valutazione integrità di Firefox permette di scoprire in che stato sono le prestazioni della versione Firefox in uso e come migliorarle.
 
 
 ;See My Report
-See My Report
+Mostra le mie valutazioni
 
 
