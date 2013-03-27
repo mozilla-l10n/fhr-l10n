@@ -1,21 +1,21 @@
 ;Firefox Health Report
-Firefox Health Report
+Raport Mbi Shëndetin e Firefox-it
 
 
 ;Raw Data
-Raw Data
+Të dhëna të Papërpunuara
 
 
 ;Get insights and performance information about your version of Firefox.
-Get insights and performance information about your version of Firefox.
+Krijoni një ide dhe merrni të dhëna rreth versionit tuaj të Firefox-it.
 
 
 ;Learn more...
-Learn more...
+Mësoni më tepër...
 
 
 ;Data Sharing
-Data Sharing
+Ndarje të Dhënash Me të Tjerët
 
 
 ;ON
@@ -23,23 +23,23 @@ ON
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
-You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
+Keni zgjedhur të reshtë ndarja e të dhënave me Mozilla-n, por prapë do të jeni në gjendje të shihni se sa i suksesshëm është shfletuesi juaj.
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
-Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
+Të dhënat tuaja për Raportin Mbi Shëndetin do të hiqen prej shërbyesve të Mozilla-s po ashtu. Mësoni më tepër rreth kësaj te <a href="%(privacy_url)s">rregullat tona për privatësinë.</a>
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
-You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
+Keni zgjedhur të ndani herë pas here të dhënat tuaja me Mozilla-n. Faleminderit që bëheni pjesë e misionit tonë të ndërtimit të një të ardhmeje më të ndritshme për Web-in.
 
 
 ;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
-Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
+Mësoni te <a href="%(privacy_url)s">rregullat tona mbi privatësinë</a> se si t'i trajtoni të dhënat tuaja.
 
 
 ;Vital Stats
-Vital Stats
+Statistika Jetike
 
 
 ;version
@@ -47,55 +47,55 @@ version
 
 
 ;time open
-time open
+sa kohë ka hapur
 
 
 ;last crash
-last crash
+vithisja e fundit
 
 
 ;bookmarks
-bookmarks
+faqerojtës
 
 
 ;This Month
-This Month
+Këtë Muaj
 
 
 ;crashes
-crashes
+vithisje
 
 
 ;Add-ons
-Add-ons
+Shtesa
 
 
 ;View List
-View List
+Shihni Listën
 
 
 ;enabled
-enabled
+të aktivizuara
 
 
 ;disabled
-disabled
+të paaktivizuara
 
 
 ;Plugins
-Plugins
+Shtojca
 
 
 ;Tips
-Tips
+Ndihmëza
 
 
 ;Wear and Tear
-Wear and Tear
+Wear and Tear {OK}
 
 
 ;It looks like your browser has crashed a number of times recently. To learn more:
-It looks like your browser has crashed a number of times recently. To learn more:
+Duket se shfletuesi juaj është vithisur një numër herësh tani së fundi. Që të mësoni më tepër:
 
 
 ;OFF
@@ -103,318 +103,318 @@ OFF
 
 
 ;Visit our <a href="%(sumo_url)s">support website</a>
-Visit our <a href="%(sumo_url)s">support website</a>
+Vizitoni <a href="%(sumo_url)s">site-in tonë web të asistencës</a>
 
 
 ;View more <a href="%(details_url)s">detailed information</a>
-View more <a href="%(details_url)s">detailed information</a>
+Shihni më tepër <a href="%(details_url)s">të dhëna të hollësishme</a>
 
 
 ;pages visited
-pages visited
+faqe të vizituara
 
 
 ;Your browser seems to be running slower than usual. To learn more:
-Your browser seems to be running slower than usual. To learn more:
+Shfletuesi juaj duket se po xhiron më ngadalë se zakonisht. Që të mësoni më tepër:
 
 
 ;You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
-You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
+Do të jeni në gjendje të shihni më tepër të dhëna me interes dhe të hollësishme, sa më tepër që përdorni shfletuesin tuaj. Rikthehuni pas nja dyjavësh që të shihni disa prirje.
 
 
 ;Startup Time by Day
-Startup Time by Day
+Kohë Nisjesh sipas Ditësh
 
 
 ;Graph:
-Graph:
+Grafik:
 
 
 ;Average
-Average
+Mesatare
 
 
 ;All
-All
+Krejt
 
 
 ;Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
-Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
+Kohët e nisjeve ndihmojnë të përcaktohet se sa me sukses po punon versioni juaj i Firefox-it. Përgjithësisht, kohë më të shpejta (pra më pak kohë) tregojnë punim më të mirë.
 
 
 ;Data Collected
-Data Collected
+Të dhëna të Grumbulluara
 
 
 ;Glossary
-Glossary
+Fjalorth
 
 
 ;What the Firefox Health Report Measures
-What the Firefox Health Report Measures
+Çfarë Matet Për Raportin Mbi Shëndetin e Firefox-it
 
 
 ;The Firefox Health Report (FHR) has 5 categories of metrics:
-The Firefox Health Report (FHR) has 5 categories of metrics:
+Raporti Mbi Shëndetin e Firefox-it (RSHF) përmban 5 kategori matjesh:
 
 
 ;Configuration
-Configuration
+Formësim
 
 
 ;Device hardware, operating system, Firefox version
-Device hardware, operating system, Firefox version
+Hardware pajisjesh, sistem operativ, version Firefox-i
 
 
 ;Customizations
-Customizations
+Përshtatje
 
 
 ;Add-ons, count and type
-Add-ons, count and type
+Shtesa, numër dhe lloj
 
 
 ;Performance
-Performance
+Punim
 
 
 ;Timing of browser events, rendering, session restores
-Timing of browser events, rendering, session restores
+Kohët për ngjarje shfletuesi, vizatim faqesh, rikthim sesionesh
 
 
 ;Length of session, how old a profile is, count of crashes, count of pages
-Length of session, how old a profile is, count of crashes, count of pages
+Gjatësi sesioni, sa i vjetër është një profil, numër vithisjesh, numër faqesh
 
 
 ;Detailed Description
-Detailed Description
+Përshkrim i Hollësisëm
 
 
 ;Metric
-Metric
+Matje
 
 
 ;Description
-Description
+Përshkrim
 
 
 ;Binary interface for XPCOM
-Binary interface for XPCOM
+Ndërfaqe dyore për XPCOM
 
 
 ;Identifier for this build of the application based on the date the build was started
-Identifier for this build of the application based on the date the build was started
+Identifikues i këtij montimi të zbatimit, bazuar në datën kur pat filluar montimi
 
 
 ;Operating System for which this build was configured
-Operating System for which this build was configured
+Sistemi Operativ për të cilin ky montim qe formësuar
 
 
 ;Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
-Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
+Identifikues për shpërndarjen e dhënë të zbatimit në përdorim. Merret prej parapëlqimit <var>distribution.id</var>
 
 
 ;Version of the distribution, taken from the <var>distribution.version</var> preference
-Version of the distribution, taken from the <var>distribution.version</var> preference
+Version i shpërndarjes, marrë prej parapëlqimit <var>distribution.version</var>
 
 
 ;The version number of any Mozilla hotfix applied to the application
-The version number of any Mozilla hotfix applied to the application
+Numër versioni për çfarëdo hotfix Mozilla të zbatuar mbi zbatimin
 
 
 ;Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
-Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
+Identifikues unik për zbatimin, i cili tregon se bëhet fjalë për Firefox ose Thunderbird, etj. Po njësoj për krejt instalimet e një zbatimi, pavarësisht nga vlera e <var>appName</var>
 
 
 ;The configured name of the application (Firefox/Aurora/Nightly for instance)
-The configured name of the application (Firefox/Aurora/Nightly for instance)
+Emri i formësuar për zbatimin (për shembull, Firefox/Aurora/Nightly)
 
 
 ;The channel this installation checks for application updates (nightly/aurora/beta/release)
-The channel this installation checks for application updates (nightly/aurora/beta/release)
+Kanali që kontrollohet prej këtij instalimi për përditësime zbatimi (hedhje në qarkullim të përnatshme/aurora/beta)
 
 
 ;The name of the company/provider who built this version
-The name of the company/provider who built this version
+Emri i kompanisë/ofruesit që montoi këtë version
 
 
 ;The current version of the product
-The current version of the product
+Versioni i tanishëm i produktit
 
 
 ;Number of processor cores
-Number of processor cores
+Numri i bërthamave të procesorit
 
 
 ;Whether the application is currently configured to be the default browser for the operating system
-Whether the application is currently configured to be the default browser for the operating system
+Është formësuar a jo zbatimi për të qenë shfletuesi parazgjedhje për sistemin operativ
 
 
 ;Locale currently being used
-Locale currently being used
+Gjuha e përdorur tani
 
 
 ;Amount of RAM in megabytes
-Amount of RAM in megabytes
+Sasi RAM-i në megabajt
 
 
 ;Currently running Operating System (kernel) name
-Currently running Operating System (kernel) name
+Emri i Sistemit Operativ (kernelit) të xhiruar tani
 
 
 ;Currently running Operating System (kernel) version
-Currently running Operating System (kernel) version
+Versioni i Sistemit Operativ (kernelit) të xhiruar tani
 
 
 ;The build identifier of the Gecko platform code
-The build identifier of the Gecko platform code
+Kodi i identifikuesit të montimit për platformën Gecko
 
 
 ;The version of the Gecko platform code
-The version of the Gecko platform code
+Kodi i versionit për platformën Gecko
 
 
 ;Processor architecture
-Processor architecture
+Arkitektura e Procesorit
 
 
 ;The date this version was first used with this installation profile
-The date this version was first used with this installation profile
+Data kur ky version u përdor për herë me këtë profil instalimi
 
 
 ;An application version which has been used with this installation profile
-An application version which has been used with this installation profile
+Version zbatimi që është përdorur me këtë profil instalimi
 
 
 ;The number of add-ons of this type that existed in the profile on this date
-The number of add-ons of this type that existed in the profile on this date
+Numri i shtesave të këtij lloji që gjendeshin te profili në këtë datë
 
 
 ;<var>True</var> if the application automatically disabled the add-on
-<var>True</var> if the application automatically disabled the add-on
+<var>True</var> nëse zbatimi e çaktivizoi automatikisht shtesën
 
 
 ;Whether this add-on was installed by the user or automatically by another application
-Whether this add-on was installed by the user or automatically by another application
+Kjo shtesë qe instaluar nga përdoruesi apo vetvetiu nga një zbatim tjetër
 
 
 ;Whether this add-on has native code.
-Whether this add-on has native code.
+Nëse ka a jo kod origjinal kjo shtesë.
 
 
 ;The identifier of this add-on as defined by the add-on developer
-The identifier of this add-on as defined by the add-on developer
+Identifikuesi i kësaj shtese ashtu si e përcakton zhvilluesi i shtesës
 
 
 ;The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
-The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
+Data më e afërt kur kjo shtesë qe instaluar (nuk mbahen të dhëna të mëparshme rreth shtese të painstaluar).
 
 
 ;The number of searches performed with this search engine from this part of the UI
-The number of searches performed with this search engine from this part of the UI
+Numri i kërkimeve të kryera me këtë motor kërkimesh prej kësaj pjese të NP-së
 
 
 ;Whether this add-on was installed in the application directory or profile directory
-Whether this add-on was installed in the application directory or profile directory
+Ku qe instaluar kjo shtesë, te drejtoria e zbatimeve apo te drejtoria e profileve
 
 
 ;Whether this add-on is an extension or a plug-in
-Whether this add-on is an extension or a plug-in
+Kjo shtesë është zgjerim apo shtojcë
 
 
 ;The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
-The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
+Data më e re kur kjo shtesë qe përditësuar (nuk mbahen të dhëna të mëparshme rreth shtese të painstaluar).
 
 
 ;<var>True</var> if the user manually disabled the add-on
-<var>True</var> if the user manually disabled the add-on
+<var>True</var>, nëse përdoruesi e ka çaktivizuar dorazi shtesën
 
 
 ;The current version of this add-on
-The current version of this add-on
+Versioni i tanishëm i kësaj shtese
 
 
 ;How long in milliseconds it took during startup for the application to render the UI and display the window
-How long in milliseconds it took during startup for the application to render the UI and display the window
+Sa kohë, në milisekonda, iu desh zbatimit gjatë nisjes të vizatojë NP-në dhe të shfaqë dritaren
 
 
 ;How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
-How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
+Sa kohë, në milisekonda, iu desh zbatimit gjatë nisjes të ngarkojë libraritë dhe të përfundojë gatitjen bazë
 
 
 ;How long in milliseconds it took during startup for the application to restore tabs from the previous session
-How long in milliseconds it took during startup for the application to restore tabs from the previous session
+Sa kohë, në milisekonda, iu desh zbatimit gjatë nisjes të rikthejë skedat e sesionit të mëparshëm
 
 
 ;The number of times the application was run and not cleanly shut down.
-The number of times the application was run and not cleanly shut down.
+Sa herë zbatimi është xhiruar dhe mbyllur jo si duhet.
 
 
 ;The time in seconds that the aborted sessions were not idle
-The time in seconds that the aborted sessions were not idle
+Koha, në sekonda, gjatë së cilës sesionet e ndërprera nuk qenë të plogështa
 
 
 ;The time in seconds that the aborted sessions were running
-The time in seconds that the aborted sessions were running
+Koha, në sekonda, gjatë së cilës sesionet e ndërprera qenë në xhirim e sipër
 
 
 ;The number of days since this application profile directory was created
-The number of days since this application profile directory was created
+Numri i ditëve qëkur është krijuar kjo drejtori profili zbatimi
 
 
 ;The number of times the application was run and cleanly shut down.
-The number of times the application was run and cleanly shut down.
+Numri i herëve që zbatimi është xhiruar dhe mbyllur pastër.
 
 
 ;The time in seconds that the completed sessions were not idle
-The time in seconds that the completed sessions were not idle
+Koha, në sekonda, gjatë së cilës sesionet e plotësuara nuk qenë të plogështa
 
 
 ;The time in seconds that the completed sessions were running
-The time in seconds that the completed sessions were running
+Koha, në sekonda, gjatë së cilës sesionet e plotësuara qenë në xhirim e sipër
 
 
 ;Total number of crashes that were recorded but not yet submitted
-Total number of crashes that were recorded but not yet submitted
+Numri gjithsej i vithisjeve që janë regjistruar, por jo parashtruar
 
 
 ;Total number of crashes that have been submitted
-Total number of crashes that have been submitted
+Numri gjithsej i vithisjeve që janë parashtruar
 
 
 ;Time in seconds the app has not been idle
-Time in seconds the app has not been idle
+Koha, në sekonda, gjatë së cilës zbatimi nuk ka qenë i plogësht
 
 
 ;Time in seconds since the app was last started
-Time in seconds since the app was last started
+Koha, në sekonda, qëkur zbatimi është nisur për herën e tanishme
 
 
 ;Total number of bookmarks
-Total number of bookmarks
+Numër faqerojtësish gjithsej
 
 
 ;Total number of pages listed in the history
-Total number of pages listed in the history
+Numër faqesh të radhitura te historiku gjithsej
 
 
 ;How long in minutes the current session has been running
-How long in minutes the current session has been running
+Për sa kohë, në minuta, po xhiron sesioni i tanishëm
 
 
 ;Welcome to your Firefox Health Report
-Welcome to your Firefox Health Report
+Mirë se vini te Raporti Mbi Shëndetin e Firefox-it
 
 
 ;Welcome!
-Welcome!
+Mirë se vini!
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
-Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
+Raporti Mbi Shëndetin e Firefox-it ju lejon të njihni se si po funksionon Firefox-i juaj dhe se çfarë mund të bëni për ta përmirësuar këtë gjë.
 
 
 ;See My Report
-See My Report
+Le të Shohim Raportin Tim
 
 
