@@ -19,7 +19,7 @@ Ndarje të Dhënash Me të Tjerët
 
 
 ;ON
-ON
+ON {ok}
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
@@ -43,7 +43,7 @@ Statistika Jetike
 
 
 ;version
-version
+version {ok}
 
 
 ;time open
@@ -91,7 +91,7 @@ Ndihmëza
 
 
 ;Wear and Tear
-Wear and Tear {OK}
+Wear and Tear {ok}
 
 
 ;It looks like your browser has crashed a number of times recently. To learn more:
@@ -99,7 +99,7 @@ Duket se shfletuesi juaj është vithisur një numër herësh tani së fundi. Q�
 
 
 ;OFF
-OFF
+OFF {ok}
 
 
 ;Visit our <a href="%(sumo_url)s">support website</a>
