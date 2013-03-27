@@ -3,91 +3,91 @@ Firefox Health Report
 
 
 ;Raw Data
-Raw Data
+원본 데이타
 
 
 ;Get insights and performance information about your version of Firefox.
-Get insights and performance information about your version of Firefox.
+현재 사용하고 있는 Firefox 버전의 성능 정보를 확인합니다.
 
 
 ;Learn more...
-Learn more...
+자세히 보기...
 
 
 ;Data Sharing
-Data Sharing
+데이타 공유
 
 
 ;ON
-ON
+ON {ok}
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
-You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
+Mozilla와의 데이터 공유를 중지하였습니다. 브라우저의 성능정보는 계속해서 확인할 수 있습니다.
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
-Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
+Mozilla 서버에 저장된 개인 보고서 내용도 모두 삭제되었습니다. <a href="%(privacy_url)s">개인정보 보호정책</a>을 통해서 자세한 내용을 확인하세요.
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
-You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
+Mozilla와의 데이터 공유를 선택하였습니다. 보다나은 웹을 만들기 위한 미션에 참여하신 점을 감사드립니다.
 
 
 ;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
-Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
+<a href="%(privacy_url)s">개인정보 보호정책</a>을 통해서 데이터가 어떻게 다뤄지는지 확인해 보세요.
 
 
 ;Vital Stats
-Vital Stats
+필수 통계
 
 
 ;version
-version
+버전
 
 
 ;time open
-time open
+구동 시간
 
 
 ;last crash
-last crash
+최근 강제 종료
 
 
 ;bookmarks
-bookmarks
+북마크
 
 
 ;This Month
-This Month
+이번달
 
 
 ;crashes
-crashes
+강제 종료
 
 
 ;Add-ons
-Add-ons
+확장 기능
 
 
 ;View List
-View List
+목록 보기
 
 
 ;enabled
-enabled
+활성
 
 
 ;disabled
-disabled
+비활성
 
 
 ;Plugins
-Plugins
+플러그인
 
 
 ;Tips
-Tips
+힌트
 
 
 ;Wear and Tear
@@ -95,326 +95,326 @@ Wear and Tear
 
 
 ;It looks like your browser has crashed a number of times recently. To learn more:
-It looks like your browser has crashed a number of times recently. To learn more:
+브라우저가 최근에 몇차례 강제 종료된 것 같습니다. 자세히 확인하기 위해서:
 
 
 ;OFF
-OFF
+OFF {ok}
 
 
 ;Visit our <a href="%(sumo_url)s">support website</a>
-Visit our <a href="%(sumo_url)s">support website</a>
+<a href="%(sumo_url)s">도움말 사이트</a>를 방문해 보세요.
 
 
 ;View more <a href="%(details_url)s">detailed information</a>
-View more <a href="%(details_url)s">detailed information</a>
+<a href="%(details_url)s">보다 상세한 정보</a>를 확인해 보세요.
 
 
 ;pages visited
-pages visited
+방문한 페이지 수
 
 
 ;Your browser seems to be running slower than usual. To learn more:
-Your browser seems to be running slower than usual. To learn more:
+브라우저가 보통때보다 느린 것 같습니다. 자세히 확인하기 위해서:
 
 
 ;You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
-You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
+브라우저를 더 많이 사용할 수록 자세히 참고 할 만 한 데이터를 확인할 수 있습니다. 경향을 파악하기 위해서 몇 주 후에 다시 방문해 보세요.
 
 
 ;Startup Time by Day
-Startup Time by Day
+일별 구동 시간
 
 
 ;Graph:
-Graph:
+그래프:
 
 
 ;Average
-Average
+평균
 
 
 ;All
-All
+전체
 
 
 ;Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
-Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
+구동시간을 통해서 Firefox의 성능이 어떠한지 확인할 수 있습니다. 보통 빨리 로딩(적은 시간)이 되면 성능이 더 뛰어남을 의미합니다.
 
 
 ;Data Collected
-Data Collected
+수집된 데이타
 
 
 ;Glossary
-Glossary
+용어 사전
 
 
 ;What the Firefox Health Report Measures
-What the Firefox Health Report Measures
+Firefox Health Report의 측정 범위
 
 
 ;The Firefox Health Report (FHR) has 5 categories of metrics:
-The Firefox Health Report (FHR) has 5 categories of metrics:
+Firefox Health Report(FHR)는 5가지의 정보를 측정합니다:
 
 
 ;Configuration
-Configuration
+설정
 
 
 ;Device hardware, operating system, Firefox version
-Device hardware, operating system, Firefox version
+단말기 하드웨어, 운영체제, Firefox 버전
 
 
 ;Customizations
-Customizations
+개인화
 
 
 ;Add-ons, count and type
-Add-ons, count and type
+확장기능, 갯수와 종류
 
 
 ;Performance
-Performance
+성능
 
 
 ;Timing of browser events, rendering, session restores
-Timing of browser events, rendering, session restores
+브라우저 이벤트 타이밍, 랜더링, 세션 session 복구
 
 
 ;Length of session, how old a profile is, count of crashes, count of pages
-Length of session, how old a profile is, count of crashes, count of pages
+세션의 길이, 프로필이 오래된 정도, 강제 종료 횟수, 페이지 갯수
 
 
 ;Detailed Description
-Detailed Description
+상세 설명
 
 
 ;Metric
-Metric
+측정
 
 
 ;Description
-Description
+설명
 
 
 ;Binary interface for XPCOM
-Binary interface for XPCOM
+XPCOM 바이너리 인터페이스
 
 
 ;Identifier for this build of the application based on the date the build was started
-Identifier for this build of the application based on the date the build was started
+빌드가 시작된 날을 기준으로한 어플르케이션 빌드의 식별자
 
 
 ;Operating System for which this build was configured
-Operating System for which this build was configured
+빌드가 설정된 운영체제
 
 
 ;Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
-Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
+사용하고 있는 특정 배포본 어플리케이션의 식별자, <var>distribution.id</var> 설정을 참고합니다.
 
 
 ;Version of the distribution, taken from the <var>distribution.version</var> preference
-Version of the distribution, taken from the <var>distribution.version</var> preference
+배포본의 버전, <var>distribution.version</var> 설정을 참고합니다.
 
 
 ;The version number of any Mozilla hotfix applied to the application
-The version number of any Mozilla hotfix applied to the application
+어플리케이션에 적용된 Mozilla 핫픽스의 버전 넘버
 
 
 ;Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
-Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
+Firefox나 Thunderbird 등을 나타내는 어플리케이션 고유의 식별자. <var>appName</var>과 상관없이 모든 어플리케이션 설치본이 동일함.
 
 
 ;The configured name of the application (Firefox/Aurora/Nightly for instance)
-The configured name of the application (Firefox/Aurora/Nightly for instance)
+어플리케이션의 설정 이름(예를 들면 Firefox/Aurora/Nightly)
 
 
 ;The channel this installation checks for application updates (nightly/aurora/beta/release)
-The channel this installation checks for application updates (nightly/aurora/beta/release)
+어플리케이션 업데이트를 체크하는 채널(nightly/aurora/beta/release)
 
 
 ;The name of the company/provider who built this version
-The name of the company/provider who built this version
+이 버전을 만든 회사/제공자 이름
 
 
 ;The current version of the product
-The current version of the product
+제품의 현재 버전
 
 
 ;Number of processor cores
-Number of processor cores
+프로세서 코어의 갯수
 
 
 ;Whether the application is currently configured to be the default browser for the operating system
-Whether the application is currently configured to be the default browser for the operating system
+어플리케이션이 현재 운영체제의 기본 브라우저로 설정되었는지 여부
 
 
 ;Locale currently being used
-Locale currently being used
+현재 사용하고 있는 로케일
 
 
 ;Amount of RAM in megabytes
-Amount of RAM in megabytes
+메가바이트로 표시된 RAM 용량
 
 
 ;Currently running Operating System (kernel) name
-Currently running Operating System (kernel) name
+현재 사용하고 있는 운영체제(커널) 이름
 
 
 ;Currently running Operating System (kernel) version
-Currently running Operating System (kernel) version
+현재 사용하고 있는 운영체제(커널) 버전
 
 
 ;The build identifier of the Gecko platform code
-The build identifier of the Gecko platform code
+Gecko 플랫폼 코드 빌드 식별자
 
 
 ;The version of the Gecko platform code
-The version of the Gecko platform code
+Gecko 플랫폼 코드의 버전
 
 
 ;Processor architecture
-Processor architecture
+프로세서 아키텍쳐
 
 
 ;The date this version was first used with this installation profile
-The date this version was first used with this installation profile
+현재 설치된 프로파일로 이 버전이 처음으로 사용된 날짜
 
 
 ;An application version which has been used with this installation profile
-An application version which has been used with this installation profile
+현재 설치된 프로파일로 사용된 어플리케이션 버전
 
 
 ;The number of add-ons of this type that existed in the profile on this date
-The number of add-ons of this type that existed in the profile on this date
+이 날짜와 프로파일에 존재했던 부가기능의 갯수
 
 
 ;<var>True</var> if the application automatically disabled the add-on
-<var>True</var> if the application automatically disabled the add-on
+어플리케이션이 자동으로 애드온을 비활성화 했으면 <var>True</var>
 
 
 ;Whether this add-on was installed by the user or automatically by another application
-Whether this add-on was installed by the user or automatically by another application
+이 확장기능이 사용자나 다른 어플리케이션에 의해 자동으로 설치되었는지 여부
 
 
 ;Whether this add-on has native code.
-Whether this add-on has native code.
+이 확장기능이 네이티브 코드를 포함하고 있는지 여부.
 
 
 ;The identifier of this add-on as defined by the add-on developer
-The identifier of this add-on as defined by the add-on developer
+확장기능 개발자에 의해 설정된 이 확장기능의 식별자
 
 
 ;The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
-The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
+이 부가기능이 설치된 최근 날짜(삭제된 부가기능에대한 이전 정보는 보존되지 않음).
 
 
 ;The number of searches performed with this search engine from this part of the UI
-The number of searches performed with this search engine from this part of the UI
+UI이 이 부분에서 이 검색엔진으로 행해진 검색 횟수
 
 
 ;Whether this add-on was installed in the application directory or profile directory
-Whether this add-on was installed in the application directory or profile directory
+이 부가기능이 어플리케이션 디렉토리에 설치되었는지 프로필 디렉토리에 설치되었는지 여부
 
 
 ;Whether this add-on is an extension or a plug-in
-Whether this add-on is an extension or a plug-in
+이 부가기능이 확장기능인지 플러그인인지 여부
 
 
 ;The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
-The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
+이 부가기능이 업데이트된 최근 날짜(삭제된 부가기능에대한 이전 정보는 보존되지 않음).
 
 
 ;<var>True</var> if the user manually disabled the add-on
-<var>True</var> if the user manually disabled the add-on
+사용자가 수동으로 부가기능을 비활성화 했으면 <var>True</var>
 
 
 ;The current version of this add-on
-The current version of this add-on
+이 부가기능의 현재 버전
 
 
 ;How long in milliseconds it took during startup for the application to render the UI and display the window
-How long in milliseconds it took during startup for the application to render the UI and display the window
+어플리케이션이 시작될 때 UI와 디스플레이 윈도우를 그려내는데 걸린 밀리초 시간
 
 
 ;How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
-How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
+어플리케이션이 시작될 때 라이브러리를 로딩하고 기본 초기화를 마치는데 걸린 밀리초 시간
 
 
 ;How long in milliseconds it took during startup for the application to restore tabs from the previous session
-How long in milliseconds it took during startup for the application to restore tabs from the previous session
+어플리케이션이 시작될 때 이전 세션의 탭을 복원하는데 걸린 밀리초 시간
 
 
 ;The number of times the application was run and not cleanly shut down.
-The number of times the application was run and not cleanly shut down.
+어플리케이션이 구동됐다가 완전히 종료되지 않은 횟수
 
 
 ;The time in seconds that the aborted sessions were not idle
-The time in seconds that the aborted sessions were not idle
+취소된 세션이 대기상태가 아니었던 초단위 시간
 
 
 ;The time in seconds that the aborted sessions were running
-The time in seconds that the aborted sessions were running
+최소된 세션이 작동중이었던 초단위 시간
 
 
 ;The number of days since this application profile directory was created
-The number of days since this application profile directory was created
+어플리케이션 프로필 디렉토리가 생성된 이후의 날짜
 
 
 ;The number of times the application was run and cleanly shut down.
-The number of times the application was run and cleanly shut down.
+어플리케이션이 구동됐다가 문제 없이 종료된 횟수
 
 
 ;The time in seconds that the completed sessions were not idle
-The time in seconds that the completed sessions were not idle
+완료된 세션이 대기상태가 아니었던 초단위 시간
 
 
 ;The time in seconds that the completed sessions were running
-The time in seconds that the completed sessions were running
+완료된 세션이 작동중이었던 초단위 시간
 
 
 ;Total number of crashes that were recorded but not yet submitted
-Total number of crashes that were recorded but not yet submitted
+기록은 되었지만 전송되지 않은 강제 종료 횟수
 
 
 ;Total number of crashes that have been submitted
-Total number of crashes that have been submitted
+전송된 강제 종료 횟수
 
 
 ;Time in seconds the app has not been idle
-Time in seconds the app has not been idle
+앱이 대기상태가 아니었던 초단위 시간
 
 
 ;Time in seconds since the app was last started
-Time in seconds since the app was last started
+앱이 구동된 이후 지난 초단위 시간
 
 
 ;Total number of bookmarks
-Total number of bookmarks
+북마크의 갯수
 
 
 ;Total number of pages listed in the history
-Total number of pages listed in the history
+히스토리에 기록된 페이지의 갯수
 
 
 ;How long in minutes the current session has been running
-How long in minutes the current session has been running
+현재의 세션이 구동되고 있는 분단위 시간
 
 
 ;Welcome to your Firefox Health Report
-Welcome to your Firefox Health Report
+Firefox Health Report에 오신 것을 환영합니다.
 
 
 ;Welcome!
-Welcome!
+어서오세요!
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
-Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
+Firefox Health Report를 통해서 Firefox 성능을 확인하고 향상시킬 수 이는 방법을 확인할 수 있습니다.
 
 
 ;See My Report
-See My Report
+리포트 보기
 
 
