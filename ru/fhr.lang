@@ -1,25 +1,25 @@
 ;Firefox Health Report
-Firefox Health Report
+Отчёт о работоспособности Firefox
 
 
 ;Raw Data
-Raw Data
+Необработанные данные
 
 
 ;Get insights and performance information about your version of Firefox.
-Get insights and performance information about your version of Firefox.
+Получите данные и сведения о скорости работы вашего Firefox.
 
 
 ;Learn more...
-Learn more...
+Подробнее...
 
 
 ;Data Sharing
-Data Sharing
+Отправка данных
 
 
 ;ON
-ON
+ВКЛ
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
@@ -39,55 +39,55 @@ Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</
 
 
 ;Vital Stats
-Vital Stats
+Основная статистика
 
 
 ;version
-version
+версия
 
 
 ;time open
-time open
+время работы
 
 
 ;last crash
-last crash
+последнее падение
 
 
 ;bookmarks
-bookmarks
+закладки
 
 
 ;This Month
-This Month
+Этот месяц
 
 
 ;crashes
-crashes
+падения
 
 
 ;Add-ons
-Add-ons
+Дополнения
 
 
 ;View List
-View List
+Посмотреть список
 
 
 ;enabled
-enabled
+включено
 
 
 ;disabled
-disabled
+отключено
 
 
 ;Plugins
-Plugins
+Плагины
 
 
 ;Tips
-Tips
+Советы
 
 
 ;Wear and Tear
@@ -99,7 +99,7 @@ It looks like your browser has crashed a number of times recently. To learn more
 
 
 ;OFF
-OFF
+ВЫКЛ
 
 
 ;Visit our <a href="%(sumo_url)s">support website</a>
@@ -111,7 +111,7 @@ View more <a href="%(details_url)s">detailed information</a>
 
 
 ;pages visited
-pages visited
+посещённые страницы
 
 
 ;Your browser seems to be running slower than usual. To learn more:
@@ -127,15 +127,15 @@ Startup Time by Day
 
 
 ;Graph:
-Graph:
+График:
 
 
 ;Average
-Average
+Среднее
 
 
 ;All
-All
+Всё
 
 
 ;Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
@@ -143,11 +143,11 @@ Startup time helps determine how well your version of Firefox is performing. In 
 
 
 ;Data Collected
-Data Collected
+Собранные данные
 
 
 ;Glossary
-Glossary
+Глоссарий
 
 
 ;What the Firefox Health Report Measures
@@ -159,7 +159,7 @@ The Firefox Health Report (FHR) has 5 categories of metrics:
 
 
 ;Configuration
-Configuration
+Конфигурация
 
 
 ;Device hardware, operating system, Firefox version
@@ -167,7 +167,7 @@ Device hardware, operating system, Firefox version
 
 
 ;Customizations
-Customizations
+Настройки
 
 
 ;Add-ons, count and type
@@ -175,7 +175,7 @@ Add-ons, count and type
 
 
 ;Performance
-Performance
+Производительность
 
 
 ;Timing of browser events, rendering, session restores
@@ -187,19 +187,19 @@ Length of session, how old a profile is, count of crashes, count of pages
 
 
 ;Detailed Description
-Detailed Description
+Подробное описание
 
 
 ;Metric
-Metric
+Метрика
 
 
 ;Description
-Description
+Описание
 
 
 ;Binary interface for XPCOM
-Binary interface for XPCOM
+Бинарный интерфейс для XPCOM
 
 
 ;Identifier for this build of the application based on the date the build was started
@@ -227,23 +227,23 @@ Identifier unique to the application that indicates it is Firefox or Thunderbird
 
 
 ;The configured name of the application (Firefox/Aurora/Nightly for instance)
-The configured name of the application (Firefox/Aurora/Nightly for instance)
+Настроенное имя приложения (например Firefox/Aurora/Nightly)
 
 
 ;The channel this installation checks for application updates (nightly/aurora/beta/release)
-The channel this installation checks for application updates (nightly/aurora/beta/release)
+Канал по которому эта установка проверяет наличие обновлений приложения (nightly/aurora/beta/release)
 
 
 ;The name of the company/provider who built this version
-The name of the company/provider who built this version
+Название компании/провайдера собравшего эту версию
 
 
 ;The current version of the product
-The current version of the product
+Текущая версия продукта
 
 
 ;Number of processor cores
-Number of processor cores
+Число процессорных ядер
 
 
 ;Whether the application is currently configured to be the default browser for the operating system
@@ -251,31 +251,31 @@ Whether the application is currently configured to be the default browser for th
 
 
 ;Locale currently being used
-Locale currently being used
+Используемая в данный момент локаль
 
 
 ;Amount of RAM in megabytes
-Amount of RAM in megabytes
+Кол-во памяти в мегабайтах
 
 
 ;Currently running Operating System (kernel) name
-Currently running Operating System (kernel) name
+Имя запущенной в данный момент операционной системы (ядра)
 
 
 ;Currently running Operating System (kernel) version
-Currently running Operating System (kernel) version
+Версия запущенной в данный момент операционной системы (ядра)
 
 
 ;The build identifier of the Gecko platform code
-The build identifier of the Gecko platform code
+Идентификатор сборки кода платформы Gecko
 
 
 ;The version of the Gecko platform code
-The version of the Gecko platform code
+Версия кода платформы Gecko
 
 
 ;Processor architecture
-Processor architecture
+Архитектура процессора
 
 
 ;The date this version was first used with this installation profile
@@ -331,7 +331,7 @@ The most recent date this add-on was updated (previous information about an unin
 
 
 ;The current version of this add-on
-The current version of this add-on
+Текущая версия этого дополнения
 
 
 ;How long in milliseconds it took during startup for the application to render the UI and display the window
@@ -391,11 +391,11 @@ Time in seconds since the app was last started
 
 
 ;Total number of bookmarks
-Total number of bookmarks
+Общее число закладок
 
 
 ;Total number of pages listed in the history
-Total number of pages listed in the history
+Общее число страниц перечисленных в истории
 
 
 ;How long in minutes the current session has been running
@@ -403,11 +403,11 @@ How long in minutes the current session has been running
 
 
 ;Welcome to your Firefox Health Report
-Welcome to your Firefox Health Report
+Добро пожаловать в отчет о работоспособности вашего Firefox
 
 
 ;Welcome!
-Welcome!
+Добро пожаловать!
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
@@ -415,6 +415,6 @@ Firefox Health Report lets you know how your Firefox is performing and what you 
 
 
 ;See My Report
-See My Report
+Посмотреть мой отчёт
 
 
