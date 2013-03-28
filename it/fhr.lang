@@ -23,7 +23,7 @@ Attivata
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
-Hai scelto di non condividere più i dati con Mozilla,ma potrai sempre accedere alle informazioni sulle prestazioni del tuo browser.
+Hai scelto di non condividere più i dati con Mozilla, ma potrai sempre accedere alle informazioni sulle prestazioni del tuo browser.
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
@@ -119,7 +119,7 @@ Il tuo browser risulta più lento del solito. Per ulteriori informazioni:
 
 
 ;You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
-Più il browser viene utilizzato, più dettagliate e interessanti saranno le informazioni visualizzate. Controlla nuovamente questa pagina tra un paio di settimane per scoprire nuove tendenze.
+Più il browser viene utilizzato, più dettagliate e rilevanti saranno le informazioni visualizzate. Controlla nuovamente questa pagina tra un paio di settimane per scoprire nuove tendenze.
 
 
 ;Startup Time by Day
@@ -405,11 +405,11 @@ Benvenuto nella pagina di valutazione integrità di Firefox
 
 
 ;Welcome!
-Benvenuto/a.
+Benvenuto.
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
-Valutazione integrità di Firefox permette di scoprire in che stato sono le prestazioni della versione Firefox in uso e come migliorarle.
+Valutazione integrità di Firefox (<abbr title="Firefox Health Report">FHR</abbr>) permette di analizzare le prestazioni della propria versione di Firefox e scoprire come migliorarle.
 
 
 ;See My Report
