@@ -91,7 +91,7 @@ ON
 
 
 ;Wear and Tear
-Wear and Tear
+استهلاک و فرسایش
 
 
 ;It looks like your browser has crashed a number of times recently. To learn more:
@@ -119,7 +119,7 @@ OFF
 
 
 ;You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
-هر چه بیشتر از مرورگر خود استفاده کنید می‌توانید اطلاعات جالب‌تر و جزئی‌تری را ببینید. دوباره بعد از چند هفته بررسی کنید تا روندهای جذابی را ببینید.
+هر چه بیشتر از مرورگر خود استفاده کنید می‌توانید اطلاعات جالب‌تر و جزئی‌تری را ببینید. دوباره بعد از چند هفته بررسی کنید تا روندهای جذابی را مشاهده کنید.
 
 
 ;Startup Time by Day
@@ -203,7 +203,7 @@ OFF
 
 
 ;Identifier for this build of the application based on the date the build was started
-شناسه مربوط به این ساخت از برنامه بر اساس تاریخی که این ساخت شروع شده است
+شناسه مربوط به این ساخت از برنامه بر اساس تاریخی که ساخت شروع شده است
 
 
 ;Operating System for which this build was configured
