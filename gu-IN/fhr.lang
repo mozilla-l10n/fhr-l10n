@@ -7,199 +7,199 @@ Firefox આરોગ્ય અહેવાલ
 
 
 ;Get insights and performance information about your version of Firefox.
-Get insights and performance information about your version of Firefox.
+તમારી Firefox ની આવૃત્તિ માટે કામગીરી અને બીજી વધુ વિગતો મેળવો.
 
 
 ;Learn more...
-Learn more...
+વધુ શીખો...
 
 
 ;Data Sharing
-Data Sharing
+માહિતી વહેંચવાનું
 
 
 ;ON
-ON
+ચાલુ
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
-You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
+તમે Mozilla સાથે માહિતી વહેંચવાનું અટકાવવાની પસંદગી કરી છે, પરંતુ તમે હજુ પણ જોઇ શકો છો કે તમારું બ્રાઉઝર કેવી રીતે પ્રતિભાવ આપે છે.
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
-Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
+તમારી આરોગ્ય અહેવાલ માહિતી પણ Mozilla ના સર્વરોમાંથી દૂર થઇ જશે. અમારી <a href="%(privacy_url)s">ખાનગીપણાની નીતિમાંથી</a> વધુ શીખો.
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
-You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
+તમે Mozilla સાથે સમયાનુસાર માહિતી વહેંચવાનું પસંદ કર્યું છે. વેબ માટે તેજસ્વી ભવિષ્ય બનાવવાના અમારા લક્ષ્યનો ભાગ બનવા માટે તમારો આભાર.
 
 
 ;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
-Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
+અમારી <a href="%(privacy_url)s">ખાનગીપણાની નીતિમાં</a> અમે કેવી રીતે તમારી માહિતી સંભાળીએ છીએ તે શીખો.
 
 
 ;Vital Stats
-Vital Stats
+અગત્યના અંકો
 
 
 ;version
-version
+આવૃત્તિ
 
 
 ;time open
-time open
+વખત ચાલુ
 
 
 ;last crash
-last crash
+છેલ્લો ભંગાણ
 
 
 ;bookmarks
-bookmarks
+બુકમાર્કો
 
 
 ;This Month
-This Month
+આ માહિનો
 
 
 ;crashes
-crashes
+ભંગાણો
 
 
 ;Add-ons
-Add-ons
+ઍડ-ઑન
 
 
 ;View List
-View List
+દૃશ્ય યાદી
 
 
 ;enabled
-enabled
+સક્રિયકૃત
 
 
 ;disabled
-disabled
+નિષ્ક્રિયકૃત
 
 
 ;Plugins
-Plugins
+પ્લગઇનો
 
 
 ;Tips
-Tips
+ટિપ્પણીઓ
 
 
 ;Wear and Tear
-Wear and Tear
+પહેરો અને કાપો
 
 
 ;It looks like your browser has crashed a number of times recently. To learn more:
-It looks like your browser has crashed a number of times recently. To learn more:
+એવું લાગે છે કે તમારું બ્રાઉઝર હાલમાં જ ઘણી વખત ભાંગ્યુ છે. વધુ શીખવા માટે:
 
 
 ;OFF
-OFF
+બંધ
 
 
 ;Visit our <a href="%(sumo_url)s">support website</a>
-Visit our <a href="%(sumo_url)s">support website</a>
+અમારી <a href="%(sumo_url)s">આધાર વેબસાઇટની</a> મુલાકાત લો
 
 
 ;View more <a href="%(details_url)s">detailed information</a>
-View more <a href="%(details_url)s">detailed information</a>
+વધુ <a href="%(details_url)s">વિગતવાર માહિતી</a> જુઓ
 
 
 ;pages visited
-pages visited
+મુલાકાત લીધેલા પાનાંઓ
 
 
 ;Your browser seems to be running slower than usual. To learn more:
-Your browser seems to be running slower than usual. To learn more:
+તમારું બ્રાઉઝર હંમેશ કરતાં થોડું ધીમું ચાલી રહ્યું હોય એવું લાગે છે. વધુ શીખવા માટે:
 
 
 ;You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
-You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
+તમે જેમ જેમ બ્રાઉઝર વાપરતા જશો તેમ તેમ તમે વધુ રસપ્રદ અને વિગતવાર માહિતી જોઇ શકશો. અમુક દિશાઓ જોવા માટે થોડા અઠવાડિયાઓ પછી ફરી ચકાસો.
 
 
 ;Startup Time by Day
-Startup Time by Day
+દિવસ પ્રમાણે શરૂઆત સમય
 
 
 ;Graph:
-Graph:
+ગ્રાફ:
 
 
 ;Average
-Average
+સરેરાશ
 
 
 ;All
-All
+બધું
 
 
 ;Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
-Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
+શરૂઆત સમય તમને એ નક્કી કરવામાં મદદ કરશે કે તમારી Firefox ની આવૃત્તિ કેટલી સારી કામ કરી રહી છે. સામાન્ય રીતે, ઝડપી સમયો (એટલે કે ઓછો સમય) સારી કામગીરી સૂચવે છે.
 
 
 ;Data Collected
-Data Collected
+માહિતી ભેગી થઇ
 
 
 ;Glossary
-Glossary
+શબ્દાવલી
 
 
 ;What the Firefox Health Report Measures
-What the Firefox Health Report Measures
+Firefox આરોગ્ય અહેવાલ શું માપે છે
 
 
 ;The Firefox Health Report (FHR) has 5 categories of metrics:
-The Firefox Health Report (FHR) has 5 categories of metrics:
+Firefox આરોગ્ય અહેવાલ (Health Report - FHR) ને ૫ વર્ગોના માપદંડ છે:
 
 
 ;Configuration
-Configuration
+રૂપરેખાંકન
 
 
 ;Device hardware, operating system, Firefox version
-Device hardware, operating system, Firefox version
+ઉપકરણ હાર્ડવેર, ઑપરેટિંગ સિસ્ટમ, Firefox આવૃત્તિ
 
 
 ;Customizations
-Customizations
+વૈવિધ્યપણાઓ
 
 
 ;Add-ons, count and type
-Add-ons, count and type
+ઍડ-ઑન, ગણના અને પ્રકાર
 
 
 ;Performance
-Performance
+કામગીરી
 
 
 ;Timing of browser events, rendering, session restores
-Timing of browser events, rendering, session restores
+બ્રાઉઝર ઘટનાઓ, રેન્ડરીંગ, સત્ર પુનઃસ્થાપનોનો સમય
 
 
 ;Length of session, how old a profile is, count of crashes, count of pages
-Length of session, how old a profile is, count of crashes, count of pages
+સત્રની લંબાઇ, રૂપરેખા કેટલી જૂની છે, ભંગાણોની સંખ્યા, અને પાનાંઓની સંખ્યા
 
 
 ;Detailed Description
-Detailed Description
+વિગતવાર વર્ણન
 
 
 ;Metric
-Metric
+માપદંડ
 
 
 ;Description
-Description
+વર્ણન
 
 
 ;Binary interface for XPCOM
-Binary interface for XPCOM
+XPCOM માટે બાઇનરી ઇન્ટરફેસ
 
 
 ;Identifier for this build of the application based on the date the build was started
