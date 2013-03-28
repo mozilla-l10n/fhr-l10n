@@ -107,7 +107,7 @@ Bezoek onze <a href="%(sumo_url)s">ondersteuningswebsite</a>
 
 
 ;View more <a href="%(details_url)s">detailed information</a>
-Meer <a href="%(details_url)s">gedetailleerde gegevens</a> bekijken
+Bekijk meer <a href="%(details_url)s">gedetailleerde gegevens</a>
 
 
 ;pages visited
