@@ -1,420 +1,420 @@
 ;Firefox Health Report
-Firefox Health Report
+Firefox წარმადობის პატაკი
 
 
 ;Raw Data
-Raw Data
+ნედლი მონაცემები
 
 
 ;Get insights and performance information about your version of Firefox.
-Get insights and performance information about your version of Firefox.
+მიიღეთ მონაცემები თქვენი Firefox ბრაუზერის წარმადობის შესახებ.
 
 
 ;Learn more...
-Learn more...
+დაწვრილებით...
 
 
 ;Data Sharing
-Data Sharing
+მონაცემთა გაზიარება
 
 
 ;ON
-ON
+დიახ
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
-You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
+თქვენ გადაწყვიტეთ არ გაუზიაროთ მონაცემები Mozilla-ს, თუმცა კვლავ შეგიძლიათ თვალი მიადევნოთ თქვენი ბრაუზერის წარმადობას.
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
-Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
+თქვენი პატაკები წარმადობის შესახებ ასევე ამოიშლება Mozilla-ს სერვერბიდან. დეტალებისთვის გაეცანით ჩვენს <a href="%(privacy_url)s">კონფიდენციალობის პოლიტიკას.</a>
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
-You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
+თქვენ გადაწყვიტეთ დროდადრო მონაცემები გაუზიაროთ Mozilla-ს. გმადლობთ, რომ ჩვენთან ერთად ცდილობთ ინტერნეტის გაუმჯობესებას.
 
 
 ;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
-Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
+გაეცანით თქვენი გამოგზავნილი მონაცემების დამუშავების დეტალებს ჩვენი <a href="%(privacy_url)s">კონფიდენციალობის პოლიტიკიდან.</a>
 
 
 ;Vital Stats
-Vital Stats
+ძირითადი სტატისტიკა
 
 
 ;version
-version
+ვერსია
 
 
 ;time open
-time open
+სამუშაო დრო
 
 
 ;last crash
-last crash
+ბოლო წყვეტა
 
 
 ;bookmarks
-bookmarks
+სანიშნეები
 
 
 ;This Month
-This Month
+ეს თვე
 
 
 ;crashes
-crashes
+წყვეტები
 
 
 ;Add-ons
-Add-ons
+მოდულები
 
 
 ;View List
-View List
+სიის ჩვენება
 
 
 ;enabled
-enabled
+ჩართულია
 
 
 ;disabled
-disabled
+ამორთულია
 
 
 ;Plugins
-Plugins
+პაკეტები
 
 
 ;Tips
-Tips
+რჩევები
 
 
 ;Wear and Tear
-Wear and Tear
+დაზიანებები
 
 
 ;It looks like your browser has crashed a number of times recently. To learn more:
-It looks like your browser has crashed a number of times recently. To learn more:
+როგორც ჩანს, უკანასკნელ ხანს თქვენი ბრაუზერის მუშოაბა რამდენჯერმე შეწყდა. დეტალებისთვის:
 
 
 ;OFF
-OFF
+არა
 
 
 ;Visit our <a href="%(sumo_url)s">support website</a>
-Visit our <a href="%(sumo_url)s">support website</a>
+ესტუმრეთ ჩვენი <a href="%(sumo_url)s">მხარდაჭერის ვებსაიტს</a>
 
 
 ;View more <a href="%(details_url)s">detailed information</a>
-View more <a href="%(details_url)s">detailed information</a>
+იხილეთ უფრო <a href="%(details_url)s">დაწვრილებითი ინფორმაცია</a>
 
 
 ;pages visited
-pages visited
+ნანახი გვერდები
 
 
 ;Your browser seems to be running slower than usual. To learn more:
-Your browser seems to be running slower than usual. To learn more:
+როგორც ჩანს, თქვენი ბრაუზერი ჩვეულებრივზე უფრო ნელია. დეტალებისთვის:
 
 
 ;You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
-You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
+თქვენ შეძლებთ გაეცნოთ უფრო საინტერესო და დეტალურ ინფორმაციას თქვენი ბრაუზერის შესახებ. კვლავ გვინახულეთ ორიოდე კვირის შემდეგ სიახლეების გასაცნობად.
 
 
 ;Startup Time by Day
-Startup Time by Day
+გახსნა დღეების მიხედვით
 
 
 ;Graph:
-Graph:
+გრაფიკი:
 
 
 ;Average
-Average
+საშუალო
 
 
 ;All
-All
+ყველა
 
 
 ;Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
-Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
+გახსნის დრო დაგეხმარებათ გაარკვიოთ რამდენად მაღალია თქვენი Firefox ბრაუზერის წარმადობა. ჩვეულებრივ, სწრაფი გახსნა (ე.ი. ნაკლები დრო) უფრო მაღალი წარმადობის მაჩვენებელია.
 
 
 ;Data Collected
-Data Collected
+შეგროვილი მონაცემები
 
 
 ;Glossary
-Glossary
+სიტყვარი
 
 
 ;What the Firefox Health Report Measures
-What the Firefox Health Report Measures
+რა იზომება Firefox წარმადობის პატაკით
 
 
 ;The Firefox Health Report (FHR) has 5 categories of metrics:
-The Firefox Health Report (FHR) has 5 categories of metrics:
+Firefox წარმადობის პატაკი (FHR) შეიცავს მაCვენებელთა 5 კატეგორიას:
 
 
 ;Configuration
-Configuration
+კონფიგურაცია
 
 
 ;Device hardware, operating system, Firefox version
-Device hardware, operating system, Firefox version
+მოწყობილობა, საოპერაციო სისტემა, Firefox ვერსია
 
 
 ;Customizations
-Customizations
+საკუთარი პარამეტრები
 
 
 ;Add-ons, count and type
-Add-ons, count and type
+მოდულები, რაოდენობა და ტიპი
 
 
 ;Performance
-Performance
+წარმადობა
 
 
 ;Timing of browser events, rendering, session restores
-Timing of browser events, rendering, session restores
+ბრაუზერის ოპერაციები დროში, ასახვა, სეანსების აღდგენა
 
 
 ;Length of session, how old a profile is, count of crashes, count of pages
-Length of session, how old a profile is, count of crashes, count of pages
+სეანსის ხანგრძლიობა, პროფაილის ასაკი, წყვეტათა რაოდენობა, გვერდების რაოდენობა
 
 
 ;Detailed Description
-Detailed Description
+დეტალური აღწერილობა
 
 
 ;Metric
-Metric
+მეტრიკა
 
 
 ;Description
-Description
+აღწერილობა
 
 
 ;Binary interface for XPCOM
-Binary interface for XPCOM
+XPCOM ორობითი ინტერფეისი
 
 
 ;Identifier for this build of the application based on the date the build was started
-Identifier for this build of the application based on the date the build was started
+იდენტიფიკატორი პროგრამის ამ ვერსიისთვის, რომელიც აგების თარიღზეა დაფუძნებული
 
 
 ;Operating System for which this build was configured
-Operating System for which this build was configured
+საოპერაციო სისტემა ამ ვერსიისთვის
 
 
 ;Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
-Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
+იდენტიფიკატორი პროგრამის კონკრეტული გამოყენებული გამოშვების ვერსიისთვის. იგი აღებულია პარამეტრიდან <var>distribution.id</var>
 
 
 ;Version of the distribution, taken from the <var>distribution.version</var> preference
-Version of the distribution, taken from the <var>distribution.version</var> preference
+პროგრამის გამოშვების ვერსია აღებული პარამეტრიდან <var>distribution.version</var>
 
 
 ;The version number of any Mozilla hotfix applied to the application
-The version number of any Mozilla hotfix applied to the application
+ვერსიის ნომერი ამ პროგრამის ნებისმიერი Mozilla ჩასწორებისთვის
 
 
 ;Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
-Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
+უნიკალური იდენტიფიკატორი პროგრამისთვის, რომელიც მიუთითებს Firefox, Thunderbird და ა.შ.. იგივეა პროგრამის ყველა ჩადგმისთვის განურCევლად პარამეტრისა <var>appName</var>
 
 
 ;The configured name of the application (Firefox/Aurora/Nightly for instance)
-The configured name of the application (Firefox/Aurora/Nightly for instance)
+პროგრამის მითითებული სახელი (მაგალითად, Firefox/Aurora/Nightly)
 
 
 ;The channel this installation checks for application updates (nightly/aurora/beta/release)
-The channel this installation checks for application updates (nightly/aurora/beta/release)
+არხი, რომლის საშუალებითაც ეს ჩადგმა ამოწმებს პროგრამას განახლებებზე (nightly/aurora/beta/release)
 
 
 ;The name of the company/provider who built this version
-The name of the company/provider who built this version
+ამ ვერსიის ამგები კომპანიის/პროვაიდერის სახელი
 
 
 ;The current version of the product
-The current version of the product
+პროდუქტის მიმდინარე ვერსია
 
 
 ;Number of processor cores
-Number of processor cores
+პროცესორის ბირთვთა რაოდენობა
 
 
 ;Whether the application is currently configured to be the default browser for the operating system
-Whether the application is currently configured to be the default browser for the operating system
+მითითებულია თუ არა ამ დროისთვის პროგრამა როგორც ამ საოპერაციო სისტემის ნაგულისხმები ბრაუზერი
 
 
 ;Locale currently being used
-Locale currently being used
+მიმდინარე გამოყენებული ლოკალი
 
 
 ;Amount of RAM in megabytes
-Amount of RAM in megabytes
+RAM-ის მოცულობა მეგაბაიტებში
 
 
 ;Currently running Operating System (kernel) name
-Currently running Operating System (kernel) name
+მიმდინარე საოპერაციო სისტემის (kernel - ბირთვის) სახელი
 
 
 ;Currently running Operating System (kernel) version
-Currently running Operating System (kernel) version
+მიმდინარე საოპერაციო სისტემის (kernel - ბირთვის) ვერსია
 
 
 ;The build identifier of the Gecko platform code
-The build identifier of the Gecko platform code
+Gecko პლატფორმის კოდის აგების ვერსიის იდენტიფიკატორი
 
 
 ;The version of the Gecko platform code
-The version of the Gecko platform code
+Gecko პლატფორმის კოდის ვერსია
 
 
 ;Processor architecture
-Processor architecture
+პროცესორის არქიტექტურა
 
 
 ;The date this version was first used with this installation profile
-The date this version was first used with this installation profile
+ამ ვერსიით სარგებლობის პირველი თარიღი ჩადგმის ამ პროფაილისთვის
 
 
 ;An application version which has been used with this installation profile
-An application version which has been used with this installation profile
+პროგრამის ვერსია ჩადგმის ამ პროფაილისთვის
 
 
 ;The number of add-ons of this type that existed in the profile on this date
-The number of add-ons of this type that existed in the profile on this date
+ამ ტიპის მოდულთა რაოდენობა პროფაილში ამ თარიღისთვის
 
 
 ;<var>True</var> if the application automatically disabled the add-on
-<var>True</var> if the application automatically disabled the add-on
+<var>True</var> თუ პროგრამამ მოდული ავტომატურად ამორთო
 
 
 ;Whether this add-on was installed by the user or automatically by another application
-Whether this add-on was installed by the user or automatically by another application
+ჩაიდგა თუ არა ეს მოდული მომხმარებლის მიერ თუ ავტომატურად სხვა პროგრამის მიერ
 
 
 ;Whether this add-on has native code.
-Whether this add-on has native code.
+შეიცავს თუ არა მოდული საკუთარ კოდს.
 
 
 ;The identifier of this add-on as defined by the add-on developer
-The identifier of this add-on as defined by the add-on developer
+ამ მოდულის იდენტიფიკატორი მოდულის პროგრამისტისგან
 
 
 ;The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
-The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
+ამ მოდულის ბოლო ჩადგმის თარიღი (წინა ინფორმაცია მოდულის ამოღების შესახებ არ ინახება).
 
 
 ;The number of searches performed with this search engine from this part of the UI
-The number of searches performed with this search engine from this part of the UI
+ძიების მოთხოვნათა რაოდენობა ამ საძიებო სისტემით ინტერფეისის ამ სარკმლიდან
 
 
 ;Whether this add-on was installed in the application directory or profile directory
-Whether this add-on was installed in the application directory or profile directory
+ჩაიდგა თუ არა ეს მოდული პროგრამის თუ პროფაილის დასტაში
 
 
 ;Whether this add-on is an extension or a plug-in
-Whether this add-on is an extension or a plug-in
+არის ეს მოდული პაკეტი თუ დამატება
 
 
 ;The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
-The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
+ამ მოდულის ბოლო განახლების თარიღი (წინა ინფორმაცია მოდულის ამოღების შესახებ არ ინახება).
 
 
 ;<var>True</var> if the user manually disabled the add-on
-<var>True</var> if the user manually disabled the add-on
+<var>True</var> თყ მონაწილემ თავად ამორთო ეს მოდული
 
 
 ;The current version of this add-on
-The current version of this add-on
+ამ მოდულის მიმდინარე ვერსიაა
 
 
 ;How long in milliseconds it took during startup for the application to render the UI and display the window
-How long in milliseconds it took during startup for the application to render the UI and display the window
+რა დრო (მილიწამებში) დასჭირდა პროგრამას გახსნისას სამომხმარებლო ინტერფეისისა და სარკმლის ასახვისათვის
 
 
 ;How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
-How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
+რა დრო (მილიწამებში) დასჭირდა პროგრამას გახსნისას ბიბლიოთეკების ჩასატვირთად და პირველადი ინიციალიზაციის დასასრულებლად
 
 
 ;How long in milliseconds it took during startup for the application to restore tabs from the previous session
-How long in milliseconds it took during startup for the application to restore tabs from the previous session
+რა დრო (მილიწამებში) დასჭირდა პროგრამას გახსნისას წინა სეანსების დაფების აღსადგენად
 
 
 ;The number of times the application was run and not cleanly shut down.
-The number of times the application was run and not cleanly shut down.
+რამდენჯერ გაიხსნა პროგრამა და არაკორექტულად დაიხურა.
 
 
 ;The time in seconds that the aborted sessions were not idle
-The time in seconds that the aborted sessions were not idle
+წამების რაოდენობა როცა შეწყვეტილი სეანსები უქმად არ იყო
 
 
 ;The time in seconds that the aborted sessions were running
-The time in seconds that the aborted sessions were running
+წამების რაოდენობა როცა შეწყვეტილი სეანსები მუშაობდა
 
 
 ;The number of days since this application profile directory was created
-The number of days since this application profile directory was created
+დღეთა რაოდენობა პროგრამის პროფაილის დასტის შექმნიდან
 
 
 ;The number of times the application was run and cleanly shut down.
-The number of times the application was run and cleanly shut down.
+რამდენჯერ გაიხსნა პროგრამა და კორექტულად დაიხურა.
 
 
 ;The time in seconds that the completed sessions were not idle
-The time in seconds that the completed sessions were not idle
+წამების რაოდენობა როცა დასრულებული სეანსები უქმად არ იყო
 
 
 ;The time in seconds that the completed sessions were running
-The time in seconds that the completed sessions were running
+წამების რაოდენობა დასრულებული სეანსებისთვის მუშაობდა
 
 
 ;Total number of crashes that were recorded but not yet submitted
-Total number of crashes that were recorded but not yet submitted
+ბრაუზერის მუშობის წყვეტათა სრული რაოდენობა, რომლებიც არ გამოგზავნილა
 
 
 ;Total number of crashes that have been submitted
-Total number of crashes that have been submitted
+მუშაობის გამოგზავნილ წყვეტათა სრული რაოდენობა
 
 
 ;Time in seconds the app has not been idle
-Time in seconds the app has not been idle
+წამების რაოდენობა როცა პროგრამა უქმად არ იყო
 
 
 ;Time in seconds since the app was last started
-Time in seconds since the app was last started
+წამების რაოდენობა პროგრამის ბოლო გახსნის შემდეგ
 
 
 ;Total number of bookmarks
-Total number of bookmarks
+სანიშნეთა რაოდენობა სულ
 
 
 ;Total number of pages listed in the history
-Total number of pages listed in the history
+გვერდების სრული რაოდენობა ისტორიაში სულ
 
 
 ;How long in minutes the current session has been running
-How long in minutes the current session has been running
+რამდენ ხანს გრძელდებოდა მიმდინარე სეანსი (წუთებში)
 
 
 ;Welcome to your Firefox Health Report
-Welcome to your Firefox Health Report
+მოგესალმებით თქენი Firefox წარმადობის პატაკში
 
 
 ;Welcome!
-Welcome!
+მოგესალმებით!
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
-Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
+Firefox წარმადობის პატაკი წარმოდგენას შეგიქმნით თქვენი Firefox ბრაუზერის შესახებ და იმაზე თუ როგორ შეგიძლიათ მისი გაუმჯობესება.
 
 
 ;See My Report
-See My Report
+ჩემი პატაკის ჩვენება
 
 
