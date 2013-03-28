@@ -35,7 +35,7 @@ You've chosen to share your data with Mozilla from time to time. Thanks for bein
 
 
 ;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
-Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
+Узнайте, как мы обрабатываем ваши данные, из нашей <a href="%(privacy_url)s">политики приватности.</a>
 
 
 ;Vital Stats
@@ -95,7 +95,7 @@ Wear and Tear
 
 
 ;It looks like your browser has crashed a number of times recently. To learn more:
-It looks like your browser has crashed a number of times recently. To learn more:
+Похоже, что в последнее время ваш браузер несколько раз упал. Чтобы узнать больше:
 
 
 ;OFF
@@ -103,11 +103,11 @@ It looks like your browser has crashed a number of times recently. To learn more
 
 
 ;Visit our <a href="%(sumo_url)s">support website</a>
-Visit our <a href="%(sumo_url)s">support website</a>
+Посетите наш <a href="%(sumo_url)s">веб-сайт поддержки</a>
 
 
 ;View more <a href="%(details_url)s">detailed information</a>
-View more <a href="%(details_url)s">detailed information</a>
+Посмотреть более <a href="%(details_url)s">подробную информацию</a>
 
 
 ;pages visited
@@ -115,7 +115,7 @@ View more <a href="%(details_url)s">detailed information</a>
 
 
 ;Your browser seems to be running slower than usual. To learn more:
-Your browser seems to be running slower than usual. To learn more:
+Похоже, что ваш браузер работает медленнее, чем обычно. Чтобы узнать больше:
 
 
 ;You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
@@ -123,7 +123,7 @@ You'll be able to see more interesting and detailed information the more you use
 
 
 ;Startup Time by Day
-Startup Time by Day
+Время запуска по дням
 
 
 ;Graph:
@@ -139,7 +139,7 @@ Startup Time by Day
 
 
 ;Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
-Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
+Время запуска помогает определить, насколько хорошо работает ваша версия Firefox. В общем случае, более быстрый запуск (т.е. меньшее время) указывает на лучшую производительность.
 
 
 ;Data Collected
@@ -151,11 +151,11 @@ Startup time helps determine how well your version of Firefox is performing. In 
 
 
 ;What the Firefox Health Report Measures
-What the Firefox Health Report Measures
+Что измеряет отчет о работоспособности Firefox
 
 
 ;The Firefox Health Report (FHR) has 5 categories of metrics:
-The Firefox Health Report (FHR) has 5 categories of metrics:
+Отчет о работоспособности Firefox (FHR) имеет 5 категорий показателей:
 
 
 ;Configuration
@@ -163,7 +163,7 @@ The Firefox Health Report (FHR) has 5 categories of metrics:
 
 
 ;Device hardware, operating system, Firefox version
-Device hardware, operating system, Firefox version
+Аппаратное обеспечение, операционная система, версия Firefox
 
 
 ;Customizations
@@ -171,7 +171,7 @@ Device hardware, operating system, Firefox version
 
 
 ;Add-ons, count and type
-Add-ons, count and type
+Дополнения, их число и тип
 
 
 ;Performance
@@ -179,11 +179,11 @@ Add-ons, count and type
 
 
 ;Timing of browser events, rendering, session restores
-Timing of browser events, rendering, session restores
+Тайминги событий браузера, рендеринг, восстановление сессии
 
 
 ;Length of session, how old a profile is, count of crashes, count of pages
-Length of session, how old a profile is, count of crashes, count of pages
+Продолжительность сессии, возраст профиля, число падений, число страниц
 
 
 ;Detailed Description
@@ -203,27 +203,27 @@ Length of session, how old a profile is, count of crashes, count of pages
 
 
 ;Identifier for this build of the application based on the date the build was started
-Identifier for this build of the application based on the date the build was started
+Идентификатор этой сборки приложения основанный на дате запуска сборки
 
 
 ;Operating System for which this build was configured
-Operating System for which this build was configured
+Операционная система, для которой была настроена эта сборка
 
 
 ;Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
-Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
+Идентификатор конкретного дистрибутива используемого приложения. Он взят из настройки <var>distribution.id</var>
 
 
 ;Version of the distribution, taken from the <var>distribution.version</var> preference
-Version of the distribution, taken from the <var>distribution.version</var> preference
+Версия дистрибутива, взятая из настройки <var>distribution.version</var>
 
 
 ;The version number of any Mozilla hotfix applied to the application
-The version number of any Mozilla hotfix applied to the application
+Номер версии любого исправления Mozilla примененного к приложению
 
 
 ;Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
-Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
+Идентификатор, уникальный для приложения, который указывает, является ли оно Firefox или Thunderbird и т.д. Одинаков для всех установок приложения, независимо от значения <var>appName</var>
 
 
 ;The configured name of the application (Firefox/Aurora/Nightly for instance)
@@ -247,7 +247,7 @@ Identifier unique to the application that indicates it is Firefox or Thunderbird
 
 
 ;Whether the application is currently configured to be the default browser for the operating system
-Whether the application is currently configured to be the default browser for the operating system
+Настроено ли приложение в настоящее время в качестве браузера по умолчанию для операционной системы
 
 
 ;Locale currently being used
@@ -279,55 +279,55 @@ Whether the application is currently configured to be the default browser for th
 
 
 ;The date this version was first used with this installation profile
-The date this version was first used with this installation profile
+Дата первого использования этой версии с этим профилем установки
 
 
 ;An application version which has been used with this installation profile
-An application version which has been used with this installation profile
+Версия приложения, которая была использована с этим профилем установки
 
 
 ;The number of add-ons of this type that existed in the profile on this date
-The number of add-ons of this type that existed in the profile on this date
+Число дополнений этого типа, которые существовали в профиле на эту дату
 
 
 ;<var>True</var> if the application automatically disabled the add-on
-<var>True</var> if the application automatically disabled the add-on
+<var>True</var> если приложение автоматически отключило дополнение
 
 
 ;Whether this add-on was installed by the user or automatically by another application
-Whether this add-on was installed by the user or automatically by another application
+Было ли это дополнение установлено пользователем или автоматически другим приложением
 
 
 ;Whether this add-on has native code.
-Whether this add-on has native code.
+Содержит ли это дополнение нативный код.
 
 
 ;The identifier of this add-on as defined by the add-on developer
-The identifier of this add-on as defined by the add-on developer
+Идентификатор этого дополнения определенный разработчиком дополнения
 
 
 ;The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
-The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
+Самая последняя дата установки этого дополнения (предыдущая информация об удалённом дополнении не сохраняется).
 
 
 ;The number of searches performed with this search engine from this part of the UI
-The number of searches performed with this search engine from this part of the UI
+Число поисковых запросов выполненных в этой поисковой системе из этой части пользовательского интерфейса
 
 
 ;Whether this add-on was installed in the application directory or profile directory
-Whether this add-on was installed in the application directory or profile directory
+Было ли это дополнение установлено в каталог приложения или каталог профиля
 
 
 ;Whether this add-on is an extension or a plug-in
-Whether this add-on is an extension or a plug-in
+Является ли это дополнение расширением или плагином
 
 
 ;The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
-The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
+Самая последняя дата обновления этого дополнения (предыдущая информация об удалённом дополнении не сохраняется).
 
 
 ;<var>True</var> if the user manually disabled the add-on
-<var>True</var> if the user manually disabled the add-on
+<var>True</var> если пользователь вручную отключил дополнение
 
 
 ;The current version of this add-on
@@ -335,19 +335,19 @@ The most recent date this add-on was updated (previous information about an unin
 
 
 ;How long in milliseconds it took during startup for the application to render the UI and display the window
-How long in milliseconds it took during startup for the application to render the UI and display the window
+Сколько времени в миллисекундах заняло выполнение рендеринга пользовательского интерфейса и отображение окна во время запуска приложения
 
 
 ;How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
-How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
+Сколько времени в миллисекундах заняла загрузка библиотек и завершение базовой инициализации во время запуска приложения
 
 
 ;How long in milliseconds it took during startup for the application to restore tabs from the previous session
-How long in milliseconds it took during startup for the application to restore tabs from the previous session
+Сколько времени в миллисекундах заняло восстановление вкладок с предыдущей сессии во время запуска приложения
 
 
 ;The number of times the application was run and not cleanly shut down.
-The number of times the application was run and not cleanly shut down.
+Сколько раз приложение было запущено и некорректно закрыто.
 
 
 ;The time in seconds that the aborted sessions were not idle
@@ -359,11 +359,11 @@ The time in seconds that the aborted sessions were running
 
 
 ;The number of days since this application profile directory was created
-The number of days since this application profile directory was created
+Число дней с момента создания каталога профиля этого приложения
 
 
 ;The number of times the application was run and cleanly shut down.
-The number of times the application was run and cleanly shut down.
+Сколько раз приложение было запущено и корректно закрыто.
 
 
 ;The time in seconds that the completed sessions were not idle
@@ -375,11 +375,11 @@ The time in seconds that the completed sessions were running
 
 
 ;Total number of crashes that were recorded but not yet submitted
-Total number of crashes that were recorded but not yet submitted
+Общее число падений, которые были записаны, но еще не отправлены
 
 
 ;Total number of crashes that have been submitted
-Total number of crashes that have been submitted
+Общее число падений, которые были отправлены
 
 
 ;Time in seconds the app has not been idle
@@ -387,7 +387,7 @@ Time in seconds the app has not been idle
 
 
 ;Time in seconds since the app was last started
-Time in seconds since the app was last started
+Время в секундах, прошедшее с момента последнего запуска приложения
 
 
 ;Total number of bookmarks
@@ -411,7 +411,7 @@ How long in minutes the current session has been running
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
-Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
+Отчет о работоспобности Firefox информирует вас о работе вашего Firefox и о том, что вы можете сделать, чтобы её улучшить.
 
 
 ;See My Report
