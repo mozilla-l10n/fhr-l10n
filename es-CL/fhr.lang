@@ -1,17 +1,17 @@
 ;Firefox Health Report
-Firefox Health Report
+Reporte de salud de Firefox
 
 
 ;Raw Data
-Raw Data
+Datos en bruto
 
 
 ;Get insights and performance information about your version of Firefox.
-Get insights and performance information about your version of Firefox.
+Obtenga perspectivas e información de rendimiento sobre su versión de Firefox.
 
 
 ;Learn more...
-Learn more...
+Aprender más...
 
 
 ;Data Sharing
@@ -19,55 +19,54 @@ Data Sharing
 
 
 ;ON
-ON
+Encendido
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
-You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
+Usted eligió dejar de compartir datos con Mozilla, no obstante, usted podrá continuar viendo como está funcionando su navegador.
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
-Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
+Su reporte de salud será también removido de los servidores de Mozilla. Aprenda más en nuestra <a href="%(privacy_url)s">política de privacidad.</a>
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
-You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
+Usted ha decidido compartir sus datos con Mozilla de vez en cuando. Gracias por ser parte de nuestra misión para construir un brillante futuro para la Web.
 
 
 ;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
-Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
+Aprenda como manejamos sus datos en nuestra <a href="%(privacy_url)s">política de privacidad.</a>
 
 
 ;Vital Stats
-Vital Stats
+Estadísticas vitales
 
 
 ;version
-version
+versión
 
 
 ;time open
-time open
+tiempo abierto
 
 
 ;last crash
-last crash
+último fallo
 
 
 ;bookmarks
-bookmarks
+marcadores
 
 
 ;This Month
-This Month
-
+Este mes
 
 ;crashes
-crashes
+fallos
 
 
 ;Add-ons
-Add-ons
+Complementos
 
 
 ;View List
@@ -75,19 +74,19 @@ View List
 
 
 ;enabled
-enabled
+activado
 
 
 ;disabled
-disabled
+desactivado
 
 
 ;Plugins
-Plugins
+Complementos
 
 
 ;Tips
-Tips
+Consejos
 
 
 ;Wear and Tear
@@ -95,27 +94,27 @@ Wear and Tear
 
 
 ;It looks like your browser has crashed a number of times recently. To learn more:
-It looks like your browser has crashed a number of times recently. To learn more:
+Parece que su navegador ha fallado un par de veces ultimamente. Para aprender más:
 
 
 ;OFF
-OFF
+Apagado
 
 
 ;Visit our <a href="%(sumo_url)s">support website</a>
-Visit our <a href="%(sumo_url)s">support website</a>
+Visite nuestro <a href="%(sumo_url)s">sitio de soporte</a>
 
 
 ;View more <a href="%(details_url)s">detailed information</a>
-View more <a href="%(details_url)s">detailed information</a>
+Ver más <a href="%(details_url)s">información detallada</a>
 
 
 ;pages visited
-pages visited
+páginas visitadas
 
 
 ;Your browser seems to be running slower than usual. To learn more:
-Your browser seems to be running slower than usual. To learn more:
+Su navegador parece correr más lento de lo que debería. Para aprender más:
 
 
 ;You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
@@ -127,15 +126,15 @@ Startup Time by Day
 
 
 ;Graph:
-Graph:
+Gráfico:
 
 
 ;Average
-Average
+Promedio
 
 
 ;All
-All
+Todo
 
 
 ;Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
@@ -143,15 +142,15 @@ Startup time helps determine how well your version of Firefox is performing. In 
 
 
 ;Data Collected
-Data Collected
+Datos reunidos
 
 
 ;Glossary
-Glossary
+Glosario
 
 
 ;What the Firefox Health Report Measures
-What the Firefox Health Report Measures
+Lo que el Reporte de salud de Firefox mide
 
 
 ;The Firefox Health Report (FHR) has 5 categories of metrics:
@@ -159,23 +158,23 @@ The Firefox Health Report (FHR) has 5 categories of metrics:
 
 
 ;Configuration
-Configuration
+Configuración
 
 
 ;Device hardware, operating system, Firefox version
-Device hardware, operating system, Firefox version
+Hardware, sistema operativo, versión de Firefox
 
 
 ;Customizations
-Customizations
+Personalizaciones
 
 
 ;Add-ons, count and type
-Add-ons, count and type
+Complementos, cantidad y tipo
 
 
 ;Performance
-Performance
+Rendimiento
 
 
 ;Timing of browser events, rendering, session restores
@@ -187,15 +186,14 @@ Length of session, how old a profile is, count of crashes, count of pages
 
 
 ;Detailed Description
-Detailed Description
-
+Descripción detallada
 
 ;Metric
 Metric
 
 
 ;Description
-Description
+Descripción
 
 
 ;Binary interface for XPCOM
@@ -215,7 +213,7 @@ Identifier for the particular distribution of the application in use. It is take
 
 
 ;Version of the distribution, taken from the <var>distribution.version</var> preference
-Version of the distribution, taken from the <var>distribution.version</var> preference
+Versión de la distribución, tomada de la preferencia <var>distribution.version</var>
 
 
 ;The version number of any Mozilla hotfix applied to the application
@@ -227,23 +225,23 @@ Identifier unique to the application that indicates it is Firefox or Thunderbird
 
 
 ;The configured name of the application (Firefox/Aurora/Nightly for instance)
-The configured name of the application (Firefox/Aurora/Nightly for instance)
+El nombre configurado de la aplicación (Firefox/Aurora/Nightly por ejemplo)
 
 
 ;The channel this installation checks for application updates (nightly/aurora/beta/release)
-The channel this installation checks for application updates (nightly/aurora/beta/release)
+El canal por el cual esta instalación busca actualizaciones (nightly/aurora/beta/release)
 
 
 ;The name of the company/provider who built this version
-The name of the company/provider who built this version
+El nombre de la compañía/proveedor que compiló esta versión
 
 
 ;The current version of the product
-The current version of the product
+La versión actual de este producto
 
 
 ;Number of processor cores
-Number of processor cores
+Número de núcleos del procesador
 
 
 ;Whether the application is currently configured to be the default browser for the operating system
@@ -251,35 +249,32 @@ Whether the application is currently configured to be the default browser for th
 
 
 ;Locale currently being used
-Locale currently being used
-
+Localización actualmente en uso (idioma)
 
 ;Amount of RAM in megabytes
-Amount of RAM in megabytes
-
+Cantidad de RAM en megabytes
 
 ;Currently running Operating System (kernel) name
-Currently running Operating System (kernel) name
-
+Nombre del Sistema operativo (núcleo) actualmente en uso
 
 ;Currently running Operating System (kernel) version
-Currently running Operating System (kernel) version
+Versión del Sistema operativo (núcleo) actualmente en uso
 
 
 ;The build identifier of the Gecko platform code
-The build identifier of the Gecko platform code
+El identificador de compilación del código de la plataforma Gecko
 
 
 ;The version of the Gecko platform code
-The version of the Gecko platform code
+El número de versión del código de la plataforma Gecko
 
 
 ;Processor architecture
-Processor architecture
+Arquitectura del procesador
 
 
 ;The date this version was first used with this installation profile
-The date this version was first used with this installation profile
+La fecha en que esta versión fue usada por primera vez con este perfil de instalación
 
 
 ;An application version which has been used with this installation profile
@@ -331,7 +326,7 @@ The most recent date this add-on was updated (previous information about an unin
 
 
 ;The current version of this add-on
-The current version of this add-on
+La versión actual de este complemento
 
 
 ;How long in milliseconds it took during startup for the application to render the UI and display the window
@@ -375,11 +370,11 @@ The time in seconds that the completed sessions were running
 
 
 ;Total number of crashes that were recorded but not yet submitted
-Total number of crashes that were recorded but not yet submitted
+El número total de fallos que han sido registrados, pero no enviados
 
 
 ;Total number of crashes that have been submitted
-Total number of crashes that have been submitted
+El número total de fallos que ha sido enviado
 
 
 ;Time in seconds the app has not been idle
@@ -387,27 +382,27 @@ Time in seconds the app has not been idle
 
 
 ;Time in seconds since the app was last started
-Time in seconds since the app was last started
+Tiempo en segundos desde que la aplicación fue iniciada por última vez
 
 
 ;Total number of bookmarks
-Total number of bookmarks
+Número total de marcadores
 
 
 ;Total number of pages listed in the history
-Total number of pages listed in the history
+El número total de páginas listadas en el historial
 
 
 ;How long in minutes the current session has been running
-How long in minutes the current session has been running
+Cuanto tiempo, en minutos, ha estado abierta esta sesión
 
 
 ;Welcome to your Firefox Health Report
-Welcome to your Firefox Health Report
+Bienvenido a su Reporte de salud de Firefox
 
 
 ;Welcome!
-Welcome!
+¡Bienvenido!
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
@@ -415,6 +410,6 @@ Firefox Health Report lets you know how your Firefox is performing and what you 
 
 
 ;See My Report
-See My Report
+Ver mi reporte
 
 
