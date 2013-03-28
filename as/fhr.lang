@@ -1,420 +1,418 @@
 ;Firefox Health Report
-Firefox Health Report
+Firefox স্বাস্থ্য সংবাদ
 
 
 ;Raw Data
-Raw Data
+কেঁচা তথ্য
 
 
 ;Get insights and performance information about your version of Firefox.
-Get insights and performance information about your version of Firefox.
+আপোনাৰ Firefox ৰ সংস্কৰণৰ বিষয়ে আকলন আৰু পৰিৱেশন তথ্য প্ৰাপ্ত কৰক।
 
 
 ;Learn more...
-Learn more...
+অধিক জানক...
 
 
 ;Data Sharing
-Data Sharing
+তথ্য অংশীদাৰী
 
 
 ;ON
-ON
+অন
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
-You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
+আপুনি Mozilla ৰ সৈতে তথ্য অংশীদাৰী বন্ধ কৰিবলে নিৰ্বাচন কৰিছে, কিন্তু তথাপিও আপুনি আপোনাৰ ব্ৰাউছাৰৰ পৰিৱেশন চাব পাৰিব।
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
-Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
+আপোনাৰ স্বাস্থ্য সংবাদ Mozilla ৰ চাৰ্ভাৰসমূহৰ পৰা আতৰোৱা হব। আমাৰ <a href="%(privacy_url)s">গোপনীয়তা নীতিত</a> অধিক জানক।
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
-You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
+আপুনি সময় সময়ে Mozilla ৰ সৈতে তথ্য অংশীদাৰী কৰিবলে নিৰ্বাচন কৰিছে। ৱেবৰ এটা উজ্জ্বল ভৱিষ্যত নিৰ্মাণৰ আমাৰ এই লক্ষ্যৰ অংশ হোৱাৰ বাবে ধন্যবাদ।
 
 
 ;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
-Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
+আমি কিধৰণে আপোনাৰ তথ্য নিয়ন্ত্ৰণ কৰো আমাৰ <a href="%(privacy_url)s">গোপনীয়তা নীতিত</a> চাওক।
 
 
 ;Vital Stats
-Vital Stats
+জৈৱনিক পৰিসংখ্যা
 
 
 ;version
-version
+সংস্কৰণ
 
 
 ;time open
-time open
+খোলা থকাৰ অৱধি
 
 
 ;last crash
-last crash
+সৰ্বশেষ স্খলন
 
 
 ;bookmarks
-bookmarks
+পত্ৰচিহ্নসমূহ
 
 
 ;This Month
-This Month
+এই মাহ
 
 
 ;crashes
-crashes
+স্খলনসমূহ
 
 
 ;Add-ons
-Add-ons
+এড-অনসমূহ
 
 
 ;View List
-View List
+তালিকা দৰ্শন কৰক
 
 
 ;enabled
-enabled
+সামৰ্থবান
 
 
 ;disabled
-disabled
+অসামৰ্থবান
 
 
 ;Plugins
-Plugins
+প্লাগিনসমূহ
 
 
 ;Tips
-Tips
+সহায়
 
 
 ;Wear and Tear
-Wear and Tear
+ভঙা চিঙা
 
 
 ;It looks like your browser has crashed a number of times recently. To learn more:
-It looks like your browser has crashed a number of times recently. To learn more:
+উপলব্ধ হৈছে যে আপোনাৰ ব্ৰাউছাৰ শেহতীয়াভাৱে বহুবাৰ স্খলন কৰিছে। অধিক জানিবলে:
 
 
 ;OFF
-OFF
+অফ
 
 
 ;Visit our <a href="%(sumo_url)s">support website</a>
-Visit our <a href="%(sumo_url)s">support website</a>
+আমাৰ <a href="%(sumo_url)s">সমৰ্থন ৱেবছাইট</a> চাওক
 
 
 ;View more <a href="%(details_url)s">detailed information</a>
-View more <a href="%(details_url)s">detailed information</a>
+অধিক <a href="%(details_url)s">বিৱৰিত তথ্য</a> চাওক
 
 
 ;pages visited
-pages visited
+ভ্ৰমণ কৰা পৃষ্ঠাসমূহ
 
 
 ;Your browser seems to be running slower than usual. To learn more:
-Your browser seems to be running slower than usual. To learn more:
+উপলব্ধ হৈছে যে আপোনাৰ ব্ৰাউছাৰ স্বাভাৱিক গতিৰ তুলনাৰ লেহেম চলিছে। অধিক জানিবলে:
 
 
 ;You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
-You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
+আপুনি যিমান আপোনাৰ ব্ৰাউছাৰ অধিক ব্যৱহাৰ কৰিব তিমান আকৰ্ষনীয় আৰু বিৱৰিত তথ্য চাব পাব। কিছুমান প্ৰবাহ চোৱা আৰম্ভ কৰিবলে কিছু সপ্তাহ পিছত আকৌ নীৰিক্ষণ কৰক।
 
 
 ;Startup Time by Day
-Startup Time by Day
+দিনৰে আৰম্ভণি সময়
 
 
 ;Graph:
-Graph:
+লেখচিত্ৰ:
 
 
 ;Average
-Average
+গড়
 
 
 ;All
-All
+সকলো
 
 
 ;Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
-Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
+আৰম্ভণি সময় নিৰ্ধাৰণ কৰে আপোনাৰ Firefox ৰ সংস্কৰণে কিমান ভাল পৰিৱেশন কৰি আছে। সাধাৰণত, দ্ৰুত সময়বোৰ (কম সময়) এ উন্নত পৰিৱেশন বুজায়।
 
 
 ;Data Collected
-Data Collected
+সংগ্ৰহ কৰা তথ্য
 
 
 ;Glossary
-Glossary
+শব্দতালিকা
 
 
 ;What the Firefox Health Report Measures
-What the Firefox Health Report Measures
+Firefox স্বাস্থ্য সংবাদে কিহৰ মাপ লয়
 
 
 ;The Firefox Health Report (FHR) has 5 categories of metrics:
-The Firefox Health Report (FHR) has 5 categories of metrics:
+Firefox স্বাস্থ্য সংবাদ (FHR) ৰ মেট্ৰিক্সৰ ৫টা বিভাগ আছে:
 
 
 ;Configuration
-Configuration
+সংৰূপ
 
 
 ;Device hardware, operating system, Firefox version
-Device hardware, operating system, Firefox version
+ডিভাইচ হাৰ্ডৱেৰ, অপাৰেটিং চিস্টেম, Firefox ৰ সংস্কৰণ
 
 
 ;Customizations
-Customizations
+স্বনিৰ্বাচনবোৰ
 
 
 ;Add-ons, count and type
-Add-ons, count and type
+এড-অনসমূহ, গণনা আৰু ধৰণ
 
 
 ;Performance
-Performance
+পৰিৱেশন
 
 
 ;Timing of browser events, rendering, session restores
-Timing of browser events, rendering, session restores
+ব্ৰাউছাৰ ঘটনাসমূহৰ কাল, ৰেণ্ডাৰিং, অধিবেশনৰ পুনৰুদ্ধাৰসমূহ
 
 
 ;Length of session, how old a profile is, count of crashes, count of pages
-Length of session, how old a profile is, count of crashes, count of pages
+অধিবেশনৰ দৈৰ্ঘ্য, এটা আলেখ্য কিমান পুৰনি, স্খলনসমূহৰ গণনা, পৃষ্ঠাসমূহৰ গণনা
 
 
 ;Detailed Description
-Detailed Description
+বিস্তৃত বিৱৰণ
 
 
 ;Metric
-Metric
+মেট্ৰিক
 
 
 ;Description
-Description
+বিৱৰণ
 
 
 ;Binary interface for XPCOM
-Binary interface for XPCOM
+XPCOM ৰ বাবে বাইনাৰি আন্তঃপৃষ্ঠ
 
 
 ;Identifier for this build of the application based on the date the build was started
-Identifier for this build of the application based on the date the build was started
+নিমাণ আৰম্ভ কৰাৰ তাৰিখৰ ওপৰত ভিত্তি কৰি এপ্লিকেচনৰ এই নিৰ্মাণৰ বাবে পৰিচয়ক
 
 
 ;Operating System for which this build was configured
-Operating System for which this build was configured
+অপাৰেটিং চিস্টেম যাৰ বাবে এই নিৰ্মাণ সংৰূপণ কৰা হৈছিল
 
 
 ;Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
-Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
+ব্যৱহাৰত থকা এপ্লিকেচনৰ নিৰ্দিষ্ট বিতৰণৰ বাবে পৰিচয়ক। ইয়াক <var>distribution.id</var> পছন্দৰ পৰা লোৱা হয়
 
 
 ;Version of the distribution, taken from the <var>distribution.version</var> preference
-Version of the distribution, taken from the <var>distribution.version</var> preference
+বিতৰণৰ সংস্কৰণ, <var>distribution.version</var> পছন্দৰ পৰা লোৱা
 
 
 ;The version number of any Mozilla hotfix applied to the application
-The version number of any Mozilla hotfix applied to the application
-
+এপ্লিকেচনত প্ৰয়োগ কৰা যিকোনো Mozilla হটফিক্সৰ সংস্কৰণ নম্বৰ
 
 ;Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
-Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
+এপ্লিকেচনৰ বাবে অবিকল্প পৰিচয়ক যি ই Firefox অথবা Thunderbird, ইত্যাদি চিনাক্ত কৰে। <var>appName</var> মান নেওচি এটা এপ্লিকেচনৰ সকলো ইনস্টলেষণৰ বাবে একে।
 
 
 ;The configured name of the application (Firefox/Aurora/Nightly for instance)
-The configured name of the application (Firefox/Aurora/Nightly for instance)
+এপ্লিকেচনৰ সংৰূপিত নাম (Firefox/Aurora/Nightly উদাহৰণস্বৰূপ)
 
 
 ;The channel this installation checks for application updates (nightly/aurora/beta/release)
-The channel this installation checks for application updates (nightly/aurora/beta/release)
+এপ্লিকেচন আপডেইটসমূহৰ বাবে এই ইনস্টলেষণ দ্বাৰা নীৰিক্ষণ কৰা চেনেল (nightly/aurora/beta/উন্মোচন)
 
 
 ;The name of the company/provider who built this version
-The name of the company/provider who built this version
+এই সংস্কৰণ নিৰ্মাণ কৰা কোম্পানী/যোগানকাৰীৰ নাম
 
 
 ;The current version of the product
-The current version of the product
+উৎপাদনৰ বৰ্তমান সংস্কৰণ
 
 
 ;Number of processor cores
-Number of processor cores
+প্ৰচেছৰ কেন্দ্ৰসমূহৰ সংখ্যা
 
 
 ;Whether the application is currently configured to be the default browser for the operating system
-Whether the application is currently configured to be the default browser for the operating system
+এপ্লিকেচনটো অপাৰেটিং চিস্টেমৰ বাবে অবিকল্পিত ব্ৰাউছাৰ হবলে বৰ্তমানে সংৰূপিত নে
 
 
 ;Locale currently being used
-Locale currently being used
+বৰ্তমানে ব্যৱহৃত স্থানীয় ভাষা
 
 
 ;Amount of RAM in megabytes
-Amount of RAM in megabytes
+মেগাবাইটত RAM ৰ পৰিমাণ
 
 
 ;Currently running Operating System (kernel) name
-Currently running Operating System (kernel) name
+বৰ্তমানে চলি থকা অপাৰেটিং চিস্টেম (কাৰনেল) ৰ নাম
 
 
 ;Currently running Operating System (kernel) version
-Currently running Operating System (kernel) version
+বৰ্তমানে চলি থকা অপাৰেটিং চিস্টেম (কাৰনেল) ৰ সংস্কৰণ
 
 
 ;The build identifier of the Gecko platform code
-The build identifier of the Gecko platform code
+Gecko প্লেটফৰ্ম ক'ডৰ নিৰ্মাণ পৰিচয়ক
 
 
 ;The version of the Gecko platform code
-The version of the Gecko platform code
+Gecko প্লেটফৰ্ম ক'ডৰ সংস্কৰণ
 
 
 ;Processor architecture
-Processor architecture
+প্ৰচেছৰ স্থাপত্য
 
 
 ;The date this version was first used with this installation profile
-The date this version was first used with this installation profile
+এই ইনস্টলেষণ আলেখ্যৰ সৈতে এই সংস্কৰণৰ প্ৰথম ব্যৱহাৰৰ তাৰিখ
 
 
 ;An application version which has been used with this installation profile
-An application version which has been used with this installation profile
-
+এটা এপ্লিকেচন সংস্কৰণ যি এই ইনস্টলেষণ আলেখ্যাৰ সৈতে ব্যৱহাৰ কৰা হৈছে
 
 ;The number of add-ons of this type that existed in the profile on this date
-The number of add-ons of this type that existed in the profile on this date
+এই তাৰিখৰ আলেখ্যত অস্তিত্ববান এই ধৰণৰ এড-অনৰ সংখ্যা
 
 
 ;<var>True</var> if the application automatically disabled the add-on
-<var>True</var> if the application automatically disabled the add-on
+<var>True</var> যদি এপ্লিকেচনে স্বচালিতভাৱে এড-অন অসামৰ্থবান কৰিছে
 
 
 ;Whether this add-on was installed by the user or automatically by another application
-Whether this add-on was installed by the user or automatically by another application
+এই এড-অন ব্যৱহাৰকাৰী দ্বাৰা ইনস্টল কৰা হৈছিল নে অন্য এপ্লিকেচন দ্বাৰা স্বচালিতভাৱে ইনস্টল কৰা হৈছিল
 
 
 ;Whether this add-on has native code.
-Whether this add-on has native code.
+এই এড-অনৰ স্থানীয় ক'ড আছে নে।
 
 
 ;The identifier of this add-on as defined by the add-on developer
-The identifier of this add-on as defined by the add-on developer
+এড-অন উন্নয়নকাৰী দ্বাৰা বিৱৰণ দিয়া এই এড-অনৰ পৰিচয়ক
 
 
 ;The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
-The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
+এই এড-অন ইনস্টল কৰা শেহতীয়া তাৰিখ (এটা ইনস্টল নকৰা এড-অনৰ বিষয়ে পূৰ্বৰ তথ্য ৰখা নহয়)।
 
 
 ;The number of searches performed with this search engine from this part of the UI
-The number of searches performed with this search engine from this part of the UI
+UI ৰ এই অংশৰ পৰা এই সন্ধান ইঞ্জিনৰ সৈতে পৰিৱেশন কৰা সন্ধানসমূহৰ সংখ্যা
 
 
 ;Whether this add-on was installed in the application directory or profile directory
-Whether this add-on was installed in the application directory or profile directory
+এই এড-অন এপ্লিকেচন ডাইৰেকটৰিত ইনস্টল কৰা হৈছিল নে আলেখ্য ডাইৰেকটৰিত ইনস্টল কৰা হৈছিল
 
 
 ;Whether this add-on is an extension or a plug-in
-Whether this add-on is an extension or a plug-in
+এই এড-অন এটা সম্প্ৰসাৰন নে এটা প্লাগ-ইন
 
 
 ;The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
-The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
+এই এড-অন আপডেইট কৰা শেহতীয়া তাৰিখ (এটা ইনস্টল নকৰা এড-অনৰ বিষয়ে পূৰ্বৰ তথ্য ৰখা নহয়)।
 
 
 ;<var>True</var> if the user manually disabled the add-on
-<var>True</var> if the user manually disabled the add-on
+<var>True</var> যদি ব্যৱহাৰকাৰী দ্বাৰা এড-অন হস্তচালিতভাৱে অসামৰ্থবান কৰা হৈছে
 
 
 ;The current version of this add-on
-The current version of this add-on
+এই এড-অনৰ বৰ্তমান সংস্কৰণ
 
 
 ;How long in milliseconds it took during startup for the application to render the UI and display the window
-How long in milliseconds it took during startup for the application to render the UI and display the window
+UI ৰেণ্ডাৰ কৰি উইন্ডো প্ৰদৰ্শন কৰিবলে এপ্লিকেচনৰ বাবে মিলিছেকেণ্ডত কিমান সময় লাগিল
 
 
 ;How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
-How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
+আৰম্ভণিৰ সময়ত লাইব্ৰেৰীসমূহ ল'ড কৰি মৌলিক আৰম্ভণি সমাপ্ত কৰিবলে এপ্লিকেচনৰ বাবে মিলিছেকেণ্ডত কিমান সময় লাগিল
 
 
 ;How long in milliseconds it took during startup for the application to restore tabs from the previous session
-How long in milliseconds it took during startup for the application to restore tabs from the previous session
+আৰম্ভণিৰ সময়ত পূৰ্বৱৰ্তী অধিবেশনৰ পৰা টেবসমূহ পুনৰুদ্ধাৰ কৰিবলে এপ্লিকেচনৰ বাবে কিমান সময় লাগিল
 
 
 ;The number of times the application was run and not cleanly shut down.
-The number of times the application was run and not cleanly shut down.
+কিমান বাৰ এপ্লিকেচন চলোৱা হৈছিল কিন্তু ভালকৈ বন্ধ হোৱা নাছিল।
 
 
 ;The time in seconds that the aborted sessions were not idle
-The time in seconds that the aborted sessions were not idle
+ছেকেণ্ডত বাতিল কৰা অধিবেশনসমূহৰ অলস নথকা সময়
 
 
 ;The time in seconds that the aborted sessions were running
-The time in seconds that the aborted sessions were running
+ছেকেণ্ডত বাতিল কৰা অধিবেশনসমূহৰ চলি থকা সময়
 
 
 ;The number of days since this application profile directory was created
-The number of days since this application profile directory was created
+এই এপ্লিকেচন আলেখ্য ডাইৰেকটৰি সৃষ্টি কৰা দিনবোৰৰ সংখ্যা
 
 
 ;The number of times the application was run and cleanly shut down.
-The number of times the application was run and cleanly shut down.
+কিমান বাৰ এপ্লিকেচন চলোৱা হৈছিল আৰু ভালদৰে বন্ধ হৈছিল।
 
 
 ;The time in seconds that the completed sessions were not idle
-The time in seconds that the completed sessions were not idle
+ছেকেণ্ডত সম্পূৰ্ণ হোৱা অধিবেশনসমূহৰ অলস নথকা সময়
 
 
 ;The time in seconds that the completed sessions were running
-The time in seconds that the completed sessions were running
+ছেকেণ্ডত সম্পূৰ্ণ হোৱা অধিবেশনসমূহৰ চলি থকা সময়
 
 
 ;Total number of crashes that were recorded but not yet submitted
-Total number of crashes that were recorded but not yet submitted
+স্খলনসমূহৰ সৰ্বমুঠ সংখ্যা যি ৰেকৰ্ড কৰা হৈছিল কিন্তু এতিয়ালৈকে জমা দিয়া হোৱা নাই
 
 
 ;Total number of crashes that have been submitted
-Total number of crashes that have been submitted
+জমা দিয়া স্খলনসমূহৰ সৰ্বমুঠ সংখ্যা
 
 
 ;Time in seconds the app has not been idle
-Time in seconds the app has not been idle
+ছেকেণ্ডত এপ্লিকেচনটো অলস নথকা সময়
 
 
 ;Time in seconds since the app was last started
-Time in seconds since the app was last started
+ছেকেণ্ডত এপ্লিকেচন আৰম্ভ কৰা সৰ্বশেষ সময়
 
 
 ;Total number of bookmarks
-Total number of bookmarks
+পত্ৰচিহ্নসমূহৰ সৰ্বমুঠ সংখ্যা
 
 
 ;Total number of pages listed in the history
-Total number of pages listed in the history
+ইতিহাসত তালিকাভুক্ত পৃষ্ঠাসমূহৰ সৰ্বমুঠ সংখ্যা
 
 
 ;How long in minutes the current session has been running
-How long in minutes the current session has been running
+মিনিটত বৰ্তমান অধিবেশন চলি থকা সময়
 
 
 ;Welcome to your Firefox Health Report
-Welcome to your Firefox Health Report
+আপোনাৰ  Firefox স্বাস্থ্য সংবাদলৈ স্বাগতম
 
 
 ;Welcome!
-Welcome!
+স্বাগতম!
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
-Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
+Firefox স্বাস্থ্য সংবাদে আপোনাৰ Firefox এ কেনেধৰণে পৰিৱেশন কৰি আছে আৰু ইয়াক উন্নত কৰিবলে আপুনি কি কৰিব পাৰে আপোনাক জনায়।
 
 
 ;See My Report
-See My Report
+মোৰ সংবাদ চাওক
 
 
