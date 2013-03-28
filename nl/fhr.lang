@@ -1,65 +1,65 @@
 ;Firefox Health Report
-Firefox Health Report
+Firefox-statusrapport
 
 
 ;Raw Data
-Raw Data
+Onbewerkte gegevens
 
 
 ;Get insights and performance information about your version of Firefox.
-Get insights and performance information about your version of Firefox.
+Verkrijg inzichten en prestatiegegevens over uw versie van Firefox.
 
 
 ;Learn more...
-Learn more...
+Meer info…
 
 
 ;Data Sharing
-Data Sharing
+Gegevensdeling
 
 
 ;ON
-ON
+AAN
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
-You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
+U hebt het delen van gegevens met Mozilla gestopt, maar u kunt nog steeds zien hoe goed uw browser presteert.
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
-Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
+Uw statusrapportgegevens zullen ook van Mozilla’s servers worden verwijderd. Lees meer in ons <a href="%(privacy_url)s">privacybeleid.</a>
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
-You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
+U hebt ervoor gekozen zo nu en dan uw gegevens met Mozilla te delen. Bedankt dat u onderdeel wilt zijn van onze missie om een betere toekomst voor het internet te bouwen.
 
 
 ;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
-Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
+Lees hoe we met uw gegevens omgaan in ons <a href="%(privacy_url)s">privacybeleid.</a>
 
 
 ;Vital Stats
-Vital Stats
+Belangrijke statistieken
 
 
 ;version
-version
+versie
 
 
 ;time open
-time open
+tijd geopend
 
 
 ;last crash
-last crash
+laatste crash
 
 
 ;bookmarks
-bookmarks
+bladwijzers
 
 
 ;This Month
-This Month
+Deze maand
 
 
 ;crashes
@@ -67,354 +67,354 @@ crashes
 
 
 ;Add-ons
-Add-ons
+Add-ons {ok}
 
 
 ;View List
-View List
+Lijst bekijken
 
 
 ;enabled
-enabled
+ingeschakeld
 
 
 ;disabled
-disabled
+uitgeschakeld
 
 
 ;Plugins
-Plugins
+Plug-ins
 
 
 ;Tips
-Tips
+Tips {ok}
 
 
 ;Wear and Tear
-Wear and Tear
+Slijtage
 
 
 ;It looks like your browser has crashed a number of times recently. To learn more:
-It looks like your browser has crashed a number of times recently. To learn more:
+Het lijkt erop dat uw browser onlangs een aantal keren is gecrasht. Voor meer info:
 
 
 ;OFF
-OFF
+UIT
 
 
 ;Visit our <a href="%(sumo_url)s">support website</a>
-Visit our <a href="%(sumo_url)s">support website</a>
+Bezoek onze <a href="%(sumo_url)s">ondersteuningswebsite</a>
 
 
 ;View more <a href="%(details_url)s">detailed information</a>
-View more <a href="%(details_url)s">detailed information</a>
+Meer <a href="%(details_url)s">gedetailleerde gegevens</a> bekijken
 
 
 ;pages visited
-pages visited
+bezochte pagina’s
 
 
 ;Your browser seems to be running slower than usual. To learn more:
-Your browser seems to be running slower than usual. To learn more:
+Uw browser lijkt minder snel te werken dan normaal. Voor meer info:
 
 
 ;You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
-You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
+Hoe meer u uw browser gebruikt, hoe meer interessante en gedetailleerde gegevens u kunt bekijken. Kijk over enkele weken nog eens om bepaalde trends te zien.
 
 
 ;Startup Time by Day
-Startup Time by Day
+Opstarttijd per dag
 
 
 ;Graph:
-Graph:
+Grafiek:
 
 
 ;Average
-Average
+Gemiddeld
 
 
 ;All
-All
+Alle
 
 
 ;Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
-Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
+De opstarttijd helpt vast te stellen hoe goed uw versie van Firefox presteert. Doorgaans wijzen snellere tijden (m.a.w. minder tijd) op betere prestaties.
 
 
 ;Data Collected
-Data Collected
+Verzamelde gegevens
 
 
 ;Glossary
-Glossary
+Woordenlijst
 
 
 ;What the Firefox Health Report Measures
-What the Firefox Health Report Measures
+Wat het Firefox-statusrapport meet
 
 
 ;The Firefox Health Report (FHR) has 5 categories of metrics:
-The Firefox Health Report (FHR) has 5 categories of metrics:
+Het Firefox-statusrapport (FHR) kent 5 categorieën meetgegevens:
 
 
 ;Configuration
-Configuration
+Configuratie
 
 
 ;Device hardware, operating system, Firefox version
-Device hardware, operating system, Firefox version
+Apparaathardware, besturingssysteem, Firefox-versie
 
 
 ;Customizations
-Customizations
+Aanpassingen
 
 
 ;Add-ons, count and type
-Add-ons, count and type
+Add-ons, aantal en type
 
 
 ;Performance
-Performance
+Prestaties
 
 
 ;Timing of browser events, rendering, session restores
-Timing of browser events, rendering, session restores
+Tijdmeting van browsergebeurtenissen, renderen, sessieherstellingen
 
 
 ;Length of session, how old a profile is, count of crashes, count of pages
-Length of session, how old a profile is, count of crashes, count of pages
+Lengte van sessie, hoe oud een profiel is, aantal crashes, aantal pagina’s
 
 
 ;Detailed Description
-Detailed Description
+Gedetailleerde beschrijving
 
 
 ;Metric
-Metric
+Metrisch
 
 
 ;Description
-Description
+Beschrijving
 
 
 ;Binary interface for XPCOM
-Binary interface for XPCOM
+Binaire interface voor XPCOM
 
 
 ;Identifier for this build of the application based on the date the build was started
-Identifier for this build of the application based on the date the build was started
+Identificatie voor deze build van de toepassing, gebaseerd op de datum waarop de build is gestart
 
 
 ;Operating System for which this build was configured
-Operating System for which this build was configured
+Besturingssysteem waarvoor de build is geconfigureerd
 
 
 ;Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
-Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
+Identificatie voor de bepaalde distributie van de gebruikte toepassing. Deze wordt verkregen van de voorkeursinstelling <var>distribution.id</var>
 
 
 ;Version of the distribution, taken from the <var>distribution.version</var> preference
-Version of the distribution, taken from the <var>distribution.version</var> preference
+Versie van de distributie, verkregen van de voorkeursinstelling <var>distribution.version</var>
 
 
 ;The version number of any Mozilla hotfix applied to the application
-The version number of any Mozilla hotfix applied to the application
+Het versienummer van een eventuele op de toepassing toegepaste Mozilla-hotfix
 
 
 ;Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
-Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
+Unieke identificator voor de toepassing die aangeeft of het Firefox of Thunderbird betreft, etc. Hetzelfde voor alle installaties van een toepassing, ongeacht de waarde van <var>appName</var>
 
 
 ;The configured name of the application (Firefox/Aurora/Nightly for instance)
-The configured name of the application (Firefox/Aurora/Nightly for instance)
+De ingestelde naam van de toepassing (bijvoorbeeld Firefox/Aurora/Nightly)
 
 
 ;The channel this installation checks for application updates (nightly/aurora/beta/release)
-The channel this installation checks for application updates (nightly/aurora/beta/release)
+Het kanaal dat deze installatie controleert voor toepassingsupdates (nightly/aurora/bèta/release)
 
 
 ;The name of the company/provider who built this version
-The name of the company/provider who built this version
+De naam van het bedrijf of de provider die deze versie heeft gebouwd
 
 
 ;The current version of the product
-The current version of the product
+De huidige versie van het product
 
 
 ;Number of processor cores
-Number of processor cores
+Aantal processorkernen
 
 
 ;Whether the application is currently configured to be the default browser for the operating system
-Whether the application is currently configured to be the default browser for the operating system
+Of de toepassing momenteel als de standaardbrowser voor het besturingssysteem is ingesteld
 
 
 ;Locale currently being used
-Locale currently being used
+Momenteel gebruikte landinstelling
 
 
 ;Amount of RAM in megabytes
-Amount of RAM in megabytes
+Hoeveelheid RAM in megabytes
 
 
 ;Currently running Operating System (kernel) name
-Currently running Operating System (kernel) name
+Naam van het huidige actieve besturingssysteem (kernel)
 
 
 ;Currently running Operating System (kernel) version
-Currently running Operating System (kernel) version
+Versie van het huidige actieve besturingssysteem (kernel)
 
 
 ;The build identifier of the Gecko platform code
-The build identifier of the Gecko platform code
+De build-identifier van de Gecko-platformcode
 
 
 ;The version of the Gecko platform code
-The version of the Gecko platform code
+De versie van de Gecko-platformcode
 
 
 ;Processor architecture
-Processor architecture
+Processorarchitectuur
 
 
 ;The date this version was first used with this installation profile
-The date this version was first used with this installation profile
+De datum waarop deze versie voor het eerst met dit installatieprofiel is gebruikt
 
 
 ;An application version which has been used with this installation profile
-An application version which has been used with this installation profile
+Een toepassingsversie die met dit installatieprofiel is gebruikt
 
 
 ;The number of add-ons of this type that existed in the profile on this date
-The number of add-ons of this type that existed in the profile on this date
+Het aantal add-ons van dit type dat op deze datum in het profiel bestond
 
 
 ;<var>True</var> if the application automatically disabled the add-on
-<var>True</var> if the application automatically disabled the add-on
+<var>True</var> als de toepassing de add-on automatisch heeft uitgeschakeld
 
 
 ;Whether this add-on was installed by the user or automatically by another application
-Whether this add-on was installed by the user or automatically by another application
+Of deze add-on door de gebruiker of automatisch door een andere toepassing is geïnstalleerd
 
 
 ;Whether this add-on has native code.
-Whether this add-on has native code.
+Of deze add-on systeemeigen code bevat.
 
 
 ;The identifier of this add-on as defined by the add-on developer
-The identifier of this add-on as defined by the add-on developer
+De identificator van deze add-on, zoals bepaald door de add-on-ontwikkelaar
 
 
 ;The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
-The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
+De meest recente datum waarop deze add-on is geïnstalleerd (vorige informatie over een gede-installeerde add-on wordt niet bewaard).
 
 
 ;The number of searches performed with this search engine from this part of the UI
-The number of searches performed with this search engine from this part of the UI
+Het aantal zoekopdrachten dat met deze zoekmachine vanuit dit UI-gedeelte is uitgevoerd
 
 
 ;Whether this add-on was installed in the application directory or profile directory
-Whether this add-on was installed in the application directory or profile directory
+Of deze add-on in de toepassingsmap of profielmap is geïnstalleerd
 
 
 ;Whether this add-on is an extension or a plug-in
-Whether this add-on is an extension or a plug-in
+Of deze add-on een extensie of een plug-in is
 
 
 ;The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
-The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
+De meest recente datum waarop deze add-on is bijgewerkt (vorige informatie over een gede-installeerde add-on wordt niet bewaard).
 
 
 ;<var>True</var> if the user manually disabled the add-on
-<var>True</var> if the user manually disabled the add-on
+<var>True</var> als de gebruiker de add-on handmatig heeft uitgeschakeld
 
 
 ;The current version of this add-on
-The current version of this add-on
+De huidige versie van deze add-on
 
 
 ;How long in milliseconds it took during startup for the application to render the UI and display the window
-How long in milliseconds it took during startup for the application to render the UI and display the window
+Het aantal verstreken milliseconden tijdens het opstarten van de toepassing om de UI te renderen en het venster weer te geven
 
 
 ;How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
-How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
+Het aantal verstreken milliseconden tijdens het opstarten van de toepassing om bibliotheken te laden en eerste initialisatie te voltooien
 
 
 ;How long in milliseconds it took during startup for the application to restore tabs from the previous session
-How long in milliseconds it took during startup for the application to restore tabs from the previous session
+Het aantal verstreken milliseconden tijdens het opstarten van de toepassing om tabbladen van de vorige sessie te herstellen
 
 
 ;The number of times the application was run and not cleanly shut down.
-The number of times the application was run and not cleanly shut down.
+Het aantal keren dat de toepassing is uitgevoerd en niet netjes is afgesloten.
 
 
 ;The time in seconds that the aborted sessions were not idle
-The time in seconds that the aborted sessions were not idle
+De tijd in seconden dat de afgebroken sessies niet inactief waren
 
 
 ;The time in seconds that the aborted sessions were running
-The time in seconds that the aborted sessions were running
+De tijd in seconden dat de afgebroken sessies werden uitgevoerd
 
 
 ;The number of days since this application profile directory was created
-The number of days since this application profile directory was created
+Het aantal dagen sinds deze profielmap van de toepassing is aangemaakt
 
 
 ;The number of times the application was run and cleanly shut down.
-The number of times the application was run and cleanly shut down.
+Het aantal keren dat de toepassing is uitgevoerd en netjes is afgesloten.
 
 
 ;The time in seconds that the completed sessions were not idle
-The time in seconds that the completed sessions were not idle
+De tijd in seconden dat de voltooide sessies niet inactief waren
 
 
 ;The time in seconds that the completed sessions were running
-The time in seconds that the completed sessions were running
+De tijd in seconden dat de voltooide sessies werden uitgevoerd
 
 
 ;Total number of crashes that were recorded but not yet submitted
-Total number of crashes that were recorded but not yet submitted
+Totale aantal crashes dat is vastgelegd maar nog niet is ingediend
 
 
 ;Total number of crashes that have been submitted
-Total number of crashes that have been submitted
+Totale aantal crashes dat is ingediend
 
 
 ;Time in seconds the app has not been idle
-Time in seconds the app has not been idle
+Tijd in seconden dat de app niet inactief is geweest
 
 
 ;Time in seconds since the app was last started
-Time in seconds since the app was last started
+Tijd in seconden sinds de app voor het laatst is gestart
 
 
 ;Total number of bookmarks
-Total number of bookmarks
+Totale aantal bladwijzers
 
 
 ;Total number of pages listed in the history
-Total number of pages listed in the history
+Totale aantal in de geschiedenis vermelde pagina’s
 
 
 ;How long in minutes the current session has been running
-How long in minutes the current session has been running
+Het aantal minuten dat de huidige sessie wordt uitgevoerd
 
 
 ;Welcome to your Firefox Health Report
-Welcome to your Firefox Health Report
+Welkom bij uw Firefox-statusrapport
 
 
 ;Welcome!
-Welcome!
+Welkom!
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
-Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
+Het Firefox-statusrapport laat u weten hoe uw Firefox presteert en wat u kunt doen om dit te verbeteren.
 
 
 ;See My Report
-See My Report
+Mijn rapport bekijken
 
 
