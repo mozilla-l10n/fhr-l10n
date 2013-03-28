@@ -1,93 +1,93 @@
 ;Firefox Health Report
-Firefox Health Report
+Správa o kondícii Firefoxu
 
 
 ;Raw Data
-Raw Data
+Nespracované údaje
 
 
 ;Get insights and performance information about your version of Firefox.
-Get insights and performance information about your version of Firefox.
+Poskytuje informácie o výkonnosti vašej verzie Firefoxu.
 
 
 ;Learn more...
-Learn more...
+Ďalšie informácie...
 
 
 ;Data Sharing
-Data Sharing
+Zdieľanie údajov
 
 
 ;ON
-ON
+ZAPNUTÉ
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
-You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
+Zvolili ste, už viac nechcete zdieľať údaje so spoločnosťou Mozilla. Vy však stále budete môcť vidieť údaje výkonnosti vášho prehliadača.
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
-Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
+Údaje zo Správy o výkonnosti prehliadača uložené na serveroch spoločnosti Mozilla budú odstránené. Ďalšie informácie nájdete v našich <a href="%(privacy_url)s">zásadách ochrany súkromia</a>.
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
-You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
+Zvolili ste, že z času na čas chcete zdieľať údaje o výkonnosti vášho prehliadača so spoločnosťou Mozilla. Ďakujeme, že ste súčasťou našej misie s cieľom tvoriť lepšiu budúcnosť pre web.
 
 
 ;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
-Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
+Informácie o tom, ako spracovávame vaše údaje nájdete v našich <a href="%(privacy_url)s">zásadách ochrany súkromia</a>.
 
 
 ;Vital Stats
-Vital Stats
+Údaje o vitalite
 
 
 ;version
-version
+verzia
 
 
 ;time open
-time open
+doba sputenia
 
 
 ;last crash
-last crash
+posledné zlyhanie
 
 
 ;bookmarks
-bookmarks
+záložky
 
 
 ;This Month
-This Month
+Tento mesiac
 
 
 ;crashes
-crashes
+zlyhania
 
 
 ;Add-ons
-Add-ons
+Doplnky
 
 
 ;View List
-View List
+Zobraziť zoznam
 
 
 ;enabled
-enabled
+povolené
 
 
 ;disabled
-disabled
+zakázané
 
 
 ;Plugins
-Plugins
+Zásuvné moduly
 
 
 ;Tips
-Tips
+Tipy
 
 
 ;Wear and Tear
@@ -95,59 +95,59 @@ Wear and Tear
 
 
 ;It looks like your browser has crashed a number of times recently. To learn more:
-It looks like your browser has crashed a number of times recently. To learn more:
+Zdá sa, že váš prehliadač v poslednej dobe niekoľkokrát zlyhal. Ak chcete vedieť viac:
 
 
 ;OFF
-OFF
+VYPNUTÉ
 
 
 ;Visit our <a href="%(sumo_url)s">support website</a>
-Visit our <a href="%(sumo_url)s">support website</a>
+navštívte našu <a href="%(sumo_url)s">stránku podpory</a>
 
 
 ;View more <a href="%(details_url)s">detailed information</a>
-View more <a href="%(details_url)s">detailed information</a>
+pozrite si <a href="%(details_url)s">podrobnejšie informácie</a>
 
 
 ;pages visited
-pages visited
+navštívené stránky
 
 
 ;Your browser seems to be running slower than usual. To learn more:
-Your browser seems to be running slower than usual. To learn more:
+Zdá sa, že váš prehliadač reaguje pomalšie ako je bežné. Ak chcete vedieť viac:
 
 
 ;You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
-You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
+Čím viac budete svoj prehliadač používať, tým tu budú dostupné zaujímavejšie a podrobnejšie informácie. Príďte sa pozrieť o pár týždňov a uvidíte prvé trendy.
 
 
 ;Startup Time by Day
-Startup Time by Day
+Doba spustenia podľa dní
 
 
 ;Graph:
-Graph:
+Graf:
 
 
 ;Average
-Average
+Priemer
 
 
 ;All
-All
+Všetko
 
 
 ;Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
-Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
+Ukazovateľ Doba spustenia pomáha zistiť, ako funguje vaša verzia Firefoxu. Vo všeobecnosti platí, že lepší čas (tj. menšie číslo) indikuje lepšiu výkonnosť.
 
 
 ;Data Collected
-Data Collected
+Zozbierané údaje
 
 
 ;Glossary
-Glossary
+Vysvetlivky
 
 
 ;What the Firefox Health Report Measures
@@ -167,15 +167,15 @@ Device hardware, operating system, Firefox version
 
 
 ;Customizations
-Customizations
+Prispôsobenia
 
 
 ;Add-ons, count and type
-Add-ons, count and type
+Doplnky, počet a typ
 
 
 ;Performance
-Performance
+Výkon
 
 
 ;Timing of browser events, rendering, session restores
@@ -187,7 +187,7 @@ Length of session, how old a profile is, count of crashes, count of pages
 
 
 ;Detailed Description
-Detailed Description
+Podrobný popis
 
 
 ;Metric
@@ -195,11 +195,11 @@ Metric
 
 
 ;Description
-Description
+Popis
 
 
 ;Binary interface for XPCOM
-Binary interface for XPCOM
+Binárne rozhranie pre XPCOM
 
 
 ;Identifier for this build of the application based on the date the build was started
@@ -235,15 +235,15 @@ The channel this installation checks for application updates (nightly/aurora/bet
 
 
 ;The name of the company/provider who built this version
-The name of the company/provider who built this version
+Názov spoločnosti/poskytovateľa, ktorý zostavil túto verziu
 
 
 ;The current version of the product
-The current version of the product
+Aktuálna verzia produktu
 
 
 ;Number of processor cores
-Number of processor cores
+Počet jadier procesora
 
 
 ;Whether the application is currently configured to be the default browser for the operating system
@@ -403,18 +403,18 @@ How long in minutes the current session has been running
 
 
 ;Welcome to your Firefox Health Report
-Welcome to your Firefox Health Report
+Víta vás Správa o kondícii Firefoxu
 
 
 ;Welcome!
-Welcome!
+Vitajte!
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
-Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
+Vďaka funkcii Správa o kondícii Firefoxu sa dozviete informácie o výkonnosti vášho Firefoxu a čo môžete spraviť preto, aby bol ešte lepší.
 
 
 ;See My Report
-See My Report
+Zobraziť správu
 
 
