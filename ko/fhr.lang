@@ -1,5 +1,5 @@
 ;Firefox Health Report
-Firefox Health Report
+Firefox Health Report {ok}
 
 
 ;Raw Data
@@ -91,7 +91,7 @@ Mozilla와의 데이터 공유를 선택하였습니다. 보다나은 웹을 만
 
 
 ;Wear and Tear
-Wear and Tear
+손상된 정도
 
 
 ;It looks like your browser has crashed a number of times recently. To learn more:
@@ -139,7 +139,7 @@ OFF {ok}
 
 
 ;Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
-구동시간을 통해서 Firefox의 성능이 어떠한지 확인할 수 있습니다. 보통 빨리 로딩(적은 시간)이 되면 성능이 더 뛰어남을 의미합니다.
+구동시간을 통해서 Firefox의 성능을 확인 할 수 있습니다. 보통 로딩(적은 시간)이 빨리 되면 성능이 더 뛰어남을 의미합니다.
 
 
 ;Data Collected
@@ -411,7 +411,7 @@ Firefox Health Report에 오신 것을 환영합니다.
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
-Firefox Health Report를 통해서 Firefox 성능을 확인하고 향상시킬 수 이는 방법을 확인할 수 있습니다.
+Firefox Health Report를 통해서 Firefox 성능을 확인하고 향상시키는 방법을 알 수 있습니다.
 
 
 ;See My Report
