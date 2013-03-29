@@ -47,7 +47,7 @@ verzia
 
 
 ;time open
-doba sputenia
+doba spustenia
 
 
 ;last crash
@@ -91,7 +91,7 @@ Tipy
 
 
 ;Wear and Tear
-Wear and Tear
+Relácie a používateľské záznamy
 
 
 ;It looks like your browser has crashed a number of times recently. To learn more:
@@ -151,27 +151,27 @@ Vysvetlivky
 
 
 ;What the Firefox Health Report Measures
-What the Firefox Health Report Measures
+Čo Správa o kondícii Firefoxu zisťuje
 
 
 ;The Firefox Health Report (FHR) has 5 categories of metrics:
-The Firefox Health Report (FHR) has 5 categories of metrics:
+Správa o kondícii Firefoxu (FHR) má päť kategórií zbieraných údajov:
 
 
 ;Configuration
-Configuration
+Konfigurácia
 
 
 ;Device hardware, operating system, Firefox version
-Device hardware, operating system, Firefox version
+Hardvér zariadenia, operačný systém, verzia Firefoxu...
 
 
 ;Customizations
-Prispôsobenia
+Prispôsobenie
 
 
 ;Add-ons, count and type
-Doplnky, počet a typ
+Doplnky, počet a typ...
 
 
 ;Performance
@@ -179,11 +179,11 @@ Výkon
 
 
 ;Timing of browser events, rendering, session restores
-Timing of browser events, rendering, session restores
+Doba vykonávania udalostí prehliadača, vykresľovanie, obnova relácií...
 
 
 ;Length of session, how old a profile is, count of crashes, count of pages
-Length of session, how old a profile is, count of crashes, count of pages
+Dĺžka relácie, aký starý je profil, počet zlyhaní, počet stránok v histórii...
 
 
 ;Detailed Description
@@ -191,7 +191,7 @@ Podrobný popis
 
 
 ;Metric
-Metric
+Údaj
 
 
 ;Description
@@ -203,35 +203,35 @@ Binárne rozhranie pre XPCOM
 
 
 ;Identifier for this build of the application based on the date the build was started
-Identifier for this build of the application based on the date the build was started
+Identifikátor zostavenia aplikácie založený na dátume vytvorenia zostavenia
 
 
 ;Operating System for which this build was configured
-Operating System for which this build was configured
+Operačný systém, pre ktorý bolo toto zostavenie vytvorené
 
 
 ;Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
-Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
+Identifikátor distribúcie aplikácie. Získava sa z údaju <var>distribution.id</var>
 
 
 ;Version of the distribution, taken from the <var>distribution.version</var> preference
-Version of the distribution, taken from the <var>distribution.version</var> preference
+Verzia distribúcie aplikácie. Získava sa z údaju <var>distribution.version</var>
 
 
 ;The version number of any Mozilla hotfix applied to the application
-The version number of any Mozilla hotfix applied to the application
+Číslo verzie nainštalovanej opravnej aktualizácie od Mozilly
 
 
 ;Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
-Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
+Unikátny identifikátor aplikácie, ktorý určuje, či ide o Firefox, Thunderbird, atď. Je rovnaký pre všetky inštalácie danej aplikácie nezávisle na hodnote <var>appName</var>
 
 
 ;The configured name of the application (Firefox/Aurora/Nightly for instance)
-The configured name of the application (Firefox/Aurora/Nightly for instance)
+Nastavený názov aplikácie (napríklad Firefox/Aurora/Nightly)
 
 
 ;The channel this installation checks for application updates (nightly/aurora/beta/release)
-The channel this installation checks for application updates (nightly/aurora/beta/release)
+Kanál, cez ktorý táto inštalácia vyhľadáva aktualizácie (nightly/aurora/beta/release)
 
 
 ;The name of the company/provider who built this version
@@ -247,159 +247,159 @@ Počet jadier procesora
 
 
 ;Whether the application is currently configured to be the default browser for the operating system
-Whether the application is currently configured to be the default browser for the operating system
+Je aplikácia nastavená ako predvolený prehliadač v operačnom systéme?
 
 
 ;Locale currently being used
-Locale currently being used
+Jazyk prostredia prehliadača
 
 
 ;Amount of RAM in megabytes
-Amount of RAM in megabytes
+Množstvo pamäte RAM v megabajtoch
 
 
 ;Currently running Operating System (kernel) name
-Currently running Operating System (kernel) name
+Názov operačného systému (kernel), pod ktorým práve prehliadač beží
 
 
 ;Currently running Operating System (kernel) version
-Currently running Operating System (kernel) version
+Verzia operačného systému (kernel), pod ktorým práve prehliadač beží
 
 
 ;The build identifier of the Gecko platform code
-The build identifier of the Gecko platform code
+Identifikátor zostavenia kódu platformy Gecko
 
 
 ;The version of the Gecko platform code
-The version of the Gecko platform code
+Verzia kódu platformy Gecko
 
 
 ;Processor architecture
-Processor architecture
+Architektúra procesora
 
 
 ;The date this version was first used with this installation profile
-The date this version was first used with this installation profile
+Dátum, kedy bola táto verzia prvýkrát použitá s týmto inštalačným profilom
 
 
 ;An application version which has been used with this installation profile
-An application version which has been used with this installation profile
+Verzia aplikácie, ktorá bola použitá s týmto inštalačným profilom
 
 
 ;The number of add-ons of this type that existed in the profile on this date
-The number of add-ons of this type that existed in the profile on this date
+Počet doplnkov tohto typu, ktoré boli doteraz prítomné v tomto profile
 
 
 ;<var>True</var> if the application automatically disabled the add-on
-<var>True</var> if the application automatically disabled the add-on
+<var>True</var>, ak aplikácia automaticky zakázala daný doplnok
 
 
 ;Whether this add-on was installed by the user or automatically by another application
-Whether this add-on was installed by the user or automatically by another application
+Bol daný doplnok nainštalovaný používateľom alebo automaticky inou aplikáciou?
 
 
 ;Whether this add-on has native code.
-Whether this add-on has native code.
+Obsahuje daný doplnok natívny kód?
 
 
 ;The identifier of this add-on as defined by the add-on developer
-The identifier of this add-on as defined by the add-on developer
+Identifikátor doplnku definovaný jeho vývojárom
 
 
 ;The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
-The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
+Dátum, kedy bol doplnok naposledy nainštalovaný (informácie o predchádzajúcich verziách sa neuchovávajú).
 
 
 ;The number of searches performed with this search engine from this part of the UI
-The number of searches performed with this search engine from this part of the UI
+Počet vyhľadávaní vykonaných pomocou tohto vyhľadávacieho modulu z tejto časti používateľského rozhrania
 
 
 ;Whether this add-on was installed in the application directory or profile directory
-Whether this add-on was installed in the application directory or profile directory
+Bol daný doplnok nainštalovaný do priečinka aplikácie alebo profilu?
 
 
 ;Whether this add-on is an extension or a plug-in
-Whether this add-on is an extension or a plug-in
+Je daný doplnok rozšírenie alebo zásuvný modul?
 
 
 ;The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
-The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
+Dátum, kedy bol doplnok naposledy aktualizovaný (informácie o predchádzajúcich verziách sa neuchovávajú).
 
 
 ;<var>True</var> if the user manually disabled the add-on
-<var>True</var> if the user manually disabled the add-on
+<var>True</var>, ak používateľ manuálne zakázal daný doplnok
 
 
 ;The current version of this add-on
-The current version of this add-on
+Aktuálna verzia daného doplnku
 
 
 ;How long in milliseconds it took during startup for the application to render the UI and display the window
-How long in milliseconds it took during startup for the application to render the UI and display the window
+Ako dlho trvalo aplikácii po spustení zobraziť používateľské rozhranie a obsah okna (v milisekundách)
 
 
 ;How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
-How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
+Ako dlho trvalo aplikácii po spustení načítať knižnice a dokončiť základnú inicializáciu (v milisekundách)
 
 
 ;How long in milliseconds it took during startup for the application to restore tabs from the previous session
-How long in milliseconds it took during startup for the application to restore tabs from the previous session
+Ako dlho trvalo aplikácii po spustení obnoviť karty z predchádzajúcej relácie (v milisekundách)
 
 
 ;The number of times the application was run and not cleanly shut down.
-The number of times the application was run and not cleanly shut down.
+Počet spustení aplikácie, ktoré neboli korektne ukončené
 
 
 ;The time in seconds that the aborted sessions were not idle
-The time in seconds that the aborted sessions were not idle
+Čas, počas ktorého prerušené relácie neboli nečinné (v sekundách)
 
 
 ;The time in seconds that the aborted sessions were running
-The time in seconds that the aborted sessions were running
+Čas, počas ktorého bežali prerušené relácie (v sekundách)
 
 
 ;The number of days since this application profile directory was created
-The number of days since this application profile directory was created
+Počet dní od vytvorenia priečinku profilu
 
 
 ;The number of times the application was run and cleanly shut down.
-The number of times the application was run and cleanly shut down.
+Počet spustení aplikácie, ktoré boli korektne ukončené
 
 
 ;The time in seconds that the completed sessions were not idle
-The time in seconds that the completed sessions were not idle
+Čas, počas ktorého dokončené relácie neboli nečinné (v sekundách)
 
 
 ;The time in seconds that the completed sessions were running
-The time in seconds that the completed sessions were running
+Čas, počas ktorého bežali dokončené relácie (v sekundách)
 
 
 ;Total number of crashes that were recorded but not yet submitted
-Total number of crashes that were recorded but not yet submitted
+Celkový počet zlyhaní, ktoré boli zaznamenané, ale záznamy neboli odoslané
 
 
 ;Total number of crashes that have been submitted
-Total number of crashes that have been submitted
+Celkový počet odoslaných záznamov o zlyhaní
 
 
 ;Time in seconds the app has not been idle
-Time in seconds the app has not been idle
+Čas, počas ktorého aplikácia nebola nečinná (v sekundách)
 
 
 ;Time in seconds since the app was last started
-Time in seconds since the app was last started
+Čas od spustenia aplikácie (v sekundách)
 
 
 ;Total number of bookmarks
-Total number of bookmarks
+Celkový počet záložiek
 
 
 ;Total number of pages listed in the history
-Total number of pages listed in the history
+Celkový počet záznamov stránok uložených v histórii prehliadania
 
 
 ;How long in minutes the current session has been running
-How long in minutes the current session has been running
+Ako dlho beží aktuálna relácia (v sekundách)
 
 
 ;Welcome to your Firefox Health Report
