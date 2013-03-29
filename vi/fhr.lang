@@ -1,420 +1,419 @@
 ;Firefox Health Report
-Firefox Health Report
+Báo Cáo Sức Khỏe Firefox
 
 
 ;Raw Data
-Raw Data
+Dữ Liệu Thô
 
 
 ;Get insights and performance information about your version of Firefox.
-Get insights and performance information about your version of Firefox.
+Tìm hiểu thông tin và hiệu suất phiên bản Firefox bạn đang chạy.
 
 
 ;Learn more...
-Learn more...
+Tìm hiểu thêm...
 
 
 ;Data Sharing
-Data Sharing
+Chia sẻ dữ liệu
 
 
 ;ON
-ON
+BẬT
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
-You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
+Dù bạn lựa chọn không chia sẻ dữ liệu với Mozilla, bạn vẫn có thể xem thông tin về hiệu suất trình duyệt của mình.
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
-Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
+Dữ liệu về báo cáo sức khỏe Firefox của bạn cũng sẽ được xóa khỏi các máy chủ của Mozilla. Bạn có thể tìm hiểu thêm về <a href="%(privacy_url)s">chính sách riêng tư</a> của chúng tôi.
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
-You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
+Bạn đã lựa chọn chia sẻ dữ liệu với Mozilla qua thời gian. Cảm ơn bạn vì đã trở thành một phần trong sứ mệnh của chúng tôi nhằm xây dựng một tương lai tốt hơn cho web.
 
 
 ;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
-Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
+Tìm hiểu về cách thức chúng tôi xử lý thông tin của bạn tại <a href="%(privacy_url)s">chính sách riêng tư.</a>
 
 
 ;Vital Stats
-Vital Stats
+Các Chỉ Số Quan Trọng
 
 
 ;version
-version
+phiên bản
 
 
 ;time open
-time open
+thời gian bật
 
 
 ;last crash
-last crash
+lần crash cuối cùng
 
 
 ;bookmarks
-bookmarks
+trang yêu thích
 
 
 ;This Month
-This Month
+Tháng Hiện Tại
 
 
 ;crashes
-crashes
+crash
 
 
 ;Add-ons
-Add-ons
+Add-on
 
 
 ;View List
-View List
+Danh Sách
 
 
 ;enabled
-enabled
+đang sử dụng
 
 
 ;disabled
-disabled
+không sử dụng
 
 
 ;Plugins
-Plugins
+Plugin
 
 
 ;Tips
-Tips
+Mẹo
 
 
 ;Wear and Tear
-Wear and Tear
+Rã Rời
 
 
 ;It looks like your browser has crashed a number of times recently. To learn more:
-It looks like your browser has crashed a number of times recently. To learn more:
+Có vẻ như gần đây trình duyệt của bạn crash nhiều. Tìm hiểu thêm:
 
 
 ;OFF
-OFF
+TẮT
 
 
 ;Visit our <a href="%(sumo_url)s">support website</a>
-Visit our <a href="%(sumo_url)s">support website</a>
+Ghé thăm <a href="%(sumo_url)s">trang hỗ trợ</a>
 
 
 ;View more <a href="%(details_url)s">detailed information</a>
-View more <a href="%(details_url)s">detailed information</a>
+Xem thêm <a href="%(details_url)s">thông tin chi tiết</a>
 
 
 ;pages visited
-pages visited
+các trang đã thăm
 
 
 ;Your browser seems to be running slower than usual. To learn more:
-Your browser seems to be running slower than usual. To learn more:
+Trình duyệt của bạn có vẻ chạy chậm hơn bình thường. Tìm hiểu thêm:
 
 
 ;You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
-You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
+Càng sử dụng trình duyệt nhiều bạn càng có thể xem được nhiều thông tin thú vị và chi tiết hơn. Quay trở lại sau một vài tuần và bạn sẽ thấy các hướng xuất hiện.
 
 
 ;Startup Time by Day
-Startup Time by Day
+Thời Gian Khởi Động Từng Ngày
 
 
 ;Graph:
-Graph:
+Đồ Thị:
 
 
 ;Average
-Average
+Trung Bình
 
 
 ;All
-All
+Tất cả
 
 
 ;Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
-Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
+Thời gian khởi động giúp nhận biết phiên bản Firefox của bạn chạy tốt hay không. Nhìn chung, khởi động càng nhanh (thời gian nhắn) là hiệu suất càng tốt.
 
 
 ;Data Collected
-Data Collected
+Dữ Liệu Đã Thu Thập
 
 
 ;Glossary
-Glossary
+Từ Vựng
 
 
 ;What the Firefox Health Report Measures
-What the Firefox Health Report Measures
+Những gì mà Báo Cáo Sức Khỏe Firefox đo đạc
 
 
 ;The Firefox Health Report (FHR) has 4 categories of metrics:
-The Firefox Health Report (FHR) has 4 categories of metrics:
+Báo Cáo Sức Khỏe Firefox (FHR) đo đạc 4 vấn đề:
 
 
 ;Configuration
-Configuration
+Cấu hình
 
 
 ;Device hardware, operating system, Firefox version
-Device hardware, operating system, Firefox version
+Phần cứng thiết bị, hệ điều hành, phiên bản Firefox
 
 
 ;Customizations
-Customizations
+Các tùy chỉnh
 
 
 ;Add-ons, count and type
-Add-ons, count and type
+Add-on, lượng và loại
 
 
 ;Performance
-Performance
+Hiệu suất
 
 
 ;Timing of browser events, rendering, session restores
-Timing of browser events, rendering, session restores
+Đo thời gian sự kiện duyệt, render, và phục hồi phiên làm việc
 
 
 ;Length of session, how old a profile is, count of crashes, count of pages
-Length of session, how old a profile is, count of crashes, count of pages
+Độ dài phiên làm việc, tuổi của profile, số lần crash, số lượng trang
 
 
 ;Detailed Description
-Detailed Description
+Mô Tả Chi Tiết
 
 
 ;Metric
-Metric
+Thang Đo
 
 
 ;Description
-Description
+Mô Tả
 
 
 ;Binary interface for XPCOM
-Binary interface for XPCOM
+Binary interface cho XPCOM
 
 
 ;Identifier for this build of the application based on the date the build was started
-Identifier for this build of the application based on the date the build was started
+Tên định danh của bản build của ứng dụng, dựa vào thời gian bắt đầu build
 
 
 ;Operating System for which this build was configured
-Operating System for which this build was configured
+Hệ điều hành mà bản build được cấu hình
 
 
 ;Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
-Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
+Tên định danh của bản phân phối mà ứng dụng đang sử dụng. Tên này được lấy từ tùy biến <var>distribution.id</var>
 
 
 ;Version of the distribution, taken from the <var>distribution.version</var> preference
-Version of the distribution, taken from the <var>distribution.version</var> preference
+Phiên bản của bản phân phối, được lấy từ tùy biến<var>distribution.version</var>
 
 
 ;The version number of any Mozilla hotfix applied to the application
-The version number of any Mozilla hotfix applied to the application
+Phiên bản sửa lỗi nóng (hotfix) dạng số Mozilla cập nhật trên ứng dụng
 
 
 ;Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
-Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
+Tên định danh duy nhất mô tả ứng dụng là Firefox hay Thunderbird, ... Dùng chung cho tất cả các bộ cài đặt ứng dụng, không phụ thuộc vào <var>appName</var>
 
 
 ;The configured name of the application (Firefox/Aurora/Nightly for instance)
-The configured name of the application (Firefox/Aurora/Nightly for instance)
+Tên bản phát hành của ứng dụng (chẳng hạn Firefox/Aurora/Nightly)
 
 
 ;The channel this installation checks for application updates (nightly/aurora/beta/release)
-The channel this installation checks for application updates (nightly/aurora/beta/release)
+Kênh phân phối mà trình cài đặt sử dụng để kiểm tra phiên bản mới (nightly/aurora/beta/phát hành)
 
 
 ;The name of the company/provider who built this version
-The name of the company/provider who built this version
+Tên công ty/bên phân phối build phiên bản này
 
 
 ;The current version of the product
-The current version of the product
+Phiên bản hiện tại của ứng dụng
 
 
 ;Number of processor cores
-Number of processor cores
+Số nhân trong bộ xử lý
 
 
 ;Whether the application is currently configured to be the default browser for the operating system
-Whether the application is currently configured to be the default browser for the operating system
+Ứng dụng đã được đặt làm trình duyệt mặc định trong hệ thống của bạn hay chưa
 
 
 ;Locale currently being used
-Locale currently being used
+Ngôn ngữ đang được sử dụng
 
 
 ;Amount of RAM in megabytes
-Amount of RAM in megabytes
+Dung lượng RAM tính theo megabyte
 
 
 ;Currently running Operating System (kernel) name
-Currently running Operating System (kernel) name
+Tên của (nhân) hệ điều hành đang chạy
 
 
 ;Currently running Operating System (kernel) version
-Currently running Operating System (kernel) version
+Phiên bản của (nhân) hệ điều hành đang chạy
 
 
 ;The build identifier of the Gecko platform code
-The build identifier of the Gecko platform code
+Tên build định danh của Gecko platform code
 
 
 ;The version of the Gecko platform code
-The version of the Gecko platform code
+Phiên bản của Gecko platform code
 
 
 ;Processor architecture
-Processor architecture
+Kiến trúc bộ xử lý
 
 
 ;The date this version was first used with this installation profile
-The date this version was first used with this installation profile
+Ngày ứng dụng được sử dụng lần đầu tiên với profile cài đặt này
 
 
 ;An application version which has been used with this installation profile
-An application version which has been used with this installation profile
+Phiên bản ứng dụng đã từng được sử dụng với profile cài đặt này
 
 
 ;The number of add-ons of this type that existed in the profile on this date
-The number of add-ons of this type that existed in the profile on this date
+Số lượng add-on loại này tồn tại trong profile tại ngày này
 
 
 ;<var>True</var> if the application automatically disabled the add-on
-<var>True</var> if the application automatically disabled the add-on
+<var>True</var> nếu ứng dụng tự động bỏ kích hoạt add-on
 
 
 ;Whether this add-on was installed by the user or automatically by another application
-Whether this add-on was installed by the user or automatically by another application
+Add-on này được cài đặt bởi người dùng hay một cách tự động bởi một ứng dụng khác
 
 
 ;Whether this add-on has native code.
-Whether this add-on has native code.
+Add-on có native code hay không.
 
 
 ;The identifier of this add-on as defined by the add-on developer
-The identifier of this add-on as defined by the add-on developer
+Tên định danh của add-on định nghĩa bởi người phát triển
 
 
 ;The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
-The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
+Ngày add-on này được cài đặt gần nhất (thông tin về một add-on bị xóa không được lưu trữ).
 
 
 ;The number of searches performed with this search engine from this part of the UI
-The number of searches performed with this search engine from this part of the UI
+Số lượng tìm kiếm được thực hiện bởi bộ máy tìm kiếm này từ phần này của giao diện
 
 
 ;Whether this add-on was installed in the application directory or profile directory
-Whether this add-on was installed in the application directory or profile directory
+Add-on này được cài đặt từ thư mục ứng dụng hay thư mục profile
 
 
 ;Whether this add-on is an extension or a plug-in
-Whether this add-on is an extension or a plug-in
+Add-on này là một phần mở rộng hay plug-in
 
 
 ;The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
-The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
+Ngày add-on này được cập nhật gần nhất (thông tin về một add-on bị xóa không được lưu trữ).
 
 
 ;<var>True</var> if the user manually disabled the add-on
-<var>True</var> if the user manually disabled the add-on
+<var>True</var> nếu người dùng chủ động bỏ kích hoạt add-on
 
 
 ;The current version of this add-on
-The current version of this add-on
+Phiên bản hiện tại của add-on này
 
 
 ;How long in milliseconds it took during startup for the application to render the UI and display the window
-How long in milliseconds it took during startup for the application to render the UI and display the window
-
+Thời gian thuộc quá trình khởi động (tính bằng mili giây) ứng dụng cần để render giao diện đồ họa và hiển thị cửa sổ
 
 ;How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
-How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
+Thời gian thuộc quá trình khởi động (tính bằng mili giây) ứng dụng cần để nạp thư viện và hoàn tất quá trình khởi tạo cơ bản
 
 
 ;How long in milliseconds it took during startup for the application to restore tabs from the previous session
-How long in milliseconds it took during startup for the application to restore tabs from the previous session
+Thời gian thuộc quá trình khởi động (tính bằng mili giây) ứng dụng cần để khôi phục các thẻ duyệt từ phiên làm việc trước
 
 
 ;The number of times the application was run and not cleanly shut down.
-The number of times the application was run and not cleanly shut down.
+Số lần ứng dụng chạy và kết thúc một cách bất thường.
 
 
 ;The time in seconds that the aborted sessions were not idle
-The time in seconds that the aborted sessions were not idle
+Thời gian (tính bằng giây) các phiên làm việc dang dở không ở trạng thái chờ
 
 
 ;The time in seconds that the aborted sessions were running
-The time in seconds that the aborted sessions were running
+Thời gian (tính bằng giây) các phiên làm việc dang dở đã chạy
 
 
 ;The number of days since this application profile directory was created
-The number of days since this application profile directory was created
+Số ngày thư mục profile của ứng dụng đã được tạo
 
 
 ;The number of times the application was run and cleanly shut down.
-The number of times the application was run and cleanly shut down.
+Số lần ứng dụng đã chạy và kết thúc trơn tru.
 
 
 ;The time in seconds that the completed sessions were not idle
-The time in seconds that the completed sessions were not idle
+Thời gian (tính bằng giây) các phiên làm việc hoàn tất không ở trạng thái chờ
 
 
 ;The time in seconds that the completed sessions were running
-The time in seconds that the completed sessions were running
+Thời gian (tính bằng giây) các phiên làm việc hoàn tất đã chạy
 
 
 ;Total number of crashes that were recorded but not yet submitted
-Total number of crashes that were recorded but not yet submitted
+Tổng số lần crash đã được ghi nhận nhưng chưa gửi
 
 
 ;Total number of crashes that have been submitted
-Total number of crashes that have been submitted
+Tổng số lần crash đã được gửi
 
 
 ;Time in seconds the app has not been idle
-Time in seconds the app has not been idle
+Thời gian (tính bằng giây) app không ở trạng thái chờ
 
 
 ;Time in seconds since the app was last started
-Time in seconds since the app was last started
+Thời gian (tính bằng giây) kể từ lần cuối cùng app khởi động
 
 
 ;Total number of bookmarks
-Total number of bookmarks
+Tổng số trang yêu thích
 
 
 ;Total number of pages listed in the history
-Total number of pages listed in the history
+Tổng số trang trong phần lịch sử
 
 
 ;How long in minutes the current session has been running
-How long in minutes the current session has been running
+Phiên làm việc hiện tại đang chạy trong bao lâu (tính theo phút)
 
 
 ;Welcome to your Firefox Health Report
-Welcome to your Firefox Health Report
+Chào mừng bạn đến với Báo Cáo Sức Khỏe Firefox
 
 
 ;Welcome!
-Welcome!
+Chào Mừng!
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
-Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
+Báo Cáo Sức Khỏe Firefox giúp bạn biết Firefox của bạn đang vận hành như thế nào và bạn có thể làm những gì để cải tiến.
 
 
 ;See My Report
-See My Report
+Xem Báo Cáo
 
 
