@@ -1,5 +1,5 @@
 ;Firefox Health Report
-Valutazione integrità di Firefox
+Analisi integrità di Firefox
 
 
 ;Raw Data
@@ -27,7 +27,7 @@ Hai scelto di non condividere più i dati con Mozilla, ma potrai sempre accedere
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
-I tuoi dati riguardanti la Valutazione integrità verranno rimossi anche dal server Mozilla. Ulteriori informazioni nell'<a href="%(privacy_url)s">Informativa sulla privacy.</a>
+I tuoi dati relativi allo stato d'integrità verranno rimossi anche dal server Mozilla. Ulteriori informazioni nell'<a href="%(privacy_url)s">Informativa sulla privacy.</a>
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
@@ -151,11 +151,11 @@ Glossario
 
 
 ;What the Firefox Health Report Measures
-Dati misurati dalla Valutazione integrità di Firefox
+Dati misurati dall'Analisi integrità di Firefox
 
 
 ;The Firefox Health Report (FHR) has 5 categories of metrics:
-La Valutazione integrità di Firefox (FHR) presenta 5 categorie di metrica:
+L'analisi integrità di Firefox (<abbr title="Firefox Health Report">FHR</abbr>) presenta 5 categorie di misurazioni:
 
 
 ;Configuration
@@ -211,7 +211,7 @@ Sistema operativo di riferimento di questa build
 
 
 ;Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
-Identificativo della particolare distribuzione dell'applicazione in uso. Ricavata dalla preferenza <var>distribution.id</var>
+Identificativo della particolare distribuzione dell'applicazione in uso. Ricavato dalla preferenza <var>distribution.id</var>
 
 
 ;Version of the distribution, taken from the <var>distribution.version</var> preference
@@ -227,7 +227,7 @@ Identificativo univoco per l'applicazione, indica se si tratta di Firefox, Thund
 
 
 ;The configured name of the application (Firefox/Aurora/Nightly for instance)
-Il nome personalizzato dell'applicazione (esempio: Firefox/Aurora/Nightly)
+Il nome specifico dell'applicazione (ad esempio: Firefox/Aurora/Nightly)
 
 
 ;The channel this installation checks for application updates (nightly/aurora/beta/release)
@@ -266,11 +266,11 @@ Versione del sistema operativo (kernel) attualmente in uso
 
 
 ;The build identifier of the Gecko platform code
-L'identificativo della build di Gecko
+L'identificativo del sorgente da cui è stata compilata la build di Gecko
 
 
 ;The version of the Gecko platform code
-La versione del codice di Gecko
+La versione del sorgente da cui è stata compilata la build di Gecko
 
 
 ;Processor architecture
@@ -401,7 +401,7 @@ Il tempo trascorso, espresso in minuti, dall'avvio della sessione corrente
 
 
 ;Welcome to your Firefox Health Report
-Benvenuto nella pagina di valutazione integrità di Firefox
+Benvenuto nella pagina Analisi integrità di Firefox
 
 
 ;Welcome!
@@ -409,10 +409,10 @@ Benvenuto.
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
-Valutazione integrità di Firefox (<abbr title="Firefox Health Report">FHR</abbr>) permette di analizzare le prestazioni della propria versione di Firefox e scoprire come migliorarle.
+Analisi integrità di Firefox (<abbr title="Firefox Health Report">FHR</abbr>) permette di valutare le prestazioni della propria versione di Firefox e scoprire come migliorarle.
 
 
 ;See My Report
-Mostra le mie valutazioni
+Mostra i miei dati
 
 
