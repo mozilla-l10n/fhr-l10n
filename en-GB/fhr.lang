@@ -103,7 +103,7 @@ OFF
 
 
 ;Visit our <a href="%(sumo_url)s">support website</a>
-Visit our <a href="%(sumo_url)s">support website</a>
+Visit our <a href="%(sumo_url)s">support web site</a>
 
 
 ;View more <a href="%(details_url)s">detailed information</a>
@@ -167,7 +167,7 @@ Device hardware, operating system, Firefox version
 
 
 ;Customizations
-Customizations
+Customisations
 
 
 ;Add-ons, count and type
@@ -339,7 +339,7 @@ How long in milliseconds it took during startup for the application to render th
 
 
 ;How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
-How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
+How long in milliseconds it took during startup for the application to load libraries and finish basic initialisation
 
 
 ;How long in milliseconds it took during startup for the application to restore tabs from the previous session
