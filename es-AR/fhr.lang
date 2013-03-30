@@ -3,11 +3,11 @@ Informe de salud de Firefox
 
 
 ;Raw Data
-Datos crudos
+Datos en bruto
 
 
 ;Get insights and performance information about your version of Firefox.
-Obtené información y mejor conocimiento del rendimiento de tu versión de Firefox.
+Obtenga información y mejor conocimiento del rendimiento de su versión de Firefox.
 
 
 ;Learn more...
@@ -23,19 +23,19 @@ SI
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
-Elegiste dejar de compartir información con Mozilla, pero podés seguir viendo el rendimiento de tu navegador.
+Elegió dejar de compartir información con Mozilla, pero puede seguir viendo el rendimiento de su navegador.
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
-La información de tus Informes de salud serán borrados de los servidores de Mozilla. Conocé más leyendo <a href="%(privacy_url)s">políticas de privacidad.</a>
+La información de los Informes de salud serán borrados de los servidores de Mozilla. Conozca más leyendo las <a href="%(privacy_url)s">políticas de privacidad.</a>
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
-Elegiste compartir tus datos con Mozilla cada cierto tiempo. Gracias por ser parte de nuestra misión de crear un futuro más brillantes para la Web.
+Elegió compartir sus datos con Mozilla cada cierto tiempo. Gracias por ser parte de nuestra misión de crear un futuro más brillantes para la Web.
 
 
 ;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
-Cononcé cómo manejamos la información en nuestras <a href="%(privacy_url)s">políticas de privacidad.</a>
+Cononozca cómo manejamos la información en nuestras <a href="%(privacy_url)s">políticas de privacidad.</a>
 
 
 ;Vital Stats
@@ -91,11 +91,11 @@ Consejos
 
 
 ;Wear and Tear
-Depreciación
+Desgaste
 
 
 ;It looks like your browser has crashed a number of times recently. To learn more:
-Parece que tu navegador se colgó varias veces en el último tiempo. Para saber más:
+Parece que su navegador se colgó varias veces en el último tiempo. Si quiere saber más:
 
 
 ;OFF
@@ -103,11 +103,11 @@ NO
 
 
 ;Visit our <a href="%(sumo_url)s">support website</a>
-Visitá nuestro <a href="%(sumo_url)s">centro de ayuda</a>
+Visite nuestro <a href="%(sumo_url)s">centro de ayuda</a>
 
 
 ;View more <a href="%(details_url)s">detailed information</a>
-Mirá la <a href="%(details_url)s">información detallada</a>
+Mire la <a href="%(details_url)s">información detallada</a>
 
 
 ;pages visited
@@ -115,11 +115,11 @@ páginas visitadas
 
 
 ;Your browser seems to be running slower than usual. To learn more:
-Tu navegador parece estar yendo más lento de lo habitual. Para saber más:
+Su navegador parece estar yendo más lento de lo habitual. Si quiere saber más:
 
 
 ;You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
-Podrás ver información más detallada e interesante a medida que uses tu navegador. Mirá nuevamente en un par de semanas para empezar a ver algunas tendencias.
+Podrá ver información más detallada e interesante a medida que use tu navegador. Mire nuevamente en un par de semanas para empezar a ver algunas tendencias.
 
 
 ;Startup Time by Day
@@ -139,7 +139,7 @@ Todos
 
 
 ;Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
-El tiempo de inicio ayuda a determinar que tan buen rendimiento tiene tu versión de Firefox. En general, tiempos más rápidos (p.ej. menos tiempo) indican un mejor rendimiento.
+El tiempo de inicio ayuda a determinar que tan buen rendimiento tiene su versión de Firefox. En general, tiempos más rápidos (p.ej. menos tiempo) indican un mejor rendimiento.
 
 
 ;Data Collected
@@ -235,7 +235,7 @@ El canal que esta instalación busca para actualizaciones (nightly/aurora/beta/r
 
 
 ;The name of the company/provider who built this version
-El nombre de la compañís/proveedor que creó esta versión
+El nombre de la compañía/proveedor que creó esta versión
 
 
 ;The current version of the product
@@ -295,11 +295,11 @@ Número de complementos de este tipo que existen en el perfil en esta fecha
 
 
 ;Whether this add-on was installed by the user or automatically by another application
-Cuando este complemento fue instalado por el usuario o automáticamente por otra aplicación
+Si este complemento fue instalado por el usuario o automáticamente por otra aplicación
 
 
 ;Whether this add-on has native code.
-Cuando este complemento tiene código nativo.
+Si este complemento tiene código nativo.
 
 
 ;The identifier of this add-on as defined by the add-on developer
@@ -411,7 +411,7 @@ Bienvenido al informe de salud de Firefox
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
-El informe de salud de Firefox te permite saber cómo es el rendimiento de tu Firefox y qué podés hacer para mejorarlo.
+El informe de salud de Firefox le permite saber cómo es el rendimiento de su Firefox y qué puede hacer para mejorarlo.
 
 
 ;See My Report
