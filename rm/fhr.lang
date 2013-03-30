@@ -1,93 +1,93 @@
 ;Firefox Health Report
-Firefox Health Report
+Bilantscha da sanadad da Firefox
 
 
 ;Raw Data
-Raw Data
+Datas bruttas
 
 
 ;Get insights and performance information about your version of Firefox.
-Get insights and performance information about your version of Firefox.
+Retschaiva infurmaziuns davart la prestaziun da tia versiun da Firefox.
 
 
 ;Learn more...
-Learn more...
+Dapli infurmaziuns…
 
 
 ;Data Sharing
-Data Sharing
+Cundivider datas
 
 
 ;ON
-ON
+ACTIV
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
-You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
+Ti has tschernì da betg pli cundivider datas cun Mozilla, ma ti vegns anc adina ad esser abel da vesair con buna che la prestaziun da tes navigatur è.
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
-Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
+Las datas da la bilantscha da sanadad da tes navigatur vegnan era allontanadas dals servers da Mozilla. Dapli infurmaziuns chattas en las <a href="%(privacy_url)s">directivas per la protecziun da datas</a>.
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
-You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
+Ti has tschernì da cundivider tias datas da temp en temp cun Mozilla. Grazia che ti fas part da nossa missiun per crear in meglier web.
 
 
 ;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
-Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
+Infurmaziuns davart l'utilisaziun da tias datas chattas en las <a href="%(privacy_url)s">directivas per la protecziun da datas</a>.
 
 
 ;Vital Stats
-Vital Stats
+Statistica principala
 
 
 ;version
-version
+versiun
 
 
 ;time open
-time open
+avert dapi
 
 
 ;last crash
-last crash
+ultim collaps
 
 
 ;bookmarks
-bookmarks
+segnapaginas
 
 
 ;This Month
-This Month
+Quest mais
 
 
 ;crashes
-crashes
+collaps
 
 
 ;Add-ons
-Add-ons
+Supplements
 
 
 ;View List
-View List
+Vesair la glista
 
 
 ;enabled
-enabled
+activads
 
 
 ;disabled
-disabled
+deactivads
 
 
 ;Plugins
-Plugins
+Plug-ins
 
 
 ;Tips
-Tips
+Tips {ok}
 
 
 ;Wear and Tear
@@ -99,7 +99,7 @@ It looks like your browser has crashed a number of times recently. To learn more
 
 
 ;OFF
-OFF
+INACTIV
 
 
 ;Visit our <a href="%(sumo_url)s">support website</a>
@@ -407,14 +407,14 @@ Welcome to your Firefox Health Report
 
 
 ;Welcome!
-Welcome!
+Bainvegni!
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
-Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
+La bilantscha da sanadad da Firefox ta mussa quant buna che la prestaziun da tes Firefox è e co che ti la pos meglierar.
 
 
 ;See My Report
-See My Report
+Mussar mia bilantscha
 
 
