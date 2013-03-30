@@ -155,7 +155,7 @@ Firefox 健康檢查報告測量了什麼
 
 
 ;The Firefox Health Report (FHR) has 4 categories of metrics:
-Firefox 健康檢查報告有五類的測量標準:
+Firefox 健康檢查報告有四類的測量標準:
 
 
 ;Configuration
@@ -411,7 +411,7 @@ Gecko 平台程式碼的版本
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
-Firefox 健康檢查報告讓您可以知道您的 Firefox 表現得如何，您可以做什麼改善 Firefox。
+Firefox 健康檢查報告讓您可以知道您的 Firefox 表現得如何，您還可以做什麼改善表現。
 
 
 ;See My Report
