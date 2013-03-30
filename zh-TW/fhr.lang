@@ -27,7 +27,7 @@ Firefox 健康檢查報告
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
-您在 Mozilla 伺服器上的瀏覽器健康檢查報告資料也將會被移除。了解我們的 <a href="%(privacy_url)s">隱私權保護政策。</a>
+您在 Mozilla 伺服器上的瀏覽器健康檢查報告資料也將會被移除，請參考我們的 <a href="%(privacy_url)s">隱私權保護政策。</a>
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
@@ -119,7 +119,7 @@ Firefox 健康檢查報告
 
 
 ;You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
-您將能夠看到一些更詳細關於您如何使用瀏覽器的資訊。請過幾個禮拜再回來看看這些趨勢。
+您將能夠看到一些更詳細關於您如何使用瀏覽器的資訊，請過幾個禮拜再回來看看有什麼趨勢。
 
 
 ;Startup Time by Day
@@ -299,7 +299,7 @@ Gecko 平台程式碼的版本
 
 
 ;Whether this add-on has native code.
-此附加元件是否包含原生程式碼。
+此附加元件是否包含原生程式碼
 
 
 ;The identifier of this add-on as defined by the add-on developer
@@ -307,7 +307,7 @@ Gecko 平台程式碼的版本
 
 
 ;The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
-此附加元件最近一次安裝日期 (先前移除的附加元件資訊將不會被保留)。
+此附加元件最近一次安裝日期 (先前移除的附加元件資訊將不會被保留)
 
 
 ;The number of searches performed with this search engine from this part of the UI
@@ -323,7 +323,7 @@ Gecko 平台程式碼的版本
 
 
 ;The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
-此附加元件最近一次更新日期 (先前移除的附加元件資訊將不會被保留)。
+此附加元件最近一次更新日期 (先前移除的附加元件資訊將不會被保留)
 
 
 ;<var>True</var> if the user manually disabled the add-on
@@ -347,7 +347,7 @@ Gecko 平台程式碼的版本
 
 
 ;The number of times the application was run and not cleanly shut down.
-應用程式未正常結束的次數。
+應用程式未正常結束的次數
 
 
 ;The time in seconds that the aborted sessions were not idle
@@ -363,7 +363,7 @@ Gecko 平台程式碼的版本
 
 
 ;The number of times the application was run and cleanly shut down.
-此應用程式執行並正常結束的次數。
+此應用程式執行並正常結束的次數
 
 
 ;The time in seconds that the completed sessions were not idle
@@ -411,7 +411,7 @@ Gecko 平台程式碼的版本
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
-Firefox 健康檢查報告讓您可以知道您的 Firefox 表現得如何，您還可以做什麼改善表現。
+Firefox 健康檢查報告讓您可以知道您的 Firefox 表現得如何、您還可以做什麼以改善表現。
 
 
 ;See My Report
