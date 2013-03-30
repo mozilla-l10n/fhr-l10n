@@ -42,19 +42,19 @@
 
 
 ;version
-έκδοση
+Έκδοση
 
 
 ;time open
-χρόνος που παρέμεινε ανοικτός
+Χρόνος που παρέμεινε ανοικτός
 
 
 ;last crash
-τελευταία κατάρρευση
+Τελευταία κατάρρευση
 
 
 ;bookmarks
-σελιδοδείκτες
+Σελιδοδείκτες
 
 
 ;This Month
@@ -74,11 +74,11 @@
 
 
 ;enabled
-ενεργοποιημένο
+Ενεργοποιημένα
 
 
 ;disabled
-απενεργοποιημένο
+Απενεργοποιημένα
 
 
 ;Plugins
@@ -110,7 +110,7 @@
 
 
 ;pages visited
-σελίδες που επισκεφθείκατε
+Σελίδες που επισκεφθείκατε
 
 ;Your browser seems to be running slower than usual. To learn more:
 Ο περιηγητής σας φαίνεται να λειτουργεί πιο αργά από το κανονικό. Για να μάθετε περισσότερα:
@@ -381,11 +381,11 @@
 
 
 ;Time in seconds the app has not been idle
-Χρόνος σε δευτερόλεπτα που η εφαρμογή δεν ήταν αδρανής.
+Χρόνος (σε δευτερόλεπτα) που η εφαρμογή δεν ήταν αδρανής.
 
 
 ;Time in seconds since the app was last started
-Χρόνος σε δευτερόλεπτα από την τελευταία εκκίνηση της εφαρμογής.
+Χρόνος (σε δευτερόλεπτα) από την τελευταία εκκίνηση της εφαρμογής.
 
 
 ;Total number of bookmarks
@@ -397,11 +397,11 @@
 
 
 ;How long in minutes the current session has been running
-Χρόνος διάρκειας σε λεπτά της τρέχουσας συνεδρίας.
+Χρόνος διάρκειας (σε λεπτά) της τρέχουσας συνεδρίας.
 
 
 ;Welcome to your Firefox Health Report
-Καλωσήρθατε στην αναφορά υγείας του Firefox.
+Καλώς ήρθατε στην αναφορά υγείας του Firefox.
 
 
 ;Welcome!
@@ -409,7 +409,7 @@
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
-Η αναφορά υγείας του Firefox Health Report σας ενημερώνει για τις επιδόσεις του Firefox και τι μπορείτε να κάνετε για να τις βελτιώσετε.
+Η αναφορά υγείας του Firefox σας ενημερώνει για τις επιδόσεις του Firefox και τι μπορείτε να κάνετε για να τις βελτιώσετε.
 
 
 ;See My Report
