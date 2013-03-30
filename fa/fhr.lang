@@ -19,7 +19,7 @@
 
 
 ;ON
-ON{ok}
+فعال
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
@@ -99,7 +99,7 @@ ON{ok}
 
 
 ;OFF
-OFF{ok}
+غیرفعال
 
 
 ;Visit our <a href="%(sumo_url)s">support website</a>
@@ -155,7 +155,7 @@ OFF{ok}
 
 
 ;The Firefox Health Report (FHR) has 4 categories of metrics:
-گزارش سلامتی فایرفاکس (FHR) دارای ۵ دسته‌بندی اندازه‌گیری است:
+گزارش سلامتی فایرفاکس (FHR) دارای ۴ دسته‌بندی اندازه‌گیری است:
 
 
 ;Configuration
