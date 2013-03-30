@@ -91,7 +91,7 @@ Firefox 健康檢查報告
 
 
 ;Wear and Tear
-磨損
+磨損程度
 
 
 ;It looks like your browser has crashed a number of times recently. To learn more:
@@ -127,7 +127,7 @@ Firefox 健康檢查報告
 
 
 ;Graph:
-示意圖:
+圖表:
 
 
 ;Average
@@ -155,11 +155,11 @@ Firefox 健康檢查報告測量了什麼
 
 
 ;The Firefox Health Report (FHR) has 4 categories of metrics:
-Firefox 健康檢查報告有四類的測量標準:
+Firefox 健康檢查報告有下列四類測量標準:
 
 
 ;Configuration
-設定
+軟體設定
 
 
 ;Device hardware, operating system, Firefox version
@@ -175,7 +175,7 @@ Firefox 健康檢查報告有四類的測量標準:
 
 
 ;Performance
-效能
+效能資料
 
 
 ;Timing of browser events, rendering, session restores
@@ -183,7 +183,7 @@ Firefox 健康檢查報告有四類的測量標準:
 
 
 ;Length of session, how old a profile is, count of crashes, count of pages
-瀏覽階段長度、設定檔有多老、程式錯誤數量、頁面數量
+瀏覽階段長度、設定檔有多老舊、程式錯誤數量、頁面數量
 
 
 ;Detailed Description
