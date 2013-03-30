@@ -19,7 +19,7 @@ Firefox Health Report {ok}
 
 
 ;ON
-ON {ok}
+켜기
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
@@ -99,7 +99,7 @@ Mozilla와의 데이터 공유를 선택하였습니다. 보다나은 웹을 만
 
 
 ;OFF
-OFF {ok}
+끄기
 
 
 ;Visit our <a href="%(sumo_url)s">support website</a>
@@ -155,7 +155,7 @@ Firefox Health Report의 측정 범위
 
 
 ;The Firefox Health Report (FHR) has 4 categories of metrics:
-Firefox Health Report(FHR)는 5가지의 정보를 측정합니다:
+Firefox Health Report(FHR)는 4가지의 정보를 측정합니다:
 
 
 ;Configuration
