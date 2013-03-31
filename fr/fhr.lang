@@ -151,7 +151,7 @@ Glossaire
 
 
 ;What the Firefox Health Report Measures
-Qu'est-ce que mesure le bilan de santé de Firefox
+Que mesure le bilan de santé de Firefox
 
 
 ;The Firefox Health Report (FHR) has 4 categories of metrics:
@@ -211,7 +211,7 @@ Système d'exploitation pour lequel ce logiciel a été configuré
 
 
 ;Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
-Identifiant du canal de distribution spécifique du logiciel utilisé. Extrait de la préférence <var>distribution.id</var>.
+Identifiant du canal de distribution spécifique du logiciel utilisé. Extrait de la préférence <var>distribution.id</var>
 
 
 ;Version of the distribution, taken from the <var>distribution.version</var> preference
@@ -271,7 +271,7 @@ Identifiant de compilation du code plateforme Gecko
 
 
 ;The version of the Gecko platform code
-Version du code plateforme Gecko
+Version du code de la plateforme Gecko
 
 
 ;Processor architecture
@@ -307,7 +307,7 @@ Identifiant du module tel que défini par son développeur
 
 
 ;The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
-La date d'installation la plus récente pour ce module (les précédentes informations concernant un module désinstallé ne sont pas conservées).
+La date d'installation la plus récente pour ce module (les précédentes informations concernant un module désinstallé ne sont pas conservées)
 
 
 ;The number of searches performed with this search engine from this part of the UI
@@ -323,7 +323,7 @@ Le module est-il une extension ou un plugin
 
 
 ;The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
-La date de mise à jour la plus récente pour ce module (les précédentes informations concernant un module désinstallé ne sont pas conservées).
+La date de mise à jour la plus récente pour ce module (les précédentes informations concernant un module désinstallé ne sont pas conservées)
 
 
 ;<var>True</var> if the user manually disabled the add-on
@@ -343,11 +343,11 @@ Combien de temps en millisecondes a-t-il fallu pendant le démarrage de l'applic
 
 
 ;How long in milliseconds it took during startup for the application to restore tabs from the previous session
-Combien de temps en millisecondes a-t-il fallu durant le démarrage de l'application pour restaurer les onglets de la session précédente
+Combien de temps en millisecondes a-t-il fallu pendant le démarrage de l'application pour restaurer les onglets de la session précédente
 
 
 ;The number of times the application was run and not cleanly shut down.
-Le nombre de fois où l'application a été exécutée et n'a pas été proprement fermée.
+Le nombre de fois où l'application a été exécutée et n'a pas été proprement fermée
 
 
 ;The time in seconds that the aborted sessions were not idle
@@ -363,7 +363,7 @@ Le nombre de jours depuis que le répertoire de l'application a été créé
 
 
 ;The number of times the application was run and cleanly shut down.
-Le nombre de fois où l'application a été exécutée et a été proprement fermée.
+Le nombre de fois où l'application a été exécutée et a été proprement fermée
 
 
 ;The time in seconds that the completed sessions were not idle
