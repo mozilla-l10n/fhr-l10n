@@ -19,7 +19,7 @@ Datos compartidos
 
 
 ;ON
-ACT.
+ACTIVAR
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
@@ -99,7 +99,7 @@ Parece que su navegador se ha colgado varias veces recientemente. Si quiere tene
 
 
 ;OFF
-DES.
+DESACTIVAR
 
 
 ;Visit our <a href="%(sumo_url)s">support website</a>
