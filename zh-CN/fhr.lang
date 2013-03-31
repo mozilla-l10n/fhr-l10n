@@ -1,420 +1,420 @@
 ;Firefox Health Report
-Firefox Health Report
+火狐健康报告
 
 
 ;Raw Data
-Raw Data
+原始数据
 
 
 ;Get insights and performance information about your version of Firefox.
-Get insights and performance information about your version of Firefox.
+获得你正在使用的火狐版本的评价和性能信息。
 
 
 ;Learn more...
-Learn more...
+进一步了解...
 
 
 ;Data Sharing
-Data Sharing
+数据分享
 
 
 ;ON
-ON
+打开
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
-You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
+你选择不与 Mozilla 分享数据，但是你依然可以查看浏览器的性能。
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
-Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
+Mozilla 也会从服务器上删除你的健康报告数据。查看<a href="%(privacy_url)s">隐私政策</a>了解更多信息。
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
-You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
+你选择经常与 Mozilla 分享您的数据。感谢您帮助我们为互联网构建更光明的未来。
 
 
 ;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
-Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
+查看<a href="%(privacy_url)s">隐私政策</a>了解我们如何处理您的数据。
 
 
 ;Vital Stats
-Vital Stats
+活力状态
 
 
 ;version
-version
+版本
 
 
 ;time open
-time open
+打开时间
 
 
 ;last crash
-last crash
+最近一次崩溃
 
 
 ;bookmarks
-bookmarks
+书签
 
 
 ;This Month
-This Month
+本月
 
 
 ;crashes
-crashes
+崩溃
 
 
 ;Add-ons
-Add-ons
+附加组件
 
 
 ;View List
-View List
+查看列表
 
 
 ;enabled
-enabled
+已启用
 
 
 ;disabled
-disabled
+已禁用
 
 
 ;Plugins
-Plugins
+插件
 
 
 ;Tips
-Tips
+提示
 
 
 ;Wear and Tear
-Wear and Tear
+磨损
 
 
 ;It looks like your browser has crashed a number of times recently. To learn more:
-It looks like your browser has crashed a number of times recently. To learn more:
+看起来您的浏览器最近崩溃了很多次。详细了解：
 
 
 ;OFF
-OFF
+关闭
 
 
 ;Visit our <a href="%(sumo_url)s">support website</a>
-Visit our <a href="%(sumo_url)s">support website</a>
+访问我们的 <a href="%(sumo_url)s">支持网站</a>
 
 
 ;View more <a href="%(details_url)s">detailed information</a>
-View more <a href="%(details_url)s">detailed information</a>
+查看更多 <a href="%(details_url)s">详细信息</a>
 
 
 ;pages visited
-pages visited
+已访问页面
 
 
 ;Your browser seems to be running slower than usual. To learn more:
-Your browser seems to be running slower than usual. To learn more:
+您的浏览器看起来慢得异乎寻常，进一步了解：
 
 
 ;You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
-You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
+使用你的浏览器越多，就越能发现很多有趣的细节。可以每隔几周就来看看，了解一些动向。
 
 
 ;Startup Time by Day
-Startup Time by Day
+启动时间（按天排序）
 
 
 ;Graph:
-Graph:
+图形:
 
 
 ;Average
-Average
+平均
 
 
 ;All
-All
+全部
 
 
 ;Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
-Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
+启动时间体现了你使用的火狐版本的性能。一般来说，更快的启动时间（或者说更短的时间）意味着更好的性能。
 
 
 ;Data Collected
-Data Collected
+收集的数据
 
 
 ;Glossary
-Glossary
+词汇表
 
 
 ;What the Firefox Health Report Measures
-What the Firefox Health Report Measures
+火狐健康报告的测试标准是什么
 
 
 ;The Firefox Health Report (FHR) has 4 categories of metrics:
-The Firefox Health Report (FHR) has 4 categories of metrics:
+火狐健康报告 (FHR) 有4类指标：
 
 
 ;Configuration
-Configuration
+配置
 
 
 ;Device hardware, operating system, Firefox version
-Device hardware, operating system, Firefox version
+设备硬件，操作系统，火狐版本
 
 
 ;Customizations
-Customizations
+自定义
 
 
 ;Add-ons, count and type
-Add-ons, count and type
+附加组件，计数和类型
 
 
 ;Performance
-Performance
+性能
 
 
 ;Timing of browser events, rendering, session restores
-Timing of browser events, rendering, session restores
+浏览器运行、渲染和恢复会话的时间
 
 
 ;Length of session, how old a profile is, count of crashes, count of pages
-Length of session, how old a profile is, count of crashes, count of pages
+会话长度，配置文件历史，崩溃计数，页面计数
 
 
 ;Detailed Description
-Detailed Description
+详细描述
 
 
 ;Metric
-Metric
+指标
 
 
 ;Description
-Description
+描述
 
 
 ;Binary interface for XPCOM
-Binary interface for XPCOM
+XPCOM 二进制界面
 
 
 ;Identifier for this build of the application based on the date the build was started
-Identifier for this build of the application based on the date the build was started
+基于本次构建开始时间而形成的应用程序版本标识符
 
 
 ;Operating System for which this build was configured
-Operating System for which this build was configured
+该构建版本面向的操作系统
 
 
 ;Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
-Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
+使用中的应用程序的特定分发的标识符，来自<var>distribution.id</var>参数。
 
 
 ;Version of the distribution, taken from the <var>distribution.version</var> preference
-Version of the distribution, taken from the <var>distribution.version</var> preference
+分发版本，来自 <var>distribution.version</var> 参数
 
 
 ;The version number of any Mozilla hotfix applied to the application
-The version number of any Mozilla hotfix applied to the application
+应用程序上已安装的 Mozilla 补丁的版本号
 
 
 ;Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
-Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
+应用程序的唯一标识符，诸如 Firefox、Thunderbird 等等。忽略 <var>appName</var> ，所有安装版本都一样。
 
 
 ;The configured name of the application (Firefox/Aurora/Nightly for instance)
-The configured name of the application (Firefox/Aurora/Nightly for instance)
+应用程序配置名 (Firefox/Aurora/Nightly 实例)
 
 
 ;The channel this installation checks for application updates (nightly/aurora/beta/release)
-The channel this installation checks for application updates (nightly/aurora/beta/release)
+当前安装版本检查更新的频道 (nightly/aurora/beta/正式版)
 
 
 ;The name of the company/provider who built this version
-The name of the company/provider who built this version
+构建该版本的公司/提供者名字
 
 
 ;The current version of the product
-The current version of the product
+当前产品版本
 
 
 ;Number of processor cores
-Number of processor cores
+处理器核心数量
 
 
 ;Whether the application is currently configured to be the default browser for the operating system
-Whether the application is currently configured to be the default browser for the operating system
+应用程序是否配置为操作系统的默认浏览器
 
 
 ;Locale currently being used
-Locale currently being used
+当前的语言区域
 
 
 ;Amount of RAM in megabytes
-Amount of RAM in megabytes
+内存数量（MB）
 
 
 ;Currently running Operating System (kernel) name
-Currently running Operating System (kernel) name
+当前运行的操作系统（内核）名称
 
 
 ;Currently running Operating System (kernel) version
-Currently running Operating System (kernel) version
+当前运行的操作系统（内核）版本
 
 
 ;The build identifier of the Gecko platform code
-The build identifier of the Gecko platform code
+Gecko 平台代码的构建标识符
 
 
 ;The version of the Gecko platform code
-The version of the Gecko platform code
+Gecko 平台代码的版本
 
 
 ;Processor architecture
-Processor architecture
+处理器架构
 
 
 ;The date this version was first used with this installation profile
-The date this version was first used with this installation profile
+当前版本配置文件的首次使用日期
 
 
 ;An application version which has been used with this installation profile
-An application version which has been used with this installation profile
+当前配置文件使用的应用程序的版本
 
 
 ;The number of add-ons of this type that existed in the profile on this date
-The number of add-ons of this type that existed in the profile on this date
+在此日期时配置文件中存在的此类附加组件数量
 
 
 ;<var>True</var> if the application automatically disabled the add-on
-<var>True</var> if the application automatically disabled the add-on
+如果应用程序自动禁用了附加组件，则为 <var>True</var>
 
 
 ;Whether this add-on was installed by the user or automatically by another application
-Whether this add-on was installed by the user or automatically by another application
+附加组件是用户安装还是其他应用程序自动安装
 
 
 ;Whether this add-on has native code.
-Whether this add-on has native code.
+附加组件是否有原生代码。
 
 
 ;The identifier of this add-on as defined by the add-on developer
-The identifier of this add-on as defined by the add-on developer
+开发者定义的附加组件标识符
 
 
 ;The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
-The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
+该附加组件最近安装的日期（已卸载附加组件的过往信息没有保留）
 
 
 ;The number of searches performed with this search engine from this part of the UI
-The number of searches performed with this search engine from this part of the UI
+这部分界面通过这个搜索引擎执行过的搜索次数
 
 
 ;Whether this add-on was installed in the application directory or profile directory
-Whether this add-on was installed in the application directory or profile directory
+附加组件安装在应用程序目录还是配置文件目录
 
 
 ;Whether this add-on is an extension or a plug-in
-Whether this add-on is an extension or a plug-in
+附加组件是扩展还是插件
 
 
 ;The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
-The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
+附加组件最近更新日期（已卸载附加组件的过往信息没有保留）。
 
 
 ;<var>True</var> if the user manually disabled the add-on
-<var>True</var> if the user manually disabled the add-on
+用户手动禁用附加组件时为 <var>True</var>
 
 
 ;The current version of this add-on
-The current version of this add-on
+附加组件的当前版本
 
 
 ;How long in milliseconds it took during startup for the application to render the UI and display the window
-How long in milliseconds it took during startup for the application to render the UI and display the window
+应用程序启动时渲染界面和显示窗口所用的时间（毫秒）
 
 
 ;How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
-How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
+应用程序启动时读取库文件和完成基本的初始化所用的时间（毫秒）
 
 
 ;How long in milliseconds it took during startup for the application to restore tabs from the previous session
-How long in milliseconds it took during startup for the application to restore tabs from the previous session
+应用程序启动时从上次会话中恢复标签页所用的时间（毫秒）
 
 
 ;The number of times the application was run and not cleanly shut down.
-The number of times the application was run and not cleanly shut down.
+应用程序运行后没有正常关闭的次数。
 
 
 ;The time in seconds that the aborted sessions were not idle
-The time in seconds that the aborted sessions were not idle
+已终止会话的非空闲时间（秒）
 
 
 ;The time in seconds that the aborted sessions were running
-The time in seconds that the aborted sessions were running
+已终止会话的运行时间
 
 
 ;The number of days since this application profile directory was created
-The number of days since this application profile directory was created
+应用程序当前配置文件目录已经创建的天数
 
 
 ;The number of times the application was run and cleanly shut down.
-The number of times the application was run and cleanly shut down.
+应用程序运行后正常关闭的次数。
 
 
 ;The time in seconds that the completed sessions were not idle
-The time in seconds that the completed sessions were not idle
+已完成会话的非空闲时间（秒）
 
 
 ;The time in seconds that the completed sessions were running
-The time in seconds that the completed sessions were running
+已完成会话的运行时间（秒）
 
 
 ;Total number of crashes that were recorded but not yet submitted
-Total number of crashes that were recorded but not yet submitted
+已记录未提交的崩溃次数
 
 
 ;Total number of crashes that have been submitted
-Total number of crashes that have been submitted
+已提交的崩溃次数
 
 
 ;Time in seconds the app has not been idle
-Time in seconds the app has not been idle
+应用非空闲时间（秒）
 
 
 ;Time in seconds since the app was last started
-Time in seconds since the app was last started
+应用最近一次启动后经过的时间（秒）
 
 
 ;Total number of bookmarks
-Total number of bookmarks
+书签总数
 
 
 ;Total number of pages listed in the history
-Total number of pages listed in the history
+历史记录中列出的页面数
 
 
 ;How long in minutes the current session has been running
-How long in minutes the current session has been running
+当前会话持续运行的时间（分钟）
 
 
 ;Welcome to your Firefox Health Report
-Welcome to your Firefox Health Report
+欢迎查看你的火狐健康报告
 
 
 ;Welcome!
-Welcome!
+欢迎！
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
-Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
+火狐健康报告帮助你了解火狐的性能以及如何提高。
 
 
 ;See My Report
-See My Report
+查看我的报告
 
 
