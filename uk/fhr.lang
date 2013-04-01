@@ -271,11 +271,11 @@ The build identifier of the Gecko platform code
 
 
 ;The version of the Gecko platform code
-The version of the Gecko platform code
+Версія кода платформи Gecko
 
 
 ;Processor architecture
-Processor architecture
+Архітектура процесора
 
 
 ;The date this version was first used with this installation profile
@@ -299,11 +299,11 @@ Whether this add-on was installed by the user or automatically by another applic
 
 
 ;Whether this add-on has native code.
-Whether this add-on has native code.
+Чи має цей додаток має нативний код.
 
 
 ;The identifier of this add-on as defined by the add-on developer
-The identifier of this add-on as defined by the add-on developer
+Ідентифікатор цього додатку, що визначений його розробником
 
 
 ;The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
@@ -311,39 +311,39 @@ The most recent date this add-on was installed (previous information about an un
 
 
 ;The number of searches performed with this search engine from this part of the UI
-The number of searches performed with this search engine from this part of the UI
+Кількість пошуків, виконаних за допомогою цього пошукового засобу з цієї частини користувацького інтерфейсу
 
 
 ;Whether this add-on was installed in the application directory or profile directory
-Whether this add-on was installed in the application directory or profile directory
+Чи був цей додаток встановлений в теку програм, чи в теку профілю
 
 
 ;Whether this add-on is an extension or a plug-in
-Whether this add-on is an extension or a plug-in
+Чи є цей додаток розширенням, чи плагіном
 
 
 ;The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
-The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
+Дата останнього оновлення цього додатку (інформація про вилучені додатоки не зберігається).
 
 
 ;<var>True</var> if the user manually disabled the add-on
-<var>True</var> if the user manually disabled the add-on
+<var>True</var>, якщо користувач вручну вимкнув додаток
 
 
 ;The current version of this add-on
-The current version of this add-on
+Поточна версія цього додатку
 
 
 ;How long in milliseconds it took during startup for the application to render the UI and display the window
-How long in milliseconds it took during startup for the application to render the UI and display the window
+Як довго в мілісекундах займає промальовування користувацького інтерфейсу та показ вікна під час запуску застосунку
 
 
 ;How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
-How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
+Як довго в мілісекундах займає завантаження бібліотек та базова ініціалізація під час запуску застосунку
 
 
 ;How long in milliseconds it took during startup for the application to restore tabs from the previous session
-How long in milliseconds it took during startup for the application to restore tabs from the previous session
+Як довго в мілісекундах займає відновлення вкладок попереднього сеансу під час запуску застосунку
 
 
 ;The number of times the application was run and not cleanly shut down.
