@@ -99,7 +99,7 @@ Panašu, jog Jūsų naršyklė pastaruoju metu strigo kelis kartus. Sužinokite 
 
 
 ;OFF
-Išjungta
+Išjungtas
 
 
 ;Visit our <a href="%(sumo_url)s">support website</a>
@@ -383,7 +383,7 @@ Kiek iš viso yra nusiųstų strigčių
 
 
 ;Time in seconds the app has not been idle
-Kiek sekundžių ši programa buvo aktyvi
+Kiek sekundžių ši darbo su programa sesija buvo aktyvi
 
 
 ;Time in seconds since the app was last started
