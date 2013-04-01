@@ -199,39 +199,39 @@ Description
 
 
 ;Binary interface for XPCOM
-Binary interface for XPCOM
+Двійковий інтерфейс для XPCOM
 
 
 ;Identifier for this build of the application based on the date the build was started
-Identifier for this build of the application based on the date the build was started
+Ідентифікатор цієї збірки застосунка, значення якого базується на даті початку збирання
 
 
 ;Operating System for which this build was configured
-Operating System for which this build was configured
+Операційна система для якої було сконфігуровано дану збіркуd
 
 
 ;Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
-Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
+Ідентифікатор конктретного дистрибутива застосунка, що використовується. Береться з опції <var>distribution.id</var>
 
 
 ;Version of the distribution, taken from the <var>distribution.version</var> preference
-Version of the distribution, taken from the <var>distribution.version</var> preference
+Дистрибуційна версія, взята з опції <var>distribution.version</var>
 
 
 ;The version number of any Mozilla hotfix applied to the application
-The version number of any Mozilla hotfix applied to the application
+Номер версії критичного оновлення від Мозіли, встановленого в застосунок
 
 
 ;Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
-Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
+Ідентифікатор, що є унікальним для застосунку і вказує що це Firefox чи Thunderbird, тощо. Він є однаковим для усих встановлень застосунка і не залежить від значення параметру <var>appName</var>
 
 
 ;The configured name of the application (Firefox/Aurora/Nightly for instance)
-The configured name of the application (Firefox/Aurora/Nightly for instance)
+Сконфігурована назва застосунка (наприклад, Firefox/Aurora/Nightly)
 
 
 ;The channel this installation checks for application updates (nightly/aurora/beta/release)
-The channel this installation checks for application updates (nightly/aurora/beta/release)
+Канал, який перевіряє цей застосунок на наявність оновлень (нічний/аврора/бета/реліз)
 
 
 ;The name of the company/provider who built this version
