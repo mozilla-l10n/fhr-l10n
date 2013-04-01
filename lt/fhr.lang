@@ -1,420 +1,420 @@
 ;Firefox Health Report
-Firefox Health Report
+„Firefox“ sveikatos būklės ataskaita
 
 
 ;Raw Data
-Raw Data
+Neapdoroti duomenys
 
 
 ;Get insights and performance information about your version of Firefox.
-Get insights and performance information about your version of Firefox.
+Gaukite įžvalgas ir informaciją apie Jūsų naudojamos „Firefox“ laidos našumą.
 
 
 ;Learn more...
-Learn more...
+Sužinoti daugiau…
 
 
 ;Data Sharing
-Data Sharing
+Dalijimasis duomenimis
 
 
 ;ON
-ON
+Įjungtas
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
-You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
+Nurodėte naršyklei nebesidalinti duomenimis su „Mozilla“, tačiau Jūs vis tiek galėsite susipažinti su savo naršyklės našumu.
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
-Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
+Jūsų „Firefox“ sveikatos būklės duomenys taip pat bus pašalinti iš „Mozillos“ serverių. Išsamiau apie tai – mūsų <a href="%(privacy_url)s">privatumo nuostatuose.</a>
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
-You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
+Nurodėte naršyklei retkarčiais dalintis duomenimis su „Mozilla“. Dėkojame, kad prisidedate prie mūsų misijos kuriant geresnį ateities saityną.
 
 
 ;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
-Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
+Kaip mes elgiamės su Jūsų duomenimis, galite susipažinti mūsų <a href="%(privacy_url)s">privatumo nuostatuose.</a>
 
 
 ;Vital Stats
-Vital Stats
+Svarbiausia statistika
 
 
 ;version
-version
+versija
 
 
 ;time open
-time open
+kiek laiko naršyklė atverta
 
 
 ;last crash
-last crash
+paskiausia strigtis
 
 
 ;bookmarks
-bookmarks
+adresynas
 
 
 ;This Month
-This Month
+Šis mėnuo
 
 
 ;crashes
-crashes
+strigtys
 
 
 ;Add-ons
-Add-ons
+Priedai
 
 
 ;View List
-View List
+Rodyti sąrašą
 
 
 ;enabled
-enabled
+įjungta
 
 
 ;disabled
-disabled
+išjungta
 
 
 ;Plugins
-Plugins
+Papildiniai
 
 
 ;Tips
-Tips
+Patarimai
 
 
 ;Wear and Tear
-Wear and Tear
+Susidėvėjimas
 
 
 ;It looks like your browser has crashed a number of times recently. To learn more:
-It looks like your browser has crashed a number of times recently. To learn more:
+Panašu, jog Jūsų naršyklė pastaruoju metu strigo kelis kartus. Sužinokite daugiau:
 
 
 ;OFF
-OFF
+Išjungta
 
 
 ;Visit our <a href="%(sumo_url)s">support website</a>
-Visit our <a href="%(sumo_url)s">support website</a>
+Aplankykit mūsų <a href="%(sumo_url)s">pagalbos svetainę</a>
 
 
 ;View more <a href="%(details_url)s">detailed information</a>
-View more <a href="%(details_url)s">detailed information</a>
+Parodyti <a href="%(details_url)s">išsamesnę informaciją</a>
 
 
 ;pages visited
-pages visited
+aplankyta tinklalapių
 
 
 ;Your browser seems to be running slower than usual. To learn more:
-Your browser seems to be running slower than usual. To learn more:
+Panašu, jog Jūsų naršyklė veikia lėčiau nei įprastai. Sužinokite daugiau:
 
 
 ;You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
-You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
+Kuo daugiau naudositės naršykle, tuo daugiau įdomios ir išsamios informacijos čia rasite. Užsukite čia po poros savaičių, tada pradės ryškėti tendencijos.
 
 
 ;Startup Time by Day
-Startup Time by Day
+Paleidimo trukmė pagal dieną
 
 
 ;Graph:
-Graph:
+Grafikas:
 
 
 ;Average
-Average
+Vidurkis
 
 
 ;All
-All
+Viskas
 
 
 ;Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
-Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
+Paleidimo trukmė yra vienas „Firefox“ našumo vertinimo kriterijų. Bendru atveju, kuo greičiau naršyklė pasileidžia, tuo našiau ji veikia.
 
 
 ;Data Collected
-Data Collected
+Surinkti duomenys
 
 
 ;Glossary
-Glossary
+Glosarijus
 
 
 ;What the Firefox Health Report Measures
-What the Firefox Health Report Measures
+Ką parodo „Firefox“ sveikatos būklės ataskaita?
 
 
 ;The Firefox Health Report (FHR) has 4 categories of metrics:
-The Firefox Health Report (FHR) has 4 categories of metrics:
+„Firefox“ sveikatos būklės ataskaitoje atspindimos keturios metrikų kategorijos:
 
 
 ;Configuration
-Configuration
+Konfigūracija
 
 
 ;Device hardware, operating system, Firefox version
-Device hardware, operating system, Firefox version
+Įrenginio aparatinė įranga, operacinė sistema, naudojama „Firefox“ laida
 
 
 ;Customizations
-Customizations
+Suasmeninimai
 
 
 ;Add-ons, count and type
-Add-ons, count and type
+Priedai, jų skaičius ir tipas
 
 
 ;Performance
-Performance
+Našumas
 
 
 ;Timing of browser events, rendering, session restores
-Timing of browser events, rendering, session restores
+Naršyklės įvykių, atvaizdavimo ir sesijų atkūrimo trukmė
 
 
 ;Length of session, how old a profile is, count of crashes, count of pages
-Length of session, how old a profile is, count of crashes, count of pages
+Sesijos trukmė, profilio amžius, strigčių skaičius, tinklalapių skaičius
 
 
 ;Detailed Description
-Detailed Description
+Išsamus aprašas
 
 
 ;Metric
-Metric
+Metrika
 
 
 ;Description
-Description
+Aprašymas
 
 
 ;Binary interface for XPCOM
-Binary interface for XPCOM
+Dvejetainė XPCOM sąsaja
 
 
 ;Identifier for this build of the application based on the date the build was started
-Identifier for this build of the application based on the date the build was started
+Šio programos darinio identifikatorius, generuojamas iš datos, kai naršyklė pradėta kompiliuoti
 
 
 ;Operating System for which this build was configured
-Operating System for which this build was configured
+Operacinė sistema, kuriai šis darinys sukonfigūruotas
 
 
 ;Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
-Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
+Konkretaus naudojamo programos platinimo paketo identifikatorius. Jis imamas iš <var>distribution.id</var> nuostatos
 
 
 ;Version of the distribution, taken from the <var>distribution.version</var> preference
-Version of the distribution, taken from the <var>distribution.version</var> preference
+Platinimo paketo versija, imama iš <var>distribution.version</var> nuostatos
 
 
 ;The version number of any Mozilla hotfix applied to the application
-The version number of any Mozilla hotfix applied to the application
+„Mozillos“ karštosios pataisos, pritaikytos programai, versija
 
 
 ;Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
-Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
+Unikalus programos identifikatorius, nurodantis, ar tai „Firefox“, ar „Thunderbird“, ar kokia kita programa. Jis vienodas visų programos įdiegčių atveju, nepriklausomai nuo <var>appName</var> reikšmės
 
 
 ;The configured name of the application (Firefox/Aurora/Nightly for instance)
-The configured name of the application (Firefox/Aurora/Nightly for instance)
+Sukonfigūruotas programos pavadinimas (pavyzdžiui, „Firefox“, „Aurora“ ar „Nightly“)
 
 
 ;The channel this installation checks for application updates (nightly/aurora/beta/release)
-The channel this installation checks for application updates (nightly/aurora/beta/release)
+Naujinimų kanalas, kuriame ši programos įdiegtis ieško naujinimų („nightly“, „aurora“, „beta“, arba „release“)
 
 
 ;The name of the company/provider who built this version
-The name of the company/provider who built this version
+Šią atmainą parengusios kompanijos ar tiekėjo pavadinimas
 
 
 ;The current version of the product
-The current version of the product
+Einamoji programos versija
 
 
 ;Number of processor cores
-Number of processor cores
+Procesoriaus branduolių skaičius
 
 
 ;Whether the application is currently configured to be the default browser for the operating system
-Whether the application is currently configured to be the default browser for the operating system
+Ar programa šiuo metu skirta numatytąja operacinės sistemos naršykle
 
 
 ;Locale currently being used
-Locale currently being used
+Einamoji programos lokalė
 
 
 ;Amount of RAM in megabytes
-Amount of RAM in megabytes
+Operatyviosios atminties talpa megabaitais
 
 
 ;Currently running Operating System (kernel) name
-Currently running Operating System (kernel) name
+Naudojamos operacinės sistemos (branduolio) pavadinimas
 
 
 ;Currently running Operating System (kernel) version
-Currently running Operating System (kernel) version
+Naudojamos operacinės sistemos (branduolio) versija
 
 
 ;The build identifier of the Gecko platform code
-The build identifier of the Gecko platform code
+„Gecko“ platformos darinio identifikatorius
 
 
 ;The version of the Gecko platform code
-The version of the Gecko platform code
+„Gecko“ platformos laida
 
 
 ;Processor architecture
-Processor architecture
+Procesoriaus architektūra
 
 
 ;The date this version was first used with this installation profile
-The date this version was first used with this installation profile
+Data, kuomet ši programos laida buvo pirmą kartą panaudota su šiuo įdiegties profiliu
 
 
 ;An application version which has been used with this installation profile
-An application version which has been used with this installation profile
+Programos laida, naudota su šiuo įdiegties profiliu
 
 
 ;The number of add-ons of this type that existed in the profile on this date
-The number of add-ons of this type that existed in the profile on this date
+Šio tipo priedų, įdiegtų profilyje šią dieną, skaičius
 
 
 ;<var>True</var> if the application automatically disabled the add-on
-<var>True</var> if the application automatically disabled the add-on
+<var>True</var>, jeigu programa automatiškai išjungė šį priedą
 
 
 ;Whether this add-on was installed by the user or automatically by another application
-Whether this add-on was installed by the user or automatically by another application
+Ar šį priedą įdiegė naudotojas, ar kita programa
 
 
 ;Whether this add-on has native code.
-Whether this add-on has native code.
+Ar šiame priede naudojamas prigimtinis kodas
 
 
 ;The identifier of this add-on as defined by the add-on developer
-The identifier of this add-on as defined by the add-on developer
+Šio priedo identifikatorius, suformuotas priedo autoriaus
 
 
 ;The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
-The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
+Paskiausia šio priedo įdiegimo data (informacija apie anksčiau pašalintus priedus nesaugoma).
 
 
 ;The number of searches performed with this search engine from this part of the UI
-The number of searches performed with this search engine from this part of the UI
+Paieškų, vykdytų šia ieškykle iš šios programos sąsajos vietos, kiekis
 
 
 ;Whether this add-on was installed in the application directory or profile directory
-Whether this add-on was installed in the application directory or profile directory
+Ar šis priedas įdiegtas programos aplanke, ar profilio aplanke
 
 
 ;Whether this add-on is an extension or a plug-in
-Whether this add-on is an extension or a plug-in
+Ar šis priedas yra plėtinys, ar papildinys
 
 
 ;The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
-The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
+Paskiausia šio priedo atnaujinimo data (informacija apie anksčiau pašalintus priedus nesaugoma).
 
 
 ;<var>True</var> if the user manually disabled the add-on
-<var>True</var> if the user manually disabled the add-on
+<var>True</var>, jeigu naudotojas pats išjungė šį priedą
 
 
 ;The current version of this add-on
-The current version of this add-on
+Aktuali šio priedo laida
 
 
 ;How long in milliseconds it took during startup for the application to render the UI and display the window
-How long in milliseconds it took during startup for the application to render the UI and display the window
+Kiek milisekundžių programa užtruko paleidimo metu, kol atvaizdavo savo sąsają ir langą
 
 
 ;How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
-How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
+Kiek milisekundžių programa užtruko paleidimo metu, kol įkėlė reikiamas bibliotekas ir užbaigė bazinę iniciaciją
 
 
 ;How long in milliseconds it took during startup for the application to restore tabs from the previous session
-How long in milliseconds it took during startup for the application to restore tabs from the previous session
+Kiek milisekundžių programa užtruko paleidimo metu, kol atkūrė ankstesniojo seanso korteles
 
 
 ;The number of times the application was run and not cleanly shut down.
-The number of times the application was run and not cleanly shut down.
+Kiek kartų programa buvo paleista ir netvarkingai išjungta.
 
 
 ;The time in seconds that the aborted sessions were not idle
-The time in seconds that the aborted sessions were not idle
+Kiek sekundžių buvo aktyvios nutrauktos sesijos
 
 
 ;The time in seconds that the aborted sessions were running
-The time in seconds that the aborted sessions were running
+Kiek sekundžių buvo vykdomos nutrauktos sesijos
 
 
 ;The number of days since this application profile directory was created
-The number of days since this application profile directory was created
+Prieš kiek dienų sukurtas šis programos profilio aplankas
 
 
 ;The number of times the application was run and cleanly shut down.
-The number of times the application was run and cleanly shut down.
+Kiek kartų programa buvo paleista ir tvarkingai išjungta.
 
 
 ;The time in seconds that the completed sessions were not idle
-The time in seconds that the completed sessions were not idle
+Kiek sekundžių buvo aktyvios tvarkingai užbaigtos sesijos
 
 
 ;The time in seconds that the completed sessions were running
-The time in seconds that the completed sessions were running
+Kiek sekundžių buvo vykdomos tvarkingai užbaigtos sesijos
 
 
 ;Total number of crashes that were recorded but not yet submitted
-Total number of crashes that were recorded but not yet submitted
+Kiek iš viso yra įrašytų, bet dar nenusiųstų strigčių
 
 
 ;Total number of crashes that have been submitted
-Total number of crashes that have been submitted
+Kiek iš viso yra nusiųstų strigčių
 
 
 ;Time in seconds the app has not been idle
-Time in seconds the app has not been idle
+Kiek sekundžių ši programa buvo aktyvi
 
 
 ;Time in seconds since the app was last started
-Time in seconds since the app was last started
+Kiek sekundžių praėjo nuo pastarojo programos paleidimo
 
 
 ;Total number of bookmarks
-Total number of bookmarks
+Kiek adresų laikoma adresyne
 
 
 ;Total number of pages listed in the history
-Total number of pages listed in the history
+Kiek adresų laikoma naršymo žurnale
 
 
 ;How long in minutes the current session has been running
-How long in minutes the current session has been running
+Kiek minučių vykdoma ši sesija
 
 
 ;Welcome to your Firefox Health Report
-Welcome to your Firefox Health Report
+Sveiki! Čia – Jūsų „Firefox“ sveikatos būklės ataskaita
 
 
 ;Welcome!
-Welcome!
+Sveiki!
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
-Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
+„Firefox“ sveikatos būklės ataskaita padeda įvertinti Jūsų „Firefox“ naršyklės našumą  ir pasiūlo, kaip jį pagerinti.
 
 
 ;See My Report
-See My Report
+Peržiūrėti mano ataskaitą
 
 
