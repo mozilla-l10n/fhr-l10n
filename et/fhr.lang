@@ -1,420 +1,420 @@
 ;Firefox Health Report
-Firefox Health Report
+Firefoxi terviseraport
 
 
 ;Raw Data
-Raw Data
+Töötlemata andmed
 
 
 ;Get insights and performance information about your version of Firefox.
-Get insights and performance information about your version of Firefox.
+Heida pilk Firefoxi statistikasse ning hangi infot oma Firefoxi versiooni jõudluse kohta.
 
 
 ;Learn more...
-Learn more...
+Rohkem teavet...
 
 
 ;Data Sharing
-Data Sharing
+Andmete jagamine
 
 
 ;ON
-ON
+SEES
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
-You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
+Oled otsustanud andmete jagamise Mozillaga lõpetada, kuid näed siiski edasi oma veebilehitseja jõudluse andmeid.
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
-Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
+Sinu terviseraporti andmed kustutatakse Mozilla serveritelt. Rohkem teavet leiad meie <a href="%(privacy_url)s">privaatsuspoliitikast.</a>
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
-You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
+Oled otsustanud oma andmeid Mozillaga aeg-ajalt jagada. Täname sind meie missioonis ehitada veebile parem tulevik osalemise eest.
 
 
 ;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
-Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
+Uuri lähemalt meie <a href="%(privacy_url)s">privaatsuspoliitikast</a>, kuidas sinu andmeid kasutame.
 
 
 ;Vital Stats
-Vital Stats
+Elujõu statistika
 
 
 ;version
-version
+versioon
 
 
 ;time open
-time open
+töötamise aeg
 
 
 ;last crash
-last crash
+viimane vearaport
 
 
 ;bookmarks
-bookmarks
+järjehoidjad
 
 
 ;This Month
-This Month
+See kuu
 
 
 ;crashes
-crashes
+vearaporteid
 
 
 ;Add-ons
-Add-ons
+Lisad
 
 
 ;View List
-View List
+Vaata nimekirja
 
 
 ;enabled
-enabled
+lubatud
 
 
 ;disabled
-disabled
+keelatud
 
 
 ;Plugins
-Plugins
+Pluginad
 
 
 ;Tips
-Tips
+Nipid
 
 
 ;Wear and Tear
-Wear and Tear
+Kulumine
 
 
 ;It looks like your browser has crashed a number of times recently. To learn more:
-It looks like your browser has crashed a number of times recently. To learn more:
+Tundub, et sinu veebilehitseja on hiljuti mitmel korral vearaporti saatnud. Rohkem teavet:
 
 
 ;OFF
-OFF
+VÄLJAS
 
 
 ;Visit our <a href="%(sumo_url)s">support website</a>
-Visit our <a href="%(sumo_url)s">support website</a>
+Külasta meie <a href="%(sumo_url)s">kasutajatoe lehte</a>
 
 
 ;View more <a href="%(details_url)s">detailed information</a>
-View more <a href="%(details_url)s">detailed information</a>
+Vaata <a href="%(details_url)s">üksisasju</a>
 
 
 ;pages visited
-pages visited
+külastatud lehed
 
 
 ;Your browser seems to be running slower than usual. To learn more:
-Your browser seems to be running slower than usual. To learn more:
+Sinu veebilehitseja paistab töötavat tavapärasest aeglasemalt. Rohkem infot:
 
 
 ;You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
-You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
+Mida rohkem veebilehitsejat kasutad, seda rohkem huvitavat ja üksikasjalikku infot näed. Trendide nägemiseks tule paari nädala pärast tagasi.
 
 
 ;Startup Time by Day
-Startup Time by Day
+Käivitusaeg päevade lõikes
 
 
 ;Graph:
-Graph:
+Graafik:
 
 
 ;Average
-Average
+Keskmine
 
 
 ;All
-All
+Kõik
 
 
 ;Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
-Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
+Käivitusaeg aitab mõista, kui hästi sinu Firefox töötab. Üldiselt näitavad kiiremad (lühemad) ajad paremat jõudlust.
 
 
 ;Data Collected
-Data Collected
+Kogutud andmed
 
 
 ;Glossary
-Glossary
+Sõnastik
 
 
 ;What the Firefox Health Report Measures
-What the Firefox Health Report Measures
+Mida Firefoxi terviseraport mõõdab
 
 
 ;The Firefox Health Report (FHR) has 4 categories of metrics:
-The Firefox Health Report (FHR) has 4 categories of metrics:
+Firefoxi terviseraportil (FHR) on meetrikaid 4 kategoorias:
 
 
 ;Configuration
-Configuration
+Häälestamine
 
 
 ;Device hardware, operating system, Firefox version
-Device hardware, operating system, Firefox version
+Seadmete, operatsioonisüsteemi, Firefoxi versioonid
 
 
 ;Customizations
-Customizations
+Kohandamine
 
 
 ;Add-ons, count and type
-Add-ons, count and type
+Lisad, nende arv ja tüüp
 
 
 ;Performance
-Performance
+Jõudlus
 
 
 ;Timing of browser events, rendering, session restores
-Timing of browser events, rendering, session restores
+Veebilehitseja sündmuste, renderduse ja seansside taastamise ajastus
 
 
 ;Length of session, how old a profile is, count of crashes, count of pages
-Length of session, how old a profile is, count of crashes, count of pages
+Seansi pikkus, profiili vanus, vearaportite arv ning lehtede arv
 
 
 ;Detailed Description
-Detailed Description
+Üksikasjalik kirjeldus
 
 
 ;Metric
-Metric
+Meetrika
 
 
 ;Description
-Description
+Kirjeldus
 
 
 ;Binary interface for XPCOM
-Binary interface for XPCOM
+Binaarne liides XPCOM-ile
 
 
 ;Identifier for this build of the application based on the date the build was started
-Identifier for this build of the application based on the date the build was started
+Rakenduse kompilatsiooni identifikaator kompileerimise algusaja põhjal
 
 
 ;Operating System for which this build was configured
-Operating System for which this build was configured
+Operatsioonisüsteem, mille jaoks kompilatsioon häälestati
 
 
 ;Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
-Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
+Kasutusel oleva rakenduse distributsiooni identifikaator. See võetakse <var>distribution.id</var> eelistusest
 
 
 ;Version of the distribution, taken from the <var>distribution.version</var> preference
-Version of the distribution, taken from the <var>distribution.version</var> preference
+Distributsiooni versioon võetuna <var>distribution.version</var> eelistusest
 
 
 ;The version number of any Mozilla hotfix applied to the application
-The version number of any Mozilla hotfix applied to the application
+Mozilla kiirparanduse versioon rakenduses
 
 
 ;Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
-Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
+Rakenduse unikaalne identifikaator, mis näitab, kas tegemist on Firefoxi, Thunderbirdi või mõne muu rakendusega. See on kõigis paigaldustes sama, sõltumata <var>appName</var> väärtusest
 
 
 ;The configured name of the application (Firefox/Aurora/Nightly for instance)
-The configured name of the application (Firefox/Aurora/Nightly for instance)
+Rakendusele häälestatud nimi (näiteks Firefox/Aurora/Nightly)
 
 
 ;The channel this installation checks for application updates (nightly/aurora/beta/release)
-The channel this installation checks for application updates (nightly/aurora/beta/release)
+Uuendustekanal, mida paigaldus kontrollib (nightly/aurora/beta/release)
 
 
 ;The name of the company/provider who built this version
-The name of the company/provider who built this version
+Selle versiooni kompileerinud firma/teenusepakkuja nimi
 
 
 ;The current version of the product
-The current version of the product
+Toote praegune versioon
 
 
 ;Number of processor cores
-Number of processor cores
+Protsessorituumade arv
 
 
 ;Whether the application is currently configured to be the default browser for the operating system
-Whether the application is currently configured to be the default browser for the operating system
+Näitab, kas rakendus on praegu häälestatud operatsioonisüsteemi vaikimisi veebilehitsejaks
 
 
 ;Locale currently being used
-Locale currently being used
+Kasutusel olev lokaat
 
 
 ;Amount of RAM in megabytes
-Amount of RAM in megabytes
+Muutmälu maht megabaitides
 
 
 ;Currently running Operating System (kernel) name
-Currently running Operating System (kernel) name
+Praegu töötava operatsioonisüsteemi (kerneli) nimi
 
 
 ;Currently running Operating System (kernel) version
-Currently running Operating System (kernel) version
+Praegu töötava operatsioonisüsteemi (kerneli) versioon
 
 
 ;The build identifier of the Gecko platform code
-The build identifier of the Gecko platform code
+Gecko platvormi kompilatsiooni identifikaator
 
 
 ;The version of the Gecko platform code
-The version of the Gecko platform code
+Gecko platvormi versioon
 
 
 ;Processor architecture
-Processor architecture
+Protsessori arhitektuur
 
 
 ;The date this version was first used with this installation profile
-The date this version was first used with this installation profile
+Kuupäev, millal praegust versiooni esimest korda selle paigaldusprofiiliga kasutati
 
 
 ;An application version which has been used with this installation profile
-An application version which has been used with this installation profile
+Rakenduse versioon, mida on selle paigaldusprofiiliga kasutatud
 
 
 ;The number of add-ons of this type that existed in the profile on this date
-The number of add-ons of this type that existed in the profile on this date
+Selle tüübiga paigaldatud lisade arv profiilis sellel kuupäeval
 
 
 ;<var>True</var> if the application automatically disabled the add-on
-<var>True</var> if the application automatically disabled the add-on
+<var>True</var>, kui rakendus lisa automaatselt keelas
 
 
 ;Whether this add-on was installed by the user or automatically by another application
-Whether this add-on was installed by the user or automatically by another application
+Näitab, kas lisa paigaldas kasutaja või mõni teine rakendus
 
 
 ;Whether this add-on has native code.
-Whether this add-on has native code.
+Näitab, kas lisa sisaldab kompileeritud koodi.
 
 
 ;The identifier of this add-on as defined by the add-on developer
-The identifier of this add-on as defined by the add-on developer
+Lisa identifikaatori määras selle arendaja
 
 
 ;The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
-The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
+Viimane kuupäev, millal lisa paigaldati (varasemat infot eemaldatud lisade kohta ei säilitata).
 
 
 ;The number of searches performed with this search engine from this part of the UI
-The number of searches performed with this search engine from this part of the UI
+Selle otsingumootoriga kasutajaliidese sellest osast sooritatud otsingute arv
 
 
 ;Whether this add-on was installed in the application directory or profile directory
-Whether this add-on was installed in the application directory or profile directory
+Näitab, kas lisa paigaldati rakenduse või profiili kausta
 
 
 ;Whether this add-on is an extension or a plug-in
-Whether this add-on is an extension or a plug-in
+Näitab, kas lisa on laiendus või plugin
 
 
 ;The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
-The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
+Selle lisa viimane uuendamise kuupäev (varasemat infot eemaldatud lisade kohta ei säilitata).
 
 
 ;<var>True</var> if the user manually disabled the add-on
-<var>True</var> if the user manually disabled the add-on
+<var>True</var>, kui kasutaja lisa käsitsi keelas
 
 
 ;The current version of this add-on
-The current version of this add-on
+Lisa praegune versioon
 
 
 ;How long in milliseconds it took during startup for the application to render the UI and display the window
-How long in milliseconds it took during startup for the application to render the UI and display the window
+Aeg, mis rakenduse käivitamisel kasutajaliidese renderdamiseks ning akna kuvamiseks kulus
 
 
 ;How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
-How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
+Aeg, mis rakenduse käivitamisel teekide laadimiseks ning algseks initsialiseerimiseks kulus
 
 
 ;How long in milliseconds it took during startup for the application to restore tabs from the previous session
-How long in milliseconds it took during startup for the application to restore tabs from the previous session
+Aeg, mis rakenduse käivitamisel eelmise seansi kaartide taastamiseks kulus
 
 
 ;The number of times the application was run and not cleanly shut down.
-The number of times the application was run and not cleanly shut down.
+Rakenduse jooksutamiste, mil rakendus ei sulgunud korrektselt, arv.
 
 
 ;The time in seconds that the aborted sessions were not idle
-The time in seconds that the aborted sessions were not idle
+Aeg sekundites, mil katkestatud seansid polnud jõude
 
 
 ;The time in seconds that the aborted sessions were running
-The time in seconds that the aborted sessions were running
+Aeg sekundites, mil katkestatud seansid olid töötasid
 
 
 ;The number of days since this application profile directory was created
-The number of days since this application profile directory was created
+Päevade arv rakenduse profiilikausta loomisest
 
 
 ;The number of times the application was run and cleanly shut down.
-The number of times the application was run and cleanly shut down.
+Rakenduse jooksutamiste, mil rakendus sulgus korrektselt, arv.
 
 
 ;The time in seconds that the completed sessions were not idle
-The time in seconds that the completed sessions were not idle
+Aeg sekundites, mil lõpetatud seansid polnud jõude
 
 
 ;The time in seconds that the completed sessions were running
-The time in seconds that the completed sessions were running
+Aeg sekundites, mil lõpetatud seansid olid töötasid
 
 
 ;Total number of crashes that were recorded but not yet submitted
-Total number of crashes that were recorded but not yet submitted
+Salvestatud saatmata vearaportite arv
 
 
 ;Total number of crashes that have been submitted
-Total number of crashes that have been submitted
+Saadetud vearaportite arv
 
 
 ;Time in seconds the app has not been idle
-Time in seconds the app has not been idle
+Aeg sekundites, mil rakendus polnud jõude
 
 
 ;Time in seconds since the app was last started
-Time in seconds since the app was last started
+Aeg sekundites rakenduse viimasest käivitusest
 
 
 ;Total number of bookmarks
-Total number of bookmarks
+Järjehoidjate arv
 
 
 ;Total number of pages listed in the history
-Total number of pages listed in the history
+Külastatud lehtede koguarv ajaloos
 
 
 ;How long in minutes the current session has been running
-How long in minutes the current session has been running
+Praeguse seansi kestus minutites
 
 
 ;Welcome to your Firefox Health Report
-Welcome to your Firefox Health Report
+Tere tulemast Firefoxi terviseraportit vaatama
 
 
 ;Welcome!
-Welcome!
+Tere tulemast!
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
-Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
+Firefoxi terviseraport näitab sulle Firefoxi jõudlust ja kuidas saaksid seda parendada.
 
 
 ;See My Report
-See My Report
+Näita minu raportit
 
 
