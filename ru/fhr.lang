@@ -23,19 +23,19 @@
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
-You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
+Вы решили прекратить делиться данными с Mozilla, но вы все равно сможете увидеть, насколько хорошо работает ваш браузер.
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
-Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
+Также ваши данные отчета о работоспособности будут удалены с серверов Mozilla. Узнайте больше из нашей <a href="%(privacy_url)s">политики приватности</a>.
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
-You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
+Вы решили время от времени делиться своими данными с Mozilla. Спасибо за то, что стали частью нашей миссии по построению более светлого будущего для Интернета.
 
 
 ;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
-Узнайте, как мы обрабатываем ваши данные, из нашей <a href="%(privacy_url)s">политики приватности.</a>
+Узнайте, как мы обрабатываем ваши данные, из нашей <a href="%(privacy_url)s">политики приватности</a>.
 
 
 ;Vital Stats
@@ -91,7 +91,7 @@ You've chosen to share your data with Mozilla from time to time. Thanks for bein
 
 
 ;Wear and Tear
-Wear and Tear
+Износ
 
 
 ;It looks like your browser has crashed a number of times recently. To learn more:
@@ -119,7 +119,7 @@ Wear and Tear
 
 
 ;You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
-You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
+Чем больше вы пользуетесь браузером, тем больше интересной и подробной информации вы сможете увидеть. Зайдите через пару недель, чтобы начать видеть некоторые тренды.
 
 
 ;Startup Time by Day
@@ -155,7 +155,7 @@ You'll be able to see more interesting and detailed information the more you use
 
 
 ;The Firefox Health Report (FHR) has 4 categories of metrics:
-Отчет о работоспособности Firefox (FHR) имеет 4 категорий показателей:
+Отчет о работоспособности Firefox (FHR) имеет 4 категории метрик:
 
 
 ;Configuration
@@ -351,11 +351,11 @@ You'll be able to see more interesting and detailed information the more you use
 
 
 ;The time in seconds that the aborted sessions were not idle
-The time in seconds that the aborted sessions were not idle
+Время в секундах, в течение которого прерванные сессии не простаивали
 
 
 ;The time in seconds that the aborted sessions were running
-The time in seconds that the aborted sessions were running
+Время в секундах, в течение которого прерванные сессии были запущены
 
 
 ;The number of days since this application profile directory was created
@@ -367,11 +367,11 @@ The time in seconds that the aborted sessions were running
 
 
 ;The time in seconds that the completed sessions were not idle
-The time in seconds that the completed sessions were not idle
+Время в секундах, в течение которого завершённые сессии не простаивали
 
 
 ;The time in seconds that the completed sessions were running
-The time in seconds that the completed sessions were running
+Время в секундах, в течение которого завершённые сессии были запущены
 
 
 ;Total number of crashes that were recorded but not yet submitted
@@ -383,7 +383,7 @@ The time in seconds that the completed sessions were running
 
 
 ;Time in seconds the app has not been idle
-Time in seconds the app has not been idle
+Время в секундах, в течение которого приложение не простаивало
 
 
 ;Time in seconds since the app was last started
@@ -399,7 +399,7 @@ Time in seconds the app has not been idle
 
 
 ;How long in minutes the current session has been running
-How long in minutes the current session has been running
+Время работы текущей сессии, в минутах
 
 
 ;Welcome to your Firefox Health Report
