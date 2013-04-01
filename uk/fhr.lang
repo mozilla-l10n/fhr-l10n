@@ -235,39 +235,39 @@ The channel this installation checks for application updates (nightly/aurora/bet
 
 
 ;The name of the company/provider who built this version
-The name of the company/provider who built this version
+Назва компанії/провайдера, що зібрав цю версію
 
 
 ;The current version of the product
-The current version of the product
+Поточна версія продукта
 
 
 ;Number of processor cores
-Number of processor cores
+Кількість процесорних ядер
 
 
 ;Whether the application is currently configured to be the default browser for the operating system
-Whether the application is currently configured to be the default browser for the operating system
+Чи застосунок в даний час сконфігурований в якості типового браузера операційної системи
 
 
 ;Locale currently being used
-Locale currently being used
+Поточна локаль
 
 
 ;Amount of RAM in megabytes
-Amount of RAM in megabytes
+Кількість оперативної пам'яті в мегабайтах
 
 
 ;Currently running Operating System (kernel) name
-Currently running Operating System (kernel) name
+Назва операційної системи (ядра)
 
 
 ;Currently running Operating System (kernel) version
-Currently running Operating System (kernel) version
+Версія операційної системи (ядра)
 
 
 ;The build identifier of the Gecko platform code
-The build identifier of the Gecko platform code
+Збірочний ідентифікатор кода платформи Gecko
 
 
 ;The version of the Gecko platform code
@@ -279,23 +279,23 @@ The build identifier of the Gecko platform code
 
 
 ;The date this version was first used with this installation profile
-The date this version was first used with this installation profile
+Дата, коли ця версія була вперше використана з цим встановочним профілем
 
 
 ;An application version which has been used with this installation profile
-An application version which has been used with this installation profile
+Версія застосунка, що використовується з цим встановочним профілем
 
 
 ;The number of add-ons of this type that existed in the profile on this date
-The number of add-ons of this type that existed in the profile on this date
+Кількість додатків цього типу, що знаходяться в профілі до цієї дати
 
 
 ;<var>True</var> if the application automatically disabled the add-on
-<var>True</var> if the application automatically disabled the add-on
+<var>True</var>, якщо застосунок автоматично вимкнув додаток
 
 
 ;Whether this add-on was installed by the user or automatically by another application
-Whether this add-on was installed by the user or automatically by another application
+Чи цей додаток був встановлений користувачем, чи автоматично іншим застосунком
 
 
 ;Whether this add-on has native code.
@@ -307,7 +307,7 @@ Whether this add-on was installed by the user or automatically by another applic
 
 
 ;The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
-The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
+Дата останнього встановлення цього додатку (інформація про вилучені додатки не зберігається).
 
 
 ;The number of searches performed with this search engine from this part of the UI
@@ -323,7 +323,7 @@ The most recent date this add-on was installed (previous information about an un
 
 
 ;The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
-Дата останнього оновлення цього додатку (інформація про вилучені додатоки не зберігається).
+Дата останнього оновлення цього додатку (інформація про вилучені додатки не зберігається).
 
 
 ;<var>True</var> if the user manually disabled the add-on
