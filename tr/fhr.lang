@@ -1,205 +1,205 @@
 ;Firefox Health Report
-Firefox Health Report
+Firefox Sağlık Raporu
 
 
 ;Raw Data
-Raw Data
+Ham Veri
 
 
 ;Get insights and performance information about your version of Firefox.
-Get insights and performance information about your version of Firefox.
+Firefox. sürümünüz hakkında öngörüler ve performans bilgileri alın.
 
 
 ;Learn more...
-Learn more...
+Daha fazla bilgi alın...
 
 
 ;Data Sharing
-Data Sharing
+Veri Paylaşımı
 
 
 ;ON
-ON
+AÇIK
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
-You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
+Mozilla ile veri paylaşımını durdurmayı seçtiniz, ama yine de tarayıcınızın performansını görebileceksiniz.
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
-Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
+Sağlık Raporu verileriniz Mozilla sunucularından da kaldırılacaktır. Daha fazla bilgi için <a href="%(privacy_url)s">gizlilik ilkelerimizi</a> inceleyin.
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
-You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
+Mozilla ile zaman zaman veri paylaşmayı seçtiniz. Web için daha parlak bir gelecek inşa etme misyonumuzun bir parçası olduğunuz için teşekkürler.
 
 
 ;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
-Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
+Verilerinizi nasıl kullandığımızı <a href="%(privacy_url)s">gizlilik ilkelerimizden</a> öğrenin.
 
 
 ;Vital Stats
-Vital Stats
+Önemli İstatistikler
 
 
 ;version
-version
+sürüm
 
 
 ;time open
-time open
+açık kaldığı süre
 
 
 ;last crash
-last crash
+son çökme
 
 
 ;bookmarks
-bookmarks
+yer imleri
 
 
 ;This Month
-This Month
+Bu Ay
 
 
 ;crashes
-crashes
+çökme
 
 
 ;Add-ons
-Add-ons
+Eklentiler
 
 
 ;View List
-View List
+Listeyi göster
 
 
 ;enabled
-enabled
+etkin
 
 
 ;disabled
-disabled
+devre dışı
 
 
 ;Plugins
-Plugins
+Yan Uygulamalar
 
 
 ;Tips
-Tips
+İpuçları
 
 
 ;Wear and Tear
-Wear and Tear
+Aşınma
 
 
 ;It looks like your browser has crashed a number of times recently. To learn more:
-It looks like your browser has crashed a number of times recently. To learn more:
+Görünüşe göre tarayıcınız son zamanlarda birkaç kez çökmüş. Daha fazla bilgi için:
 
 
 ;OFF
-OFF
+KAPALI
 
 
 ;Visit our <a href="%(sumo_url)s">support website</a>
-Visit our <a href="%(sumo_url)s">support website</a>
+<a href="%(sumo_url)s">Destek web sitemizi</a> ziyaret edin
 
 
 ;View more <a href="%(details_url)s">detailed information</a>
-View more <a href="%(details_url)s">detailed information</a>
+Daha <a href="%(details_url)s">ayrıntılı bilgi</a> alın
 
 
 ;pages visited
-pages visited
+ziyaret edilen sayfa
 
 
 ;Your browser seems to be running slower than usual. To learn more:
-Your browser seems to be running slower than usual. To learn more:
+Görünüşe göre tarayıcınız normalden daha yavaş çalışıyor. Daha fazla bilgi için:
 
 
 ;You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
-You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
+Tarayıcınızı daha fazla kullandıkça daha ilginç ve ayrıntılı bilgiler görmeye başlayacaksınız. Eğilimleri görmek için birkaç hafta sonra yeniden bakın.
 
 
 ;Startup Time by Day
-Startup Time by Day
+Güne Göre Başlangıç Süresi
 
 
 ;Graph:
-Graph:
+Grafik:
 
 
 ;Average
-Average
+Ortalama
 
 
 ;All
-All
+Tümü
 
 
 ;Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
-Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
+Başlangıç süreleri, Firefox sürümünüzün ne kadar iyi çalıştığını tespit etmenize yardımcı olur. Genel olarak, daha hızlı (daha az sürede) başlaması daha yüksek performans demektir.
 
 
 ;Data Collected
-Data Collected
+Toplanan Veri
 
 
 ;Glossary
-Glossary
+Sözlük
 
 
 ;What the Firefox Health Report Measures
-What the Firefox Health Report Measures
+Firefox Sağlık Raporu neleri ölçer?
 
 
 ;The Firefox Health Report (FHR) has 4 categories of metrics:
-The Firefox Health Report (FHR) has 4 categories of metrics:
+Firefox Sağlık Raporu (FSR) 4 kategoride ölçüm yapar:
 
 
 ;Configuration
-Configuration
+Yapılandırma
 
 
 ;Device hardware, operating system, Firefox version
-Device hardware, operating system, Firefox version
+Aygıt donanımı, işletim sistemi, Firefox sürümü
 
 
 ;Customizations
-Customizations
+Özelleştirmeler
 
 
 ;Add-ons, count and type
-Add-ons, count and type
+Eklentiler, sayı ve tür bakımından
 
 
 ;Performance
-Performance
+Performans
 
 
 ;Timing of browser events, rendering, session restores
-Timing of browser events, rendering, session restores
+Tarayıcı etkinlik, yorumlama ve oturum geri yükleme süreleri
 
 
 ;Length of session, how old a profile is, count of crashes, count of pages
-Length of session, how old a profile is, count of crashes, count of pages
+Oturum süresi, profilin ne kadar eski olduğu, çökme sayısı, sayfa sayısı
 
 
 ;Detailed Description
-Detailed Description
+Ayrıntılı Açıklama
 
 
 ;Metric
-Metric
+Ölçüm
 
 
 ;Description
-Description
+Açıklama
 
 
 ;Binary interface for XPCOM
-Binary interface for XPCOM
+XPCOM için ikili arayüz
 
 
 ;Identifier for this build of the application based on the date the build was started
@@ -403,11 +403,11 @@ How long in minutes the current session has been running
 
 
 ;Welcome to your Firefox Health Report
-Welcome to your Firefox Health Report
+Firefox Sağlık Raporunuza hoş geldiniz
 
 
 ;Welcome!
-Welcome!
+Hoş geldiniz!
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
@@ -415,6 +415,5 @@ Firefox Health Report lets you know how your Firefox is performing and what you 
 
 
 ;See My Report
-See My Report
-
+Raporumu göster
 
