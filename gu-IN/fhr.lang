@@ -155,7 +155,7 @@ Firefox આરોગ્ય અહેવાલ શું માપે છે
 
 
 ;The Firefox Health Report (FHR) has 4 categories of metrics:
-Firefox આરોગ્ય અહેવાલ (Health Report - FHR) ને ૫ વર્ગોના માપદંડ છે:
+Firefox આરોગ્ય અહેવાલ (Health Report - FHR) ને ૪ વર્ગોના માપદંડ છે:
 
 
 ;Configuration
@@ -203,19 +203,19 @@ XPCOM માટે બાઇનરી ઇન્ટરફેસ
 
 
 ;Identifier for this build of the application based on the date the build was started
-Identifier for this build of the application based on the date the build was started
+કાર્યક્રમના આ બિલ્ડ માટેનું ઓળખકારક એ બિલ્ડ શરૂ થયાની તારીખ પર આધારિત છે
 
 
 ;Operating System for which this build was configured
-Operating System for which this build was configured
+ઑપરેટિંગ સિસ્ટમ કે જેના માટે આ બિલ્ડ રૂપરેખાંકિત થયું હતું
 
 
 ;Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
-Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
+કોઇ ખાસ વિતરણના કાર્યક્રમ માટેનું ઓળખકારક વપરાશમાં છે. તે પસંદગીમાંથી <var>distribution.id</var> માંથી લેવાયેલું છે
 
 
 ;Version of the distribution, taken from the <var>distribution.version</var> preference
-Version of the distribution, taken from the <var>distribution.version</var> preference
+વિતરણની આવૃત્તિ, પસંદગીમાંથી <var>distribution.version</var> માંથી લેવાયેલી છે
 
 
 ;The version number of any Mozilla hotfix applied to the application
@@ -235,15 +235,15 @@ The channel this installation checks for application updates (nightly/aurora/bet
 
 
 ;The name of the company/provider who built this version
-The name of the company/provider who built this version
+કંપની/ઉત્પાદકનું નામ કે જેમણે આ આવૃત્તિ બનાવી છે
 
 
 ;The current version of the product
-The current version of the product
+ઉત્પાદનની હાલની આવૃત્તિ
 
 
 ;Number of processor cores
-Number of processor cores
+પ્રોસેસર કોરની સંખ્યા
 
 
 ;Whether the application is currently configured to be the default browser for the operating system
@@ -251,31 +251,31 @@ Whether the application is currently configured to be the default browser for th
 
 
 ;Locale currently being used
-Locale currently being used
+હાલમાં ઉપયોગમાં લોકેલ
 
 
 ;Amount of RAM in megabytes
-Amount of RAM in megabytes
+RAM નો જથ્થો મેગાબાઇટમાં
 
 
 ;Currently running Operating System (kernel) name
-Currently running Operating System (kernel) name
+હાલમાં ઑપરેટિંગ સિસ્ટમ (કર્નલ) નામ ચાલી રહ્યું છે
 
 
 ;Currently running Operating System (kernel) version
-Currently running Operating System (kernel) version
+હાલમાં ઑપરેટિંગ સિસ્ટમ (કર્નલ) આવૃત્તિ ચાલી રહી છે
 
 
 ;The build identifier of the Gecko platform code
-The build identifier of the Gecko platform code
+Gecko પ્લેટફોર્મ કોડ માટે બિલ્ડ ઓળખકારક
 
 
 ;The version of the Gecko platform code
-The version of the Gecko platform code
+Gecko પ્લેટફોર્મ કોડની આવૃત્તિ
 
 
 ;Processor architecture
-Processor architecture
+પ્રોસેસર આર્કીટેક્ચર
 
 
 ;The date this version was first used with this installation profile
@@ -299,7 +299,7 @@ Whether this add-on was installed by the user or automatically by another applic
 
 
 ;Whether this add-on has native code.
-Whether this add-on has native code.
+શું આ ઍડ-ઓનમાં નેટીવ કોડ હશે.
 
 
 ;The identifier of this add-on as defined by the add-on developer
@@ -327,11 +327,11 @@ The most recent date this add-on was updated (previous information about an unin
 
 
 ;<var>True</var> if the user manually disabled the add-on
-<var>True</var> if the user manually disabled the add-on
+<var>ખરું</var> જો વપરાશકર્તા જાતે ઍડ-ઓન નિષ્ક્રિય કરે
 
 
 ;The current version of this add-on
-The current version of this add-on
+આ ઍડ-ઓનની હાલની આવૃત્તિ
 
 
 ;How long in milliseconds it took during startup for the application to render the UI and display the window
@@ -387,34 +387,34 @@ Time in seconds the app has not been idle
 
 
 ;Time in seconds since the app was last started
-Time in seconds since the app was last started
+કાર્યક્રમ છેલ્લો શરૂ થયો ત્યારથી સમય સેકન્ડોમાં
 
 
 ;Total number of bookmarks
-Total number of bookmarks
+બુકમાર્કોની કુલ સંખ્યા
 
 
 ;Total number of pages listed in the history
-Total number of pages listed in the history
+ઈતિહાસમાં યાદી થયેલ પાનાંઓની કુલ સંખ્યા
 
 
 ;How long in minutes the current session has been running
-How long in minutes the current session has been running
+વર્તમાન સત્ર મિનિટોમાં કેટલું લાંબુ ચાલી રહ્યું છે
 
 
 ;Welcome to your Firefox Health Report
-Welcome to your Firefox Health Report
+Firefox આરોગ્ય અહેવાલમાં તમારું સ્વાગત છે
 
 
 ;Welcome!
-Welcome!
+સ્વાગત!
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
-Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
+Firefox આરોગ્ય અહેવાલ તમને જણાવે છે કે તમારું Firefox કેવું કામગીરી બજાવી રહ્યું છે અને તમે તેને સુધારવા માટે શું કરી શકો.
 
 
 ;See My Report
-See My Report
+મારો અહેવાલ જુઓ
 
 
