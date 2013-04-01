@@ -1,9 +1,9 @@
 ;Firefox Health Report
-Firefox Health Report
+Звіт про справність Firefox
 
 
 ;Raw Data
-Raw Data
+Необроблені дані
 
 
 ;Get insights and performance information about your version of Firefox.
@@ -11,7 +11,7 @@ Get insights and performance information about your version of Firefox.
 
 
 ;Learn more...
-Learn more...
+Докладніше...
 
 
 ;Data Sharing
@@ -347,74 +347,74 @@ How long in milliseconds it took during startup for the application to restore t
 
 
 ;The number of times the application was run and not cleanly shut down.
-The number of times the application was run and not cleanly shut down.
+Кількість разів, коли застосунок було запущено і закрито нечинно.
 
 
 ;The time in seconds that the aborted sessions were not idle
-The time in seconds that the aborted sessions were not idle
+Час в секундах, коли перервані сеанси не були в пасивному стані
 
 
 ;The time in seconds that the aborted sessions were running
-The time in seconds that the aborted sessions were running
+Час в секундах роботи перерваних сеансів
 
 
 ;The number of days since this application profile directory was created
-The number of days since this application profile directory was created
+Кількість днів відтоді, як було створено теку профілю цього застосунку
 
 
 ;The number of times the application was run and cleanly shut down.
-The number of times the application was run and cleanly shut down.
+Кількість разів, коли застосунок було запущено і закрито чинно.
 
 
 ;The time in seconds that the completed sessions were not idle
-The time in seconds that the completed sessions were not idle
+Час в секундах, коли завершені сеанси не були в пасивному стані
 
 
 ;The time in seconds that the completed sessions were running
-The time in seconds that the completed sessions were running
+Час в секундах роботи завершених сеансів
 
 
 ;Total number of crashes that were recorded but not yet submitted
-Total number of crashes that were recorded but not yet submitted
+Загальна кількість відмов, які були записані та про які ще не було відзвітовано
 
 
 ;Total number of crashes that have been submitted
-Total number of crashes that have been submitted
+Загальна кількість відмов, про які було відзвітовано
 
 
 ;Time in seconds the app has not been idle
-Time in seconds the app has not been idle
+Час в секундах відтоді, як застосунок перебуває не в пасивному стані
 
 
 ;Time in seconds since the app was last started
-Time in seconds since the app was last started
+Час в секундах відтоді, як застосунок було запущено востаннє
 
 
 ;Total number of bookmarks
-Total number of bookmarks
+Загальна кількість закладок
 
 
 ;Total number of pages listed in the history
-Total number of pages listed in the history
+Загальна кількість сторінок, наведених в історії
 
 
 ;How long in minutes the current session has been running
-How long in minutes the current session has been running
+Як довго в хвилинах триває поточний сеанс
 
 
 ;Welcome to your Firefox Health Report
-Welcome to your Firefox Health Report
+Ласкаво просимо до звіту про справність Firefox
 
 
 ;Welcome!
-Welcome!
+Ласкаво просимо!
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
-Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
+Звіт про справність Firefox дозволяє вам дізнатись як функціонує Firefox та що ви можете зробити для покращення його швидкодії.
 
 
 ;See My Report
-See My Report
+Переглянути свій звіт
 
 
