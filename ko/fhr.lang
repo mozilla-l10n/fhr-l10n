@@ -1,5 +1,5 @@
 ;Firefox Health Report
-Firefox Health Report {ok}
+Firefox 상태 검사 보고서
 
 
 ;Raw Data
@@ -27,7 +27,7 @@ Mozilla와의 데이터 공유를 중지하였습니다. 브라우저의 성능�
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
-Mozilla 서버에 저장된 개인 보고서 내용도 모두 삭제되었습니다. <a href="%(privacy_url)s">개인정보 보호정책</a>을 통해서 자세한 내용을 확인하세요.
+Mozilla 서버에 저장된 상태 검사 보고서 내용도 모두 삭제되었습니다. <a href="%(privacy_url)s">개인정보 보호정책</a>을 통해서 자세한 내용을 확인하세요.
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
@@ -151,11 +151,11 @@ Mozilla와의 데이터 공유를 선택하였습니다. 보다나은 웹을 만
 
 
 ;What the Firefox Health Report Measures
-Firefox Health Report의 측정 범위
+Firefox 상태 검사 보고서의 측정 범위
 
 
 ;The Firefox Health Report (FHR) has 4 categories of metrics:
-Firefox Health Report(FHR)는 4가지의 정보를 측정합니다:
+Firefox 상태 검사 보고서(FHR)는 4가지의 정보를 측정합니다:
 
 
 ;Configuration
@@ -403,7 +403,7 @@ UI이 이 부분에서 이 검색엔진으로 행해진 검색 횟수
 
 
 ;Welcome to your Firefox Health Report
-Firefox Health Report에 오신 것을 환영합니다.
+Firefox 상태 검사 보고서에 오신 것을 환영합니다.
 
 
 ;Welcome!
@@ -411,7 +411,7 @@ Firefox Health Report에 오신 것을 환영합니다.
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
-Firefox Health Report를 통해서 Firefox 성능을 확인하고 향상시키는 방법을 알 수 있습니다.
+Firefox 상태 검사 보고서를 통해서 Firefox 성능을 확인하고 향상시키는 방법을 알 수 있습니다.
 
 
 ;See My Report
