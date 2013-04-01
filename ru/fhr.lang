@@ -127,7 +127,7 @@
 
 
 ;Graph:
-График:
+Диаграмма:
 
 
 ;Average
@@ -231,7 +231,7 @@
 
 
 ;The channel this installation checks for application updates (nightly/aurora/beta/release)
-Канал по которому эта установка проверяет наличие обновлений приложения (nightly/aurora/beta/release)
+Канал, по которому эта установка проверяет наличие обновлений приложения (nightly/aurora/beta/release)
 
 
 ;The name of the company/provider who built this version
@@ -243,7 +243,7 @@
 
 
 ;Number of processor cores
-Число процессорных ядер
+Число процессорных ядер 
 
 
 ;Whether the application is currently configured to be the default browser for the operating system
@@ -255,7 +255,7 @@
 
 
 ;Amount of RAM in megabytes
-Кол-во памяти в мегабайтах
+Объем памяти в мегабайтах
 
 
 ;Currently running Operating System (kernel) name
@@ -375,7 +375,7 @@
 
 
 ;Total number of crashes that were recorded but not yet submitted
-Общее число падений, которые были записаны, но еще не отправлены
+Общее число падений, которые были записаны, но ещё не отправлены
 
 
 ;Total number of crashes that have been submitted
