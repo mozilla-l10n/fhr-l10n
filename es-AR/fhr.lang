@@ -19,7 +19,7 @@ Datos compartidos
 
 
 ;ON
-SI
+HABILITADO
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
@@ -99,7 +99,7 @@ Parece que su navegador se colgó varias veces en el último tiempo. Si quiere s
 
 
 ;OFF
-NO
+DESHABILITADO
 
 
 ;Visit our <a href="%(sumo_url)s">support website</a>
@@ -343,7 +343,7 @@ Cuánto tiempo en milisegundos le tomó a la aplicación cargar las librerías y
 
 
 ;How long in milliseconds it took during startup for the application to restore tabs from the previous session
-Cuánto tiempo en milisegundos le tomó a la plaicación restaurar las pestañas de la sesión previa al iniciar
+Cuánto tiempo en milisegundos le tomó a la aplicación restaurar las pestañas de la sesión previa al iniciar
 
 
 ;The number of times the application was run and not cleanly shut down.
