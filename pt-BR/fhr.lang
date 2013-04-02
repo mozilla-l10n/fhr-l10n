@@ -122,7 +122,7 @@ O Relatório de Integridade do Firefox (FHR) possui 4 categorias de medição:
 Configuração
 
 ;Device hardware, operating system, Firefox version
-Hardware, sistemas operacionais, versão do Firefox
+Hardware, sistema operacional, versão do Firefox
 
 ;Customizations
 Personalizações
@@ -152,10 +152,10 @@ Descrição
 Interface binária para XPCOM
 
 ;Identifier for this build of the application based on the date the build was started
-Identificador dessa versão da aplicação baseado na data em que a versão foi construída
+Identificador da versão da aplicação baseado na data em que ela foi construída
 
 ;Operating System for which this build was configured
-Sistema operacional para o qual essa versão foi configurada
+Sistema operacional para o qual a versão foi configurada
 
 ;Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
 Identificador da distribuição particular da aplicação em uso. É obtido da preferência <var>distribution.id</var>
@@ -164,22 +164,22 @@ Identificador da distribuição particular da aplicação em uso. É obtido da p
 Versão da distribuição, obtido da preferência <var>distribution.version</var>
 
 ;The version number of any Mozilla hotfix applied to the application
-O número da versão de qualquer correção da Mozilla aplicada na aplicação
+Número da versão de qualquer correção da Mozilla aplicada na aplicação
 
 ;Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
-Identificador único da aplicação que indica que se trata do Firefox ou Thunderbird, etc. O mesmo para todas as instalações da aplicação, independentemente do valor de <var>appName</var>
+Identificador único da aplicação que indica que se trata do Firefox ou Thunderbird, etc. É o mesmo para todas as instalações da aplicação, independentemente do valor de <var>appName</var>
 
 ;The configured name of the application (Firefox/Aurora/Nightly for instance)
-O nome configurado da aplicação (Firefox/Aurora/Nightly, por exemplo)
+Nome configurado da aplicação (Firefox/Aurora/Nightly, por exemplo)
 
 ;The channel this installation checks for application updates (nightly/aurora/beta/release)
-O canal em que essa instalação procura atualizações (nightly/aurora/beta/release)
+Canal em que a instalação procura atualizações (nightly/aurora/beta/release)
 
 ;The name of the company/provider who built this version
-O nome da companhia/provedor que construiu essa versão
+Nome da companhia/provedor que construiu a versão
 
 ;The current version of the product
-A versão atual do produto
+Versão atual do produto
 
 ;Number of processor cores
 Número de núcleos do processador
@@ -188,7 +188,7 @@ Número de núcleos do processador
 Se a aplicação está configurada atualmente para ser o navegador padrão do sistema operacional
 
 ;Locale currently being used
-Região/Idioma selecionada atualmente
+Região/Idioma selecionado atualmente
 
 ;Amount of RAM in megabytes
 Quantidade de RAM em megabytes
@@ -200,40 +200,40 @@ Nome do sistema operacional (kernel) sendo executado atualmente
 Versão do sistema operacional (kernel) sendo executado atualmente
 
 ;The build identifier of the Gecko platform code
-O identificador da versão do código da plataforma Gecko
+Identificador da versão do código da plataforma Gecko
 
 ;The version of the Gecko platform code
-A versão do código da plataforma Gecko
+Versão do código da plataforma Gecko
 
 ;Processor architecture
 Arquitetura do processador
 
 ;The date this version was first used with this installation profile
-A data em que essa versão foi usada pela primeira vez com esse perfil de instalação
+Data em que a versão foi usada pela primeira vez com esse perfil de instalação
 
 ;An application version which has been used with this installation profile
 Uma versão da aplicação que foi usada com esse perfil de instalação
 
 ;The number of add-ons of this type that existed in the profile on this date
-O número de complementos desse tipo que existem no perfil nesta data
+Número de complementos desse tipo que existem no perfil nesta data
 
 ;<var>True</var> if the application automatically disabled the add-on
 <var>True</var> se a aplicação desativou automaticamente o complemento
 
 ;Whether this add-on was installed by the user or automatically by another application
-Se esse complemento foi instalado pelo usuário ou automaticamente por outra aplicação
+Se o complemento foi instalado pelo usuário ou automaticamente por outra aplicação
 
 ;Whether this add-on has native code.
-Se esse complemento possui código nativo.
+Se o complemento possui código nativo.
 
 ;The identifier of this add-on as defined by the add-on developer
-O identificador desse complemento, definido pelo autor do complemento
+Identificador do complemento, definido pelo autor do complemento
 
 ;The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
-A data mais recente em que esse complemento foi instalado (informações anteriores sobre um complemento desinstalado não são mantidas)
+Data mais recente em que o complemento foi instalado (informações anteriores sobre um complemento desinstalado não são mantidas)
 
 ;The number of searches performed with this search engine from this part of the UI
-O número de pesquisas realizadas com esse mecanismo de pesquisa nessa parte da interface
+Número de pesquisas realizadas com o mecanismo de pesquisa nessa parte da interface
 
 ;Whether this add-on was installed in the application directory or profile directory
 Se o complemento foi instalado no diretório da aplicação ou no diretório do perfil
@@ -242,13 +242,13 @@ Se o complemento foi instalado no diretório da aplicação ou no diretório do 
 Se o complemento é uma extensão ou um plugin
 
 ;The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
-A data mais recente em que esse complemento foi atualizado (informações anteriores sobre um complemento atualizado não são mantidas)
+Data mais recente em que o complemento foi atualizado (informações anteriores sobre um complemento atualizado não são mantidas)
 
 ;<var>True</var> if the user manually disabled the add-on
 <var>True</var> se o usuário desativou o complemento manualmente
 
 ;The current version of this add-on
-A versão atual do complemento
+Versão atual do complemento
 
 ;How long in milliseconds it took during startup for the application to render the UI and display the window
 Quanto tempo, em milissegundos, a aplicação levou durante seu início para renderizar a interface e exibir a janela
@@ -260,25 +260,25 @@ Quanto tempo, em milissegundos, a aplicação levou durante seu início para car
 Quanto tempo, em milissegundos, a aplicação levou durante seu início para restaurar abas da sessão anterior
 
 ;The number of times the application was run and not cleanly shut down.
-O número de vezes que a aplicação foi executada e não foi finalizada corretamente.
+Número de vezes que a aplicação foi executada e não foi finalizada corretamente.
 
 ;The time in seconds that the aborted sessions were not idle
-O tempo, em segundos, pelo qual as sessões abortadas não ficaram ociosas
+Tempo, em segundos, pelo qual as sessões abortadas não ficaram ociosas
 
 ;The time in seconds that the aborted sessions were running
-O tempo, em segundos, pelo qual as sessões abortadas foram executadas
+Tempo, em segundos, pelo qual as sessões abortadas foram executadas
 
 ;The number of days since this application profile directory was created
-O número de dias desde que esse diretório do perfil da aplicação foi criado
+Número de dias desde que o diretório de perfil da aplicação foi criado
 
 ;The number of times the application was run and cleanly shut down.
-O número de vezes a aplicação foi executada e finalizada corretamente.
+Número de vezes que a aplicação foi executada e finalizada corretamente.
 
 ;The time in seconds that the completed sessions were not idle
-O tempo, em segundos, pelo qual as sessões completadas não ficaram ociosas
+Tempo, em segundos, pelo qual as sessões completadas não ficaram ociosas
 
 ;The time in seconds that the completed sessions were running
-O tempo, em segundos, pelo qual as sessões completadas foram executadas
+Tempo, em segundos, pelo qual as sessões completadas foram executadas
 
 ;Total number of crashes that were recorded but not yet submitted
 Número total de travamentos que foram registrados mas ainda não forem enviados
