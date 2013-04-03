@@ -3,11 +3,11 @@ Firefox წარმადობის პატაკი
 
 
 ;Raw Data
-ნედლი მონაცემები
+მონაცემები
 
 
 ;Get insights and performance information about your version of Firefox.
-მიიღეთ მონაცემები თქვენი Firefox ბრაუზერის წარმადობის შესახებ.
+მონაცემები თქვენი Firefox ბრაუზერის წარმადობის შესახებ.
 
 
 ;Learn more...
@@ -27,7 +27,7 @@ Firefox წარმადობის პატაკი
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
-თქვენი პატაკები წარმადობის შესახებ ასევე ამოიშლება Mozilla-ს სერვერბიდან. დეტალებისთვის გაეცანით ჩვენს <a href="%(privacy_url)s">კონფიდენციალობის პოლიტიკას.</a>
+თქვენი პატაკები წარმადობის შესახებ ასევე ამოიშლება Mozilla-ს სერვერებიდან. დეტალებისთვის გაეცანით ჩვენს <a href="%(privacy_url)s">კონფიდენციალობის პოლიტიკას.</a>
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
@@ -154,8 +154,8 @@ Firefox წარმადობის პატაკი
 რა იზომება Firefox წარმადობის პატაკით
 
 
-;The Firefox Health Report (FHR) has 4 categories of metrics:
-Firefox წარმადობის პატაკი (FHR) შეიცავს მაCვენებელთა 4 კატეგორიას:
+;The Firefox Health Report (FHR) has 5 categories of metrics:
+Firefox წარმადობის პატაკი (FHR) შეიცავს მაCვენებელთა 5 კატეგორიას:
 
 
 ;Configuration
@@ -207,7 +207,7 @@ XPCOM ორობითი ინტერფეისი
 
 
 ;Operating System for which this build was configured
-საოპერაციო სისტემა ამ ვერსიისთვის
+საოპერაციო სისტემა გამოშვების ამ ვერსიისთვის
 
 
 ;Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
@@ -327,7 +327,7 @@ Gecko პლატფორმის კოდის ვერსია
 
 
 ;<var>True</var> if the user manually disabled the add-on
-<var>True</var> თყ მონაწილემ თავად ამორთო ეს მოდული
+<var>True</var> თუ მონაწილემ თავად ამორთო ეს მოდული
 
 
 ;The current version of this add-on
@@ -403,7 +403,7 @@ Gecko პლატფორმის კოდის ვერსია
 
 
 ;Welcome to your Firefox Health Report
-მოგესალმებით თქენი Firefox წარმადობის პატაკში
+მოგესალმებით თქვენი Firefox წარმადობის პატაკში
 
 
 ;Welcome!
