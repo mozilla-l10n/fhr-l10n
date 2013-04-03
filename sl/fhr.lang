@@ -1,420 +1,418 @@
 ;Firefox Health Report
-Firefox Health Report
+Firefoxovo poročilo o stanju
 
 
 ;Raw Data
-Raw Data
+Neobdelani podatki
 
 
 ;Get insights and performance information about your version of Firefox.
-Get insights and performance information about your version of Firefox.
+Pridobite vpogled in informacije o učinkovitosti delovanja vašega Firefoxa.
 
 
 ;Learn more...
-Learn more...
+Več o tem...
 
 
 ;Data Sharing
-Data Sharing
+Skupna raba podatkov
 
 
 ;ON
-ON
+Vključeno
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
-You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
+Ustavili ste skupno rabo podatkov z Mozillo, vendar lahko še vedno spremljate delovanje svojega brskalnika.
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
-Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
+Vaše poročilo o stanju bo odstranjeno tudi z Mozillinih strežnikov. Več o tem v <a href="%(privacy_url)s">pravilniku o zasebnosti.</a>
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
-You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
+Izbrali ste občasno skupno rabo svojih podatkov z Mozillo. Hvala, ker ste del naše misije ustvarjanja svetlejše prihodnosti spleta.
 
 
 ;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
-Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
+Kako ravnamo v vašimi podatki lahko izveste v <a href="%(privacy_url)s">pravilniku o zasebnosti.</a>
 
 
 ;Vital Stats
-Vital Stats
+Bistvene informacije
 
 
 ;version
-version
-
+verzija
 
 ;time open
-time open
+trajanje povezave
 
 
 ;last crash
-last crash
+zadnje sesutje
 
 
 ;bookmarks
-bookmarks
+zaznamki
 
 
 ;This Month
-This Month
+Ta mesec
 
 
 ;crashes
-crashes
+sesutja
 
 
 ;Add-ons
-Add-ons
+Dodatki
 
 
 ;View List
-View List
+Ogled seznama
 
 
 ;enabled
-enabled
+omogočeno
 
 
 ;disabled
-disabled
+onemogočeno
 
 
 ;Plugins
-Plugins
+Vtičniki
 
 
 ;Tips
-Tips
+Namigi
 
 
 ;Wear and Tear
-Wear and Tear
+Fizična obraba
 
 
 ;It looks like your browser has crashed a number of times recently. To learn more:
-It looks like your browser has crashed a number of times recently. To learn more:
+Kaže, da se je vaš brskalnik v zadnjem času večkrat sesul. Več o tem:
 
 
 ;OFF
-OFF
+Izključeno
 
 
 ;Visit our <a href="%(sumo_url)s">support website</a>
-Visit our <a href="%(sumo_url)s">support website</a>
+Obiščite <a href="%(sumo_url)s">stran za podporo</a>
 
 
 ;View more <a href="%(details_url)s">detailed information</a>
-View more <a href="%(details_url)s">detailed information</a>
+Ogled <a href="%(details_url)s">podrobnejših informacij</a>
 
 
 ;pages visited
-pages visited
+obiskane strani
 
 
 ;Your browser seems to be running slower than usual. To learn more:
-Your browser seems to be running slower than usual. To learn more:
+Kaže, da vaš brskalnik deluje počasneje kot običajno. Več o tem:
 
 
 ;You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
-You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
+Zanimivejše in natančnejše informacije boste dobili s pogosto rabo brskalnika. V nekaj tednih boste že lahko videli nekatere trende.
 
 
 ;Startup Time by Day
-Startup Time by Day
+Čas zagona po dnevih
 
 
 ;Graph:
-Graph:
+Graf:
 
 
 ;Average
-Average
+Povprečje
 
 
 ;All
-All
+Skupaj
 
 
 ;Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
-Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
+Čas zagona pomaga določiti, kako dobro deluje vaša verzija Firefoxa. V splošnem hitrejši časi (tj. manj časa) kažejo boljšo učinkovitost delovanja.
 
 
 ;Data Collected
-Data Collected
+Zbrani podatki
 
 
 ;Glossary
-Glossary
+Slovar
 
 
 ;What the Firefox Health Report Measures
-What the Firefox Health Report Measures
+Kaj meri Firefoxo poročilo o stanju
 
 
 ;The Firefox Health Report (FHR) has 4 categories of metrics:
-The Firefox Health Report (FHR) has 4 categories of metrics:
+Firefoxo poročilo o stanju (FPS) vsebuje 4 kategorije metrik:
 
 
 ;Configuration
-Configuration
+Konfiguracija
 
 
 ;Device hardware, operating system, Firefox version
-Device hardware, operating system, Firefox version
+Strojna oprema naprave, operacijski sistem, verzija Firefoxa
 
 
 ;Customizations
-Customizations
+Prilagoditve
 
 
 ;Add-ons, count and type
-Add-ons, count and type
+Dodatki, število in vrsta
 
 
 ;Performance
-Performance
+Učinkovitost delovanja
 
 
 ;Timing of browser events, rendering, session restores
-Timing of browser events, rendering, session restores
+Časovna uskladitev dogodkov brskalnika, upodabljanje, obnovitve seje
 
 
 ;Length of session, how old a profile is, count of crashes, count of pages
-Length of session, how old a profile is, count of crashes, count of pages
+Trajanje seje, starost profila, štetje sesutij, štetje strani
 
 
 ;Detailed Description
-Detailed Description
+Podroben opis
 
 
 ;Metric
-Metric
+Metrika
 
 
 ;Description
-Description
+Opis
 
 
 ;Binary interface for XPCOM
-Binary interface for XPCOM
+Binarni vmesnik za XPCOM
 
 
 ;Identifier for this build of the application based on the date the build was started
-Identifier for this build of the application based on the date the build was started
+Indikator obstoječe izgradnje aplikacije na osnovi njenega datuma zagona
 
 
 ;Operating System for which this build was configured
-Operating System for which this build was configured
+Operacijski sistem, za katerega je bila izgradnja konfigurirana
 
 
 ;Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
-Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
+Identifikator podrobnosti aplikacije v rabi. Vzet iz nastavitve <var>distribution.id</var>
 
 
 ;Version of the distribution, taken from the <var>distribution.version</var> preference
-Version of the distribution, taken from the <var>distribution.version</var> preference
+Verzija distribucije, vzeta iz nastavitve <var>distribution.version</var>
 
 
 ;The version number of any Mozilla hotfix applied to the application
-The version number of any Mozilla hotfix applied to the application
+Številka verzije Mozillinega sprotnega popravka uporabljenega v aplikaciji
 
 
 ;Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
-Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
+Identifikator uporabljen za aplikacijo, ki kaže, če gre za Firefox ali Thunderbird itd. Enak za vse namestitve aplikacije ne glede na vrednost <var>appName</var>
 
 
 ;The configured name of the application (Firefox/Aurora/Nightly for instance)
-The configured name of the application (Firefox/Aurora/Nightly for instance)
+Nastavljeno ime aplikacije (na primer Firefox/Aurora/Nightly)
 
 
 ;The channel this installation checks for application updates (nightly/aurora/beta/release)
-The channel this installation checks for application updates (nightly/aurora/beta/release)
+Kanal na katerem namestitev preverja posodobitve aplikacije (nightly/aurora/beta/release)
 
 
 ;The name of the company/provider who built this version
-The name of the company/provider who built this version
+Ime podjetja/ponudnika, ki je izdelal verzijo
 
 
 ;The current version of the product
-The current version of the product
+Trenutna verzija produkta
 
 
 ;Number of processor cores
-Number of processor cores
+Število jeder procesorja
 
 
 ;Whether the application is currently configured to be the default browser for the operating system
-Whether the application is currently configured to be the default browser for the operating system
+Je aplikacija trenutno nastavljena kot privzeti brskalnik opreacijskega sistema
 
 
 ;Locale currently being used
-Locale currently being used
+Trenutno uporabljene območne nastavitve
 
 
 ;Amount of RAM in megabytes
-Amount of RAM in megabytes
+Količina RAM-a v megabitih
 
 
 ;Currently running Operating System (kernel) name
-Currently running Operating System (kernel) name
+Ime operacijskega sistema v teku (jedro)
 
 
 ;Currently running Operating System (kernel) version
-Currently running Operating System (kernel) version
+Verzija operacijskega sistema v teku (jedro)
 
 
 ;The build identifier of the Gecko platform code
-The build identifier of the Gecko platform code
+Identifikator graditve kode Gecko platforme
 
 
 ;The version of the Gecko platform code
-The version of the Gecko platform code
+Verzija kode Gecko platforme
 
 
 ;Processor architecture
-Processor architecture
+Arhitektura procesoja
 
 
 ;The date this version was first used with this installation profile
-The date this version was first used with this installation profile
+Datum prve uporabe te verzije s tem namestitvenim profilom
 
 
 ;An application version which has been used with this installation profile
-An application version which has been used with this installation profile
+Verzija aplikacije uporabljene s tem namestitvenim profilom
 
 
 ;The number of add-ons of this type that existed in the profile on this date
-The number of add-ons of this type that existed in the profile on this date
+Število dodatkov te vrste, ki so tega datuma obstajali v profilu
 
 
 ;<var>True</var> if the application automatically disabled the add-on
-<var>True</var> if the application automatically disabled the add-on
+<var>True</var> če je aplikacija samodejno onemogočila dodatek
 
 
 ;Whether this add-on was installed by the user or automatically by another application
-Whether this add-on was installed by the user or automatically by another application
+Je ta dodatek namestil uporabnik ali ga je samodejno namestila druga aplikacija
 
 
 ;Whether this add-on has native code.
-Whether this add-on has native code.
+Ali ima ta dodatek izvorno kodo.
 
 
 ;The identifier of this add-on as defined by the add-on developer
-The identifier of this add-on as defined by the add-on developer
+Identifikator tega dodatka, kot ga je definiral njegov razvijalec
 
 
 ;The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
-The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
+Zadnji datum namestitve tega dodatka (predhodna informacija o odstranjenem dodatku ni shranjena).
 
 
 ;The number of searches performed with this search engine from this part of the UI
-The number of searches performed with this search engine from this part of the UI
+Število iskanj izvedenih s tem iskalnikom iz tega dela uporabniškega vmesnika
 
 
 ;Whether this add-on was installed in the application directory or profile directory
-Whether this add-on was installed in the application directory or profile directory
+Je bil ta dodatek nameščen v mapo aplikacije ali v profilno mapo
 
 
 ;Whether this add-on is an extension or a plug-in
-Whether this add-on is an extension or a plug-in
+Je ta dodatek razširitev ali vtičnik
 
 
 ;The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
-The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
+Zadnji datum posodobitve tega dodatka(predhodna informacija o odstranjenem dodatku ni shranjena).
 
 
 ;<var>True</var> if the user manually disabled the add-on
-<var>True</var> if the user manually disabled the add-on
+<var>True</var> če je uporabnik ročno onemogočil ta dodatek
 
 
 ;The current version of this add-on
-The current version of this add-on
+Trenutna verzija tega dodatka
 
 
 ;How long in milliseconds it took during startup for the application to render the UI and display the window
-How long in milliseconds it took during startup for the application to render the UI and display the window
+Kako časa v milisekundah traja, da aplikacija ob zagonu upodobi uporabniški vmesnik in prikaže okno
 
 
 ;How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
-How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
+Kako časa v milisekundah traja, da aplikacija ob zagonu naloži knjižnice in opravi osnovno inicializacijo
 
 
 ;How long in milliseconds it took during startup for the application to restore tabs from the previous session
-How long in milliseconds it took during startup for the application to restore tabs from the previous session
+Kako časa v milisekundah traja, da aplikacija ob zagonu obnovi zavihke iz prejšnje seje
 
 
 ;The number of times the application was run and not cleanly shut down.
-The number of times the application was run and not cleanly shut down.
+Kolikokrat je bila aplikacija zagnana in ni bila popolnoma zaustavljena.
 
 
 ;The time in seconds that the aborted sessions were not idle
-The time in seconds that the aborted sessions were not idle
+Čas v sekundah, ko prekinjene seje niso bile nedejavne
 
 
 ;The time in seconds that the aborted sessions were running
-The time in seconds that the aborted sessions were running
+Čas v sekundah, ko so prekinjene seje tekle
 
 
 ;The number of days since this application profile directory was created
-The number of days since this application profile directory was created
+Število dni odkar je bila ustvarjena mapa profila te aplikacije
 
 
 ;The number of times the application was run and cleanly shut down.
-The number of times the application was run and cleanly shut down.
+Kolikokrat je bila aplikacija zagnana in popolnoma zaustavljena.
 
 
 ;The time in seconds that the completed sessions were not idle
-The time in seconds that the completed sessions were not idle
+Čas v sekundah, ko dokončane seje niso bile nedejavne
 
 
 ;The time in seconds that the completed sessions were running
-The time in seconds that the completed sessions were running
+Čas v sekundah, ko so dokončane seje tekle
 
 
 ;Total number of crashes that were recorded but not yet submitted
-Total number of crashes that were recorded but not yet submitted
+Število sesutij, ki so bila posneta, a niso bila oddana
 
 
 ;Total number of crashes that have been submitted
-Total number of crashes that have been submitted
+Število sesutij, ki so bila oddana
 
 
 ;Time in seconds the app has not been idle
-Time in seconds the app has not been idle
+Čas v sekundah, ko program ni bil nedejaven
 
 
 ;Time in seconds since the app was last started
-Time in seconds since the app was last started
-
+Čas v sekundah, odkar je bil program nazadnje zagnan
 
 ;Total number of bookmarks
-Total number of bookmarks
+Skupno število zaznamkov
 
 
 ;Total number of pages listed in the history
-Total number of pages listed in the history
+Skupno število strani v zgodovini
 
 
 ;How long in minutes the current session has been running
-How long in minutes the current session has been running
+Koliko časa v minutah teče trenutna seja
 
 
 ;Welcome to your Firefox Health Report
-Welcome to your Firefox Health Report
+Dobrodošli v svojem Firefoxovem poročilu o stanju
 
 
 ;Welcome!
-Welcome!
+Dobrodošli!
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
-Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
+Firefoxovo poročilo o stanju vas obvešča o delovanju vašega Firefoxa in o tem, kaj lahko storite, da ga izboljšate.
 
 
 ;See My Report
-See My Report
+Prikaži moje poročilo
 
 
