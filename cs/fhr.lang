@@ -151,55 +151,54 @@ Slovník
 
 
 ;What the Firefox Health Report Measures
-What the Firefox Health Report Measures
+Co měří Hlášení o zdraví Firefoxu
 
 
 ;The Firefox Health Report (FHR) has 4 categories of metrics:
-The Firefox Health Report (FHR) has 4 categories of metrics:
+Hlášení o zdraví Firefoxu (FHR) reportuje 4 oblasti:
 
 
 ;Configuration
-Configuration
+Konfigurace
 
 
 ;Device hardware, operating system, Firefox version
-Device hardware, operating system, Firefox version
+Hardware zařízení, operační systém, verzi Firefoxu
 
 
 ;Customizations
-Customizations
+Přizpůsobení
 
 
 ;Add-ons, count and type
-Add-ons, count and type
+Doplňky, počet a typ
 
 
 ;Performance
-Performance
+Výkon
 
 
 ;Timing of browser events, rendering, session restores
-Timing of browser events, rendering, session restores
-
+Délka trvání událostí prohlížeče, vykreslování, obnovy relací
 
 ;Length of session, how old a profile is, count of crashes, count of pages
-Length of session, how old a profile is, count of crashes, count of pages
+Délka relace, stáří uživatelského profilu, počet pádů, počet stránek
 
 
 ;Detailed Description
-Detailed Description
+Detailní popis
 
 
 ;Metric
-Metric
+Metrika
 
 
 ;Description
-Description
+Popis
 
 
 ;Binary interface for XPCOM
-Binary interface for XPCOM
+Binární rozhraní pro XPCOM
 
 
 ;Identifier for this build of the application based on the date the build was started
@@ -207,19 +206,18 @@ Identifier for this build of the application based on the date the build was sta
 
 
 ;Operating System for which this build was configured
-Operating System for which this build was configured
-
+Operační systém, pro který bylo toto sestavení nakonfigurováno
 
 ;Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
 Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
 
 
 ;Version of the distribution, taken from the <var>distribution.version</var> preference
-Version of the distribution, taken from the <var>distribution.version</var> preference
+Verze distribuce, která je převzata z předvolby <var>distribution.version</var>
 
 
 ;The version number of any Mozilla hotfix applied to the application
-The version number of any Mozilla hotfix applied to the application
+Číslo verze libovolného hotfixu, který byl nainstalován do aplikace 
 
 
 ;Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
@@ -239,11 +237,11 @@ The name of the company/provider who built this version
 
 
 ;The current version of the product
-The current version of the product
+Aktuální verze produktu
 
 
 ;Number of processor cores
-Number of processor cores
+Počet jader procesoru
 
 
 ;Whether the application is currently configured to be the default browser for the operating system
@@ -251,7 +249,7 @@ Whether the application is currently configured to be the default browser for th
 
 
 ;Locale currently being used
-Locale currently being used
+Jazyk, který je aktuálně používán
 
 
 ;Amount of RAM in megabytes
@@ -267,15 +265,15 @@ Currently running Operating System (kernel) version
 
 
 ;The build identifier of the Gecko platform code
-The build identifier of the Gecko platform code
+Identifikátor sestavení platformy Gecko
 
 
 ;The version of the Gecko platform code
-The version of the Gecko platform code
+Verze platformy Gecko
 
 
 ;Processor architecture
-Processor architecture
+Architektura procesoru
 
 
 ;The date this version was first used with this installation profile
@@ -295,15 +293,15 @@ The number of add-ons of this type that existed in the profile on this date
 
 
 ;Whether this add-on was installed by the user or automatically by another application
-Whether this add-on was installed by the user or automatically by another application
+Zda byl doplněk nainstalován uživatel či automaticky jinou aplikací
 
 
 ;Whether this add-on has native code.
-Whether this add-on has native code.
+Zda má tento doplněk nativní kód.
 
 
 ;The identifier of this add-on as defined by the add-on developer
-The identifier of this add-on as defined by the add-on developer
+Identifikátor tohoto doplňku tak, jak byl definován jeho vývojářem
 
 
 ;The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
@@ -315,11 +313,11 @@ The number of searches performed with this search engine from this part of the U
 
 
 ;Whether this add-on was installed in the application directory or profile directory
-Whether this add-on was installed in the application directory or profile directory
+Zda byl tento doplněk nainstalován do adresáře s aplikací či do adresáře s uživatelským profilem 
 
 
 ;Whether this add-on is an extension or a plug-in
-Whether this add-on is an extension or a plug-in
+Zda je tento doplněk rozšíření či zásuvný modul
 
 
 ;The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
@@ -327,83 +325,83 @@ The most recent date this add-on was updated (previous information about an unin
 
 
 ;<var>True</var> if the user manually disabled the add-on
-<var>True</var> if the user manually disabled the add-on
+<var>True</var>, pokud uživatel ručně zakázal doplněk 
 
 
 ;The current version of this add-on
-The current version of this add-on
+Aktuální verze tohoto doplňku
 
 
 ;How long in milliseconds it took during startup for the application to render the UI and display the window
-How long in milliseconds it took during startup for the application to render the UI and display the window
+Kolik milisekund trvá aplikaci při spuštění vykreslení UI a zobrazení okna
 
 
 ;How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
-How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
+Kolik milisekund trvá aplikaci při spuštění načtení knihoven a dokončení základní inicializace
 
 
 ;How long in milliseconds it took during startup for the application to restore tabs from the previous session
-How long in milliseconds it took during startup for the application to restore tabs from the previous session
+Kolik milisekund trvá aplikaci při spuštění obnova panelů z předchozí relace
 
 
 ;The number of times the application was run and not cleanly shut down.
-The number of times the application was run and not cleanly shut down.
+Počet případů, kdy aplikace byla spuštěna a nebyla ukončena korektně.
 
 
 ;The time in seconds that the aborted sessions were not idle
-The time in seconds that the aborted sessions were not idle
+Počet sekund, po které nebyly násilně ukončené relace v klidu
 
 
 ;The time in seconds that the aborted sessions were running
-The time in seconds that the aborted sessions were running
+Počet sekund, po které byly spouštěny násilně ukončené relace
 
 
 ;The number of days since this application profile directory was created
-The number of days since this application profile directory was created
+Počet dní od vytvoření adresáře s uživatelským profilem aplikace
 
 
 ;The number of times the application was run and cleanly shut down.
-The number of times the application was run and cleanly shut down.
+Počet korektních spuštění a ukončení aplikace.
 
 
 ;The time in seconds that the completed sessions were not idle
-The time in seconds that the completed sessions were not idle
+Celkový čas v sekundách, po které nebyl u dokončených relací prohlížeč v klidu
 
 
 ;The time in seconds that the completed sessions were running
-The time in seconds that the completed sessions were running
+Celkový čas v sekundách, po který běžely dokončené relace
 
 
 ;Total number of crashes that were recorded but not yet submitted
-Total number of crashes that were recorded but not yet submitted
+Celkový počet pádů, které nastaly, ale nebyly odeslány
 
 
 ;Total number of crashes that have been submitted
-Total number of crashes that have been submitted
+Celkový počet pádů, které jste odeslal(a)
 
 
 ;Time in seconds the app has not been idle
-Time in seconds the app has not been idle
+Počet sekund od chvíle, kdy aplikace nezahálela
 
 
 ;Time in seconds since the app was last started
-Time in seconds since the app was last started
+Počet sekund od posledního spuštění aplikace
 
 
 ;Total number of bookmarks
-Total number of bookmarks
+Celkový počet záložek
 
 
 ;Total number of pages listed in the history
-Total number of pages listed in the history
+Počet stránek obsažených v historii
 
 
 ;How long in minutes the current session has been running
-How long in minutes the current session has been running
+Kolik minut trvá vaše aktuální relace
 
 
 ;Welcome to your Firefox Health Report
-Welcome to your Firefox Health Report
+Vítá vás vaše Hlášení o zdraví Firefoxu
 
 
 ;Welcome!
@@ -411,7 +409,7 @@ Vítejte!
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
-Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
+Hlášení o zdraví Firefoxu vám dá vědět, jak si váš Firefox vede v oblsti výkonu a co můžete udělat pro jeho vylepšení.
 
 
 ;See My Report
