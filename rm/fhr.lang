@@ -39,7 +39,7 @@ Infurmaziuns davart l'utilisaziun da tias datas chattas en las <a href="%(privac
 
 
 ;Vital Stats
-Statistica principala
+Statistica generala
 
 
 ;version
@@ -139,7 +139,7 @@ Tut
 
 
 ;Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
-Il temp dad aviar gida da mussar con bain che la prestaziun da Firefox è. En general mussan temps pli sperts (q.v.d. pli pauc temp) megliera pretaziun. 
+Il temp dad aviar gida da mussar con bain che la prestaziun da Firefox è. En general mussan temps pli sperts (q.v.d. pli pauc temp) meglra prestaziun.
 
 
 
@@ -156,7 +156,7 @@ Tge vegn mesirà da la bilantscha da sanadad da Firefox
 
 
 ;The Firefox Health Report (FHR) has 4 categories of metrics:
-La bilantscha da sanadad da Firefox ha quater categorias da statisticas:
+La bilantscha da sanadad da Firefox ha quatter categorias da statisticas:
 
 
 ;Configuration
@@ -180,7 +180,7 @@ Prestaziun
 
 
 ;Timing of browser events, rendering, session restores
-Mesiraziun dal temp dad eveniments dal navigatur, dal rendering e durant restaurar ina sesida
+Mesiraziun dal temp dad eveniments dal navigatur, da la visualisaziun e durant restaurar ina sesida
 
 
 ;Length of session, how old a profile is, count of crashes, count of pages
@@ -208,7 +208,7 @@ Indentificaziun da quest build da l'applicaziun sa basond sin la data dal cumenz
 
 
 ;Operating System for which this build was configured
-Sistem operativ per il qual quest build è vegnì configuré
+Sistem operativ per il qual quest build è vegnì configurà
 
 
 ;Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
@@ -220,7 +220,7 @@ Versiun da la distribuziun, vegn da la preferenza <var>distribution.version</var
 
 
 ;The version number of any Mozilla hotfix applied to the application
-Il number da mintga hotfix ch'è vegnì applitgà al program
+Il dumber da mintga hotfix ch'è vegnì applitgà al program
 
 
 ;Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
@@ -248,7 +248,7 @@ Il dumber da cores dal product
 
 
 ;Whether the application is currently configured to be the default browser for the operating system
-Sche l'applicaziun è configurada sco navigatur da standar per il sistem operativ
+Sche l'applicaziun è configurada sco navigatur da standard per il sistem operativ
 
 
 ;Locale currently being used
@@ -268,7 +268,7 @@ Versiun dal sistem operativ (kernel) che è actualmain en funcziun
 
 
 ;The build identifier of the Gecko platform code
-Identificaziun dal build pil code da la plattafurma da Gecko
+Identificaziun dal build per il code da la plattafurma da Gecko
 
 
 ;The version of the Gecko platform code
@@ -288,7 +288,7 @@ Ina versiun d'applicaziun ch'è vegnida utilisada cun quest profil da l'installa
 
 
 ;The number of add-ons of this type that existed in the profile on this date
-Il dumber da supplements da quest tip che existevan quai di en quest profil
+Il dumber da supplements da quest tip che existivan quai di en quest profil
 
 
 ;<var>True</var> if the application automatically disabled the add-on
@@ -352,11 +352,11 @@ Il dumber da giadas che l'applicaziun è vegnida exequida e na betg terminada co
 
 
 ;The time in seconds that the aborted sessions were not idle
-Il temp en secundas durant qual las sessiuns interrutas eran activas
+Il temp en secundas durant qual las sessiuns interruttas eran activas
 
 
 ;The time in seconds that the aborted sessions were running
-Il temp en secundas durant qual las sessiuns interrutas eran en funcziun
+Il temp en secundas durant qual las sessiuns interruttas eran en funcziun
 
 
 ;The number of days since this application profile directory was created
@@ -376,7 +376,7 @@ Il temp en secundas durant qual las sessiuns cumplettadas eran en funcziun
 
 
 ;Total number of crashes that were recorded but not yet submitted
-Dumber total da collapds ch'èn vegnids registrads ma betg tramess
+Dumber total da collaps ch'èn vegnids registrads ma betg tramess
 
 
 ;Total number of crashes that have been submitted
@@ -392,11 +392,11 @@ Temp en secundas dapi che l'applicaziun è vegnida aviada l'ultima giada
 
 
 ;Total number of bookmarks
-Dumber total da segnapainas
+Dumber total da segnapaginas
 
 
 ;Total number of pages listed in the history
-Dumber total da paginas glistadas en la cronologia
+Dumber total da paginas enumeradas en la cronologia
 
 
 ;How long in minutes the current session has been running
