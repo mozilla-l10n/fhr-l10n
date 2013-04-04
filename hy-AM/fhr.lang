@@ -90,7 +90,7 @@ Firefox-ի վիճակի մասին զեկույց
 
 
 ;Wear and Tear
-Wear and Tear
+Մաշվածությունը
 
 
 ;It looks like your browser has crashed a number of times recently. To learn more:
@@ -146,7 +146,7 @@ Wear and Tear
 
 
 ;Glossary
-Glossary
+Բառարան
 
 
 ;What the Firefox Health Report Measures
@@ -222,8 +222,7 @@ Mozilla hotfix-ի ցանկացած տարբերակը՝ կիրառված ծրա�
 
 
 ;Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
-Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
-
+Որոշիչը բացառիկ է ծրագրերի համար։ Այն ցուցադրում է արդյոք ծրագիրը Firefox-ն է, թե Thunderbird-ը։ Միևնույնն է ծրագրի բոլոր կարգավորումների համար՝ անկախ նշանակությունից <var>appName</var>
 
 ;The configured name of the application (Firefox/Aurora/Nightly for instance)
 Ծրագրի նախորոշված անունը (Firefox/Aurora/Nightly օրինակի համար)
