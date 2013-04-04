@@ -352,11 +352,11 @@ Il dumber da giadas che l'applicaziun è vegnida exequida e na betg terminada co
 
 
 ;The time in seconds that the aborted sessions were not idle
-The time in seconds that the aborted sessions were not idle
+Il temp en secundas durant qual las sessiuns interrutas eran activas
 
 
 ;The time in seconds that the aborted sessions were running
-The time in seconds that the aborted sessions were running
+Il temp en secundas durant qual las sessiuns interrutas eran en funcziun
 
 
 ;The number of days since this application profile directory was created
@@ -368,11 +368,11 @@ Il dumber da giadas che l'applicaziun è vegnida exequida e terminada correctama
 
 
 ;The time in seconds that the completed sessions were not idle
-The time in seconds that the completed sessions were not idle
+Il temp en secundas durant qual las sessiuns cumplettadas eran activas
 
 
 ;The time in seconds that the completed sessions were running
-The time in seconds that the completed sessions were running
+Il temp en secundas durant qual las sessiuns cumplettadas eran en funcziun
 
 
 ;Total number of crashes that were recorded but not yet submitted
