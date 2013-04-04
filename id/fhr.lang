@@ -23,7 +23,7 @@ AKTIF
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
-Anda telah memilih untuk berhenti membagikan data dengan Mozilla, tetapi Anda masih akan dapat melihat kinerja peramban Anda.
+Anda telah memilih untuk berhenti membagikan data dengan Mozilla, tetapi kinerja peramban Anda masih dapat ditampilkan.
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
@@ -31,7 +31,7 @@ Data Laporan Kebugaran Anda juga akan dihapus dari server Mozilla. Pelajari sele
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
-Anda telah memilih untuk membagikan data Anda dengan Mozilla mulai saat ini. Terima kasih telah ikut berperan dalam misi kami untuk membangung masa depan cemerlang dunia Web.
+Anda telah memilih untuk membagikan data Anda dengan Mozilla mulai saat ini. Terima kasih telah ikut berperan dalam misi kami untuk membangun masa depan cemerlang dunia Web.
 
 
 ;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
@@ -59,7 +59,7 @@ markah
 
 
 ;This Month
-Bukan ini
+Bulan ini
 
 
 ;crashes
@@ -151,7 +151,7 @@ Daftar Istilah
 
 
 ;What the Firefox Health Report Measures
-Apa yang diukur oleh Laporan Kebugaran Firefox
+Yang diukur oleh Laporan Kebugaran Firefox
 
 
 ;The Firefox Health Report (FHR) has 4 categories of metrics:
@@ -299,7 +299,7 @@ Menentukan apakah pengaya ini diinstal oleh pengguna atau oleh aplikasi lain sec
 
 
 ;Whether this add-on has native code.
-Menentukan apakah pengaya ini mengandung kode nativ.
+Menentukan apakah pengaya ini mengandung kode native.
 
 
 ;The identifier of this add-on as defined by the add-on developer
@@ -335,15 +335,15 @@ Versi pengaya saat ini
 
 
 ;How long in milliseconds it took during startup for the application to render the UI and display the window
-Jumlah waktu yang dibutuhkan aplikasi saat memulai dalam milidetik untuk merender antarmuka dan menampilkan jendela
+Jumlah waktu yang dibutuhkan aplikasi saat memulai untuk merender antarmuka dan menampilkan jendela (dalam milidetik)
 
 
 ;How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
-Jumlah waktu yang dibutuhkan aplikasi saat memulai dalam milidetik untuk memuat pustaka dan menyelesaikan proses inisialisasi dasar
+Jumlah waktu yang dibutuhkan aplikasi saat memulai untuk memuat pustaka dan menyelesaikan proses inisialisasi dasar (dalam milidetik)
 
 
 ;How long in milliseconds it took during startup for the application to restore tabs from the previous session
-Jumlah waktu yang dibutuhkan aplikasi saat memulai dalam milidetik untuk memulihkan tab dari sesi sebelumnya
+Jumlah waktu yang dibutuhkan aplikasi saat memulai untuk memulihkan tab dari sesi sebelumnya (dalam milidetik)
 
 
 ;The number of times the application was run and not cleanly shut down.
@@ -351,15 +351,15 @@ Berapa kali aplikasi dijalankan tanpa dimatikan secara bersih.
 
 
 ;The time in seconds that the aborted sessions were not idle
-Jumlah waktu dalam detik saat sesi yang dibatalkan tidak dalam keadaan menganggur
+Jumlah waktu sesi yang dibatalkan tidak dalam keadaan menganggur (dalam detik)
 
 
 ;The time in seconds that the aborted sessions were running
-Jumlah waktu dalam detik saat sesi yang dibatalkan dalam keadaan berjalan
+Jumlah waktu sesi yang dibatalkan dalam keadaan berjalan (dalam detik)
 
 
 ;The number of days since this application profile directory was created
-Jumlah waktu dalam hari sejak direktori profil aplikasi dibuat
+Jumlah waktu sejak direktori profil aplikasi dibuat (dalam hari)
 
 
 ;The number of times the application was run and cleanly shut down.
@@ -367,11 +367,11 @@ Berapa kali aplikasi dijalankan dan dimatikan secara bersih
 
 
 ;The time in seconds that the completed sessions were not idle
-Jumlah waktu dalam detik untuk sesi lengkap yang tidak menganggur
+Jumlah waktu sesi lengkap yang tidak menganggur (dalam detik)
 
 
 ;The time in seconds that the completed sessions were running
-Jumlah waktu dalam detik untuk sesi lengkap yang telah berjalan
+Jumlah waktu sesi lengkap yang telah berjalan (dalam detik)
 
 
 ;Total number of crashes that were recorded but not yet submitted
@@ -383,11 +383,11 @@ Jumlah mogok yang pernah dikirimkan
 
 
 ;Time in seconds the app has not been idle
-Jumlah waktu dalam detik saat aplikasi dalam keadaan tidak menganggur
+Jumlah waktu saat aplikasi dalam keadaan tidak menganggur (dalam detik)
 
 
 ;Time in seconds since the app was last started
-Jumlah waktu dalam detik sejak aplikasi terakhir dimulai
+Jumlah waktu sejak aplikasi terakhir dimulai (dalam detik)
 
 
 ;Total number of bookmarks
@@ -399,7 +399,7 @@ Jumlah laman yang terdaftar pada riwayat
 
 
 ;How long in minutes the current session has been running
-Jumlah waktu dalam menit berapa lama sesi telah berjalan
+Jumlah waktu berapa lama sesi telah berjalan (dalam menit)
 
 
 ;Welcome to your Firefox Health Report
