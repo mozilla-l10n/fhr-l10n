@@ -1,193 +1,192 @@
 ;Firefox Health Report
-Firefox Health Report
+Adroddiad Iechyd Firefox
 
 
 ;Raw Data
-Raw Data
+Data Crai
 
 
 ;Get insights and performance information about your version of Firefox.
-Get insights and performance information about your version of Firefox.
+Derbyn gwybodaeth am ddefnydd a pherfformiad am eich fersiwn o Firefox
 
 
 ;Learn more...
-Learn more...
+Dysgu rhagor...
 
 
 ;Data Sharing
-Data Sharing
+Rhannu Data
 
 
 ;ON
-ON
+YMLAEN
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
-You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
+Rydych wedi penderfynu peidio â rhannu data gyda Mozilla, ond mae modd i chi dal i weld sut mae eich porwr yn perfformio.
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
-Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
+Bydd data eich Adroddiad Iechyd yn cael ei dynnu o weinyddion Mozilla. Dysgwch ragor yn ein <a href="%(privacy_url)s">polisi preifatrwydd.</a>
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
-You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
+Rydych wedi penderfynu rhannu eich data gyda Mozilla o bryd i'w gilydd. Diolch am fod yn rhan o'n hymdrech i adeiladu gwell dyfodol i'r We.
 
 
 ;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
-Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
+Dysgwch sut rydym yn trin eich data yn ein <a href="%(privacy_url)s">polisi preifatrwydd.</a>
 
 
 ;Vital Stats
-Vital Stats
+Ystadegau Pwysicaf
 
 
 ;version
-version
+fersiwn
 
 
 ;time open
-time open
+amser ar agor
 
 
 ;last crash
-last crash
+chwalfa ddiwethaf
 
 
 ;bookmarks
-bookmarks
+nodau tudalen
 
 
 ;This Month
-This Month
+Mis yma
 
 
 ;crashes
-crashes
+chwalfa
 
 
 ;Add-ons
-Add-ons
+Ychwanegion
 
 
 ;View List
-View List
+Gweld Rhestr
 
 
 ;enabled
-enabled
+galluogwyd
 
 
 ;disabled
-disabled
+analluogwyd
 
 
 ;Plugins
-Plugins
+Ategion
 
 
 ;Tips
-Tips
+Cyngor
 
 
 ;Wear and Tear
-Wear and Tear
+Traul a Gwisgo
 
 
 ;It looks like your browser has crashed a number of times recently. To learn more:
-It looks like your browser has crashed a number of times recently. To learn more:
+Mae'n ymddangos fod eich porwr wedi chwalu nifer o weithiau yn ddiweddar. Dysgu rhagor:
 
 
 ;OFF
-OFF
+DIFFODD
 
 
 ;Visit our <a href="%(sumo_url)s">support website</a>
-Visit our <a href="%(sumo_url)s">support website</a>
+Ymweld â'n <a href="%(sumo_url)s">gwefan cefnogaeth</a>
 
 
 ;View more <a href="%(details_url)s">detailed information</a>
-View more <a href="%(details_url)s">detailed information</a>
+Gweld rhagor o <a href="%(details_url)s">wybodaeth fanwl</a>
 
 
 ;pages visited
-pages visited
+tudalennau ymwelwyd â nhw
 
 
 ;Your browser seems to be running slower than usual. To learn more:
-Your browser seems to be running slower than usual. To learn more:
+Mae eich porwr i weld yn rhedeg yn arafach nag arfer. Dysgu rhagor:
 
 
 ;You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
-You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
+Y mwyaf y byddwch yn defnyddio eich porwr y mwyaf o wybodaeth ddiddorol a manwl y byddwch yn ei weld. Dewch nôl ymhen ychydig o wythnosau i weld y tueddiadau.
 
 
 ;Startup Time by Day
-Startup Time by Day
+Amser Cychwyn yn ôl Diwrnod
 
 
 ;Graph:
-Graph:
+Graff:
 
 
 ;Average
-Average
+Cyfartaledd
 
 
 ;All
-All
+Popeth
 
 
 ;Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
-Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
+Mae hyd amser cychwyn yn dangos pa mor dda mae eich porwr yn gweithio. Yn gyffredinol, mae amserau cyflym (h.y. llai o amser) yn awgrymu gwell perfformiad.
 
 
 ;Data Collected
-Data Collected
+Data wedi ei Gasglu
 
 
 ;Glossary
-Glossary
+Geirfa
 
 
 ;What the Firefox Health Report Measures
-What the Firefox Health Report Measures
+Beth mae Adroddiad Iechyd Firefox yn ei Fesur
 
 
 ;The Firefox Health Report (FHR) has 4 categories of metrics:
-The Firefox Health Report (FHR) has 4 categories of metrics:
+Mae gan Adroddiad Iechyd Firefox (FHR) 4 categori o fetrics:
 
 
 ;Configuration
-Configuration
+Ffurfweddiad
 
 
 ;Device hardware, operating system, Firefox version
-Device hardware, operating system, Firefox version
+Caledwedd dyfais, system weithredu, fersiwn Firefox
 
 
 ;Customizations
-Customizations
+Cyfaddasiadau
 
 
 ;Add-ons, count and type
-Add-ons, count and type
-
+Ychwanegion, cyfrif a math
 
 ;Performance
-Performance
+Perfformiad
 
 
 ;Timing of browser events, rendering, session restores
-Timing of browser events, rendering, session restores
+Amseru digwyddiadau'r porwr, llunio, adfer sesiynau
 
 
 ;Length of session, how old a profile is, count of crashes, count of pages
-Length of session, how old a profile is, count of crashes, count of pages
+Hyd sesiwn, pa mor hen yw'r proffil, nifer o chwalfeydd, cyfrif tudalennau
 
 
 ;Detailed Description
-Detailed Description
+Disgrifiad Manwl
 
 
 ;Metric
@@ -195,230 +194,225 @@ Metric
 
 
 ;Description
-Description
+Disgrifiad
 
 
 ;Binary interface for XPCOM
-Binary interface for XPCOM
+Rhyngwyneb didol XPCOM
 
 
 ;Identifier for this build of the application based on the date the build was started
-Identifier for this build of the application based on the date the build was started
+Dynodydd yr adeiledd yma o'r rhaglen wedi ei seilio ar ddyddiad cychwynnodd yr adeiledd
 
 
 ;Operating System for which this build was configured
-Operating System for which this build was configured
+Y System Weithredu ffurfweddwyd yr adeiledd ar gyfer 
 
 
 ;Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
-Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
+Dynodwr dosbarthiad penodol y rhaglen sy'n cael ei ddefnyddio. Mae'n cael ei gymryd o ddewisiadau'r <var>distribution.id</var>
 
 
 ;Version of the distribution, taken from the <var>distribution.version</var> preference
-Version of the distribution, taken from the <var>distribution.version</var> preference
+Fersiwn y dosbarthiad, wedi ei gymryd o ddewisiadau  <var>distribution.version</var>
 
 
 ;The version number of any Mozilla hotfix applied to the application
-The version number of any Mozilla hotfix applied to the application
+Rhif fersiwn unrhyw gywiriadau y mae Mozilla wedi eu gosod i'r rhaglen
 
 
 ;Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
-Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
+Dynodydd unigryw i'r rhaglen sy'n dangos p'un ai Firefox neu Thunderbird ydyw, ac yn y blaen. Yr un peth i'r holl osodiadau o raglen beth bynnag yw gwerth <var>appName</var>
 
 
 ;The configured name of the application (Firefox/Aurora/Nightly for instance)
-The configured name of the application (Firefox/Aurora/Nightly for instance)
+Enw ffurfwedig rhaglen (e.e. Firefox/Aurora/Nightly)
 
 
 ;The channel this installation checks for application updates (nightly/aurora/beta/release)
-The channel this installation checks for application updates (nightly/aurora/beta/release)
+Y sianel mae'r gosodiad yn cyfeirio ati am ddiweddariad rhaglen (nightly/aurora/beta/release)
 
 
 ;The name of the company/provider who built this version
-The name of the company/provider who built this version
+Enw'r cwmni/darparwr sydd wedi adeiladu'r fersiwn yma
 
 
 ;The current version of the product
-The current version of the product
+Fersiwn cyfredol y cynnyrch
 
 
 ;Number of processor cores
-Number of processor cores
+Nifer y creiddiau prosesu
 
 
 ;Whether the application is currently configured to be the default browser for the operating system
-Whether the application is currently configured to be the default browser for the operating system
+P'un ai yw'r rhaglen wedi ei ffurfweddu ar hyn o bryd i fod yn borwr rhagosodedig ar gyfer y system weithredu
 
 
 ;Locale currently being used
-Locale currently being used
+Lleoleiddiad sy'n cael ei ddefnyddio ar hyn o bryd
 
 
 ;Amount of RAM in megabytes
-Amount of RAM in megabytes
+Cyfanswm y RAM mewn megabeit
 
 
 ;Currently running Operating System (kernel) name
-Currently running Operating System (kernel) name
+Wrthi'n rhedeg System Weithredu (cnewyllyn) enw
 
 
 ;Currently running Operating System (kernel) version
-Currently running Operating System (kernel) version
-
+Wrthi'n rhedeg System Weithredu (cnewyllyn) fersiwn
 
 ;The build identifier of the Gecko platform code
-The build identifier of the Gecko platform code
+Dynodydd adeiledd platfform Gecko
 
 
 ;The version of the Gecko platform code
-The version of the Gecko platform code
+Fersiwn cod platfform Gecko
 
 
 ;Processor architecture
-Processor architecture
+Pensaernïaeth y prosesydd
 
 
 ;The date this version was first used with this installation profile
-The date this version was first used with this installation profile
+Dyddiad defnyddiwyd y fersiwn yma gyntaf gyda'r proffil gosod hwn
 
 
 ;An application version which has been used with this installation profile
-An application version which has been used with this installation profile
+Fersiwn rhaglen sydd wedi ei ddefnyddio gyda'r proffil gosod hwn
 
 
 ;The number of add-ons of this type that existed in the profile on this date
-The number of add-ons of this type that existed in the profile on this date
+Nifer yr ychwanegion o'r math yma oedd yn bodoli yn y proffil ar y dyddiad yma
 
 
 ;<var>True</var> if the application automatically disabled the add-on
-<var>True</var> if the application automatically disabled the add-on
+<var>True</var> os yw'r rhaglen wedi analluogi'r ychwanegyn yn awtomatig
 
 
 ;Whether this add-on was installed by the user or automatically by another application
-Whether this add-on was installed by the user or automatically by another application
+P'un ai yw'r ychwanegyn wedi ei osod gan y defnyddiwr neu yn awtomatig gan raglen arall
 
 
 ;Whether this add-on has native code.
-Whether this add-on has native code.
+P'un ai os oes gan yr ychwanegyn god cynhenid.
 
 
 ;The identifier of this add-on as defined by the add-on developer
-The identifier of this add-on as defined by the add-on developer
+Dynodwr yr ychwanegyn hwn fel ag y mae wedi ei ddiffinio gan ddatblygwr yr ychwanegyn
 
 
 ;The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
-The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
+Y dyddiad diwethaf i'r ychwanegyn gael ei osod (nid yw gwybodaeth am ychwanegyn sydd wedi ei ddadosod yn cael ei gadw).
 
 
 ;The number of searches performed with this search engine from this part of the UI
-The number of searches performed with this search engine from this part of the UI
+Nifer y chwilio gan y peiriant chwilio o'r adran hon o'r rhyngwyneb defnyddiwr
 
 
 ;Whether this add-on was installed in the application directory or profile directory
-Whether this add-on was installed in the application directory or profile directory
+P'un ai yw'r ychwanegyn wedi ei osod yng nghyfeiriadur y rhaglen neu gyfeiriadur y proffil
 
 
 ;Whether this add-on is an extension or a plug-in
-Whether this add-on is an extension or a plug-in
+P'un ai yw'r ychwanegyn yn estyniad neu ategyn
 
 
 ;The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
-The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
+Y dyddiad diwethaf i'r ychwanegyn gael ei ddiweddaru (nid yw gwybodaeth am ychwanegyn sydd wedi ei ddadosod yn cael ei gadw).
 
 
 ;<var>True</var> if the user manually disabled the add-on
-<var>True</var> if the user manually disabled the add-on
+<var>True</var> os yw'r defnyddiwr wedi analluogi'r ychwanegyn â llaw
 
 
 ;The current version of this add-on
-The current version of this add-on
+Fersiwn cyfredol yr ychwanegyn
 
 
 ;How long in milliseconds it took during startup for the application to render the UI and display the window
-How long in milliseconds it took during startup for the application to render the UI and display the window
+Pa mor hir mewn milfed eiliad, wrth gychwyn y rhaglen iddi lunio'r rhyngwyneb defnyddiwr a dangos y ffenestr
 
 
 ;How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
-How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
+Pa mor hir mewn milfed eiliad, wrth gychwyn y rhaglen iddi lwytho llyfrgelloedd a chwblhau'r cychwyn sylfaenol
 
 
 ;How long in milliseconds it took during startup for the application to restore tabs from the previous session
-How long in milliseconds it took during startup for the application to restore tabs from the previous session
+Pa mor hir mewn milfed eiliad, wrth gychwyn y rhaglen iddi adfer tabiau o'r sesiwn diwethaf
 
 
 ;The number of times the application was run and not cleanly shut down.
-The number of times the application was run and not cleanly shut down.
+Nifer o weithiau cafodd y rhaglen ei rhedeg ond heb ei chau'n lân.
 
 
 ;The time in seconds that the aborted sessions were not idle
-The time in seconds that the aborted sessions were not idle
+Y cyfnod mewn eiliadau nad oedd y sesiynau diddymwyd yn segur
 
 
 ;The time in seconds that the aborted sessions were running
-The time in seconds that the aborted sessions were running
+Y cyfnod mewn eiliadau roedd y sesiynau diddymwyd yn rhedeg
 
 
 ;The number of days since this application profile directory was created
-The number of days since this application profile directory was created
+Nifer y diwrnodau ers creu cyfeiriadur proffil y rhaglen
 
 
 ;The number of times the application was run and cleanly shut down.
-The number of times the application was run and cleanly shut down.
+Nifer o weithiau cafodd y rhaglen ei rhedeg a'i chau'n lân.
 
 
 ;The time in seconds that the completed sessions were not idle
-The time in seconds that the completed sessions were not idle
+Y cyfnod mewn eiliadau nad oedd y sesiynau cwblhawyd yn segur
 
 
 ;The time in seconds that the completed sessions were running
-The time in seconds that the completed sessions were running
+Y cyfnod mewn eiliadau roedd y sesiynau cwblhawyd yn rhedeg
 
 
 ;Total number of crashes that were recorded but not yet submitted
-Total number of crashes that were recorded but not yet submitted
+Cyfanswm nifer y chwalu cofnodwyd ond heb eu cyflwyno eto
 
 
 ;Total number of crashes that have been submitted
-Total number of crashes that have been submitted
+Cyfanswm nifer y chwalu sydd wedi eu cyflwyno
 
 
 ;Time in seconds the app has not been idle
-Time in seconds the app has not been idle
+Cyfnod mewn eiliadau nad yw'r ap wedi bod yn segur
 
 
 ;Time in seconds since the app was last started
-Time in seconds since the app was last started
+Cyfnod mewn eiliadau ers i'r ap gael ei gychwyn diwethaf
 
 
 ;Total number of bookmarks
-Total number of bookmarks
+Cyfanswm nifer y nodau tudalen
 
 
 ;Total number of pages listed in the history
-Total number of pages listed in the history
+Cyfanswm nifer y tudalennau sydd yn yr hanes
 
 
 ;How long in minutes the current session has been running
-How long in minutes the current session has been running
+Pa mor hir, mewn munudau, mae'r sesiwn gyfredol wedi bod yn rhedeg
 
 
 ;Welcome to your Firefox Health Report
-Welcome to your Firefox Health Report
+Croeso i'ch Adroddiad Iechyd Firefox
 
 
 ;Welcome!
-Welcome!
+Croeso!
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
-Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
+Mae Adroddiad Iechyd Firefox yn caniatáu i chi wybod sut mae eich Firefox yn perfformio a beth allwch ei wneud i'w wella.
 
 
 ;See My Report
-See My Report
-
-
-;Time (in seconds)
-Time (in seconds)
+Gweld fy Adroddiad
 
 
