@@ -1,5 +1,5 @@
 ;Firefox Health Report
-Firefoxovo poročilo o stanju
+Zdravniško spričevalo za Firefox
 
 
 ;Raw Data
@@ -7,15 +7,15 @@ Neobdelani podatki
 
 
 ;Get insights and performance information about your version of Firefox.
-Pridobite vpogled in informacije o učinkovitosti delovanja vašega Firefoxa.
+Pridobite vpogled in podatke o učinkovitosti delovanja vašega Firefoxa.
 
 
 ;Learn more...
-Več o tem...
+Več o tem ...
 
 
 ;Data Sharing
-Skupna raba podatkov
+Skupna raba
 
 
 ;ON
@@ -27,7 +27,7 @@ Ustavili ste skupno rabo podatkov z Mozillo, vendar lahko še vedno spremljate d
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
-Vaše poročilo o stanju bo odstranjeno tudi z Mozillinih strežnikov. Več o tem v <a href="%(privacy_url)s">pravilniku o zasebnosti.</a>
+Podatki vašega zdravniškega poročila bodo odstranjeni tudi z Mozillinih strežnikov. Več o tem v <a href="%(privacy_url)s">politiki zasebnosti.</a>
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
@@ -35,18 +35,18 @@ Izbrali ste občasno skupno rabo svojih podatkov z Mozillo. Hvala, ker ste del n
 
 
 ;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
-Kako ravnamo v vašimi podatki lahko izveste v <a href="%(privacy_url)s">pravilniku o zasebnosti.</a>
+Kako ravnamo v vašimi podatki lahko izveste v <a href="%(privacy_url)s">politiki zasebnosti.</a>
 
 
 ;Vital Stats
-Bistvene informacije
+Ključni podatki
 
 
 ;version
-verzija
+različica
 
 ;time open
-trajanje povezave
+čas delovanja
 
 
 ;last crash
@@ -74,15 +74,15 @@ Ogled seznama
 
 
 ;enabled
-omogočeno
+omogočeni
 
 
 ;disabled
-onemogočeno
+onemogočeni
 
 
 ;Plugins
-Vtičniki
+Vstavki
 
 
 ;Tips
@@ -122,7 +122,7 @@ Zanimivejše in natančnejše informacije boste dobili s pogosto rabo brskalnika
 
 
 ;Startup Time by Day
-Čas zagona po dnevih
+Zagonski čas po dnevih
 
 
 ;Graph:
@@ -138,7 +138,7 @@ Skupaj
 
 
 ;Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
-Čas zagona pomaga določiti, kako dobro deluje vaša verzija Firefoxa. V splošnem hitrejši časi (tj. manj časa) kažejo boljšo učinkovitost delovanja.
+Zagonski čas pomaga določiti, kako dobro deluje vaša različica Firefoxa. V splošnem hitrejši časi (tj. manj časa) kažejo boljšo učinkovitost delovanja.
 
 
 ;Data Collected
@@ -150,19 +150,19 @@ Slovar
 
 
 ;What the Firefox Health Report Measures
-Kaj meri Firefoxo poročilo o stanju
+Kaj meri zdravniško spričevalo za Firefox
 
 
 ;The Firefox Health Report (FHR) has 4 categories of metrics:
-Firefoxo poročilo o stanju (FPS) vsebuje 4 kategorije metrik:
+Zdravniško spričevalo za Firefox vsebuje 4 kategorije metrik:
 
 
 ;Configuration
-Konfiguracija
+Nastavitve
 
 
 ;Device hardware, operating system, Firefox version
-Strojna oprema naprave, operacijski sistem, verzija Firefoxa
+Strojna oprema, operacijski sistem in različica Firefoxa
 
 
 ;Customizations
@@ -170,19 +170,19 @@ Prilagoditve
 
 
 ;Add-ons, count and type
-Dodatki, število in vrsta
+Dodatki, njihovo število in vrsta
 
 
 ;Performance
-Učinkovitost delovanja
+Učinkovitost
 
 
 ;Timing of browser events, rendering, session restores
-Časovna uskladitev dogodkov brskalnika, upodabljanje, obnovitve seje
+Trajanje dogodkov brskalnika, upodabljanja in obnovitve sej
 
 
 ;Length of session, how old a profile is, count of crashes, count of pages
-Trajanje seje, starost profila, štetje sesutij, štetje strani
+Trajanje seje, starost profila, število sesutij in število strani
 
 
 ;Detailed Description
@@ -214,11 +214,11 @@ Identifikator podrobnosti aplikacije v rabi. Vzet iz nastavitve <var>distributio
 
 
 ;Version of the distribution, taken from the <var>distribution.version</var> preference
-Verzija distribucije, vzeta iz nastavitve <var>distribution.version</var>
+Različica distribucije, vzeta iz nastavitve <var>distribution.version</var>
 
 
 ;The version number of any Mozilla hotfix applied to the application
-Številka verzije Mozillinega sprotnega popravka uporabljenega v aplikaciji
+Številka različice Mozillinega sprotnega popravka uporabljenega v aplikaciji
 
 
 ;Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
@@ -234,11 +234,11 @@ Kanal na katerem namestitev preverja posodobitve aplikacije (nightly/aurora/beta
 
 
 ;The name of the company/provider who built this version
-Ime podjetja/ponudnika, ki je izdelal verzijo
+Ime podjetja/ponudnika, ki je izdelal to različico
 
 
 ;The current version of the product
-Trenutna verzija produkta
+Trenutna različica izdelka
 
 
 ;Number of processor cores
@@ -262,15 +262,15 @@ Ime operacijskega sistema v teku (jedro)
 
 
 ;Currently running Operating System (kernel) version
-Verzija operacijskega sistema v teku (jedro)
+Različica operacijskega sistema v teku (jedro)
 
 
 ;The build identifier of the Gecko platform code
-Identifikator graditve kode Gecko platforme
+Identifikator graditve kode platforme Gecko
 
 
 ;The version of the Gecko platform code
-Verzija kode Gecko platforme
+Različica kode platforme Gecko
 
 
 ;Processor architecture
@@ -278,11 +278,11 @@ Arhitektura procesoja
 
 
 ;The date this version was first used with this installation profile
-Datum prve uporabe te verzije s tem namestitvenim profilom
+Datum prve uporabe te različice s tem namestitvenim profilom
 
 
 ;An application version which has been used with this installation profile
-Verzija aplikacije uporabljene s tem namestitvenim profilom
+Različica aplikacije, uporabljene s tem namestitvenim profilom
 
 
 ;The number of add-ons of this type that existed in the profile on this date
@@ -326,27 +326,27 @@ Zadnji datum posodobitve tega dodatka(predhodna informacija o odstranjenem dodat
 
 
 ;<var>True</var> if the user manually disabled the add-on
-<var>True</var> če je uporabnik ročno onemogočil ta dodatek
+<var>True</var>, če je uporabnik ročno onemogočil ta dodatek
 
 
 ;The current version of this add-on
-Trenutna verzija tega dodatka
+Trenutna različica tega dodatka
 
 
 ;How long in milliseconds it took during startup for the application to render the UI and display the window
-Kako časa v milisekundah traja, da aplikacija ob zagonu upodobi uporabniški vmesnik in prikaže okno
+Koliko časa v milisekundah traja, da aplikacija ob zagonu upodobi uporabniški vmesnik in prikaže okno
 
 
 ;How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
-Kako časa v milisekundah traja, da aplikacija ob zagonu naloži knjižnice in opravi osnovno inicializacijo
+Koliko časa v milisekundah traja, da aplikacija ob zagonu naloži knjižnice in opravi osnovno inicializacijo
 
 
 ;How long in milliseconds it took during startup for the application to restore tabs from the previous session
-Kako časa v milisekundah traja, da aplikacija ob zagonu obnovi zavihke iz prejšnje seje
+Koliko časa v milisekundah traja, da aplikacija ob zagonu obnovi zavihke iz prejšnje seje
 
 
 ;The number of times the application was run and not cleanly shut down.
-Kolikokrat je bila aplikacija zagnana in ni bila popolnoma zaustavljena.
+Kolikokrat je bila aplikacija zagnana in ni bila zaustavljena brez napak.
 
 
 ;The time in seconds that the aborted sessions were not idle
@@ -358,11 +358,11 @@ Kolikokrat je bila aplikacija zagnana in ni bila popolnoma zaustavljena.
 
 
 ;The number of days since this application profile directory was created
-Število dni odkar je bila ustvarjena mapa profila te aplikacije
+Število dni, odkar je bila ustvarjena mapa profila te aplikacije
 
 
 ;The number of times the application was run and cleanly shut down.
-Kolikokrat je bila aplikacija zagnana in popolnoma zaustavljena.
+Kolikokrat je bila aplikacija zagnana in zaustavljena brez napak.
 
 
 ;The time in seconds that the completed sessions were not idle
@@ -401,7 +401,7 @@ Koliko časa v minutah teče trenutna seja
 
 
 ;Welcome to your Firefox Health Report
-Dobrodošli v svojem Firefoxovem poročilu o stanju
+Dobrodošli v Zdravniškem spričevalu za Firefox
 
 
 ;Welcome!
@@ -409,7 +409,7 @@ Dobrodošli!
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
-Firefoxovo poročilo o stanju vas obvešča o delovanju vašega Firefoxa in o tem, kaj lahko storite, da ga izboljšate.
+Zdravniško spričevalo za Firefox vas obvešča o delovanju vašega Firefoxa in o tem, kaj lahko storite, da ga izboljšate.
 
 
 ;See My Report
