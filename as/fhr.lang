@@ -221,6 +221,7 @@ XPCOM ৰ বাবে বাইনাৰি আন্তঃপৃষ্ঠ
 ;The version number of any Mozilla hotfix applied to the application
 এপ্লিকেচনত প্ৰয়োগ কৰা যিকোনো Mozilla হটফিক্সৰ সংস্কৰণ নম্বৰ
 
+
 ;Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
 এপ্লিকেচনৰ বাবে অবিকল্প পৰিচয়ক যি ই Firefox অথবা Thunderbird, ইত্যাদি চিনাক্ত কৰে। <var>appName</var> মান নেওচি এটা এপ্লিকেচনৰ সকলো ইনস্টলেষণৰ বাবে একে।
 
@@ -283,6 +284,7 @@ Gecko প্লেটফৰ্ম ক'ডৰ সংস্কৰণ
 
 ;An application version which has been used with this installation profile
 এটা এপ্লিকেচন সংস্কৰণ যি এই ইনস্টলেষণ আলেখ্যাৰ সৈতে ব্যৱহাৰ কৰা হৈছে
+
 
 ;The number of add-ons of this type that existed in the profile on this date
 এই তাৰিখৰ আলেখ্যত অস্তিত্ববান এই ধৰণৰ এড-অনৰ সংখ্যা
@@ -414,5 +416,9 @@ Firefox স্বাস্থ্য সংবাদে আপোনাৰ Firefo
 
 ;See My Report
 মোৰ সংবাদ চাওক
+
+
+;Time (in seconds)
+Time (in seconds)
 
 

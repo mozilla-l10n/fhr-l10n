@@ -61,6 +61,7 @@ marcadores
 ;This Month
 Este mes
 
+
 ;crashes
 fallos
 
@@ -188,6 +189,7 @@ Length of session, how old a profile is, count of crashes, count of pages
 ;Detailed Description
 Descripción detallada
 
+
 ;Metric
 Metric
 
@@ -251,11 +253,14 @@ Whether the application is currently configured to be the default browser for th
 ;Locale currently being used
 Localización actualmente en uso (idioma)
 
+
 ;Amount of RAM in megabytes
 Cantidad de RAM en megabytes
 
+
 ;Currently running Operating System (kernel) name
 Nombre del Sistema operativo (núcleo) actualmente en uso
+
 
 ;Currently running Operating System (kernel) version
 Versión del Sistema operativo (núcleo) actualmente en uso
@@ -411,5 +416,9 @@ Firefox Health Report lets you know how your Firefox is performing and what you 
 
 ;See My Report
 Ver mi reporte
+
+
+;Time (in seconds)
+Time (in seconds)
 
 

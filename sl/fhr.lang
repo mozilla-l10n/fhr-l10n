@@ -45,6 +45,7 @@ Ključni podatki
 ;version
 različica
 
+
 ;time open
 čas delovanja
 
@@ -388,6 +389,7 @@ Kolikokrat je bila aplikacija zagnana in zaustavljena brez napak.
 ;Time in seconds since the app was last started
 Čas v sekundah, odkar je bil program nazadnje zagnan
 
+
 ;Total number of bookmarks
 Skupno število zaznamkov
 
@@ -414,5 +416,9 @@ Zdravniško spričevalo za Firefox vas obvešča o delovanju vašega Firefoxa in
 
 ;See My Report
 Prikaži moje poročilo
+
+
+;Time (in seconds)
+Time (in seconds)
 
 

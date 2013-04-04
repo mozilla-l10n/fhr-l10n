@@ -249,6 +249,7 @@ numero dei motori di calcolo (core) del processore
 ;Whether the application is currently configured to be the default browser for the operating system
 Se l'applicazione è attualmente configurata come browser predefinito del sistema operativo
 
+
 ;Locale currently being used
 Locale attualmente in uso
 
@@ -287,6 +288,7 @@ Una versione dell'applicazione che ha utilizzato questo profilo
 
 ;The number of add-ons of this type that existed in the profile on this date
 Il numero di componenti aggiuntivi di questo tipo presenti nel profilo in questa data
+
 
 ;<var>True</var> if the application automatically disabled the add-on
 <var>True</var> se l'applicazione ha disattivato il componente aggiuntivo automaticamente
@@ -414,5 +416,9 @@ Analisi integrità di Firefox (<abbr title="Firefox Health Report">FHR</abbr>) p
 
 ;See My Report
 Mostra i miei dati
+
+
+;Time (in seconds)
+Time (in seconds)
 
 

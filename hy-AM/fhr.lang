@@ -1,5 +1,6 @@
-﻿;Firefox Health Report
+;Firefox Health Report
 Firefox-ի վիճակի մասին զեկույց
+
 
 ;Raw Data
 Չմշակված տվյալներ
@@ -150,7 +151,7 @@ Firefox-ի վիճակի մասին զեկույց
 
 
 ;What the Firefox Health Report Measures
-Ի՞նչ է որոշում Firefox-ի վիճակի մասին զեկույցը 
+Ի՞նչ է որոշում Firefox-ի վիճակի մասին զեկույցը
 
 
 ;The Firefox Health Report (FHR) has 4 categories of metrics:
@@ -223,6 +224,7 @@ Mozilla hotfix-ի ցանկացած տարբերակը՝ կիրառված ծրա�
 
 ;Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
 Որոշիչը բացառիկ է ծրագրերի համար։ Այն ցուցադրում է արդյոք ծրագիրը Firefox-ն է, թե Thunderbird-ը։ Միևնույնն է ծրագրի բոլոր կարգավորումների համար՝ անկախ նշանակությունից <var>appName</var>
+
 
 ;The configured name of the application (Firefox/Aurora/Nightly for instance)
 Ծրագրի նախորոշված անունը (Firefox/Aurora/Nightly օրինակի համար)
@@ -359,6 +361,7 @@ Gecko հիմնահարթակի կոդի տարբերակը
 ;The number of days since this application profile directory was created
 Քանի օր առաջ է ստեղծվել ծրագրի պրոֆիլի թղթապանակը
 
+
 ;The number of times the application was run and cleanly shut down.
 Քանի անգամ է ծրագիրը բացվել և կոռեկտ փակվել։
 
@@ -369,6 +372,7 @@ Gecko հիմնահարթակի կոդի տարբերակը
 
 ;The time in seconds that the completed sessions were running
 Ժամանակը վայրկյաններով, երբ ավարտված աշխատաշրջանները աշխատել են
+
 
 ;Total number of crashes that were recorded but not yet submitted
 Ձախողումների քանակը, որոնք գրանցվել են, բայց չեն ուղարկվել
@@ -412,5 +416,9 @@ Firefox-ի վիճակի մասին զեկույցը հնարավորությու
 
 ;See My Report
 Նայել իմ զեկույցը
+
+
+;Time (in seconds)
+Time (in seconds)
 
 

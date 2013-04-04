@@ -337,6 +337,7 @@ Phiên bản hiện tại của add-on này
 ;How long in milliseconds it took during startup for the application to render the UI and display the window
 Thời gian thuộc quá trình khởi động (tính bằng mili giây) ứng dụng cần để render giao diện đồ họa và hiển thị cửa sổ
 
+
 ;How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
 Thời gian thuộc quá trình khởi động (tính bằng mili giây) ứng dụng cần để nạp thư viện và hoàn tất quá trình khởi tạo cơ bản
 
@@ -415,5 +416,9 @@ Báo Cáo Sức Khỏe Firefox giúp bạn biết Firefox của bạn đang vậ
 
 ;See My Report
 Xem Báo Cáo
+
+
+;Time (in seconds)
+Time (in seconds)
 
 

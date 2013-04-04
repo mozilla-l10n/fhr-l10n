@@ -21,6 +21,7 @@
 ;ON
 Ενεργό
 
+
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
 Παρόλο που επιλέξατε να σταματήσετε την κοινοποίηση δεδομένων στο έργο Mozilla, θα μπορείτε να δείτε πληροφορίες για την κατάσταση του περιηγητή σας.
 
@@ -111,6 +112,7 @@
 
 ;pages visited
 Σελίδες που επισκεφθείκατε
+
 
 ;Your browser seems to be running slower than usual. To learn more:
 Ο περιηγητής σας φαίνεται να λειτουργεί πιο αργά από το κανονικό. Για να μάθετε περισσότερα:
@@ -414,5 +416,9 @@
 
 ;See My Report
 Προβολή της αναφοράς μου
+
+
+;Time (in seconds)
+Time (in seconds)
 
 

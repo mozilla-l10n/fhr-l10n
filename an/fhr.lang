@@ -1,4 +1,4 @@
-﻿;Firefox Health Report
+;Firefox Health Report
 Informe de Salut de Firefox
 
 
@@ -92,6 +92,7 @@ Estrucias
 
 ;Wear and Tear
 Danyos por uso
+
 
 ;It looks like your browser has crashed a number of times recently. To learn more:
 Pareix que o tuyo navegador s'ha penchau quantas veces en zagueras. Ta saber-ne mas:
@@ -415,5 +416,9 @@ L'Informe de Salut de Firefox te permite de conoixer millor cómo ye funcionando
 
 ;See My Report
 Veyer o mío Informe
+
+
+;Time (in seconds)
+Time (in seconds)
 
 
