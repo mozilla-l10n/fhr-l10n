@@ -239,11 +239,11 @@ Il nome della società o del fornitore che ha sviluppato la versione in uso
 
 
 ;The current version of the product
-L'attuale versione del prodotto in uso.
+L'attuale versione del prodotto in uso
 
 
 ;Number of processor cores
-numero dei motori di calcolo (core) del processore
+Numero dei motori di calcolo (core) del processore
 
 
 ;Whether the application is currently configured to be the default browser for the operating system
@@ -419,7 +419,7 @@ Mostra i miei dati
 
 
 ;Time (in seconds)
-Time (in seconds)
+Durata (in secondi)
 
 
 ;Show Statistics
