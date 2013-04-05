@@ -7,7 +7,7 @@ Data Crai
 
 
 ;Get insights and performance information about your version of Firefox.
-Derbyn gwybodaeth am ddefnydd a pherfformiad am eich fersiwn o Firefox
+Derbyn gwybodaeth am ddefnydd a pherfformiad eich fersiwn chi o Firefox
 
 
 ;Learn more...
@@ -23,7 +23,7 @@ YMLAEN
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
-Rydych wedi penderfynu peidio √¢ rhannu data gyda Mozilla, ond mae modd i chi dal i weld sut mae eich porwr yn perfformio.
+Rydych wedi penderfynu peidio ‚ rhannu data gyda Mozilla, ond mae modd i chi dal i weld sut mae eich porwr yn perfformio.
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
@@ -47,7 +47,7 @@ fersiwn
 
 
 ;time open
-amser ar agor
+cyfnod ar agor
 
 
 ;last crash
@@ -103,7 +103,7 @@ DIFFODD
 
 
 ;Visit our <a href="%(sumo_url)s">support website</a>
-Ymweld √¢'n <a href="%(sumo_url)s">gwefan cefnogaeth</a>
+Ymweld ‚'n <a href="%(sumo_url)s">gwefan cefnogaeth</a>
 
 
 ;View more <a href="%(details_url)s">detailed information</a>
@@ -111,7 +111,7 @@ Gweld rhagor o <a href="%(details_url)s">wybodaeth fanwl</a>
 
 
 ;pages visited
-tudalennau ymwelwyd √¢ nhw
+tudalennau ymwelwyd ‚ nhw
 
 
 ;Your browser seems to be running slower than usual. To learn more:
@@ -119,11 +119,11 @@ Mae eich porwr i weld yn rhedeg yn arafach nag arfer. Dysgu rhagor:
 
 
 ;You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
-Y mwyaf y byddwch yn defnyddio eich porwr y mwyaf o wybodaeth ddiddorol a manwl y byddwch yn ei weld. Dewch n√¥l ymhen ychydig o wythnosau i weld y tueddiadau.
+Y mwyaf y byddwch yn defnyddio eich porwr y mwyaf o wybodaeth ddiddorol a manwl y byddwch yn ei weld. Dewch nÙl ymhen ychydig o wythnosau i weld y tueddiadau.
 
 
 ;Startup Time by Day
-Amser Cychwyn yn √¥l Diwrnod
+Amser Cychwyn yn Ùl Diwrnod
 
 
 ;Graph:
@@ -155,7 +155,7 @@ Beth mae Adroddiad Iechyd Firefox yn ei Fesur
 
 
 ;The Firefox Health Report (FHR) has 4 categories of metrics:
-Mae gan Adroddiad Iechyd Firefox (FHR) 4 categori o fetrics:
+Mae gan Adroddiad Iechyd Firefox (FHR) 4 math o fesuryddion:
 
 
 ;Configuration
@@ -172,7 +172,6 @@ Cyfaddasiadau
 
 ;Add-ons, count and type
 Ychwanegion, cyfrif a math
-
 
 ;Performance
 Perfformiad
@@ -191,7 +190,7 @@ Disgrifiad Manwl
 
 
 ;Metric
-Metric
+Mesurydd
 
 
 ;Description
@@ -207,7 +206,7 @@ Dynodydd yr adeiledd yma o'r rhaglen wedi ei seilio ar ddyddiad cychwynnodd yr a
 
 
 ;Operating System for which this build was configured
-Y System Weithredu ffurfweddwyd yr adeiledd ar gyfer
+Y System Weithredu ffurfweddwyd yr adeiledd ar ei gyfer 
 
 
 ;Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
@@ -223,7 +222,7 @@ Rhif fersiwn unrhyw gywiriadau y mae Mozilla wedi eu gosod i'r rhaglen
 
 
 ;Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
-Dynodydd unigryw i'r rhaglen sy'n dangos p'un ai Firefox neu Thunderbird ydyw, ac yn y blaen. Yr un peth i'r holl osodiadau o raglen beth bynnag yw gwerth <var>appName</var>
+Dynodydd sy'n unigryw i'r rhaglen ac yn dangos p'un ai Firefox neu Thunderbird ydyw, ac yn y blaen. Yr un peth i'r holl osodiadau raglen beth bynnag yw gwerth <var>appName</var>
 
 
 ;The configured name of the application (Firefox/Aurora/Nightly for instance)
@@ -259,12 +258,11 @@ Cyfanswm y RAM mewn megabeit
 
 
 ;Currently running Operating System (kernel) name
-Wrthi'n rhedeg System Weithredu (cnewyllyn) enw
+Enw'r System Weithredu (cnewyllyn) sy'n rhedeg ar hyn o bryd
 
 
 ;Currently running Operating System (kernel) version
-Wrthi'n rhedeg System Weithredu (cnewyllyn) fersiwn
-
+Fersiwn y System Weithredu (cnewyllyn) sy'n rhedeg ar hyn o bryd
 
 ;The build identifier of the Gecko platform code
 Dynodydd adeiledd platfform Gecko
@@ -275,7 +273,7 @@ Fersiwn cod platfform Gecko
 
 
 ;Processor architecture
-Pensaern√Øaeth y prosesydd
+PensaernÔaeth y prosesydd
 
 
 ;The date this version was first used with this installation profile
@@ -327,7 +325,7 @@ Y dyddiad diwethaf i'r ychwanegyn gael ei ddiweddaru (nid yw gwybodaeth am ychwa
 
 
 ;<var>True</var> if the user manually disabled the add-on
-<var>True</var> os yw'r defnyddiwr wedi analluogi'r ychwanegyn √¢ llaw
+<var>True</var> os yw'r defnyddiwr wedi analluogi'r ychwanegyn ‚ llaw
 
 
 ;The current version of this add-on
@@ -347,7 +345,7 @@ Pa mor hir mewn milfed eiliad, wrth gychwyn y rhaglen iddi adfer tabiau o'r sesi
 
 
 ;The number of times the application was run and not cleanly shut down.
-Nifer o weithiau cafodd y rhaglen ei rhedeg ond heb ei chau'n l√¢n.
+Nifer o weithiau cafodd y rhaglen ei rhedeg ond heb ei chau'n l‚n.
 
 
 ;The time in seconds that the aborted sessions were not idle
@@ -363,7 +361,7 @@ Nifer y diwrnodau ers creu cyfeiriadur proffil y rhaglen
 
 
 ;The number of times the application was run and cleanly shut down.
-Nifer o weithiau cafodd y rhaglen ei rhedeg a'i chau'n l√¢n.
+Nifer o weithiau cafodd y rhaglen ei rhedeg a'i chau'n l‚n.
 
 
 ;The time in seconds that the completed sessions were not idle
@@ -411,7 +409,7 @@ Croeso!
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
-Mae Adroddiad Iechyd Firefox yn caniat√°u i chi wybod sut mae eich Firefox yn perfformio a beth allwch ei wneud i'w wella.
+Mae Adroddiad Iechyd Firefox yn caniat·u i chi wybod sut mae eich Firefox yn perfformio a beth allwch ei wneud i'w wella.
 
 
 ;See My Report
