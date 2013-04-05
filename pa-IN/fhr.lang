@@ -154,8 +154,8 @@ Startup time helps determine how well your version of Firefox is performing. In 
 ਫਾਇਰਫਾਕਸ ਹਾਲਤ ਰਿਪੋਰਟ ਕੀ ਮਾਪਦੀ ਹੈ
 
 
-;The Firefox Health Report (FHR) has 5 categories of metrics:
-ਫਾਇਰਫਾਕਸ ਹਾਲਤ ਰਿਪੋਰਟ (FHR) ਕੋਲ 5 ਵਰਗਾਂ ਦੀ ਸਾਰਣੀ ਹੈ:
+;The Firefox Health Report (FHR) has 4 categories of metrics:
+The Firefox Health Report (FHR) has 4 categories of metrics:
 
 
 ;Configuration
@@ -416,5 +416,13 @@ Firefox Health Report lets you know how your Firefox is performing and what you 
 
 ;See My Report
 ਮੇਰੀ ਰਿਪੋਰਟ ਵੇਖੋ
+
+
+;Time (in seconds)
+Time (in seconds)
+
+
+;Show Statistics
+Show Statistics
 
 

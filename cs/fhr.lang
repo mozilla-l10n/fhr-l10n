@@ -31,11 +31,11 @@ Vaše data z hlášení o zdraví budou též odebrána ze serverů Mozilly. Př
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
-Zvolil(a) jste čas od času sdílení svých dat s Mozillou. Děkujeme, že jste součástí naší mise, v rámci které budujeme lepší budoucnost webu. 
+Zvolil(a) jste čas od času sdílení svých dat s Mozillou. Děkujeme, že jste součástí naší mise, v rámci které budujeme lepší budoucnost webu.
 
 
 ;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
-Přečtěte si, jak zpracováváme vaše data, v našich <a href="%(privacy_url)s">zásadách ochrany soukromí</a>. 
+Přečtěte si, jak zpracováváme vaše data, v našich <a href="%(privacy_url)s">zásadách ochrany soukromí</a>.
 
 
 ;Vital Stats
@@ -181,6 +181,7 @@ Výkon
 ;Timing of browser events, rendering, session restores
 Délka trvání událostí prohlížeče, vykreslování, obnovy relací
 
+
 ;Length of session, how old a profile is, count of crashes, count of pages
 Délka relace, stáří uživatelského profilu, počet pádů, počet stránek
 
@@ -208,6 +209,7 @@ Identifier for this build of the application based on the date the build was sta
 ;Operating System for which this build was configured
 Operační systém, pro který bylo toto sestavení nakonfigurováno
 
+
 ;Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
 Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
 
@@ -217,7 +219,7 @@ Verze distribuce, která je převzata z předvolby <var>distribution.version</va
 
 
 ;The version number of any Mozilla hotfix applied to the application
-Číslo verze libovolného hotfixu, který byl nainstalován do aplikace 
+Číslo verze libovolného hotfixu, který byl nainstalován do aplikace
 
 
 ;Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
@@ -313,7 +315,7 @@ The number of searches performed with this search engine from this part of the U
 
 
 ;Whether this add-on was installed in the application directory or profile directory
-Zda byl tento doplněk nainstalován do adresáře s aplikací či do adresáře s uživatelským profilem 
+Zda byl tento doplněk nainstalován do adresáře s aplikací či do adresáře s uživatelským profilem
 
 
 ;Whether this add-on is an extension or a plug-in
@@ -325,7 +327,7 @@ The most recent date this add-on was updated (previous information about an unin
 
 
 ;<var>True</var> if the user manually disabled the add-on
-<var>True</var>, pokud uživatel ručně zakázal doplněk 
+<var>True</var>, pokud uživatel ručně zakázal doplněk
 
 
 ;The current version of this add-on
@@ -420,8 +422,7 @@ Zobrazení mých hlášení
 Čas (v sekundách)
 
 
-
-
 ;Show Statistics
 Zobrazit statistiku
+
 
