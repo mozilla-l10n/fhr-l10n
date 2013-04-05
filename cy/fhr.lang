@@ -173,6 +173,7 @@ Cyfaddasiadau
 ;Add-ons, count and type
 Ychwanegion, cyfrif a math
 
+
 ;Performance
 Perfformiad
 
@@ -206,7 +207,7 @@ Dynodydd yr adeiledd yma o'r rhaglen wedi ei seilio ar ddyddiad cychwynnodd yr a
 
 
 ;Operating System for which this build was configured
-Y System Weithredu ffurfweddwyd yr adeiledd ar gyfer 
+Y System Weithredu ffurfweddwyd yr adeiledd ar gyfer
 
 
 ;Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
@@ -263,6 +264,7 @@ Wrthi'n rhedeg System Weithredu (cnewyllyn) enw
 
 ;Currently running Operating System (kernel) version
 Wrthi'n rhedeg System Weithredu (cnewyllyn) fersiwn
+
 
 ;The build identifier of the Gecko platform code
 Dynodydd adeiledd platfform Gecko
@@ -422,4 +424,5 @@ Time (in seconds)
 
 ;Show Statistics
 Dangos Ystadegau
+
 
