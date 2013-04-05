@@ -1,25 +1,25 @@
 ;Firefox Health Report
-Firefox Health Report
+ਫਾਇਰਫਾਕਸ ਹਾਲਤ ਰਿਪੋਰਟ
 
 
 ;Raw Data
-Raw Data
+ਅਣਸੋਧਿਆ ਡਾਟਾ
 
 
 ;Get insights and performance information about your version of Firefox.
-Get insights and performance information about your version of Firefox.
+ਫਾਇਰਫਾਕਸ ਦੇ ਆਪਣੇ ਵਰਜਨ ਬਾਰੇ ਅੰਦਰੂਨੀ ਡਾਟਾ ਤੇ ਕਾਰਗੁਜ਼ਾਰੀ ਜਾਣਕਾਰੀ ਲਵੋ।
 
 
 ;Learn more...
-Learn more...
+...ਹੋਰ ਜਾਣੋ
 
 
 ;Data Sharing
-Data Sharing
+ਡਾਟਾ ਸਾਂਝਾ ਕਰਨਾ
 
 
 ;ON
-ON
+ਚਾਲੂ
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
@@ -43,51 +43,51 @@ Vital Stats
 
 
 ;version
-version
+ਵਰਜਨ
 
 
 ;time open
-time open
+ਖੋਲ੍ਹਣ ਸਮਾਂ
 
 
 ;last crash
-last crash
+ਆਖਰੀ ਕਰੈਸ਼
 
 
 ;bookmarks
-bookmarks
+ਬੁੱਕਮਾਰਕ
 
 
 ;This Month
-This Month
+ਇਹ ਮਹੀਨੇ
 
 
 ;crashes
-crashes
+ਕਰੈਸ਼
 
 
 ;Add-ons
-Add-ons
+ਐਡ-ਆਨ
 
 
 ;View List
-View List
+ਸੂਚੀ ਵੇਖੋ
 
 
 ;enabled
-enabled
+ਚਾਲੂ ਹੈ
 
 
 ;disabled
-disabled
+ਬੰਦ ਹੈ
 
 
 ;Plugins
-Plugins
+ਪਲੱਗਇਨ
 
 
 ;Tips
-Tips
+ਟਿੱਪ
 
 
 ;Wear and Tear
@@ -95,15 +95,15 @@ Wear and Tear
 
 
 ;It looks like your browser has crashed a number of times recently. To learn more:
-It looks like your browser has crashed a number of times recently. To learn more:
+ਇੰਝ ਜਾਪਦਾ ਹੈ ਕਿ ਤੁਹਾਡਾ ਬਰਾਊਜ਼ਰ ਹੁਣੇ-ਹੁਣੇ ਕਈ ਵਾਰ ਕਰੈਸ਼ ਹੋਇਆ ਹੈ। ਹੋਰ ਜਾਣੋ:
 
 
 ;OFF
-OFF
+ਬੰਦ
 
 
 ;Visit our <a href="%(sumo_url)s">support website</a>
-Visit our <a href="%(sumo_url)s">support website</a>
+ਸਾਡੀ <a href="%(sumo_url)s">ਸਹਾਇਤਾ ਵੈੱਬਸਾਈਟ</a> ਵੇਖੋ
 
 
 ;View more <a href="%(details_url)s">detailed information</a>
@@ -111,11 +111,11 @@ View more <a href="%(details_url)s">detailed information</a>
 
 
 ;pages visited
-pages visited
+ਖੋਲ੍ਹੇ ਗਏ ਸਫ਼ੇ
 
 
 ;Your browser seems to be running slower than usual. To learn more:
-Your browser seems to be running slower than usual. To learn more:
+ਤੁਹਾਡਾ ਬਰਾਊਜ਼ਰ ਆਮ ਨਾਲੋਂ ਹੌਲੀ ਚੱਲਦਾ ਜਾਪਦਾ ਹੈ। ਹੋਰ ਜਾਣੋ:
 
 
 ;You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
@@ -123,19 +123,19 @@ You'll be able to see more interesting and detailed information the more you use
 
 
 ;Startup Time by Day
-Startup Time by Day
+ਦਿਨਾਂ ਰਾਹੀਂ ਸ਼ੁਰੂ ਹੋਣ ਸਮਾਂ
 
 
 ;Graph:
-Graph:
+ਗਰਾਫ਼:
 
 
 ;Average
-Average
+ਔਸਤ
 
 
 ;All
-All
+ਸਭ
 
 
 ;Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
@@ -143,43 +143,43 @@ Startup time helps determine how well your version of Firefox is performing. In 
 
 
 ;Data Collected
-Data Collected
+ਇੱਕਠਾ ਕੀਤਾ ਡਾਟਾ
 
 
 ;Glossary
-Glossary
+ਸ਼ਬਦਾਵਲੀ
 
 
 ;What the Firefox Health Report Measures
-What the Firefox Health Report Measures
+ਫਾਇਰਫਾਕਸ ਹਾਲਤ ਰਿਪੋਰਟ ਕੀ ਮਾਪਦੀ ਹੈ
 
 
-;The Firefox Health Report (FHR) has 4 categories of metrics:
-The Firefox Health Report (FHR) has 4 categories of metrics:
+;The Firefox Health Report (FHR) has 5 categories of metrics:
+ਫਾਇਰਫਾਕਸ ਹਾਲਤ ਰਿਪੋਰਟ (FHR) ਕੋਲ 5 ਵਰਗਾਂ ਦੀ ਸਾਰਣੀ ਹੈ:
 
 
 ;Configuration
-Configuration
+ਸੰਰਚਨਾ
 
 
 ;Device hardware, operating system, Firefox version
-Device hardware, operating system, Firefox version
+ਜੰਤਰ ਹਾਰਡਵੇਅਰ, ਓਪਰੇਟਿੰਗ ਸਿਸਟਮ, ਫਾਇਰਫਾਕਸ ਵਰਜਨ
 
 
 ;Customizations
-Customizations
+ਕਸਟਮਾਈਜ਼ੇਸ਼ਨ
 
 
 ;Add-ons, count and type
-Add-ons, count and type
+ਐਡ-ਆਨ, ਗਿਣਤੀ ਤੇ ਕਿਸਮ
 
 
 ;Performance
-Performance
+ਕਾਰਗੁਜ਼ਾਰੀ
 
 
 ;Timing of browser events, rendering, session restores
-Timing of browser events, rendering, session restores
+ਬਰਾਊਜ਼ਰ ਘਟਨਾਵਾਂ, ਪੇਸ਼ਕਾਰੀ, ਸ਼ੈਸ਼ਨ ਮੁੜ-ਸਟੋਰ ਦਾ ਸਮਾਂ
 
 
 ;Length of session, how old a profile is, count of crashes, count of pages
@@ -187,19 +187,19 @@ Length of session, how old a profile is, count of crashes, count of pages
 
 
 ;Detailed Description
-Detailed Description
+ਵੇਰਵੇ ਸਮੇਤ ਜਾਣਕਾਰੀ
 
 
 ;Metric
-Metric
+ਸਾਰਣੀ
 
 
 ;Description
-Description
+ਵੇਰਵਾ
 
 
 ;Binary interface for XPCOM
-Binary interface for XPCOM
+XPCOM ਲਈ ਬਾਈਨਰੀ ਇੰਟਰਫੇਸ
 
 
 ;Identifier for this build of the application based on the date the build was started
@@ -207,7 +207,7 @@ Identifier for this build of the application based on the date the build was sta
 
 
 ;Operating System for which this build was configured
-Operating System for which this build was configured
+ਓਪਰੇਟਿੰਗ ਸਿਸਟਮ, ਜਿਸ ਲਈ ਇਹ ਬਿਲਡ ਸੰਰਚਿਤ ਕੀਤਾ ਗਿਆ ਸੀ।
 
 
 ;Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
@@ -215,11 +215,11 @@ Identifier for the particular distribution of the application in use. It is take
 
 
 ;Version of the distribution, taken from the <var>distribution.version</var> preference
-Version of the distribution, taken from the <var>distribution.version</var> preference
+ਵੰਡ ਦਾ ਵਰਜਨ, <var>distribution.version</var> ਪਸੰਦ ਤੋਂ ਲਿਆ
 
 
 ;The version number of any Mozilla hotfix applied to the application
-The version number of any Mozilla hotfix applied to the application
+ਕਿਸੇ ਮੋਜ਼ੀਲਾ ਦਾ ਵਰਜਨ ਨੰਬਰ ਐਪਲੀਕੇਸ਼ਨ ਲਈ ਲਾਗੂ ਕੀਤਾ
 
 
 ;Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
@@ -227,7 +227,7 @@ Identifier unique to the application that indicates it is Firefox or Thunderbird
 
 
 ;The configured name of the application (Firefox/Aurora/Nightly for instance)
-The configured name of the application (Firefox/Aurora/Nightly for instance)
+ਐਪਲੀਕੇਸ਼ਨ ਦਾ ਸੰਰਚਿਤ ਨਾਂ (ਜਿਵੇਂ ਫਾਇਰਫਾਕਸ/ਓਰੋਰਾ/ਨਾਈਟਲੀ)
 
 
 ;The channel this installation checks for application updates (nightly/aurora/beta/release)
@@ -235,15 +235,15 @@ The channel this installation checks for application updates (nightly/aurora/bet
 
 
 ;The name of the company/provider who built this version
-The name of the company/provider who built this version
+ਕੰਪਨੀ/ਉਪਲੱਬਧ ਕਰਵਾਉਣ ਵਾਲੇ ਦਾ ਨਾਂ, ਜਿਸ ਨੇ ਇਹ ਵਰਜਨ ਬਿਲਡ ਕੀਤਾ ਹੈ।
 
 
 ;The current version of the product
-The current version of the product
+ਪ੍ਰੋਡੱਕਟ ਦਾ ਮੌਜੂਦਾ ਵਰਜਨ
 
 
 ;Number of processor cores
-Number of processor cores
+ਪਰੋਸੈਸਰ ਕੋਰਾਂ ਦੀ ਗਿਣਤੀ
 
 
 ;Whether the application is currently configured to be the default browser for the operating system
@@ -251,7 +251,7 @@ Whether the application is currently configured to be the default browser for th
 
 
 ;Locale currently being used
-Locale currently being used
+ਇਸ ਸਮੇਂ ਵਰਤੀ ਜਾ ਰਹੀ ਭਾਸ਼ਾ
 
 
 ;Amount of RAM in megabytes
@@ -391,23 +391,23 @@ Time in seconds since the app was last started
 
 
 ;Total number of bookmarks
-Total number of bookmarks
+ਬੁੱਕਮਾਰਕ ਦੀ ਕੁੱਲ ਗਿਣਤੀ
 
 
 ;Total number of pages listed in the history
-Total number of pages listed in the history
+ਅਤੀਤੀ ਵਿੱਚ ਕੁੱਲ ਸਫ਼ਿਆਂ ਦੀ ਗਿਣਤੀ
 
 
 ;How long in minutes the current session has been running
-How long in minutes the current session has been running
+ਮੌਜੂਦਾ ਸ਼ੈਸ਼ਨ ਨੂੰ ਕਿੰਨੇ ਸਮੇਂ ਤੋਂ ਵਰਤਿਆ ਜਾ ਰਿਹਾ ਹੈ (ਮਿੰਟਾਂ ਵਿੱਚ)
 
 
 ;Welcome to your Firefox Health Report
-Welcome to your Firefox Health Report
+ਤੁਹਾਡੇ ਫਾਇਰਫਾਕਸ ਹਾਲਤ ਰਿਪੋਰਟ ਵਲੋਂ ਜੀ ਆਇਆਂ ਨੂੰ
 
 
 ;Welcome!
-Welcome!
+ਜੀ ਆਇਆ ਨੂੰ!
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
@@ -415,15 +415,6 @@ Firefox Health Report lets you know how your Firefox is performing and what you 
 
 
 ;See My Report
-See My Report
+ਮੇਰੀ ਰਿਪੋਰਟ ਵੇਖੋ
 
-
-;Time (in seconds)
-Time (in seconds)
-
-
-
-
-;Show Statistics
-ਅੰਕੜੇ ਵੇਖਾਓ
 
