@@ -351,11 +351,11 @@ Il numero di volte in cui l'applicazione è stata terminata in modo anomalo
 
 
 ;The time in seconds that the aborted sessions were not idle
-Il tempo, espresso in secondi, di non inattività della sessione interrotta
+Il tempo, espresso in secondi, di non inattività delle sessioni interrotte
 
 
 ;The time in seconds that the aborted sessions were running
-Il tempo, espresso in secondi, di durata della sessione interrotta
+La durata (espressa in secondi) delle sessioni interrotte
 
 
 ;The number of days since this application profile directory was created
@@ -367,11 +367,11 @@ Il numero di volte in cui l'applicazione è stata avviata e terminata in modo co
 
 
 ;The time in seconds that the completed sessions were not idle
-Il tempo, espresso in secondi, di non inattività della sessione terminata correttamente
+Il tempo, espresso in secondi, di non inattività delle sessioni terminate correttamente
 
 
 ;The time in seconds that the completed sessions were running
-Il tempo, espresso in secondi, di attività della sessione terminata correttamente
+La durata, espressa in secondi, delle sessioni terminate correttamente
 
 
 ;Total number of crashes that were recorded but not yet submitted
