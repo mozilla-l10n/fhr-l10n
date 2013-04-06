@@ -43,19 +43,19 @@ Statistiche essenziali
 
 
 ;version
-versione
+Versione
 
 
 ;time open
-tempo di utilizzo totale
+Tempo di utilizzo totale
 
 
 ;last crash
-ultimo arresto anomalo
+Ultimo arresto anomalo
 
 
 ;bookmarks
-segnalibri
+Segnalibri
 
 
 ;This Month
@@ -119,7 +119,7 @@ Il tuo browser risulta più lento del solito. Per ulteriori informazioni:
 
 
 ;You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
-Più il browser viene utilizzato, più dettagliate e rilevanti saranno le informazioni visualizzate. Controlla nuovamente questa pagina tra un paio di settimane per scoprire nuove tendenze.
+Più il browser viene utilizzato, più dettagliate e rilevanti saranno le informazioni visualizzate. Controlla nuovamente questa pagina tra un paio di settimane per scoprire nuovi andamenti nelle prestazioni.
 
 
 ;Startup Time by Day
@@ -183,7 +183,7 @@ Intervalli degli eventi del browser, rendering, ripristino sessioni
 
 
 ;Length of session, how old a profile is, count of crashes, count of pages
-Durata della sessione, , età del profilo, numero di arresti anomali, numero di pagine
+Durata della sessione, età del profilo, numero di arresti anomali, numero di pagine
 
 
 ;Detailed Description
@@ -243,15 +243,15 @@ L'attuale versione del prodotto in uso
 
 
 ;Number of processor cores
-Numero dei motori di calcolo (core) del processore
+Il numero dei motori di calcolo (core) del processore
 
 
 ;Whether the application is currently configured to be the default browser for the operating system
-Se l'applicazione è attualmente configurata come browser predefinito del sistema operativo
+Indica se l'applicazione è attualmente configurata come browser predefinito del sistema operativo
 
 
 ;Locale currently being used
-Locale attualmente in uso
+Locale (lingua) attualmente in uso
 
 
 ;Amount of RAM in megabytes
@@ -295,11 +295,11 @@ Il numero di componenti aggiuntivi di questo tipo presenti nel profilo in questa
 
 
 ;Whether this add-on was installed by the user or automatically by another application
-Se il componente aggiuntivo è stato installato dall'utente o da un'applicazione
+Indica se il componente aggiuntivo è stato installato dall'utente o da un'applicazione
 
 
 ;Whether this add-on has native code.
-Se il componente aggiuntivo utilizza codice nativo.
+Indica se il componente aggiuntivo utilizza codice nativo
 
 
 ;The identifier of this add-on as defined by the add-on developer
@@ -307,7 +307,7 @@ L'identificativo scelto dallo sviluppatore per questo componente aggiuntivo
 
 
 ;The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
-La data dell'ultima installazione di questo componente aggiuntivo (le informazioni riguardo ai componenti aggiuntivi disinstallati non vengono conservate).
+La data dell'ultima installazione di questo componente aggiuntivo (le informazioni riguardo ai componenti aggiuntivi disinstallati non vengono conservate)
 
 
 ;The number of searches performed with this search engine from this part of the UI
@@ -315,15 +315,15 @@ Il numero di ricerche effettuate con questo motore di ricerca da questo elemento
 
 
 ;Whether this add-on was installed in the application directory or profile directory
-Se questo componente aggiuntivo è installato nella cartella del programma o del profilo
+Indica se questo componente aggiuntivo è installato nella cartella del programma o del profilo
 
 
 ;Whether this add-on is an extension or a plug-in
-Se questo componente aggiuntivo è un'estensione o un plugin
+Indica se questo componente aggiuntivo è un'estensione o un plugin
 
 
 ;The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
-La data dell'ultimo aggiornamento di questo componente aggiuntivo (le informazioni riguardo ai componenti aggiuntivi disinstallati non vengono conservate).
+La data dell'ultimo aggiornamento di questo componente aggiuntivo (le informazioni riguardo ai componenti aggiuntivi disinstallati non vengono conservate)
 
 
 ;<var>True</var> if the user manually disabled the add-on
@@ -335,7 +335,7 @@ La versione attuale del componente aggiuntivo
 
 
 ;How long in milliseconds it took during startup for the application to render the UI and display the window
-Il tempo, espresso in millisecondi, impiegato dall'applicazione all'avvio per visualizzare la finestra e l'interfaccia utente.
+Il tempo, espresso in millisecondi, impiegato dall'applicazione all'avvio per visualizzare la finestra e l'interfaccia utente
 
 
 ;How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
@@ -355,7 +355,7 @@ Il tempo, espresso in secondi, di non inattività della sessione interrotta
 
 
 ;The time in seconds that the aborted sessions were running
-Il tempo, espresso in secondi, di attività della sessione interrotta
+Il tempo, espresso in secondi, di durata della sessione interrotta
 
 
 ;The number of days since this application profile directory was created
@@ -375,27 +375,27 @@ Il tempo, espresso in secondi, di attività della sessione terminata correttamen
 
 
 ;Total number of crashes that were recorded but not yet submitted
-Numero totale di arresti anomali registrati ma non ancora inviati
+Il numero totale di arresti anomali registrati ma non ancora inviati
 
 
 ;Total number of crashes that have been submitted
-Numero totale di arresti anomali inviati
+Il numero totale di arresti anomali inviati
 
 
 ;Time in seconds the app has not been idle
-Tempo, espresso in secondi, in cui l'app non è rimasta inattiva
+Il tempo, espresso in secondi, in cui l'applicazione non è rimasta inattiva
 
 
 ;Time in seconds since the app was last started
-Tempo, espresso in secondi, trascorso dall'ultimo avvio dell'app
+Il tempo, espresso in secondi, trascorso dall'ultimo avvio dell'app
 
 
 ;Total number of bookmarks
-Numero totale di segnalibri
+Il numero totale di segnalibri
 
 
 ;Total number of pages listed in the history
-Numero totale delle pagine memorizzate nella cronologia
+Il numero totale delle pagine memorizzate nella cronologia
 
 
 ;How long in minutes the current session has been running
