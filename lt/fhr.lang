@@ -19,7 +19,7 @@ Dalijimasis duomenimis
 
 
 ;ON
-Įjungtas
+ĮJUNGTAS
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
@@ -99,7 +99,7 @@ Panašu, jog Jūsų naršyklė pastaruoju metu strigo kelis kartus. Sužinokite 
 
 
 ;OFF
-Išjungtas
+IŠJUNGTAS
 
 
 ;Visit our <a href="%(sumo_url)s">support website</a>
