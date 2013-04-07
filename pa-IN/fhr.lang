@@ -23,23 +23,23 @@
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
-You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
+ਤੁਸੀਂ ਮੌਜ਼ੀਲਾ ਨਾਲ ਡਾਟਾ ਸਾਂਝਾ ਨਾ ਕਰਨ ਦੀ ਚੋਣ ਕੀਤੀ ਹੈ, ਪਰ ਤੁਸੀਂ ਤਾਂ ਵੀ ਆਪਣੇ ਬਰਾਊਜ਼ਰ ਦੀ ਕਾਰਗੁਜ਼ਾਰੀ ਨੂੰ ਵੇਖ ਸਕੋਗੇ।
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
-Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
+ਤੁਹਾਡਾ ਸਿਹਤ ਰਿਪੋਰਟ ਡਾਟਾ ਮੋਜ਼ੀਲਾ ਦੇ ਸਰਵਰ ਤੋਂ ਹਟਾਇਆ ਜਾਵੇਗਾ। ਸਾਡੀ <a href="%(privacy_url)s">ਪਰਾਈਵੇਸੀ ਪਾਲਸੀ</a> ਵਿੱਚ ਹੋਰ ਜਾਣਕਾਰੀ ਹਾਸਿਲ ਕਰੋ।
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
-You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
+ਤੁਸੀਂ ਸਮੇਂ ਸਮੇਂ ਉੱਤੇ ਮੌਜ਼ੀਲਾ ਨਾਲ ਆਪਣਾ ਡਾਟਾ ਸਾਂਝਾ ਕਰਨ ਦੀ ਚੋਣ ਕੀਤੀ ਹੈ। ਵੈੱਬ ਦੇ ਵਧੀਆ ਭਵਿੱਖ ਨੂੰ ਬਣਾਉਣ ਦੇ ਸਾਡੇ ਮਕਸਦ ਵਿੱਚ ਹਿੱਸਾ ਪਾਉਣ ਲਈ ਧੰਨਵਾਦ।
 
 
 ;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
-Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
+ਸਾਡੀ <a href="%(privacy_url)s">ਪਰਾਈਵੇਸੀ ਪਾਲਸੀ</a> ਵਿੱਚ ਜਾਣੋ ਕਿ ਅਸੀਂ ਤੁਹਾਡੇ ਡਾਟੇ ਨੂੰ ਕਿਵੇਂ ਵਰਤਦੇ ਹਾਂ।
 
 
 ;Vital Stats
-Vital Stats
+ਖਾਸ ਅੰਕੜੇ
 
 
 ;version
@@ -91,7 +91,7 @@ Vital Stats
 
 
 ;Wear and Tear
-Wear and Tear
+ਘਸਾਈ
 
 
 ;It looks like your browser has crashed a number of times recently. To learn more:
@@ -107,7 +107,7 @@ Wear and Tear
 
 
 ;View more <a href="%(details_url)s">detailed information</a>
-View more <a href="%(details_url)s">detailed information</a>
+<a href="%(details_url)s">ਵੇਰਵੇ ਸਮੇਤ ਜਾਣਕਾਰੀ ਲਈ</a> ਹੋਰ ਵੇਖੋ
 
 
 ;pages visited
@@ -119,7 +119,7 @@ View more <a href="%(details_url)s">detailed information</a>
 
 
 ;You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
-You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
+ਤੁਸੀਂ ਹੋਰ ਵੀ ਦਿਲਚਸਪ ਅਤੇ ਵੇਰਵੇ ਸਮੇਤ ਜਾਣਕਾਰੀ ਵੇਖੋਗੇ, ਜਿਵੇਂ ਜਿਵੇਂ ਤੁਸੀਂ ਆਪਣੇ ਬਰਾਊਜ਼ਰ ਨੂੰ ਵਰਤੋਂਗੇ। ਹੋਰ ਰੁਝਾਨ ਵੇਖਣ ਲਈ ਕੁਝ ਹਫ਼ਤਿਆਂ ਬਾਅਦ ਫੇਰ ਵੇਖੋ।
 
 
 ;Startup Time by Day
@@ -139,7 +139,7 @@ You'll be able to see more interesting and detailed information the more you use
 
 
 ;Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
-Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
+ਸ਼ੁਰੂਆਤ ਸਮਾਂ ਦੱਸਦਾ ਹੈ ਕਿ ਫਾਇਰਫਾਕਸ ਦਾ ਤੁਹਾਡਾ ਵਰਜਨ ਕਿਵੇਂ ਕੰਮ ਕਰ ਰਿਹਾ ਹੈ। ਆਮ ਤੌਰ ਉੱਤੇ, ਤੇਜ਼ ਸ਼ੁਰੂ ਹੋਣਾ (ਘੱਟ ਸਮਾਂ ਲੱਗਣਾ) ਵਧੀਆ ਕਾਰਗੁਜ਼ਾਰੀ ਦਰਸਾਉਂਦਾ ਹੈ।
 
 
 ;Data Collected
@@ -155,7 +155,7 @@ Startup time helps determine how well your version of Firefox is performing. In 
 
 
 ;The Firefox Health Report (FHR) has 4 categories of metrics:
-The Firefox Health Report (FHR) has 4 categories of metrics:
+ਫਾਇਰਫਾਕਸ ਸਿਹਤ ਰਿਪੋਰਟ (ਐਫਐਚਆਰ) ਵਿੱਚ ਸਾਰਣੀਆਂ ਦੇ ਚਾਰ ਵਰਗ ਹਨ:
 
 
 ;Configuration
@@ -183,7 +183,7 @@ The Firefox Health Report (FHR) has 4 categories of metrics:
 
 
 ;Length of session, how old a profile is, count of crashes, count of pages
-Length of session, how old a profile is, count of crashes, count of pages
+ਸ਼ੈਸ਼ਦ ਦਾ ਸਮਾਂ, ਪੁਰੋਫਾਇਲ ਕਿੰਨਾ ਪੁਰਾਣਾ ਹੈ, ਕਰੈਸ਼ ਦੀ ਗਿਣਤੀ, ਸਫ਼ਿਆਂ ਦੀ ਗਿਣਤੀ
 
 
 ;Detailed Description
@@ -203,7 +203,7 @@ XPCOM ਲਈ ਬਾਈਨਰੀ ਇੰਟਰਫੇਸ
 
 
 ;Identifier for this build of the application based on the date the build was started
-Identifier for this build of the application based on the date the build was started
+ਐਪਲੀਕੇਸ਼ਨ ਦੇ ਇਹ ਬਿਲਡ ਲਈ ਪਛਾਣਕਰਤਾ, ਜੋ ਕਿ ਬਿਲਡ ਸ਼ੁਰੂ ਹੋਣ ਉੱਤੇ ਅਧਾਰਿਤ ਹੈ।
 
 
 ;Operating System for which this build was configured
@@ -211,7 +211,7 @@ Identifier for this build of the application based on the date the build was sta
 
 
 ;Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
-Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
+ਖਾਸ ਡਿਸਟਰੀਬਿਊਸ਼ਨ ਲਈ ਵਰਤੀ ਐਪਲੀਕੇਸ਼ਨ ਦਾ ਪਛਾਣਕਰਤਾ ਹੈ। ਇਹ  <var>distribution.id</var> ਪਸੰਦ ਤੋਂ ਲਿਆ ਜਾਂਦਾ ਹੈ।
 
 
 ;Version of the distribution, taken from the <var>distribution.version</var> preference
@@ -223,7 +223,7 @@ Identifier for the particular distribution of the application in use. It is take
 
 
 ;Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
-Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
+ਪਛਾਣਕਰਤਾ ਐਪਲੀਕੇਸ਼ਨ ਲਈ ਵਿਲੱਖਣ ਹੈ, ਜੋ ਕਿ ਦਰਸਾਉਂਦਾ ਹੈ ਕਿ ਇਹ ਫਾਇਰਫਾਕਸ ਜਾਂ ਥੰਡਰਬਰਡ ਆਦਿ। ਇਸੇਤਰ੍ਹਾਂ ਐਪਲੀਕੇਸ਼ਨ ਦੀਆਂ ਸਭ ਇੰਸਟਾਲੇਸ਼ਨ ਲਈ, ਭਾਵੇਂ ਕਿ <var>appName</var> ਦਾ ਮੁੱਲ ਕੁਝ ਵੀ ਹੋਵੇ
 
 
 ;The configured name of the application (Firefox/Aurora/Nightly for instance)
@@ -231,7 +231,7 @@ Identifier unique to the application that indicates it is Firefox or Thunderbird
 
 
 ;The channel this installation checks for application updates (nightly/aurora/beta/release)
-The channel this installation checks for application updates (nightly/aurora/beta/release)
+ਚੈਨਲ, ਜਿਸ ਤੋਂ ਐਪਲੀਕੇਸ਼ਨ ਅੱਪਡੇਟ ਚੈੱਕ ਕੀਤੇ ਜਾਂਦੇ ਹਨ (ਨਾਈਟਲੀ/ਅਰੋਰਾ/ਬੀਟਾ/ਰੀਲਿਜ਼)
 
 
 ;The name of the company/provider who built this version
@@ -247,7 +247,7 @@ The channel this installation checks for application updates (nightly/aurora/bet
 
 
 ;Whether the application is currently configured to be the default browser for the operating system
-Whether the application is currently configured to be the default browser for the operating system
+ਕੀ ਐਪਲੀਕੇਸ਼ਨ ਮੌਕੇ ਉੱਤੇ ਓਪਰੇਟਿੰਗ ਸਿਸਟਮ ਲਈ ਮੂਲ (ਡਿਫਾਲਟ) ਬਰਾਊਜ਼ਰ ਵਜੋਂ ਸੰਰਚਿਤ ਹੈ
 
 
 ;Locale currently being used
@@ -255,139 +255,138 @@ Whether the application is currently configured to be the default browser for th
 
 
 ;Amount of RAM in megabytes
-Amount of RAM in megabytes
+ਰੈਮ(RAM) ਦੀ ਮਾਤਰਾ ਮੈਗਾਬਾਈਟ ਵਿੱਚ
 
 
 ;Currently running Operating System (kernel) name
-Currently running Operating System (kernel) name
+ਮੌਕੇ ਉੱਤੇ ਚੱਲ ਰਹੇ ਓਪਰੇਟਿੰਗ ਸਿਸਟਮ (ਕਰਨਲ) ਦਾ ਨਾਂ
 
 
 ;Currently running Operating System (kernel) version
-Currently running Operating System (kernel) version
+ਮੌਕੇ ਉੱਤੇ ਚੱਲ ਰਹੇ ਓਪਰੇਟਿੰਗ ਸਿਸਟਮ (ਕਰਨਲ) ਦਾ ਵਰਦਨ
 
 
 ;The build identifier of the Gecko platform code
-The build identifier of the Gecko platform code
+ਗੀਕੋ ਪਲੇਟਫਾਰਮ ਕੋਡ ਦਾ ਬਿਲਡ ਪਛਾਣਕਰਤਾ
 
 
 ;The version of the Gecko platform code
-The version of the Gecko platform code
+ਗੀਕੋ ਪਲੇਟਫਾਰਮ ਕੋਡ ਦਾ ਵਰਜਨ
 
 
 ;Processor architecture
-Processor architecture
+ਪਰੋਸੈਸਰ ਢਾਂਚਾ
 
 
 ;The date this version was first used with this installation profile
-The date this version was first used with this installation profile
+ਮਿਤੀ, ਜਦੋਂ ਇਹ ਵਰਜਨ ਇਸ ਇੰਸਟਾਲੇਸ਼ਨ ਪਰੋਫਾਇਲ ਨਾਲ ਪਹਿਲੀ ਵਾਰ ਵਰਤਿਆ ਗਿਆ ਸੀ
 
 
 ;An application version which has been used with this installation profile
-An application version which has been used with this installation profile
+ਐਪਲੀਕੇਸ਼ਨ ਵਰਜਨ, ਜੋ ਕਿ ਇਹ ਇੰਸਟਾਲੇਸ਼ਨ ਪਰੋਫਾਇਲ ਨਾਲ ਵਰਤਿਆ ਗਿਆ ਹੈ।
 
 
 ;The number of add-ons of this type that existed in the profile on this date
-The number of add-ons of this type that existed in the profile on this date
+ਇਹ ਕਿਸਮ ਦੀਆਂ ਐਡ-ਆਨ ਦੀ ਗਿਣਤੀ, ਜੋ ਕਿ ਇਹ ਮਿਤੀ ਨੂੰ ਪਰੋਫਾਇਲ ਵਿੱਚ ਮੌਜੂਦ ਸਨ
 
 
 ;<var>True</var> if the application automatically disabled the add-on
-<var>True</var> if the application automatically disabled the add-on
+<var>ਸਹੀ(True)</var> ਜੇ ਐਪਲੀਕੇਸ਼ਨ ਆਪਣੇ-ਆਪ ਹੀ ਐਡ-ਆਨ ਬੰਦ ਕਰਦੀ ਹੈ
 
 
 ;Whether this add-on was installed by the user or automatically by another application
-Whether this add-on was installed by the user or automatically by another application
+ਕੀ ਇਹ ਐਡ-ਆਨ ਯੂਜ਼ਰ ਵਲੋਂ ਇੰਸਟਾਲ ਸੀ ਜਾਂ ਹੋਰ ਕਿਸੇ ਐਪਲੀਕੇਸ਼ਨ ਵਲੋਂ ਆਪਣੇ-ਆਪ ਹੀ ਇੰਸਟਾਲ ਕੀਤੀ ਗਈ ਹੈ।
 
 
 ;Whether this add-on has native code.
-Whether this add-on has native code.
+ਕੀ ਇਹ ਐਡ-ਆਨ ਦਾ ਨੇਟਿਵ ਕੋਡ ਹੈ।
 
 
 ;The identifier of this add-on as defined by the add-on developer
-The identifier of this add-on as defined by the add-on developer
+ਇਹ ਐਡ-ਆਨ ਲਈ ਪਛਾਣਕਰਤਾ, ਜਿਵੇਂ ਕਿ ਐਡ-ਆਨ ਡਿਵੈਲਪਰ ਨੇ ਦਿੱਤਾ ਹੈ
 
 
 ;The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
-The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
+ਇਸ ਐਡ-ਆਨ ਨੂੰ ਇੰਸਟਾਲ ਕਰਨ ਦੀ ਸਭ ਤੋਂ ਨਵੀਂ ਮਿਤੀ (ਅਣ-ਇੰਸਟਾਲ ਕੀਤੀ ਐਡ-ਆਨ ਬਾਰੇ ਪਿਛਲੀ ਜਾਣਕਾਰੀ ਨੂੰ ਰੱਖਿਆ ਨਹੀਂ ਜਾਂਦਾ)
 
 
 ;The number of searches performed with this search engine from this part of the UI
-The number of searches performed with this search engine from this part of the UI
+ਯੂਆਈ (UI) ਦੇ ਇਸ ਭਾਗ ਤੋਂ ਇਸ ਖੋਜ ਇੰਜਣ ਨਾਲ ਕੀਤੀਆਂ ਗਈਆਂ ਖੋਜਾਂ ਦੀ ਗਿਣਤੀ
 
 
 ;Whether this add-on was installed in the application directory or profile directory
-Whether this add-on was installed in the application directory or profile directory
+ਕੀ ਇਹ ਐਡ-ਆਨ ਨੂੰ ਐਪਲੀਕੇਸ਼ਨ ਡਾਇਰੈਕਟਰੀ ਵਿੱਚ ਇੰਸਟਾਲ ਕੀਤਾ ਗਿਆ ਸੀ ਜਾਂ ਪਰੋਫਾਇਲ ਡਾਇਰੈਕਟਰੀ ਵਿੱਚ
 
 
 ;Whether this add-on is an extension or a plug-in
-Whether this add-on is an extension or a plug-in
+ਕੀ ਇਹ ਐਡ-ਆਨ ਇਕਸਟੈਨਸ਼ਨ ਜਾਂ ਪਲੱਗਇਨ
 
 
 ;The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
-The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
+ਸਭ ਤੋਂ ਤਾਜ਼ਾ ਮਿਤੀ, ਜਦੋਂ ਐਡ-ਆਨ ਨੂੰ ਅੱਪਡੇਟ ਕੀਤਾ ਗਿਆ ਸੀ (ਅਣ-ਇੰਸਟਾਲ ਕੀਤੀ ਐਡ-ਆਨ ਦੇ ਪਿਛਲੇ ਵਰਜਨ ਦੀ ਜਾਣਕਾਰੀ ਨੂੰ ਰੱਖਿਆ ਨਹੀਂ ਜਾਂਦਾ)
 
 
 ;<var>True</var> if the user manually disabled the add-on
-<var>True</var> if the user manually disabled the add-on
+<var>ਸਹੀ (True)</var> ਜੇ ਯੂਜ਼ਰ ਨੇ ਐਡ-ਆਨ ਖੁਦ ਬੰਦ ਕੀਤੀ ਹੋਵੇ
 
 
 ;The current version of this add-on
-The current version of this add-on
+ਇਹ ਐਡ-ਆਨ ਦਾ ਮੌਜੂਦਾ ਵਰਜਨ
 
 
 ;How long in milliseconds it took during startup for the application to render the UI and display the window
-How long in milliseconds it took during startup for the application to render the UI and display the window
-
+ਮਿਲੀਸਕਿੰਟਾਂ ਵਿੱਚ ਲੱਗਾ ਸਮਾਂ, ਜੋ ਕਿ ਐਪਲੀਕੇਸ਼ਨ ਸ਼ੁਰੂ ਕਰਨ ਤੋਂ ਯੂਜ਼ਰ ਇੰਟਰਫੇਸ (UI) ਲਿਆਉਣ ਤੇ ਵਿੰਡੋ ਵੇਖਾਉਣ ਤੱਕ ਲੱਗਾ
 
 ;How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
-How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
+ਮਿਲੀਸਕਿੰਟਾਂ ਵਿੱਚ ਲੱਗਾ ਸਮਾਂ, ਜੋ ਕਿ ਐਪਲੀਕੇਸ਼ਨ ਸ਼ੁਰੂ ਕਰਨ ਤੋਂ ਲਾਇਬਰੇਰੀਆਂ ਲੋਡ ਕਰਨ ਤੇ ਮੁੱਢਲੀ ਸ਼ੁਰੂ ਨੂੰ ਪੂਰਾ ਕਰਨ ਤੱਕ ਲੱਗਾ
 
 
 ;How long in milliseconds it took during startup for the application to restore tabs from the previous session
-How long in milliseconds it took during startup for the application to restore tabs from the previous session
+ਮਿਲੀਸਕਿੰਟਾਂ ਵਿੱਚ ਲੱਗਾ ਸਮਾਂ, ਜੋ ਕਿ ਐਪਲੀਕੇਸ਼ਨ ਸ਼ੁਰੂ ਕਰਨ ਤੋਂ ਪਿਛਲੇ ਸ਼ੈਸ਼ਨ ਤੋਂ ਟੈਬਾਂ ਨੂੰ ਮੁੜ-ਸਟੋਰ ਕਰਨ ਵਿੱਚ ਲੱਗਾ
 
 
 ;The number of times the application was run and not cleanly shut down.
-The number of times the application was run and not cleanly shut down.
+ਐਪਲੀਕੇਸ਼ਨ ਚਲਾਉਣ ਤੇ ਠੀਕ ਢੰਗ ਨਾਲ ਨਾ ਬੰਦ ਕਰਨ ਦੀ ਗਿਣਤੀ।
 
 
 ;The time in seconds that the aborted sessions were not idle
-The time in seconds that the aborted sessions were not idle
+ਸਕਿੰਟਾਂ ਵਿੱਚ ਸਮਾਂ, ਜਿਸ ਲਈ ਅਧੂਰੇ ਛੱਡੇ ਸ਼ੈਸ਼ਨ ਵੇਹਲੇ (idle) ਨਹੀਂ ਸਨ
 
 
 ;The time in seconds that the aborted sessions were running
-The time in seconds that the aborted sessions were running
+ਸਮਾਂ ਸਕਿੰਟਾਂ ਵਿੱਚ, ਜਿਸ ਲਈ ਅਧੂਰੇ ਛੱਡੇ ਸ਼ੈਸ਼ਨ ਚੱਲ ਰਹੇ ਸਨ
 
 
 ;The number of days since this application profile directory was created
-The number of days since this application profile directory was created
+ਦਿਨਾਂ ਦੀ ਗਿਣਤੀ, ਜਦੋਂ ਇਹ ਐਪਲੀਕੇਸ਼ਨ ਪਰੋਫਾਇਲ ਡਾਇਰੈਕਟਰੀ ਬਣਾਈ ਗਈ ਸੀ
 
 
 ;The number of times the application was run and cleanly shut down.
-The number of times the application was run and cleanly shut down.
+ਐਪਲੀਕਸ਼ਨ ਚੱਲਣ ਅਤੇ ਠੀਕ ਢੰਗ ਨਾਲ ਬੰਦ ਕਰਨ ਦੀ ਗਿਣਤੀ।
 
 
 ;The time in seconds that the completed sessions were not idle
-The time in seconds that the completed sessions were not idle
+ਸਮਾਂ ਸਕਿੰਟਾਂ ਵਿੱਚ, ਜਦੋਂ ਪੂਰੇ ਕੀਤੇ ਸ਼ੈਸ਼ਨ ਵੇਹਲੇ ਨਹੀਂ ਸਨ
 
 
 ;The time in seconds that the completed sessions were running
-The time in seconds that the completed sessions were running
+ਸਮਾਂ ਸਕਿੰਟਾਂ ਵਿੱਚ, ਜਦੋਂ ਪੂਰੇ ਹੋਏ ਸ਼ੈਸ਼ਨ ਚੱਲ ਰਹੇ ਸਨ
 
 
 ;Total number of crashes that were recorded but not yet submitted
-Total number of crashes that were recorded but not yet submitted
+ਕੁੱਲ ਕਰੈਸ਼ ਦੀ ਗਿਣਤੀ, ਜੋ ਕਿ ਰਿਕਾਰਡ ਤਾਂ ਕੀਤੇ ਗਏ, ਪਰ ਭੇਜੇ ਨਹੀਂ ਗਏ
 
 
 ;Total number of crashes that have been submitted
-Total number of crashes that have been submitted
+ਕੁੱਲ ਕਰੈਸ਼ ਦੀ ਗਿਣਤੀ, ਜੋ ਕਿ ਭੇਜੇ ਗਏ
 
 
 ;Time in seconds the app has not been idle
-Time in seconds the app has not been idle
+ਸਮਾਂ ਸਕਿੰਟਾਂ ਵਿੱਚ, ਜਦੋਂ ਐਪਲੀਕੇਸ਼ਨ ਵੇਹਲੀ ਨਹੀਂ ਸੀ
 
 
 ;Time in seconds since the app was last started
-Time in seconds since the app was last started
+ਸਮਾਂ ਸਕਿੰਟਾਂ ਵਿੱਚ, ਜਦੋਂ ਐਪਲੀਕੇਸ਼ਨ ਆਖਰੀ ਵਾਰ ਸ਼ੁਰੂ ਕੀਤੀ ਗਈ
 
 
 ;Total number of bookmarks
@@ -395,7 +394,7 @@ Time in seconds since the app was last started
 
 
 ;Total number of pages listed in the history
-ਅਤੀਤੀ ਵਿੱਚ ਕੁੱਲ ਸਫ਼ਿਆਂ ਦੀ ਗਿਣਤੀ
+ਅਤੀਤ ਵਿੱਚ ਕੁੱਲ ਸਫ਼ਿਆਂ ਦੀ ਗਿਣਤੀ
 
 
 ;How long in minutes the current session has been running
@@ -411,7 +410,7 @@ Time in seconds since the app was last started
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
-Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
+ਫਾਇਰਫਾਕਸ ਰਿਪੋਰਟ ਤੁਹਾਨੂੰ ਦੱਸਦੀ ਹੈ ਕਿ ਤੁਹਾਡਾ ਫਾਇਰਫਾਕਸ ਕਿਵੇਂ ਚੱਲ ਰਿਹਾ ਹੈ ਅਤੇ ਤੁਸੀਂ ਇਸ ਨੂੰ ਕਿਵੇਂ ਸੁਧਾਰ ਸਕਦੇ ਹੋ।
 
 
 ;See My Report
@@ -419,10 +418,10 @@ Firefox Health Report lets you know how your Firefox is performing and what you 
 
 
 ;Time (in seconds)
-Time (in seconds)
+ਸਮਾਂ (ਸਕਿੰਟਾਂ ਵਿੱਚ)
 
 
 ;Show Statistics
-Show Statistics
+ਅੰਕੜੇ ਵੇਖੋ
 
 
