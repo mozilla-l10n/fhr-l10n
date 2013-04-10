@@ -1,428 +1,419 @@
+## active ##
 ;Firefox Health Report
-Firefox Health Report
+Laporan Kesihatan Firefox
 
 
 ;Raw Data
-Raw Data
+Data mentah
 
 
 ;Get insights and performance information about your version of Firefox.
-Get insights and performance information about your version of Firefox.
+Dapatkan pandangan dan maklumat prestasi mengenai versi Firefox anda.
 
 
 ;Learn more...
-Learn more...
+Ketahui lebih lanjut...
 
 
 ;Data Sharing
-Data Sharing
+Perkongsian data
 
 
 ;ON
-ON
+ON {ok}
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
-You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
+Anda telah memilih untuk berhenti berkongsi data dengan Mozilla, tetapi anda masih akan dapat melihat bagaimana pelayar anda melaksanakan.
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
-Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
+Data Laporan Kesihatan anda juga akan dibuang dari pelayan-pelayan Mozilla. Ketahui lebih lanjut dalam <a href="%(privacy_url)s">dasar privasi.</a>
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
-You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
+Anda telah memilih berkongsi data anda dengan Mozilla dari semasa ke semasa. Terima kasih kerana menjadi sebahagian daripada misi kami untuk membina satu masa depan lebih cerah dalam Jaringan.
 
 
 ;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
-Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
+Belajar bagaimana kita mengendalikan data anda dalam <a href="%(privacy_url)s">dasar privasi.</a>
 
 
 ;Vital Stats
-Vital Stats
+Status Penting
 
 
 ;version
-version
+versi
 
 
 ;time open
-time open
+masa dibuka 
 
 
 ;last crash
-last crash
+kerosakan lepas
 
 
 ;bookmarks
-bookmarks
+Tandabuku
 
 
 ;This Month
-This Month
+Bulan Ini
 
 
 ;crashes
-crashes
+musnah
 
 
 ;Add-ons
-Add-ons
+Add-ons {ok}
 
 
 ;View List
-View List
+Lihat Senarai
 
 
 ;enabled
-enabled
+dihidupkan
 
 
 ;disabled
-disabled
+dilumpuhkan
 
 
 ;Plugins
-Plugins
+Plugin
 
 
 ;Tips
-Tips
+Petua
 
 
 ;Wear and Tear
-Wear and Tear
+Haus dan lusuh
 
 
 ;It looks like your browser has crashed a number of times recently. To learn more:
-It looks like your browser has crashed a number of times recently. To learn more:
+Ia seolah-olah pelayar anda telah rosak beberapa kali baru-baru ini. Untuk belajar lebih: 
 
 
 ;OFF
-OFF
+PADAM
 
 
 ;Visit our <a href="%(sumo_url)s">support website</a>
-Visit our <a href="%(sumo_url)s">support website</a>
+Layari <a href="%(sumo_url)s">laman web sokongan</a>
 
 
 ;View more <a href="%(details_url)s">detailed information</a>
-View more <a href="%(details_url)s">detailed information</a>
+Lebih lanjut <a href="%(details_url)s">maklumat terperinci</a>
 
 
 ;pages visited
-pages visited
+Halaman dilawati
 
 
 ;Your browser seems to be running slower than usual. To learn more:
-Your browser seems to be running slower than usual. To learn more:
+Pelayar anda nampaknya akan bergerak lebih perlahan daripada biasa. Untuk belajar lebih:
 
 
 ;You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
-You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
+Anda akan boleh untuk melihat lebih menarik dan maklumat lanjut informasi penggunaan pelayar web anda. Semak kembali dalam beberapa minggu lagi untuk mula melihat beberapa trend akan datang.
 
 
 ;Startup Time by Day
-Startup Time by Day
+Dimulakan Masa oleh Hari
 
 
 ;Graph:
-Graph:
+Graf
 
 
 ;Average
-Average
+Purata
 
 
 ;All
-All
+Semua
 
 
 ;Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
-Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
+Permulaan masa bantu menentukan bagaimana versi daripada Firefox anda dilaksanakan. Secara umum, berganda masa (i.e kurang masa) mengukur lebih kelancaran.
 
 
 ;Data Collected
-Data Collected
+Data Terkumpul
 
 
 ;Glossary
-Glossary
+Glosari
 
 
 ;What the Firefox Health Report Measures
-What the Firefox Health Report Measures
+Apakah Ukuran Laporan Kesihatan Firefox 
 
 
 ;The Firefox Health Report (FHR) has 4 categories of metrics:
-The Firefox Health Report (FHR) has 4 categories of metrics:
+Laporan Kesihatan Firefox (FHR) mempunyai 4 kategori daripada metrik:
 
 
 ;Configuration
-Configuration
+Konfigurasi
 
 
 ;Device hardware, operating system, Firefox version
-Device hardware, operating system, Firefox version
+Perkakasan peranti, sistem operasi, versi Firefox
 
 
 ;Customizations
-Customizations
+Kustomisasi
 
 
 ;Add-ons, count and type
-Add-ons, count and type
+Addon, bilangan dan jenis
 
 
 ;Performance
-Performance
+Prestasi
 
 
 ;Timing of browser events, rendering, session restores
-Timing of browser events, rendering, session restores
+Pemasaan daripada acara pelayar web, rendering, sesi dipulihkan
 
 
 ;Length of session, how old a profile is, count of crashes, count of pages
-Length of session, how old a profile is, count of crashes, count of pages
+Jarak daripada masa, berapa lama profil digunakan, bilangan daripada kerosakan, bilangan daripada halaman
 
 
 ;Detailed Description
-Detailed Description
+Huraian Lanjut
 
 
 ;Metric
-Metric
+Metrik
 
 
 ;Description
-Description
+Huraian
 
 
 ;Binary interface for XPCOM
-Binary interface for XPCOM
+Permukaan Binari untuk XPCOM
 
 
 ;Identifier for this build of the application based on the date the build was started
-Identifier for this build of the application based on the date the build was started
+Pengenal pasti untuk binaan daripada aplikasi yang bergantung kepada tarikh binaan dimulakan
 
 
 ;Operating System for which this build was configured
-Operating System for which this build was configured
+Sistem Operasi untuk menentukan binaan telah dikonfigurasikan
 
 
 ;Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
-Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
+Pengenal pasti untuk keluaran tertentu daripada aplikasi yang digunakan. Ia diambil daripada keutamaan <var>distribution.id</var>
 
 
 ;Version of the distribution, taken from the <var>distribution.version</var> preference
-Version of the distribution, taken from the <var>distribution.version</var> preference
+Versi daripada keluaran, diambil daripada keutamaan <var>distribution.version</var>
 
 
 ;The version number of any Mozilla hotfix applied to the application
-The version number of any Mozilla hotfix applied to the application
+Nombor versi daripada sebarang hotfix Mozilla digunakan untuk aplikasi
 
 
 ;Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
-Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
+Pengenal pasti unik untuk aplikasi yang diukur ia adalah Firefox mahupun Thunderbird, lain-lain. Sama untuk semua instalasi daripada sebuah aplikasi menghiraukan nilai daripada <var>appName</var>
 
 
 ;The configured name of the application (Firefox/Aurora/Nightly for instance)
-The configured name of the application (Firefox/Aurora/Nightly for instance)
+Nama dikonfigurasikan untuk permohonan aplikasi (Firefox/Aurora/Nightly bagi contoh)
 
 
 ;The channel this installation checks for application updates (nightly/aurora/beta/release)
-The channel this installation checks for application updates (nightly/aurora/beta/release)
+Saluran bagi instalasi ini disemak untuk kemaskini aplikasi (nightly/aurora/beta/stabil)
 
 
 ;The name of the company/provider who built this version
-The name of the company/provider who built this version
+Nama daripada syarikat/pengeluar yang membina versi ini
 
 
 ;The current version of the product
-The current version of the product
+Versi semasa daripada produk
 
 
 ;Number of processor cores
-Number of processor cores
+Nombor berteras pemprosesan
 
 
 ;Whether the application is currently configured to be the default browser for the operating system
-Whether the application is currently configured to be the default browser for the operating system
+Sama ada permohonan kini menyusun untuk menjadi pelayar lalai untuk sistem pengendalian
 
 
 ;Locale currently being used
-Locale currently being used
+Locale semasa yang digunakan
 
 
 ;Amount of RAM in megabytes
-Amount of RAM in megabytes
+Jumlah RAM dalam megabytes
 
 
 ;Currently running Operating System (kernel) name
-Currently running Operating System (kernel) name
+Nama Sistem Operasi (kernel) semasa dijalankan
 
 
 ;Currently running Operating System (kernel) version
-Currently running Operating System (kernel) version
+Versi Sistem Operasi (kernel) semasa dijalankan
 
 
 ;The build identifier of the Gecko platform code
-The build identifier of the Gecko platform code
+Pengenal pasti binaan daripada kod platform Gecko
 
 
 ;The version of the Gecko platform code
-The version of the Gecko platform code
+Versi daripada kod platform Gecko
 
 
 ;Processor architecture
-Processor architecture
+Arkitektur Prosesor
 
 
 ;The date this version was first used with this installation profile
-The date this version was first used with this installation profile
+Tarikh versi ini telah pertama kali digunakan bagi profil instalasi
 
 
 ;An application version which has been used with this installation profile
-An application version which has been used with this installation profile
+Sebuah versi aplikasi dimana telah digunakan dengan profil instalasi ini
 
 
 ;The number of add-ons of this type that existed in the profile on this date
-The number of add-ons of this type that existed in the profile on this date
+Nombor addons daripada jenis ini telah berada dalam profil pada tarikh ini
 
 
 ;<var>True</var> if the application automatically disabled the add-on
-<var>True</var> if the application automatically disabled the add-on
+<var>True</var> jika aplikasi secara automatik melumpuhkan addon
 
 
 ;Whether this add-on was installed by the user or automatically by another application
-Whether this add-on was installed by the user or automatically by another application
+Sama ada addon ini telah dipasang oleh pengguna atau secara automatik oleh aplikasi yang lain
 
 
 ;Whether this add-on has native code.
-Whether this add-on has native code.
+Sama ada addon ini mempunyai kod natif.
 
 
 ;The identifier of this add-on as defined by the add-on developer
-The identifier of this add-on as defined by the add-on developer
+Pengenal pasti daripada addon ini seperti mana dikesan oleh pembangun addon
 
 
 ;The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
-The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
+Tarikh yang terkini addon ini telah dipasang (informasi yang sebelum mengenai addon dinyah pasang ialah tidak disimpan).
 
 
 ;The number of searches performed with this search engine from this part of the UI
-The number of searches performed with this search engine from this part of the UI
+Nombor daripada carian dijalankan dengan enjin carian ini daripada sebahagian UI
 
 
 ;Whether this add-on was installed in the application directory or profile directory
-Whether this add-on was installed in the application directory or profile directory
+Sama ada addon ini telah dipasang dalam direktori aplikasi atau direktori profil
 
 
 ;Whether this add-on is an extension or a plug-in
-Whether this add-on is an extension or a plug-in
+Sama ada addon ini adalah ektensi atau sebuah plugin
 
 
 ;The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
-The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
+Tarikh yang terkini bagi addon telah dikemaskini (informasi sebelum mengenai addon yang dinyah pasang ialah tidak disimpan).
 
 
 ;<var>True</var> if the user manually disabled the add-on
-<var>True</var> if the user manually disabled the add-on
+<var>True</var> jika pengguna secara manual melumpuhkan addon
 
 
 ;The current version of this add-on
-The current version of this add-on
+Versi semasa daripada addon ini
 
 
 ;How long in milliseconds it took during startup for the application to render the UI and display the window
-How long in milliseconds it took during startup for the application to render the UI and display the window
+Berapa lama dalam milisaat ia diambil sewaktu permulaan untuk aplikasi bagi render UI dan memaparkan tetingkap
 
 
 ;How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
-How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
+Berapa lama dalam milisaat ia diambil sewaktu permulaan untuk aplikasi bagi memuatkan libraries dan menghabiskan initialisasi yang mudah
 
 
 ;How long in milliseconds it took during startup for the application to restore tabs from the previous session
-How long in milliseconds it took during startup for the application to restore tabs from the previous session
+Berapa lama dalam milisaat ia diambil sewaktu permulaan untuk aplikasi bagi memulihkan tab daripada sesi sebelum ia
 
 
 ;The number of times the application was run and not cleanly shut down.
-The number of times the application was run and not cleanly shut down.
+Nombor daripada berapa kali aplikasi ini dijalankan dan tidak sempurna sewaktu penutupan.
 
 
 ;The time in seconds that the aborted sessions were not idle
-The time in seconds that the aborted sessions were not idle
+Masa dalam saat dimana sesi dihentikan tidak melahu atau idle
 
 
 ;The time in seconds that the aborted sessions were running
-The time in seconds that the aborted sessions were running
+Masa dalam saat dimana sesi dihentikan sewaktu dijalankan
 
 
 ;The number of days since this application profile directory was created
-The number of days since this application profile directory was created
+Nombor dalam hari sejak direktori profil aplikasi ini dicipta
 
 
 ;The number of times the application was run and cleanly shut down.
-The number of times the application was run and cleanly shut down.
+Nombor daripada berapa kali aplikasi dijalankan dan ditutup dengan sempurna.
 
 
 ;The time in seconds that the completed sessions were not idle
-The time in seconds that the completed sessions were not idle
+Masa dalam saat dimana sesi yang lengkap telah tidak melahu atau idle
 
 
 ;The time in seconds that the completed sessions were running
-The time in seconds that the completed sessions were running
+Masa dalam saat dimana sesi lengkap telah dijalankan
 
 
 ;Total number of crashes that were recorded but not yet submitted
-Total number of crashes that were recorded but not yet submitted
+Jumlah nombor daripada kerosakan dimana telah direkod tapi belum lagi dihantar
 
 
 ;Total number of crashes that have been submitted
-Total number of crashes that have been submitted
+Jumlah nombor daripada kerosakan dimana telah dihantarkan
 
 
 ;Time in seconds the app has not been idle
-Time in seconds the app has not been idle
+Masa dalam saat applikasi tidak dalam waktu melahu atau idle
 
 
 ;Time in seconds since the app was last started
-Time in seconds since the app was last started
+Masa dalam saat sejak aplikasi telah dimulakan
 
 
 ;Total number of bookmarks
-Total number of bookmarks
+Jumlah bilangan penandabuku
 
 
 ;Total number of pages listed in the history
-Total number of pages listed in the history
+Jumlah keseluruhan halaman menyenaraikan dalam sejarah
 
 
 ;How long in minutes the current session has been running
-How long in minutes the current session has been running
+Berapa lama dalam minit sesi semasa telah dijalankan
 
 
 ;Welcome to your Firefox Health Report
-Welcome to your Firefox Health Report
+Selamat Datang Laporan Kesihatan Firefox anda
 
 
 ;Welcome!
-Welcome!
+Selamat datang!
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
-Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
+Laporan Kesihatan Firefox membenarkan anda mengetahui bagaimana Firefox anda dilancarkan dan apa yang anda dapat menambahbaik lagi.
 
 
 ;See My Report
-See My Report
-
-
-;Time (in seconds)
-Time (in seconds)
-
-
-;Show Statistics
-Show Statistics
-
-
+Lihat Laporan Saya
