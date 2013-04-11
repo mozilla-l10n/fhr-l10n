@@ -107,7 +107,7 @@ Külasta meie <a href="%(sumo_url)s">kasutajatoe lehte</a>
 
 
 ;View more <a href="%(details_url)s">detailed information</a>
-Vaata <a href="%(details_url)s">üksisasju</a>
+Vaata <a href="%(details_url)s">üksikasju</a>
 
 
 ;pages visited
