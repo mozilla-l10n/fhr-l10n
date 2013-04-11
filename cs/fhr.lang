@@ -203,7 +203,7 @@ Binární rozhraní pro XPCOM
 
 
 ;Identifier for this build of the application based on the date the build was started
-Identifier for this build of the application based on the date the build was started
+Identifikátor tohoto sestavení aplikace, které je založeno na datu, kdy bylo zahájeno sestavení
 
 
 ;Operating System for which this build was configured
@@ -211,7 +211,7 @@ Operační systém, pro který bylo toto sestavení nakonfigurováno
 
 
 ;Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
-Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
+Identifikace pro konkrétní distribuci aplikace, která je používána. Je brána z předvolby <var>distribution.id</var>
 
 
 ;Version of the distribution, taken from the <var>distribution.version</var> preference
@@ -223,19 +223,19 @@ Verze distribuce, která je převzata z předvolby <var>distribution.version</va
 
 
 ;Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
-Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
+Unikátní identifikátor aplikace, který uvádí, zda se jedná o Firefox, Thunderbird atd. Všechny instalace stejné aplikace mají stejnou hodnotu <var>appName</var>
 
 
 ;The configured name of the application (Firefox/Aurora/Nightly for instance)
-The configured name of the application (Firefox/Aurora/Nightly for instance)
+Nakonfigurované jméno aplikace (například Firefox/Aurora/Nightly)
 
 
 ;The channel this installation checks for application updates (nightly/aurora/beta/release)
-The channel this installation checks for application updates (nightly/aurora/beta/release)
+Kanál, kterého se tato instalace dotazuje pro dostupnost aktualizací (nightly/aurora/beta/release)
 
 
 ;The name of the company/provider who built this version
-The name of the company/provider who built this version
+Jméno společnosti/poskytovatele, který sestavil tuto verzi
 
 
 ;The current version of the product
@@ -247,7 +247,7 @@ Počet jader procesoru
 
 
 ;Whether the application is currently configured to be the default browser for the operating system
-Whether the application is currently configured to be the default browser for the operating system
+Zda je aplikace aktuálně nastavena v operačním systému jako výchozí webový prohlížeč
 
 
 ;Locale currently being used
@@ -255,15 +255,15 @@ Jazyk, který je aktuálně používán
 
 
 ;Amount of RAM in megabytes
-Amount of RAM in megabytes
+Množství RAM v megabajtech
 
 
 ;Currently running Operating System (kernel) name
-Currently running Operating System (kernel) name
+Aktuální jméno operačního systému (kernelu)
 
 
 ;Currently running Operating System (kernel) version
-Currently running Operating System (kernel) version
+Aktuální verze operačního systému (kernelu)
 
 
 ;The build identifier of the Gecko platform code
@@ -279,19 +279,19 @@ Architektura procesoru
 
 
 ;The date this version was first used with this installation profile
-The date this version was first used with this installation profile
+Datum, kdy byla tato verze poprvé použíta s tímtoinstalačním profilem
 
 
 ;An application version which has been used with this installation profile
-An application version which has been used with this installation profile
+Verze aplikace, která byla použita s tímto instalačním profilem
 
 
 ;The number of add-ons of this type that existed in the profile on this date
-The number of add-ons of this type that existed in the profile on this date
+Počet doplňků tohoto typu, které k tomuto datu existují v uživatelském profilu
 
 
 ;<var>True</var> if the application automatically disabled the add-on
-<var>True</var> if the application automatically disabled the add-on
+<var>True</var>, pokud aplikace automaticky zakáže doplněk 
 
 
 ;Whether this add-on was installed by the user or automatically by another application
@@ -307,11 +307,11 @@ Identifikátor tohoto doplňku tak, jak byl definován jeho vývojářem
 
 
 ;The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
-The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
+Nejnovější datum, kdy byl tento doplněk nainstalován (předchozí informace o odinstalovaném doplňku nejsou zachovávány).
 
 
 ;The number of searches performed with this search engine from this part of the UI
-The number of searches performed with this search engine from this part of the UI
+Počet hledání realizovaných pomocí vyhledávání z této části UI
 
 
 ;Whether this add-on was installed in the application directory or profile directory
@@ -323,7 +323,7 @@ Zda je tento doplněk rozšíření či zásuvný modul
 
 
 ;The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
-The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
+Datum poslední aktualizace doplňku (předchozí informace o odinstalovaném doplňku nejsou zachovávány).
 
 
 ;<var>True</var> if the user manually disabled the add-on
