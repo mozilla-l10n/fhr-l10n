@@ -1,425 +1,439 @@
 ;Firefox Health Report
-Firefox Health Report
+Здравствен картон на Firefox
 
 
 ;Raw Data
-Raw Data
+Сирови податоци
 
 
 ;Get insights and performance information about your version of Firefox.
-Get insights and performance information about your version of Firefox.
+Добијте информации за перформансите на Вашата верзија на Firefox.
 
 
 ;Learn more...
-Learn more...
+Дознајте повеќе...
 
 
 ;Data Sharing
-Data Sharing
+Споделување на податоци
 
 
 ;ON
-ON
+ДА
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
-You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
+Одбравте да не споделувате податоци со Mozilla, но сѐ уште ќе можете да ги видите перформансите на Вашиот прелистувач.
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
-Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
+Податоците од здравствениот картон ќе бидат отстранети од серверите на Mozilla. Дознајте повеќе во нашата <a href="%(privacy_url)s">политика за приватност.</a>
+
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
-You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
+Одбравте одвреме-навреме да ги споделувате Вашите податоци со Mozilla. Благодариме што сте дел од нашата мисија за изградба на поубава иднина за мрежата.
 
 
 ;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
-Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
+Дознајте како работиме со Вашите податоци во  нашата <a href="%(privacy_url)s">политика за приватност.</a>
+
 
 
 ;Vital Stats
-Vital Stats
+Витални статистики
 
 
 ;version
-version
+верзија
 
 
 ;time open
-time open
+траење на последно вклучување
+
 
 
 ;last crash
-last crash
+последно уривање
 
 
 ;bookmarks
-bookmarks
+обележувачи
 
 
 ;This Month
-This Month
+Овој месец
 
 
 ;crashes
-crashes
+уривања
 
 
 ;Add-ons
-Add-ons
+Додатоци
 
 
 ;View List
-View List
+Погледај список
 
 
 ;enabled
-enabled
+овозможено
 
 
 ;disabled
-disabled
+оневозможено
 
 
 ;Plugins
-Plugins
+Приклучоци
 
 
 ;Tips
-Tips
+Совети
 
 
 ;Wear and Tear
-Wear and Tear
+Амортизација
 
 
 ;It looks like your browser has crashed a number of times recently. To learn more:
-It looks like your browser has crashed a number of times recently. To learn more:
+Изгледа дека Вашиот прелистувач скоро се урнал неколку пати. Дознајте повеќе:
 
 
 ;OFF
-OFF
+НЕ
 
 
 ;Visit our <a href="%(sumo_url)s">support website</a>
-Visit our <a href="%(sumo_url)s">support website</a>
+Посетете го нашето <a href="%(sumo_url)s">место за поддршка</a>
 
 
 ;View more <a href="%(details_url)s">detailed information</a>
-View more <a href="%(details_url)s">detailed information</a>
+Погледајте <a href="%(details_url)s">детални информации</a>
 
 
 ;pages visited
-pages visited
+посетени страници
 
 
 ;Your browser seems to be running slower than usual. To learn more:
-Your browser seems to be running slower than usual. To learn more:
+Се чини дека Вашиот прелистувач е поспор од вообичаено. Дознајте повеќе:
 
 
 ;You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
-You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
+Со подолго користење на прелистувачот, ќе можете да видите поинтересни и подетални информации. Погледајте по неколку недели за да ги видите трендовите.
 
 
 ;Startup Time by Day
-Startup Time by Day
+Дневно време на стартување
 
 
 ;Graph:
-Graph:
+График:
 
 
 ;Average
-Average
+Просек
 
 
 ;All
-All
+Сѐ
 
 
 ;Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
-Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
+Времето на стартување помага да се утврди какви се перформансите на Вашата верзија на Firefox. Воопштено, побрзи времиња (т.е. помалку време) укажуваат на подобри перформанси.
 
 
 ;Data Collected
-Data Collected
+Собрани податоци
 
 
 ;Glossary
-Glossary
+Речник
 
 
 ;What the Firefox Health Report Measures
-What the Firefox Health Report Measures
+Што мери здравствениот картон на Firefox
 
 
 ;The Firefox Health Report (FHR) has 4 categories of metrics:
-The Firefox Health Report (FHR) has 4 categories of metrics:
+Здравствениот картон на Firefox (FHR) има 4 мерни категории:
 
 
 ;Configuration
-Configuration
+Конфигурација
 
 
 ;Device hardware, operating system, Firefox version
-Device hardware, operating system, Firefox version
+Хардвер на уредот, оперативен систем, верзија на Firefox
+
 
 
 ;Customizations
-Customizations
+Прилагодувања
 
 
 ;Add-ons, count and type
-Add-ons, count and type
+Додатоци, број и тип
 
 
 ;Performance
-Performance
+Перформанси
 
 
 ;Timing of browser events, rendering, session restores
-Timing of browser events, rendering, session restores
+Време на настани во прелистувачот, рендерирање, реконструирање на сесии
 
 
 ;Length of session, how old a profile is, count of crashes, count of pages
-Length of session, how old a profile is, count of crashes, count of pages
+Должина на сесии, старост на профилот, број на уривања, број на страници
 
 
 ;Detailed Description
-Detailed Description
+Детален опис
 
 
 ;Metric
-Metric
+Метрика
 
 
 ;Description
-Description
+Опис
 
 
 ;Binary interface for XPCOM
-Binary interface for XPCOM
+Бинарен интерфејс за XPCOM
 
 
 ;Identifier for this build of the application based on the date the build was started
-Identifier for this build of the application based on the date the build was started
+Идентификатор за оваа градба на апликацијата базиран на датумот кога започнало создавањето
 
 
 ;Operating System for which this build was configured
-Operating System for which this build was configured
+Оперативен систем за кој е конфигурирана оваа градба
+
 
 
 ;Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
-Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
+Идентификатор за посебната дистрибуција на апликацијата што се користи. Се зема од преференцијата <var>distribution.id</var>
 
 
 ;Version of the distribution, taken from the <var>distribution.version</var> preference
-Version of the distribution, taken from the <var>distribution.version</var> preference
+Верзија на дистрибуцијата, земена од преференцијата <var>distribution.version</var>
+
 
 
 ;The version number of any Mozilla hotfix applied to the application
-The version number of any Mozilla hotfix applied to the application
+Бројот на верзија на било која поправка на Mozilla применета на апликацијата
 
 
 ;Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
-Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
+Уникатен идентификатор за апликацијата кој кажува дека е Firefox или Thunderbird итн. Ист за сите инсталации на апликацијата без разлика на вредноста на <var>appName</var>
 
 
 ;The configured name of the application (Firefox/Aurora/Nightly for instance)
-The configured name of the application (Firefox/Aurora/Nightly for instance)
+Конфигурираното име на апликацијата (на пример Firefox/Aurora/Nightly)
 
 
 ;The channel this installation checks for application updates (nightly/aurora/beta/release)
-The channel this installation checks for application updates (nightly/aurora/beta/release)
+Каналот на кој оваа инсталација проверува за надградби (nightly/aurora/beta/release)
 
 
 ;The name of the company/provider who built this version
-The name of the company/provider who built this version
+Име на компанијата/провајдерот што ја изградил оваа верзија
 
 
 ;The current version of the product
-The current version of the product
+Тековната верзија на производот
 
 
 ;Number of processor cores
-Number of processor cores
+Број на јадра во процесорот
 
 
 ;Whether the application is currently configured to be the default browser for the operating system
-Whether the application is currently configured to be the default browser for the operating system
+Дали апликацијата е моментално конфигурирана да биде оснвен прелистувач во оперативниот систем
 
 
 ;Locale currently being used
-Locale currently being used
+Локалето што моментално се користи
 
 
 ;Amount of RAM in megabytes
-Amount of RAM in megabytes
+Големина на RAM во мегабајти
 
 
 ;Currently running Operating System (kernel) name
-Currently running Operating System (kernel) name
+Име на тековниот оперативен систем (кернел)
 
 
 ;Currently running Operating System (kernel) version
-Currently running Operating System (kernel) version
+Верзија на тековниот оперативен систем (кернел)
+
 
 
 ;The build identifier of the Gecko platform code
-The build identifier of the Gecko platform code
+Идентификаторот на градба на кодот на платформата Gecko
+
 
 
 ;The version of the Gecko platform code
-The version of the Gecko platform code
+Верзија на кодот на платформата Gecko
 
 
 ;Processor architecture
-Processor architecture
+Архитектура на процесорот
 
 
 ;The date this version was first used with this installation profile
-The date this version was first used with this installation profile
+Датумот кога оваа верзија прв пат беше употребена со овој инсталациски профил
 
 
 ;An application version which has been used with this installation profile
-An application version which has been used with this installation profile
+Верзија на апликацијата што беше употребена со овој инсталациски профил
 
 
 ;The number of add-ons of this type that existed in the profile on this date
-The number of add-ons of this type that existed in the profile on this date
+Број на додатоци од овој тип што постоеле во профилот на овој датум
 
 
 ;<var>True</var> if the application automatically disabled the add-on
-<var>True</var> if the application automatically disabled the add-on
+<var>True</var> ако апликацијата автоматски го оневозможила додатокот
 
 
 ;Whether this add-on was installed by the user or automatically by another application
-Whether this add-on was installed by the user or automatically by another application
+Дали овој додаток бил инсталиран од корисникот или автоматски од друга апликациа
 
 
 ;Whether this add-on has native code.
-Whether this add-on has native code.
+Дали овој додаток има платформски код.
 
 
 ;The identifier of this add-on as defined by the add-on developer
-The identifier of this add-on as defined by the add-on developer
+Идентификаторот на овој додаток како што е дефиниран од авторот на додатокот
+
 
 
 ;The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
-The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
+Најскорешен датум кога овој додаток бил инсталиран (претходни информации за избришани додатоци не се чуваат).
 
 
 ;The number of searches performed with this search engine from this part of the UI
-The number of searches performed with this search engine from this part of the UI
+Колку пати е пребарувано со овој сервиси за пребарување од овој дел од корисничкиот интерфејс
 
 
 ;Whether this add-on was installed in the application directory or profile directory
-Whether this add-on was installed in the application directory or profile directory
+Дали овој додаток е инсталиран во директориумот на апликацијата или на профилот
 
 
 ;Whether this add-on is an extension or a plug-in
-Whether this add-on is an extension or a plug-in
+Дали овој додаток е проширување или приклучок
 
 
 ;The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
-The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
+Најскорешен датум кога овој додаток бил надграден (претходни информации за избришани додатоци не се чуваат).
 
 
 ;<var>True</var> if the user manually disabled the add-on
-<var>True</var> if the user manually disabled the add-on
+<var>True</var> ако корисникот рачно го оневозможил додатокот
 
 
 ;The current version of this add-on
-The current version of this add-on
+Тековната верзија на овој додаток
+
 
 
 ;How long in milliseconds it took during startup for the application to render the UI and display the window
-How long in milliseconds it took during startup for the application to render the UI and display the window
+Колку милисекунди за време на стратувањето ѝ требале на апликацијата за да го рендерира корисничкиот интерфејс и да го прикаже прозорецот
 
 
 ;How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
-How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
+Колку милисекунди за време на стратувањето ѝ требале на апликацијата за да ги вчита библиотеките и заврши со основната иницијализација
 
 
 ;How long in milliseconds it took during startup for the application to restore tabs from the previous session
-How long in milliseconds it took during startup for the application to restore tabs from the previous session
+Колку милисекунди за време на стратувањето ѝ требале на апликацијата за да ги реконструира јазичињата од претходната сесија
 
 
 ;The number of times the application was run and not cleanly shut down.
-The number of times the application was run and not cleanly shut down.
+Колку пати апликацијата била вклучена и неуредно затворена.
+
 
 
 ;The time in seconds that the aborted sessions were not idle
-The time in seconds that the aborted sessions were not idle
+Времетраење во секунди во кои прекинатите сесии не мирувале
+
 
 
 ;The time in seconds that the aborted sessions were running
-The time in seconds that the aborted sessions were running
+Времетраење во секунди на прекинати сесии
 
 
 ;The number of days since this application profile directory was created
-The number of days since this application profile directory was created
+Денови откако директориумот за профилот на оваа апликација бил креиран
 
 
 ;The number of times the application was run and cleanly shut down.
-The number of times the application was run and cleanly shut down.
+Колку пати апликацијата била вклучена и уредно затворена.
 
 
 ;The time in seconds that the completed sessions were not idle
-The time in seconds that the completed sessions were not idle
+Времетраење во секунди во кои комплетираните сесии не мирувале
+
 
 
 ;The time in seconds that the completed sessions were running
-The time in seconds that the completed sessions were running
+Времетраење во секунди на комплетираните сесии
 
 
 ;Total number of crashes that were recorded but not yet submitted
-Total number of crashes that were recorded but not yet submitted
+Вкупен број на уривања кои се снимени, но не се пријавени
 
 
 ;Total number of crashes that have been submitted
-Total number of crashes that have been submitted
+Вкупен број на уривања кои се пријавени
 
 
 ;Time in seconds the app has not been idle
-Time in seconds the app has not been idle
+Поминати секунди откако апликацијата не мирува
 
 
 ;Time in seconds since the app was last started
-Time in seconds since the app was last started
+Поминати секунди од последното стартување на апликацијата
 
 
 ;Total number of bookmarks
-Total number of bookmarks
+Вкупен број на обележувачи
 
 
 ;Total number of pages listed in the history
-Total number of pages listed in the history
+Вкупен број на страници во историјата
 
 
 ;How long in minutes the current session has been running
-How long in minutes the current session has been running
+Колку минути трае тековната сесија
 
 
 ;Welcome to your Firefox Health Report
-Welcome to your Firefox Health Report
+Добредојдовте на здравствениот картон на Firefox
+
 
 
 ;Welcome!
-Welcome!
+Добредојдовте!
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
-Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
+Здравствениот картон на Firefox Ви кажува какви се перформансите на Вашиот Firefox и што можете да направите за да ги подобрите.
 
 
 ;See My Report
-See My Report
+Прикажи го мојот извештај
 
 
 ;Time (in seconds)
-Time (in seconds)
+Време (во секунди)
 
 
 ;Show Statistics
