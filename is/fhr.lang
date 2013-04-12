@@ -1,157 +1,157 @@
 ;Firefox Health Report
-Firefox Health Report
+Firefox ástandsskoðun
 
 
 ;Raw Data
-Raw Data
+Hrá gögn
 
 
 ;Get insights and performance information about your version of Firefox.
-Get insights and performance information about your version of Firefox.
+Fáðu ábendingar og upplýsingar um afköst fyrir þína útgáfu af Firefox.
 
 
 ;Learn more...
-Learn more...
+Fræðast meira...
 
 
 ;Data Sharing
-Data Sharing
+Gagnadeiling
 
 
 ;ON
-ON
+VIRKT
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
-You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
+Þú hefur valið að hætta að deila gögnum með Mozilla, en þú mun samt ennþá geta séð hvernig vafrinn þinn afkastar.
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
-Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
+Ástandsskýrslan þín verður einnig fjarlægð úr Mozilla netþjónum. Fáðu meiri upplýsingar í <a href="%(privacy_url)s">friðhelgisstefnunni okkar.</a>
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
-You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
+Þú hefur valið að deila öðru hverju gögnum með Mozilla. Takk fyrir að vera hluti af okkar takmarki að byggja betri heim fyrir vefinn.
 
 
 ;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
-Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
+Lesa um hvernig við meðhöndlum gögnin þín með því að lesa <a href="%(privacy_url)s">friðhelgisstefnu okkar.</a>
 
 
 ;Vital Stats
-Vital Stats
+Mikilvægar upplýsingar
 
 
 ;version
-version
+útgáfa
 
 
 ;time open
-time open
+tími hafður opinn
 
 
 ;last crash
-last crash
+seinasta hrun
 
 
 ;bookmarks
-bookmarks
+bókamerki
 
 
 ;This Month
-This Month
+Þessi mánuður
 
 
 ;crashes
-crashes
+hrun
 
 
 ;Add-ons
-Add-ons
+Viðbætur
 
 
 ;View List
-View List
+Skoða lista
 
 
 ;enabled
-enabled
+virkt
 
 
 ;disabled
-disabled
+óvirkt
 
 
 ;Plugins
-Plugins
+Tengiforrit
 
 
 ;Tips
-Tips
+Ábendingar
 
 
 ;Wear and Tear
-Wear and Tear
+Notkun
 
 
 ;It looks like your browser has crashed a number of times recently. To learn more:
-It looks like your browser has crashed a number of times recently. To learn more:
+Svo virðist sem vafrinn hafi hrunið nokkrum sinnum nýlega. Til að fá meiri upplýsingar:
 
 
 ;OFF
-OFF
+ÓVIRKT
 
 
 ;Visit our <a href="%(sumo_url)s">support website</a>
-Visit our <a href="%(sumo_url)s">support website</a>
+Heimsæktu <a href="%(sumo_url)s">hjálparvefsvæðið</a>
 
 
 ;View more <a href="%(details_url)s">detailed information</a>
-View more <a href="%(details_url)s">detailed information</a>
+Skoða <a href="%(details_url)s">nánari upplýsingar</a>
 
 
 ;pages visited
-pages visited
+heimsóttar síður
 
 
 ;Your browser seems to be running slower than usual. To learn more:
-Your browser seems to be running slower than usual. To learn more:
+Svo virðist sem vafrinn sé að keyra hægar en venjulega. Til að fá meiri upplýsingar:
 
 
 ;You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
-You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
+Þú færð meiri og betri upplýsingar eftir því sem þú notar vafrann meira. Athugaðu aftur eftir nokkrar vikur til að fá betri upplýsingar.
 
 
 ;Startup Time by Day
-Startup Time by Day
+Ræsingartími eftir degi
 
 
 ;Graph:
-Graph:
+Graf:
 
 
 ;Average
-Average
+Meðaltal
 
 
 ;All
-All
+Allt
 
 
 ;Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
-Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
+Ræsitími vafra er góð leið til að sjá hvernig afkastageta Firefox er. Almennt séð, er hraður ræsitími (minni tími) dæmi um betri afkastagetu.
 
 
 ;Data Collected
-Data Collected
+Gögnum safnað
 
 
 ;Glossary
-Glossary
+Orðasafn
 
 
 ;What the Firefox Health Report Measures
-What the Firefox Health Report Measures
+Hvað mælir ástandsskoðun Firefox
 
 
 ;The Firefox Health Report (FHR) has 4 categories of metrics:
@@ -159,263 +159,263 @@ The Firefox Health Report (FHR) has 4 categories of metrics:
 
 
 ;Configuration
-Configuration
+Stillingar
 
 
 ;Device hardware, operating system, Firefox version
-Device hardware, operating system, Firefox version
+Vélbúnaður, stýrikerfi, Firefox útgáfa
 
 
 ;Customizations
-Customizations
+Sérsnið
 
 
 ;Add-ons, count and type
-Add-ons, count and type
+Viðbætur, fjöldi og tegund
 
 
 ;Performance
-Performance
+Afkastageta
 
 
 ;Timing of browser events, rendering, session restores
-Timing of browser events, rendering, session restores
+Tímamælingar á vafraatburðum, birting, endurheimt lotu
 
 
 ;Length of session, how old a profile is, count of crashes, count of pages
-Length of session, how old a profile is, count of crashes, count of pages
+Lengd lotu, hve gamall notandareikningur er, fjöldi hruna, fjöldi síðna
 
 
 ;Detailed Description
-Detailed Description
+Nánari lýsing
 
 
 ;Metric
-Metric
+Mæling
 
 
 ;Description
-Description
+Lýsing
 
 
 ;Binary interface for XPCOM
-Binary interface for XPCOM
+Forritunarskil fyrir XPCOM
 
 
 ;Identifier for this build of the application based on the date the build was started
-Identifier for this build of the application based on the date the build was started
+Auðkenni á þessari útgáfu af forritinu byggt á þeirri dagsetningunni sem forritið var búið til á
 
 
 ;Operating System for which this build was configured
-Operating System for which this build was configured
+Stýrikerfið sem þessi útgáfa var stillt fyrir
 
 
 ;Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
-Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
+Auðkenni á þessari dreifingu af af forritinu. Tekið frá <var>distribution.id</var> breytu
 
 
 ;Version of the distribution, taken from the <var>distribution.version</var> preference
-Version of the distribution, taken from the <var>distribution.version</var> preference
+Útgáfa af dreifingunni, tekið frá <var>distribution.version</var> breytu
 
 
 ;The version number of any Mozilla hotfix applied to the application
-The version number of any Mozilla hotfix applied to the application
+Útgáfunúmer fyrir hverja Mozilla lagfæringu sem er virk í forritinu
 
 
 ;Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
-Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
+Auðkenni sem er einkvæmt fyrir forrit og auðkennir hvort það er Firefox eða Thunderbird o.s.frv. Þetta er fyrir allar uppsetningar af forritinu sama hvað nafnið er í <var>appName</var>
 
 
 ;The configured name of the application (Firefox/Aurora/Nightly for instance)
-The configured name of the application (Firefox/Aurora/Nightly for instance)
+Skilgreint heiti forritsins (T.d. Firefox/Aurora/Nightly)
 
 
 ;The channel this installation checks for application updates (nightly/aurora/beta/release)
-The channel this installation checks for application updates (nightly/aurora/beta/release)
+Rásin sem þetta forrit athugar fyrir uppfærslur (nightly/aurora/beta/release)
 
 
 ;The name of the company/provider who built this version
-The name of the company/provider who built this version
+Nafn á fyrirtækinu/útgefanda sem bjó til þessa útgáfu
 
 
 ;The current version of the product
-The current version of the product
+Núverandi útgáfa af forritinu
 
 
 ;Number of processor cores
-Number of processor cores
+Fjöldi örgjörvakjarna
 
 
 ;Whether the application is currently configured to be the default browser for the operating system
-Whether the application is currently configured to be the default browser for the operating system
+Hvort forritið er stillt nú þegar til að vera sjálfgefin vafri fyrir stýrikerfið
 
 
 ;Locale currently being used
-Locale currently being used
+Tungumál sem er í notkun
 
 
 ;Amount of RAM in megabytes
-Amount of RAM in megabytes
+Minni í megabætum
 
 
 ;Currently running Operating System (kernel) name
-Currently running Operating System (kernel) name
+Núverandi nafn á stýrikerfi (kjarni)
 
 
 ;Currently running Operating System (kernel) version
-Currently running Operating System (kernel) version
+Núverandi útgáfa á stýrikerfi (kjarni)
 
 
 ;The build identifier of the Gecko platform code
-The build identifier of the Gecko platform code
+Útgáfuauðkenni á Gecko kóða
 
 
 ;The version of the Gecko platform code
-The version of the Gecko platform code
+Útgáfa af Gecko kóða
 
 
 ;Processor architecture
-Processor architecture
+Örgjörva tegund
 
 
 ;The date this version was first used with this installation profile
-The date this version was first used with this installation profile
+Dagsetningin þegar þessi útgáfa var fyrst notuð með uppsetningunni
 
 
 ;An application version which has been used with this installation profile
-An application version which has been used with this installation profile
+Útgáfunúmer sem hefur verið notað með þessari uppsetningu
 
 
 ;The number of add-ons of this type that existed in the profile on this date
-The number of add-ons of this type that existed in the profile on this date
+Fjöldi viðbóta af þessari tegund sem var í uppsetningu á þessari dagsetningu
 
 
 ;<var>True</var> if the application automatically disabled the add-on
-<var>True</var> if the application automatically disabled the add-on
+<var>True</var> ef forritið gerði þessa viðbót óvirka sjálfvirkt
 
 
 ;Whether this add-on was installed by the user or automatically by another application
-Whether this add-on was installed by the user or automatically by another application
+Hvort þessi viðbót var sett upp af notanda eða sjálfvirkt af öðru forriti
 
 
 ;Whether this add-on has native code.
-Whether this add-on has native code.
+Hvort þessi viðbót er með sérhæfðan kóða.
 
 
 ;The identifier of this add-on as defined by the add-on developer
-The identifier of this add-on as defined by the add-on developer
+Auðkenni viðbótar eins og það er skilgreint af höfundi viðbótar
 
 
 ;The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
-The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
+Nýjasta dagsetning sem þessi viðbót var sett upp (gamlar upplýsingar um viðbætur sem voru teknar út eru ekki geymdar).
 
 
 ;The number of searches performed with this search engine from this part of the UI
-The number of searches performed with this search engine from this part of the UI
+Fjöldi leitaraðgerða sem voru framkvæmdar með þessari leitarvél í þessum hluta viðmótsins
 
 
 ;Whether this add-on was installed in the application directory or profile directory
-Whether this add-on was installed in the application directory or profile directory
+Hvort þessi viðbót var sett upp í forrits möppu eða notanda möppu
 
 
 ;Whether this add-on is an extension or a plug-in
-Whether this add-on is an extension or a plug-in
+Hvort þessi viðbót er auka viðbót eða tengiforrit
 
 
 ;The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
-The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
+Seinasta dagsetning sem þessi viðbót var uppfærð (fyrri upplýsingar um viðbætur sem hafa verið teknar út eru ekki geymdar).
 
 
 ;<var>True</var> if the user manually disabled the add-on
-<var>True</var> if the user manually disabled the add-on
+<var>True</var> ef notandi gerði viðbót óvirka
 
 
 ;The current version of this add-on
-The current version of this add-on
+Núverandi útgáfa af þessari viðbót
 
 
 ;How long in milliseconds it took during startup for the application to render the UI and display the window
-How long in milliseconds it took during startup for the application to render the UI and display the window
+Hve lengi í millisekúndum það tók að ræsa forritið i byrjun og birta viðmótið og gluggann
 
 
 ;How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
-How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
+Hve lengi það tók í millisekúndum að ræsa forritið til að hlaða inn forritasöfnum og klára grunnfrumstillingu
 
 
 ;How long in milliseconds it took during startup for the application to restore tabs from the previous session
-How long in milliseconds it took during startup for the application to restore tabs from the previous session
+Hve lengi það tók í millisekúndum að ræsa forritið til að endurheimta flipa frá fyrri lotu
 
 
 ;The number of times the application was run and not cleanly shut down.
-The number of times the application was run and not cleanly shut down.
+Fjöldi skipta sem forritið keyrði en hætti ekki eðlilega.
 
 
 ;The time in seconds that the aborted sessions were not idle
-The time in seconds that the aborted sessions were not idle
+Tími í sekúndum fyrir þær lotur sem hætt var við voru ekki aðgerðalausar
 
 
 ;The time in seconds that the aborted sessions were running
-The time in seconds that the aborted sessions were running
+Tími í sekúndum fyrir þær lotur sem hætt var við voru að keyra
 
 
 ;The number of days since this application profile directory was created
-The number of days since this application profile directory was created
+Fjöldi daga síðan notanda mappann var búinn til
 
 
 ;The number of times the application was run and cleanly shut down.
-The number of times the application was run and cleanly shut down.
+Fjöldi skipta sem forritið keyrði og hætti eðliega.
 
 
 ;The time in seconds that the completed sessions were not idle
-The time in seconds that the completed sessions were not idle
+Tími í sekúndum fyrir lotur sem var lokið en voru ekki aðgerðalausar
 
 
 ;The time in seconds that the completed sessions were running
-The time in seconds that the completed sessions were running
+Tími í sekúndum fyrir lotur sem var lokið og voru keyrandi
 
 
 ;Total number of crashes that were recorded but not yet submitted
-Total number of crashes that were recorded but not yet submitted
+Fjöldi skipta sem forritið hrundi og var skráð niður en ekki ennþá búið að senda
 
 
 ;Total number of crashes that have been submitted
-Total number of crashes that have been submitted
+Fjöldi skipta sem forritið hrundi og er búið að senda
 
 
 ;Time in seconds the app has not been idle
-Time in seconds the app has not been idle
+Tími í sekúndum sem forritið var að vinna
 
 
 ;Time in seconds since the app was last started
-Time in seconds since the app was last started
+Tími í sekúndum síðan forritið var seinast ræst
 
 
 ;Total number of bookmarks
-Total number of bookmarks
+Heildarfjöldi bókamerkja
 
 
 ;Total number of pages listed in the history
-Total number of pages listed in the history
+Heildarfjöldi síðna birtar í ferilsögu
 
 
 ;How long in minutes the current session has been running
-How long in minutes the current session has been running
+Hve lengi í mínútum hefur núverandi lota verið keyrandi
 
 
 ;Welcome to your Firefox Health Report
-Welcome to your Firefox Health Report
+Velkomin í ástandsskoðunarskýrslu Firefox
 
 
 ;Welcome!
-Welcome!
+Velkomin!
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
-Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
+Firefox ástandsskoðunarskýrsla gerir þér kleift að skoða hvernig afkastageta Firefox er og hvernig þú getur bætt hana.
 
 
 ;See My Report
-See My Report
+Skoða mína skýrslu
 
 
 ;Time (in seconds)
