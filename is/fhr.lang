@@ -19,19 +19,19 @@ Gagnadeiling
 
 
 ;ON
-VIRKT
+VIRK
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
-Þú hefur valið að hætta að deila gögnum með Mozilla, en þú mun samt ennþá geta séð hvernig vafrinn þinn afkastar.
+Þú hefur valið að hætta að deila gögnum með Mozilla, en þú mun samt sem áður geta séð hvernig vafrinn þinn er að afkasta.
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
-Ástandsskýrslan þín verður einnig fjarlægð úr Mozilla netþjónum. Fáðu meiri upplýsingar í <a href="%(privacy_url)s">friðhelgisstefnunni okkar.</a>
+Ástandsskýrslan þín verður einnig fjarlægð frá Mozilla netþjónunum. Fáðu meiri upplýsingar í með því að lesa <a href="%(privacy_url)s">friðhelgisstefnuna.</a>
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
-Þú hefur valið að deila öðru hverju gögnum með Mozilla. Takk fyrir að vera hluti af okkar takmarki að byggja betri heim fyrir vefinn.
+Þú hefur valið að deila öðru hverju gögnum með Mozilla. Takk fyrir að vera hluti af okkar takmarki í að byggja betri heim fyrir vefinn.
 
 
 ;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
@@ -47,7 +47,7 @@ Mikilvægar upplýsingar
 
 
 ;time open
-tími hafður opinn
+tími opinn
 
 
 ;last crash
