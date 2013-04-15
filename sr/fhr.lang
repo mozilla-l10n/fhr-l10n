@@ -1,425 +1,424 @@
 ;Firefox Health Report
-Firefox Health Report
+Извештај здравља Фајерфокса
 
 
 ;Raw Data
-Raw Data
+Необрађени подаци
 
 
 ;Get insights and performance information about your version of Firefox.
-Get insights and performance information about your version of Firefox.
+Сазнајте детаље о перформансама ваше верзије Фајерфокса
 
 
 ;Learn more...
-Learn more...
+Сазнајте више...
 
 
 ;Data Sharing
-Data Sharing
+Дељење података
 
 
 ;ON
-ON
+Укључено
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
-You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
+Одлучили сте да не делите податке са Мозилом, али ћете идаље моћи да пратите како се понаша ваш веб прегледач.
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
-Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
+Ваши подаци извештаја здравља ће такође бити уклоњени са Мозилиних сервера. Сазнајте више у нашој <a href="%(privacy_url)s">полиси приватности.</a>
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
-You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
+Одлучили сте повремено делити податке са Мозилом. Хвала што сте део наше мисије да изградимо бољи веб.
 
 
 ;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
-Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
+Сазнајте како се служимо вашим подацимо у нашој <a href="%(privacy_url)s">полиси приватности.</a>
 
 
 ;Vital Stats
-Vital Stats
+Статистика виталности
 
 
 ;version
-version
+верзија
 
 
 ;time open
-time open
+отворено
 
 
 ;last crash
-last crash
+последње рушење
 
 
 ;bookmarks
-bookmarks
+забелешке
 
 
 ;This Month
-This Month
+Овај месец
 
 
 ;crashes
-crashes
+рушења
 
 
 ;Add-ons
-Add-ons
+Додаци
 
 
 ;View List
-View List
+Прикажи попис
 
 
 ;enabled
-enabled
+омогућени
 
 
 ;disabled
-disabled
+онемогућени
 
 
 ;Plugins
-Plugins
+Прикључци
 
 
 ;Tips
-Tips
+Савети
 
 
 ;Wear and Tear
-Wear and Tear
+Трошење
 
 
 ;It looks like your browser has crashed a number of times recently. To learn more:
-It looks like your browser has crashed a number of times recently. To learn more:
+Чини се да се ваш веб прегледач у последње време повећи број пута срушио. Да бисте сазнали више:
 
 
 ;OFF
-OFF
+Искључено
 
 
 ;Visit our <a href="%(sumo_url)s">support website</a>
-Visit our <a href="%(sumo_url)s">support website</a>
+Посетите наш <a href="%(sumo_url)s">сајт подршке</a>
 
 
 ;View more <a href="%(details_url)s">detailed information</a>
-View more <a href="%(details_url)s">detailed information</a>
+Погледајте <a href="%(details_url)s">детаљније информације</a>
 
 
 ;pages visited
-pages visited
+посећено страница
 
 
 ;Your browser seems to be running slower than usual. To learn more:
-Your browser seems to be running slower than usual. To learn more:
+Чини се да ваш веб прегледач ради спорије него иначе. Да бисте сазнали више:
 
 
 ;You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
-You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
+Што више користите веб прегледач, то ћете више занимљивих и детаљнијих информација моћи видети. Проверите поново за неколико дана и уочићете некакве трендове.
 
 
 ;Startup Time by Day
-Startup Time by Day
+Времена покретања по данима
 
 
 ;Graph:
-Graph:
+Графикон:
 
 
 ;Average
-Average
+Просек
 
 
 ;All
-All
+Све
 
 
 ;Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
-Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
+Време покретања понекад помаже у закључивању колико се добро ваша верзија Фајерфокса понаша. У принципу, бржа времена (тј. краће време покретања) упућује на боље перформансе.
 
 
 ;Data Collected
-Data Collected
+Прикупљени подаци
 
 
 ;Glossary
-Glossary
+Појмовник
 
 
 ;What the Firefox Health Report Measures
-What the Firefox Health Report Measures
+Шта мери Извештај здравља Фајерфокса?
 
 
 ;The Firefox Health Report (FHR) has 4 categories of metrics:
-The Firefox Health Report (FHR) has 4 categories of metrics:
+Извештај здравља Фајерфокса (ИЗФ) има катогорије:
 
 
 ;Configuration
-Configuration
+Конфигурација
 
 
 ;Device hardware, operating system, Firefox version
-Device hardware, operating system, Firefox version
+Хардвер, оперативни систем, верзија Фајерфокса
 
 
 ;Customizations
-Customizations
+Прилагођавање
 
 
 ;Add-ons, count and type
-Add-ons, count and type
+Додаци, број и врста
 
 
 ;Performance
-Performance
+Перформансе
 
 
 ;Timing of browser events, rendering, session restores
-Timing of browser events, rendering, session restores
+Мерење догађања прегледача, исцртавање, повратак сесија
 
 
 ;Length of session, how old a profile is, count of crashes, count of pages
-Length of session, how old a profile is, count of crashes, count of pages
+Дужина сесија, старост профила, број рушења, број страница
 
 
 ;Detailed Description
-Detailed Description
+Детаљнији опис
 
 
 ;Metric
-Metric
+Метрика
 
 
 ;Description
-Description
+Опис
 
 
 ;Binary interface for XPCOM
-Binary interface for XPCOM
+Бинарни интерфејс за ХПЦОМ (XPCOM)
 
 
 ;Identifier for this build of the application based on the date the build was started
-Identifier for this build of the application based on the date the build was started
+Индетификатор овог издања апликације темељи се на датуму када је он покренут
 
 
 ;Operating System for which this build was configured
-Operating System for which this build was configured
+Оперативни систем за којег је ово издање намењено
 
 
 ;Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
-Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
+Индетификатор за специфичну дистрибуцију апликације у употреби. Добијен је из <var>distribution.id</var> поставке
 
 
 ;Version of the distribution, taken from the <var>distribution.version</var> preference
-Version of the distribution, taken from the <var>distribution.version</var> preference
+Верзија дистрибуције, добијена из <var>distribution.version</var> поставке
 
 
 ;The version number of any Mozilla hotfix applied to the application
-The version number of any Mozilla hotfix applied to the application
+Верзија било које Мозилине закрпе примењене на апликацији
 
 
 ;Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
-Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
+Индетификатор јединствен за апликацију која указује да је Фајерфокс, Тандерберд и сл. Исто је за све инсталације апликације без обзира на <var>appName</var> вредност
 
 
 ;The configured name of the application (Firefox/Aurora/Nightly for instance)
-The configured name of the application (Firefox/Aurora/Nightly for instance)
+Подешено име апликације (нпр. Firefox/Aurora/Nightly)
 
 
 ;The channel this installation checks for application updates (nightly/aurora/beta/release)
-The channel this installation checks for application updates (nightly/aurora/beta/release)
+Канал којег ова инсталација проверава за допуне апликације (nightly/aurora/beta/release)
 
 
 ;The name of the company/provider who built this version
-The name of the company/provider who built this version
+Назив компаније/произвођача који је направио ову верзију
 
 
 ;The current version of the product
-The current version of the product
+Тренутна верзија производа
 
 
 ;Number of processor cores
-Number of processor cores
+Број процесорских језгри
 
 
 ;Whether the application is currently configured to be the default browser for the operating system
-Whether the application is currently configured to be the default browser for the operating system
+Је ли апликације тренутно подешена као подразумевани веб прегледач за оперативни систем
 
 
 ;Locale currently being used
-Locale currently being used
+Језик који је тренутно у употреби
 
 
 ;Amount of RAM in megabytes
-Amount of RAM in megabytes
+Количина радне меморије у мегабајтима
 
 
 ;Currently running Operating System (kernel) name
-Currently running Operating System (kernel) name
+Назив тренутног оперативног система (кернела)
 
 
 ;Currently running Operating System (kernel) version
-Currently running Operating System (kernel) version
+Верзија тренутног оперативног система (кернела)
 
 
 ;The build identifier of the Gecko platform code
-The build identifier of the Gecko platform code
+Индетификатор издања платформе Геко кôда.
 
 
 ;The version of the Gecko platform code
-The version of the Gecko platform code
+Верзија платформе Геко кôда
 
 
 ;Processor architecture
-Processor architecture
+Архитектура процесора
 
 
 ;The date this version was first used with this installation profile
-The date this version was first used with this installation profile
+Датум првог коришћења ове верзије са тренутним профилом
 
 
 ;An application version which has been used with this installation profile
-An application version which has been used with this installation profile
+Верзија апликације која је коришћена са овом инсталацијом профила
 
 
 ;The number of add-ons of this type that existed in the profile on this date
-The number of add-ons of this type that existed in the profile on this date
+Број додатака ове врсте који су постојали у профилу на овај датум date
 
 
 ;<var>True</var> if the application automatically disabled the add-on
-<var>True</var> if the application automatically disabled the add-on
+<var>True</var> ако је апликација аутоматски онемогућила додатак
 
 
 ;Whether this add-on was installed by the user or automatically by another application
-Whether this add-on was installed by the user or automatically by another application
+Је ли овај додатак инсталиран од стране корисника или аутоматски од стране друге апликације
 
 
 ;Whether this add-on has native code.
-Whether this add-on has native code.
+Има ли овај додатак нативни кôд.
 
 
 ;The identifier of this add-on as defined by the add-on developer
-The identifier of this add-on as defined by the add-on developer
+Индетификатор овог додатка којег је дефинисао аутор додатка
 
 
 ;The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
-The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
+Најближи датум када је овај додатак инсталиран (претходне информације о уклоњеним додацима се не чувају)
 
 
 ;The number of searches performed with this search engine from this part of the UI
-The number of searches performed with this search engine from this part of the UI
+Број претраживања са овом тражилицом из овог дела корисничког интерфејса.
 
 
 ;Whether this add-on was installed in the application directory or profile directory
-Whether this add-on was installed in the application directory or profile directory
+Је ли овај додатак инсталиран у директорију апликације или профила
 
 
 ;Whether this add-on is an extension or a plug-in
-Whether this add-on is an extension or a plug-in
+Је ли овај додатак екстензија или прикључак?
 
 
 ;The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
-The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
+Најближи датум када је овај додатак ажуриран (претходне информације о уклоњеним додацима се не чувају)
 
 
 ;<var>True</var> if the user manually disabled the add-on
-<var>True</var> if the user manually disabled the add-on
+<var>True</var> ако је корисник сам онемогућио додатак
 
 
 ;The current version of this add-on
-The current version of this add-on
+Тренутна верзија овог додатка
 
 
 ;How long in milliseconds it took during startup for the application to render the UI and display the window
-How long in milliseconds it took during startup for the application to render the UI and display the window
+Време потребно за приказ корисничог интерфејса и прозора код покретања (у милисекундама)
 
 
 ;How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
-How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
+Време потребно за учитавање библиотека и основну иницијализацију код покретања (у милисекундама)
 
 
 ;How long in milliseconds it took during startup for the application to restore tabs from the previous session
-How long in milliseconds it took during startup for the application to restore tabs from the previous session
+Време потребно за враћање језичака из претходне сесије код покретања (у милисекундама)
 
 
 ;The number of times the application was run and not cleanly shut down.
-The number of times the application was run and not cleanly shut down.
+Број насилних затварања апликације
 
 
 ;The time in seconds that the aborted sessions were not idle
-The time in seconds that the aborted sessions were not idle
+Време (у секундама) током којег прекинуте сесије нису биле у стању мировања
 
 
 ;The time in seconds that the aborted sessions were running
-The time in seconds that the aborted sessions were running
+Време (у секундама) током којег су прекинуте сесије биле покренуте
 
 
 ;The number of days since this application profile directory was created
-The number of days since this application profile directory was created
+Број дана од како је створен профил ове аликације
 
 
 ;The number of times the application was run and cleanly shut down.
-The number of times the application was run and cleanly shut down.
+Број нормалних покретања и затварања апликације.
 
 
 ;The time in seconds that the completed sessions were not idle
-The time in seconds that the completed sessions were not idle
+Време (у секундама) током којег довршене сесије нису биле у стању мировања
 
 
 ;The time in seconds that the completed sessions were running
-The time in seconds that the completed sessions were running
+Време (у секундама) током којег су довршене сесије биле покренуте
 
 
 ;Total number of crashes that were recorded but not yet submitted
-Total number of crashes that were recorded but not yet submitted
+Укупан број забележених, али непријављених рушења
 
 
 ;Total number of crashes that have been submitted
-Total number of crashes that have been submitted
+Укупан број пријављених рушења
 
 
 ;Time in seconds the app has not been idle
-Time in seconds the app has not been idle
+Време (у секундама) када апликација није мировала
 
 
 ;Time in seconds since the app was last started
-Time in seconds since the app was last started
+Време у секундама од како је апликација последњи пут покренута
 
 
 ;Total number of bookmarks
-Total number of bookmarks
+Укупан број забелешки
 
 
 ;Total number of pages listed in the history
-Total number of pages listed in the history
+Укупан број страница у историји претраживања
 
 
 ;How long in minutes the current session has been running
-How long in minutes the current session has been running
+Време (у минутима) колико је тренутна сесија активна
 
 
 ;Welcome to your Firefox Health Report
-Welcome to your Firefox Health Report
+Добродошли у Извештај здравља вашег Фајерфокса
 
 
 ;Welcome!
-Welcome!
+Добродошли!
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
-Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
-
+Извештај здравља Фајерфокса даје вам увид у перформансе вашег Фајерфокса, те вам нуди савете за побољшање перформанси. 
 
 ;See My Report
-See My Report
+Прикажи мој извештај
 
 
 ;Time (in seconds)
-Time (in seconds)
+Време (у секундама)
 
 
 ;Show Statistics
