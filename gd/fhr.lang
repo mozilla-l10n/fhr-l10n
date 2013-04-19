@@ -1,428 +1,419 @@
+## active ##
 ;Firefox Health Report
-Firefox Health Report
+Aithisg slàinte Firefox
 
 
 ;Raw Data
-Raw Data
+Dàta amh
 
 
 ;Get insights and performance information about your version of Firefox.
-Get insights and performance information about your version of Firefox.
+Fiosrachadh air dèanadas a' Firefox agadsa.
 
 
 ;Learn more...
-Learn more...
+Barrachd fiosrachaidh...
 
 
 ;Data Sharing
-Data Sharing
+Co-roinneadh dàta
 
 
 ;ON
-ON
+AIR
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
-You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
+Chuir thu romhad gun a bhith a' co-roinneadh dàta le Mozilla ach chì thu fhathast dè cho math 's a tha am brabhsair agad a' dèanamh.
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
-Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
+Thèid an aithisg slàinte agad a thoirt air falbh o fhrithealaichean Mozilla cuideachd. Faigh barrachd fiosrachaidh sa <a href="%(privacy_url)s">phoileasaidh phrìobhaideachd</a> againn.
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
-You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
+Chuir thu romhad dàta a cho-roinneadh le Mozilla o àm gu àm. Mòran taing airson taic a chumail rinn is sinne ag obair a chum lìon nas fhearr dhan a h-uile.
 
 
 ;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
-Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
+Chì thu mar a làimhsicheas sinn an dàta agad sa <a href="%(privacy_url)s">phoileasaidh phrìobhaideachd</a> againn.
 
 
 ;Vital Stats
-Vital Stats
+Prìomh stats
 
 
 ;version
-version
+tionndadh
 
 
 ;time open
-time open
+fosgailte
 
 
 ;last crash
-last crash
+an tuisleadh mu dheireadh
 
 
 ;bookmarks
-bookmarks
+comharran-leabhair
 
 
 ;This Month
-This Month
+Am mìos seo
 
 
 ;crashes
-crashes
+tuislidhean
 
 
 ;Add-ons
-Add-ons
+Tuilleadain
 
 
 ;View List
-View List
+Seall an liosta
 
 
 ;enabled
-enabled
+an comas
 
 
 ;disabled
-disabled
+à comas
 
 
 ;Plugins
-Plugins
+Plugain
 
 
 ;Tips
-Tips
+Gliocasan
 
 
 ;Wear and Tear
-Wear and Tear
+Caitheamh 's teireachdainn
 
 
 ;It looks like your browser has crashed a number of times recently. To learn more:
-It looks like your browser has crashed a number of times recently. To learn more:
+Tha coltas gun do thuislich am brabhsair agad an-dràsta 's a-rithist o chionn goirid. Airson barrachd fiosrachaidh:
 
 
 ;OFF
-OFF
+DHETH
 
 
 ;Visit our <a href="%(sumo_url)s">support website</a>
-Visit our <a href="%(sumo_url)s">support website</a>
+Tadhail air <a href="%(sumo_url)s">làrach na taice</a> againn
 
 
 ;View more <a href="%(details_url)s">detailed information</a>
-View more <a href="%(details_url)s">detailed information</a>
+Seall <a href="%(details_url)s">barrachd mion-fhiosrachaidh</a>
 
 
 ;pages visited
-pages visited
+duilleagan air an do thadhail thu
 
 
 ;Your browser seems to be running slower than usual. To learn more:
-Your browser seems to be running slower than usual. To learn more:
+Tha coltas gu bheil am brabhsair agad nas slaodaiche na 's àbhaist. Airson barrachd fiosrachaidh:
 
 
 ;You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
-You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
+Chì thu barrachd mion-fhiosrachaidh inntinnich mar as trice a chleachdas tu am brabhsair agad. Thoir sùil air a-rithist ann am beagan sheachdainean 's chì thu mar a tha rudan a' dol.
 
 
 ;Startup Time by Day
-Startup Time by Day
+Faid tòiseachaidh a-rèir latha
 
 
 ;Graph:
-Graph:
+Graf:
 
 
 ;Average
-Average
+Cuibheas
 
 
 ;All
-All
+Na h-uile
 
 
 ;Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
-Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
+Bheir an fhaid tòiseachaidh beachd dhut air dè cho math 's a tha a' Firefox agad a' dèanamh. A ghnàth, mar is luaithe a thòisicheas e (i.e. faid nas giorra) 's ann as fhearr a tha e a' dèanamh.
 
 
 ;Data Collected
-Data Collected
+An dàta a chaidh a chruinneachadh
 
 
 ;Glossary
-Glossary
+Briathrachan
 
 
 ;What the Firefox Health Report Measures
-What the Firefox Health Report Measures
+Na thomhaiseas aithisg slàinte Firefox
 
 
 ;The Firefox Health Report (FHR) has 4 categories of metrics:
-The Firefox Health Report (FHR) has 4 categories of metrics:
+Tha ceithir tomhasan air aithisg slàinte Firefox (ASF):
 
 
 ;Configuration
-Configuration
+Rèiteachadh
 
 
 ;Device hardware, operating system, Firefox version
-Device hardware, operating system, Firefox version
+Bathar-cruaidh 's siostam-obrachaidh an uidheim, tionndadh de Firefox
 
 
 ;Customizations
-Customizations
+Gnàthachaidhean
 
 
 ;Add-ons, count and type
-Add-ons, count and type
+Tuilleadain, co mheud is dè seòrsa
 
 
 ;Performance
-Performance
+Dèanadas
 
 
 ;Timing of browser events, rendering, session restores
-Timing of browser events, rendering, session restores
+Tìmeachadh tachartasan a' bhrabhsair, reandaradh, seiseanan air an aiseag
 
 
 ;Length of session, how old a profile is, count of crashes, count of pages
-Length of session, how old a profile is, count of crashes, count of pages
+Faid an t-seisein, dè cho aosta 's a tha pròifil, dè cho tric 's a thuislich e, àireamh de dhuilleagan
 
 
 ;Detailed Description
-Detailed Description
+Tuairisgeul mionaideach
 
 
 ;Metric
-Metric
+Tomhas
 
 
 ;Description
-Description
+Tuairisgeul
 
 
 ;Binary interface for XPCOM
-Binary interface for XPCOM
+Binary Interface airson XPCOM
 
 
 ;Identifier for this build of the application based on the date the build was started
-Identifier for this build of the application based on the date the build was started
+Aithnichear airson build na h-aplacaid stèidhichte air a' cheann-là a chaidh am build a thòiseachadh
 
 
 ;Operating System for which this build was configured
-Operating System for which this build was configured
+An siostam-obrachaidh a chaidh am build seo a rèiteachadh air a shon
 
 
 ;Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
-Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
+An t-aithnichear aig sgaoileadh na h-aplacaid a tha 'ga chleachdadh. Gheibh sinn seo on roghainnean <var>distribution.id</var>
 
 
 ;Version of the distribution, taken from the <var>distribution.version</var> preference
-Version of the distribution, taken from the <var>distribution.version</var> preference
+Tionndadh an sgaoilidh a fhuair sinn on roghainn <var>distribution.version</var>
 
 
 ;The version number of any Mozilla hotfix applied to the application
-The version number of any Mozilla hotfix applied to the application
+Àireamh an tionndaidh aig hotfix Mozilla sam bith a chaidh a chur an sàs san aplacaid
 
 
 ;Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
-Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
+An t-aithnichear àraidh aig an aplacaid a dh'innseas gur ann aig Firefox no Thunderbird no rud mar sin a tha e. Co-ionnann aig gach stàladh de dh'aplacaid ge be dè an luach a tha aig <var>appName</var>
 
 
 ;The configured name of the application (Firefox/Aurora/Nightly for instance)
-The configured name of the application (Firefox/Aurora/Nightly for instance)
+Ainm rèitichte na h-aplacaid (Firefox/Aurora/Nightly mar eisimpleir)
 
 
 ;The channel this installation checks for application updates (nightly/aurora/beta/release)
-The channel this installation checks for application updates (nightly/aurora/beta/release)
+Dè seanail a chumas an stàladh seo sùil air airson ùrachaidhean (nightly/aurora/beta/release)
 
 
 ;The name of the company/provider who built this version
-The name of the company/provider who built this version
+Ainm a' chompanaidh/an t-solaraiche a thog an tionndadh seo
 
 
 ;The current version of the product
-The current version of the product
+Tionndadh làithreach a' bhathar seo
 
 
 ;Number of processor cores
-Number of processor cores
+Co mheud eitean pròiseasair
 
 
 ;Whether the application is currently configured to be the default browser for the operating system
-Whether the application is currently configured to be the default browser for the operating system
+A bheil an aplacaid 'na bhrabhsair bunaiteach an t-siostaim-obrachaidh gus nach eil
 
 
 ;Locale currently being used
-Locale currently being used
+An sgeama-ionadail a tha 'ga chleachdadh
 
 
 ;Amount of RAM in megabytes
-Amount of RAM in megabytes
+Co mheud RAM ann am megabyte
 
 
 ;Currently running Operating System (kernel) name
-Currently running Operating System (kernel) name
+Ainm an t-siostaim-obrachaidh (kernel) a tha 'ga ruith
 
 
 ;Currently running Operating System (kernel) version
-Currently running Operating System (kernel) version
+Tionndadh an t-siostaim-obrachaidh (kernel) a tha thu a' ruith
 
 
 ;The build identifier of the Gecko platform code
-The build identifier of the Gecko platform code
+Aithnichear a' build aig còd ùrlar Gecko
 
 
 ;The version of the Gecko platform code
-The version of the Gecko platform code
+Tionndadh còd ùrlair Gecko
 
 
 ;Processor architecture
-Processor architecture
+Ailtireachd a' phròiseasair
 
 
 ;The date this version was first used with this installation profile
-The date this version was first used with this installation profile
+Cuin a chaidh an tionndadh seo a chleachdadh a' chiad turas leis a' phròifil stàlaidh seo
 
 
 ;An application version which has been used with this installation profile
-An application version which has been used with this installation profile
+Tionndadh aplacaid a chaidh a chleachdadh leis a' phròifil stàlaidh seo
 
 
 ;The number of add-ons of this type that existed in the profile on this date
-The number of add-ons of this type that existed in the profile on this date
+Co mheud tuilleadan dhen t-seòrsa seo a bha aig a' phròifil seo air an latha seo
 
 
 ;<var>True</var> if the application automatically disabled the add-on
-<var>True</var> if the application automatically disabled the add-on
+<var>True</var> ma chuir an aplacaid an tuilleadan à comas gu fèin-obrachail
 
 
 ;Whether this add-on was installed by the user or automatically by another application
-Whether this add-on was installed by the user or automatically by another application
+An deach an aplacaid seo a stàladh leis a' chleachdaiche no gu fèin-obrachail le aplacaid eile
 
 
 ;Whether this add-on has native code.
-Whether this add-on has native code.
+A bheil còd tùsail aig an tuilleadan seo.
 
 
 ;The identifier of this add-on as defined by the add-on developer
-The identifier of this add-on as defined by the add-on developer
+Aithnichear an tuilleadain seo mar a chaidh a mhìneachadh le leasaichear an tuilleadain
 
 
 ;The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
-The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
+An turas mu dheireadh a chaidh an tuilleadan seo a stàladh (cha dèid seann fhiosrachadh mu thuilleadain a chaidh a thoirt air falbh a chumail).
 
 
 ;The number of searches performed with this search engine from this part of the UI
-The number of searches performed with this search engine from this part of the UI
+Co mheud turas a chaidh rud a lorg leis an einnsean-luirg seo on phàirt seo dhen UI
 
 
 ;Whether this add-on was installed in the application directory or profile directory
-Whether this add-on was installed in the application directory or profile directory
+An deach an tuilleadan seo a stàladh ann am pasgan na h-aplacaid no ann am pasgan na pròifil
 
 
 ;Whether this add-on is an extension or a plug-in
-Whether this add-on is an extension or a plug-in
+A bheil an tuilleadan seo 'na leudachan no 'na phlugan
 
 
 ;The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
-The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
+An turas mu dheireadh a chaidh an tuilleadan seo ùrachadh (cha dèid seann fhiosrachadh mu thuilleadain a chaidh a thoirt air falbh a chumail).
 
 
 ;<var>True</var> if the user manually disabled the add-on
-<var>True</var> if the user manually disabled the add-on
+<var>True</var> ma chuir an cleachdaiche an tuilleadan seo à comas iad fhèin
 
 
 ;The current version of this add-on
-The current version of this add-on
+An tionndadh làithreach dhen tuilleadan seo
 
 
 ;How long in milliseconds it took during startup for the application to render the UI and display the window
-How long in milliseconds it took during startup for the application to render the UI and display the window
+Co mheud mille-dhiog a thug an aplacaid a' reandaradh na UI agus a' sealltainn na h-uinneige rè an tòiseachaidh
 
 
 ;How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
-How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
+Co mheud mille-dhiog a thug an aplacaid a' luchdadh nan leabhar-lann agus a' coileanadh an t-ullachadh bunasach rè an tòiseachaidh
 
 
 ;How long in milliseconds it took during startup for the application to restore tabs from the previous session
-How long in milliseconds it took during startup for the application to restore tabs from the previous session
+Co mheud mille-dhiog a thug an aplacaid ag aiseag nan tabaichean on t-seisean roimhe rè an tòiseachaidh
 
 
 ;The number of times the application was run and not cleanly shut down.
-The number of times the application was run and not cleanly shut down.
+Co mheud turas a chaidh an aplacaid a ruith 's a chur dheth mar nach bu chòir.
 
 
 ;The time in seconds that the aborted sessions were not idle
-The time in seconds that the aborted sessions were not idle
+Co mheud diog nach robh na seisean a sguireadh dhiubh 'nan tàmh
 
 
 ;The time in seconds that the aborted sessions were running
-The time in seconds that the aborted sessions were running
+Co mheud diog 's a bha na seiseanan a sguireadh dhiubh a' ruith
 
 
 ;The number of days since this application profile directory was created
-The number of days since this application profile directory was created
+Co mheud latha air ais a chaidh pasgan pròifil na h-aplacaid a chruthachadh
 
 
 ;The number of times the application was run and cleanly shut down.
-The number of times the application was run and cleanly shut down.
+Co mheud turas a chaidh an aplacaid a ruith 's a chuir dheth mar bu chòir.
 
 
 ;The time in seconds that the completed sessions were not idle
-The time in seconds that the completed sessions were not idle
+Co mheud diog nach robh na seiseanan coileanta 'nan tàmh
 
 
 ;The time in seconds that the completed sessions were running
-The time in seconds that the completed sessions were running
+Co mheud diog a bha na seiseanan coileanta a' ruith
 
 
 ;Total number of crashes that were recorded but not yet submitted
-Total number of crashes that were recorded but not yet submitted
+Co mheud tuisleadh a chaidh a chlàradh uile gu lèir ach nach deach a chur fhathast
 
 
 ;Total number of crashes that have been submitted
-Total number of crashes that have been submitted
+Co mheud tuisleadh a chaidh a chur
 
 
 ;Time in seconds the app has not been idle
-Time in seconds the app has not been idle
+Co mheud diog nach robh an aplacaid 'na thàmh
 
 
 ;Time in seconds since the app was last started
-Time in seconds since the app was last started
+Co mheud diog on a chaidh an aplacaid a thòiseachadh turas mu dheireadh
 
 
 ;Total number of bookmarks
-Total number of bookmarks
+Co mheud comharra-lìn a tha ann uile gu lèir
 
 
 ;Total number of pages listed in the history
-Total number of pages listed in the history
+Co mheud duilleag a tha san eachdraidh uile gu lèir
 
 
 ;How long in minutes the current session has been running
-How long in minutes the current session has been running
+Co mheud mionaid a bha an seisean làithreach a' ruith
 
 
 ;Welcome to your Firefox Health Report
-Welcome to your Firefox Health Report
+Fàilte gu aithisg slàinte Firefox
 
 
 ;Welcome!
-Welcome!
+Fàilte ort!
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
-Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
+Innsidh aithisg slàinte Firefox dhut dè cho math 's a tha Firefox a' dèanamh agus mar a bheir thu piseach air.
 
 
 ;See My Report
-See My Report
-
-
-;Time (in seconds)
-Time (in seconds)
-
-
-;Show Statistics
-Seall an stadastaireachd
-
-
+Seall dhomh an aithisg agam
