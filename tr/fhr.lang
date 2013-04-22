@@ -7,7 +7,7 @@ Ham Veri
 
 
 ;Get insights and performance information about your version of Firefox.
-Firefox. sürümünüz hakkında öngörüler ve performans bilgileri alın.
+Firefox sürümünüz hakkında öngörüler ve performans bilgileri alın.
 
 
 ;Learn more...
@@ -203,79 +203,79 @@ XPCOM için ikili arayüz
 
 
 ;Identifier for this build of the application based on the date the build was started
-Identifier for this build of the application based on the date the build was started
+Uygulamanın bu sürümünün inşasının başlatıldığı tarihe dayalı kimliği
 
 
 ;Operating System for which this build was configured
-Operating System for which this build was configured
+Bu inşanın yapılandırıldığı işletim sistemi
 
 
 ;Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
-Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
+Kullanımdaki uygulamanın bu dağıtıma ait kimliği. <var>distribution.id</var> tercihinden alınır
 
 
 ;Version of the distribution, taken from the <var>distribution.version</var> preference
-Version of the distribution, taken from the <var>distribution.version</var> preference
+Dağıtımın sürümü. <var>distribution.version</var> tercihinden alınır
 
 
 ;The version number of any Mozilla hotfix applied to the application
-The version number of any Mozilla hotfix applied to the application
+Uygulamaya uygulanmış her Mozilla düzeltmesinin sürümü
 
 
 ;Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
-Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
+Uygulamanın Firefox veya Thunderbird vb. olduğunu belirten eşsiz kimliği. <var>appName</var> değerinden bağımsız olarak, bir uygulamanın tüm kurulumları için aynıdır
 
 
 ;The configured name of the application (Firefox/Aurora/Nightly for instance)
-The configured name of the application (Firefox/Aurora/Nightly for instance)
+Uygulamanın yapılandırılmış ismi (örneğin Firefox/Aurora/Nightly)
 
 
 ;The channel this installation checks for application updates (nightly/aurora/beta/release)
-The channel this installation checks for application updates (nightly/aurora/beta/release)
+Bu kurulumun uygulama güncellemelerini kaydettiği kanal (nightly/aurora/beta/release)
 
 
 ;The name of the company/provider who built this version
-The name of the company/provider who built this version
+Bu sürümü inşa eden şirketin/sağlayıcının ismi
 
 
 ;The current version of the product
-The current version of the product
+Ürünün mevcut sürümü
 
 
 ;Number of processor cores
-Number of processor cores
+İşlemci çekirdeği sayısı
 
 
 ;Whether the application is currently configured to be the default browser for the operating system
-Whether the application is currently configured to be the default browser for the operating system
+Uygulamanın işletim siteminde varsayılan tarayıcı olarak yapılandırılıp yapılandırılmadığı
 
 
 ;Locale currently being used
-Locale currently being used
+Şu anda kullanılan dil
 
 
 ;Amount of RAM in megabytes
-Amount of RAM in megabytes
+Megabayt cinsinden RAM miktarı
 
 
 ;Currently running Operating System (kernel) name
-Currently running Operating System (kernel) name
+Şu anda çalışan işletim sistemi (kernel) ismi
 
 
 ;Currently running Operating System (kernel) version
-Currently running Operating System (kernel) version
+Şu anda çalışan işletim sistemi (kernel) sürümü
 
 
 ;The build identifier of the Gecko platform code
-The build identifier of the Gecko platform code
+Gecko platform kodunun inşa kimliği
 
 
 ;The version of the Gecko platform code
-The version of the Gecko platform code
+Gecko platform kodunun sürümü
 
 
 ;Processor architecture
-Processor architecture
+İşlemci mimarisi
 
 
 ;The date this version was first used with this installation profile
@@ -411,7 +411,7 @@ Hoş geldiniz!
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
-Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
+Firefox Sağlık Raporu, Firefox'unuzun nasıl çalıştığı ve onu nasıl geliştirebileceğiniz konusunda bilgi verir.
 
 
 ;See My Report
