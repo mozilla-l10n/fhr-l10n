@@ -13,6 +13,7 @@
 ;Learn more...
 ဆက်လက် လေ့လာ...
 
+
 ;Data Sharing
 အချက်အလက် ဝေမျှခြင်း
 
@@ -22,7 +23,8 @@
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
-သင်သည် မိုဇီလာဖြင့် အချက်အလက် ဝေမျှခြင်းအား ရပ်တန့်လိုက်ပေမယ့် သင်၏ ဘယောက်ဆာ မည်သို့ဆောက်ရွက်ချက်ရှိသည်ကို ကြည့်နေနိုင်သေးသည် 
+သင်သည် မိုဇီလာဖြင့် အချက်အလက် ဝေမျှခြင်းအား ရပ်တန့်လိုက်ပေမယ့် သင်၏ ဘယောက်ဆာ မည်သို့ဆောက်ရွက်ချက်ရှိသည်ကို ကြည့်နေနိုင်သေးသည်
+
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
 သင်၏ ကျန်းမာရေးဆိုင်ရာ အချက်အလက်များအား မိုဇီလာ၏ ဆာဗာထဲမှ လဲ ဖယ်ရှားပေးသွားမည်။ ကျွနု်ပ်တို့၏ <a href="%(privacy_url)s">ကိုယ်ရေးလုံခြုံမှူ ဥပဒေ</a> တွင် ဆက်လက်လေ့လာလိုက်ပါ ။
@@ -55,12 +57,14 @@
 ;bookmarks
 ဝတ်စာအမှတ်များ
 
+
 ;This Month
 ဒီလ
 
 
 ;crashes
 ပိတ်ကျခြင်းများ
+
 
 ;Add-ons
 ထပ်ပေါင်းဆော့ဝဲများ
@@ -113,6 +117,7 @@ Plugins
 ;Your browser seems to be running slower than usual. To learn more:
 သင့်ဘယောက်ဆာ သည် ပုံမှန်ထက် နှေးနေသည်ဟုထင်ရသည်။ ဆက်သိရအောင်လေ့လာပါ :
 
+
 ;You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
 သင့်ဘယောက်ဆာကို သေချာသတိထားသုံးကြည့်လေ ပိုပြီးစိတ်ဝင်စားဖို့ကောင်းတဲ့ အသေးစိတ်အချက်လေးတွေတွေ့လေဖြစ်ပါတယ်။ တစ်ပတ်နှစ်ပတ် ကြာရင်ပြန်လာပြီး ဘာတွေခေတ်စားနေလဲဆိုတာ ပြန်လာကြည့်လို့ရပါတယ်။
 
@@ -136,6 +141,7 @@ Plugins
 ;Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
 စတင်ချိန် မှတ်တမ်းဟာ သင့် မီးမြေခွေး ဘယ်လောက်ကောင်းကောင်း အလုပ်လုပ်နေသလဲဆိုတာ သိသာစေပါတယ်။ ယေဘုယျအားဖြင့်ပြောရရင်တော့ မြန်မြန်တက်လာလေ ဘယောက်ဆာ စွမ်းဆောင်ရည်ကောင်းလေ ဟုဆိုနိုင်ပါတယ်။
 
+
 ;Data Collected
 အချက်အလက်များ စုဆောင်းပြီး
 
@@ -146,6 +152,7 @@ Plugins
 
 ;What the Firefox Health Report Measures
 မီးမြေခွေး ကျန်းမာရေး အစီရင်ခံစာ ဘာတွေကို တိုင်းတာမလဲ
+
 
 ;The Firefox Health Report (FHR) has 4 categories of metrics:
 မီးမြေခွေး ကျန်းမာရေး အစီရင်ခံစာ (FHR) မှာ အတိုင်းအတာအမျိုးအစားလေးမျိုးရှိရာ :
@@ -192,10 +199,12 @@ session တစ်ခု၏ ကြာချိန် ၊ ကိုယ်ရေး
 
 
 ;Binary interface for XPCOM
-XPCON ရဲ့ ဘိုင်နရီ အသုံးပြုစနစ် 
+XPCON ရဲ့ ဘိုင်နရီ အသုံးပြုစနစ်
+
 
 ;Identifier for this build of the application based on the date the build was started
 ယခု အသုံးပြုနေသော တည်ဆောက်မှူပုံစံ ၏ မှတ်ပုံတင်အမှတ်သည် တည်ဆောက်ခဲ့သည် နေ့ကိုမူတည်ပြီး ပေးထားသည် ။
+
 
 ;Operating System for which this build was configured
 တည်ဆောက်မှူအား အသုံးပြုနိုင်မည့် ကွန်ပျူတာ စနစ်
@@ -203,6 +212,7 @@ XPCON ရဲ့ ဘိုင်နရီ အသုံးပြုစနစ်
 
 ;Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
 အသုံးပြုနေသော ထူးခြား တည်ဆောက်ဖြန့်ဝေမှူ ၏ မှတ်ပုံတင် အမှတ် ။ ၎င်းအား <var>distribution.id</var> အပြင်အဆင်မှ ယူထားသည်။
+
 
 ;Version of the distribution, taken from the <var>distribution.version</var> preference
 ဖြန့်ဝေမှူ၏ ဗားရှင်း ၊ <var>distribution.version</var> အပြင်အဆင်မှ ယူပြထားသည်
@@ -214,6 +224,7 @@ XPCON ရဲ့ ဘိုင်နရီ အသုံးပြုစနစ်
 
 ;Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
 မီးမြေခွေးလား မိုးကြိုးငှက်ဆော့ဝဲ လားဆိုတာကို ခွဲခြားသိစေသော မှတ်ပုံတင်အမှတ် ။ ဆော့ဝတစ်ခု ခြင်း ဆီအတွက် အတူတူဖြစ်ပြီး ၎င်းတို့ ၏ <var>appName</var> နှင့်မသက်ဆိုင်ပါ။
+
 
 ;The configured name of the application (Firefox/Aurora/Nightly for instance)
 ဆော့ဝဲ၏ အသုံးချထားသော အမည် (မီးမြေခွေး/Aurora/Nightly စသဖြင့်)
@@ -234,11 +245,14 @@ XPCON ရဲ့ ဘိုင်နရီ အသုံးပြုစနစ်
 ;Number of processor cores
 ပရောဆက်ဆာ အရေအတွက်
 
+
 ;Whether the application is currently configured to be the default browser for the operating system
-ဆော့ဝဲအား ကွန်ပျူတာ စနစ်၏ ပင်မဘယောက်ဆာ ဆော့ဝဲအဖြစ် ထားထားသလား မထားထားဘူးလား 
+ဆော့ဝဲအား ကွန်ပျူတာ စနစ်၏ ပင်မဘယောက်ဆာ ဆော့ဝဲအဖြစ် ထားထားသလား မထားထားဘူးလား
+
 
 ;Locale currently being used
 လက်ရှိသုံးနေသော ဘာသာစကားပုံစံ
+
 
 ;Amount of RAM in megabytes
 ရုတ်ချည်းမှတ်ဥာဏ် ပမာဏအား မီဂါဘိုက်ဖြင့်
@@ -251,47 +265,62 @@ XPCON ရဲ့ ဘိုင်နရီ အသုံးပြုစနစ်
 ;Currently running Operating System (kernel) version
 လက်ရှိ အသုံးပြုနေသော အခြေခံကွန်ပျူတာ စနစ်(kernel)ဗားရှင်း
 
+
 ;The build identifier of the Gecko platform code
 ဂတ်ကို၏ တည်ဆောက်မှူ မှတ်ပုံတင် ကုဒ်
+
 
 ;The version of the Gecko platform code
 ဂတ်ကို၏ ဗားရှင်းကုဒ်
 
+
 ;Processor architecture
 ပရောစက်ဆာတည်ဆောက်ပုံ
+
 
 ;The date this version was first used with this installation profile
 ယခုအသုံးပြုနေတဲ့ပရိုဖိုင်ဖြင့် ယခုဗားရှင်းကို စသုံးခဲ့သည့်နေ့
 
+
 ;An application version which has been used with this installation profile
 ယခုအသုံးပြုနေသော ပရိုဖိုင်ဖြင့်အသုံးပြုခဲ့သော ဆော့ဝဲဗားရှင်း
 
+
 ;The number of add-ons of this type that existed in the profile on this date
-ပရိုဖိုင်အတွင်း ၎င်းနေ့တွင် တည်ရှိခဲ့သော ပေါင်းထည့် ဆော့ဝဲအရေအတွက် 
+ပရိုဖိုင်အတွင်း ၎င်းနေ့တွင် တည်ရှိခဲ့သော ပေါင်းထည့် ဆော့ဝဲအရေအတွက်
+
 
 ;<var>True</var> if the application automatically disabled the add-on
 ဆော့ဝဲ သည် ယခု ပေါင်းထည့်ဆော့ဝဲအား သူ့အလိုအလျောက်ပိတ်ထားပါက <var>မှန်</var>
 
+
 ;Whether this add-on was installed by the user or automatically by another application
 ပေါင်းထည့်ဆော့ဝဲအား သုံးဆွဲသူမှ ရည်ရွယ်ချက်ဖြင့်ထည့်ထားခြင်း သို့ အခြား ဆော့ဝဲတစ်ခုခုမှ အလိုအလျောက်ထည့်သွင်းထားခြင်းလား
+
 
 ;Whether this add-on has native code.
 ယခု ပေါင်းထည့်ဆော့ဝဲတွင် သီးခြားရပ်တည်သော မူရင်းကုဒ်ပါဝင်လား
 
+
 ;The identifier of this add-on as defined by the add-on developer
 ပေါင်းထည့်ဆော့ဝဲ တည်ဆောက်သူမှ ထည့်သွင်းထားသော ပေါင်းထည့်ဆော့​ဝဲ ရည်ညွန်းပြ
+
 
 ;The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
 နောက်ဆုံး ယခုပေါင်းထည့်ဆော့ဝဲအား ထည့်သွင်းခဲ့သည့် ရက်(ဖြုတ်ထားပြီးသော ပေါင်းထည့်ဆော့ဝဲတစ်ခု၏အစောပိုင်း အချိက်အလက်များအား သိမ်းမထားပါ)
 
+
 ;The number of searches performed with this search engine from this part of the UI
 ယခု သုံးဆွဲသူပြ နေရာမှ ဤရှာဖွေသူ ဆားဗစ်ဖြင့် ပြုလုပ်ခဲ့သော ရှာဖွေမှူပေါင်း
+
 
 ;Whether this add-on was installed in the application directory or profile directory
 ယခုပေါင်းထည့်ဆော့ဝဲအား ဆော့ဝဲ၏ မူရင်းဖိုင်များအောက် သို့ သုံးဆွဲသူ ပရိုဖိုင်  ၏ မူရင်းဖိုင်များ အောက်တွင် ထည့်သွင်းထားလား
 
+
 ;Whether this add-on is an extension or a plug-in
 ယခုပေါင်းထည့်ဆော့ဝဲသည် extenstion လား plug-in လား
+
 
 ;The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
 နောက်ဆုံး ပေါင်းထည့်ဆော့ဝဲအား အဆင့်မြှင့်တင်ခဲ့သည်ရက် (ဖြုတ်ထားပြီးသော ပေါင်းထည့်ဆော့ဝဲတစ်ခု၏အစောပိုင်း အချိက်အလက်များအား သိမ်းမထားပါ)
@@ -304,20 +333,26 @@ XPCON ရဲ့ ဘိုင်နရီ အသုံးပြုစနစ်
 ;The current version of this add-on
 ယခုထပ်ပေါင်းဆော့ဝဲ၏ ဗားရှင်း
 
+
 ;How long in milliseconds it took during startup for the application to render the UI and display the window
 ဆော့ဝဲအား စဖွင့်ပြီးချိန်နှင့် သုံးဆွဲသူ မြင်ကွင်း/ဝင်းဒိုးများအား ဖွင့်ပြီးချိန် အတွင်း မီလီစက္ကန့်ကြာချိန်
+
 
 ;How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
 ဆော့ဝဲအား စစဖွင့်ပြီးချိန်နှင့်  လိုအပ်သော အရာများအား ပြင်ဆင်ပြီးချိန် အတွင်း မီလီစက္ကန့်ကြာချိန်
 
+
 ;How long in milliseconds it took during startup for the application to restore tabs from the previous session
 အက်ပလီကေးရှင်း ကို ဖွင့်ပြီး နောက်ဆုံး ပိတ်ကျသွားခဲ့တဲ့ ဆက်ရှင်မှ ဖွင့်ထားသော စာမျက်နှာများကို ပြန်လည်ခေါ်ယူဖို့ ကြာချိန်အား မီလီစက္ကန့် ဖြင့်
+
 
 ;The number of times the application was run and not cleanly shut down.
 အက်ပလီကေးရှင်း ကို အသုံးပြုပြီး ကောင်းကောင်းပြန်ပိတ်နိုင်ခဲ့သည် အကြိမ်အရေအတွက်
 
+
 ;The time in seconds that the aborted sessions were not idle
 မလိုအပ်သော ဆက်ရှင်များ ငြိမ်သက်ခြင်း မရှိတော့ သည့် စက္ကန့် ကြာချိန်
+
 
 ;The time in seconds that the aborted sessions were running
 မလိုတော့သော session များ အားပိတ်ပြီးနောက် စက္ကန့်ကြာချိန်
@@ -326,8 +361,10 @@ XPCON ရဲ့ ဘိုင်နရီ အသုံးပြုစနစ်
 ;The number of days since this application profile directory was created
 ယခုအသုံးပြုနေသော ပရိုဖိုင်အား စတင်ခဲ့ပြီး နောက် ယခု ထိသုံးခဲ့သော ရက်အရေအတွက်
 
+
 ;The number of times the application was run and cleanly shut down.
 အသုံးချဆော့ဝဲ အောင်မြင်စွာ အသုံးပြုပြီး ပိတ်သွားသည့် အကြိမ်အရေ အတွက်
+
 
 ;The time in seconds that the completed sessions were not idle
 ငြိမ်သက်မနေခဲ့သော Session များ ၏ စက္ကန့်ကြာချိန်
@@ -379,3 +416,13 @@ XPCON ရဲ့ ဘိုင်နရီ အသုံးပြုစနစ်
 
 ;See My Report
 ကျွနု်ပ်၏ အစီရင်ခံစာ အားကြည့်မည်
+
+
+;Time (in seconds)
+Time (in seconds)
+
+
+;Show Statistics
+Show Statistics
+
+

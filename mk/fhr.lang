@@ -30,14 +30,12 @@
 Податоците од здравствениот картон ќе бидат отстранети од серверите на Mozilla. Дознајте повеќе во нашата <a href="%(privacy_url)s">политика за приватност.</a>
 
 
-
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
 Одбравте одвреме-навреме да ги споделувате Вашите податоци со Mozilla. Благодариме што сте дел од нашата мисија за изградба на поубава иднина за мрежата.
 
 
 ;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
 Дознајте како работиме со Вашите податоци во  нашата <a href="%(privacy_url)s">политика за приватност.</a>
-
 
 
 ;Vital Stats
@@ -50,7 +48,6 @@
 
 ;time open
 траење на последно вклучување
-
 
 
 ;last crash
@@ -169,7 +166,6 @@
 Хардвер на уредот, оперативен систем, верзија на Firefox
 
 
-
 ;Customizations
 Прилагодувања
 
@@ -214,14 +210,12 @@
 Оперативен систем за кој е конфигурирана оваа градба
 
 
-
 ;Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
 Идентификатор за посебната дистрибуција на апликацијата што се користи. Се зема од преференцијата <var>distribution.id</var>
 
 
 ;Version of the distribution, taken from the <var>distribution.version</var> preference
 Верзија на дистрибуцијата, земена од преференцијата <var>distribution.version</var>
-
 
 
 ;The version number of any Mozilla hotfix applied to the application
@@ -272,10 +266,8 @@
 Верзија на тековниот оперативен систем (кернел)
 
 
-
 ;The build identifier of the Gecko platform code
 Идентификаторот на градба на кодот на платформата Gecko
-
 
 
 ;The version of the Gecko platform code
@@ -314,7 +306,6 @@
 Идентификаторот на овој додаток како што е дефиниран од авторот на додатокот
 
 
-
 ;The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
 Најскорешен датум кога овој додаток бил инсталиран (претходни информации за избришани додатоци не се чуваат).
 
@@ -343,7 +334,6 @@
 Тековната верзија на овој додаток
 
 
-
 ;How long in milliseconds it took during startup for the application to render the UI and display the window
 Колку милисекунди за време на стратувањето ѝ требале на апликацијата за да го рендерира корисничкиот интерфејс и да го прикаже прозорецот
 
@@ -360,10 +350,8 @@
 Колку пати апликацијата била вклучена и неуредно затворена.
 
 
-
 ;The time in seconds that the aborted sessions were not idle
 Времетраење во секунди во кои прекинатите сесии не мирувале
-
 
 
 ;The time in seconds that the aborted sessions were running
@@ -380,7 +368,6 @@
 
 ;The time in seconds that the completed sessions were not idle
 Времетраење во секунди во кои комплетираните сесии не мирувале
-
 
 
 ;The time in seconds that the completed sessions were running
@@ -417,7 +404,6 @@
 
 ;Welcome to your Firefox Health Report
 Добредојдовте на здравствениот картон на Firefox
-
 
 
 ;Welcome!
