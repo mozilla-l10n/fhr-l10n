@@ -95,7 +95,7 @@ Zużycie
 
 
 ;It looks like your browser has crashed a number of times recently. To learn more:
-Wygląda na to, że ostatnio twoja przegladarka często ulega awarii. Aby dowiedzieć się więcej:
+Wygląda na to, że ostatnio twoja przegladarka często ulega awariom. Aby dowiedzieć się więcej:
 
 
 ;OFF
@@ -219,7 +219,7 @@ Wersja tej dystrybucji, pobrana z ustawienia <var>distribution.version</var>
 
 
 ;The version number of any Mozilla hotfix applied to the application
-Numer wersji dodatku Mozilla hotfix, jeśli użyto go na tej aplikacji
+Numer wersji dodatku hotfix Mozilli, jeśli użyto go na tej aplikacji
 
 
 ;Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
@@ -231,7 +231,7 @@ Ustawiona nazwa aplikacji (np. Firefox/Aurora/Nightly)
 
 
 ;The channel this installation checks for application updates (nightly/aurora/beta/release)
-Kanał, który ta instalacja sprawdza w poszukiwaniu aktualizacji aplikacji (nightly/aurora/beta/wersja finalna)
+Kanał, który ta instalacja sprawdza w poszukiwaniu aktualizacji aplikacji (nightly/aurora/beta/release)
 
 
 ;The name of the company/provider who built this version
