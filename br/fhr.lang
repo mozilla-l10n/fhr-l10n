@@ -1,425 +1,425 @@
 ;Firefox Health Report
-Firefox Health Report
+Arc'hwil yec'hed eus Firefox
 
 
 ;Raw Data
-Raw Data
+Roadennoù diaoz
 
 
 ;Get insights and performance information about your version of Firefox.
-Get insights and performance information about your version of Firefox.
+Ho pezet titouroù a-fet digonusted ho handelv eus Firefox.
 
 
 ;Learn more...
-Learn more...
+Gouzout hiroc'h...
 
 
 ;Data Sharing
-Data Sharing
+Rannañ ar roadennoù
 
 
 ;ON
-ON
+GWEREDEKAET
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
-You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
+Dibabet hoc'h eus paouez da rannañ roadennoù gant Mozilla met gallout a reot sellout ouzh digonusted ho merdeer c'hoazh.
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
-Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
+Dilamet e vo ivez roadennoù hoc'h arc'hwil yec'hed diwar dafariadoù Mozilla. Lennit hiroc'h e-barzh hor <a href="%(privacy_url)s">reolennoù a-fet buhez prevez.</a>
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
-You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
+Dibabet hoc'h eus rannañ ho roadennoù gant Mozilla ur wech an amzer. Trugarez da gemer perzh e-barzh hor c'hefridi evit sevel un dazont gwelloc'h evit ar Gwiad.
 
 
 ;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
-Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
+Dizoloit penaos eo arveret ho roadennoù e-barzh hor <a href="%(privacy_url)s">reolennoù a-fet buhez prevez.</a>
 
 
 ;Vital Stats
-Vital Stats
+Stadegoù bevañ
 
 
 ;version
-version
+handelv
 
 
 ;time open
-time open
+digor abaoe
 
 
 ;last crash
-last crash
+sac'hadenn diwezhañ
 
 
 ;bookmarks
-bookmarks
+sinedoù
 
 
 ;This Month
-This Month
+Ar miz-mañ
 
 
 ;crashes
-crashes
+sac'hadennoù
 
 
 ;Add-ons
-Add-ons
+Askouezhioù
 
 
 ;View List
-View List
+Gwelout ar roll
 
 
 ;enabled
-enabled
+gweredekaet
 
 
 ;disabled
-disabled
+diweredekaet
 
 
 ;Plugins
-Plugins
+Enlugelladoù
 
 
 ;Tips
-Tips
+Tunioù
 
 
 ;Wear and Tear
-Wear and Tear
+Uzadur
 
 
 ;It looks like your browser has crashed a number of times recently. To learn more:
-It looks like your browser has crashed a number of times recently. To learn more:
+Sac'het en deus ho merdeer kalz nevez zo war ar seblant. Evit gouzout hiroc'h :
 
 
 ;OFF
-OFF
+DIWEREDEKAET
 
 
 ;Visit our <a href="%(sumo_url)s">support website</a>
-Visit our <a href="%(sumo_url)s">support website</a>
+Gweladennit hol <a href="%(sumo_url)s">lec'hienn skorañ</a>
 
 
 ;View more <a href="%(details_url)s">detailed information</a>
-View more <a href="%(details_url)s">detailed information</a>
+Gwelit muioc'h a <a href="%(details_url)s">vunudoù</a>
 
 
 ;pages visited
-pages visited
+pajennoù gweladennet
 
 
 ;Your browser seems to be running slower than usual. To learn more:
-Your browser seems to be running slower than usual. To learn more:
+Emañ ho merdeer oc'h erounit gorrekoc'h eget boaz. Evit gouzout hiroc'h :
 
 
 ;You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
-You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
+Bep ma'z arverot ho merdeer e c'hellot gwelout muioc'h a ditouroù dedennus. Gwirit en-dro a-benn un nebeud sizhunvezhioù evit gwelout tuadurioù zo.
 
 
 ;Startup Time by Day
-Startup Time by Day
+Amzer loc'hañ dre zevezh
 
 
 ;Graph:
-Graph:
+Tresenn :
 
 
 ;Average
-Average
+Keitad
 
 
 ;All
-All
+Pep tra
 
 
 ;Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
-Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
+Skoazell a ra an amzer loc'hañ da zidermenañ digonusted ho merdeer Firefox. Peurliesañ e talv amzerioù berroc'h (d.l.e gwerzhioù izel) da zigonusted welloc'h.
 
 
 ;Data Collected
-Data Collected
+Roadennoù dastumet
 
 
 ;Glossary
-Glossary
+Geriaoueg
 
 
 ;What the Firefox Health Report Measures
-What the Firefox Health Report Measures
+Petra zo muzuliet gant arc'hwil yec'hed Firefox
 
 
 ;The Firefox Health Report (FHR) has 4 categories of metrics:
-The Firefox Health Report (FHR) has 4 categories of metrics:
+Arc'hwil yec'hed Firefox en deus 4 rummad muzulioù :
 
 
 ;Configuration
-Configuration
+Kefluniañ
 
 
 ;Device hardware, operating system, Firefox version
-Device hardware, operating system, Firefox version
+Periantoù, reizhiad korvoiñ, handelv Firefox
 
 
 ;Customizations
-Customizations
+Personeladurioù
 
 
 ;Add-ons, count and type
-Add-ons, count and type
+Niver a askouezhioù ha rizh an askouezhioù
 
 
 ;Performance
-Performance
+Digonusted
 
 
 ;Timing of browser events, rendering, session restores
-Timing of browser events, rendering, session restores
+Muzulioù amzer eus mont en-dro ar merdeer, an deouez, assav an estezioù
 
 
 ;Length of session, how old a profile is, count of crashes, count of pages
-Length of session, how old a profile is, count of crashes, count of pages
+Padelezh an estezioù, oad an aelad, niver a sac'hadennoù, niver a bajennoù
 
 
 ;Detailed Description
-Detailed Description
+Munudoù
 
 
 ;Metric
-Metric
+Muzul
 
 
 ;Description
-Description
+Deskrivadur
 
 
 ;Binary interface for XPCOM
-Binary interface for XPCOM
+Ketal daouredel evit XPCOM
 
 
 ;Identifier for this build of the application based on the date the build was started
-Identifier for this build of the application based on the date the build was started
+Naoudi an arload-mañ diazezet war deiziad ar c'hempunañ
 
 
 ;Operating System for which this build was configured
-Operating System for which this build was configured
+Reizhiad korvoiñ a zo bet kefluniet an arload eviti
 
 
 ;Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
-Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
+Naoudi eus dasparzh an arload arveret. Tennet eo bet eus ar gwellvez <var>distribution.id</var>.
 
 
 ;Version of the distribution, taken from the <var>distribution.version</var> preference
-Version of the distribution, taken from the <var>distribution.version</var> preference
+Handelv an dasparzh, tennet eus ar gwellvez <var>distribution.version</var>
 
 
 ;The version number of any Mozilla hotfix applied to the application
-The version number of any Mozilla hotfix applied to the application
+Niverenn an handelv evit pep ratreadur eus Mozilla arloet d'an arload
 
 
 ;Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
-Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
+Naoudi unel evit merkañ ez eo an arload Firefox, Thunderbird ha kement zo. Heñvel evit pep staliadur an arload ne vern petra eo gwerzh eus <var>appName</var>
 
 
 ;The configured name of the application (Firefox/Aurora/Nightly for instance)
-The configured name of the application (Firefox/Aurora/Nightly for instance)
+Anv kefluniet an arload (Firefox/Aurora/Nightly da skouer)
 
 
 ;The channel this installation checks for application updates (nightly/aurora/beta/release)
-The channel this installation checks for application updates (nightly/aurora/beta/release)
+Ar sanell arveret gant ar staliadur-mañ evit hizivaat an arload (nightly/aurora/beta/release) 
 
 
 ;The name of the company/provider who built this version
-The name of the company/provider who built this version
+Anv ar gevredigezh pe ar pourchaser en deus krouet an handelv-mañ
 
 
 ;The current version of the product
-The current version of the product
+Handelv vremanel ar c'henderc'had
 
 
 ;Number of processor cores
-Number of processor cores
+Niver a galonoù kewerieroù
 
 
 ;Whether the application is currently configured to be the default browser for the operating system
-Whether the application is currently configured to be the default browser for the operating system
+Ma'z eo an arload kefluniet evel ar merdeer de ziouer evit ar reizhiad korvoiñ
 
 
 ;Locale currently being used
-Locale currently being used
+Yezh arveret evit bremañ
 
 
 ;Amount of RAM in megabytes
-Amount of RAM in megabytes
+Kementad a RAM e megaeizhbitoù
 
 
 ;Currently running Operating System (kernel) name
-Currently running Operating System (kernel) name
+Anv ar reizhiad korvoiñ arveret (kraoñell)
 
 
 ;Currently running Operating System (kernel) version
-Currently running Operating System (kernel) version
+Handelv ar reizhiad korvoiñ arveret (kraoñell)
 
 
 ;The build identifier of the Gecko platform code
-The build identifier of the Gecko platform code
+Naoudi kempunañ eus boneg ar savenn C'H/Gecko
 
 
 ;The version of the Gecko platform code
-The version of the Gecko platform code
+Handelv eus boneg ar savenn C'H/Gecko
 
 
 ;Processor architecture
-Processor architecture
+Adeiladur ar c'hewerier
 
 
 ;The date this version was first used with this installation profile
-The date this version was first used with this installation profile
+Deiziad eus arver kentañ an handelv-mañ gant an aelad staliadur-mañ
 
 
 ;An application version which has been used with this installation profile
-An application version which has been used with this installation profile
+Handelv an arload bet arveret gant an aelad staliadur-mañ
 
 
 ;The number of add-ons of this type that existed in the profile on this date
-The number of add-ons of this type that existed in the profile on this date
+Niver a askouezhioù eus ar rizh-mañ a oa en aelad d'an deiziad-mañ
 
 
 ;<var>True</var> if the application automatically disabled the add-on
-<var>True</var> if the application automatically disabled the add-on
+<var>True</var> ma'z eo bet diweredekaet an askouezh gant an arload ent emgefreek
 
 
 ;Whether this add-on was installed by the user or automatically by another application
-Whether this add-on was installed by the user or automatically by another application
+Ma'z eo bet staliet an askouezh-mañ gant an arveriad pe gant un arload all ent emgefreek
 
 
 ;Whether this add-on has native code.
-Whether this add-on has native code.
+Ma'z en deus an askouezh-mañ ur voneg c'henidik.
 
 
 ;The identifier of this add-on as defined by the add-on developer
-The identifier of this add-on as defined by the add-on developer
+Naoudi an askouezh-mañ evel ma'z eo bet despizet gant diorroer an askouezh
 
 
 ;The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
-The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
+Deiziad nevesañ eus staliadur an askouezh-mañ (n'eo ket miret an titouroù a-zivout an askouezhioù bet distaliet).
 
 
 ;The number of searches performed with this search engine from this part of the UI
-The number of searches performed with this search engine from this part of the UI
+Niver a glaskoù bet graet gant ar c'heflusker klask-mañ adalek al lod-mañ eus ar c'hetal arveriad
 
 
 ;Whether this add-on was installed in the application directory or profile directory
-Whether this add-on was installed in the application directory or profile directory
+Ma'z eo bet staliet an askouezh-mañ e kavlec'h an arload pe e kavlec'h an aelad
 
 
 ;Whether this add-on is an extension or a plug-in
-Whether this add-on is an extension or a plug-in
+Ma'z eo an askouezh-mañ un askouezh pe un enlugellad
 
 
 ;The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
-The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
+Deiziad nevesañ eus hizivadur an askouezh-mañ (n'eo ket miret an titouroù a-zivout an askouezhioù bet distaliet)
 
 
 ;<var>True</var> if the user manually disabled the add-on
-<var>True</var> if the user manually disabled the add-on
+<var>True</var> ma'z eo bet diweredekaet an askouezh dre zorn gant an arveriad
 
 
 ;The current version of this add-on
-The current version of this add-on
+Handelv vremanel an askouezh-mañ
 
 
 ;How long in milliseconds it took during startup for the application to render the UI and display the window
-How long in milliseconds it took during startup for the application to render the UI and display the window
+Pegeit amzer e milieilennoù ez eus bet ezhomm evit skrammañ deouez ar c'hetal arveriad ha skrammañ ar prenestr e-pad loc'hañ an arload
 
 
 ;How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
-How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
+Pegeit amzer e milieilennoù ez eus bet ezhomm evit kargañ ar mezarc'hioù ha peurechuiñ an deraouekaat diazez e-pad loc'hañ an arload
 
 
 ;How long in milliseconds it took during startup for the application to restore tabs from the previous session
-How long in milliseconds it took during startup for the application to restore tabs from the previous session
+Pegeit amzer e milieilennoù ez eus bet ezhomm evit assav ivinelloù an estez kent e-pad loc'hañ an arload
 
 
 ;The number of times the application was run and not cleanly shut down.
-The number of times the application was run and not cleanly shut down.
+Gwechad ma'z eo bet loc'het an arload ha n'eo ket bet lazhet en un doare naet.
 
 
 ;The time in seconds that the aborted sessions were not idle
-The time in seconds that the aborted sessions were not idle
+Padelezh e eilennoù e-pad ma chome oberiant an estezioù bet dilezet
 
 
 ;The time in seconds that the aborted sessions were running
-The time in seconds that the aborted sessions were running
+Padelezh e eilennoù e-pad ma oa war erounit an estezioù bet paouezet
 
 
 ;The number of days since this application profile directory was created
-The number of days since this application profile directory was created
+Niver a zeizioù abaoe krouadur ar c'havlec'h eus aelad an arload-mañ
 
 
 ;The number of times the application was run and cleanly shut down.
-The number of times the application was run and cleanly shut down.
+Gwechad ma'z eo bet loc'het ha lazhet an arload en un doare naet.
 
 
 ;The time in seconds that the completed sessions were not idle
-The time in seconds that the completed sessions were not idle
+Padelezh e eilennoù e-pad ma chome oberiant an estezioù bet peurechuet
 
 
 ;The time in seconds that the completed sessions were running
-The time in seconds that the completed sessions were running
+Padelezh e eilennoù e-pad ma oa war erounit an estezioù bet peurechuet
 
 
 ;Total number of crashes that were recorded but not yet submitted
-Total number of crashes that were recorded but not yet submitted
+Hollad ar sac'hadennoù bet enrollet nad int ket bet treuzkaset
 
 
 ;Total number of crashes that have been submitted
-Total number of crashes that have been submitted
+Hollad ar sac'hadennoù bet treuzkaset
 
 
 ;Time in seconds the app has not been idle
-Time in seconds the app has not been idle
+Padelezh e eilennoù e-pad ma oa oberiant an arload
 
 
 ;Time in seconds since the app was last started
-Time in seconds since the app was last started
+Padelezh e eilennoù abaoe loc'hañ diwezhañ an arload
 
 
 ;Total number of bookmarks
-Total number of bookmarks
+Hollad ar sinedoù
 
 
 ;Total number of pages listed in the history
-Total number of pages listed in the history
+Hollad ar pajennoù eus roll an istor
 
 
 ;How long in minutes the current session has been running
-How long in minutes the current session has been running
+Pegeit amzer e munutennoù emañ an estez bremanel war erounit
 
 
 ;Welcome to your Firefox Health Report
-Welcome to your Firefox Health Report
+Donemat war hoc'h arc'hwil yec'hed eus Firefox
 
 
 ;Welcome!
-Welcome!
+Donemat&nbsp;!
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
-Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
+Danevell a-fet yec'hed Firefox a ro deoc'h titouroù a-fet digonusted ho merdeer ha petra a c'hellit ober evit gwellaat anezhi.
 
 
 ;See My Report
-See My Report
+Gwelout ma arc'hwil
 
 
 ;Time (in seconds)
-Time (in seconds)
+Padelezh (e eilennoù)
 
 
 ;Show Statistics
