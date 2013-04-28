@@ -1,5 +1,5 @@
 ;Firefox Health Report
-Arc'hwil yec'hed eus Firefox
+Danevell a-fet yec'hed Firefox
 
 
 ;Raw Data
@@ -27,7 +27,7 @@ Dibabet hoc'h eus paouez da rannañ roadennoù gant Mozilla met gallout a reot s
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
-Dilamet e vo ivez roadennoù hoc'h arc'hwil yec'hed diwar dafariadoù Mozilla. Lennit hiroc'h e-barzh hor <a href="%(privacy_url)s">reolennoù a-fet buhez prevez.</a>
+Dilamet e vo ivez roadennoù ho tanevell a-fet yec'hed diwar dafariadoù Mozilla. Lennit hiroc'h e-barzh hor <a href="%(privacy_url)s">reolennoù a-fet buhez prevez.</a>
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
@@ -151,11 +151,11 @@ Geriaoueg
 
 
 ;What the Firefox Health Report Measures
-Petra zo muzuliet gant arc'hwil yec'hed Firefox
+Petra zo muzuliet gant an danevell a-fet yec'hed Firefox
 
 
 ;The Firefox Health Report (FHR) has 4 categories of metrics:
-Arc'hwil yec'hed Firefox en deus 4 rummad muzulioù :
+An danevell a-fet yec'hed Firefox en deus 4 rummad muzulioù :
 
 
 ;Configuration
@@ -403,7 +403,7 @@ Pegeit amzer e munutennoù emañ an estez bremanel war erounit
 
 
 ;Welcome to your Firefox Health Report
-Donemat war hoc'h arc'hwil yec'hed eus Firefox
+Donemat war ho tanevell a-fet yec'hed Firefox
 
 
 ;Welcome!
@@ -415,7 +415,7 @@ Danevell a-fet yec'hed Firefox a ro deoc'h titouroù a-fet digonusted ho merdeer
 
 
 ;See My Report
-Gwelout ma arc'hwil
+Gwelout ma danevell
 
 
 ;Time (in seconds)
