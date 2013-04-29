@@ -352,55 +352,55 @@ Zenbat aldiz exekutatu den aplikazioa, eta behar ez bezala itzali.
 
 
 ;The time in seconds that the aborted sessions were not idle
-The time in seconds that the aborted sessions were not idle
+Bertan behera utzitako saioak inaktibo egon ez diren denbora, segundotan
 
 
 ;The time in seconds that the aborted sessions were running
-The time in seconds that the aborted sessions were running
+Bertan behera utzitako saioak exekutatzen aritu diren denbora, segundotan
 
 
 ;The number of days since this application profile directory was created
-The number of days since this application profile directory was created
+Aplikazioaren profil honen direktorioa sortu zenetik igarotako egun kopurua
 
 
 ;The number of times the application was run and cleanly shut down.
-The number of times the application was run and cleanly shut down.
+Zenbat aldiz exekutatu den aplikazioa, eta behar bezala itzali.
 
 
 ;The time in seconds that the completed sessions were not idle
-The time in seconds that the completed sessions were not idle
+Burututako saioak inaktibo egon ez diren denbora, segundotan
 
 
 ;The time in seconds that the completed sessions were running
-The time in seconds that the completed sessions were running
+Burututako saioak exekutatzen aritu diren denbora, segundotan
 
 
 ;Total number of crashes that were recorded but not yet submitted
-Total number of crashes that were recorded but not yet submitted
+Grabatu diren baina oraindik bidali ez diren kraskadura kopurua guztira
 
 
 ;Total number of crashes that have been submitted
-Total number of crashes that have been submitted
+Bidali diren kraskadura kopurua guztira
 
 
 ;Time in seconds the app has not been idle
-Time in seconds the app has not been idle
+Aplikazioa inaktibo egon ez den denbora, segundotan
 
 
 ;Time in seconds since the app was last started
-Time in seconds since the app was last started
+Aplikazioa azkenekoz abiarazi zenetik igarotako denbora, segundotan
 
 
 ;Total number of bookmarks
-Total number of bookmarks
+Laster-marka kopurua guztira
 
 
 ;Total number of pages listed in the history
-Total number of pages listed in the history
+Historian zerrendaturiko orri kopurua guztira
 
 
 ;How long in minutes the current session has been running
-How long in minutes the current session has been running
+Uneko saioa noiztik ari den exekutatzen, minututan
 
 
 ;Welcome to your Firefox Health Report
