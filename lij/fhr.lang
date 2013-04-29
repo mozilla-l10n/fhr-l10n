@@ -1,428 +1,416 @@
 ;Firefox Health Report
-Firefox Health Report
+Report in sciâ Salûte do Firefox
 
 
 ;Raw Data
-Raw Data
+Dæti sgrêuzi
 
 
 ;Get insights and performance information about your version of Firefox.
-Get insights and performance information about your version of Firefox.
-
+Aprofondiménti e informaçioìn in sciâ teu versción de Firefox.
 
 ;Learn more...
-Learn more...
+Pe savéine de ciù...
 
 
 ;Data Sharing
-Data Sharing
+Condivixón Dæti
 
 
 ;ON
-ON
+Açéizo
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
-You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
+Ti æ çernûo de fermâ a condivixón dæti con Mozilla, ma ti saiæ ancón in gràddo de védde e prestaçioìn do teu navegatô.
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
-Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
+I teu dæti do Report in sciâ salûte saiâ ascì scancelòu da-i server de Mozilla. Ciù informaçioìn inta nòstra <a href="%(privacy_url)s">polìtica da privacy.</a>
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
-You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
+Ti æ çernûo de condivìdde i teu dæti con Mozilla di vòtta in vòtta. Gràçie d'êse pàrte da nòstra misción de costruî un avegnî brilànte pe-o Web.
 
 
 ;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
-Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
+Lêzi òua cómme manezémmo i teu dæti inta nòstra <a href="%(privacy_url)s">polìtica da privacy.</a>
 
 
 ;Vital Stats
-Vital Stats
+Statìstiche Vitâli
 
 
 ;version
-version
+versción
 
 
 ;time open
-time open
+ténpo d'avertûa
 
 
 ;last crash
-last crash
+ùrtimo ciànto
 
 
 ;bookmarks
-bookmarks
+segnalìbbri
 
 
 ;This Month
-This Month
+Sto Méize
 
 
 ;crashes
-crashes
+ciànti
 
 
 ;Add-ons
-Add-ons
+Conponénti Azónti
 
 
 ;View List
-View List
+Véddi a Lìsta
 
 
 ;enabled
-enabled
+abilitòu
 
 
 ;disabled
-disabled
+dizabilitòu
 
 
 ;Plugins
-Plugins
+Plugin
 
 
 ;Tips
-Tips
+Conséggi
 
 
 ;Wear and Tear
-Wear and Tear
+Aroinamémto
 
 
 ;It looks like your browser has crashed a number of times recently. To learn more:
-It looks like your browser has crashed a number of times recently. To learn more:
+Pâ che o teu navegatô o se ségge ciantòu bén bén de vòtte urtimaménte. Pe savéine de ciù:
 
 
 ;OFF
-OFF
+Asmortòu
 
 
 ;Visit our <a href="%(sumo_url)s">support website</a>
-Visit our <a href="%(sumo_url)s">support website</a>
+Vìxita o nòstro <a href="%(sumo_url)s">scîto de sopòrto</a>
 
 
 ;View more <a href="%(details_url)s">detailed information</a>
-View more <a href="%(details_url)s">detailed information</a>
+Véddi ciù <a href="%(details_url)s">informaçioìn dataliæ</a>
 
 
 ;pages visited
-pages visited
+pàgine vixitæ
 
 
 ;Your browser seems to be running slower than usual. To learn more:
-Your browser seems to be running slower than usual. To learn more:
+Pâ ch'o teu navegatô o vàdde ciù lénto do sòlito. Pe savéine de ciù:
 
 
 ;You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
-You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
+Ti poriæ de védde ciù informaçioìn intersànti e detaliæ ciù t'adêuvi o teu navegatô. Contròlla fra 'na cóbbia de setemànn-e pe iniçiâ a védde a tendénsa.
 
 
 ;Startup Time by Day
-Startup Time by Day
+Inìçio pe òua e giórno
 
 
 ;Graph:
-Graph:
+Gràfico:
 
 
 ;Average
-Average
+Mèdia
 
 
 ;All
-All
+Tùtto
 
 
 ;Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
-Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
+O tenpo de inìçio agiùtta a determinâ quànte bén va a teu versción de Firefox. In generâle, ténpi velôci o veu dî mêgio prestaçioìn.
 
 
 ;Data Collected
-Data Collected
-
+Archìvio Dæti
 
 ;Glossary
-Glossary
+Glosâio
 
 
 ;What the Firefox Health Report Measures
-What the Firefox Health Report Measures
+Cöse pêuan mezuâ i Report in sciâ salûte
 
 
-;The Firefox Health Report (FHR) has 4 categories of metrics:
-The Firefox Health Report (FHR) has 4 categories of metrics:
-
+;The Firefox Health Report (FHR) has 5 categories of metrics:
+Report in sciâ Salûte do Firefox (RSF) gh'àn 5 categorîe de mètriche:
 
 ;Configuration
-Configuration
+Configuraçión
 
 
 ;Device hardware, operating system, Firefox version
-Device hardware, operating system, Firefox version
+Hardware, scistêma òpertatîvo, versción de Firefox de l'aparâto
 
 
 ;Customizations
-Customizations
+Personalizaçión
 
 
 ;Add-ons, count and type
-Add-ons, count and type
+Nùmero e tîpo de conponénti azónti
 
 
 ;Performance
-Performance
+Prestaçioìn
 
 
 ;Timing of browser events, rendering, session restores
-Timing of browser events, rendering, session restores
+Ténpi di evénti do navegatô, rendering, repìggio de sescioìn
 
 
 ;Length of session, how old a profile is, count of crashes, count of pages
-Length of session, how old a profile is, count of crashes, count of pages
+Longhéssa de sescioìn, quànte o l'é vêgio o profî, nùmero di ciànti, nùmero de pàgine
 
 
 ;Detailed Description
-Detailed Description
+Descriçión Detaliâ
 
 
 ;Metric
-Metric
+Mètrica
 
 
 ;Description
-Description
+Descriçión
 
 
 ;Binary interface for XPCOM
-Binary interface for XPCOM
+Intermôro Binàio pe XPCOM
 
 
 ;Identifier for this build of the application based on the date the build was started
-Identifier for this build of the application based on the date the build was started
+Identificatô pe sta build de l'aplicaçión bazâ in sciâ dæta inta quæ a l'é iniçiâ a build
 
 
 ;Operating System for which this build was configured
-Operating System for which this build was configured
+Scistêma òperatîvo pe-o quæ sta build a l'êa inpostâ
 
 
 ;Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
-Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
+Identificatô pe-a distribuçión particolâre de l'aplicaçión in ûzo. Se-a pigémmo da-e preferénse <var>distribution.id</var>
 
 
 ;Version of the distribution, taken from the <var>distribution.version</var> preference
-Version of the distribution, taken from the <var>distribution.version</var> preference
+Versción da distribuçión, pigiâ da-e preferénse <var>distribution.version</var>
 
 
 ;The version number of any Mozilla hotfix applied to the application
-The version number of any Mozilla hotfix applied to the application
+O nùmero de versción de tùtte e hotfix de Mozilla aplicæ a-a l'aplicaçión
 
 
 ;Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
-Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
+Identificatô unìvoco de l'aplicaçión ch'o l'ìndica se o l'é Firefox ò Thunderbird ec. A mæxime pe tùtte e instalaçión indipendenteménte dò-u valô de <var>appName</var>
 
 
 ;The configured name of the application (Firefox/Aurora/Nightly for instance)
-The configured name of the application (Firefox/Aurora/Nightly for instance)
+O nómme configuròu de l'aplicaçión (Firefox/Aurora/Nightly pe l'istànsa)
 
 
 ;The channel this installation checks for application updates (nightly/aurora/beta/release)
-The channel this installation checks for application updates (nightly/aurora/beta/release)
+O canâ che st'instalaçión o dêuvia pe-i agiornaménti (nightly/aurora/beta/release)
 
 
 ;The name of the company/provider who built this version
-The name of the company/provider who built this version
+O nómme de conpagnîa/fornitô ch'o l'à fæto sta vesción
 
 
 ;The current version of the product
-The current version of the product
+A versción corénte de sto prodûto
 
 
 ;Number of processor cores
-Number of processor cores
+Nùmero de cheu do procesô
 
 
 ;Whether the application is currently configured to be the default browser for the operating system
-Whether the application is currently configured to be the default browser for the operating system
+Se l'aplicaçión a l'é òua configurâ cómme navegatô predefinîo pe-o scistêma òperatîvo
 
 
 ;Locale currently being used
-Locale currently being used
+A localizaçión ch'a l'é corenteménte adêuviâ
 
 
 ;Amount of RAM in megabytes
-Amount of RAM in megabytes
+Quantitæ de RAM in megabytes
 
 
 ;Currently running Operating System (kernel) name
-Currently running Operating System (kernel) name
+O nómme scistêma òperatîvo (kernel) ch'o xêua corentementé
 
 
 ;Currently running Operating System (kernel) version
-Currently running Operating System (kernel) version
+A versción do scistêma òperatîvo (kernel) ch'a xêua corentementé
 
 
 ;The build identifier of the Gecko platform code
-The build identifier of the Gecko platform code
+L'identificatô da build do còdice da piatafórma Gecko
 
 
 ;The version of the Gecko platform code
-The version of the Gecko platform code
+A versción do còdice da piatafórma Gecko
 
 
 ;Processor architecture
-Processor architecture
+Architetûa do procesô
 
 
 ;The date this version was first used with this installation profile
-The date this version was first used with this installation profile
+A dæta de sta versción a l'é za stæta adêuviâ in sto profî de instalaçión
 
 
 ;An application version which has been used with this installation profile
-An application version which has been used with this installation profile
+'Na versción de l'aplicaçión ch'a l'é za stæta adêuviâ con sto profî de instalaçión
 
 
 ;The number of add-ons of this type that existed in the profile on this date
-The number of add-ons of this type that existed in the profile on this date
+O nùmero de conponénti azónti de sto tîpo che existévan into profî a sta dæta
 
 
 ;<var>True</var> if the application automatically disabled the add-on
-<var>True</var> if the application automatically disabled the add-on
+<var>True</var> se l'aplicaçión a dizabìlita aotomaticaménte o conponénte azónto
 
 
 ;Whether this add-on was installed by the user or automatically by another application
-Whether this add-on was installed by the user or automatically by another application
+Se st'aplicaçión a l'é stæta instalâ da l'uténte ò aotomaticaménte da 'n'âtra aplicaçión
 
 
 ;Whether this add-on has native code.
-Whether this add-on has native code.
+Se sto conponénte azónto o l'à o còdice natîvo.
 
 
 ;The identifier of this add-on as defined by the add-on developer
-The identifier of this add-on as defined by the add-on developer
+L'identificatô de sto conponénte azónto cómme definîo dò-u svilupatô do conponénte azónto
 
 
 ;The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
-The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
+A dæta ciù reçénte inta quæ sto conponénte azónto o l'é stæto instalòu (e informaçioìn in sci conponénti azónti dizinstalæ no me-e têgno).
 
 
 ;The number of searches performed with this search engine from this part of the UI
-The number of searches performed with this search engine from this part of the UI
+O nùmero de riçèrche fæte con sto motô de riçèrca con sta pàrte de l'UI
 
 
 ;Whether this add-on was installed in the application directory or profile directory
-Whether this add-on was installed in the application directory or profile directory
+Se sto conponénte azónto o l'é stæto instalòu inta cartélla de l'aplicaçión ò inta cartélla do profî
 
 
 ;Whether this add-on is an extension or a plug-in
-Whether this add-on is an extension or a plug-in
+Se sto conponénte azónto o l'é 'na estençión ò 'n plug-in
 
 
 ;The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
-The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
+A dæta ciù reçénte inta quæ sto conponénte azónto o l'é stæto agiornòu (e informaçioìn in sci conponénti azónti dizinstalæ no me-e têgno).
 
 
 ;<var>True</var> if the user manually disabled the add-on
-<var>True</var> if the user manually disabled the add-on
+<var>True</var> se l'uténte o l'à dizabilitòu a màn o conponénte azónto
 
 
 ;The current version of this add-on
-The current version of this add-on
+A versción corénte de sto conponénte azónto
 
 
 ;How long in milliseconds it took during startup for the application to render the UI and display the window
-How long in milliseconds it took during startup for the application to render the UI and display the window
+O ténpo in millisegóndi ch'o ghe métte l'aplicaçión quànde s'àrve a fâ a UI e fâ védde o barcón
 
 
 ;How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
-How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
+O ténpo in millisegóndi ch'o ghe métte l'aplicaçión quànde s'àrve a caregâ libràie e finî e inandilizaçión bâze
 
 
 ;How long in milliseconds it took during startup for the application to restore tabs from the previous session
-How long in milliseconds it took during startup for the application to restore tabs from the previous session
+O ténpo in millisegóndich'o ghe métte l'aplicaçión quànde s'àrve a repigiâ i féuggi da-a vêgia sesción
 
 
 ;The number of times the application was run and not cleanly shut down.
-The number of times the application was run and not cleanly shut down.
+O nùmero de vòtte che l'aplicaçión a l'é xoâ e no s'é serâ bén.
 
 
 ;The time in seconds that the aborted sessions were not idle
-The time in seconds that the aborted sessions were not idle
+O ténpo in millisegóndi da quànde s'é fermâ a sesción
 
 
 ;The time in seconds that the aborted sessions were running
-The time in seconds that the aborted sessions were running
+O ténpo in segóndi ch'a l'à xoòu a sesción prìmma de l'abòrto
 
 
 ;The number of days since this application profile directory was created
-The number of days since this application profile directory was created
+O nùmero de giórni da quànde a cartélla do profî de l'aplicaçión a l'é stæta creâ
 
 
 ;The number of times the application was run and cleanly shut down.
-The number of times the application was run and cleanly shut down.
+O nùmero de vòtte che l'aplicaçión a l'é xoâ e a se serâ bén.
 
 
 ;The time in seconds that the completed sessions were not idle
-The time in seconds that the completed sessions were not idle
+Ténpo in segóndi inti quæ e sesción no êan atîve
 
 
 ;The time in seconds that the completed sessions were running
-The time in seconds that the completed sessions were running
+Ténpo in segóndi ch'én xoæ e sesción conplête
 
 
 ;Total number of crashes that were recorded but not yet submitted
-Total number of crashes that were recorded but not yet submitted
-
+Nùmero totâle de ciànti registræ ma no mandæ
 
 ;Total number of crashes that have been submitted
-Total number of crashes that have been submitted
+Nùmero totâle de ciànti mandæ
 
 
 ;Time in seconds the app has not been idle
-Time in seconds the app has not been idle
+Ténpo in segóndi da quànde l'app a no l'é atîva
 
 
 ;Time in seconds since the app was last started
-Time in seconds since the app was last started
+Ténpo in segóndi da quànde l'app a l'é partîa
 
 
 ;Total number of bookmarks
-Total number of bookmarks
+Nùmero totâle de segnalìbbri
 
 
 ;Total number of pages listed in the history
-Total number of pages listed in the history
+Nùmero totâle de pàgine inta stöia
 
 
 ;How long in minutes the current session has been running
-How long in minutes the current session has been running
+Quànte ménuti o l'à xoòu inta sesción corénte
 
 
 ;Welcome to your Firefox Health Report
-Welcome to your Firefox Health Report
+Benvegnûo into teu Report in sciâ Salûte de Firefox
 
 
 ;Welcome!
-Welcome!
+Benvegnûo!
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
-Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
+Report in sciâ Salûte de Firefox te fâ savéi cómm'a vâ a o teu Firefox e cómme ti poriésci megiorâlo.
 
 
 ;See My Report
-See My Report
-
-
-;Time (in seconds)
-Time (in seconds)
-
-
-;Show Statistics
-Fanni vÃ©dde e statistiche
+Móstra i mæ Report
 
 
