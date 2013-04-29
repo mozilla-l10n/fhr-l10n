@@ -1,353 +1,354 @@
 ;Firefox Health Report
-Firefox Health Report
+Firefoxen osasun-txostena
 
 
 ;Raw Data
-Raw Data
+Datu gordinak
 
 
 ;Get insights and performance information about your version of Firefox.
-Get insights and performance information about your version of Firefox.
+Ezagutu zure Firefox bertsioaren errendimenduari buruzko informazioa eta datu orokorrak.
 
 
 ;Learn more...
-Learn more...
+Ikasi gehiago...
 
 
 ;Data Sharing
-Data Sharing
+Datu-partekatzea
 
 
 ;ON
-ON
+GAITUTA
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
-You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
+Datuak Mozillarekin partekatzeari uztea erabaki duzu, baina hala ere oraindik nabigatzailearen errendimenduari jarraipena egin ahalko diozu.
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
-Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
+Zure osasun-txosteneko datuak Mozillaren zerbitzarietatik ere ezabatuko dira. Ikasi gehiago gure <a href="%(privacy_url)s">pribatutasun-politika</a>ri buruz.
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
-You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
+Noizean behin datuak Mozillarekin partekatzea erabaki duzu. Milesker webarentzat etorkizun hobe bat eraikitzeko dugun misioarekin bat egiteagatik.
 
 
 ;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
-Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
+Ikasi nola kudeatzen ditugun zure datuak gure <a href="%(privacy_url)s">pribatutasun-politika</a> irakurriz.
 
 
 ;Vital Stats
-Vital Stats
+Bizi-estatistikak
 
 
 ;version
-version
+bertsioa
 
 
 ;time open
-time open
+denbora irekita
 
 
 ;last crash
-last crash
+azken kraskadura
 
 
 ;bookmarks
-bookmarks
+laster-markak
 
 
 ;This Month
-This Month
+Hil honetan
 
 
 ;crashes
-crashes
+kraskadurak
 
 
 ;Add-ons
-Add-ons
+Gehigarriak
 
 
 ;View List
-View List
+Ikusi zerrenda
 
 
 ;enabled
-enabled
+gaituta
 
 
 ;disabled
-disabled
+desgaituta
 
 
 ;Plugins
-Plugins
+Pluginak
 
 
 ;Tips
-Tips
+Aholkuak
 
 
 ;Wear and Tear
-Wear and Tear
+Higadura
 
 
 ;It looks like your browser has crashed a number of times recently. To learn more:
-It looks like your browser has crashed a number of times recently. To learn more:
+Dirudienez, azkenaldian nabigatzailea hainbat alditan kraskatu da. Gehiago jakiteko:
 
 
 ;OFF
-OFF
+DESGAITUTA
 
 
 ;Visit our <a href="%(sumo_url)s">support website</a>
-Visit our <a href="%(sumo_url)s">support website</a>
+Bisitatu <a href="%(sumo_url)s">laguntza-webgunea</a>
 
 
 ;View more <a href="%(details_url)s">detailed information</a>
-View more <a href="%(details_url)s">detailed information</a>
+Ikusi <a href="%(details_url)s">informazio xeheagoa</a>
 
 
 ;pages visited
-pages visited
+orri bisitatuta
 
 
 ;Your browser seems to be running slower than usual. To learn more:
-Your browser seems to be running slower than usual. To learn more:
+Nabigatzailea ohi baino motelago ari dela dirudi. Gehiago jakiteko:
 
 
 ;You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
-You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
+Nabigatzailea zenbat-eta gehiago erabili, orduan-eta informazio interesgarriago eta xeheagoa ikusi ahalko duzu. Itzul zaitez berriro aste batzuk barru, zenbait joera aztertzeko.
 
 
 ;Startup Time by Day
-Startup Time by Day
+Abio-denbora egunka
 
 
 ;Graph:
-Graph:
+Grafikoa:
 
 
 ;Average
-Average
+Batez bestekoa
 
 
 ;All
-All
+Dena
 
 
 ;Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
-Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
+Abio-denborak zure Firefox bertsioaren errendimendua neurtzen laguntzen dizu. Orohar, denbora gutxiagok errendimendu hobea esan nahi du.
 
 
 ;Data Collected
-Data Collected
+Bildutako datuak
 
 
 ;Glossary
-Glossary
+Glosarioa
 
 
 ;What the Firefox Health Report Measures
-What the Firefox Health Report Measures
+Zer neurtzen duen Firefoxen osasun-txostenak
 
 
 ;The Firefox Health Report (FHR) has 4 categories of metrics:
-The Firefox Health Report (FHR) has 4 categories of metrics:
+Firefoxen osasun-txostenak (FHR) 4 kategoriatako neurketak burutzen ditu:
 
 
 ;Configuration
-Configuration
+Konfigurazioa
 
 
 ;Device hardware, operating system, Firefox version
-Device hardware, operating system, Firefox version
+Gailuaren hardwarea, sistema-eragilea, Firefoxen bertsioa
 
 
 ;Customizations
-Customizations
+Pertsonalizazioak
 
 
 ;Add-ons, count and type
-Add-ons, count and type
+Gehigarriak, kopurua eta mota
 
 
 ;Performance
-Performance
+Errendimendua
 
 
 ;Timing of browser events, rendering, session restores
-Timing of browser events, rendering, session restores
+Nabigatze-gertaeren, errendatzeen eta saio-berreskuratzeen denborak
 
 
 ;Length of session, how old a profile is, count of crashes, count of pages
-Length of session, how old a profile is, count of crashes, count of pages
+Saioen iraupena, profila noizkoa den, kraskadura kopurua, orri kopurua
 
 
 ;Detailed Description
-Detailed Description
+Deskribapen xehea
 
 
 ;Metric
-Metric
+Metrika
 
 
 ;Description
-Description
+Deskribapena
 
 
 ;Binary interface for XPCOM
-Binary interface for XPCOM
+XPCOMerako interfaze bitarra
 
 
 ;Identifier for this build of the application based on the date the build was started
-Identifier for this build of the application based on the date the build was started
+Aplikazioaren bertsio honentzako identifikatzailea, bertsioaren hasiera-datan oinarritua
 
 
 ;Operating System for which this build was configured
-Operating System for which this build was configured
+Bertsioa zein sistema-eragilerentzat konfiguratua izan zen
 
 
 ;Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
-Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
+Erabiltzen ari den aplikazioaren banaketa zehatzaren identifikatzailea. <var>distribution.id</var> hobespenetik hartua
 
 
 ;Version of the distribution, taken from the <var>distribution.version</var> preference
-Version of the distribution, taken from the <var>distribution.version</var> preference
+Banaketaren bertsioa, <var>distribution.version</var> hobespenetik hartua
 
 
 ;The version number of any Mozilla hotfix applied to the application
-The version number of any Mozilla hotfix applied to the application
+Aplikazioari aplikaturiko edozein Mozilla hotfix-en bertsio-zenbakia
 
 
 ;Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
-Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
+Aplikazioarentzako identifikatzaile bakarra, Firefox edo Thunderbird (edo beste bat) den zehazten duena. Berbera aplikazio baten instalazio guztientzat, <var>appName</var> balioa dena dela
 
 
 ;The configured name of the application (Firefox/Aurora/Nightly for instance)
-The configured name of the application (Firefox/Aurora/Nightly for instance)
+Aplikazioarentzat konfiguratutako izena (Firefox/Aurora/Nightly, adibidez)
 
 
 ;The channel this installation checks for application updates (nightly/aurora/beta/release)
-The channel this installation checks for application updates (nightly/aurora/beta/release)
+Instalazio honek aplikazioaren eguneraketa bila begiratzen duen kanala (nightly/aurora/beta/release)
 
 
 ;The name of the company/provider who built this version
-The name of the company/provider who built this version
+Bertsio hau eraiki zuen konpainia/hornitzailearen izena
 
 
 ;The current version of the product
-The current version of the product
+Produktuaren uneko bertsioa
 
 
 ;Number of processor cores
-Number of processor cores
+Prozesadorearen nukleo kopurua
 
 
 ;Whether the application is currently configured to be the default browser for the operating system
+Aplikazioa sistema-eragilearen nabigatzaile lehenetsi gisa konfiguratuta dagoen edo ez.
 Whether the application is currently configured to be the default browser for the operating system
 
 
 ;Locale currently being used
-Locale currently being used
+Unean erabiltzen ari den hizkuntza
 
 
 ;Amount of RAM in megabytes
-Amount of RAM in megabytes
+RAM kopurua, megabytetan
 
 
 ;Currently running Operating System (kernel) name
-Currently running Operating System (kernel) name
+Exekutatzen ari den sistema-eragilearen izena (muina)
 
 
 ;Currently running Operating System (kernel) version
-Currently running Operating System (kernel) version
+Exekutatzen ari den sistema-eragilearen bertsioa (muina)
 
 
 ;The build identifier of the Gecko platform code
-The build identifier of the Gecko platform code
+Gecko plataformaren kodearen bertsio identifikatzailea
 
 
 ;The version of the Gecko platform code
-The version of the Gecko platform code
+Gecko plataformaren kodearen bertsioa
 
 
 ;Processor architecture
-Processor architecture
+Prozesadorearen arkitektura
 
 
 ;The date this version was first used with this installation profile
-The date this version was first used with this installation profile
+Bertsio hau instalazio-profil honekin erabili zen lehen aldiko data
 
 
 ;An application version which has been used with this installation profile
-An application version which has been used with this installation profile
+Instalazio-profil honekin erabili den aplikazioaren bertsioa
 
 
 ;The number of add-ons of this type that existed in the profile on this date
-The number of add-ons of this type that existed in the profile on this date
+Data honetan profil honekin existitzen ziren mota honetako gehigarri kopurua
 
 
 ;<var>True</var> if the application automatically disabled the add-on
-<var>True</var> if the application automatically disabled the add-on
+<var>True</var> aplikazioak gehigarria automatikoki desgaitu bazuen
 
 
 ;Whether this add-on was installed by the user or automatically by another application
-Whether this add-on was installed by the user or automatically by another application
+Gehigarri hau erabiltzaileak edo beste aplikazio batek automatikoki instalatu ote zuen
 
 
 ;Whether this add-on has native code.
-Whether this add-on has native code.
+Gehigarri honek jatorrizko kodea duen.
 
 
 ;The identifier of this add-on as defined by the add-on developer
-The identifier of this add-on as defined by the add-on developer
+Gehigarri honen identifikatzailea, gehigarriaren garatzaileak zehaztu bezala
 
 
 ;The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
-The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
+Gehigarria instalatu den azken data (desinstalaturiko gehigarri baten informazio zaharragoa ez da gordetzen).
 
 
 ;The number of searches performed with this search engine from this part of the UI
-The number of searches performed with this search engine from this part of the UI
+Bilaketa-motor honekin erabiltzaile-interfazearen zati honetatik burututako bilaketa kopurua
 
 
 ;Whether this add-on was installed in the application directory or profile directory
-Whether this add-on was installed in the application directory or profile directory
+Gehigarri hau aplikazioen direktorioan edo profilarenean instalatu zen
 
 
 ;Whether this add-on is an extension or a plug-in
-Whether this add-on is an extension or a plug-in
+Gehigarri hau hedapen bat edo plugin bat den
 
 
 ;The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
-The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
+Gehigarria eguneratu den azken data (desinstalaturiko gehigarri baten informazio zaharragoa ez da gordetzen).
 
 
 ;<var>True</var> if the user manually disabled the add-on
-<var>True</var> if the user manually disabled the add-on
+<var>True</var> erabiltzaileak gehigarria eskuz desgaitu bazuen
 
 
 ;The current version of this add-on
-The current version of this add-on
+Gehigarri honen uneko bertsioa
 
 
 ;How long in milliseconds it took during startup for the application to render the UI and display the window
-How long in milliseconds it took during startup for the application to render the UI and display the window
+Aplikazioak, abioan zehar, erabiltzaile-interfazea errendatu eta leihoa erakusteko behar izan duen denbora, milisegundotan
 
 
 ;How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
-How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
+Aplikazioak, abioan zehar, liburutegiak kargatu eta oinarrizko inizializazioa burutzeko behar izan duen denbora, milisegundotan
 
 
 ;How long in milliseconds it took during startup for the application to restore tabs from the previous session
-How long in milliseconds it took during startup for the application to restore tabs from the previous session
+Aplikazioak, abioan zehar, azken saioko fitxak berreskuratzeko behar izan duen denbora, milisegundotan
 
 
 ;The number of times the application was run and not cleanly shut down.
-The number of times the application was run and not cleanly shut down.
+Zenbat aldiz exekutatu den aplikazioa, eta behar ez bezala itzali.
 
 
 ;The time in seconds that the aborted sessions were not idle
@@ -403,23 +404,23 @@ How long in minutes the current session has been running
 
 
 ;Welcome to your Firefox Health Report
-Welcome to your Firefox Health Report
+Ongi etorri Firefoxen osasun-txostenera
 
 
 ;Welcome!
-Welcome!
+Ongi etorri!
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
-Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
+Firefoxen osasun-txostenak nabigatzailearen errendimenduaren berri ematen dizu, hau hobetzeko jarraitu beharreko pausoak azalduz.
 
 
 ;See My Report
-See My Report
+Ikusi nire txostena
 
 
 ;Time (in seconds)
-Time (in seconds)
+Denbora (segundotan)
 
 
 ;Show Statistics
