@@ -279,127 +279,127 @@ Gecko platform kodunun sürümü
 
 
 ;The date this version was first used with this installation profile
-The date this version was first used with this installation profile
+Bu sürümün bu kurulum profiliyle ilk kullanıldığı tarih
 
 
 ;An application version which has been used with this installation profile
-An application version which has been used with this installation profile
+bu kurulum profiliyle kullanılmış bir uygulama sürümü
 
 
 ;The number of add-ons of this type that existed in the profile on this date
-The number of add-ons of this type that existed in the profile on this date
+Bu tarihte profilde bulunan bu türdeki eklenti sayısı
 
 
 ;<var>True</var> if the application automatically disabled the add-on
-<var>True</var> if the application automatically disabled the add-on
+Uygulama eklentiyi otomatik olarak devre dışı bıraktıysa <var>true</var>
 
 
 ;Whether this add-on was installed by the user or automatically by another application
-Whether this add-on was installed by the user or automatically by another application
+Bu eklentinin kullanıcı tarafından mı yoksa başka bir uygulama tarafından mı yüklendiği
 
 
 ;Whether this add-on has native code.
-Whether this add-on has native code.
+Bu eklentinin doğal kodu olup olmadığı
 
 
 ;The identifier of this add-on as defined by the add-on developer
-The identifier of this add-on as defined by the add-on developer
+Bu eklentinin geliştiricisi tarafından tanımlanan kimliği
 
 
 ;The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
-The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
+Bu eklentinin yüklendiği son tarih (Kaldırılan eklentilerle ilgili eski bilgiler tutulmaz.)
 
 
 ;The number of searches performed with this search engine from this part of the UI
-The number of searches performed with this search engine from this part of the UI
+Arayüzün bu kısmından bu arama motoruyla yapılmış arama sayısı
 
 
 ;Whether this add-on was installed in the application directory or profile directory
-Whether this add-on was installed in the application directory or profile directory
+Bu eklentinin uygulama klasörüne mi yoksa profil klasörüne mi yüklendiği
 
 
 ;Whether this add-on is an extension or a plug-in
-Whether this add-on is an extension or a plug-in
+Bu eklentinin uzantı mı yoksa yan uygulama mı olduğu
 
 
 ;The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
-The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
+Bu eklentinin son güncellendiği tarih (Kaldırılan eklentilerle ilgili eski bilgiler tutulmaz.)
 
 
 ;<var>True</var> if the user manually disabled the add-on
-<var>True</var> if the user manually disabled the add-on
+Kullanıcı eklentiği elle devre dışı bıraktıysa <var>true</var>
 
 
 ;The current version of this add-on
-The current version of this add-on
+Bu eklentinin mevcut sürümü
 
 
 ;How long in milliseconds it took during startup for the application to render the UI and display the window
-How long in milliseconds it took during startup for the application to render the UI and display the window
+Başlangıç sırasında uygulamanın kullanıcı arayüzünü çizmek ve pencereyi görüntülemek için harcadığı süre (milisaniye)
 
 
 ;How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
-How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
+Başlangıç sırasında uygulamanın kitaplıkları yüklemek ve temel başlangıcı tamamlamak için harcadığı süre (milisaniye)
 
 
 ;How long in milliseconds it took during startup for the application to restore tabs from the previous session
-How long in milliseconds it took during startup for the application to restore tabs from the previous session
+Başlangıç sırasında uygulamanın önceki oturumdan kalan sekmeleri geri yüklemek için harcadığı süre (milisaniye)
 
 
 ;The number of times the application was run and not cleanly shut down.
-The number of times the application was run and not cleanly shut down.
+Uygulamanın kaç kere çalıştırılıp temiz bir şekilde kapanmadığı
 
 
 ;The time in seconds that the aborted sessions were not idle
-The time in seconds that the aborted sessions were not idle
+İptal edilen oturumların beklemede olmadığı süre (saniye)
 
 
 ;The time in seconds that the aborted sessions were running
-The time in seconds that the aborted sessions were running
+İptal edilen oturumların çalıştığı süre (saniye)
 
 
 ;The number of days since this application profile directory was created
-The number of days since this application profile directory was created
+Bu uygulama profili klasörünün oluşturduğu tarihten sonra geçen gün sayısı
 
 
 ;The number of times the application was run and cleanly shut down.
-The number of times the application was run and cleanly shut down.
+Bu uygulamanın çalıştırılıp temiz şekilde kapatılma sayısı
 
 
 ;The time in seconds that the completed sessions were not idle
-The time in seconds that the completed sessions were not idle
+Tamamlanan oturumların beklemede olmadığı süre (saniye)
 
 
 ;The time in seconds that the completed sessions were running
-The time in seconds that the completed sessions were running
+Tamamlanan oturumların çalıştığı süre (saniye)
 
 
 ;Total number of crashes that were recorded but not yet submitted
-Total number of crashes that were recorded but not yet submitted
+Kaydedilmiş ama henüz gönderilmemiş toplam çökme sayısı
 
 
 ;Total number of crashes that have been submitted
-Total number of crashes that have been submitted
+Gönderilmiş toplam çökme sayısı
 
 
 ;Time in seconds the app has not been idle
-Time in seconds the app has not been idle
+Uygulamanın beklemede olmadığı süre (saniye)
 
 
 ;Time in seconds since the app was last started
-Time in seconds since the app was last started
+Uygulamanın son başlatılmasından sonra geçen süre (saniye)
 
 
 ;Total number of bookmarks
-Total number of bookmarks
+Toplam yer imi sayısı
 
 
 ;Total number of pages listed in the history
-Total number of pages listed in the history
+Geçmiş'te listelenen toplam sayfa sayısı
 
 
 ;How long in minutes the current session has been running
-How long in minutes the current session has been running
+Geçerli oturumun çalışma süresi (dakika)
 
 
 ;Welcome to your Firefox Health Report
@@ -419,7 +419,7 @@ Raporumu göster
 
 
 ;Time (in seconds)
-Time (in seconds)
+Süre (saniye)
 
 
 ;Show Statistics
