@@ -7,7 +7,7 @@
 
 
 ;Get insights and performance information about your version of Firefox.
-Получите данные и сведения о скорости работы вашего Firefox.
+Загляните под капот и получите сведения о скорости работы вашего Firefox.
 
 
 ;Learn more...
@@ -107,7 +107,7 @@
 
 
 ;View more <a href="%(details_url)s">detailed information</a>
-Посмотреть более <a href="%(details_url)s">подробную информацию</a>
+Прочтите более <a href="%(details_url)s">подробную информацию</a>
 
 
 ;pages visited
