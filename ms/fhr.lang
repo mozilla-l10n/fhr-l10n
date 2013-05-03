@@ -48,7 +48,7 @@ versi
 
 
 ;time open
-masa dibuka 
+masa dibuka
 
 
 ;last crash
@@ -96,7 +96,7 @@ Haus dan lusuh
 
 
 ;It looks like your browser has crashed a number of times recently. To learn more:
-Ia seolah-olah pelayar anda telah rosak beberapa kali baru-baru ini. Untuk belajar lebih: 
+Ia seolah-olah pelayar anda telah rosak beberapa kali baru-baru ini. Untuk belajar lebih:
 
 
 ;OFF
@@ -152,7 +152,7 @@ Glosari
 
 
 ;What the Firefox Health Report Measures
-Apakah Ukuran Laporan Kesihatan Firefox 
+Apakah Ukuran Laporan Kesihatan Firefox
 
 
 ;The Firefox Health Report (FHR) has 4 categories of metrics:
@@ -417,3 +417,15 @@ Laporan Kesihatan Firefox membenarkan anda mengetahui bagaimana Firefox anda dil
 
 ;See My Report
 Lihat Laporan Saya
+
+
+;Time (in seconds)
+Time (in seconds)
+
+
+;Show Statistics
+Show Statistics
+
+
+;Privacy Policy
+Privacy Policy
