@@ -1,93 +1,93 @@
 ;Firefox Health Report
-Firefox Health Report
+ఫైర్‌ఫాక్స్ సుస్థితి నివేదిక
 
 
 ;Raw Data
-Raw Data
+ముడి దత్తాంశం
 
 
 ;Get insights and performance information about your version of Firefox.
-Get insights and performance information about your version of Firefox.
+మీ ఫైర్‌ఫాక్స్ వర్షన్ యొక్క ప్రావీణ్యత మరియు పనితనం గురించిన సమాచారం పొందండి.
 
 
 ;Learn more...
-Learn more...
+మరింత నేర్చుకోండి...
 
 
 ;Data Sharing
-Data Sharing
+దత్తాంశ భాగస్వామ్యం
 
 
 ;ON
-ON
+ఆన్
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
-You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
+మొజిల్లాతో దత్తాంశమును పంచుకొనుటను మీరు ఆపివేశారు, అయితే మీరు యిప్పటికీ కూడా మీ బ్రౌజర్ యెంతలా పనిచేస్తోందో చూడగలరు.
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
-Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
+మీ సుస్థితి నివేదిక దత్తాంశం మొజిల్లా సేవికల నుండి కూడా తీసివేయబడును. దీని గురించి మరింత మా <a href="%(privacy_url)s">గోప్యతా విధానం.</a> నందు తెలుసుకోండి.
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
-You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
+మీరు మీ దత్తాంశమును యెప్పటికప్పుడు మొజిల్లా పంచుకొనుటను యెంచుకొనినారు. మెరుగైన వెబ్ భవిష్యత్తు నిర్మాణంలో మాతో పాలుపంచుకొంటున్నందుకు ధన్యవాదములు.
 
 
 ;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
-Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
+మీ దత్తాంశమును మేము యేలా సంభాలించుతామో మా <a href="%(privacy_url)s">గోప్యాతా విధానం.</a> నందు తెలుసుకోండి.
 
 
 ;Vital Stats
-Vital Stats
+అతిముఖ్య గణాంకాలు
 
 
 ;version
-version
+వర్షన్
 
 
 ;time open
-time open
+తెరచిన సమయం
 
 
 ;last crash
-last crash
+ఆఖరి క్రాష్
 
 
 ;bookmarks
-bookmarks
+ఇష్టాంశములు
 
 
 ;This Month
-This Month
+ఈ నెల
 
 
 ;crashes
-crashes
+క్రాషెస్
 
 
 ;Add-ons
-Add-ons
+పొడిగింతలు
 
 
 ;View List
-View List
+జాబితా దర్శించు
 
 
 ;enabled
-enabled
+చేతనమైన
 
 
 ;disabled
-disabled
+అచేతనమైన
 
 
 ;Plugins
-Plugins
+చొప్పింతలు
 
 
 ;Tips
-Tips
+చిట్కాలు
 
 
 ;Wear and Tear
@@ -95,331 +95,329 @@ Wear and Tear
 
 
 ;It looks like your browser has crashed a number of times recently. To learn more:
-It looks like your browser has crashed a number of times recently. To learn more:
+ఇటివలి కాలంతో మీ బ్రౌజర్ చాలాసార్లు క్రాషైనట్లు వుంది. మరింత తెలుసుకొనుటకు:
 
 
 ;OFF
-OFF
+ఆఫ్
 
 
 ;Visit our <a href="%(sumo_url)s">support website</a>
-Visit our <a href="%(sumo_url)s">support website</a>
+మా <a href="%(sumo_url)s">తోడ్పాటు వెబ్‌సైట్</a> సందర్శించండి.
 
 
 ;View more <a href="%(details_url)s">detailed information</a>
-View more <a href="%(details_url)s">detailed information</a>
+మరింత <a href="%(details_url)s">విశదీకృత సమాచారం</a> దర్శించండి.
 
 
 ;pages visited
-pages visited
+సందర్శించిన పేజీలు
 
 
 ;Your browser seems to be running slower than usual. To learn more:
-Your browser seems to be running slower than usual. To learn more:
+మీ బ్రౌజర్ మామూలుగా కన్నా నిదానంగా నడుచుచున్నట్లు వుంది. మరింత తెలుసుకొనుటకు:
 
 
 ;You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
-You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
+మీరు బ్రౌజర్‌ను యెంత యెక్కువగా వాడితే అన్ని ఆసక్తికరమైన మరియు విశదీకృత విషయాలను చూడగలగుతారు. మరిన్ని కొత్త వరవడులను కొద్ది వారాలలో చూడండి.
 
 
 ;Startup Time by Day
-Startup Time by Day
+రోజువారీ ప్రారంభ సమయం
 
 
 ;Graph:
-Graph:
+రేఖాచిత్రం:
 
 
 ;Average
-Average
+సగటు
 
 
 ;All
-All
+అన్ని
 
 
 ;Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
-Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
+మీ ఫైర్‌ఫాక్సు వర్షన్ యెంతా బాగా పనిచేస్తోందో నిర్ధారించుటకు ప్రారంభ సమయం దోహదపడుతుంది. సాధారణంగా, వేగవంతమైన సమయాలు (అంటే తక్కువ సమయం) మంచి పనితనంను సూచించును.
 
 
 ;Data Collected
-Data Collected
+దత్తాంశం సేకరించబడెను
 
 
 ;Glossary
-Glossary
+పదకోశం
 
 
 ;What the Firefox Health Report Measures
-What the Firefox Health Report Measures
+ఫైర్‌ఫాక్స్ సుస్థితి నివేదిక దేనిని కొలుచును
 
 
 ;The Firefox Health Report (FHR) has 4 categories of metrics:
-The Firefox Health Report (FHR) has 4 categories of metrics:
+ఫైర్‌ఫాక్స్ సుస్థితి నివేదిక (FHR) 4 రకాలైన ప్రమాణాలను కలిగివుంది:
 
 
 ;Configuration
-Configuration
+ఆకృతీకరణ
 
 
 ;Device hardware, operating system, Firefox version
-Device hardware, operating system, Firefox version
+పరికర హార్డువేర్, ఆపరేటింగ్ సిస్టమ్, ఫైర్‌ఫాక్స్ వర్షన్
 
 
 ;Customizations
-Customizations
+ఇచ్ఛాపూర్వకమలపులు
 
 
 ;Add-ons, count and type
-Add-ons, count and type
+పొడిగింతలు, లెక్క మరియు రకం
 
 
 ;Performance
-Performance
+పనితనం
 
 
 ;Timing of browser events, rendering, session restores
-Timing of browser events, rendering, session restores
+బ్రౌజర్ ఘటనలు, రెండరింగ్, సెషన్ రీస్టోర్ల సమయం
 
 
 ;Length of session, how old a profile is, count of crashes, count of pages
-Length of session, how old a profile is, count of crashes, count of pages
+సెషన్ పొడవు, ప్రొఫైల్ యెంత పాతది, క్రాషెస్ లెక్క, పేజీల లెక్క
 
 
 ;Detailed Description
-Detailed Description
+విశదీకృత వివరణ
 
 
 ;Metric
-Metric
+ప్రామాణ్యత
 
 
 ;Description
-Description
+వివరణ
 
 
 ;Binary interface for XPCOM
-Binary interface for XPCOM
+XPCOM కొరకు బైనరీ యింటర్ఫేస్
 
 
 ;Identifier for this build of the application based on the date the build was started
-Identifier for this build of the application based on the date the build was started
+బుల్డు ప్రారంభమైన తేదీపై ఆధారపడి ఈ అనువర్తనం బుల్డు యొక్క ఐడెంటిఫైర్
 
 
 ;Operating System for which this build was configured
-Operating System for which this build was configured
+ఈ బుల్డు దేని కొరకు ఆకృతీకరించబడెనో ఆ ఆపరేటింగ్ సిస్టమ్
 
 
 ;Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
-Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
+ అనువర్తనం యొక్క ఫలానా పంపిణీ కొరకు ఐడెంటిఫైర్ వుపయోగంలో వుంది. అది <var>distribution.id</var> అభీష్టం నుండి తీసుకొనబడెను
 
 
 ;Version of the distribution, taken from the <var>distribution.version</var> preference
-Version of the distribution, taken from the <var>distribution.version</var> preference
+పంపిణీ యొక్క వర్షన్, <var>distribution.version</var> అభీష్టం నుండి తీసుకొనబడెను
 
 
 ;The version number of any Mozilla hotfix applied to the application
-The version number of any Mozilla hotfix applied to the application
+అనువర్తనంకు ఆపాదించబడిన యేదేని మొజిల్లా హాట్‌ఫిక్స్ వర్షన్ సంఖ్య
 
 
 ;Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
-Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
+ఫైర్‌ఫాక్స్ లేదా థండర్‌బర్డ్ మొదలగునవి సూచించు అనువర్తనంకు విశిష్టమైన ఐడెంటిఫైర్. <var>appName</var> యొక్క విలువను అనుసరించకుండా అనువర్తనం యొక్క అన్ని సంస్థాపనలకు వొకటే.
 
 
 ;The configured name of the application (Firefox/Aurora/Nightly for instance)
-The configured name of the application (Firefox/Aurora/Nightly for instance)
+అనువర్తనపు ఆకృతీకరించిన పేరు (ఫైర్‌ఫాక్స్/అరోరా/నైట్లీ)
 
 
 ;The channel this installation checks for application updates (nightly/aurora/beta/release)
-The channel this installation checks for application updates (nightly/aurora/beta/release)
+అనువర్తనం నవీకరణల కొరకు ఈ సంస్థాపన పరిశీలించు ఛానల్ (నైట్లీ/అరోరా/బీటా/విడుదల)
 
 
 ;The name of the company/provider who built this version
-The name of the company/provider who built this version
+ఈ వర్షన్ బుల్డు చేసిన కంపెనీ/వుత్పాదకుని పేరు
 
 
 ;The current version of the product
-The current version of the product
+ఉత్పత్తి యొక్క ప్రస్తుత వర్షన్
 
 
 ;Number of processor cores
-Number of processor cores
+ప్రోసెసర్ కోర్సు సంఖ్య
 
 
 ;Whether the application is currently configured to be the default browser for the operating system
-Whether the application is currently configured to be the default browser for the operating system
+ఆపరేటింగ్ సిస్టమ్ అప్రమేయ బ్రౌజర్ అగుటకు అనువర్తనం ప్రస్తుతం ఆకృతీకరించబడినదా లేదా
 
 
 ;Locale currently being used
-Locale currently being used
+ప్రస్తుతం వుపయోగించబడుతున్న స్థానికం(భాష)
 
 
 ;Amount of RAM in megabytes
-Amount of RAM in megabytes
+RAM మొత్తం మెగాబైట్లలో
 
 
 ;Currently running Operating System (kernel) name
-Currently running Operating System (kernel) name
+ప్రస్తుతం నడుస్తున్న ఆపరేటింగ్ సిస్టమ్ (కెర్నల్) పేరు
 
 
 ;Currently running Operating System (kernel) version
-Currently running Operating System (kernel) version
+ప్రస్తుతం నడుస్తున్న ఆపరేటింగ్ సిస్టమ్ (కెర్నల్) వర్షన్
 
 
 ;The build identifier of the Gecko platform code
-The build identifier of the Gecko platform code
+గెకో ప్లాట్‌ఫాం కోడ్ యొక్క బుల్డు ఐడెంటిఫైర్
 
 
 ;The version of the Gecko platform code
-The version of the Gecko platform code
+గెకో ప్లాట్‌ఫాం కోడ్ యొక్క వర్షన్
 
 
 ;Processor architecture
-Processor architecture
+ప్రోసెసర్ ఆకృతి
 
 
 ;The date this version was first used with this installation profile
-The date this version was first used with this installation profile
+ఈ సంస్థాపనా ప్రొఫైల్‌తో యీ వర్షన్ మొదటిగా వుపయోగించబడిన తేది
 
 
 ;An application version which has been used with this installation profile
-An application version which has been used with this installation profile
+ఈ సంస్థాపనా ప్రొఫైల్‌తో వుపయోగించబడిన అనువర్తనం వర్షన్
 
 
 ;The number of add-ons of this type that existed in the profile on this date
-The number of add-ons of this type that existed in the profile on this date
+ఈ తేదీ వద్ద ప్రొఫైల్ నందు వున్న ఈ రకమైన పొడిగింతల సంఖ్య
 
 
 ;<var>True</var> if the application automatically disabled the add-on
-<var>True</var> if the application automatically disabled the add-on
+<var>True</var> అనువర్తనం పొడిగింతను స్వయంచాలకంగా అచేతనం చేయవలెనంటే
 
 
 ;Whether this add-on was installed by the user or automatically by another application
-Whether this add-on was installed by the user or automatically by another application
+ఈ పొడిగింత వాడకరిచేత సంస్థాపించబడెనా లేక వేరే అనువర్తనంచే స్వయంచాలకంగా సంస్థాపించబడెనా
 
 
 ;Whether this add-on has native code.
-Whether this add-on has native code.
+ఈ పొడిగింత స్వాభావిక కోడ్ కలిగివుందా.
 
 
 ;The identifier of this add-on as defined by the add-on developer
-The identifier of this add-on as defined by the add-on developer
+ఈ పొడిగింత ఐడెంటిఫైర్ దాని అభివృద్దికారిచే నిర్వచించబడినట్లు
 
 
 ;The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
-The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
+ఈ పొడిగింత సంస్థాపించబడిన యిటీవలి తేది (నిర్మూలించిన పొడిగింత గురించిన గత సమాచారం వుంచలేదు).
 
 
 ;The number of searches performed with this search engine from this part of the UI
-The number of searches performed with this search engine from this part of the UI
+UI యొక్క ఈ భాగము నుండి శోధన యంత్రముతో జరిపిన శోధనల సంఖ్య
 
 
 ;Whether this add-on was installed in the application directory or profile directory
-Whether this add-on was installed in the application directory or profile directory
+ఈ పొడిగింత అనువర్తనం డైరెక్టరీ నందు సంస్థాపించబడెనా లేక ప్రొఫైల్ డైరెక్టరీ నందు సంస్థాపించబడెనా
 
 
 ;Whether this add-on is an extension or a plug-in
-Whether this add-on is an extension or a plug-in
+ఈ పొడిగింత విస్తరింపా(ఎక్సెటెన్షన్) లేగా చొప్పింతా
 
 
 ;The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
-The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
+ఈ పొడిగింత యిటీవల నవీకరించబడిన తేదీ (నిర్మూలించిన పొడిగింత గురించిన గత సమాచారం వుంచబడదు).
 
 
 ;<var>True</var> if the user manually disabled the add-on
-<var>True</var> if the user manually disabled the add-on
+<var>True</var> వాడుకరి మానవీయంగా పొడిగింతను అచేతనం చేయవలెనంటే
 
 
 ;The current version of this add-on
-The current version of this add-on
+ఈ పొడిగింత యొక్క ప్రస్తుత వర్షన్
 
 
 ;How long in milliseconds it took during startup for the application to render the UI and display the window
-How long in milliseconds it took during startup for the application to render the UI and display the window
+ప్రారంభం నందు అనువర్తనానికి UI రెండర్ చేసి విండోను ప్రదర్శించుటకు యెంత సమయం పట్టిందో మిల్లీక్షణాలలో
 
 
 ;How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
-How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
-
+ప్రారంభం నందు అనువర్తనానికి లైబ్రరీలు లోడుచేసి ప్రాధమిక సిద్దీకరణను పూర్తిచేయుటకు యెంత సమయం పట్టిందో మిల్లీక్షణాలలో
 
 ;How long in milliseconds it took during startup for the application to restore tabs from the previous session
-How long in milliseconds it took during startup for the application to restore tabs from the previous session
+ప్రారంభం నందు అనువర్తనానికి గత సెషన్‌నుండి టాబ్‌లను తిరిగివుంచుటకు యెంత సమయం పట్టిందో మిల్లీక్షణాలలో
 
 
 ;The number of times the application was run and not cleanly shut down.
-The number of times the application was run and not cleanly shut down.
+అనువర్తనం నడిచిన తరువాత సరిగా మూసివేయబడనిది యెన్నిసార్లు.
 
 
 ;The time in seconds that the aborted sessions were not idle
-The time in seconds that the aborted sessions were not idle
-
+విరమించబడిన సెషన్లు ఐడిల్ కాని సమయం క్షణాలలో
 
 ;The time in seconds that the aborted sessions were running
-The time in seconds that the aborted sessions were running
+విరమించబడిన సెషన్లు నడుస్తూవుండిన సమయం క్షణాలలో
 
 
 ;The number of days since this application profile directory was created
-The number of days since this application profile directory was created
+అనువర్తనం ప్రొఫైల్ డైరెక్టరీ సృష్టించి యెన్ని రోజులు
 
 
 ;The number of times the application was run and cleanly shut down.
-The number of times the application was run and cleanly shut down.
+అనువర్తనం నడిచిన తరువాత సరిగా మూసివేయబడింది యెన్ని సార్లు.
 
 
 ;The time in seconds that the completed sessions were not idle
-The time in seconds that the completed sessions were not idle
+పూర్తైన సెషన్లు ఐడిల్‌గా లేని సమయం క్షణాలలో
 
 
 ;The time in seconds that the completed sessions were running
-The time in seconds that the completed sessions were running
+పూర్తైన సెషన్లు నడుస్తూవుండిన సమయం క్షణాలలో
 
 
 ;Total number of crashes that were recorded but not yet submitted
-Total number of crashes that were recorded but not yet submitted
+రికార్డు చేయబడి యింకా సమర్పించబడని క్రాష్‌ల సంఖ్య
 
 
 ;Total number of crashes that have been submitted
-Total number of crashes that have been submitted
+సమర్పించబడిన క్రాష్‌ల సంఖ్య
 
 
 ;Time in seconds the app has not been idle
-Time in seconds the app has not been idle
+అనువర్తనం ఐడిల్‌గా లేని సమయం క్షణాలలో
 
 
 ;Time in seconds since the app was last started
-Time in seconds since the app was last started
+అనువర్తనం చివరిగా ప్రారంభించబడినప్పటినుండి సమయం క్షణాలలో
 
 
 ;Total number of bookmarks
-Total number of bookmarks
+ఇష్టాంశముల సంఖ్య
 
 
 ;Total number of pages listed in the history
-Total number of pages listed in the history
+చరిత్ర నందు జాబితాచేయబడిన పేజీల సంఖ్య
 
 
 ;How long in minutes the current session has been running
-How long in minutes the current session has been running
+ప్రస్తుత సెషన్ యెన్ని నిమిషాలనుండి నడుస్తోంది
 
 
 ;Welcome to your Firefox Health Report
-Welcome to your Firefox Health Report
+మీ ఫైర్‌ఫాక్స్ సుస్థితి నివేదికకు స్వాగతం
 
 
 ;Welcome!
-Welcome!
+స్వాగతం!
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
-Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
+మీ ఫైర్‌పాక్స్ యెలా పనిచేస్తోంది మరియు దానిని మెరుగుపరచుటకు మీరు యేమి చేయగలరు అనేది ఫైర్‌పాక్స్ సుస్థితి నివేదిక మీకు తెలుపును.
 
 
 ;See My Report
-See My Report
+నా నివేదిక చూడు
 
 
 ;Time (in seconds)
-Time (in seconds)
+సమయం (క్షణాలలో)
 
 
 ;Show Statistics
