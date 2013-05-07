@@ -1,421 +1,421 @@
 ;Firefox Health Report
-Firefox Health Report
+របាយការណ៍​សុខភាព​ Firefox
 
 
 ;Raw Data
-Raw Data
+ទិន្នន័យ​ដើម
 
 
 ;Get insights and performance information about your version of Firefox.
-Get insights and performance information about your version of Firefox.
+យក​ព័ត៌មាន​ដំណើរការ និង​ចំណេះដឹង​អំពី​កំណែ Firefox របស់​អ្នក។
 
 
 ;Learn more...
-Learn more...
+ស្វែងយល់​បន្ថែម...
 
 
 ;Data Sharing
-Data Sharing
+ការ​ចែករំលែក​ទិន្នន័យ
 
 
 ;ON
-ON
+បើក
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
-You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
+អ្នក​បាន​ជ្រើស​យក​បញ្ឈប់​ចែករំលែក​ទិន្នន័យ​ជាមួយ Mozilla ប៉ុន្តែ​អ្នក​នឹង​នៅតែ​អាច​មើល​ឃើញ​ពី​របៀប​ដំណើរការ​នៃ​កម្មវិធី​អ៊ីនធឺណិត​​របស់​អ្នក​ដដែល។
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
-Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
+ទិន្នន័យ​របាយការណ៍​សុខភាព​របស់​អ្នក​ក៏​នឹង​ត្រូវ​បាន​យកចេញ​ផង​ដែរ​ពី​ម៉ាស៊ីន​មេ​របស់ Mozilla ។ ស្វែងយល់​បន្ថែម​នៅ <a href="%(privacy_url)s">privacy policy.</a>
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
-You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
+អ្នក​បាន​ជ្រើស​យក​ការ​ចែករំលែក​ទិន្នន័យ​ជាមួយ Mozilla ជា​បន្តបន្ទាប់។ អរគុណ​ចំពោះ​ការ​ចូលរួម​ជាមួយ​យើងខ្ញុំ​ដើម្បី​ស្ថាបនា​អនាគត​ឲ្យ​កាន់តែ​ប្រសើរ​សម្រាប់​តំបន់បណ្ដាញ។
 
 
 ;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
-Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
+សិក្សា​ពី​របៀប​ចាត់ចែង​ទិន្នន័យ​របស់​អ្នក​នៅ​ក្នុង <a href="%(privacy_url)s">privacy policy.</a>
 
 
 ;Vital Stats
-Vital Stats
+សភាព​មូលដ្ឋាន
 
 
 ;version
-version
+កំណែ
 
 
 ;time open
-time open
+ពេលវេលា​បើក
 
 
 ;last crash
-last crash
+កាគាំង​ចុងក្រោយ
 
 
 ;bookmarks
-bookmarks
+ចំណាំ
 
 
 ;This Month
-This Month
+ខែនេះ
 
 
 ;crashes
-crashes
+គាំង
 
 
 ;Add-ons
-Add-ons
+កម្មវិធី​បន្ថែម
 
 
 ;View List
-View List
+ទិដ្ឋភាព​បញ្ជី
 
 
 ;enabled
-enabled
+បាន​បើក
 
 
 ;disabled
-disabled
+បាន​បិទ
 
 
 ;Plugins
-Plugins
+កម្មវិធី​ជំនួយ
 
 
 ;Tips
-Tips
+ព័ត៌មាន​ជំនួយ
 
 
 ;Wear and Tear
-Wear and Tear
+ការ​ប្រើប្រាស់​បាន
 
 
 ;It looks like your browser has crashed a number of times recently. To learn more:
-It looks like your browser has crashed a number of times recently. To learn more:
+ថ្មីៗ​នេះ​កម្មវិធី​អ៊ីនធឺណិត​របស់​អ្នក​ហាក់​បាន​គាំង​ជា​ញឹកញាប់។ ដើម្បី​ស្វែងយល់​បន្ថែម៖
 
 
 ;OFF
-OFF
+បិទ
 
 
 ;Visit our <a href="%(sumo_url)s">support website</a>
-Visit our <a href="%(sumo_url)s">support website</a>
+ទស្សនា <a href="%(sumo_url)s">support website</a> របស់​យើងខ្ញុំ
 
 
 ;View more <a href="%(details_url)s">detailed information</a>
-View more <a href="%(details_url)s">detailed information</a>
+មើល​បន្ថែម​នៅ <a href="%(details_url)s">detailed information</a>
 
 
 ;pages visited
-pages visited
+ទំព័រ​ដែល​ទស្សនា
 
 
 ;Your browser seems to be running slower than usual. To learn more:
-Your browser seems to be running slower than usual. To learn more:
+កម្មវិធី​អ៊ីនធឺណិត​របស់​អ្នក​ហាក់​ដំណើរការ​យឺត​ជាង​ធម្មតា។ ស្វែងយល់​បន្ថែម៖
 
 
 ;You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
-You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
+អ្នក​នឹង​អាច​មើល​ឃើញ​ព័ត៌មាន​លម្អិត និង​ព័ត៌មាន​ចាប់​អារម្មណ៍​កាន់តែ​ច្រើន​នៅ​ពេល​ដែល​អ្នក​ប្រើ​កម្មវិធី​អ៊ីនធឺណិត​របស់​អ្នក​កាន់តែ​យូរ។ ពិនិត្យ​ឡើងវិញ​នៅ​សប្ដាហ៍​បន្ទាប់​ដើម្បី​​មើល​សំណៅ​មួយ​ចំនួន។
 
 
 ;Startup Time by Day
-Startup Time by Day
+ចាប់ផ្ដើម​ពេល​តាម​ថ្ងៃ
 
 
 ;Graph:
-Graph:
+ក្រាហ្វិក៖
 
 
 ;Average
-Average
+មធ្យម
 
 
 ;All
-All
+ទាំងអស់
 
 
 ;Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
-Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
+ការ​ចាប់ផ្ដើម​ពេល​គឺ​ជួយ​កំណត់​អំពី​កម្រិត​ដំណើរការ Firefox របស់​អ្នក។ ជាទូទៅ​ពេលវេលា​លឿន (ពេលវេលា​តិច) បង្ហាញ​ថា​ដំណើរការ​ប្រសើរ។
 
 
 ;Data Collected
-Data Collected
+បាន​ប្រមូល​ទិន្នន័យ
 
 
 ;Glossary
-Glossary
+សទ្ទានុក្រម
 
 
 ;What the Firefox Health Report Measures
-What the Firefox Health Report Measures
+អ្វី​ដែល​ជា​រង្វាស់​នៃ​របាយការណ៍​សុខភាព​របស់ Firefox
 
 
 ;The Firefox Health Report (FHR) has 4 categories of metrics:
-The Firefox Health Report (FHR) has 4 categories of metrics:
+Firefox Health Report (FHR) មាន​៤​ប្រភេទ៖
 
 
 ;Configuration
-Configuration
+ការ​កំណត់​រចនាសម្ព័ន្ធ
 
 
 ;Device hardware, operating system, Firefox version
-Device hardware, operating system, Firefox version
+ផ្នែក​រឹង​របស់​ឧបករណ៍, ប្រព័ន្ធ​ប្រតិបត្តិការ, កំណែ Firefox
 
 
 ;Customizations
-Customizations
+ការ​ប្ដូរ​តាម​តម្រូវ​ការ
 
 
 ;Add-ons, count and type
-Add-ons, count and type
+កម្មវិធី​បន្ថែម, ចំនួន និង​ប្រភេទ
 
 
 ;Performance
-Performance
+ដំណើរការ
 
 
 ;Timing of browser events, rendering, session restores
-Timing of browser events, rendering, session restores
+ការ​កំណត់​ពេល​ព្រឹត្តិការណ៍​កម្មវិធី​អ៊ីនធឺណិត ការ​បង្ហាញ ការ​ស្ដារ​សម័យ
 
 
 ;Length of session, how old a profile is, count of crashes, count of pages
-Length of session, how old a profile is, count of crashes, count of pages
+ប្រវែង​សម័យ អាយុកាល​របស់​ប្រវត្តិ ចំនួន​គាំង ចំនួន​ទំព័រ
 
 
 ;Detailed Description
-Detailed Description
+សេចក្ដី​ពណ៌នា​លម្អិត
 
 
 ;Metric
-Metric
+ម៉ែត្រ
 
 
 ;Description
-Description
+សេចក្ដី​ពណ៌នា
 
 
 ;Binary interface for XPCOM
-Binary interface for XPCOM
+ចំណុច​ប្រទាក់​គោល​ពីរ​សម្រាប់ XPCOM
 
 
 ;Identifier for this build of the application based on the date the build was started
-Identifier for this build of the application based on the date the build was started
+ឧបករណ៍​សម្គាល់​សម្រាប់​ការ​ស្ថាបនា​កម្មវិធី​ដោយ​ផ្អែក​លើ​កាលបរិច្ឆេទ​ចាប់ផ្ដើម
 
 
 ;Operating System for which this build was configured
-Operating System for which this build was configured
+បាន​កំណត់​រចនាសម្ព័ន្ធ​សម្រាប់​ប្រព័ន្ធ​ប្រតិបត្តិការ​ដែល​ស្ថាបនា
 
 
 ;Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
-Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
+ឧបករណ៍​សម្គាល់​សម្រាប់​ការ​បែងចែក​កម្មវិធី​ជាក់លាក់​ដែល​កំពុង​ប្រើ។ វា​បាន​មកពី​ចំណូលចិត្ត <var>distribution.id</var>
 
 
 ;Version of the distribution, taken from the <var>distribution.version</var> preference
-Version of the distribution, taken from the <var>distribution.version</var> preference
+កំណែ​នៃ​ការ​បែងចែក, បាន​មកពី​ចំណូលចិត្ត <var>distribution.version</var>
 
 
 ;The version number of any Mozilla hotfix applied to the application
-The version number of any Mozilla hotfix applied to the application
+បាន​អនុវត្ត​លេខ​កំណែ​របស់ Mozilla hotfix ណាមួយ​ទៅកាន់​កម្មវិធី
 
 
 ;Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
-Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
+ឧបករណ៍​សម្គាល់​កម្មវិធី​តែមួយ​ដែល​បង្ហាញ​ថា​វា​ជា Firefox ឬ Thunderbird ។ល។ ដូចគ្នា​សម្រាប់​ការ​ដំឡើង​កម្មវិធី​ដោយ​មិន​គិត​អំពី​តម្លៃ​នៃ <var>appName</var>
 
 
 ;The configured name of the application (Firefox/Aurora/Nightly for instance)
-The configured name of the application (Firefox/Aurora/Nightly for instance)
+ឈ្មោះ​កម្មវិធី​ដែល​បាន​កំណត់​រចនាសម្ព័ន្ធ (Firefox/Aurora/Nightly សម្រាប់​វត្ថុ)
 
 
 ;The channel this installation checks for application updates (nightly/aurora/beta/release)
-The channel this installation checks for application updates (nightly/aurora/beta/release)
+ឆានែល​នៃ​ការ​ដំឡើង​នេះ​គឺ​ពិនិត្យ​រក​មើល​ការ​ធ្វើ​បច្ចុប្បន្នភាព​កម្មវិធី (nightly/aurora/beta/release)
 
 
 ;The name of the company/provider who built this version
-The name of the company/provider who built this version
+ឈ្មោះ​ក្រុមហ៊ុន/ក្រុមហ៊ុន​ផ្ដល់​ដែល​ស្ថាបនា​កំណែ​នេះ
 
 
 ;The current version of the product
-The current version of the product
+កំណែ​បច្ចុប្បន្ន​របស់​ផលិតផល
 
 
 ;Number of processor cores
-Number of processor cores
+ចំនួន​គំរូ​នៃ​ប្រព័ន្ធ​ដំណើរការ
 
 
 ;Whether the application is currently configured to be the default browser for the operating system
-Whether the application is currently configured to be the default browser for the operating system
+ថា​តើ​បច្ចុប្បន្ន កម្មវិធី​ត្រូវ​បាន​កំណត់​រចនាសម្ព័ន្ធ​ជា​កម្មវិធី​អ៊ីនធឺណិត​​លំនាំដើម​សម្រាប់​ប្រព័ន្ធ​ប្រតិបត្តិការ​ដែរ​ឬទេ
 
 
 ;Locale currently being used
-Locale currently being used
+បាន​កំពុង​ប្រើ​ភាសា (Locale) បច្ចុប្បន្ន
 
 
 ;Amount of RAM in megabytes
-Amount of RAM in megabytes
+ចំនួន​អង្គ​ចងចាំ​បណ្ដោះអាសន្ន​គិតជា​មេកាបៃ
 
 
 ;Currently running Operating System (kernel) name
-Currently running Operating System (kernel) name
+បច្ចុប្បន្ន​កំពុង​ដំណើរការ​ប្រព័ន្ធ​ប្រតិបត្តិការ (kernel) ឈ្មោះ
 
 
 ;Currently running Operating System (kernel) version
-Currently running Operating System (kernel) version
+បច្ចុប្បន្ន​កំពុង​ដំណើរការ​ប្រព័ន្ធ​ប្រតិបត្តិការ (kernel) កំណែ
 
 
 ;The build identifier of the Gecko platform code
-The build identifier of the Gecko platform code
+គ្រឿង​សម្គាល់​ការ​ស្ថាបនា​កូដ​កម្មវិធី Gecko
 
 
 ;The version of the Gecko platform code
-The version of the Gecko platform code
+កំណែ​របស់​កូដ​កម្មវិធី Gecko
 
 
 ;Processor architecture
-Processor architecture
+ឋានានុក្រម​ប្រព័ន្ធ​ដំណើរការ
 
 
 ;The date this version was first used with this installation profile
-The date this version was first used with this installation profile
+កាលបរិច្ឆេទ​កំណែ​នេះ​ត្រូវ​បាន​ប្រើ​លើក​ដំបូង​ជាមួយ​ទម្រង់​នៃ​ការ​ដំឡើង​នេះ
 
 
 ;An application version which has been used with this installation profile
-An application version which has been used with this installation profile
+កំណែ​របស់​កម្មវិធី​ដែល​ត្រូវ​បាន​ប្រើ​ជាមួយ​ទម្រង់​នៃ​ការ​ដំឡើង​នេះ
 
 
 ;The number of add-ons of this type that existed in the profile on this date
-The number of add-ons of this type that existed in the profile on this date
+ចំនួន​កម្មវិធី​បន្ថែម​ប្រភេទ​នេះ​ដែល​មាន​នៅ​ក្នុង​ទម្រង់​នៅ​លើ​កាលបរិច្ឆេទ​នេះ
 
 
 ;<var>True</var> if the application automatically disabled the add-on
-<var>True</var> if the application automatically disabled the add-on
+<var>ពិត</var> ប្រសិនបើ​កម្មវិធី​បាន​បិទ​ឧបករណ៍​បន្ថែម​ដោយ​ស្វ័យប្រវត្តិ
 
 
 ;Whether this add-on was installed by the user or automatically by another application
-Whether this add-on was installed by the user or automatically by another application
+ថា​តើ​កម្មវិធី​បន្ថែម​នេះ​ត្រូវ​បាន​ដំឡើង​ដោយ​អ្នកប្រើ ឬ​ដោយ​កម្មវិធី​ផ្សេងទៀត​​ដោយ​ស្វ័យប្រវត្កិ
 
 
 ;Whether this add-on has native code.
-Whether this add-on has native code.
+ថា​តើ​កម្មវិធី​បន្ថែម​នេះ​មាន​កូដ​ដើម​ដែរ​ឬ​ទេ
 
 
 ;The identifier of this add-on as defined by the add-on developer
-The identifier of this add-on as defined by the add-on developer
+គ្រឿង​សម្គាល់​របស់​កម្មវិធី​បន្ថែម​នេះ​នៅ​ពេល​បាន​កំណត់​ដោយ​អ្នក​អភិវឌ្ឍន៍​កម្មវិធី​បន្ថែម
 
 
 ;The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
-The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
+កាលបរិច្ឆេទ​ថ្មី​បំផុត​ដែល​កម្មវិធី​បន្ថែម​នេះ​ត្រូវ​បាន​ដំឡើង (ព័ត៌មាន​ពី​មុន​អំពី​ការ​លុប​កម្មវិធី​បន្ថែម​មិន​បាន​រក្សាទុក​ទេ)។
 
 
 ;The number of searches performed with this search engine from this part of the UI
-The number of searches performed with this search engine from this part of the UI
+ចំនួន​នៃ​ការ​ស្រាវជ្រាវ​ដែល​ដំណើរការ​ជាមួយ​ម៉ាស៊ីន​ស្វែងរក​​ចេញពី​ផ្នែក​នេះ​របស់​ចំណុច​ប្រទាក់​អ្នកប្រើ
 
 
 ;Whether this add-on was installed in the application directory or profile directory
-Whether this add-on was installed in the application directory or profile directory
+ថា​តើ​កម្មវិធី​បន្ថែម​នេះ​ត្រូវ​បាន​ដំឡើង​នៅ​ក្នុង​ថត​កម្មវិធី ឬ​ថត​ប្រវត្តិរូប
 
 
 ;Whether this add-on is an extension or a plug-in
-Whether this add-on is an extension or a plug-in
+ថា​តើ​កម្មវិធី​បន្ថែម​នេះ​ជា​ផ្នែក​បន្ថែម ឬ​ជា​កម្មវិធី​ជំនួយ
 
 
 ;The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
-The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
+កាលបរិច្ឆេទ​ថ្មី​បំផុត​ដែល​កម្មវិធី​បន្ថែម​នេះ​ត្រូវ​បាន​ធ្វើ​បច្ចុប្បន្នភាព (ព័ត៌មាន​ពី​មុន​អំពី​ការ​លុប​កម្មវិធី​បន្ថែម​មិន​បាន​រក្សាទុក​ទេ)។
 
 
 ;<var>True</var> if the user manually disabled the add-on
-<var>True</var> if the user manually disabled the add-on
+<var>ពិត</var> ប្រសិនបើ​អ្នក​បាន​បិទ​កម្មវិធី​បន្ថែម​ដោយ​ដៃ
 
 
 ;The current version of this add-on
-The current version of this add-on
+កំណែ​បច្ចុប្បន្ន​របស់​កម្មវិធី​បន្ថែម​នេះ
 
 
 ;How long in milliseconds it took during startup for the application to render the UI and display the window
-How long in milliseconds it took during startup for the application to render the UI and display the window
+រយៈពេល​ចាប់ផ្ដើម​ឡើង​គិតជា​មិល្លីវិនាទី​​របស់​កម្មវិធី​ដើម្បី​បង្ហាញ​ចំណុច​ប្រទាក់​អ្នក​ប្រើ និង​បង្អួច
 
 
 ;How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
-How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
+រយៈពេល​ចាប់ផ្ដើម​ឡើង​គិតជា​មិល្លីវិនាទី​​របស់​កម្មវិធី​ដើម្បី​ផ្ទុក​បណ្ណាល័យ និង​បញ្ចប់​ព័ត៌មាន​ចាប់ផ្ដើម​មូលដ្ឋាន
 
 
 ;How long in milliseconds it took during startup for the application to restore tabs from the previous session
-How long in milliseconds it took during startup for the application to restore tabs from the previous session
+រយៈពេល​ចាប់ផ្ដើម​ឡើង​គិតជា​មិល្លីវិនាទី​​របស់​កម្មវិធី​ដើម្បី​ស្ដារ​ផ្ទាំង​ចេញពី​សម័យ​មុន
 
 
 ;The number of times the application was run and not cleanly shut down.
-The number of times the application was run and not cleanly shut down.
+រយៈពេល​ដែល​កម្មវិធី​បាន​ដំណើរការ និង​មិន​បាន​បិទ។
 
 
 ;The time in seconds that the aborted sessions were not idle
-The time in seconds that the aborted sessions were not idle
+រយៈពេល​គិតជា​វិនាទី​ដែល​សម័យ​បោះបង់​មិន​ទំនេរ
 
 
 ;The time in seconds that the aborted sessions were running
-The time in seconds that the aborted sessions were running
+រយៈពេល​គិតជា​វិនាទី​ដែល​សម័យ​បោះបង់​បាន​ដំណើរការ
 
 
 ;The number of days since this application profile directory was created
-The number of days since this application profile directory was created
+ចំនួន​ថ្ងៃ​ដែល​បាន​បង្កើត​ថត​ទម្រង់​កម្មវិធី​នេះ
 
 
 ;The number of times the application was run and cleanly shut down.
-The number of times the application was run and cleanly shut down.
+រយៈពេល​ដែល​កម្មវិធី​បាន​ដំណើរការ និង​បាន​បិទ។
 
 
 ;The time in seconds that the completed sessions were not idle
-The time in seconds that the completed sessions were not idle
+រយៈពេល​គិតជា​វិនាទី​ដែល​សម័យ​បញ្ចប់​ទាំងស្រុង​មិន​ទំនេរ
 
 
 ;The time in seconds that the completed sessions were running
-The time in seconds that the completed sessions were running
+រយៈពេល​គិតជា​វិនាទី​ដែល​សម័យ​បញ្ចប់​ទាំងស្រុង​ដំណើរការ
 
 
 ;Total number of crashes that were recorded but not yet submitted
-Total number of crashes that were recorded but not yet submitted
+ចំនួន​នៃ​ការ​គាំង​សរុប​ដែល​បាន​កត់ត្រា​ទុក ប៉ុន្តែ​មិន​ទាន់​បាន​ដាក់​ស្នើ
 
 
 ;Total number of crashes that have been submitted
-Total number of crashes that have been submitted
+ចំនួន​នៃ​ការ​គាំង​សរុប​ដែល​បាន​ដាក់​ស្នើ
 
 
 ;Time in seconds the app has not been idle
-Time in seconds the app has not been idle
+រយៈពេល​គិតជា​វិនាទី​ដែល​កម្មវិធី​មិន​បាន​ទំនេរ
 
 
 ;Time in seconds since the app was last started
-Time in seconds since the app was last started
+រយៈពេល​គិតជា​វិនាទី​ដែល​កម្មវិធី​បាន​ចាប់ផ្ដើម​ចុងក្រោយ
 
 
 ;Total number of bookmarks
-Total number of bookmarks
+ចំនួន​ចំណាំ​សរុប
 
 
 ;Total number of pages listed in the history
-Total number of pages listed in the history
+ចំនួន​ទំព័រ​សរុប​ដែល​បាន​រាយ​នៅ​ក្នុង​ប្រវត្តិ
 
 
 ;How long in minutes the current session has been running
-How long in minutes the current session has been running
+រយៈពេល​គិតជា​វិនាទី​ដែល​សម័យ​ច្ចុប្បន្ន​បាន​ដំណើរការ
 
 
 ;Welcome to your Firefox Health Report
-Welcome to your Firefox Health Report
+សូម​ស្វាគមន៍​មកកាន់​របាយការណ៍​សុខភាព Firefox របស់​អ្នក
 
 
 ;Welcome!
-Welcome!
+សូម​ស្វាគមន៍!
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
-Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
+របាយការណ៍​សុខភាព Firefox អនុញ្ញាត​ឲ្យ​អ្នក​ដឹង​ពី​របៀប​ដែល Firefox ដំណើរការ និង​ដឹង​ពី​អ្វី​ដែល​អ្នក​ត្រូវ​ធ្វើ​ដើម្បីឲ្យ​វា​ប្រសើរ​ឡើង។
 
 
 ;See My Report
-See My Report
+មើល​របាយការណ៍​របស់​ខ្ញុំ
 
 
 ;Time (in seconds)
@@ -423,11 +423,11 @@ Time (in seconds)
 
 
 ;Show Statistics
-បង្ហាញ​ស្ថិតិ
+បង្ហាញ<200b>ស្ថិតិ
 
 
 
 
 ;Privacy Policy
-គោលនយោបាយ​ឯកជន
+គោលនយោបាយ<200b>ឯកជន
 
