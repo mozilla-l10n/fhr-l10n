@@ -1,433 +1,432 @@
 ;Firefox Health Report
-Firefox Health Report
+Firefox Health Report {ok}
 
 
 ;Raw Data
-Raw Data
+कच्चा आकडा
 
 
 ;Get insights and performance information about your version of Firefox.
-Get insights and performance information about your version of Firefox.
+Firefoxच्या आपल्या आवृत्तीविषयी सूक्ष्मदृष्टी व कागमिरि माहिती प्राप्त करा.
 
 
 ;Learn more...
-Learn more...
+आणखी शिका...
 
 
 ;Data Sharing
-Data Sharing
+डाटा शेअरिंग
 
 
 ;ON
-ON
+सुरू करा
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
-You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
+Mozillaसह डाटा शेअर करणे बंद करायचे तुम्ही ठरवले आहे, परंतु तुम्ही अजूनही ब्राऊजरची कामगिरि पाहू शकाल.
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
-Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
+Mozillaच्या सर्व्हरपासून तुमचा हेल्थ रिपोर्ट डाटा देखील काढून टाकला जाईल. <a href="%(privacy_url)s">गोपणीयता धोरण.</a> विषयी आणखी शिका
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
-You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
+तुम्ही वेळोवेळी Mozillaसह डाटा शेअर करायचे ठरवले आहे. वेबच्या उज्जवल भविष्यच्या निर्माणकरिता सहभागी झाल्याबद्दल धन्यवाद.
 
 
 ;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
-Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
+<a href="%(privacy_url)s">गोपणियता धोरण.</a>मध्ये तुमचा डाटा कशा प्रकारे हाताळला जाते ते शिका
 
 
 ;Vital Stats
-Vital Stats
+महत्वपूर्ण स्थिती
 
 
 ;version
-version
+आवृत्ती
 
 
 ;time open
-time open
+खुला वेळ
 
 
 ;last crash
-last crash
+शेवटचा कडकडाट
 
 
 ;bookmarks
-bookmarks
+वाचनखूणा
 
 
 ;This Month
-This Month
+ह्या महिन्यात
 
 
 ;crashes
-crashes
+कडकडाट
 
 
 ;Add-ons
-Add-ons
+ॲड-ऑन्स
 
 
 ;View List
-View List
+अवलोकन सूची
 
 
 ;enabled
-enabled
+सुरू केले
 
 
 ;disabled
-disabled
+बंद केले
 
 
 ;Plugins
-Plugins
+प्लगइन्स
 
 
 ;Tips
-Tips
+टिप्स
 
 
 ;Wear and Tear
-Wear and Tear
+तूटफूट
 
 
 ;It looks like your browser has crashed a number of times recently. To learn more:
-It looks like your browser has crashed a number of times recently. To learn more:
+असे आढळून येते कि तुमचे ब्राऊजर नुकतेच अनेक वेळ कडकडाटले. आणखी शिकण्याकरिता:
 
 
 ;OFF
-OFF
+बंद
 
 
 ;Visit our <a href="%(sumo_url)s">support website</a>
-Visit our <a href="%(sumo_url)s">support website</a>
+<a href="%(sumo_url)s">सपोर्ट संकेतस्थळ</a> येथे भेट द्या
 
 
 ;View more <a href="%(details_url)s">detailed information</a>
-View more <a href="%(details_url)s">detailed information</a>
+अधिक <a href="%(details_url)s">तपशील माहिती</a> पहा
 
 
 ;pages visited
-pages visited
+भेट दिलेले पान
 
 
 ;Your browser seems to be running slower than usual. To learn more:
-Your browser seems to be running slower than usual. To learn more:
+नेहमीपेक्षा तुमचे ब्राऊजर हळुवारपमे सुरू आहे. आणखी शिकण्याकरिता:
 
 
 ;You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
-You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
+ब्राऊजरचा जेवढा वापर कराल तेवढ्याच गरजेचे व तपशील माहिती पुरवणारे वाटेल. कल पहाण्याकरिता दोन आठवड्यानंतर तपासणी करा.
 
 
 ;Startup Time by Day
-Startup Time by Day
+दिवसानुरूप सुरूवातीची वेळ
 
 
 ;Graph:
-Graph:
+आलेख:
 
 
 ;Average
-Average
+सरासरि
 
 
 ;All
-All
+सर्व
 
 
 ;Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
-Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
+स्टार्टअपवेळ Firefoxची आवृत्ती किती कुशलतेने काम करत आहे, ओळखण्यास मदत करते. सर्वसाधारणपणे, वेगवान वेळ (म्हणजेच कमी वेळ) उत्तम कामगिरि निर्देशीत करते.
 
 
 ;Data Collected
-Data Collected
+गोळा केलेला डाटा
 
 
 ;Glossary
-Glossary
+शब्दावली
 
 
 ;What the Firefox Health Report Measures
-What the Firefox Health Report Measures
+Firefox Health Reportचे मापन
 
 
 ;The Firefox Health Report (FHR) has 4 categories of metrics:
-The Firefox Health Report (FHR) has 4 categories of metrics:
+Firefox Health Report (FHR)चे चार दशमान आहेत:
 
 
 ;Configuration
-Configuration
+संरचना
 
 
 ;Device hardware, operating system, Firefox version
-Device hardware, operating system, Firefox version
+साधन हार्डवेअर, ऑपरेटिंग सिस्टम, Firefox आवृत्ती
 
 
 ;Customizations
-Customizations
+पसंती
 
 
 ;Add-ons, count and type
-Add-ons, count and type
+ॲड-ऑन्स, प्रमाण व प्रकार
 
 
 ;Performance
-Performance
+कामगिरि
 
 
 ;Timing of browser events, rendering, session restores
-Timing of browser events, rendering, session restores
+ब्राऊजर इव्हेंट्स्चे टाइमिंग, रेंडरिंग, सत्र पुन्हा साठवणे
 
 
 ;Length of session, how old a profile is, count of crashes, count of pages
-Length of session, how old a profile is, count of crashes, count of pages
+सत्राची लांबी, जुणे प्रोफाइल कसे आहे, कडकडाटचे प्रमाण, पानांचे प्रमाण
 
 
 ;Detailed Description
-Detailed Description
+तपशील वर्णन
 
 
 ;Metric
-Metric
+दशमान
 
 
 ;Description
-Description
+वर्णन
 
 
 ;Binary interface for XPCOM
-Binary interface for XPCOM
+XPCOMकरिता बाइनरि संवाद
 
 
 ;Identifier for this build of the application based on the date the build was started
-Identifier for this build of the application based on the date the build was started
+बिल्ड ज्या दिवशी सुरू केले त्यावर दिनांकवर आधारित ॲप्लिकेशनकरिता बिल्डचे आइडेंटिफायर
 
 
 ;Operating System for which this build was configured
-Operating System for which this build was configured
+बिल्ड ज्याकरिता संरचीत केले ते ऑपरेटिंग सिस्टम
 
 
 ;Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
-Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
+वापरकरिता ॲप्लिकेशनकरिता विशिष्ट वितरणकरिता आइडेंटिफायर. त्यास <var>distribution.id</var> पसंतीपासून प्राप्त केले आहे
 
 
 ;Version of the distribution, taken from the <var>distribution.version</var> preference
-Version of the distribution, taken from the <var>distribution.version</var> preference
+वितणची आवृत्ती, <var>distribution.version</var> प्राधान्यपासून प्राप्त
 
 
 ;The version number of any Mozilla hotfix applied to the application
-The version number of any Mozilla hotfix applied to the application
+ॲप्लिकेशनकरिता लागू केलेल्या कोणत्याही Mozilla हॉटफिक्सचे आवृत्ती क्रमांक
 
 
 ;Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
-Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
+Firefox किंवा Thunderbird, इत्यादि असे निर्देशीत करणारे ॲप्लिकेशनकरिता एकमेव आइडेंटिफायर. <var>appName</var>च्या मूल्य अपेक्षित ॲप्लिकेशनच्या सर्व इंस्टॉलेशन्सकरिता समान आहे
 
 
 ;The configured name of the application (Firefox/Aurora/Nightly for instance)
-The configured name of the application (Firefox/Aurora/Nightly for instance)
+ॲप्लिकेशनचे संरचीत नाव (उदाहरणार्थ Firefox/Aurora/Nightly)
 
 
 ;The channel this installation checks for application updates (nightly/aurora/beta/release)
-The channel this installation checks for application updates (nightly/aurora/beta/release)
+ॲप्लिकेशन सुधारणांकरिता इंस्टॉलेशन तपासणीसाठी तपासण्याजोगी वाहिनी (नाइटलि/अरोरा/बिटा/रिलिज)
 
 
 ;The name of the company/provider who built this version
-The name of the company/provider who built this version
+ह्या आवृत्तीची बांधणी ज्या कंपनी किंवा प्रोव्हाइडरने केली त्याचे नाव
 
 
 ;The current version of the product
-The current version of the product
+उत्पादनाची सध्याची आवृत्ती
 
 
 ;Number of processor cores
-Number of processor cores
+प्रोसेसर कोर्सची संख्या
 
 
 ;Whether the application is currently configured to be the default browser for the operating system
-Whether the application is currently configured to be the default browser for the operating system
+ॲप्लिकेशनला सध्याच्या ऑपरेटिंग सिस्टमकरिता पूर्वनिर्धारित ब्राऊजर म्हणून संरचीत केले असल्यास
 
 
 ;Locale currently being used
-Locale currently being used
+सध्या वापरण्याजोगी लोकेल
 
 
 ;Amount of RAM in megabytes
-Amount of RAM in megabytes
+मेगाबाइट्समधील RAMचे प्रमाण
 
 
 ;Currently running Operating System (kernel) name
-Currently running Operating System (kernel) name
+सध्या कार्यरत ऑपरेटिंग सिस्टम (कर्नल) नाव
 
 
 ;Currently running Operating System (kernel) version
-Currently running Operating System (kernel) version
+सध्या कार्यरत ऑपरेटिंग सिस्टम (कर्नल) आवृत्ती
 
 
 ;The build identifier of the Gecko platform code
-The build identifier of the Gecko platform code
+Gecko प्लॅटफॉर्म कोडचे बिल्ड आइडेंटिफायर
 
 
 ;The version of the Gecko platform code
-The version of the Gecko platform code
+Gecko प्लॅटफॉर्म कोडची आवृत्ती
 
 
 ;Processor architecture
-Processor architecture
+प्रोसेसर आर्किटेक्चर
 
 
 ;The date this version was first used with this installation profile
-The date this version was first used with this installation profile
+ह्या इंस्टॉलेशन प्रोफाइलसह ह्या आवृत्तीचा प्रथमवेळी वापर केल्याचे दिनांक
 
 
 ;An application version which has been used with this installation profile
-An application version which has been used with this installation profile
+ह्या इंस्टॉलेशन प्रोफाइलसह वापरलेल्या ॲप्लकेशनची आवृत्ती
 
 
 ;The number of add-ons of this type that existed in the profile on this date
-The number of add-ons of this type that existed in the profile on this date
+ह्या दिवसाच्या प्रोफाइलमध्ये अस्तित्वातील ह्या प्रकारच्या ॲडऑन्सची संख्या
 
 
 ;<var>True</var> if the application automatically disabled the add-on
-<var>True</var> if the application automatically disabled the add-on
+ॲप्लिकेशने स्वयंरित्या ॲडऑन बंद केल्यास <var>True</var>
 
 
 ;Whether this add-on was installed by the user or automatically by another application
-Whether this add-on was installed by the user or automatically by another application
+हे ॲडऑन वापरकर्तातर्फे किंवा इतर ॲप्लिकेशनतर्फे स्वयंरित्या इंस्टॉल झाले
 
 
 ;Whether this add-on has native code.
-Whether this add-on has native code.
+ह्या ॲडऑनकडे नेटिव्ह कोड आहे किंवा नाही.
 
 
 ;The identifier of this add-on as defined by the add-on developer
-The identifier of this add-on as defined by the add-on developer
+ॲडऑन डेव्हलपरतर्फे वर्णन केलेल्या ॲडऑनचे आइडेंटिफायर
 
 
 ;The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
-The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
+हे ॲडऑन इंस्टॉल झाल्याची सर्वात नुकतेच दिनांक (विनाइंस्टॉल ॲडऑनविषयी मागील माहिती संग्रहीत ठेवली जात नाही).
 
 
 ;The number of searches performed with this search engine from this part of the UI
-The number of searches performed with this search engine from this part of the UI
+UIच्या ह्या भागातून ह्या सर्च इंजिनपासून सुरू केलेल्या शोधांची संख्या
 
 
 ;Whether this add-on was installed in the application directory or profile directory
-Whether this add-on was installed in the application directory or profile directory
+ॲप्लिकेशन डिरेक्ट्रि किंवा प्रोफाइल डिरेक्ट्रिमध्ये हे ॲडऑन इंस्टॉल केले किंवा नाही
 
 
 ;Whether this add-on is an extension or a plug-in
-Whether this add-on is an extension or a plug-in
+हे ॲडऑन एक्सटेंशन किंवा प्लगइन आहे किंवा नाही
 
 
 ;The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
-The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
+सर्वात नवीन दिनांक ज्यावेळी ह्या ॲडऑनला सुधारित केले (विनाइंस्टॉल ॲडऑनची मागील माहिती संग्रहीत ठेवली जात नाही).
 
 
 ;<var>True</var> if the user manually disabled the add-on
-<var>True</var> if the user manually disabled the add-on
+वापरकर्त्याने स्वहस्ते ॲडऑन बंद केले असल्यास <var>True</var>
 
 
 ;The current version of this add-on
-The current version of this add-on
+ह्या ॲडऑनची सध्याची आवृत्ती
 
 
 ;How long in milliseconds it took during startup for the application to render the UI and display the window
-How long in milliseconds it took during startup for the application to render the UI and display the window
+UI दाखवण्याकरिता व पटल दाखवल्यानंतर ॲप्लिकेशनकरिता स्टार्टअपवेळी मिलिसेकंदातील वेळ
 
 
 ;How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
-How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
+लाइब्ररिज लोड करण्यासाठी व मुळ प्रारंभिकरण समाप्त करण्यासाठी ॲप्लिकेशनकरिता स्टार्टअपवेळी मिलिसेकंदातील वेळ
 
 
 ;How long in milliseconds it took during startup for the application to restore tabs from the previous session
-How long in milliseconds it took during startup for the application to restore tabs from the previous session
+मागील सत्रपासून टॅब्स पूर्ववत् करण्यासाठी ॲप्लिकेशनकरिता स्टार्टअपवेळी मिलिसेकंदातील वेळ
 
 
 ;The number of times the application was run and not cleanly shut down.
-The number of times the application was run and not cleanly shut down.
+ॲप्लिकेशन कार्यरत असण्याची व योग्यरित्या बंद होण्याची संख्या.
 
 
 ;The time in seconds that the aborted sessions were not idle
-The time in seconds that the aborted sessions were not idle
+रद्द केलेले सत्र, रिकामे नसल्याची सेकंदातील वेळ
 
 
 ;The time in seconds that the aborted sessions were running
-The time in seconds that the aborted sessions were running
+रद्द केलेले सत्र, कार्यरत असल्याची सेकंदातील वेळ
 
 
 ;The number of days since this application profile directory was created
-The number of days since this application profile directory was created
+हे ॲप्लिकेशन प्रोफाइल डिरेक्ट्रि निर्माण झाल्यापासून दिवसांची संख्या
 
 
 ;The number of times the application was run and cleanly shut down.
-The number of times the application was run and cleanly shut down.
+ॲप्लिकेशन सुरू व योग्यरित्या शट डाऊन झाल्याची संख्या.
 
 
 ;The time in seconds that the completed sessions were not idle
-The time in seconds that the completed sessions were not idle
+रिकामे नसणारे पूर्ण झालेल्या सत्रांची सेकंदातील वेळ
 
 
 ;The time in seconds that the completed sessions were running
-The time in seconds that the completed sessions were running
+पूर्ण झालेले सत्र सुरू असण्याची सेकंदातील वेळ
 
 
 ;Total number of crashes that were recorded but not yet submitted
-Total number of crashes that were recorded but not yet submitted
+कडकडाटची संख्या ज्यास रेकॉर्ड केले परंतु सादर केले नाही
 
 
 ;Total number of crashes that have been submitted
-Total number of crashes that have been submitted
+सादर केलेल्या कडकडाटांची एकूण संख्या
 
 
 ;Time in seconds the app has not been idle
-Time in seconds the app has not been idle
+ॲप रिकामे नाही, असे सेकंदातील वेळ
 
 
 ;Time in seconds since the app was last started
-Time in seconds since the app was last started
+ॲप शेवटच्यावेळी सुरू झाले, अशी सेकंदातील वेळ
 
 
 ;Total number of bookmarks
-Total number of bookmarks
+वाचनखूणांची एकूण संख्या
 
 
 ;Total number of pages listed in the history
-Total number of pages listed in the history
+इतिहासमध्ये सूचीत असलेले एकूण पानांची संख्या
 
 
 ;How long in minutes the current session has been running
-How long in minutes the current session has been running
+सध्याचे सत्र किती मिनिटापासून कार्यरत आहे
 
 
 ;Welcome to your Firefox Health Report
-Welcome to your Firefox Health Report
+Firefox Health Reportवर आपले स्वागत आहे
 
 
 ;Welcome!
-Welcome!
+स्वागत आहे!
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
-Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
+Firefox Health Report तुम्हाला Firefoxची कामगिरि कशी आहे व त्याची सुधारणा करण्यासाठी काय शक्य आहे ते कळवते.
 
 
 ;See My Report
-See My Report
+माझे अहवाल पहा
 
 
 ;Time (in seconds)
-Time (in seconds)
+वेळ (सेकंदामध्ये)
 
 
 ;Show Statistics
 आकडेवारि दाखवा
 
 
-
-
 ;Privacy Policy
-गोपणीयता करार
+गोपणीयता धोरण
+
 
