@@ -1,5 +1,5 @@
 ;Firefox Health Report
-ఫైర్‌ఫాక్స్ సుస్థితి నివేదిక
+ఫైర్‌ఫాక్స్ ఆరోగ్య నివేదిక
 
 
 ;Raw Data
@@ -11,7 +11,7 @@
 
 
 ;Learn more...
-మరింత నేర్చుకోండి...
+మరింత తెలుసుకోండి...
 
 
 ;Data Sharing
@@ -23,11 +23,11 @@
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
-మొజిల్లాతో దత్తాంశమును పంచుకొనుటను మీరు ఆపివేశారు, అయితే మీరు యిప్పటికీ కూడా మీ బ్రౌజర్ యెంతలా పనిచేస్తోందో చూడగలరు.
+మొజిల్లాతో దత్తాంశమును పంచుకొనుటను మీరు ఆపివేశారు, అయితే మీరు యిప్పటికీ మీ బ్రౌజర్ యెంతలా పనిచేస్తోందో చూడగలరు.
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
-మీ సుస్థితి నివేదిక దత్తాంశం మొజిల్లా సేవికల నుండి కూడా తీసివేయబడును. దీని గురించి మరింత మా <a href="%(privacy_url)s">గోప్యతా విధానం.</a> నందు తెలుసుకోండి.
+మీ ఆరోగ్య నివేదిక దత్తాంశం మొజిల్లా సేవికల నుండి కూడా తీసివేయబడును. దీని గురించి మరింత మా <a href="%(privacy_url)s">గోప్యతా విధానం.</a> నందు తెలుసుకోండి.
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
@@ -39,7 +39,7 @@
 
 
 ;Vital Stats
-అతిముఖ్య గణాంకాలు
+కీలక గణాంకాలు
 
 
 ;version
@@ -139,11 +139,11 @@
 
 
 ;Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
-మీ ఫైర్‌ఫాక్సు వర్షన్ యెంతా బాగా పనిచేస్తోందో నిర్ధారించుటకు ప్రారంభ సమయం దోహదపడుతుంది. సాధారణంగా, వేగవంతమైన సమయాలు (అంటే తక్కువ సమయం) మంచి పనితనంను సూచించును.
+మీ ఫైర్‌ఫాక్సు వర్షన్ యెంత బాగా పనిచేస్తోందో నిర్ధారించుటకు ప్రారంభ సమయం దోహదపడుతుంది. సాధారణంగా, వేగవంతమైన సమయాలు (అంటే తక్కువ సమయం) మంచి పనితనంను సూచించును.
 
 
 ;Data Collected
-దత్తాంశం సేకరించబడెను
+సేకరించిన దత్తాంశం
 
 
 ;Glossary
@@ -151,11 +151,11 @@
 
 
 ;What the Firefox Health Report Measures
-ఫైర్‌ఫాక్స్ సుస్థితి నివేదిక దేనిని కొలుచును
+ఫైర్‌ఫాక్స్ ఆరోగ్య నివేదిక దేనిని కొలుచును
 
 
 ;The Firefox Health Report (FHR) has 4 categories of metrics:
-ఫైర్‌ఫాక్స్ సుస్థితి నివేదిక (FHR) 4 రకాలైన ప్రమాణాలను కలిగివుంది:
+ఫైర్‌ఫాక్స్ ఆరోగ్య నివేదిక (FHR) 4 రకాలైన ప్రమాణాలను కలిగివుంది:
 
 
 ;Configuration
@@ -203,11 +203,11 @@ XPCOM కొరకు బైనరీ యింటర్ఫేస్
 
 
 ;Identifier for this build of the application based on the date the build was started
-బుల్డు ప్రారంభమైన తేదీపై ఆధారపడి ఈ అనువర్తనం బుల్డు యొక్క ఐడెంటిఫైర్
+బిల్డ్ ప్రారంభమైన తేదీపై ఆధారపడి ఈ అనువర్తనం బిల్డ్ యొక్క ఐడెంటిఫైర్
 
 
 ;Operating System for which this build was configured
-ఈ బుల్డు దేని కొరకు ఆకృతీకరించబడెనో ఆ ఆపరేటింగ్ సిస్టమ్
+ఈ బిల్డ్ దేని కొరకు ఆకృతీకరించబడెనో ఆ ఆపరేటింగ్ సిస్టమ్
 
 
 ;Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
@@ -235,7 +235,7 @@ XPCOM కొరకు బైనరీ యింటర్ఫేస్
 
 
 ;The name of the company/provider who built this version
-ఈ వర్షన్ బుల్డు చేసిన కంపెనీ/వుత్పాదకుని పేరు
+ఈ వర్షన్ బిల్డ్ చేసిన కంపెనీ/వుత్పాదకుని పేరు
 
 
 ;The current version of the product
@@ -267,7 +267,7 @@ RAM మొత్తం మెగాబైట్లలో
 
 
 ;The build identifier of the Gecko platform code
-గెకో ప్లాట్‌ఫాం కోడ్ యొక్క బుల్డు ఐడెంటిఫైర్
+గెకో ప్లాట్‌ఫాం కోడ్ యొక్క బిల్డ్ ఐడెంటిఫైర్
 
 
 ;The version of the Gecko platform code
@@ -401,7 +401,7 @@ UI యొక్క ఈ భాగము నుండి శోధన యంత్
 
 
 ;Welcome to your Firefox Health Report
-మీ ఫైర్‌ఫాక్స్ సుస్థితి నివేదికకు స్వాగతం
+మీ ఫైర్‌ఫాక్స్ ఆరోగ్య నివేదికకు స్వాగతం
 
 
 ;Welcome!
@@ -409,7 +409,7 @@ UI యొక్క ఈ భాగము నుండి శోధన యంత్
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
-మీ ఫైర్‌పాక్స్ యెలా పనిచేస్తోంది మరియు దానిని మెరుగుపరచుటకు మీరు యేమి చేయగలరు అనేది ఫైర్‌పాక్స్ సుస్థితి నివేదిక మీకు తెలుపును.
+మీ ఫైర్‌పాక్స్ యెలా పనిచేస్తోంది మరియు దానిని మెరుగుపరచుటకు మీరు యేమి చేయగలరు అనేది ఫైర్‌పాక్స్ ఆరోగ్య నివేదిక మీకు తెలుపును.
 
 
 ;See My Report
@@ -428,4 +428,3 @@ UI యొక్క ఈ భాగము నుండి శోధన యంత్
 
 ;Privacy Policy
 గోప్యతా విదానం
-
