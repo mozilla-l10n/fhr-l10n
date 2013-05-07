@@ -7,7 +7,7 @@ Data Crai
 
 
 ;Get insights and performance information about your version of Firefox.
-Derbyn gwybodaeth am ddefnydd a pherfformiad am eich fersiwn o Firefox
+Derbyn gwybodaeth am ddefnydd a pherfformiad eich fersiwn chi o Firefox.
 
 
 ;Learn more...
@@ -47,7 +47,7 @@ fersiwn
 
 
 ;time open
-amser ar agor
+cyfnod ar agor
 
 
 ;last crash
@@ -155,7 +155,7 @@ Beth mae Adroddiad Iechyd Firefox yn ei Fesur
 
 
 ;The Firefox Health Report (FHR) has 4 categories of metrics:
-Mae gan Adroddiad Iechyd Firefox (FHR) 4 categori o fetrics:
+Mae gan Adroddiad Iechyd Firefox (FHR) 4 math o fesuryddion:
 
 
 ;Configuration
@@ -172,6 +172,7 @@ Cyfaddasiadau
 
 ;Add-ons, count and type
 Ychwanegion, cyfrif a math
+
 
 ;Performance
 Perfformiad
@@ -190,7 +191,7 @@ Disgrifiad Manwl
 
 
 ;Metric
-Metric
+Mesurydd
 
 
 ;Description
@@ -206,7 +207,7 @@ Dynodydd yr adeiledd yma o'r rhaglen wedi ei seilio ar ddyddiad cychwynnodd yr a
 
 
 ;Operating System for which this build was configured
-Y System Weithredu ffurfweddwyd yr adeiledd ar gyfer 
+Y System Weithredu ffurfweddwyd yr adeiledd ar ei gyfer
 
 
 ;Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
@@ -214,7 +215,7 @@ Dynodwr dosbarthiad penodol y rhaglen sy'n cael ei ddefnyddio. Mae'n cael ei gym
 
 
 ;Version of the distribution, taken from the <var>distribution.version</var> preference
-Fersiwn y dosbarthiad, wedi ei gymryd o ddewisiadau  <var>distribution.version</var>
+Fersiwn y dosbarthiad, wedi ei gymryd o ddewisiadau <var>distribution.version</var>
 
 
 ;The version number of any Mozilla hotfix applied to the application
@@ -222,11 +223,11 @@ Rhif fersiwn unrhyw gywiriadau y mae Mozilla wedi eu gosod i'r rhaglen
 
 
 ;Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
-Dynodydd unigryw i'r rhaglen sy'n dangos p'un ai Firefox neu Thunderbird ydyw, ac yn y blaen. Yr un peth i'r holl osodiadau o raglen beth bynnag yw gwerth <var>appName</var>
+Dynodydd sy'n unigryw i'r rhaglen ac yn dangos p'un ai Firefox neu Thunderbird ydyw, ac yn y blaen. Yr un peth i'r holl osodiadau raglen beth bynnag yw gwerth <var>appName</var>
 
 
 ;The configured name of the application (Firefox/Aurora/Nightly for instance)
-Enw ffurfwedig rhaglen (e.e. Firefox/Aurora/Nightly)
+Enw ffurfweddig rhaglen (e.e. Firefox/Aurora/Nightly)
 
 
 ;The channel this installation checks for application updates (nightly/aurora/beta/release)
@@ -258,11 +259,12 @@ Cyfanswm y RAM mewn megabeit
 
 
 ;Currently running Operating System (kernel) name
-Wrthi'n rhedeg System Weithredu (cnewyllyn) enw
+Enw'r System Weithredu (cnewyllyn) sy'n rhedeg ar hyn o bryd
 
 
 ;Currently running Operating System (kernel) version
-Wrthi'n rhedeg System Weithredu (cnewyllyn) fersiwn
+Fersiwn y System Weithredu (cnewyllyn) sy'n rhedeg ar hyn o bryd
+
 
 ;The build identifier of the Gecko platform code
 Dynodydd adeiledd platfform Gecko
@@ -409,7 +411,7 @@ Croeso!
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
-Mae Adroddiad Iechyd Firefox yn caniatáu i chi wybod sut mae eich Firefox yn perfformio a beth allwch ei wneud i'w wella.
+Mae Adroddiad Iechyd Firefox yn caniatâu i chi wybod sut mae eich Firefox yn perfformio a beth allwch ei wneud i'w wella.
 
 
 ;See My Report
