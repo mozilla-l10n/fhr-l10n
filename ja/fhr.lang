@@ -1,425 +1,425 @@
 ;Firefox Health Report
-Firefox Health Report
+Firefox ヘルスレポート
 
 
 ;Raw Data
-Raw Data
+生データ
 
 
 ;Get insights and performance information about your version of Firefox.
-Get insights and performance information about your version of Firefox.
+あなたの Firefox に関する分析とパフォーマンス情報を確認しましょう。
 
 
 ;Learn more...
-Learn more...
+詳細
 
 
 ;Data Sharing
-Data Sharing
+データ共有
 
 
 ;ON
-ON
+有効
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
-You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
+あなたは Mozilla にデータを送信しないことを選択しましたが、今後もお使いのブラウザのパフォーマンスは確認できます。
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
-Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
+あなたのヘルスレポートデータは Mozilla のサーバからも消去されます。詳しくは <a href="%(privacy_url)s">プライバシーポリシー</a> をご覧ください。
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
-You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
+あなたは Mozilla にデータを送信することを選択しました。Web の明るい未来を創るという私たちのミッションへのご協力に感謝します。
 
 
 ;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
-Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
+データの取り扱いに関しては Mozilla の <a href="%(privacy_url)s">プライバシーポリシー</a> をご覧ください。
 
 
 ;Vital Stats
-Vital Stats
+基本情報
 
 
 ;version
-version
+バージョン
 
 
 ;time open
-time open
+使用時間
 
 
 ;last crash
-last crash
+直近のクラッシュ
 
 
 ;bookmarks
-bookmarks
+ブックマーク
 
 
 ;This Month
-This Month
+今月
 
 
 ;crashes
-crashes
+クラッシュ
 
 
 ;Add-ons
-Add-ons
+アドオン
 
 
 ;View List
-View List
+リストを表示
 
 
 ;enabled
-enabled
+有効
 
 
 ;disabled
-disabled
+無効
 
 
 ;Plugins
-Plugins
+プラグイン
 
 
 ;Tips
-Tips
+ヒント
 
 
 ;Wear and Tear
-Wear and Tear
+消耗度
 
 
 ;It looks like your browser has crashed a number of times recently. To learn more:
-It looks like your browser has crashed a number of times recently. To learn more:
+あなたのブラウザは最近頻繁にクラッシュしているようです。詳しくはこちら:
 
 
 ;OFF
-OFF
+無効
 
 
 ;Visit our <a href="%(sumo_url)s">support website</a>
-Visit our <a href="%(sumo_url)s">support website</a>
+Mozilla の <a href="%(sumo_url)s">サポートサイト</a> を訪れる
 
 
 ;View more <a href="%(details_url)s">detailed information</a>
-View more <a href="%(details_url)s">detailed information</a>
+より <a href="%(details_url)s">詳しい情報</a> を見る
 
 
 ;pages visited
-pages visited
+訪問ページ数
 
 
 ;Your browser seems to be running slower than usual. To learn more:
-Your browser seems to be running slower than usual. To learn more:
+あなたのブラウザは通常よりも動作が遅くなっているようです。詳しくはこちら:
 
 
 ;You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
-You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
+あなたがブラウザを使えば使うほど、より興味深く詳細な情報を見られるようになります。データを表示可能になるまで数週間かかりますので、後日また見に来てください。
 
 
 ;Startup Time by Day
-Startup Time by Day
+日ごとの起動時間
 
 
 ;Graph:
-Graph:
+グラフ:
 
 
 ;Average
-Average
+平均
 
 
 ;All
-All
+すべて
 
 
 ;Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
-Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
+起動時間は Firefox のパフォーマンス状況を判断するのに役立ちます。通常、起動が速い (起動時間が短い) ほどパフォーマンスも高いと見なされます。
 
 
 ;Data Collected
-Data Collected
+収集されたデータ
 
 
 ;Glossary
-Glossary
+用語集
 
 
 ;What the Firefox Health Report Measures
-What the Firefox Health Report Measures
+Firefox ヘルスレポートの評価内容
 
 
 ;The Firefox Health Report (FHR) has 4 categories of metrics:
-The Firefox Health Report (FHR) has 4 categories of metrics:
+Firefox ヘルスレポート (FHR) には 4 つの解析区分があります。
 
 
 ;Configuration
-Configuration
+構成
 
 
 ;Device hardware, operating system, Firefox version
-Device hardware, operating system, Firefox version
+端末のハードウェア、OS、Firefox のバージョン
 
 
 ;Customizations
-Customizations
+カスタマイズ
 
 
 ;Add-ons, count and type
-Add-ons, count and type
+アドオンの数と種類
 
 
 ;Performance
-Performance
+パフォーマンス
 
 
 ;Timing of browser events, rendering, session restores
-Timing of browser events, rendering, session restores
+ブラウザのイベント、描画、セッション復元のタイミング
 
 
 ;Length of session, how old a profile is, count of crashes, count of pages
-Length of session, how old a profile is, count of crashes, count of pages
+セッションの長さ、プロファイルの古さ、クラッシュ回数、ページ数
 
 
 ;Detailed Description
-Detailed Description
+詳しい解説
 
 
 ;Metric
-Metric
+測定基準
 
 
 ;Description
-Description
+説明
 
 
 ;Binary interface for XPCOM
-Binary interface for XPCOM
+XPCOM のバイナリインタフェース
 
 
 ;Identifier for this build of the application based on the date the build was started
-Identifier for this build of the application based on the date the build was started
+ビルド開始日時に基づく、アプリケーションのこのビルドの識別子
 
 
 ;Operating System for which this build was configured
-Operating System for which this build was configured
+このビルドが設定された対象の OS
 
 
 ;Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
-Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
+現在使用中のアプリケーションの特定ディストリビューションの識別子。これは <var>distribution.id</var> という設定項目から得られます
 
 
 ;Version of the distribution, taken from the <var>distribution.version</var> preference
-Version of the distribution, taken from the <var>distribution.version</var> preference
+ディストリビューションのバージョン。<var>distribution.version</var> という設定項目から得られます
 
 
 ;The version number of any Mozilla hotfix applied to the application
-The version number of any Mozilla hotfix applied to the application
+アプリケーションに適用されている Mozilla ホットフィックスのバージョン番号
 
 
 ;Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
-Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
+アプリケーションが Firefox か Thunderbird かなどを示す、アプリケーション固有の識別子。<var>appName</var> の値に関わらず、アプリケーションの全インストールに共通です
 
 
 ;The configured name of the application (Firefox/Aurora/Nightly for instance)
-The configured name of the application (Firefox/Aurora/Nightly for instance)
+設定されたアプリケーション名 (Firefox/Aurora/Nightly など)
 
 
 ;The channel this installation checks for application updates (nightly/aurora/beta/release)
-The channel this installation checks for application updates (nightly/aurora/beta/release)
+このインストールがアプリケーションの更新確認に使用するチャンネル (nightly/aurora/beta/release)
 
 
 ;The name of the company/provider who built this version
-The name of the company/provider who built this version
+このバージョンをビルドした会社・提供者名
 
 
 ;The current version of the product
-The current version of the product
+現在使用中の製品のバージョン
 
 
 ;Number of processor cores
-Number of processor cores
+プロセッサのコア数
 
 
 ;Whether the application is currently configured to be the default browser for the operating system
-Whether the application is currently configured to be the default browser for the operating system
+アプリケーションが OS の既定のブラウザに設定されているかどうか
 
 
 ;Locale currently being used
-Locale currently being used
+現在使用中のロケール
 
 
 ;Amount of RAM in megabytes
-Amount of RAM in megabytes
+RAM 使用量 (メガバイト)
 
 
 ;Currently running Operating System (kernel) name
-Currently running Operating System (kernel) name
+現在使用中の OS (カーネル) 名
 
 
 ;Currently running Operating System (kernel) version
-Currently running Operating System (kernel) version
+現在使用中の OS (カーネル) のバージョン
 
 
 ;The build identifier of the Gecko platform code
-The build identifier of the Gecko platform code
+Gecko プラットフォームコードのビルド識別子
 
 
 ;The version of the Gecko platform code
-The version of the Gecko platform code
+Gecko プラットフォームコードのバージョン
 
 
 ;Processor architecture
-Processor architecture
+プロセッサのアーキテクチャ
 
 
 ;The date this version was first used with this installation profile
-The date this version was first used with this installation profile
+このバージョンがこのインストールプロファイルで最初に使用された日付
 
 
 ;An application version which has been used with this installation profile
-An application version which has been used with this installation profile
+このインストールプロファイルで使用されているアプリケーションのバージョン
 
 
 ;The number of add-ons of this type that existed in the profile on this date
-The number of add-ons of this type that existed in the profile on this date
+この日にプロファイル内に存在していたこの種類のアドオンの数
 
 
 ;<var>True</var> if the application automatically disabled the add-on
-<var>True</var> if the application automatically disabled the add-on
+アプリケーションが自動的にアドオンを無効化した場合は <var>True</var>
 
 
 ;Whether this add-on was installed by the user or automatically by another application
-Whether this add-on was installed by the user or automatically by another application
+このアドオンがユーザによってインストールされたか、他のアプリケーションによって自動的にインストールされたか
 
 
 ;Whether this add-on has native code.
-Whether this add-on has native code.
+このアドオンにネイティブコードが含まれているかどうか
 
 
 ;The identifier of this add-on as defined by the add-on developer
-The identifier of this add-on as defined by the add-on developer
+アドオン開発者によって定義されたこのアドオンの識別子
 
 
 ;The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
-The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
+このアドオンがインストールされた直近の日付 (削除されたアドオンに関する以前の情報は残りません)
 
 
 ;The number of searches performed with this search engine from this part of the UI
-The number of searches performed with this search engine from this part of the UI
+UI のこの部分からこの検索エンジンで実行された検索の回数
 
 
 ;Whether this add-on was installed in the application directory or profile directory
-Whether this add-on was installed in the application directory or profile directory
+このアドオンがアプリケーションディレクトリにインストールされているか、プロファイルディレクトリにインストールされているか
 
 
 ;Whether this add-on is an extension or a plug-in
-Whether this add-on is an extension or a plug-in
+このアドオンが拡張機能かプラグインか
 
 
 ;The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
-The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
+このアドオンが更新された直近の日付 (削除されたアドオンに関する以前の情報は残りません)
 
 
 ;<var>True</var> if the user manually disabled the add-on
-<var>True</var> if the user manually disabled the add-on
+ユーザが自分自身でアドオンを無効化した場合は <var>True</var>
 
 
 ;The current version of this add-on
-The current version of this add-on
+このアドオンの現在使用中のバージョン
 
 
 ;How long in milliseconds it took during startup for the application to render the UI and display the window
-How long in milliseconds it took during startup for the application to render the UI and display the window
+アプリケーション起動時に、UI の描画とウィンドウの表示にかかった時間 (ミリ秒)
 
 
 ;How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
-How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
+アプリケーション起動時に、ライブラリの読み込みと基本初期化の完了にかかった時間 (ミリ秒)
 
 
 ;How long in milliseconds it took during startup for the application to restore tabs from the previous session
-How long in milliseconds it took during startup for the application to restore tabs from the previous session
+アプリケーション起動時に、前回のセッションからのタブの復元にかかった時間 (ミリ秒)
 
 
 ;The number of times the application was run and not cleanly shut down.
-The number of times the application was run and not cleanly shut down.
+アプリケーションが実行され、正常に終了されなかった回数
 
 
 ;The time in seconds that the aborted sessions were not idle
-The time in seconds that the aborted sessions were not idle
+中断されたセッションが待機状態でなかった時間 (秒)
 
 
 ;The time in seconds that the aborted sessions were running
-The time in seconds that the aborted sessions were running
+中断されたセッションが実行されていた時間 (秒)
 
 
 ;The number of days since this application profile directory was created
-The number of days since this application profile directory was created
+このアプリケーションプロファイルディレクトリが作成されてからの日数
 
 
 ;The number of times the application was run and cleanly shut down.
-The number of times the application was run and cleanly shut down.
+アプリケーションが実行され正常に終了された回数
 
 
 ;The time in seconds that the completed sessions were not idle
-The time in seconds that the completed sessions were not idle
+完了したセッションが待機状態でなかった時間 (秒)
 
 
 ;The time in seconds that the completed sessions were running
-The time in seconds that the completed sessions were running
+完了したセッションが実行されていた時間 (秒)
 
 
 ;Total number of crashes that were recorded but not yet submitted
-Total number of crashes that were recorded but not yet submitted
+記録されているものの未報告のクラッシュの回数
 
 
 ;Total number of crashes that have been submitted
-Total number of crashes that have been submitted
+報告されたクラッシュの回数
 
 
 ;Time in seconds the app has not been idle
-Time in seconds the app has not been idle
+アプリケーションが待機状態でなかった時間 (秒)
 
 
 ;Time in seconds since the app was last started
-Time in seconds since the app was last started
+アプリケーションが前回起動されてからの時間 (秒)
 
 
 ;Total number of bookmarks
-Total number of bookmarks
+ブックマークに保存されているページの数
 
 
 ;Total number of pages listed in the history
-Total number of pages listed in the history
+履歴に保存されているページの数
 
 
 ;How long in minutes the current session has been running
-How long in minutes the current session has been running
+現在のセッションの実行時間 (分)
 
 
 ;Welcome to your Firefox Health Report
-Welcome to your Firefox Health Report
+Firefox ヘルスレポートへようこそ
 
 
 ;Welcome!
-Welcome!
+ようこそ！
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
-Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
+Firefox ヘルスレポートでは、あなたがお使いの Firefox のパフォーマンスを確認し、その改善方法を知ることができます。
 
 
 ;See My Report
-See My Report
+レポートを見る
 
 
 ;Time (in seconds)
-Time (in seconds)
+時間 (秒)
 
 
 ;Show Statistics
