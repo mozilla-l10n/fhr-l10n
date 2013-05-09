@@ -155,127 +155,127 @@ El que mesura l'informe de salut del Firefox
 
 
 ;The Firefox Health Report (FHR) has 4 categories of metrics:
-The Firefox Health Report (FHR) has 4 categories of metrics:
+L'informe de salut del Firefox té 4 categories de mètriques:
 
 
 ;Configuration
-Configuration
+Configuració
 
 
 ;Device hardware, operating system, Firefox version
-Device hardware, operating system, Firefox version
+Maquinari, sistema operatiu, versió del Firefox
 
 
 ;Customizations
-Customizations
+Personalitzacions
 
 
 ;Add-ons, count and type
-Add-ons, count and type
+Complements, quantitat i tipus
 
 
 ;Performance
-Performance
+Rendiment
 
 
 ;Timing of browser events, rendering, session restores
-Timing of browser events, rendering, session restores
+Temps dels esdeveniments del navegador, renderització i restauracions de sessió
 
 
 ;Length of session, how old a profile is, count of crashes, count of pages
-Length of session, how old a profile is, count of crashes, count of pages
+Durada de la sessió, antiguitat del perfil, quantitat de fallades, quantitat de pàgines
 
 
 ;Detailed Description
-Detailed Description
+Descripció detallada
 
 
 ;Metric
-Metric
+Mètrica
 
 
 ;Description
-Description
+Descripció
 
 
 ;Binary interface for XPCOM
-Binary interface for XPCOM
+Interfície binària per a XPCOM
 
 
 ;Identifier for this build of the application based on the date the build was started
-Identifier for this build of the application based on the date the build was started
+Identificador de la versió d'aquesta aplicació basat en la data en què es va començar la versió
 
 
 ;Operating System for which this build was configured
-Operating System for which this build was configured
+Sistema operatiu per a què s'ha configurat aquesta versió
 
 
 ;Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
-Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
+Identificador d'aquesta distribució concreta de l'aplicació en ús. S'obté de la preferència <var>distribution.id</var>
 
 
 ;Version of the distribution, taken from the <var>distribution.version</var> preference
-Version of the distribution, taken from the <var>distribution.version</var> preference
+Versió de la distribució, obtinguda de la preferència <var>distribution.version</var>
 
 
 ;The version number of any Mozilla hotfix applied to the application
-The version number of any Mozilla hotfix applied to the application
+El número de versió de qualsevol reparació ràpida de Mozilla feta a l'aplicació
 
 
 ;Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
-Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
+Identificador únic a l'aplicació que indica si es tracta del Firefox, del Thunderbird, etc. És el mateix per a totes les instal·lacions de l'aplicació i no es té en compte el valor d'<var>appName</var>
 
 
 ;The configured name of the application (Firefox/Aurora/Nightly for instance)
-The configured name of the application (Firefox/Aurora/Nightly for instance)
+El nom configurat per l'aplicació (Firefox/Aurora/Nightly per exemple)
 
 
 ;The channel this installation checks for application updates (nightly/aurora/beta/release)
-The channel this installation checks for application updates (nightly/aurora/beta/release)
+El canal que aquesta instal·lació utilitza per actualitzar-vos (nightly/aurora/beta/release)
 
 
 ;The name of the company/provider who built this version
-The name of the company/provider who built this version
+El nom de l'organització/proveïdor que ha muntat aquesta versió
 
 
 ;The current version of the product
-The current version of the product
+La versió actual del producte
 
 
 ;Number of processor cores
-Number of processor cores
+Nombre de nuclis del processador
 
 
 ;Whether the application is currently configured to be the default browser for the operating system
-Whether the application is currently configured to be the default browser for the operating system
+Si l'aplicació està configurada per ser el navegador per defecte del sistema operatiu
 
 
 ;Locale currently being used
-Locale currently being used
+Configuració local en ús
 
 
 ;Amount of RAM in megabytes
-Amount of RAM in megabytes
+Quantitat de RAM en megabytes
 
 
 ;Currently running Operating System (kernel) name
-Currently running Operating System (kernel) name
+Nom del sistema operatiu (nucli) que s'està executant
 
 
 ;Currently running Operating System (kernel) version
-Currently running Operating System (kernel) version
+Versió del sistema operatiu (nucli) que s'està executant
 
 
 ;The build identifier of the Gecko platform code
-The build identifier of the Gecko platform code
+L'identificador de la versió de la plataforma Gecko
 
 
 ;The version of the Gecko platform code
-The version of the Gecko platform code
+La versió de la plataforma Gecko
 
 
 ;Processor architecture
-Processor architecture
+Arquitectura del processador
 
 
 ;The date this version was first used with this installation profile
@@ -331,7 +331,7 @@ The most recent date this add-on was updated (previous information about an unin
 
 
 ;The current version of this add-on
-The current version of this add-on
+Versió actual d'aquest complement
 
 
 ;How long in milliseconds it took during startup for the application to render the UI and display the window
@@ -415,11 +415,11 @@ Firefox Health Report lets you know how your Firefox is performing and what you 
 
 
 ;See My Report
-See My Report
+El meu informe
 
 
 ;Time (in seconds)
-Time (in seconds)
+Temps (en segonds)
 
 
 ;Show Statistics
