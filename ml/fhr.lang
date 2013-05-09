@@ -1,432 +1,428 @@
 ;Firefox Health Report
-Firefox Health Report
+ഫയര്‍ഫോക്സ് ആരോഗ്യ റിപോര്‍ട്ട്
 
 
 ;Raw Data
-Raw Data
+റോ ഡേറ്റാ
 
 
 ;Get insights and performance information about your version of Firefox.
-Get insights and performance information about your version of Firefox.
+നിങ്ങളുടെ ഫയര്‍ഫോക്സ് പതിപ്പിന്റെ പ്രവര്‍ത്തന വിവരം.
 
 
 ;Learn more...
-Learn more...
+കൂടുതല്‍ അറിയുക...
 
 
 ;Data Sharing
-Data Sharing
+ഡേറ്റാ പങ്കിടല്‍
 
 
 ;ON
-ON
+ഓണ്‍ ചെയ്യുക
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
-You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
+മോസില്ലയുമായി ഡേറ്റാ പങ്കിടുന്നതു് നിര്‍ത്തുവാന്‍ നിങ്ങള്‍ തെരഞ്ഞെടുത്തിയിരിയ്ക്കുന്നു, പക്ഷേ നിങ്ങള്‍ക്കു് അപ്പോഴും ബ്രൌസറിന്റെ പ്രവര്‍ത്തനം കാണുവാന്‍ സാധിയ്ക്കുന്നു.
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
-Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
-
+മോസില്ലാ സര്‍വറുകളില്‍ നിന്നും നിങ്ങളുടെ ആരോഗ്യ റിപ്പോര്‍ട്ടും നീക്കം ചെയ്യപ്പെടുന്നു. ഇതിനെപ്പറ്റി കൂടുതല്‍  <a href="%(privacy_url)s">സ്വകാര്യ പോളിസിയില്‍</a> കാണുക.
+ 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
-You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
+എല്ലാ സമയത്തും മോസില്ലയുമായി ഡേറ്റാ പങ്കിടുവാന്‍ നിങ്ങള്‍ തെരഞ്ഞെടുത്തിരിയ്ക്കുന്നു. വെബിലേക്കു് നിങ്ങളുടെ ഈ സംഭാവന വളരെ വിലയേറിയതാകുന്നു.
 
 
 ;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
-Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
+ഞങ്ങളുടെ <a href="%(privacy_url)s">സ്വകാര്യ പോളിസില്‍</a> നിങ്ങളുടെ ഡേറ്റാ എങ്ങനെ കൈകാര്യം ചെയ്യുന്നു എന്നറിയുക.
 
 
 ;Vital Stats
-Vital Stats
+പ്രധാന സ്ഥിതിവിവരക്കണക്കു്
 
 
 ;version
-version
+പതിപ്പു്
 
 
 ;time open
-time open
+തുറന്ന സമയം
 
 
 ;last crash
-last crash
+അവസാന തകരാര്‍
 
 
 ;bookmarks
-bookmarks
+അടയാളക്കുറിപ്പുകള്‍
 
 
 ;This Month
-This Month
+ഈ മാസം
 
 
 ;crashes
-crashes
+തകരാറുകള്‍
 
 
 ;Add-ons
-Add-ons
+ആഡ്-ഓണുകള്‍
 
 
 ;View List
-View List
+പട്ടിക കാണുക
 
 
 ;enabled
-enabled
+പ്രവര്‍ത്തന സജ്ജം
 
 
 ;disabled
-disabled
+പ്രവര്‍ത്തന രഹിതം
 
 
 ;Plugins
-Plugins
+പ്ലഗിനുകള്‍
 
 
 ;Tips
-Tips
+സൂചനകള്‍
 
 
 ;Wear and Tear
-Wear and Tear
+പഴക്കം
 
 
 ;It looks like your browser has crashed a number of times recently. To learn more:
-It looks like your browser has crashed a number of times recently. To learn more:
+നിങ്ങളുടെ ബ്രൌസര്‍ അടുത്തിടെ അനേകം തവണ ക്രാഷായിരിയ്ക്കുന്നു. കൂടുതല്‍ അറിയുന്നതിനായി:
 
 
 ;OFF
-OFF
+ഓഫ് ചെയ്യുക
 
 
 ;Visit our <a href="%(sumo_url)s">support website</a>
-Visit our <a href="%(sumo_url)s">support website</a>
+ഞങ്ങളുടെ <a href="%(sumo_url)s">പിന്തുണയ്ക്കുള്ള വെബ്സൈറ്റ്</a> സന്ദര്‍ശിയ്ക്കുക
 
 
 ;View more <a href="%(details_url)s">detailed information</a>
-View more <a href="%(details_url)s">detailed information</a>
+കൂടുതല്‍ <a href="%(details_url)s">വിശദ വിവരങ്ങള്‍</a> കാണുക
 
 
 ;pages visited
-pages visited
+സന്ദര്‍ശിച്ച താളുകള്‍
 
 
 ;Your browser seems to be running slower than usual. To learn more:
-Your browser seems to be running slower than usual. To learn more:
+നിങ്ങളുടെ ബ്രൌസറിന്റെ വേഗത സാധാരണയേക്കാള്‍ കുറവാകുന്നു. കൂടുതല്‍ അറിയുന്നതിനായി:
 
 
 ;You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
-You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
+ബ്രൌസര്‍ കൂടുതല്‍ ഉപയോഗിയ്ക്കുന്നതനുസരിച്ചു് നിങ്ങള്‍ക്കു് കൂടുതല്‍ വിവരങ്ങള്‍ ലഭ്യമാകുന്നു. പുതിയ വിശേഷങ്ങള്‍ക്കായി കുറച്ചു് ആഴ്ചകള്‍ക്കു് ശേഷം വീണ്ടും കണ്ടു് നോക്കുക.
 
 
 ;Startup Time by Day
-Startup Time by Day
+ദിവസമനുസരിച്ചു് പ്രാരംഭ സമയം
 
 
 ;Graph:
-Graph:
+ഗ്രാഫ്:
 
 
 ;Average
-Average
+ശരാശരി
 
 
 ;All
-All
+എല്ലാം
 
 
 ;Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
-Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
+നിങ്ങളുടെ ഫയര്‍ഫോക്സിന്റെ പ്രവര്‍ത്തനം അറിയുന്നതിനായി പ്രാരംഭ സമയം സഹായിയ്ക്കുന്നു. സാധാരണ, പെട്ടെന്നു് (അതായതു്, കുറഞ്ഞ സമയം) എന്നതിനര്‍സ്ഥം മെച്ചപ്പെട്ട പ്രവര്‍ത്തനം.
 
 
 ;Data Collected
-Data Collected
+ശേഖരിച്ച ഡേറ്റ
 
 
 ;Glossary
-Glossary
+ഗ്ലോസ്സറി
 
 
 ;What the Firefox Health Report Measures
-What the Firefox Health Report Measures
+ഫയര്‍ഫോക്സ് ആരോഗ്യ റിപ്പോര്‍ട്ട് അളക്കുന്നതു്
 
 
 ;The Firefox Health Report (FHR) has 4 categories of metrics:
-The Firefox Health Report (FHR) has 4 categories of metrics:
+ഫയര്‍ഫോക്സ് ആരോഗ്യ റിപ്പോര്‍ട്ടിനു് (എഫ്എച്ആര്‍) നാലു് വിഭാഗത്തിലുള്ള മെട്രിക്സുകളുണ്ടു്:
 
 
 ;Configuration
-Configuration
+ക്രമീകരണം
 
 
 ;Device hardware, operating system, Firefox version
-Device hardware, operating system, Firefox version
+ഡിവൈസ് ഹാര്‍ഡ്‌വെയര്‍, ഓപ്പറേറ്റിങ് സിസ്റ്റം, ഫയര്‍ഫോക്സ് പതിപ്പു്
 
 
 ;Customizations
-Customizations
+യഥേഷ്ടം സജ്ജമാക്കിയവ
 
 
 ;Add-ons, count and type
-Add-ons, count and type
+ആഡ്-ഓണുക, എണ്ണം, തരം
 
 
 ;Performance
-Performance
+പ്രവര്‍ത്തനം
 
 
 ;Timing of browser events, rendering, session restores
-Timing of browser events, rendering, session restores
+ബ്രൊസര്‍ ഇവന്റുകളുടെ സമയം, റെണ്ടറിങ്, സെഷന്‍ വീണ്ടെടുക്കലകുള്‍
 
 
 ;Length of session, how old a profile is, count of crashes, count of pages
-Length of session, how old a profile is, count of crashes, count of pages
+സെഷന്റെ വ്യാപ്തി, പ്രൊഫൈലിന്റെ പഴക്കം, തകരാറുകളുടെ എണ്ണം, താളുകളുടെ എണ്ണം
 
 
 ;Detailed Description
-Detailed Description
+വിശദ വിവരണം
 
 
 ;Metric
-Metric
+മെട്രിക്ക്
 
 
 ;Description
-Description
+വിവരണം
 
 
 ;Binary interface for XPCOM
-Binary interface for XPCOM
+എക്സ്‌പിസിഒഎമിനുള്ള ബൈനറി ഇന്റര്‍ഫെയിസ്
 
 
 ;Identifier for this build of the application based on the date the build was started
-Identifier for this build of the application based on the date the build was started
+പ്രയോഗത്തിന്റെ ഈ ബിള്‍ഡിനുള്ള ഐഡന്റിഫയര്‍, ബിള്‍ഡ് ആരംഭിയ്ക്കുന്ന തീയതിയനുസരിച്ചാകുന്നു
 
 
 ;Operating System for which this build was configured
-Operating System for which this build was configured
+ഈ ബിള്‍ഡ് ക്രമീകരിച്ച ഓപ്പറേറ്റി സിസ്റ്റം
 
 
 ;Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
-Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
+ഉപയോഗത്തിലുള്ള പ്രയോഗത്തിന്റെ പ്രത്യേക വിതരണത്തിനുള്ള ഐഡന്റിഫയര്‍.  ഇതു് <var>distribution.id</var> മുന്‍ഗണനയില്‍ നിന്നും എടുത്തിരിയിക്കുന്നു.
 
 
 ;Version of the distribution, taken from the <var>distribution.version</var> preference
-Version of the distribution, taken from the <var>distribution.version</var> preference
+വിതരണത്തിന്റെ പതിപ്പു്, <var>distribution.version</var> മുന്‍ഗണനയില്‍ നിന്നും എടുത്തിരിയ്ക്കുന്നു
 
 
 ;The version number of any Mozilla hotfix applied to the application
-The version number of any Mozilla hotfix applied to the application
+പ്രയോഗത്തിനുള്ള ഏതെങ്കിലും മോസില്ലയ്ക്കുള്ള പതിപ്പു്
 
 
 ;Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
-Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
+ഫയര്‍ഫോക്സ് അല്ലെങ്കില്‍ തണ്ടര്‍ബേര്‍ഡ് ആണോ എന്നു് സൂചിപ്പിയ്ക്കുന്നതിനു് പ്രയോഗത്തിനുള്ള ഐഡന്റിഫയര്‍.  <var>appName</var> എന്ന മൂല്ല്യത്തിനു് പുറമേ, ഒരു പ്രയോഗത്തിനുള്ള എല്ലാ ഇന്‍സ്റ്റലേഷനുകള്‍ക്കും ഒരുപോലെ.
 
 
 ;The configured name of the application (Firefox/Aurora/Nightly for instance)
-The configured name of the application (Firefox/Aurora/Nightly for instance)
+പ്രയോഗത്തിന്റെ ക്രമീകരണ നാമം (ഉദാഹരണത്തിനു്, ഫയര്‍ഫോക്സ്/അറോറാ/നൈറ്റ്ലി)
 
 
 ;The channel this installation checks for application updates (nightly/aurora/beta/release)
-The channel this installation checks for application updates (nightly/aurora/beta/release)
+പ്രയോഗത്തിന്റെ പരിഷ്കരണങ്ങള്‍ക്കായി ഈ ഇന്‍സ്റ്റലേഷന്‍ പരിശോധിയ്ക്കുന്ന ചാനല്‍ (നൈറ്റ്ലി/അറോറാ/ബീറ്റ്/ലക്കം)
 
 
 ;The name of the company/provider who built this version
-The name of the company/provider who built this version
+ഈ പതിപ്പു് തയ്യാറാക്കിയ കമ്പനി/പ്രൊവൈഡറിന്റെ പേരു്
 
 
 ;The current version of the product
-The current version of the product
+പ്രൊഡക്ടിന്റെ നിലവിലുള്ള പതിപ്പു്
 
 
 ;Number of processor cores
-Number of processor cores
+പ്രൊസസ്സര്‍ കോറിന്റെ എണ്ണം
 
 
 ;Whether the application is currently configured to be the default browser for the operating system
-Whether the application is currently configured to be the default browser for the operating system
+ഓപ്പറേറ്റിങ് സിസ്റ്റത്തിനുള്ള സ്വതേയുള്ള ബ്രൌസറായി പ്രയോഗം നിലവില്‍ ക്രമീകരിച്ചിട്ടുണ്ടോ എന്നു്
 
 
 ;Locale currently being used
-Locale currently being used
+നിലവില്‍ ഉപയോഗിയ്ക്കുന്ന ലോക്കേല്‍
 
 
 ;Amount of RAM in megabytes
-Amount of RAM in megabytes
+റാമിന്റെ വ്യാപ്തി മെഗാബൈറ്റുകളില്‍
 
 
 ;Currently running Operating System (kernel) name
-Currently running Operating System (kernel) name
+നിലവില്‍ പ്രവര്‍ത്തിയ്ക്കുന്ന ഓപ്പറേറ്റിങ് സിസ്റ്റം  (കേര്‍ണല്‍) പേരു്
 
 
 ;Currently running Operating System (kernel) version
-Currently running Operating System (kernel) version
+നിലവില്‍ പ്രവര്‍ത്തിയ്ക്കുന്ന ഓപ്പറേറ്റിങ് സിസ്റ്റം  (കേര്‍ണല്‍) പതിപ്പു്
 
 
 ;The build identifier of the Gecko platform code
-The build identifier of the Gecko platform code
+ഗീക്കോ പ്ലാറ്റ്ഫോം കോഡിന്റെ ബിള്‍ഡ്ഐഡന്റിഫയര്‍
 
 
 ;The version of the Gecko platform code
-The version of the Gecko platform code
+ഗീക്കോ പ്ലാറ്റ്ഫോം കോഡിന്റെ പതിപ്പു്
 
 
 ;Processor architecture
-Processor architecture
+പ്രൊസസ്സറിന്റെ ആര്‍ക്കിറ്റക്ചര്‍
 
 
 ;The date this version was first used with this installation profile
-The date this version was first used with this installation profile
+ഈ ഇന്‍സ്റ്റലേഷന്‍ പ്രൊഫൈലിനൊപ്പം ഈ പതിപ്പു് ആദ്യം ഉപയോഗിച്ച തീയതി
 
 
 ;An application version which has been used with this installation profile
-An application version which has been used with this installation profile
+ഈ ഇന്‍സ്റ്റലേഷന്‍ പ്രൊഫൈലിനൊപ്പം ഉപയോഗിച്ച പ്രയോഗത്തിന്റെ പതിപ്പു്
 
 
 ;The number of add-ons of this type that existed in the profile on this date
-The number of add-ons of this type that existed in the profile on this date
+ഈ തീയതില്‍ പ്രൊഫൈലിനൊപ്പമുണ്ടായിരുന്ന ഈ തരത്തിലുള്ള ആഡ്-ഓണുകളുടെ എണ്ണം
 
 
 ;<var>True</var> if the application automatically disabled the add-on
-<var>True</var> if the application automatically disabled the add-on
+പ്രയോഗം സ്വയമായി ആഡ്-ഓണ്‍ പ്രവര്‍ത്തന രഹിതമാക്കിയെങ്കില്‍ <var>True</var>
 
 
 ;Whether this add-on was installed by the user or automatically by another application
-Whether this add-on was installed by the user or automatically by another application
+ഈ ആഡ്-ഓണ്‍ ഉപയോക്താവു് അല്ലെങ്കില്‍ സ്വയമായി മറ്റൊരു പ്രയോഗം ആണോ ഈ ആഡ്-ഓണ്‍ ഇന്‍സ്റ്റോള്‍ ചെയ്തതു്
 
 
 ;Whether this add-on has native code.
-Whether this add-on has native code.
+ഈ ആഡ്-ഓണിനു് നേറ്റീവ് കോഡുണ്ടോ എന്നു്.
 
 
 ;The identifier of this add-on as defined by the add-on developer
-The identifier of this add-on as defined by the add-on developer
+ആഡ്-ഓണ്‍ ഡവലപ്പര്‍ നിഷ്കര്‍ഷിച്ചപോലെ ഈ ആഡ്-ഓണിനുള്ള ഐഡന്റിഫയര്‍
 
 
 ;The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
-The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
+ഈ ആഡ്-ഓണ്‍ ഇന്‍സ്റ്റോള്‍ ചെയ്ത ഏറ്റവും അടുത്ത തീയതി (ഇന്‍സ്റ്റോള്‍ ചെയ്തിട്ടില്ലാത്ത ആഡ്-ഓണിനെപ്പറ്റി മുമ്പുള്ള വിവരം സൂക്ഷിച്ചിട്ടില്ല).
 
 
 ;The number of searches performed with this search engine from this part of the UI
-The number of searches performed with this search engine from this part of the UI
+ഈ യുഐയുടെ ഭാഗമായി ഈ സേര്‍ച്ച് എഞ്ചിനൊപ്പം നടപ്പിലാക്കിയ തെരച്ചിലുകളുടെ എണ്ണം
 
 
 ;Whether this add-on was installed in the application directory or profile directory
-Whether this add-on was installed in the application directory or profile directory
+പ്രയോഗത്തിനുള്ള ഡയറക്ടറി അല്ലെങ്കില്‍ പ്രൊഫൈല്‍ ഡയറക്ടറിയിലാണോ ഈ ആഡ്-ഓണ്‍ ഇന്‍സ്റ്റോള്‍ ചെയ്തിട്ടുള്ളതു്
 
 
 ;Whether this add-on is an extension or a plug-in
-Whether this add-on is an extension or a plug-in
+ഈ ആഡ്-ഓണ്‍ എക്സ്റ്റെന്‍ഷനോ അതോ പ്ലഗിനോ
 
 
 ;The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
-The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
+ഈ ആഡ്-ഓണ്‍ പരിഷ്കരിയ്ക്കപ്പെട്ട ഏറ്റവും പുതിയ തീയതി (ഇന്‍സ്റ്റോള്‍ ചെയ്തിട്ടില്ലാത്ത ആഡ്-ഓണിനെപ്പറ്റി മുമ്പുള്ള വിവരം സൂക്ഷിച്ചിട്ടില്ല).
 
 
 ;<var>True</var> if the user manually disabled the add-on
-<var>True</var> if the user manually disabled the add-on
+ഉപയോക്താവു് മാനുവലായി ആഡ്-ഓണ്‍ പ്രവര്‍ത്തന രഹിതമാക്കിയെങ്കില്‍, <var>True</var>
 
 
 ;The current version of this add-on
-The current version of this add-on
+ഈ ആഡ്-ഓണിന്റെ നിലവിലുള്ള പതിപ്പു്
 
 
 ;How long in milliseconds it took during startup for the application to render the UI and display the window
-How long in milliseconds it took during startup for the application to render the UI and display the window
+പ്രയോഗത്തിന്റെ പ്രാരംഭത്തില്‍ യുഐ  റെണ്ടര്‍ ചെയ്തു് ജാലകം പ്രദര്‍ശിപ്പിയ്ക്കുന്നതിനായി എടുത്ത സമയം മില്ലിസെക്കന്‍ഡുകളില്‍
 
 
 ;How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
-How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
+പ്രയോഗത്തിന്റെ പ്രാരംഭത്തില്‍ ലൈബ്രറികള്‍ ലഭ്യമാക്കുന്നതിനു് അടിസ്ഥാന നടപടികള്‍ പൂര്‍ത്തിയാക്കുന്നതിനും എടുത്ത സമയം മില്ലിസെക്കന്‍ഡുകളില്‍
 
 
 ;How long in milliseconds it took during startup for the application to restore tabs from the previous session
-How long in milliseconds it took during startup for the application to restore tabs from the previous session
+Hപ്രയോഗത്തിന്റെ പ്രാരംഭത്തില്‍ മുമ്പുള്ള സെഷനില്‍ നിന്നും റ്റാബുകള്‍ വീണ്ടെടുക്കുന്നതിനായി എടുത്ത സമയം മില്ലിസെക്കന്‍ഡുകളില്‍
 
 
 ;The number of times the application was run and not cleanly shut down.
-The number of times the application was run and not cleanly shut down.
+പ്രയോഗം പ്രവര്‍ത്തിപ്പിച്ച ശേഷം ശരിയായി അടച്ചു പൂട്ടാതിരുന്നതു് എത്ര തവണ.
 
 
 ;The time in seconds that the aborted sessions were not idle
-The time in seconds that the aborted sessions were not idle
+നിര്‍ത്തിയ സെഷനുകള്‍ പ്രവര്‍ത്തനത്തിലാത്ത സമയം
 
 
 ;The time in seconds that the aborted sessions were running
-The time in seconds that the aborted sessions were running
+നിര്‍ത്തിയ സെഷനുകള്‍ പ്രവര്‍ത്തനത്തിലുണ്ടായിരുന്ന സമയം
 
 
 ;The number of days since this application profile directory was created
-The number of days since this application profile directory was created
+പ്രയോഗത്തിനുള്ള ഡയറക്ടറി തയ്യാറാക്കിയ ശേഷമുള്ള ദിവസങ്ങളുടെ എണ്ണം
 
 
 ;The number of times the application was run and cleanly shut down.
-The number of times the application was run and cleanly shut down.
+പ്രയോഗം പ്രവര്‍ത്തിപ്പിച്ച ശേഷം ശരിയായി അടച്ചു പൂട്ടിയതു് എത്ര തവണ.
 
 
 ;The time in seconds that the completed sessions were not idle
-The time in seconds that the completed sessions were not idle
+പൂര്‍ത്തിയാക്കിയ സെഷനുകള്‍ പ്രവര്‍ത്തനത്തിലാത്ത സമയം
 
 
 ;The time in seconds that the completed sessions were running
-The time in seconds that the completed sessions were running
+പൂര്‍ത്തിയാക്കിയ സെഷനുകള്‍ പ്രവര്‍ത്തനത്തിലുണ്ടായിരുന്ന സമയം
 
 
 ;Total number of crashes that were recorded but not yet submitted
-Total number of crashes that were recorded but not yet submitted
+റിക്കോര്‍ഡ് ചെയ്തു പക്ഷേ സമര്‍പ്പിയ്ക്കാത്ത തകരാറുകളുടെ എണ്ണം
 
 
 ;Total number of crashes that have been submitted
-Total number of crashes that have been submitted
+സമര്‍പ്പിച്ച ക്രാഷുകളുടെ മൊത്തം എണ്ണം
 
 
 ;Time in seconds the app has not been idle
-Time in seconds the app has not been idle
+പ്രയോഗം നിശ്ചലമല്ലാത്ത സമയം സെക്കന്‍ഡുകളില്‍
 
 
 ;Time in seconds since the app was last started
-Time in seconds since the app was last started
+പ്രയോഗം അവസാനം ആരംഭിച്ച ശേഷമുള്ള സമയം
 
 
 ;Total number of bookmarks
-Total number of bookmarks
+അടയാളക്കുറിപ്പുകളുടെ മൊത്തം എണ്ണം
 
 
 ;Total number of pages listed in the history
-Total number of pages listed in the history
+നാള്‍വഴിയില്‍ പറഞ്ഞിരിയ്ക്കുന്ന താളുകളുടെ എണ്ണം
 
 
 ;How long in minutes the current session has been running
-How long in minutes the current session has been running
-
+എത്ര സമയമായി നിലവിലുള്ള സെഷന്‍ പ്രവര്‍ത്തനത്തില്‍
 
 ;Welcome to your Firefox Health Report
-Welcome to your Firefox Health Report
+ഫയര്‍ഫോക്സ് ആരോഗ്യ റിപ്പോര്‍ട്ടിലേക്കു് സ്വാഗതം
 
 
 ;Welcome!
-Welcome!
+സ്വാഗതം!
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
-Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
+നിങ്ങളുടെ ഫയര്‍ഫോക്സിന്റെ പ്രവര്‍ത്തനം എങ്ങനെയുണ്ടെന്നും നിങ്ങള്‍ക്കതു് എങ്ങനെ മെച്ചപ്പെടുത്തുവാന്‍ സാധിയ്ക്കുമെന്നും ഫയര്‍ഫോക്സ് ആരോഗ്യ റിപ്പോര്‍ട്ട് അറിയിയ്ക്കുന്നു.
 
 
 ;See My Report
-See My Report
+സ്വന്തം റിപോര്‍ട്ട് കാണുക
 
 
 ;Time (in seconds)
-Time (in seconds)
+സമയം  (സെക്കന്‍ഡുകളില്‍)
 
 
 ;Show Statistics
 സ്ഥിതിവിവരക്കണക്കുകള്‍ കാണിയ്ക്കുക
-
-
-
 
 ;Privacy Policy
 സ്വകാര്യ പോളിസി
