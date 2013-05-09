@@ -1,73 +1,73 @@
 ;Firefox Health Report
-Firefox Health Report
+Informe de salut del Firefox
 
 
 ;Raw Data
-Raw Data
+Dades sense processar
 
 
 ;Get insights and performance information about your version of Firefox.
-Get insights and performance information about your version of Firefox.
+Obtén coneixements i informació sobre el rendiment de la vostra versió del Firefox.
 
 
 ;Learn more...
-Learn more...
+Més informació
 
 
 ;Data Sharing
-Data Sharing
+Compartició de dades
 
 
 ;ON
-ON
+Activat
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
-You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
+Heu decidit deixar de compartir dades amb Mozilla però podeu veure igual com rendeix el vostre navegador.
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
-Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
+Les dades dels vostres informes de salut també s'esborraran dels servidors de Mozilla. Més informació a la nostra <a href="%(privacy_url)s">política de privadesa.</a>
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
-You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
+Heu decidit compartir dades amb Mozilla de tant en tant. Gràcies per participar en la missió de construir un futur més brillant per al web.
 
 
 ;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
-Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
+Més informació sobre com gestionem les vostres dades a la nostra <a href="%(privacy_url)s">política de privadesa.</a>
 
 
 ;Vital Stats
-Vital Stats
+Estadístiques vitals
 
 
 ;version
-version
+versió
 
 
 ;time open
-time open
+temps obert
 
 
 ;last crash
-last crash
+darrera fallada
 
 
 ;bookmarks
-bookmarks
+adreces d'interès
 
 
 ;This Month
-This Month
+Aquest mes
 
 
 ;crashes
-crashes
+fallades
 
 
 ;Add-ons
-Add-ons
+Complements
 
 
 ;View List
@@ -75,83 +75,83 @@ View List
 
 
 ;enabled
-enabled
+Habilitat
 
 
 ;disabled
-disabled
+Inhabilitat
 
 
 ;Plugins
-Plugins
+Connector
 
 
 ;Tips
-Tips
+Consells
 
 
 ;Wear and Tear
-Wear and Tear
+Desgast
 
 
 ;It looks like your browser has crashed a number of times recently. To learn more:
-It looks like your browser has crashed a number of times recently. To learn more:
+Sembla que el vostre navegador ha fallat unes quantes vegades darrerament. Més informació:
 
 
 ;OFF
-OFF
+Desactivat
 
 
 ;Visit our <a href="%(sumo_url)s">support website</a>
-Visit our <a href="%(sumo_url)s">support website</a>
+Visiteu el nostre <a href="%(sumo_url)s">lloc web d'ajuda</a>
 
 
 ;View more <a href="%(details_url)s">detailed information</a>
-View more <a href="%(details_url)s">detailed information</a>
+Vegeu més <a href="%(details_url)s">informació detallada</a>
 
 
 ;pages visited
-pages visited
+pàgines visitades
 
 
 ;Your browser seems to be running slower than usual. To learn more:
-Your browser seems to be running slower than usual. To learn more:
+El vostre navegador sembla que va més lent del normal. Més informació:
 
 
 ;You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
-You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
+Podreu veure informació més interessant i detallada com més feu servir el navegador. Torneu a comprovar-ho en un parell de setmanes per començar a veure algunes tendències.
 
 
 ;Startup Time by Day
-Startup Time by Day
+Temps d'inici per dia
 
 
 ;Graph:
-Graph:
+Gràfic:
 
 
 ;Average
-Average
+Mitjana
 
 
 ;All
-All
+Tot
 
 
 ;Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
-Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
+El temps d'inici ens ajuda a determinar com de bé rendeix la vostra versió del Firefox. En general, temps més ràpids (és a dir, menys temps) indiquen millor rendiment.
 
 
 ;Data Collected
-Data Collected
+Dades recollides
 
 
 ;Glossary
-Glossary
+Glossari
 
 
 ;What the Firefox Health Report Measures
-What the Firefox Health Report Measures
+El que mesura l'informe de salut del Firefox
 
 
 ;The Firefox Health Report (FHR) has 4 categories of metrics:
