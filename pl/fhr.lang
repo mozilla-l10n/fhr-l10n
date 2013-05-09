@@ -291,7 +291,7 @@ Liczba dodatków tego typu, istniejących danego dnia na tym profilu
 
 
 ;<var>True</var> if the application automatically disabled the add-on
-<var>Prawda</var>, jeśli aplikacja automatycznie wyłączyła dodatek
+<var>True</var>, jeśli aplikacja automatycznie wyłączyła dodatek
 
 
 ;Whether this add-on was installed by the user or automatically by another application
@@ -327,7 +327,7 @@ Najnowsza data aktualizacji dodatku (poprzednie dane, dotyczące odinstalowanego
 
 
 ;<var>True</var> if the user manually disabled the add-on
-<var>Prawda</var>, jeśli użytkownik ręcznie wyłączył dodatek
+<var>True</var>, jeśli użytkownik ręcznie wyłączył dodatek
 
 
 ;The current version of this add-on
