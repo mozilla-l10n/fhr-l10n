@@ -1,9 +1,9 @@
 ;Firefox Health Report
-Firefox Health Report
+Firefox සෞඛ්‍ය වාර්තාව
 
 
 ;Raw Data
-Raw Data
+අමු දත්ත
 
 
 ;Get insights and performance information about your version of Firefox.
@@ -11,19 +11,19 @@ Get insights and performance information about your version of Firefox.
 
 
 ;Learn more...
-Learn more...
+තවත් දැනගන්න...
 
 
 ;Data Sharing
-Data Sharing
+දත්ත හවුල් කර ගැනීම
 
 
 ;ON
-ON
+ක්‍රියාත්මක
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
-You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
+ඔබ Mozilla සමඟ දත්ත හුවමාරු කිරීම නැවැත්වීමට තෝරාගෙන ඇත, නමුත් ඔබට ඔබගේ බ්‍රවුසරය කෙසේ හැසිරෙන්නේදැයි බැලීමට හැකි වනු ඇත.
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
@@ -35,59 +35,59 @@ You've chosen to share your data with Mozilla from time to time. Thanks for bein
 
 
 ;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
-Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
+අපගේ <a href="%(privacy_url)">පෞද්ගලිකත්ව ප්‍රතිපත්තියේ</a> අපි කෙසේ ඔබගේ දත්ත හසුරුවන්නේදැයි දැන ගන්න.
 
 
 ;Vital Stats
-Vital Stats
+අත්‍යාවශ්‍ය සංඛ්‍යාන
 
 
 ;version
-version
+වෙළුම
 
 
 ;time open
-time open
+විවෘත කාලය
 
 
 ;last crash
-last crash
+අවසාන බිඳුම
 
 
 ;bookmarks
-bookmarks
+පිටු සළකුණු
 
 
 ;This Month
-This Month
+මෙම මාසය
 
 
 ;crashes
-crashes
+බිඳුම්
 
 
 ;Add-ons
-Add-ons
+ඇඩෝන
 
 
 ;View List
-View List
+ලැයිස්තුව පෙන්වන්න
 
 
 ;enabled
-enabled
+සක්‍රීය කළ
 
 
 ;disabled
-disabled
+අක්‍රීය කළ
 
 
 ;Plugins
-Plugins
+ප්ලගින
 
 
 ;Tips
-Tips
+ඉඟි
 
 
 ;Wear and Tear
@@ -95,27 +95,27 @@ Wear and Tear
 
 
 ;It looks like your browser has crashed a number of times recently. To learn more:
-It looks like your browser has crashed a number of times recently. To learn more:
+ඔබගේ බ්‍රවුසරය අවස්ථා කීපයක බිඳී ඇති හැඩයි. තවත් දැන ගැනීමට:
 
 
 ;OFF
-OFF
+ක්‍රියා විරහිත
 
 
 ;Visit our <a href="%(sumo_url)s">support website</a>
-Visit our <a href="%(sumo_url)s">support website</a>
+අපගේ <a href="%(sumo_url)"> උපකාරක වෙබ් පිටුවට පිවිසෙන්න</a>
 
 
 ;View more <a href="%(details_url)s">detailed information</a>
-View more <a href="%(details_url)s">detailed information</a>
+තවත් <a href="%(details_url)"> වැඩිදුර කරුණු පෙන්වන්න</a>
 
 
 ;pages visited
-pages visited
+නැරඹූ පිටු
 
 
 ;Your browser seems to be running slower than usual. To learn more:
-Your browser seems to be running slower than usual. To learn more:
+ඔබගේ බ්‍රවුසරය සාමාන්‍යය වේගයට වඩා සෙමින් ක්‍රියාත්මක වෙන හැඩයි. තවත් දැන ගැනීමට:
 
 
 ;You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
@@ -127,15 +127,15 @@ Startup Time by Day
 
 
 ;Graph:
-Graph:
+ප්‍රස්ථාරය:
 
 
 ;Average
-Average
+සාමාන්‍යය
 
 
 ;All
-All
+සියළු
 
 
 ;Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
@@ -143,27 +143,27 @@ Startup time helps determine how well your version of Firefox is performing. In 
 
 
 ;Data Collected
-Data Collected
+රැස් කල දත්ත
 
 
 ;Glossary
-Glossary
+පදමාලාව
 
 
 ;What the Firefox Health Report Measures
-What the Firefox Health Report Measures
+Firefox සෞඛ්‍ය වාර්තාව මනින්නේ මොනවාද?
 
 
 ;The Firefox Health Report (FHR) has 4 categories of metrics:
-The Firefox Health Report (FHR) has 4 categories of metrics:
+Firefox සෞඛ්‍ය වාර්තාවට (FHR) ප්‍රමිතික කාණ්ඩ 4ක් ඇත:
 
 
 ;Configuration
-Configuration
+වින්‍යාසය
 
 
 ;Device hardware, operating system, Firefox version
-Device hardware, operating system, Firefox version
+මෙවලම් දෘඩාංග, මෙහෙයුම් පද්ධතිය, Firefox වෙළුම
 
 
 ;Customizations
@@ -171,11 +171,11 @@ Customizations
 
 
 ;Add-ons, count and type
-Add-ons, count and type
+ඇඩෝන, ප්‍රමාන්‍ය සහ වර්ගය
 
 
 ;Performance
-Performance
+ක්‍රියාකාරිත්වය
 
 
 ;Timing of browser events, rendering, session restores
@@ -183,23 +183,23 @@ Timing of browser events, rendering, session restores
 
 
 ;Length of session, how old a profile is, count of crashes, count of pages
-Length of session, how old a profile is, count of crashes, count of pages
+සැසියේ කාල පරාසය, පැතිකඩක් කොපමණ පැරණිද යන්න, බිඳුම් ප්‍රමාණය, පිටු ප්‍රමාණය
 
 
 ;Detailed Description
-Detailed Description
+වැඩි විස්තරය
 
 
 ;Metric
-Metric
+ප්‍රමිතිකය
 
 
 ;Description
-Description
+විස්තරය
 
 
 ;Binary interface for XPCOM
-Binary interface for XPCOM
+XPCOM සඳහා ද්වීමය අතුරු මුහුණත
 
 
 ;Identifier for this build of the application based on the date the build was started
@@ -207,7 +207,7 @@ Identifier for this build of the application based on the date the build was sta
 
 
 ;Operating System for which this build was configured
-Operating System for which this build was configured
+මෙම ගොඩනැගීම වින්‍යාසගත කර ඇති මෙහෙයුම් පද්ධතිය
 
 
 ;Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
@@ -227,7 +227,7 @@ Identifier unique to the application that indicates it is Firefox or Thunderbird
 
 
 ;The configured name of the application (Firefox/Aurora/Nightly for instance)
-The configured name of the application (Firefox/Aurora/Nightly for instance)
+යෙදුමේ වින්‍යාසගත නාමය (උදාහරණයක් ලෙස Firefox/Aurora/Nightly)
 
 
 ;The channel this installation checks for application updates (nightly/aurora/beta/release)
@@ -235,11 +235,11 @@ The channel this installation checks for application updates (nightly/aurora/bet
 
 
 ;The name of the company/provider who built this version
-The name of the company/provider who built this version
+මෙම වෙළුම නිපදවූ සාමාගමේ/සැපයුම්කරුගේ නම
 
 
 ;The current version of the product
-The current version of the product
+නිපැයුමේ වත්මන් වෙළුම
 
 
 ;Number of processor cores
@@ -247,7 +247,7 @@ Number of processor cores
 
 
 ;Whether the application is currently configured to be the default browser for the operating system
-Whether the application is currently configured to be the default browser for the operating system
+යෙදුම මෙහෙයුම් පද්ධතියේ පෙරනිමි බ්‍රවුසරය ලෙස වින්‍යාසගත කර ඇත්ද යන්න
 
 
 ;Locale currently being used
@@ -255,15 +255,15 @@ Locale currently being used
 
 
 ;Amount of RAM in megabytes
-Amount of RAM in megabytes
+RAM මෙගාබයිට් වලින්
 
 
 ;Currently running Operating System (kernel) name
-Currently running Operating System (kernel) name
+දැනට ක්‍රියාත්මක වල මෙහෙයුම් පද්ධතු (කර්නල) නාමය
 
 
 ;Currently running Operating System (kernel) version
-Currently running Operating System (kernel) version
+දැනට ක්‍රියාත්මක වල මෙහෙයුම් පද්ධතු (කර්නල) වෙළුම
 
 
 ;The build identifier of the Gecko platform code
@@ -279,23 +279,23 @@ Processor architecture
 
 
 ;The date this version was first used with this installation profile
-The date this version was first used with this installation profile
+මෙම වෙළුම ස්ථාපන පැතිකඩ සමඟ පළමුව භාවිතා කල දිනය
 
 
 ;An application version which has been used with this installation profile
-An application version which has been used with this installation profile
+මෙම ස්ථාපන පැතිකඩ සමඟ බාවිතා කර ඇති යෙදුම් වෙළුමක්
 
 
 ;The number of add-ons of this type that existed in the profile on this date
-The number of add-ons of this type that existed in the profile on this date
+මෙම දිනයට පැතිකඩේ තිබූ මෙම වර්ගයේ අඩෝන ප්‍රමාණය
 
 
 ;<var>True</var> if the application automatically disabled the add-on
-<var>True</var> if the application automatically disabled the add-on
+වෙළුම ස්වයංක්‍රීයව ඇඩෝනය අක්‍රිය කලා නම් <var>සත්‍යය</var>
 
 
 ;Whether this add-on was installed by the user or automatically by another application
-Whether this add-on was installed by the user or automatically by another application
+මෙම අඩෝනය පරිශීලක විසින් ස්ථාපනය කරාද වෙනත් යෙදුමක් මඟින් ස්වයංක්‍රීයව ස්ථාපනය කලාද යන්න
 
 
 ;Whether this add-on has native code.
@@ -315,11 +315,11 @@ The number of searches performed with this search engine from this part of the U
 
 
 ;Whether this add-on was installed in the application directory or profile directory
-Whether this add-on was installed in the application directory or profile directory
+මෙම ඇඩෝනය යෙදුම් නාමාවලියේ හෝ පැතිකඩ නාමාවලියේ ස්ථාපනය කර ඇත්ද යන්න
 
 
 ;Whether this add-on is an extension or a plug-in
-Whether this add-on is an extension or a plug-in
+මෙම ඇඩෝනය දිගුවක්ද ප්ලගිනයක්ද යන්න
 
 
 ;The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
@@ -327,11 +327,11 @@ The most recent date this add-on was updated (previous information about an unin
 
 
 ;<var>True</var> if the user manually disabled the add-on
-<var>True</var> if the user manually disabled the add-on
+පරිශීලක ඇඩෝනය අක්‍රිය කලා නම් <var>සත්‍යයි</var> 
 
 
 ;The current version of this add-on
-The current version of this add-on
+මෙම ඇඩෝනයේ වත්මන් වෙළුම
 
 
 ;How long in milliseconds it took during startup for the application to render the UI and display the window
@@ -359,75 +359,72 @@ The time in seconds that the aborted sessions were running
 
 
 ;The number of days since this application profile directory was created
-The number of days since this application profile directory was created
+මෙම යෙදුම් පැතිකඩ නාමාවලිය සෑදූ දින සිට දින ගණන
 
 
 ;The number of times the application was run and cleanly shut down.
-The number of times the application was run and cleanly shut down.
+යෙදුම ධාවනය කල සහ නිසියාකාරව වසා දැමූ දින ගණන.
 
 
 ;The time in seconds that the completed sessions were not idle
-The time in seconds that the completed sessions were not idle
+සම්පූර්ණ කල සැසි අකර්මණ්‍යව නොවූ කාලය තත්පර වලින්
 
 
 ;The time in seconds that the completed sessions were running
-The time in seconds that the completed sessions were running
+සම්පූර්ණ කල සැසි ධාවනය වෙමින් තිබූ කාලය තත්පර වලින්
 
 
 ;Total number of crashes that were recorded but not yet submitted
-Total number of crashes that were recorded but not yet submitted
+වර්තා වූ නමුත් යොමු නොකල බිඳුම් ගණන
 
 
 ;Total number of crashes that have been submitted
-Total number of crashes that have been submitted
+යොමු කර ඇති මුළු බිඳුම් ගණන
 
 
 ;Time in seconds the app has not been idle
-Time in seconds the app has not been idle
+යෙදුම් අකර්මණ්‍ය නොවී සිටි කාලය තත්පර වලින්
 
 
 ;Time in seconds since the app was last started
-Time in seconds since the app was last started
+යෙදුම අවසාන වරට ආරම්භ කල අවස්ථාවේ සිට කාලය තත්පර වලින්
 
 
 ;Total number of bookmarks
-Total number of bookmarks
+පිටු සළකුණු ප්‍රමාණය
 
 
 ;Total number of pages listed in the history
-Total number of pages listed in the history
+ඉතිහාසයේ ලැයිස්තුගත කර ඇති මුළු පිටු සංඛ්‍යාව
 
 
 ;How long in minutes the current session has been running
-How long in minutes the current session has been running
+වත්මන් සැසිය මිනිත්තු වලින් කොපමණ වේලාවක් ක්‍රියාත්මක වෙමින් පවතින්නේද
 
 
 ;Welcome to your Firefox Health Report
-Welcome to your Firefox Health Report
+ඔබගේ Firefox සෞඛ්‍ය වාර්තාවට සාදරයෙන් පිළිගනිමු
 
 
 ;Welcome!
-Welcome!
+ආයුබෝවන්!
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
-Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
+Firefox සෞඛ්‍ය වාර්තාව ඔබට ඔබගේ Firefox කෙසේ ක්‍රියාත්මක වන්නේද සහ එය වැඩි දියුණු කිරීමට ඔබට කුමක් කල හැකිද යන්න පිළිබඳ දැනගැනීමට ඉඩ ලබා දෙයි.
 
 
 ;See My Report
-See My Report
+මාගේ වාර්තාව බලන්න
 
 
 ;Time (in seconds)
-Time (in seconds)
+වෙලාව (තත්පර වලින්)
 
 
 ;Show Statistics
 සංඛ්‍යාන දත්ත පෙන්වන්න
 
 
-
-
 ;Privacy Policy
 පෞද්ගලිකත්ව ප්‍රතිපත්තිය
-
