@@ -1,433 +1,431 @@
+## active ##
 ;Firefox Health Report
-Firefox Health Report
+รายงานข้อมูลสุขภาพของ Firefox
 
 
 ;Raw Data
-Raw Data
+ข้อมูลดิบ
 
 
 ;Get insights and performance information about your version of Firefox.
-Get insights and performance information about your version of Firefox.
+เข้าถึงข้อมูลเชิงลึกและข้อมูลประสิทธิภาพของ Firefox รุ่นที่คุณใช้
 
 
 ;Learn more...
-Learn more...
+เรียนรู้เพิ่มเติม...
 
 
 ;Data Sharing
-Data Sharing
+การแบ่งปันข้อมูล
 
 
 ;ON
-ON
+เปิด
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
-You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
+คุณได้เลือกที่จะหยุดแบ่งปันข้อมูลให้ Mozilla แต่คุณจะยังสามารถดูได้ว่าเบราว์เซอร์ของคุณทำงานเป็นอย่างไร
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
-Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
+ข้อมูลรายงานสุขภาพของคุณจะถูกลบออกจากเซิร์ฟเวอร์ของ Mozilla เรียนรู้เพิ่มเติมเกี่ยวกับ <a href="%(privacy_url)s">นโยบายความเป็นส่วนตัว</a>ของเรา
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
-You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
+คุณเลือกแบ่งปันข้อมูลให้ Mozilla เป็นระยะ ขอขอบคุณที่ช่วยเป็นส่วนหนึ่งของภารกิจการสร้างอนาคตของเว็บที่สดใส
 
 
 ;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
-Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
+เรียนรู้ว่าเราทำอะไรกับข้อมูลของคุณบ้างจาก<a href="%(privacy_url)s">นโยบายความเป็นส่วนตัว</a>
 
 
 ;Vital Stats
-Vital Stats
+สถิติสำคัญ
 
 
 ;version
-version
+รุ่น
 
 
 ;time open
-time open
+เวลาเปิด
 
 
 ;last crash
-last crash
+หยุดทำงานครั้งสุดท้าย
 
 
 ;bookmarks
-bookmarks
+ที่คั่นหน้า
 
 
 ;This Month
-This Month
+เดือนนี้
 
 
 ;crashes
-crashes
+การหยุดทำงาน
 
 
 ;Add-ons
-Add-ons
+ส่วนเสริม
 
 
 ;View List
-View List
+ดูรายการ
 
 
 ;enabled
-enabled
+เปิดใช้งาน
 
 
 ;disabled
-disabled
+ปิดการใช้งาน
 
 
 ;Plugins
-Plugins
+โปรแกรมเสริม
 
 
 ;Tips
-Tips
+เคล็ดลับ
 
 
 ;Wear and Tear
-Wear and Tear
+การสึกหรอ
 
 
 ;It looks like your browser has crashed a number of times recently. To learn more:
-It looks like your browser has crashed a number of times recently. To learn more:
+ดูเหมือนว่าในช่วงที่ผ่านเบราว์เซอร์ของคุณจะหยุดทำงานเองบ่อย เรียนรู้เพิ่มเติม:
 
 
 ;OFF
-OFF
+ปิด
 
 
 ;Visit our <a href="%(sumo_url)s">support website</a>
-Visit our <a href="%(sumo_url)s">support website</a>
+เยี่ยมชม<a href="%(sumo_url)s">เว็บไซต์ช่วยเหลือ</a>ของเรา
 
 
 ;View more <a href="%(details_url)s">detailed information</a>
-View more <a href="%(details_url)s">detailed information</a>
+ดู<a href="%(details_url)s">ข้อมูลที่ละเอียดมากขึ้น</a>
 
 
 ;pages visited
-pages visited
+จำนวนหน้าที่เปิด
 
 
 ;Your browser seems to be running slower than usual. To learn more:
-Your browser seems to be running slower than usual. To learn more:
+ดูเหมือนว่าเบราว์เซอร์ของคุณจะทำงานช้ากว่าที่ควรจะเป็น เรียนรู้เพิ่มเติม:
 
 
 ;You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
-You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
+คุณสามารถดูข้อมูลที่ละเอียดและน่าสนใจของเบราว์เซอร์ได้มากยิ่งขึ้นถ้าคุณใช้งานเบราว์เซอร์มากขึ้น ลองกลับมาใหม่ในอีกสองสามสัปดาห์เพื่อดูแนวโน้มที่เกิดขึ้น
 
 
 ;Startup Time by Day
-Startup Time by Day
+เวลาเริ่มต้นตามวัน
 
 
 ;Graph:
-Graph:
+กราฟ
 
 
 ;Average
-Average
+เฉลี่ย
 
 
 ;All
-All
+ทั้งหมด
 
 
 ;Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
-Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
+เวลาที่ใช้ในการเริ่มต้นช่วยระบุได้ว่า Firefox รุ่นที่คุณกำลังใช้อยู่ทำงานได้ดีแค่ไหน โดยทั่วไปแล้ว เวลาที่น้อยกว่าหมายถึงประสิทธิภาพที่ดีกว่า
 
 
 ;Data Collected
-Data Collected
+ข้อมูลที่ถูกเก็บ
 
 
 ;Glossary
-Glossary
+อภิธานศัพท์
 
 
 ;What the Firefox Health Report Measures
-What the Firefox Health Report Measures
+รายงานสุขภาพของ Firefox วัดจากอะไรบ้าง
 
 
 ;The Firefox Health Report (FHR) has 4 categories of metrics:
-The Firefox Health Report (FHR) has 4 categories of metrics:
+รายงานข้อมูลสุขภาพของ Firefox  (FHR) มีตัววัด 4 ประเภท
 
 
 ;Configuration
-Configuration
+การตั้งค่า
 
 
 ;Device hardware, operating system, Firefox version
-Device hardware, operating system, Firefox version
+ชิ้นส่วนอุปกรณ์, ระบบปฏิบัติการ, รุ่นของ Firefox
 
 
 ;Customizations
-Customizations
+การปรับแต่ง
 
 
 ;Add-ons, count and type
-Add-ons, count and type
+ส่วนเสริม ชนิดและประเภท
 
 
 ;Performance
-Performance
+ประสิทธิภาพ
 
 
 ;Timing of browser events, rendering, session restores
-Timing of browser events, rendering, session restores
+เวลาที่ใช้สำหรับอีเวนท์ของเบราว์เซอร์, การวาดหน้าจอ, การเรียกคืนวาระ
 
 
 ;Length of session, how old a profile is, count of crashes, count of pages
-Length of session, how old a profile is, count of crashes, count of pages
+อายุของวาระ, โพรไฟล์มีอายุมากแค่ไหน, จำนวนครั้งของการแครช, จำนวนหน้าเว็บ
 
 
 ;Detailed Description
-Detailed Description
+รายละเอียดทั้งหมด
 
 
 ;Metric
-Metric
+ตัววัด
 
 
 ;Description
-Description
+รายละเอียด
 
 
 ;Binary interface for XPCOM
-Binary interface for XPCOM
+ส่วนติดต่อแบบไบนารีสำหรับ XPCOM
 
 
 ;Identifier for this build of the application based on the date the build was started
-Identifier for this build of the application based on the date the build was started
+ตัวระบุรุ่นพัฒนานี้ใช้ข้อมูลจากวันที่ที่รุ่นพัฒนานี้ถูกสร้าง
 
 
 ;Operating System for which this build was configured
-Operating System for which this build was configured
+ระบบปฏิบัติการที่รุ่นพัฒนานี้ตั้งค่าไว้
 
 
 ;Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
-Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
+ตัวระบุอัตลักษณ์สำหรับรุ่นแจกจ่ายนี้กำลังถูกใช้ โดยได้จากการตั้งค่า <var>distribution.id</var>
 
 
 ;Version of the distribution, taken from the <var>distribution.version</var> preference
-Version of the distribution, taken from the <var>distribution.version</var> preference
+ตัวเลขรุ่นแจกจ่าย ได้จากการตั้งค่า <var>distribution.version</var>
 
 
 ;The version number of any Mozilla hotfix applied to the application
-The version number of any Mozilla hotfix applied to the application
+เลขรุ่นของโปรแกรมแก้ไขด่วนจาก Mozilla ที่ใช้กับโปรแกรมนี้
 
 
 ;Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
-Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
+ตัวระบุอัตลักษณ์จะแตกต่างกันไปตามโปรแกรม ใช้ระบุว่าโปรแกรมนี้คือ Firefox หรือ Thunderbird เป็นต้น จะมีค่าเหมือนกันหมดสำหรับทุกการติดตั้งโปรแกรมโดยไม่ขึ้นกับค่าของ <var>appName</var>
 
 
 ;The configured name of the application (Firefox/Aurora/Nightly for instance)
-The configured name of the application (Firefox/Aurora/Nightly for instance)
+ชื่อของโปรแกรมที่ตั้งไว้ (เช่น Firefox/Aurora/Nightly)
 
 
 ;The channel this installation checks for application updates (nightly/aurora/beta/release)
-The channel this installation checks for application updates (nightly/aurora/beta/release)
+ช่องทางที่การติดตั้งนี้ใช้ตรวจสอบการปรับปรุงโปรแกรม (nightly/aurora/beta/release)
 
 
 ;The name of the company/provider who built this version
-The name of the company/provider who built this version
+ชื่อของบริษัท/ผู้แจกจ่ายที่สร้างรุ่นพัฒนานี้
 
 
 ;The current version of the product
-The current version of the product
+รุ่นปัจจุบันของผลิตภัณฑ์
 
 
 ;Number of processor cores
-Number of processor cores
+จำนวนคอร์ของหน่วยประมวลผล
 
 
 ;Whether the application is currently configured to be the default browser for the operating system
-Whether the application is currently configured to be the default browser for the operating system
+โปรแกรมถูกตั้งค่าให้เป็นเบราว์เซอร์ปริยายของระบบปฏิบัติการหรือไม่
 
 
 ;Locale currently being used
-Locale currently being used
+ค่าท้องถิ่นที่กำลังใช้อยู่
 
 
 ;Amount of RAM in megabytes
-Amount of RAM in megabytes
+จำนวนแรมในหน่วยเมกะไบต์
 
 
 ;Currently running Operating System (kernel) name
-Currently running Operating System (kernel) name
+ชื่อของระบบปฏิบัติการ (เคอร์เนล) ที่กำลังทำงานอยู่
 
 
 ;Currently running Operating System (kernel) version
-Currently running Operating System (kernel) version
+รุ่นของระบบปฏิบัติการ (เคอร์เนล) ที่กำลังทำงานอยู่
 
 
 ;The build identifier of the Gecko platform code
-The build identifier of the Gecko platform code
+ตัวระบุรุ่นพัฒนาของรหัสแพลตฟอร์ม Gecko
 
 
 ;The version of the Gecko platform code
-The version of the Gecko platform code
+รุ่นของรหัสแพลตฟอร์ม Gecko
 
 
 ;Processor architecture
-Processor architecture
+สถาปัตยกรรมของหน่วยประมวลผล
 
 
 ;The date this version was first used with this installation profile
-The date this version was first used with this installation profile
+วันที่รุ่นนี้ถูกใช้กับโพรไฟล์การติดตั้งนี้เป็นครั้งแรก
 
 
 ;An application version which has been used with this installation profile
-An application version which has been used with this installation profile
+รุ่นของโปรแกรมที่เคยถูกใช้กับโพรไฟล์การติดตั้งนี้
 
 
 ;The number of add-ons of this type that existed in the profile on this date
-The number of add-ons of this type that existed in the profile on this date
+จำนวนของส่วนเสริมประเภทนี้ที่มีอยู่ในโพรไฟล์ในวันที่นี้
 
 
 ;<var>True</var> if the application automatically disabled the add-on
-<var>True</var> if the application automatically disabled the add-on
+<var>True</var> ถ้าแอพพลิเคชันปิดการใช้งานส่วนเสริมโดยอัตโนมัติ
 
 
 ;Whether this add-on was installed by the user or automatically by another application
-Whether this add-on was installed by the user or automatically by another application
+ส่วนเสริมนี้ไม่ว่าจะถูกติดตั้งโดยผู้ใช้หรืออัตโนมัติจากแอพพลิเคชันอื่น
 
 
 ;Whether this add-on has native code.
-Whether this add-on has native code.
+ส่วนเสริมนี้มีภาษาของเครื่อง
 
 
 ;The identifier of this add-on as defined by the add-on developer
-The identifier of this add-on as defined by the add-on developer
+ตัวระบุของส่วนเสริมนี้เป็นไปตามที่กำหนดจากนักพัฒนาส่วนเสริม
 
 
 ;The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
-The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
+ครั้งล่าสุดที่ส่วนเสริมนี้ถูกติดตั้ง (ไม่เก็บข้อมูลย้อนหลังเกี่ยวกับการถอนการติดตั้งส่วนเสริม)
 
 
 ;The number of searches performed with this search engine from this part of the UI
-The number of searches performed with this search engine from this part of the UI
+จำนวนครั้งในการค้นหาโดยใช้โปรแกรมค้นหานี้จากส่วนนี้ของส่วนติดต่อผู้ใช้
 
 
 ;Whether this add-on was installed in the application directory or profile directory
-Whether this add-on was installed in the application directory or profile directory
+ส่วนเสริมนี้ถูกติดตั้งลงในไดเรกทอรีของโปรแกรมหรือไดเรกทอรีของโพรไฟล์
 
 
 ;Whether this add-on is an extension or a plug-in
-Whether this add-on is an extension or a plug-in
+ส่วนเสริมนี้เป็นส่วนขยายหรือโปรแกรมเสริม
 
 
 ;The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
-The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
+ครั้งสุดท้ายที่ส่วนเสริมนี้ได้รับการปรับปรุง (ไม่เก็บข้อมูลย้อนหลังเกี่ยวกับการถอนการติดตั้งส่วนเสริม)
 
 
 ;<var>True</var> if the user manually disabled the add-on
-<var>True</var> if the user manually disabled the add-on
+<var>True</var> ถ้าผู้ใช้ปิดใช้งานส่วนเสริมนี้ด้วยตัวเอง
 
 
 ;The current version of this add-on
-The current version of this add-on
+รุ่นปัจจุบันของส่วนเสริมนี้
 
 
 ;How long in milliseconds it took during startup for the application to render the UI and display the window
-How long in milliseconds it took during startup for the application to render the UI and display the window
+จำนวนหน่วยมิลลิวินาทีสำหรับแอพพลิเคชันที่ใช้ในการเปิดใช้งาน เพื่อเรนเดอร์ส่วนติดต่อผู้ใช้และแสดงผลหน้าต่าง
 
 
 ;How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
-How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
+จำนวนหน่วยมิลลิวินาทีสำหรับแอพพลิเคชันที่ใช้ในการเปิดใช้งาน เพื่อโหลดไลบารี่และการกำหนดค่าเริ่มต้นพื้นฐานเสร็จสิ้น
 
 
 ;How long in milliseconds it took during startup for the application to restore tabs from the previous session
-How long in milliseconds it took during startup for the application to restore tabs from the previous session
+จำนวนหน่วยมิลลิวินาทีสำหรับแอพพลิเคชันที่ใช้ในการเปิดใช้งาน เพื่อเรียกคืนแท็บจากวาระก่อน
 
 
 ;The number of times the application was run and not cleanly shut down.
-The number of times the application was run and not cleanly shut down.
+จำนวนครั้งที่แอพพลิเคชันที่ถูกใช้งานและไม่ได้ปิดอย่างเรียบร้อย
 
 
 ;The time in seconds that the aborted sessions were not idle
-The time in seconds that the aborted sessions were not idle
+เวลาในหน่วยวินาทีที่วาระที่ถูกยกเลิกไม่อยู่ในสถานะว่าง
 
 
 ;The time in seconds that the aborted sessions were running
-The time in seconds that the aborted sessions were running
+เวลาในหน่วยวินาทีที่วาระที่ถูกยกเลิกยังทำงานอยู่
 
 
 ;The number of days since this application profile directory was created
-The number of days since this application profile directory was created
+จำนวนวันตั้งแต่วันที่ไดเรกทอรีของโพรไฟล์ของโปรแกรมถูกสร้าง
 
 
 ;The number of times the application was run and cleanly shut down.
-The number of times the application was run and cleanly shut down.
+จำนวนครั้งที่โปรแกรมทำงานและปิดการทำงานโดยไม่มีปัญหา
 
 
 ;The time in seconds that the completed sessions were not idle
-The time in seconds that the completed sessions were not idle
+เวลาในหน่วยวินาทีที่วาระที่เสร็จสิ้นไม่อยู่ในสถานะว่าง
 
 
 ;The time in seconds that the completed sessions were running
-The time in seconds that the completed sessions were running
+เวลาในหน่วยวินาทีที่วาระที่เสร็จสิ้นยังทำงานอยู่
 
 
 ;Total number of crashes that were recorded but not yet submitted
-Total number of crashes that were recorded but not yet submitted
+จำนวนครั้งของการหยุดการทำงานทั้งหมดที่ถูกบันถึงแต่ยังไม่ได้ส่ง
 
 
 ;Total number of crashes that have been submitted
-Total number of crashes that have been submitted
+จำนวนครั้งของการหยุดการทำงานทั้งหมดที่ถูกส่งไปแล้ว
 
 
 ;Time in seconds the app has not been idle
-Time in seconds the app has not been idle
+เวลาในหน่วยวินาทีที่โปรแกรมไม่อยู่ในสถานะว่าง
 
 
 ;Time in seconds since the app was last started
-Time in seconds since the app was last started
+เวลาในหน่วยวินาทีตั้งแต่โปรแกรมเริ่มทำงานครั้งล่าสุด
 
 
 ;Total number of bookmarks
-Total number of bookmarks
+จำนวนของที่คั่นเว็บทั้งหมด
 
 
 ;Total number of pages listed in the history
-Total number of pages listed in the history
+จำนวนหน้าเว็บที่มีในรายการประวัติการท่องเว็บ
 
 
 ;How long in minutes the current session has been running
-How long in minutes the current session has been running
+วาระปัจจุบันได้ทำงานมาแล้วเป็นเวลากี่นาที
 
 
 ;Welcome to your Firefox Health Report
-Welcome to your Firefox Health Report
+ยินดีต้อนรับสู่รายงานข้อมูลสุขภาพของ Firefox
 
 
 ;Welcome!
-Welcome!
+ยินดีต้อนรับ
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
-Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
+รายงานสุขภาพของ Firefox ช่วยให้รู้ว่า Firefox ของคุณทำงานได้ดีแค่ไหน และสามารถปรับปรุงอะไรได้อีกบ้าง
 
 
 ;See My Report
-See My Report
+ดูรายงานของฉัน
 
 
 ;Time (in seconds)
-Time (in seconds)
+เวลา (วินาที)
 
 
 ;Show Statistics
 แสดงสถิติ
 
 
-
-
 ;Privacy Policy
 นโยบายความเป็นส่วนตัว
-
