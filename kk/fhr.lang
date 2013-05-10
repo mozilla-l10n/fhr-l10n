@@ -1,425 +1,425 @@
 ;Firefox Health Report
-Firefox Health Report
+Firefox деңсаулығы жөніндегі есебі
 
 
 ;Raw Data
-Raw Data
+Шикі мәліметтер
 
 
 ;Get insights and performance information about your version of Firefox.
-Get insights and performance information about your version of Firefox.
+Сіздің Firefox нұсқасы жөнінде өнімділік ақпаратын біліңіз.
 
 
 ;Learn more...
-Learn more...
+Толығырақ...
 
 
 ;Data Sharing
-Data Sharing
+Мәліметтермен бөлісу
 
 
 ;ON
-ON
+Іске қосылған
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
-You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
+Сіз Mozilla-мен ақпаратты бөліспеуді таңдадыңыз, бірақ сонда да браузеріңіздің өнімділік ақпаратын біле аласыз.
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
-Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
+Сіздің браузердің деңсаулық есебі Mozilla серверлерінен де өшіріледі. Көбірек білу үшін, біздің <a href="%(privacy_url)s">жекелік саясатын</a> оқыңыз.
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
-You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
+Сіз Mozilla-мен ақпаратты бөлісуді таңдадыңыз, Интернетті жақсарту мақсатында жұмысымызға көмегіңіз үшін рахмет.
 
 
 ;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
-Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
+Ақпаратыңызды біз қалай өндейтіні туралы біздің <a href="%(privacy_url)s">жекелік саясатымыздан</a> біле аласыз.
 
 
 ;Vital Stats
-Vital Stats
+Маңызды статистика
 
 
 ;version
-version
+нұсқасы
 
 
 ;time open
-time open
+ашық уақыты
 
 
 ;last crash
-last crash
+соңғы құлауы
 
 
 ;bookmarks
-bookmarks
+бетбелгілер
 
 
 ;This Month
-This Month
+Бұл айда
 
 
 ;crashes
-crashes
+құлаулар
 
 
 ;Add-ons
-Add-ons
+Қосымшалар
 
 
 ;View List
-View List
+Тізімін қарау
 
 
 ;enabled
-enabled
+іске қосулы
 
 
 ;disabled
-disabled
+сөндірулі
 
 
 ;Plugins
-Plugins
+Плагиндер
 
 
 ;Tips
-Tips
+Кеңестер
 
 
 ;Wear and Tear
-Wear and Tear
+Тозу
 
 
 ;It looks like your browser has crashed a number of times recently. To learn more:
-It looks like your browser has crashed a number of times recently. To learn more:
+Браузеріңіз жақында бірнеше рет құлаған сияқты. Көбірек білу үшін:
 
 
 ;OFF
-OFF
+Сөндірілген
 
 
 ;Visit our <a href="%(sumo_url)s">support website</a>
-Visit our <a href="%(sumo_url)s">support website</a>
+Біздің <a href="%(sumo_url)s">қолдау көрсету</a> сайтын шолыңыз
 
 
 ;View more <a href="%(details_url)s">detailed information</a>
-View more <a href="%(details_url)s">detailed information</a>
+<a href="%(details_url)s">Толығырақ ақпаратпен</a> таныс болыңыз
 
 
 ;pages visited
-pages visited
+қаралған беттер
 
 
 ;Your browser seems to be running slower than usual. To learn more:
-Your browser seems to be running slower than usual. To learn more:
+Браузеріңіз әдеттегіден баяу жұмыс істеп жатқан сияқты. Көбірек білу үшін:
 
 
 ;You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
-You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
+Браузеріңізді неғұрлым жиірек қолданатын болсаңыз, соғұрлым көбірек қызықты және толығырақ ақпаратты көре алатын боласыз. Трендтерді көру үшін бірнеше аптадан кейін ашыңыз.
 
 
 ;Startup Time by Day
-Startup Time by Day
+Күн сайынғы іске қосылу уақыты
 
 
 ;Graph:
-Graph:
+График:
 
 
 ;Average
-Average
+Орташа
 
 
 ;All
-All
+Барлығы
 
 
 ;Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
-Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
+Іске қосылу уақыты сіздің Firefox нұсқасы қаншама жақсы жұмыс істеп жатқанын анықтауға көмектеседі. Жалпы айтқанда, жылдамырақ (яғни, азырақ) іске қосылу уақыты жақсырақ өнімділіктің сипаты болып табылады.
 
 
 ;Data Collected
-Data Collected
+Жиналған мәліметтер
 
 
 ;Glossary
-Glossary
+Глоссарий
 
 
 ;What the Firefox Health Report Measures
-What the Firefox Health Report Measures
+Firefox-тың деңсаулығы жөніндегі есептер нені өлшейді
 
 
 ;The Firefox Health Report (FHR) has 4 categories of metrics:
-The Firefox Health Report (FHR) has 4 categories of metrics:
+Firefox-тың деңсаулығы жөніндегі есептерінде (FHR) өлшемдердің 4 санаты бар:
 
 
 ;Configuration
-Configuration
+Баптаулар
 
 
 ;Device hardware, operating system, Firefox version
-Device hardware, operating system, Firefox version
+Құрылғылар, операциялық жүйе, Firefox нұсқасы
 
 
 ;Customizations
-Customizations
+Қалаулар
 
 
 ;Add-ons, count and type
-Add-ons, count and type
+Қосымшалар, саны және түрлері
 
 
 ;Performance
-Performance
+Өнімділік
 
 
 ;Timing of browser events, rendering, session restores
-Timing of browser events, rendering, session restores
+Браузер оқиғалары, рендеринг, сессияларды қалпына келтіру
 
 
 ;Length of session, how old a profile is, count of crashes, count of pages
-Length of session, how old a profile is, count of crashes, count of pages
+Сессия ұзақтығы, профиль жасы, құлаулар саны, парақтар саны
 
 
 ;Detailed Description
-Detailed Description
+Кеңейтілген сипаттамасы
 
 
 ;Metric
-Metric
+Өлшемі
 
 
 ;Description
-Description
+Анықтамасы
 
 
 ;Binary interface for XPCOM
-Binary interface for XPCOM
+XPCOM үшін бинарлы интерфейсі
 
 
 ;Identifier for this build of the application based on the date the build was started
-Identifier for this build of the application based on the date the build was started
+Жинау басталған уақытына негізделген қолданбаның бұл жинағының анықтағышысы
 
 
 ;Operating System for which this build was configured
-Operating System for which this build was configured
+Бұл жинақ қай операциялық жүйе үшін жасалған
 
 
 ;Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
-Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
+Қолданудағы қолданбаның таратылым анықтағышысы. Ол <var>distribution.id</var> баптаудан алынады
 
 
 ;Version of the distribution, taken from the <var>distribution.version</var> preference
-Version of the distribution, taken from the <var>distribution.version</var> preference
+Таратылым нұсқасы, ол <var>distribution.id</var> баптаудан алынады 
 
 
 ;The version number of any Mozilla hotfix applied to the application
-The version number of any Mozilla hotfix applied to the application
+Қолданбаға іске асырылған кез-келген Mozilla түзетуі
 
 
 ;Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
-Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
+Қолданбаға тән анықтағыш, яғни, ол Firefox немесе Thunderbird, т.с.с. екенін анықтайды. Бұл қолданбаның басқа да барлық орнатулары үшін, <var>appName</var> мәнін елемей, іске асады
 
 
 ;The configured name of the application (Firefox/Aurora/Nightly for instance)
-The configured name of the application (Firefox/Aurora/Nightly for instance)
+Қолданбаның бапталған аты (мыс. Firefox/Aurora/Nightly)
 
 
 ;The channel this installation checks for application updates (nightly/aurora/beta/release)
-The channel this installation checks for application updates (nightly/aurora/beta/release)
+Қолданбаның жаңартулар арнасы (nightly/aurora/beta/release)
 
 
 ;The name of the company/provider who built this version
-The name of the company/provider who built this version
+Бұл нұсқаны жинаған компания/ұсынушы аты
 
 
 ;The current version of the product
-The current version of the product
+Өнімнің ағымдағы нұсқасы
 
 
 ;Number of processor cores
-Number of processor cores
+Процессор ядролар саны
 
 
 ;Whether the application is currently configured to be the default browser for the operating system
-Whether the application is currently configured to be the default browser for the operating system
+Қолданба операциялық жүйенің негізгі браузері ретінде таңдалған ба, соны көрсетеді
 
 
 ;Locale currently being used
-Locale currently being used
+Ағымдағы локаль
 
 
 ;Amount of RAM in megabytes
-Amount of RAM in megabytes
+Жады көлемі, МБ есебімен
 
 
 ;Currently running Operating System (kernel) name
-Currently running Operating System (kernel) name
+Ағымдағы орындалып жатқан операциялық жүйе (ядро) аты
 
 
 ;Currently running Operating System (kernel) version
-Currently running Operating System (kernel) version
+Ағымдағы орындалып жатқан операциялық жүйе (ядро) нұсқасы 
 
 
 ;The build identifier of the Gecko platform code
-The build identifier of the Gecko platform code
+Gecko платформа кодының жинақ анықтағышы
 
 
 ;The version of the Gecko platform code
-The version of the Gecko platform code
+Gecko платформа кодының нұсқасы
 
 
 ;Processor architecture
-Processor architecture
+Процессор архитектурасы
 
 
 ;The date this version was first used with this installation profile
-The date this version was first used with this installation profile
+Бұл орнату профилімен қолданба бірінші рет қолданылған күні
 
 
 ;An application version which has been used with this installation profile
-An application version which has been used with this installation profile
+Бұл орнату профилімен қолданылатын қолданба нұсқасы
 
 
 ;The number of add-ons of this type that existed in the profile on this date
-The number of add-ons of this type that existed in the profile on this date
+Бұл күнде профильде бар болған осындай түрдегі қосымшалар саны
 
 
 ;<var>True</var> if the application automatically disabled the add-on
-<var>True</var> if the application automatically disabled the add-on
+<var>True</var>, егер қолданба қосымшаны автоматты түрде сөндірілген болса
 
 
 ;Whether this add-on was installed by the user or automatically by another application
-Whether this add-on was installed by the user or automatically by another application
+Бұл қосымшаларды пайдаланушы ма, немесе басқа қолданбалар автоматты түрде орнатты ма, соны көрсетеді
 
 
 ;Whether this add-on has native code.
-Whether this add-on has native code.
+Бұл қосымшада нативті код бар ма, соны көрсетеді.
 
 
 ;The identifier of this add-on as defined by the add-on developer
-The identifier of this add-on as defined by the add-on developer
+Қосымша өндірушімен анықталған қосымшаның анықтағышысы
 
 
 ;The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
-The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
+Бұл қосымша соңғы рет орнатылған күні (оған дейінгі орнатулар жөнінде ақпарат сақталмайды).
 
 
 ;The number of searches performed with this search engine from this part of the UI
-The number of searches performed with this search engine from this part of the UI
+Интерфейстің бұл бөлігінен бұл іздеу жүйесімен жасалған іздеулер саны
 
 
 ;Whether this add-on was installed in the application directory or profile directory
-Whether this add-on was installed in the application directory or profile directory
+Бұл қосымша қолданба бумасына ма, әлде профиль бумасына орнатылды ма, соны көрсетеді
 
 
 ;Whether this add-on is an extension or a plug-in
-Whether this add-on is an extension or a plug-in
+Бұл қосымша кеңейту ма, немесе плагин ба, соны көрсетеді
 
 
 ;The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
-The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
+Бұл қосымша соңғы рет жаңартылған күні (оған дейінгі жаңартулар жөнінде ақпарат сақталмайды).
 
 
 ;<var>True</var> if the user manually disabled the add-on
-<var>True</var> if the user manually disabled the add-on
+Пайдаланушы қосымшаны қолмен сөндірген болса, мәні <var>True</var> болады
 
 
 ;The current version of this add-on
-The current version of this add-on
+Бұл қосымшаның ағымдағы нұсқасы
 
 
 ;How long in milliseconds it took during startup for the application to render the UI and display the window
-How long in milliseconds it took during startup for the application to render the UI and display the window
+Қолданба іске қосылған кезде, интерфейсті салып, терезені көрсету қанша уақытты алған, миллисекундпен 
 
 
 ;How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
-How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
+Қолданба іске қосылған кезде, библиотекаларды жүктеп, басты іске қосылу қанша уақытты алған, миллисекундпен 
 
 
 ;How long in milliseconds it took during startup for the application to restore tabs from the previous session
-How long in milliseconds it took during startup for the application to restore tabs from the previous session
+Қолданба іске қосылған кезде, алдыңғы сессиядан қалған беттерді қалпына келтіру қанша уақытты алған, миллисекундпен
 
 
 ;The number of times the application was run and not cleanly shut down.
-The number of times the application was run and not cleanly shut down.
+Қолданба іске қосылып, таза емес сөндірулер саны.
 
 
 ;The time in seconds that the aborted sessions were not idle
-The time in seconds that the aborted sessions were not idle
+Үзілген сессиялар іссіз емес болып тұрған уақыты, секундпен 
 
 
 ;The time in seconds that the aborted sessions were running
-The time in seconds that the aborted sessions were running
+Үзілген сессиялар орындалып тұрған уақыты, секундпен
 
 
 ;The number of days since this application profile directory was created
-The number of days since this application profile directory was created
+Қолданбаның профиль бумасы жасалған кезден өткен күндер саны
 
 
 ;The number of times the application was run and cleanly shut down.
-The number of times the application was run and cleanly shut down.
+Қолданба іске қосылып, таза сөндірулер саны.
 
 
 ;The time in seconds that the completed sessions were not idle
-The time in seconds that the completed sessions were not idle
+Аяқталған сессиялар іссіз емес тұрған уақыты, секундпен 
 
 
 ;The time in seconds that the completed sessions were running
-The time in seconds that the completed sessions were running
+Аяқталған сессиялар орындалып тұрған уақыты, секундпен
 
 
 ;Total number of crashes that were recorded but not yet submitted
-Total number of crashes that were recorded but not yet submitted
+Жазылған, бірақ, әлі жіберілмеген құлаулар саны
 
 
 ;Total number of crashes that have been submitted
-Total number of crashes that have been submitted
+Жіберілген құлаулар саны
 
 
 ;Time in seconds the app has not been idle
-Time in seconds the app has not been idle
+Қолданба іссіз емес болып тұрған уақыты, секундпен
 
 
 ;Time in seconds since the app was last started
-Time in seconds since the app was last started
+Қолданба іске қосылғаннан өткен уақыт, секунд есебімен
 
 
 ;Total number of bookmarks
-Total number of bookmarks
+Бетбелгілердің жалпы саны
 
 
 ;Total number of pages listed in the history
-Total number of pages listed in the history
+Тарихта бар парақтардың жалпы саны
 
 
 ;How long in minutes the current session has been running
-How long in minutes the current session has been running
+Ағымдағы сессия істеп тұрған уақыты, минут есебімен
 
 
 ;Welcome to your Firefox Health Report
-Welcome to your Firefox Health Report
+Firefox деңсаулығы жөніндегі есепке қош келдіңіз
 
 
 ;Welcome!
-Welcome!
+Қош келдіңіз!
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
-Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
+Firefox деңсаулығы жөніндегі есеп сізге Firefox өз жұмысын қалай орындап жатқанын, және оны жақсарту жолдарын көрсетеді.
 
 
 ;See My Report
-See My Report
+Менің есебімді қарау
 
 
 ;Time (in seconds)
-Time (in seconds)
+Уақыт (секундпен)
 
 
 ;Show Statistics
@@ -430,4 +430,3 @@ Time (in seconds)
 
 ;Privacy Policy
 Жекелік саясаты
-
