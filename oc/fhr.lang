@@ -11,7 +11,7 @@ Get insights and performance information about your version of Firefox.
 
 
 ;Learn more...
-Learn more...
+Ne saber mai…
 
 
 ;Data Sharing
@@ -55,11 +55,11 @@ last crash
 
 
 ;bookmarks
-bookmarks
+marcapaginas
 
 
 ;This Month
-This Month
+Aqueste mes
 
 
 ;crashes
@@ -67,7 +67,7 @@ crashes
 
 
 ;Add-ons
-Add-ons
+Moduls complementaris
 
 
 ;View List
@@ -75,19 +75,19 @@ View List
 
 
 ;enabled
-enabled
+activat
 
 
 ;disabled
-disabled
+desactivat
 
 
 ;Plugins
-Plugins
+Plugins {ok}
 
 
 ;Tips
-Tips
+Astúcias
 
 
 ;Wear and Tear
@@ -111,7 +111,7 @@ View more <a href="%(details_url)s">detailed information</a>
 
 
 ;pages visited
-pages visited
+paginas visitadas
 
 
 ;Your browser seems to be running slower than usual. To learn more:
@@ -147,7 +147,7 @@ Data Collected
 
 
 ;Glossary
-Glossary
+Glossari
 
 
 ;What the Firefox Health Report Measures
@@ -159,7 +159,7 @@ The Firefox Health Report (FHR) has 4 categories of metrics:
 
 
 ;Configuration
-Configuration
+Configuracion
 
 
 ;Device hardware, operating system, Firefox version
@@ -167,7 +167,7 @@ Device hardware, operating system, Firefox version
 
 
 ;Customizations
-Customizations
+Personalizacion
 
 
 ;Add-ons, count and type
@@ -175,7 +175,7 @@ Add-ons, count and type
 
 
 ;Performance
-Performance
+Performància
 
 
 ;Timing of browser events, rendering, session restores
@@ -195,7 +195,7 @@ Metric
 
 
 ;Description
-Description
+Descripcion
 
 
 ;Binary interface for XPCOM
@@ -391,7 +391,7 @@ Time in seconds since the app was last started
 
 
 ;Total number of bookmarks
-Total number of bookmarks
+Nombre total de marcapaginas
 
 
 ;Total number of pages listed in the history
@@ -407,7 +407,7 @@ Welcome to your Firefox Health Report
 
 
 ;Welcome!
-Welcome!
+Benvenguda !
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
@@ -423,9 +423,8 @@ Time (in seconds)
 
 
 ;Show Statistics
-Show Statistics
+Afichar las estatisticas
 
 
 ;Privacy Policy
-Privacy Policy
-
+Politica de vida privada
