@@ -1,144 +1,190 @@
 ;Jan
 Ion
 
+
 ;Feb
 Chw
+
 
 ;Mar
 Maw
 
+
 ;Apr
 Ebr
 
+
 ;May
 Mai
+
 
 ;Jun
 Meh
 
+
 ;Jul
 Gor
+
 
 ;Aug
 Aws
 
+
 ;Sep
 Med
+
 
 ;Oct
 Hyd
 
+
 ;Nov
 Tach
+
 
 ;Dec
 Rha
 
+
 ;January
 Ionawr
+
 
 ;February
 Chwefror
 
+
 ;March
 Mawrth
+
 
 ;April
 Ebrill
 
+
 ;May
 Mai
+
 
 ;June
 Mehefin
 
+
 ;July
 Gorffennaf
+
 
 ;August
 Awst
 
+
 ;September
 Medi
+
 
 ;October
 Hydref
 
+
 ;November
 Tachwedd
+
 
 ;December
 Rhagfyr
 
+
 ;Sunday
 Sul
+
 
 ;Monday
 Llun
 
+
 ;Tuesday
 Mawrth
+
 
 ;Wednesday
 Mercher
 
+
 ;Thursday
 Iau
+
 
 ;Friday
 Gwener
 
+
 ;Saturday
 Sadwrn
+
 
 ;Sun
 Sul
 
+
 ;Mon
 Llu
+
 
 ;Tue
 Maw
 
+
 ;Wed
 Mer
+
 
 ;Thu
 Iau
 
+
 ;Fri
 Gwe
+
 
 ;Sat
 Sad
 
+
 ;Su
-Su
+Su {ok}
+
 
 ;Mo
 Ll
 
+
 ;Tu
 Ma
+
 
 ;We
 Me
 
+
 ;Th
 Ia
+
 
 ;Fr
 Gw
 
+
 ;Sa
-Sa
+Sad
+
 
 ;Noon
 Hanner Dydd
 
+
 ;Midnight
 Hanner Nos
 
+
 ;All Day
 Trwy'r Dydd
-
