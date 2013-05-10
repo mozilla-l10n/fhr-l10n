@@ -1,144 +1,190 @@
 ;Jan
 Faoi
 
+
 ;Feb
 Gearr
+
 
 ;Mar
 Màrt
 
+
 ;Apr
 Gib
+
 
 ;May
 Cèit
 
+
 ;Jun
 Ògmh
+
 
 ;Jul
 Iuch
 
+
 ;Aug
 Lùn
+
 
 ;Sep
 Sult
 
+
 ;Oct
 Dàmh
+
 
 ;Nov
 Samh
 
+
 ;Dec
 Dùbh
+
 
 ;January
 Am Faoilleach
 
+
 ;February
 An Gearran
+
 
 ;March
 Am Màrt
 
+
 ;April
 An Giblean
 
+
 ;May
-An Cèitean
+Cèit
+
 
 ;June
 An t-Ògmhios
 
+
 ;July
 An t-Iuchar
+
 
 ;August
 An Lùnastal
 
+
 ;September
 An t-Sultain
+
 
 ;October
 An Dàmhair
 
+
 ;November
 An t-Samhain
+
 
 ;December
 An Dùbhlachd
 
+
 ;Sunday
 DiDòmhnaich
+
 
 ;Monday
 DiLuain
 
+
 ;Tuesday
 DiMàirt
+
 
 ;Wednesday
 DiCiadain
 
+
 ;Thursday
 DiarDaoin
+
 
 ;Friday
 DihAoine
 
+
 ;Saturday
 DiSathairne
+
 
 ;Sun
 DiD
 
+
 ;Mon
 DiL
+
 
 ;Tue
 DiM
 
+
 ;Wed
 DiC
+
 
 ;Thu
 Diar
 
+
 ;Fri
 Dih
+
 
 ;Sat
 DiS
 
+
 ;Su
-Dò
+DiD
+
 
 ;Mo
-Lu
+DiL
+
 
 ;Tu
-Mà
+DiM
+
 
 ;We
-Ci
+DiC
+
 
 ;Th
-Da
+Dia
+
 
 ;Fr
-hA
+Dih
+
 
 ;Sa
-Sa
+DiS
+
 
 ;Noon
 Meadhan-latha
 
+
 ;Midnight
 Meadhan-oidhche
 
+
 ;All Day
 Fad an latha
-
