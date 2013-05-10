@@ -1,425 +1,424 @@
 ;Firefox Health Report
-Firefox Health Report
+ಫೈರ್ಫಾಕ್ಸ್ ಹೆಲ್ತ್ ರಿಪೋರ್ಟ್
 
 
 ;Raw Data
-Raw Data
+ಕಚ್ಛಾ ಮಾಹಿತಿ
 
 
 ;Get insights and performance information about your version of Firefox.
-Get insights and performance information about your version of Firefox.
+ನಿಮ್ಮ ಫೈರ್ಫಾಕ್ಸಿನ ಆವೃತ್ತಿಯ ಕಾರ್ಯನಿರ್ವಹಣೆಯ ಮಾಹಿತಿಯ ಅರಿವನ್ನು ಪಡೆದುಕೊಳ್ಳಿ.
 
 
 ;Learn more...
-Learn more...
+ಇನ್ನಷ್ಟು ತಿಳಿದುಕೊಳ್ಳಿ...
 
 
 ;Data Sharing
-Data Sharing
+ಮಾಹಿತಿ ಹಂಚಿಕೆ
 
 
 ;ON
-ON
+ಆನ್
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
-You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
+ನೀವು ಮೋಝಿಲ್ಲಾದೊಂದಿಗೆ ಮಾಹಿತಿಯನ್ನು ಹಂಚಿಕೊಳ್ಳುವುದನ್ನು ನಿಲ್ಲಿಸಿದ್ದೀರಿ, ಆದರೂ ಸಹ ನಿಮ್ಮ ಜಾಲವೀಕ್ಷಕವು (ಬ್ರೌಸರ್) ಹೇಗೆ ಕೆಲಸ ಮಾಡುತ್ತದೆ ಎಂಬುದನ್ನು ನೀವು ನೋಡಲು ಸಾಧ್ಯವಿರುತ್ತದೆ.
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
-Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
+ನಿಮ್ಮ ಹೆಲ್ತ್ ರಿಪೋರ್ಟನ್ನು ಮೋಝಿಲ್ಲಾ ಪೂರೈಕೆಗಣಕಗಳಿಂದಲೂ ತೆಗೆದುಹಾಕಲಾಗುತ್ತದೆ. ನಮ್ಮ <a href="%(privacy_url)s">ಗೌಪ್ಯತಾ ನಿಯಮ</a>ದಲ್ಲಿ ಇನ್ನಷ್ಟು ಮಾಹಿತಿಯನ್ನು ತಿಳಿಯಿರಿ.
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
-You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
+ನೀವು ಮೋಝಿಲ್ಲಾದೊಂದಿಗೆ ಕಾಲ ಕಾಲಕ್ಕೆ ನಿಮ್ಮ ಮಾಹಿತಿಯನ್ನು ಹಂಚಿಕೊಂಡಿದ್ದೀರಿ. ಜಾಲದ (ವೆಬ್) ಪ್ರಖರ ಭವಿಷ್ಯವನ್ನು ನಿರ್ಮಿಸುವ ನಮ್ಮ ಯೋಜನೆಯಲ್ಲಿ ಪಾಲ್ಗೊಂಡಿದ್ದಕ್ಕೆ ಧನ್ಯವಾದಗಳು.
 
 
 ;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
-Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
+ನಾವು ನಿಮ್ಮ ಮಾಹಿತಿಯನ್ನು ಹೇಗೆ ನೋಡಿಕೊಳ್ಳುತ್ತೇವೆ ಎನ್ನುವುದನ್ನು ಅರಿಯಲು <a href="%(privacy_url)s">ಗೌಪ್ಯತಾ ನಿಯಮ</a>ಕ್ಕೆ ಹೋಗಿ
 
 
 ;Vital Stats
-Vital Stats
+ಪ್ರಮುಖ ಅಂಕಿಅಂಶಗಳು
 
 
 ;version
-version
+ಆವೃತ್ತಿ
 
 
 ;time open
-time open
+ತೆರೆದ ಸಮಯ
 
 
 ;last crash
-last crash
+ಕೊನೆಯ ಕುಸಿತ
 
 
 ;bookmarks
-bookmarks
+ಪುಟಗುರುತುಗಳು
 
 
 ;This Month
-This Month
+ಈ ತಿಂಗಳು
 
 
 ;crashes
-crashes
+ಕುಸಿತಗಳು
 
 
 ;Add-ons
-Add-ons
+ಆಡ್-ಆನ್‌ಗಳು
 
 
 ;View List
-View List
+ಪಟ್ಟಿಯನ್ನು ನೋಡಿ
 
 
 ;enabled
-enabled
+ಸಕ್ರಿಯಗೊಂಡಿದೆ
 
 
 ;disabled
-disabled
+ನಿಷ್ಕ್ರಿಯಗೊಂಡಿದೆ
 
 
 ;Plugins
-Plugins
+ಪ್ಲಗ್‌ಇನ್‌ಗಳು
 
 
 ;Tips
-Tips
+ಸಲಹೆಗಳು
 
 
 ;Wear and Tear
-Wear and Tear
+ಸವೆತ ಮತ್ತು ಹರಿಯುವಿಕೆ
 
 
 ;It looks like your browser has crashed a number of times recently. To learn more:
-It looks like your browser has crashed a number of times recently. To learn more:
+ನಿಮ್ಮ ಜಾಲವೀಕ್ಷಕವು ಇತ್ತೀಚೆಗೆ ಹಲವು ಬಾರಿ ಕುಸಿದುಹೋದಂತೆ ಕಾಣಿಸುತ್ತಿದೆ. ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ:
 
 
 ;OFF
-OFF
+ಆಫ್‌
 
 
 ;Visit our <a href="%(sumo_url)s">support website</a>
-Visit our <a href="%(sumo_url)s">support website</a>
+ನಮ್ಮ <a href="%(sumo_url)s">ಬೆಂಬಲ ಜಾಲತಾಣ</a>ಕ್ಕೆ ಭೇಟಿ ನೀಡಿ
 
 
 ;View more <a href="%(details_url)s">detailed information</a>
-View more <a href="%(details_url)s">detailed information</a>
+ಇನ್ನಷ್ಟು <a href="%(details_url)s">ವಿವರವಾದ ಮಾಹಿತಿ</a>ಯನ್ನು ನೋಡಿ
 
 
 ;pages visited
-pages visited
+ಭೇಟಿ ನೀಡಿದ ಪುಟಗಳು
 
 
 ;Your browser seems to be running slower than usual. To learn more:
-Your browser seems to be running slower than usual. To learn more:
+ನಿಮ್ಮ ಜಾಲವೀಕ್ಷಕವು ಮಾಮೂಲಿಗಿಂತ ಬಹಳ ನಿಧಾನವಾಗಿದೆ. ಇನ್ನಷ್ಟು ತಿಳಿಯಲು:
 
 
 ;You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
-You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
+ನೀವು ನಿಮ್ಮ ಜಾಲವೀಕ್ಷಕವನ್ನು ಹೆಚ್ಚು ಹೆಚ್ಚು ಬಳಸಿದಂತೆಲ್ಲಾ ಇನ್ನಷ್ಟು ಆಸಕ್ತಿದಾಯಕ ಮತ್ತು ವಿವರವಾದ ಮಾಹಿತಿಯನ್ನು ಪಡೆಯಲು ಸಾಧ್ಯವಿರುತ್ತದೆ. ಒಂದೆರಡು ವಾರಗಳ ನಂತರ ಕೆಲವು ಬದಲಾವಣೆಗಳನ್ನು (ಟೆಂಡ್ಸ್) ನೀವು ಕಾಣಬಹುದು.
 
 
 ;Startup Time by Day
-Startup Time by Day
+ದಿನದ ಮೇರೆಗೆ ಆರಂಭದ ಸಮಯ
 
 
 ;Graph:
-Graph:
+ನಕ್ಷೆ:
 
 
 ;Average
-Average
+ಸರಾಸರಿ
 
 
 ;All
-All
+ಎಲ್ಲವೂ
 
 
 ;Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
-Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
+ನಿಮ್ಮ ಫೈರ್ಫಾಕ್ಸ್ ಆವೃತ್ತಿಯು ಹೇಗೆ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತಿದೆ ಎಂಬುದನ್ನು ನಿರ್ಧರಿಸಲು ಆರಂಭದ ಸಮಯವು ನೆರವಾಗುತ್ತದೆ. ಸಾಮಾನ್ಯವಾಗಿ, ಸಾಮಾನ್ಯವಾಗಿ, ವೇಗವಾಗಿ (ಅಂದರೆ ಕಡಿಮೆ ಸಮಯ) ಅಂದರೆ ಉತ್ತಮ ಕಾರ್ಯನಿರ್ವಹಣೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ.
 
 
 ;Data Collected
-Data Collected
+ಮಾಹಿತಿಯನ್ನು ಸಂಗ್ರಹಿಸಲಾಗಿದೆ
 
 
 ;Glossary
-Glossary
+ಪದಕೋಶ
 
 
 ;What the Firefox Health Report Measures
-What the Firefox Health Report Measures
+ಫೈರ್ಫಾಕ್ಸ್ ಹೆಲ್ತ್ ರಿಪೋರ್ಟ್ ಏನನ್ನು ಅಳತೆ ಮಾಡುತ್ತದೆ
 
 
 ;The Firefox Health Report (FHR) has 4 categories of metrics:
-The Firefox Health Report (FHR) has 4 categories of metrics:
+ಫೈರ್ಫಾಕ್ಸ್ ಹೆಲ್ತ್ ರಿಪೋರ್ಟ್ (FHR) 4 ವರ್ಗಗಳ ಮೆಟ್ರಿಕ್ಸ್ ಅನ್ನು ಹೊಂದಿದೆ:
 
 
 ;Configuration
-Configuration
+ಸಂರಚನೆ
 
 
 ;Device hardware, operating system, Firefox version
-Device hardware, operating system, Firefox version
+ಸಾಧನದ ಯಂತ್ರಾಂಶ, ಕಾರ್ಯಾಚರಣೆ ವ್ಯವಸ್ಥೆ, ಫೈರ್ಫಾಕ್ಸ್ ಆವೃತ್ತಿ
 
 
 ;Customizations
-Customizations
+ಅಗತ್ಯಾನುಗುಣಗೊಳಿಕೆ
 
 
 ;Add-ons, count and type
-Add-ons, count and type
+ಆಡ್-ಆನ್‌ಗಳು, ಎಣಿಕೆ ಮತ್ತು ಪ್ರಕಾರ
 
 
 ;Performance
-Performance
+ಕಾರ್ಯನಿರ್ವಹಣೆ
 
 
 ;Timing of browser events, rendering, session restores
-Timing of browser events, rendering, session restores
+ಜಾಲವೀಕ್ಷಕದ ಘಟನೆಗಳ, ರೆಂಡರಿಂಗ್, ಅಧಿವೇಶನದ ಮರುಸ್ಥಾಪನೆಕ್ಕೆ ತಗಲುವ ಸಮಯ
 
 
 ;Length of session, how old a profile is, count of crashes, count of pages
-Length of session, how old a profile is, count of crashes, count of pages
+ಅಧಿವೇಶನದ ಸಮಯ, ಪ್ರೊಫೈಲ್ ಎಷ್ಟು ಹಳೆಯದಾಗಿದೆ, ಕುಸಿತಗಳ ಸಂಖ್ಯೆ, ಪುಟಗಳ ಲೆಕ್ಕ
 
 
 ;Detailed Description
-Detailed Description
+ಸವಿಸ್ತಾರ ವಿವರಣೆ
 
 
 ;Metric
-Metric
+ಮೆಟ್ರಿಕ್
 
 
 ;Description
-Description
+ವಿವರಣೆ
 
 
 ;Binary interface for XPCOM
-Binary interface for XPCOM
-
+XPCOM ಗಾಗಿ ಬೈನರಿ ಸಂಪರ್ಕಸಾಧನ
 
 ;Identifier for this build of the application based on the date the build was started
-Identifier for this build of the application based on the date the build was started
+ಈ ಅನ್ವಯವನ್ನು ನಿರ್ಮಿಸಲು ಆರಂಭಿಸಿದ ದಿನಾಂಕವು ಈ ನಿರ್ಮಾಣದ ಐಡೆಂಟಿಫಯರ್ ಆಗಿರುತ್ತದೆ
 
 
 ;Operating System for which this build was configured
-Operating System for which this build was configured
+ನಿರ್ಮಾಣವನ್ನು ಯಾವುದಕ್ಕಾಗಿ ಸಂರಚಿಸಲಾಗಿದೆಯೊ ಆ ಕಾರ್ಯಾಚರಣೆ ವ್ಯವಸ್ಥೆ
 
 
 ;Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
-Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
+ಬಳಸಲಾಗುತ್ತಿರುವ ಅನ್ವಯದ ನಿರ್ದಿಷ್ಟ ವಿತರಣೆಗಾಗಿನ ಐಡೆಂಟಿಫಯರ್. ಇದನ್ನು <var>distribution.id</var>ನ ಆದ್ಯತೆಯಿಂದ ತೆಗೆದುಕೊಳ್ಳಲಾಗಿದೆ
 
 
 ;Version of the distribution, taken from the <var>distribution.version</var> preference
-Version of the distribution, taken from the <var>distribution.version</var> preference
+ವಿತರಣೆಯ ಆವೃತ್ತಿ, ಇದನ್ನು <var>distribution.version</var> ಆದ್ಯತೆಯಿಂದ ತೆಗೆದುಕೊಳ್ಳಲಾಗಿದೆ
 
 
 ;The version number of any Mozilla hotfix applied to the application
-The version number of any Mozilla hotfix applied to the application
+ಅನ್ವಯಕ್ಕೆ ಅಳವಡಿಸಲಾದ ಯಾವುದೆ ಮೋಝಿಲ್ಲಾ ಹಾಟ್‌ಫಿಕ್ಸಿನ ಆವೃತ್ತಿ
 
 
 ;Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
-Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
+ಅದು ಫೈರ್ಫಾಕ್ ಅಥವ ತಂಡರ್ಬರ್ಡ್ ಇತ್ಯಾದಿಯನ್ನು ಸೂಚಿಸುವ ಅನ್ವಯಕ್ಕೆ ವಿಶಿಷ್ಟವಾಗಿರುತ್ತದೆ. <var>appName</var> ಏನೇ ಆಗಿದ್ದರೂ ಸಹ ಒಂದು ಅನ್ವಯದ ಎಲ್ಲಾ ಅನುಸ್ಥಾಪನೆಗಳಿಗೆ ಒಂದೇ ರೀತಿ ಇರುತ್ತವೆ
 
 
 ;The configured name of the application (Firefox/Aurora/Nightly for instance)
-The configured name of the application (Firefox/Aurora/Nightly for instance)
+ಅನ್ವಯದ ಸಂರಚಿಸಲಾದ ಹೆಸರು (ಉದಾಹರಣೆಗೆ Firefox/Aurora/Nightly)
 
 
 ;The channel this installation checks for application updates (nightly/aurora/beta/release)
-The channel this installation checks for application updates (nightly/aurora/beta/release)
+ಅನ್ವಯದ ಅಪ್‌ಡೇಟ್‌ಗಳಿಗಾಗಿ ಈ ಅನುಸ್ಥಾಪನೆಯು ಪರಿಶೀಲಿಸುವ ಚಾನಲ್ (nightly/aurora/beta/release)
 
 
 ;The name of the company/provider who built this version
-The name of the company/provider who built this version
+ಈ ಆವೃತ್ತಿಯನ್ನು ನಿರ್ಮಿಸಿದ ಸಂಸ್ಥೆ/ಒದಗಿಸುವವರ ಹೆಸರು
 
 
 ;The current version of the product
-The current version of the product
+ಉತ್ಪನ್ನದ ಪ್ರಸಕ್ತ ಆವೃತ್ತಿ
 
 
 ;Number of processor cores
-Number of processor cores
+ಸಂಸ್ಕಾರಕ ಕೋರುಗಳ ಸಂಖ್ಯೆ
 
 
 ;Whether the application is currently configured to be the default browser for the operating system
-Whether the application is currently configured to be the default browser for the operating system
+ಅನ್ವಯವನ್ನು ಸದ್ಯಕ್ಕೆ ಕಾರ್ಯಾಚರಣೆ ವ್ಯವಸ್ಥೆಗಾಗಿ ಪೂರ್ವನಿಯೋಜಿತ ಜಾಲವೀಕ್ಷಕವಾಗಿ ಸಂರಚಿಸಲಾಗಿದೆ
 
 
 ;Locale currently being used
-Locale currently being used
+ಪ್ರಸಕ್ತ ಬಳಸಲಾಗುತ್ತಿರುವ ಲೊಕ್ಯಾಲ್
 
 
 ;Amount of RAM in megabytes
-Amount of RAM in megabytes
+RAM ಪ್ರಮಾಣ, ಮೆಗಾಬೈಟ್‌ಗಳಲ್ಲಿ
 
 
 ;Currently running Operating System (kernel) name
-Currently running Operating System (kernel) name
+ಪ್ರಸಕ್ತ ಚಲಾಯಿಸಲಾಗುತ್ತಿರುವ ಕಾರ್ಯಾಚರಣೆ ವ್ಯವಸ್ಥೆ(ಕರ್ನಲ್) ಹೆಸರು
 
 
 ;Currently running Operating System (kernel) version
-Currently running Operating System (kernel) version
+ಪ್ರಸಕ್ತ ಚಲಾಯಿಸಲಾಗುತ್ತಿರುವ ಕಾರ್ಯಾಚರಣೆ ವ್ಯವಸ್ಥೆ(ಕರ್ನಲ್) ಆವೃತ್ತಿ
 
 
 ;The build identifier of the Gecko platform code
-The build identifier of the Gecko platform code
+Gecko ಪ್ಲಾಟ್‌ಫಾರ್ಮ್ ಕೋಡ್‌ನ ನಿರ್ಮಾಣದ ಐಡೆಂಟಿಫಯರ್
 
 
 ;The version of the Gecko platform code
-The version of the Gecko platform code
+Gecko ಪ್ಲಾಟ್‌ಫಾರ್ಮ್ ಕೋಡ್‌ನ ಆವೃತ್ತಿ
 
 
 ;Processor architecture
-Processor architecture
+ಸಂಸ್ಕಾರಕದ ಆರ್ಕಿಟೆಕ್ಚರ್
 
 
 ;The date this version was first used with this installation profile
-The date this version was first used with this installation profile
+ಈ ಅನುಸ್ಥಾಪನಾ ಪ್ರೊಫೈಲಿನೊಂದಿಗೆ ಈ ಆವೃತ್ತಿಯನ್ನು ಮೊದಲ ಬಾರಿಗೆ ಬಳಸಿದ ದಿನಾಂಕ
 
 
 ;An application version which has been used with this installation profile
-An application version which has been used with this installation profile
+ಈ ಅನುಸ್ಥಾಪನಾ ಪ್ರೊಫೈಲಿನೊಂದಿಗೆ ಬಳಸಲಾದ ಒಂದು ಅನ್ವಯದ ಆವೃತ್ತಿ
 
 
 ;The number of add-ons of this type that existed in the profile on this date
-The number of add-ons of this type that existed in the profile on this date
+ಈ ದಿನಾಂಕದಂದು ಪ್ರೊಫೈಲಿನಲ್ಲಿ ಇದ್ದಿರಬಹುದಾದ ಈ ಬಗೆಯ ಆಡ್-ಆನ್‌ಗಳ ಸಂಖ್ಯೆ
 
 
 ;<var>True</var> if the application automatically disabled the add-on
-<var>True</var> if the application automatically disabled the add-on
+ಅನ್ವಯವು ಆಡ್‌-ಆನ್‌ ಅನ್ನು ಸ್ವಯಂಚಾಲಿತವಾಗಿ ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿದಲ್ಲಿ <var>True</var> ಆಗಿರುತ್ತದೆ
 
 
 ;Whether this add-on was installed by the user or automatically by another application
-Whether this add-on was installed by the user or automatically by another application
+ಈ ಆಡ್-ಆನ್‌ ಅನ್ನು ಬಳಕೆದಾರನಿಂದ ಅನುಸ್ಥಾಪಿಸಲಾಗಿದೆಯೊ ಅಥವ ಬೇರೊಂದು ಅನ್ವಯದಿಂದ ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಅನುಸ್ಥಾಪಿಸಲಾಗಿದೆಯೊ
 
 
 ;Whether this add-on has native code.
-Whether this add-on has native code.
+ಈ ಆಡ್-ಆನ್ ಸ್ಥಳೀಯ ಕೋಡ್ ಅನ್ನು ಹೊಂದಿದೆಯೆ.
 
 
 ;The identifier of this add-on as defined by the add-on developer
-The identifier of this add-on as defined by the add-on developer
+ಆಡ್-ಆನ್ ವಿಕಸನೆಗಾರನಿಂದ ಸೂಚಿಸಲಾಗಿರುವಂತೆ ಈ ಆಡ್-ಆನ್‌ನ ಐಡೆಂಟಿಫಯರ್
 
 
 ;The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
-The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
+ಈ ಆಡ್-ಆನ್‌ ಅನ್ನು ಅನುಸ್ಥಾಪಿಸಲಾದ ಅತ್ಯಂತ ಇತ್ತೀಚಿನ ದಿನಾಂಕ (ತೆಗೆದುಹಾಕಲಾದ ಆಡ್‌-ಆನ್‌ ಕುರಿತ ಹಿಂದಿನ ಮಾಹಿತಿಯನ್ನು ಇರಿಸಿಕೊಂಡಿಲ್ಲ).
 
 
 ;The number of searches performed with this search engine from this part of the UI
-The number of searches performed with this search engine from this part of the UI
+UI ನ ಈ ಭಾಗದ ಈ ಹುಡುಕು ಎಂಜಿನ್‌ನಿಂದ ನಡೆಸಲಾದ ಹುಡುಕಾಟದ ಸಂಖ್ಯೆಗಳು
 
 
 ;Whether this add-on was installed in the application directory or profile directory
-Whether this add-on was installed in the application directory or profile directory
+ಈ ಆಡ್-ಆನ್ ಅನ್ನು ಅನುಸ್ಥಾಪಿಸಲಾಗಿರುವುದು ಅನ್ವಯ ಕೋಶದಲ್ಲಿಯೆ ಅಥವ ಪ್ರೊಫೈಲ್ ಕೋಶದಲ್ಲಿಯೆ
 
 
 ;Whether this add-on is an extension or a plug-in
-Whether this add-on is an extension or a plug-in
+ಈ ಆಡ್-ಆನ್ ಒಂದು ವಿಸ್ತರಣೆಯಾಗಿದೆಯೆ (ಎಕ್ಸ್ಟೆನ್ಶನ್) ಅಥವ ಒಂದು ಪ್ಲಗ್‌-ಇನ್ ಆಗಿದೆಯೆ
 
 
 ;The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
-The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
+ಈ ಆಡ್-ಆನ್‌ ಅನ್ನು ಅಪ್‌ಡೇಟ್ ಮಾಡಲಾದ ಅತ್ಯಂತ ಇತ್ತೀಚಿನ ದಿನಾಂಕ (ತೆಗೆದುಹಾಕಲಾದ ಆಡ್‌-ಆನ್‌ ಕುರಿತ ಹಿಂದಿನ ಮಾಹಿತಿಯನ್ನು ಇರಿಸಿಕೊಂಡಿಲ್ಲ).
 
 
 ;<var>True</var> if the user manually disabled the add-on
-<var>True</var> if the user manually disabled the add-on
+ಬಳಕೆದಾರರು ಕೈಯಾರೆ ಈ ಆಡ್-ಆನ್‌ ಅನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿದಲ್ಲಿ <var>True</var>ಆಗಿರುತ್ತದೆ
 
 
 ;The current version of this add-on
-The current version of this add-on
+ಈ ಆಡ್-ಆನ್‌ನ ಪ್ರಸಕ್ತ ಆವೃತ್ತಿ
 
 
 ;How long in milliseconds it took during startup for the application to render the UI and display the window
-How long in milliseconds it took during startup for the application to render the UI and display the window
+ಆರಂಭದ ಸಮಯದಲ್ಲಿ UI ಅನ್ನು ರೆಂಡರ್ ಮಾಡಿ ಕಿಟಕಿಯನ್ನು ತೋರಿಸಲು ಮಿಲಿಸೆಕೆಂಡುಗಳಲ್ಲಿ ಅದು ಎಷ್ಟು ಸಮಯ ತೆಗೆದುಕೊಂಡಿತು
 
 
 ;How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
-How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
+ಆರಂಭದ ಸಮಯದಲ್ಲಿ ಲೈಬ್ರರಿಗಳನ್ನು ಲೋಡ್ ಮಾಡಿ ನಂತರ ಪ್ರಾಥಮಿಕ ಆರಂಭಗೊಳಿಕೆಯನ್ನು ಪೂರ್ಣಗೊಳಿಸಲು ಮಿಲಿಸೆಕೆಂಡುಗಳಲ್ಲಿ ಅದು ಎಷ್ಟು ಸಮಯ ತೆಗೆದುಕೊಂಡಿತು
 
 
 ;How long in milliseconds it took during startup for the application to restore tabs from the previous session
-How long in milliseconds it took during startup for the application to restore tabs from the previous session
+ಆರಂಭದ ಸಮಯದಲ್ಲಿ ಹಿಂದಿನ ಅಧಿವೇಶನದಿಂದ ಟ್ಯಾಬ್‌ಗಳನ್ನು ಮರಳಿ ಸ್ಥಾಪಿಸಲು ಮಿಲಿಸೆಕೆಂಡುಗಳಲ್ಲಿ ಅದು ಎಷ್ಟು ಸಮಯ ತೆಗೆದುಕೊಂಡಿತು
 
 
 ;The number of times the application was run and not cleanly shut down.
-The number of times the application was run and not cleanly shut down.
+ಅನ್ವಯವು ಚಲಾಯಿತಗೊಂಡು ನಂತರ ಸರಿಯಾಗಿ ಮುಚ್ಚಲ್ಪಡದೆ ಇರುವ ನಿದರ್ಶನಗಳ ಸಂಖ್ಯೆ.
 
 
 ;The time in seconds that the aborted sessions were not idle
-The time in seconds that the aborted sessions were not idle
+ವಿಫಲಗೊಳಿಸಲಾದ ಅಧಿವೇಶನಗಳು ಜಡವಾಗದೆ ಇದ್ದ ಸಮಯ, ಸೆಕೆಂಡುಗಳಲ್ಲಿ
 
 
 ;The time in seconds that the aborted sessions were running
-The time in seconds that the aborted sessions were running
+ವಿಫಲಗೊಳಿಸಲಾದ ಅಧಿವೇಶನಗಳು ಚಾಲನೆಯಲ್ಲಿದ್ದಂತಹ ಸಮಯ, ಸೆಕೆಂಡುಗಳಲ್ಲಿ
 
 
 ;The number of days since this application profile directory was created
-The number of days since this application profile directory was created
+ಈ ಅನ್ವಯದ ಪ್ರೊಫೈಲ್ ಕೋಶವನ್ನು ರಚಿಸಿದ ನಂತರ ಕಳೆದ ದಿನಗಳ ಸಂಖ್ಯೆ
 
 
 ;The number of times the application was run and cleanly shut down.
-The number of times the application was run and cleanly shut down.
+ಅನ್ವಯವು ಸರಿಯಾಗಿ ಚಲಾಯಿಸಲ್ಪಟ್ಟು ನಂತರ ಸುಲಲಿತವಾಗಿ ಮುಚ್ಚಲಾದ ನಿದರ್ಶನಗಳ ಸಂಖ್ಯೆ.
 
 
 ;The time in seconds that the completed sessions were not idle
-The time in seconds that the completed sessions were not idle
+ಪೂರ್ಣಗೊಳಿಸಲಾದ ಅಧಿವೇಶನವು ಜಡಗೊಳ್ಳದೆ ಇರುವ ಸಮಯ, ಸೆಕೆಂಡುಗಳಲ್ಲಿ
 
 
 ;The time in seconds that the completed sessions were running
-The time in seconds that the completed sessions were running
+ಪೂರ್ಣಗೊಳಿಸಲಾದ ಅಧಿವೇಶನವು ಚಾಲನೆಯಲ್ಲಿಯೆ ಇರುವ ಸಮಯ, ಸೆಕೆಂಡುಗಳಲ್ಲಿ
 
 
 ;Total number of crashes that were recorded but not yet submitted
-Total number of crashes that were recorded but not yet submitted
+ದಾಖಲಿಸಲಾದ ಆದರೆ ಇನ್ನೂ ಸಹ ಸಲ್ಲಿಸದೆ ಇರುವ ಕುಸಿತಗಳ ಒಟ್ಟು ಸಂಖ್ಯೆ
 
 
 ;Total number of crashes that have been submitted
-Total number of crashes that have been submitted
+ಈಗಾಗಲೆ ಸಲ್ಲಿಸಾದ ಕುಸಿತಗಳ ಒಟ್ಟು ಸಂಖ್ಯೆ
 
 
 ;Time in seconds the app has not been idle
-Time in seconds the app has not been idle
+ಅನ್ವಯವು ಜಡಗೊಳ್ಳದೆ ಇರುವ ಸಮಯ, ಸೆಕೆಂಡುಗಳಲ್ಲಿ
 
 
 ;Time in seconds since the app was last started
-Time in seconds since the app was last started
+ಅನ್ವಯವನ್ನು ಕೊನೆಯ ಬಾರಿಗೆ ಪ್ರಾರಂಭಿಸಿದ ಸಮಯ, ಸೆಕೆಂಡುಗಳಲ್ಲಿ
 
 
 ;Total number of bookmarks
-Total number of bookmarks
+ಒಟ್ಟು ಪುಟಗುರುತುಗಳ ಸಂಖ್ಯೆ
 
 
 ;Total number of pages listed in the history
-Total number of pages listed in the history
+ಇತಿಹಾಸದಲ್ಲಿ ಪಟ್ಟಿ ಮಾಡಲಾದ ಒಟ್ಟು ಪುಟಗಳ ಸಂಖ್ಯೆ
 
 
 ;How long in minutes the current session has been running
-How long in minutes the current session has been running
+ಪ್ರಸಕ್ತ ಅಧಿವೇಶನವು ಎಷ್ಟು ನಿಮಿಷಗಳಿಂದ ಚಾಲನೆಯಲ್ಲಿದೆ
 
 
 ;Welcome to your Firefox Health Report
-Welcome to your Firefox Health Report
+ಫೈರ್ಫಾಕ್ಸ್ ಹೆಲ್ತ್ ರಿಪೋರ್ಟಿಗೆ ಸ್ವಾಗತ
 
 
 ;Welcome!
-Welcome!
+ಸ್ವಾಗತ!
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
-Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
+ನಿಮ್ಮ ಫೈರ್ಫಾಕ್ಸ್ ಹೇಗೆ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತಿದೆ ಮತ್ತು ಅದನ್ನು ಉತ್ತಮಗೊಳಿಸಲು ನೀವು ಏನು ಮಾಡಬಹುದು ಎಂಬುದನ್ನು ಫೈರ್ಫಾಕ್ಸ್ ಹೆಲ್ತ್ ರಿಪೋರ್ಟ್ ನಿಮಗೆ ತಿಳಿಸಿಕೊಡುತ್ತದೆ.
 
 
 ;See My Report
-See My Report
+ನನ್ನ ವರದಿಯನ್ನು ನೋಡು
 
 
 ;Time (in seconds)
-Time (in seconds)
+ಸಮಯ (ಸೆಕೆಂಡುಗಳಲ್ಲಿ)
 
 
 ;Show Statistics
