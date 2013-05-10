@@ -27,7 +27,7 @@
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
-Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
+आपका स्वास्थ्य रिपोर्ट आँकड़ा भी मोज़िल्ला सर्वर से हटा दिया जाएगा. हमारी <a href="%(privacy_url)s">गोपनीयता नीति</a> के बारे में अधिक जानें.
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
@@ -415,11 +415,11 @@ UI के इस हिस्से के लिए इस खोज इंज�
 
 
 ;See My Report
-See My Report
+मेरा रिपोर्ट देखें
 
 
 ;Time (in seconds)
-Time (in seconds)
+समय (सेकेंड में)
 
 
 ;Show Statistics
