@@ -128,7 +128,7 @@
 
 
 ;Graph:
-กราฟ
+กราฟ:
 
 
 ;Average
@@ -156,7 +156,7 @@
 
 
 ;The Firefox Health Report (FHR) has 4 categories of metrics:
-รายงานข้อมูลสุขภาพของ Firefox  (FHR) มีตัววัด 4 ประเภท
+รายงานข้อมูลสุขภาพของ Firefox (FHR) มีตัววัด 4 ประเภท:
 
 
 ;Configuration
@@ -408,7 +408,7 @@
 
 
 ;Welcome!
-ยินดีต้อนรับ
+ยินดีต้อนรับ!
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
