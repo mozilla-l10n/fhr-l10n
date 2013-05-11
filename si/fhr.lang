@@ -19,7 +19,7 @@ Get insights and performance information about your version of Firefox.
 
 
 ;ON
-ක්‍රියාත්මක
+ON {ok}
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
@@ -35,7 +35,7 @@ You've chosen to share your data with Mozilla from time to time. Thanks for bein
 
 
 ;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
-අපගේ <a href="%(privacy_url)">පෞද්ගලිකත්ව ප්‍රතිපත්තියේ</a> අපි කෙසේ ඔබගේ දත්ත හසුරුවන්නේදැයි දැන ගන්න.
+අපගේ <a href="%(privacy_url)s">පෞද්ගලිකත්ව ප්‍රතිපත්තියේ</a> අපි කෙසේ ඔබගේ දත්ත හසුරුවන්නේදැයි දැන ගන්න.
 
 
 ;Vital Stats
@@ -99,15 +99,15 @@ Wear and Tear
 
 
 ;OFF
-ක්‍රියා විරහිත
+OFF {ok}
 
 
 ;Visit our <a href="%(sumo_url)s">support website</a>
-අපගේ <a href="%(sumo_url)"> උපකාරක වෙබ් පිටුවට පිවිසෙන්න</a>
+අපගේ <a href="%(sumo_url)s">උපකාරක වෙබ් පිටුවට පිවිසෙන්න</a>
 
 
 ;View more <a href="%(details_url)s">detailed information</a>
-තවත් <a href="%(details_url)"> වැඩිදුර කරුණු පෙන්වන්න</a>
+තවත් <a href="%(details_url)s">වැඩිදුර කරුණු පෙන්වන්න</a>
 
 
 ;pages visited
@@ -151,7 +151,7 @@ Startup time helps determine how well your version of Firefox is performing. In 
 
 
 ;What the Firefox Health Report Measures
-Firefox සෞඛ්‍ය වාර්තාව මනින්නේ මොනවාද?
+Firefox සෞඛ්‍ය වාර්තාව මනින්නේ මොනවාද
 
 
 ;The Firefox Health Report (FHR) has 4 categories of metrics:
@@ -327,7 +327,7 @@ The most recent date this add-on was updated (previous information about an unin
 
 
 ;<var>True</var> if the user manually disabled the add-on
-පරිශීලක ඇඩෝනය අක්‍රිය කලා නම් <var>සත්‍යයි</var> 
+පරිශීලක ඇඩෝනය අක්‍රිය කලා නම් <var>සත්‍යයි</var>
 
 
 ;The current version of this add-on
