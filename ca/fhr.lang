@@ -7,7 +7,7 @@ Dades sense processar
 
 
 ;Get insights and performance information about your version of Firefox.
-Obtén coneixements i informació sobre el rendiment de la vostra versió del Firefox.
+Obtingueu coneixements i informació sobre el rendiment de la vostra versió del Firefox.
 
 
 ;Learn more...
@@ -279,55 +279,55 @@ Arquitectura del processador
 
 
 ;The date this version was first used with this installation profile
-The date this version was first used with this installation profile
+La data del primer cop que es va fer servir aquesta versió amb aquest perfil d'instal·lació
 
 
 ;An application version which has been used with this installation profile
-An application version which has been used with this installation profile
+Una versió d'aplicació que s'ha fet servir amb aquest perfil d'instal·lació
 
 
 ;The number of add-ons of this type that existed in the profile on this date
-The number of add-ons of this type that existed in the profile on this date
+El nombre de complements d'aquest tipus que existien en el perfil en aquesta data
 
 
 ;<var>True</var> if the application automatically disabled the add-on
-<var>True</var> if the application automatically disabled the add-on
+<var>Cert</var> si l'aplicació ha inhabilitat automàticament el complement
 
 
 ;Whether this add-on was installed by the user or automatically by another application
-Whether this add-on was installed by the user or automatically by another application
+Si aquest complement ha estat instal·lat per l'usuari o automàticament per una altra aplicació
 
 
 ;Whether this add-on has native code.
-Whether this add-on has native code.
+Si aquest complement té codi natiu.
 
 
 ;The identifier of this add-on as defined by the add-on developer
-The identifier of this add-on as defined by the add-on developer
+L'identificador d'aquest complement tal com l'ha definit el seu desenvolupador
 
 
 ;The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
-The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
+La data d'instal·lació més recent d'aquest complement (no es desa informació anterior sobre un complement desinstal·lat).
 
 
 ;The number of searches performed with this search engine from this part of the UI
-The number of searches performed with this search engine from this part of the UI
+El nombre de cerques fetes amb aquest motor de cerca des d'aquesta part de la interfície d'usuari
 
 
 ;Whether this add-on was installed in the application directory or profile directory
-Whether this add-on was installed in the application directory or profile directory
+Si aquest complement s'ha instal·lat en el directori de l'aplicació o del perfil
 
 
 ;Whether this add-on is an extension or a plug-in
-Whether this add-on is an extension or a plug-in
+Si aquest complement és una extensió o un connector
 
 
 ;The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
-The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
+La data d'actualització més recent d'aquest complement (no es desa informació anterior sobre un complement desinstal·lat).
 
 
 ;<var>True</var> if the user manually disabled the add-on
-<var>True</var> if the user manually disabled the add-on
+<var>Cert</var> si l'usuari ha inhabilitat el complement manualment
 
 
 ;The current version of this add-on
@@ -335,47 +335,47 @@ Versió actual d'aquest complement
 
 
 ;How long in milliseconds it took during startup for the application to render the UI and display the window
-How long in milliseconds it took during startup for the application to render the UI and display the window
+Quant ha tardat l'aplicació en renderitzar la interfície d'usuari i mostrar la finestra durant l'inici, en milisegons
 
 
 ;How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
-How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
+Quant ha tardat l'aplicació en carregar biblioteques i acabar la inicialització bàsica, en milisegons
 
 
 ;How long in milliseconds it took during startup for the application to restore tabs from the previous session
-How long in milliseconds it took during startup for the application to restore tabs from the previous session
+Quant ha tardat l'aplicació en recuperar les pestanyes de la sessió anterior durant l'inici, en milisegons
 
 
 ;The number of times the application was run and not cleanly shut down.
-The number of times the application was run and not cleanly shut down.
+El nombre de vegades que l'aplicació s'ha executat i no s'ha tancat correctament.
 
 
 ;The time in seconds that the aborted sessions were not idle
-The time in seconds that the aborted sessions were not idle
+El temps que les sessions interrompudes han estat actives, en segons
 
 
 ;The time in seconds that the aborted sessions were running
-The time in seconds that the aborted sessions were running
+El temps que les sessions interrompudes s'han executat, en segons
 
 
 ;The number of days since this application profile directory was created
-The number of days since this application profile directory was created
+El nombre de dies des que es va crear el directori del perfil de l'aplicació
 
 
 ;The number of times the application was run and cleanly shut down.
-The number of times the application was run and cleanly shut down.
+El nombre de vegades que l'aplicació s'ha executat i tancat correctament.
 
 
 ;The time in seconds that the completed sessions were not idle
-The time in seconds that the completed sessions were not idle
+El temps que les sessions completades han estat actives, en segons
 
 
 ;The time in seconds that the completed sessions were running
-The time in seconds that the completed sessions were running
+El temps que les sessions completades s'han executat, en segons
 
 
 ;Total number of crashes that were recorded but not yet submitted
-Total number of crashes that were recorded but not yet submitted
+Nombre total de fallades que s'han enregistrat però no enviat encara
 
 
 ;Total number of crashes that have been submitted
@@ -403,7 +403,7 @@ How long in minutes the current session has been running
 
 
 ;Welcome to your Firefox Health Report
-Welcome to your Firefox Health Report
+Us donem la benvinguda a l'informe de salut del Firefox
 
 
 ;Welcome!
