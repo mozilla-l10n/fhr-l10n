@@ -379,35 +379,35 @@ Nombre total de fallades que s'han enregistrat però no enviat encara
 
 
 ;Total number of crashes that have been submitted
-Total number of crashes that have been submitted
+Nombre total de fallades que s'han tramès
 
 
 ;Time in seconds the app has not been idle
-Time in seconds the app has not been idle
+Temps que l'aplicació ha estat activa, en segons
 
 
 ;Time in seconds since the app was last started
-Time in seconds since the app was last started
+Temps des del darrer cop que es va iniciar l'aplicació, en segons
 
 
 ;Total number of bookmarks
-Total number of bookmarks
+Nombre total d'adreces d'interès
 
 
 ;Total number of pages listed in the history
-Total number of pages listed in the history
+Nombre total de pàgines a l'historial
 
 
 ;How long in minutes the current session has been running
-How long in minutes the current session has been running
+Temps que la sessió actual s'ha estat executant, en minuts
 
 
 ;Welcome to your Firefox Health Report
-Us donem la benvinguda a l'informe de salut del Firefox
+Us donem la benvinguda al vostre informe de salut del Firefox
 
 
 ;Welcome!
-Welcome!
+Us donem la benvinguda
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
