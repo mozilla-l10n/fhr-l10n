@@ -47,7 +47,7 @@
 
 
 ;time open
-време отворен
+активност
 
 
 ;last crash
@@ -75,11 +75,11 @@
 
 
 ;enabled
-включен
+включени
 
 
 ;disabled
-изключен
+изключени
 
 
 ;Plugins
@@ -139,7 +139,7 @@
 
 
 ;Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
-Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
+Времето за стартиране определя как се справя вашият Firefox. Колкото по-бързо стартира, толкова по-добре работи.
 
 
 ;Data Collected
@@ -223,7 +223,7 @@ Startup time helps determine how well your version of Firefox is performing. In 
 
 
 ;Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
-Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
+Уникален идентификатор, който определя дали това е Firefox или Thunderbird. Еднакъв е за всички инсталации, без значение от стойността на <var>appName</var>
 
 
 ;The configured name of the application (Firefox/Aurora/Nightly for instance)
@@ -247,11 +247,11 @@ Identifier unique to the application that indicates it is Firefox or Thunderbird
 
 
 ;Whether the application is currently configured to be the default browser for the operating system
-Whether the application is currently configured to be the default browser for the operating system
+Дали приложението е конфигурирано да бъде браузър по подразбиране на операционната система
 
 
 ;Locale currently being used
-Кой език се ползва
+Какъв език се използва
 
 
 ;Amount of RAM in megabytes
@@ -278,31 +278,31 @@ Whether the application is currently configured to be the default browser for th
 
 
 ;The date this version was first used with this installation profile
-The date this version was first used with this installation profile
+Датата на първо използване на този профил
 
 
 ;An application version which has been used with this installation profile
-An application version which has been used with this installation profile
+Версията на приложението, което е било използвано с този профил
 
 
 ;The number of add-ons of this type that existed in the profile on this date
-The number of add-ons of this type that existed in the profile on this date
+Брой на добавките в профила към тази дата
 
 
 ;<var>True</var> if the application automatically disabled the add-on
-<var>True</var> if the application automatically disabled the add-on
+<var>True</var> ако приложението автоматично декативира добавката
 
 
 ;Whether this add-on was installed by the user or automatically by another application
-Whether this add-on was installed by the user or automatically by another application
+Дали тази добавка е инсталирана от потребителя или от автоматично от някое приложение
 
 
 ;Whether this add-on has native code.
-Whether this add-on has native code.
+Дали тази добавка има нейтив код
 
 
 ;The identifier of this add-on as defined by the add-on developer
-Идентификатора на тази добаwка, както е дефиниран от разработчика ѝ
+Идентификатора на тази добавка, както е дефиниран от разработчика ѝ
 
 
 ;The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
@@ -406,7 +406,7 @@ Whether this add-on has native code.
 
 
 ;Welcome!
-Добре дошлу!
+Добре дошли!
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
