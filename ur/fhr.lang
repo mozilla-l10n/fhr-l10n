@@ -1,25 +1,25 @@
 ;Firefox Health Report
-Firefox Health Report
+فائرفاکس  طبیعت نامہ 
 
 
 ;Raw Data
-Raw Data
+خام کوائف
 
 
 ;Get insights and performance information about your version of Firefox.
-Get insights and performance information about your version of Firefox.
+فائر فاکس کے ورژن کے بارے میں بصیرت اور کارکردگی کی معلومات حاصل کریں
 
 
 ;Learn more...
-Learn more...
+مازید معلومات
 
 
 ;Data Sharing
-Data Sharing
+ڈیٹا شیئر کیجیے
 
 
 ;ON
-ON
+چالو
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
@@ -39,51 +39,51 @@ Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</
 
 
 ;Vital Stats
-Vital Stats
+اہم شماریات
 
 
 ;version
-version
+ورژن
 
 
 ;time open
-time open
+ژوقت شروات
 
 
 ;last crash
-last crash
+سابقہ تباہی
 
 
 ;bookmarks
-bookmarks
+نشانیاں
 
 
 ;This Month
-This Month
+اس مہینے
 
 
 ;crashes
-crashes
+تباہیاں
 
 
 ;Add-ons
-Add-ons
+ایڈ اون
 
 
 ;View List
-View List
+فہرست دیکھیے
 
 
 ;enabled
-enabled
+فعال
 
 
 ;disabled
-disabled
+معطل
 
 
 ;Plugins
-Plugins
+پلگ ان
 
 
 ;Tips
@@ -426,8 +426,5 @@ Time (in seconds)
 Show Statistics
 
 
-
-
 ;Privacy Policy
 Privacy Policy
-
