@@ -1,433 +1,430 @@
 ;Firefox Health Report
-Firefox Health Report
+Raport de stare al Firefox
 
 
 ;Raw Data
-Raw Data
+Date brute
 
 
 ;Get insights and performance information about your version of Firefox.
-Get insights and performance information about your version of Firefox.
+Primește perspective și informații despre performanța versiunii tale de Firefox.
 
 
 ;Learn more...
-Learn more...
+Aflați mai multe...
 
 
 ;Data Sharing
-Data Sharing
+Partajarea datelor
 
 
 ;ON
-ON
+Pornit
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
-You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
+Ați ales să opriți schimbul de date cu Mozilla, dar veți avea posibilitatea să vedeți în continuare cum funcționează navigatorul dumneavoastră
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
-Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
+Datele din raportul dumneavoastră de stare vor fi deasemenea șterse de pe serverele Mozilla. Află mai multe în <a href="%(privacy_url)s">politica noastră de confidențialitate</a>
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
-You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
+Ați ales să schimbați date cu Mozilla periodic. Mulțumim pentru că sunteți o parte din misiunea noastră de a construii un viitor mai luminos pentru Internet.
 
 
 ;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
-Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
+Aflați cum ne ocupăm de datele dumneavoastră în <a href="%(privacy_url)s">politica noastră de confidențialitate</a>
 
 
 ;Vital Stats
-Vital Stats
+Statistici vitale
 
 
 ;version
-version
+versiune
 
 
 ;time open
-time open
+timp pornire
 
 
 ;last crash
-last crash
+ultimul defect
 
 
 ;bookmarks
-bookmarks
+semne de carte
 
 
 ;This Month
-This Month
+Luna aceasta
 
 
 ;crashes
-crashes
+defecte
 
 
 ;Add-ons
-Add-ons
+Suplimente
 
 
 ;View List
-View List
+Vezi lista
 
 
 ;enabled
-enabled
+activat
 
 
 ;disabled
-disabled
+dezactivat
 
 
 ;Plugins
-Plugins
+Module
 
 
 ;Tips
-Tips
+Sfaturi
 
 
 ;Wear and Tear
-Wear and Tear
+Folosire și uzură
 
 
 ;It looks like your browser has crashed a number of times recently. To learn more:
-It looks like your browser has crashed a number of times recently. To learn more:
+Se pare că navigatorul dumneavoastră a înregistrat câteva defecte recent. Pentru a afla mai multe:
 
 
 ;OFF
-OFF
+Oprit
 
 
 ;Visit our <a href="%(sumo_url)s">support website</a>
-Visit our <a href="%(sumo_url)s">support website</a>
+Vizitează <a href="%(sumo_url)s">saitul nostru de suport</a>
 
 
 ;View more <a href="%(details_url)s">detailed information</a>
-View more <a href="%(details_url)s">detailed information</a>
+Vezi mai multe <a href="%(details_url)s">informații detaliate</a>
 
 
 ;pages visited
-pages visited
+pagini vizitate
 
 
 ;Your browser seems to be running slower than usual. To learn more:
-Your browser seems to be running slower than usual. To learn more:
+Se pare că navigatorul dumneavoastră rulează mai încet decât în mod normal. Pentru a afla mai multe:
 
 
 ;You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
-You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
+Veți putea vedea informații mai interesante și mai detaliate pe măsură ce veți folosi navigatorul mai mult. Reveniți în câteva săptămâni pentru a începe sa vedeți niște tendințe.
 
 
 ;Startup Time by Day
-Startup Time by Day
+Timpul de pornire pe zile
 
 
 ;Graph:
-Graph:
+Grafic:
 
 
 ;Average
-Average
+Medie
 
 
 ;All
-All
+Tot
 
 
 ;Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
-Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
+Timpul de pornire ajută la a determina cât de bine execută versiunea dumneavoastră de Firefox. În general, timpii mai rapizi (ex. mai puțin timp) indică o performanță mai bună.
 
 
 ;Data Collected
-Data Collected
+Date colectate
 
 
 ;Glossary
-Glossary
+Glosar
 
 
 ;What the Firefox Health Report Measures
-What the Firefox Health Report Measures
+Ce măsoară raportul de stare Firefox
 
 
 ;The Firefox Health Report (FHR) has 4 categories of metrics:
-The Firefox Health Report (FHR) has 4 categories of metrics:
+Raportul de stare Firefox (FHR) are 4 categorii de metrici:
 
 
 ;Configuration
-Configuration
+Configurație
 
 
 ;Device hardware, operating system, Firefox version
-Device hardware, operating system, Firefox version
+Dispozitiv hardware, sistem de operare, versiune Firefox
 
 
 ;Customizations
-Customizations
+Personalizări
 
 
 ;Add-ons, count and type
-Add-ons, count and type
+Suplimente, număr și tip 
 
 
 ;Performance
-Performance
+Performanță
 
 
 ;Timing of browser events, rendering, session restores
-Timing of browser events, rendering, session restores
+Cronometratrea evenimentelor navigatorului, redarea, restaurarea sesiunii
 
 
 ;Length of session, how old a profile is, count of crashes, count of pages
-Length of session, how old a profile is, count of crashes, count of pages
+Lungimea sesiunii, vechimea profilului, numărul de rapoarte de defecte, numărul de pagini
 
 
 ;Detailed Description
-Detailed Description
+Descriere detaliată
 
 
 ;Metric
-Metric
+Metrică
 
 
 ;Description
-Description
+Descriere 
 
 
 ;Binary interface for XPCOM
-Binary interface for XPCOM
+Interfața binară pentru XPCOM
 
 
 ;Identifier for this build of the application based on the date the build was started
-Identifier for this build of the application based on the date the build was started
+Identificator pentru această versiune a aplicației bazată pe data în care a fost construită
 
 
 ;Operating System for which this build was configured
-Operating System for which this build was configured
+Sistemul de operare pentru care a fost configurată această versiune
 
 
 ;Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
-Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
+Identificator pentru o distribuție specifică a aplicației folosite. Este luată din preferința <var>distribution.id</var>
 
 
 ;Version of the distribution, taken from the <var>distribution.version</var> preference
-Version of the distribution, taken from the <var>distribution.version</var> preference
+Versiunea distribuției, luată din preferința <var>distribution.version</var>
 
 
 ;The version number of any Mozilla hotfix applied to the application
-The version number of any Mozilla hotfix applied to the application
+Numărul versiunii pentru orice rezolvare rapidă Mozilla aplicată acestei aplicații
 
 
 ;Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
-Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
+Identificator unic al aplicației care indică dacă este Firefox sau Thunderbird, etc. Același pentru toate instalările une aplicații, indiferent de valoarea preferinței <var>appName</var>
 
 
 ;The configured name of the application (Firefox/Aurora/Nightly for instance)
-The configured name of the application (Firefox/Aurora/Nightly for instance)
+Numele definit al aplicatiei( de exemplu Firefox/Aurora/Nightly)
 
 
 ;The channel this installation checks for application updates (nightly/aurora/beta/release)
-The channel this installation checks for application updates (nightly/aurora/beta/release)
+Canalul pe care această aplicaţie verifică pentru actualizări (nightly/aurora/beta/release)
 
 
 ;The name of the company/provider who built this version
-The name of the company/provider who built this version
+Numele companiei/furnizorului care a construit această versiune
 
 
 ;The current version of the product
-The current version of the product
+Versiunea curentă a produsului
 
 
 ;Number of processor cores
-Number of processor cores
+Numărul de nuclee ale procesorului
 
 
 ;Whether the application is currently configured to be the default browser for the operating system
-Whether the application is currently configured to be the default browser for the operating system
+Daca aplicația este configurată curent ca navigatorul prestabilit pentru sistemul de operare
 
 
 ;Locale currently being used
-Locale currently being used
+Localizare folosită curent
 
 
 ;Amount of RAM in megabytes
-Amount of RAM in megabytes
+Capacitatea RAM în megabytes
 
 
 ;Currently running Operating System (kernel) name
-Currently running Operating System (kernel) name
+Numele sistemului de operare (kernel) curent
 
 
 ;Currently running Operating System (kernel) version
-Currently running Operating System (kernel) version
+Versiunea sistemului de operare (kernel) curent
 
 
 ;The build identifier of the Gecko platform code
-The build identifier of the Gecko platform code
+Numărul de identificare a codului platformei Gecko
 
 
 ;The version of the Gecko platform code
-The version of the Gecko platform code
+Versiunea codului platformei Gecko
 
 
 ;Processor architecture
-Processor architecture
+Arhitectura procesorului
 
 
 ;The date this version was first used with this installation profile
-The date this version was first used with this installation profile
+Data la care această versiune a fost folosită cu acest profil de instalare
 
 
 ;An application version which has been used with this installation profile
-An application version which has been used with this installation profile
+Versiunea aplicației care a fost folosită cu acest profil de instalare
 
 
 ;The number of add-ons of this type that existed in the profile on this date
-The number of add-ons of this type that existed in the profile on this date
+Numărul de suplimente de acest tip care existau în profil la această dată
 
 
 ;<var>True</var> if the application automatically disabled the add-on
-<var>True</var> if the application automatically disabled the add-on
+<var>True</var> dacă aplicația dezinstalează automat suplimentul
 
 
 ;Whether this add-on was installed by the user or automatically by another application
-Whether this add-on was installed by the user or automatically by another application
+Dacă acest supliment a fost instalat de către utilizator sau automat de altă aplicație
 
 
 ;Whether this add-on has native code.
-Whether this add-on has native code.
+Dacă acest supliment are cod nativ.
 
 
 ;The identifier of this add-on as defined by the add-on developer
-The identifier of this add-on as defined by the add-on developer
+Identificatorul acestui supliment a fost definit de către dezvoltatorul suplimentului
 
 
 ;The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
-The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
+Data cea mai recentă la care acest supliment a fost instalat (informațiile anterioare despre un supliment dezinstalat nu sunt păstrate)
 
 
 ;The number of searches performed with this search engine from this part of the UI
-The number of searches performed with this search engine from this part of the UI
+Numărul de căutări făcute cu acest motor de căutare din această componentă de interfață
 
 
 ;Whether this add-on was installed in the application directory or profile directory
-Whether this add-on was installed in the application directory or profile directory
+Dacă acest supliment a fost instalat în directorul aplicației sau în directorul profilului
 
 
 ;Whether this add-on is an extension or a plug-in
-Whether this add-on is an extension or a plug-in
+Dacă acest supliment este o extensie sau un modul
 
 
 ;The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
-The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
+Data cea mai recentă la care acest supliment a fost actualizat (informațiile anterioare despre un supliment dezinstalat nu sunt păstrate)
 
 
 ;<var>True</var> if the user manually disabled the add-on
-<var>True</var> if the user manually disabled the add-on
+<var>True</var> dacă utilizatorul a dezactivat manual extensia
 
 
 ;The current version of this add-on
-The current version of this add-on
+Versiunea curentă a acestei extensii
 
 
 ;How long in milliseconds it took during startup for the application to render the UI and display the window
-How long in milliseconds it took during startup for the application to render the UI and display the window
+Numărul în milisecunde a duratei, în timpul pornirii aplicației, pentru a desena interfața grafică și a arata fereastra
 
 
 ;How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
-How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
+Numărul în milisecunde a duratei, în timpul pornirii aplicației, pentru a incarca librăriile și a termina inițializarea de bază
 
 
 ;How long in milliseconds it took during startup for the application to restore tabs from the previous session
-How long in milliseconds it took during startup for the application to restore tabs from the previous session
+Numărul în milisecunde a duratei, în timpul pornirii aplicației, pentru a restaura filele din sesiunea precedentă
 
 
 ;The number of times the application was run and not cleanly shut down.
-The number of times the application was run and not cleanly shut down.
+Numărul de ori în care aplicația a fost rulată și nu a fost închisă explicit.
 
 
 ;The time in seconds that the aborted sessions were not idle
-The time in seconds that the aborted sessions were not idle
+Timpul în secunde în care sesiunile anulate nu au fost inactive
 
 
 ;The time in seconds that the aborted sessions were running
-The time in seconds that the aborted sessions were running
+Timpul în secunde în care sesiunile anulate au fost în execuție
 
 
 ;The number of days since this application profile directory was created
-The number of days since this application profile directory was created
+Numărul de zile de când dosarul profilului aplicației a fost creat
 
 
 ;The number of times the application was run and cleanly shut down.
-The number of times the application was run and cleanly shut down.
+Numărul de ori în care aplicația a fost rulată și a fost inchisă explicit.
 
 
 ;The time in seconds that the completed sessions were not idle
-The time in seconds that the completed sessions were not idle
+Timpul în secunde în care sesiunile complete nu au fost inactive
 
 
 ;The time in seconds that the completed sessions were running
-The time in seconds that the completed sessions were running
+Timpul în secunde în care sesiunile complete au fost in execuție
 
 
 ;Total number of crashes that were recorded but not yet submitted
-Total number of crashes that were recorded but not yet submitted
+Numărul total de rapoarte de defecte care au fost înregistrate dar nu au fost încă trimise
 
 
 ;Total number of crashes that have been submitted
-Total number of crashes that have been submitted
+Numărul total de rapoarte de defecte care au fost trimise
 
 
 ;Time in seconds the app has not been idle
-Time in seconds the app has not been idle
+Timpul în secunde în care aplicația nu a fost inactivă
 
 
 ;Time in seconds since the app was last started
-Time in seconds since the app was last started
+Timpul în secunde de când aplicația a fost pornită
 
 
 ;Total number of bookmarks
-Total number of bookmarks
+Număr total de semne de carte
 
 
 ;Total number of pages listed in the history
-Total number of pages listed in the history
+Numărul total de pagini vizitate din istoric
 
 
 ;How long in minutes the current session has been running
-How long in minutes the current session has been running
+Cât timp în minute a rulat această sesiune 
 
 
 ;Welcome to your Firefox Health Report
-Welcome to your Firefox Health Report
+Bine ați venit la raportul de stare Firefox
 
 
 ;Welcome!
-Welcome!
+Bine ați venit!
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
-Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
+Raportul de stare al Firefox vă permite să știți cât de bine funcționează Firefox și ce puteți face pentru a îmbunătăți performanța.
 
 
 ;See My Report
-See My Report
+Vezi raportul meu
 
 
 ;Time (in seconds)
-Time (in seconds)
+Timp (în secunde)
 
 
 ;Show Statistics
 Arată statisticile
 
 
-
-
 ;Privacy Policy
 Politică de confidențialitate
-
