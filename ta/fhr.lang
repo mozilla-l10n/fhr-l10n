@@ -223,31 +223,31 @@ XPCOM க்கான பைனரி இடைமுகம்
 
 
 ;Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
-Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
+பயன்பாடு Firefox அல்லது Thunderbird என்பது போன்று குறிப்பிடுகின்ற பயன்பாட்டுக்கு தனித்துவமான அடையாளம் காட்டி. <var>appName</var> இன் மதிப்பு எதுவாக இருப்பினும், இது ஒரு பயன்பாட்டின் அனைத்து நிறுவல்களுக்கும் மாறாதிருக்கும்
 
 
 ;The configured name of the application (Firefox/Aurora/Nightly for instance)
-The configured name of the application (Firefox/Aurora/Nightly for instance)
+பயன்பாட்டுக்கான அமைவாக்கம் செய்யப்பட்ட பெயர் (எடுத்துக்காட்டுக்கு, Firefox/Aurora/Nightly)
 
 
 ;The channel this installation checks for application updates (nightly/aurora/beta/release)
-The channel this installation checks for application updates (nightly/aurora/beta/release)
+பயன்பாட்டு புதுப்பிப்புகள் உள்ளதா என இந்த நிறுவல் சோதிக்கும் சேனல் (nightly/aurora/beta/release)
 
 
 ;The name of the company/provider who built this version
-The name of the company/provider who built this version
+இந்தப் பதிப்பை உருவாக்கும் நிறுவனம்/வழங்குநரின் பெயர்
 
 
 ;The current version of the product
-The current version of the product
+தயாரிப்பின் தற்போதைய பதிப்பு
 
 
 ;Number of processor cores
-Number of processor cores
+செயலி கோர்களின் எண்ணிக்கை
 
 
 ;Whether the application is currently configured to be the default browser for the operating system
-Whether the application is currently configured to be the default browser for the operating system
+இயக்க முறைமைக்கு இந்த பயன்பாடு முன்னிருப்பு உலாவியாக அமைவாக்கம் செய்யப்பட்டுள்ளதா
 
 
 ;Locale currently being used
