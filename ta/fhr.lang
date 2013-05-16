@@ -1,225 +1,225 @@
 ;Firefox Health Report
-Firefox Health Report
+Firefox நல அறிக்கை
 
 
 ;Raw Data
-Raw Data
+அசல் தரவு
 
 
 ;Get insights and performance information about your version of Firefox.
-Get insights and performance information about your version of Firefox.
+Firefox இன் உங்கள் பதிப்பு பற்றிய அடிப்படை மற்றும் செயல்திறன் தகவல்களைப் பெறுக.
 
 
 ;Learn more...
-Learn more...
+மேலும் அறிக...
 
 
 ;Data Sharing
-Data Sharing
+தரவு பகிர்தல்
 
 
 ;ON
-ON
+இயக்கத்தில்
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
-You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
+நீங்கள் Mozilla உடன் தரவு பகிர்தலை நிறுத்த தேர்வு செய்துள்ளீர்கள், இருப்பினும் உங்கள் உலாவியின் செயல்திறன் எப்படி உள்ளது என்று நீங்கள் காண முடியும்.
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
-Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
+உங்கள் நல அறிக்கை தரவு Mozilla வின் சேவையகங்களிலிருந்தும் அகற்றப்படும். எங்கள் <a href="%(privacy_url)s">தனியுரிமை கொள்கையில்</a> மேலும் அறிக.
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
-You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
+அவ்வப்போது Mozilla உடன் உங்கள் தரவைப் பகிர்ந்துகொள்ளத் தேர்வு செய்துள்ளீர்கள். இணையத்திற்கு சிறப்பான எதிர்காலத்தை உருவாக்கும் எங்கள் நோக்கத்திற்காக உதவி பங்களிப்பதற்கு நன்றி.
 
 
 ;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
-Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
+நாங்கள் உங்கள் தரவை எப்படிக் கையாள்வோம் என்பதைப் பற்றி எங்கள் <a href="%(privacy_url)s">தனியுரிமை கொள்கையில்</a> அறிக.
 
 
 ;Vital Stats
-Vital Stats
+முக்கிய புள்ளிவிவரங்கள்
 
 
 ;version
-version
+பதிப்பு
 
 
 ;time open
-time open
+திறந்திருக்கும் நேரம்
 
 
 ;last crash
-last crash
+கடைசி செயலிழப்பு
 
 
 ;bookmarks
-bookmarks
+புத்தகக்குறிகள்
 
 
 ;This Month
-This Month
+இம்மாதம்
 
 
 ;crashes
-crashes
+செயலிழப்புகள்
 
 
 ;Add-ons
-Add-ons
+துணை நிரல்கள்
 
 
 ;View List
-View List
+பட்டியலைக் காண்
 
 
 ;enabled
-enabled
+செயல்படுத்தப்பட்டது
 
 
 ;disabled
-disabled
+முடக்கப்பட்டது
 
 
 ;Plugins
-Plugins
+செருகு நிரல்கள்
 
 
 ;Tips
-Tips
+உதவிக்குறிப்புகள்
 
 
 ;Wear and Tear
-Wear and Tear
+தேய்மானம்
 
 
 ;It looks like your browser has crashed a number of times recently. To learn more:
-It looks like your browser has crashed a number of times recently. To learn more:
+சமீபத்தில் உங்கள் உலாவி பல முறை செயலிழந்துள்ளதாகத் தெரிகிறது. மேலும் அறிய:
 
 
 ;OFF
-OFF
+அணை
 
 
 ;Visit our <a href="%(sumo_url)s">support website</a>
-Visit our <a href="%(sumo_url)s">support website</a>
+எங்கள் <a href="%(sumo_url)s">ஆதரவு வலைத்தளத்தைப்</a> பார்வையிடவும்
 
 
 ;View more <a href="%(details_url)s">detailed information</a>
-View more <a href="%(details_url)s">detailed information</a>
+மேலும் <a href="%(details_url)s">விவரமான தகவலைக் காண்க</a>
 
 
 ;pages visited
-pages visited
+பார்வையிட்ட பக்கங்கள்
 
 
 ;Your browser seems to be running slower than usual. To learn more:
-Your browser seems to be running slower than usual. To learn more:
+உங்கள் உலாவி வழக்கத்தை விட மெதுவாக இயங்குவதாகத் தெரிகிறது. மேலும் அறிய:
 
 
 ;You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
-You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
+நீங்கள் உலாவியை அதிகமாகப் பயன்படுத்த பயன்படுத்த மேலும் சுவாரசியமான மற்றும் விவரமான தகவல்களைக் காண முடியும். சில போக்குகளைக் காணத் தொடங்க ஓரிரு வாரங்களில் மீண்டும் பார்வையிடவும்.
 
 
 ;Startup Time by Day
-Startup Time by Day
+தொடக்க நேரம் நாளில்
 
 
 ;Graph:
-Graph:
+வரைபடம்:
 
 
 ;Average
-Average
+சராசரி
 
 
 ;All
-All
+அனைத்தும்
 
 
 ;Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
-Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
+உங்கள் Firefox பதிப்பின் செயல்திறன் எவ்வளவு நன்றாக உள்ளது என்பதைத் தீர்மானிக்க தொடக்க நேரம் உதவுகிறது. பொதுவாக, வேகமான நேரம் (அதாவது குறைந்த நேரம்) இருந்தால் அது சிறந்த செயல்திறனைக் குறிக்கிறது.
 
 
 ;Data Collected
-Data Collected
+சேகரிக்கப்படும் தரவு
 
 
 ;Glossary
-Glossary
+சொற்களஞ்சியம்
 
 
 ;What the Firefox Health Report Measures
-What the Firefox Health Report Measures
+Firefox நல அறிக்கை எவற்றை அளவிடுகிறது
 
 
 ;The Firefox Health Report (FHR) has 4 categories of metrics:
-The Firefox Health Report (FHR) has 4 categories of metrics:
+Firefox நல அறிக்கையில் (FHR)  4 வகை அளவீடுகள் உள்ளன:
 
 
 ;Configuration
-Configuration
+அமைவாக்கம்
 
 
 ;Device hardware, operating system, Firefox version
-Device hardware, operating system, Firefox version
+சாதன வன்பொருள், இயக்க முறைமை, Firefox பதிப்பு
 
 
 ;Customizations
-Customizations
+தனிப்பயனாக்கங்கள்
 
 
 ;Add-ons, count and type
-Add-ons, count and type
+துணை நிரல்கள், எண்ணிக்கை மற்றும் வகை
 
 
 ;Performance
-Performance
+செயல்திறன்
 
 
 ;Timing of browser events, rendering, session restores
-Timing of browser events, rendering, session restores
+உலாவி நிகழ்வுகள், காட்சிப்படுத்தல், அமர்வு மீட்டமைப்புகளின் நேரத் தகவல்கள்
 
 
 ;Length of session, how old a profile is, count of crashes, count of pages
-Length of session, how old a profile is, count of crashes, count of pages
+அமர்வின் நீளம், ஒரு சுயவிவரத்தின் வயது, செயலிழப்புகளின் எண்ணிக்கை, பக்கங்களின் எண்ணிக்கை
 
 
 ;Detailed Description
-Detailed Description
+விரிவான விளக்கம்
 
 
 ;Metric
-Metric
+மெட்ரிக்
 
 
 ;Description
-Description
+விளக்கம்
 
 
 ;Binary interface for XPCOM
-Binary interface for XPCOM
+XPCOM க்கான பைனரி இடைமுகம்
 
 
 ;Identifier for this build of the application based on the date the build was started
-Identifier for this build of the application based on the date the build was started
+பில்டு தொடங்கப்பட்ட தேதியின் அடிப்படையில், பயன்பாட்டின் இந்த பில்டுக்கான அடையாளம் காட்டி
 
 
 ;Operating System for which this build was configured
-Operating System for which this build was configured
+இந்த பில்டு அமைவாக்கம் செய்யப்பட்ட இயக்க முறைமை
 
 
 ;Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
-Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
+பயனில் உள்ள பயன்பாட்டின் ஒரு குறிப்பிட்ட விநியோகத்திற்கான அடையாளம் காட்டி. இது  <var>distribution.id</var> முன்னுரிமையிலிருந்து பெறப்படுகிறது
 
 
 ;Version of the distribution, taken from the <var>distribution.version</var> preference
-Version of the distribution, taken from the <var>distribution.version</var> preference
+<var>distribution.version</var> முன்னுரிமையிலிருந்து பெறப்பட்ட விநியோகத்தின் பதிப்பு
 
 
 ;The version number of any Mozilla hotfix applied to the application
-The version number of any Mozilla hotfix applied to the application
+பயன்பாட்டுக்கு பயன்படுத்தப்பட்டுள்ள ஏதேனும் Mozilla hotfix இன் பதிப்பு எண்
 
 
 ;Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
@@ -251,183 +251,180 @@ Whether the application is currently configured to be the default browser for th
 
 
 ;Locale currently being used
-Locale currently being used
+தற்போது பயன்படுத்தப்படும் மொழி
 
 
 ;Amount of RAM in megabytes
-Amount of RAM in megabytes
+RAM இன் அளவு, மெகாபைட்டில்
 
 
 ;Currently running Operating System (kernel) name
-Currently running Operating System (kernel) name
+தற்போது இயக்கும் இயக்க முறைமை (கெர்னல்) பெயர்
 
 
 ;Currently running Operating System (kernel) version
-Currently running Operating System (kernel) version
+தற்போது இயக்கும் இயக்க முறைமை (கெர்னல்) பதிப்பு
 
 
 ;The build identifier of the Gecko platform code
-The build identifier of the Gecko platform code
+Gecko இயங்குதளக் குறியீட்டுக்கான பில்டு அடையாளம் காட்டி
 
 
 ;The version of the Gecko platform code
-The version of the Gecko platform code
+Gecko இயங்குதளக் குறியீட்டின் பதிப்பு
 
 
 ;Processor architecture
-Processor architecture
+செயலி கட்டமைப்பு
 
 
 ;The date this version was first used with this installation profile
-The date this version was first used with this installation profile
+இந்த நிறுவல் சுயவிவரத்துடன் இந்தப் பதிப்பு முதன் முதலில் பயன்படுத்தப்பட்ட தேதி
 
 
 ;An application version which has been used with this installation profile
-An application version which has been used with this installation profile
+இந்த நிறுவல் சுயவிவரத்துடன் பயன்படுத்தப்பட்ட பயன்பாட்டு பதிப்பு
 
 
 ;The number of add-ons of this type that existed in the profile on this date
-The number of add-ons of this type that existed in the profile on this date
+இந்த தேதியில் சுயவிவரத்தில் இருந்த இந்த வகை துணை நிரல்களின் எண்ணிக்கை
 
 
 ;<var>True</var> if the application automatically disabled the add-on
-<var>True</var> if the application automatically disabled the add-on
+பயன்பாடு துணை நிரலை தானாக முடக்கினால் <var>True</var>
 
 
 ;Whether this add-on was installed by the user or automatically by another application
-Whether this add-on was installed by the user or automatically by another application
+துணை நிரலை பயனர் நிறுவினாரா அல்லது மற்றொரு பயன்பாடே தானாக நிறுவியதா
 
 
 ;Whether this add-on has native code.
-Whether this add-on has native code.
+இந்த துணை நிரலுக்கு சொந்தமான குறியீடு உள்ளதா.
 
 
 ;The identifier of this add-on as defined by the add-on developer
-The identifier of this add-on as defined by the add-on developer
+துணை நிரல் உருவாக்குநரது வரையறையின் படி, இந்த துணை நிரலுக்கான அடையாளம் காட்டி
 
 
 ;The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
-The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
+இந்த துணை நிரல் நிறுவப்பட்ட மிக சமீபத்திய தேதி (நிறுவல் நீக்கம் செய்யப்பட்ட துணை நிரல் பற்றிய முந்தைய தகவல்கள் வைத்துக்கொள்ளப்படுவதில்லை).
 
 
 ;The number of searches performed with this search engine from this part of the UI
-The number of searches performed with this search engine from this part of the UI
+பயனர் இடைமுகத்தின் இந்தப் பகுதியிலிருந்து, இந்த தேடு பொறியைக் கொண்டு செய்யப்பட்ட தேடல்களின் எண்ணிக்கை
 
 
 ;Whether this add-on was installed in the application directory or profile directory
-Whether this add-on was installed in the application directory or profile directory
+இந்த துணை நிரல் பயன்பாட்டு கோப்பகத்தில் நிறுவப்பட்டதா அல்லது சுயவிவர கோப்பகத்தில் நிறுவப்பட்டதா
 
 
 ;Whether this add-on is an extension or a plug-in
-Whether this add-on is an extension or a plug-in
+இந்த துணை நிரல் ஒரு நீட்டிப்பா அல்லது செருகு நிரலா
 
 
 ;The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
-The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
+இந்த துணை நிரல் புதுப்பிக்கப்பட்ட சமீபத்திய தேதி (நிறுவல் நீக்கம் செய்யப்பட்ட துணை நிரல் பற்றிய முந்தைய தகவல் வைத்திருக்கப்படுவதில்லை).
 
 
 ;<var>True</var> if the user manually disabled the add-on
-<var>True</var> if the user manually disabled the add-on
+பயனர் துணை நிரலை கைமுறையாக முடக்கியிருந்தால் <var>True</var>
 
 
 ;The current version of this add-on
-The current version of this add-on
+இந்த துணை நிரலின் தற்போதைய பதிப்பு
 
 
 ;How long in milliseconds it took during startup for the application to render the UI and display the window
-How long in milliseconds it took during startup for the application to render the UI and display the window
+பயன்பாடு தொடக்கத்தில் பயனர் இடைமுகத்தை காட்சிப்படுத்தவும் சாளரத்தைக் காண்பிக்கவும் எடுத்துக்கொண்ட நேரம், மில்லிசெகன்டில்
 
 
 ;How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
-How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
+பயன்பாடு தொடக்கத்தில் தரவகங்களை ஏற்றவும் அடிப்படை நிறுவலை முடிக்கவும் எடுத்துக்கொண்ட நேரம், மில்லிசெகன்டில்
 
 
 ;How long in milliseconds it took during startup for the application to restore tabs from the previous session
-How long in milliseconds it took during startup for the application to restore tabs from the previous session
+பயன்பாடு தொடக்கத்தில் முந்தைய அமர்விலிருந்து தத்தல்களை மீட்டமைக்க எடுத்துக்கொண்ட நேரம், மில்லிசெகன்டில்
 
 
 ;The number of times the application was run and not cleanly shut down.
-The number of times the application was run and not cleanly shut down.
+பயன்பாடு இயக்கப்பட்டு முறையாக இயக்கம் நிறுத்தப்படாத செயலின் எண்ணிக்கை.
 
 
 ;The time in seconds that the aborted sessions were not idle
-The time in seconds that the aborted sessions were not idle
+கைவிடப்பட்ட அமர்வுகள் செயலின்மையில் இல்லாத நேரம், வினாடிகளில்
 
 
 ;The time in seconds that the aborted sessions were running
-The time in seconds that the aborted sessions were running
+கைவிடப்பட்ட அமர்வுகள் இயங்கிக்கொண்டிருந்த நேரம், வினாடிகளில்
 
 
 ;The number of days since this application profile directory was created
-The number of days since this application profile directory was created
+இந்தப் பயன்பாட்டு சுயவிவரக் கோப்பகம் உருவாக்கப்பட்டு எத்தனை நாட்கள் ஆகியுள்ளன
 
 
 ;The number of times the application was run and cleanly shut down.
-The number of times the application was run and cleanly shut down.
+பயன்பாடு இயக்கப்பட்ட முறையாக இயக்க நிறுத்தப்பட்டது எத்தனை முறை.
 
 
 ;The time in seconds that the completed sessions were not idle
-The time in seconds that the completed sessions were not idle
+முடிக்கப்பட்ட அமர்வுகள் செயலின்றி இல்லாத நேரம், வினாடிகளில்
 
 
 ;The time in seconds that the completed sessions were running
-The time in seconds that the completed sessions were running
+முடிக்கப்பட்ட அமர்வுகள் இயங்கிக்கொண்டிருந்த நேரம், வினாடிகளில்
 
 
 ;Total number of crashes that were recorded but not yet submitted
-Total number of crashes that were recorded but not yet submitted
+பதிவு செய்யப்பட்டு சமர்ப்பிக்கப்படாத செயலிழப்புகளின் மொத்த எண்ணிக்கை
 
 
 ;Total number of crashes that have been submitted
-Total number of crashes that have been submitted
+சமர்ப்பிக்கப்பட்ட செயலிழப்புகளின் மொத்த எண்ணிக்கை
 
 
 ;Time in seconds the app has not been idle
-Time in seconds the app has not been idle
+பயன்பாடு செயலின்றி இல்லாத நேரம், வினாடிகளில்
 
 
 ;Time in seconds since the app was last started
-Time in seconds since the app was last started
+பயன்பாடு கடைசியாக தொடங்கப்பட்டதிலிருந்து ஆகியுள்ள நேரம், வினாடிகளில்
 
 
 ;Total number of bookmarks
-Total number of bookmarks
+மொத்த புத்தகக்குறிகளின் எண்ணிக்கை
 
 
 ;Total number of pages listed in the history
-Total number of pages listed in the history
+வரலாற்றில் பட்டியலிடப்படும் மொத்த பக்கங்களின் எண்ணிக்கை
 
 
 ;How long in minutes the current session has been running
-How long in minutes the current session has been running
+தற்போதைய அமர்வு இயங்கிக்கொண்டிருந்த நேரம், நிமிடங்களில்
 
 
 ;Welcome to your Firefox Health Report
-Welcome to your Firefox Health Report
+Firefox நல அறிக்கைக்கு வரவேற்கிறோம்
 
 
 ;Welcome!
-Welcome!
+நல்வரவு!
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
-Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
+Firefox நல அறிக்கையின் மூலம், உங்கள் Firefox இன் செயல்திறன் எப்படி உள்ளது என்றும் அதை மேம்படுத்த நீங்கள் என்ன செய்யலாம் என்றும் அறிய முடியும்.
 
 
 ;See My Report
-See My Report
+என் அறிக்கையைக் காண்
 
 
 ;Time (in seconds)
-Time (in seconds)
+நேரம் (வினாடிகளில்)
 
 
 ;Show Statistics
 புள்ளிவிவரம் காட்டு
 
 
-
-
 ;Privacy Policy
 தனிப்பட்ட கொள்கை
-
