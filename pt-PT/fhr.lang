@@ -47,7 +47,7 @@ versão
 
 
 ;time open
-Hora de Abertura - hora de acesso
+Hora de Abertura
 
 
 ;last crash
@@ -307,7 +307,7 @@ O identificador deste extra definido pelo programador do extra
 
 
 ;The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
-A data mais recente de instalação deste extra (informação prévia acerca de extras desinstalados não é mantida)
+A data mais recente de instalação deste extra (informação prévia acerca de extras desinstalados não é mantida).
 
 
 ;The number of searches performed with this search engine from this part of the UI
