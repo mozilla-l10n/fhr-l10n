@@ -1,5 +1,5 @@
 ;Firefox Health Report
-فائرفاکس  طبیعت نامہ 
+فائرفاکس طبیعت نامہ
 
 
 ;Raw Data
@@ -7,11 +7,11 @@
 
 
 ;Get insights and performance information about your version of Firefox.
-فائر فاکس کے ورژن کے بارے میں بصیرت اور کارکردگی کی معلومات حاصل کریں
+فائر فاکس کے ورژن کے بارے میں بصیرت اور کارکردگی کی معلومات حاصل کریں.
 
 
 ;Learn more...
-مازید معلومات
+مازید معلومات...
 
 
 ;Data Sharing
@@ -23,19 +23,19 @@
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
-You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
+آپ موزیلا ساتھ ڈیٹا کا اشتراک کو روکنے کے لئے منتخب کیا ہے، لیکن آپ کو اب بھی اپنے براؤزر کو کارکردگی کا مظاہرہ کر رہا ہے کہ کس طرح دیکھنے کے لئے قابل ہو جائے گا.
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
-Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
+آپ کی صحت کی رپورٹ کے اعداد و شمار بھی موزیلا کی سرور سے ہٹا دیا جائے گا. ہمارے <a href="٪(privacy_url)s"> رازداری کی پالیسی میں مزید معلومات حاصل کریں. </ a> پر</a>
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
-You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
+آپ نے وقتاً فوقتاً اپنا ڈیٹا موزیلا کے ساتھ بانٹنے کا انتخاب کیا ہے۔ ویب کے مستقبل کو بہتر بنانے کے لیے ہماری مہم کا حصہ بننے کے لیے ہم آپ کے شکر گزار ہیں۔
 
 
 ;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
-Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
+جانیں کہ کس طرح ہم اپنی <a href="%(privacy_url)s">privacy policy.</a>میں اپکے دیٹا کو سنبھالتے ہے-
 
 
 ;Vital Stats
@@ -87,55 +87,55 @@ Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</
 
 
 ;Tips
-Tips
+تجاویز
 
 
 ;Wear and Tear
-Wear and Tear
+نقصان
 
 
 ;It looks like your browser has crashed a number of times recently. To learn more:
-It looks like your browser has crashed a number of times recently. To learn more:
+ایسا لگتا ہے آپ کا براؤزر حال ہی میں کئی بار کریش ہوا ہے- مزید جاننے کے لئے:
 
 
 ;OFF
-OFF
+بند
 
 
 ;Visit our <a href="%(sumo_url)s">support website</a>
-Visit our <a href="%(sumo_url)s">support website</a>
+دیکھے ہماری <a/>حمایتی ویب سایئت<a href="%(sumo_url)s">
 
 
 ;View more <a href="%(details_url)s">detailed information</a>
-View more <a href="%(details_url)s">detailed information</a>
+مزید دیکھیں </a>تفصیلی معلومات <a href="%(details_url)s">
 
 
 ;pages visited
-pages visited
+ملاحظہ کیے گۓ صفحات
 
 
 ;Your browser seems to be running slower than usual. To learn more:
-Your browser seems to be running slower than usual. To learn more:
+آپ کے براؤزر معمول سے زیادہ سست چل رہا ہے. مزید جاننے کے لئے:
 
 
 ;You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
-You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
+آپ جتنا زیادہ اپنے براؤزر کا استعمال کرینگے اتنی ہی دلچسپ اور تفصیلی معلومات حاصل کر پینگے- کچھ رجحانات کو دیکھنے لئے چند ہفتے میں واپس چیک کریں.
 
 
 ;Startup Time by Day
-Startup Time by Day
+دن کے آغاز کا وقت
 
 
 ;Graph:
-Graph:
+گراف:
 
 
 ;Average
-Average
+اوسط
 
 
 ;All
-All
+تمام
 
 
 ;Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
@@ -143,91 +143,91 @@ Startup time helps determine how well your version of Firefox is performing. In 
 
 
 ;Data Collected
-Data Collected
+جمع شدہ کوائف
 
 
 ;Glossary
-Glossary
+ایوان کی لغت
 
 
 ;What the Firefox Health Report Measures
-What the Firefox Health Report Measures
+فائر فاکس صحت کی رپورٹ کے اقدامات کیا
 
 
 ;The Firefox Health Report (FHR) has 4 categories of metrics:
-The Firefox Health Report (FHR) has 4 categories of metrics:
+فائر فاکس صحت رپورٹ (FHR) پیمائش کے معیار کے 4 اقسام ہیں:
 
 
 ;Configuration
-Configuration
+تشکیل
 
 
 ;Device hardware, operating system, Firefox version
-Device hardware, operating system, Firefox version
+آلہ ہارڈ ویئر، آپریٹنگ سسٹم، فائر فاکس ورژن
 
 
 ;Customizations
-Customizations
+تخصیصات
 
 
 ;Add-ons, count and type
-Add-ons, count and type
+ایک شمار کرے جمع کر کے ٹائپ
 
 
 ;Performance
-Performance
+کارکردگی
 
 
 ;Timing of browser events, rendering, session restores
-Timing of browser events, rendering, session restores
+براؤزر کے واقعات کے وقت، انجام، سیشن بحال
 
 
 ;Length of session, how old a profile is, count of crashes, count of pages
-Length of session, how old a profile is, count of crashes, count of pages
+سیشن کی لمبائی، ایک پروفائل کی عمر کتنی ہے، صفحات کی تعداد، گر کر تباہ کی تعداد
 
 
 ;Detailed Description
-Detailed Description
+تفصیلی وضاحت
 
 
 ;Metric
-Metric
+میٹرک
 
 
 ;Description
-Description
+تفصیل
 
 
 ;Binary interface for XPCOM
-Binary interface for XPCOM
+XPCOM کے لئے بائنری انٹرفیس
 
 
 ;Identifier for this build of the application based on the date the build was started
-Identifier for this build of the application based on the date the build was started
+تاریخ کی بنیاد پر کی درخواست کی اس کی تعمیر کے لئے شناخت کی تعمیر شروع کیا گیا تھا
 
 
 ;Operating System for which this build was configured
-Operating System for which this build was configured
+اس کی تعمیر کیلئے تشکیل دیا گیا تھا جس کے لئے آپریٹنگ سسٹم
 
 
 ;Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
-Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
+استعمال میں درخواست کی خاص طور پر تقسیم کرنے کے لئے شناخت کنندہ. یہ <var> distribution.id </ متغیر کریں> کی ترجیحات سے لیا جاتا ہے
 
 
 ;Version of the distribution, taken from the <var>distribution.version</var> preference
-Version of the distribution, taken from the <var>distribution.version</var> preference
+var> distribution.version> </ متغیر کریں> کی ترجیحات سے لیا تقسیم کے ورژن،
 
 
 ;The version number of any Mozilla hotfix applied to the application
-The version number of any Mozilla hotfix applied to the application
+کسی بھی موزیلا hotfix کے ورژن نمبر کی درخواست پر لاگو
 
 
 ;Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
-Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
+یہ فائر فاکس یا Thunderbird، <var> appName </ متغیر کریں> کی قیمت سے قطع نظر ایک درخواست کے تمام تنصیبات کے لئے وغیرہ ایک ہی ہے کی طرف اشارہ کرتا ہے کہ درخواست کرنے کے لئے منفرد شناخت
 
 
 ;The configured name of the application (Firefox/Aurora/Nightly for instance)
-The configured name of the application (Firefox/Aurora/Nightly for instance)
+درخواست کی ترتیب دیا نام (فائرفاکس / ارورہ / مثال کے طور پر رات)
 
 
 ;The channel this installation checks for application updates (nightly/aurora/beta/release)
@@ -235,47 +235,47 @@ The channel this installation checks for application updates (nightly/aurora/bet
 
 
 ;The name of the company/provider who built this version
-The name of the company/provider who built this version
+اس ورژن کی تعمیر کی جو کمپنی / فراہم کرنے والے کے نام
 
 
 ;The current version of the product
-The current version of the product
+مصنوعات کا حالیہ ورژن
 
 
 ;Number of processor cores
-Number of processor cores
+پروسیسر cores کی تعداد
 
 
 ;Whether the application is currently configured to be the default browser for the operating system
-Whether the application is currently configured to be the default browser for the operating system
+درخواست اس وقت آپریٹنگ سسٹم کے لئے پہلے سے طے شدہ براؤزر ہونا ترتیب دیا جاتا ہے
 
 
 ;Locale currently being used
-Locale currently being used
+لوکیل اس وقت استعمال کیا جا رہا
 
 
 ;Amount of RAM in megabytes
-Amount of RAM in megabytes
+میگا بائٹس میں رام کی رقم
 
 
 ;Currently running Operating System (kernel) name
-Currently running Operating System (kernel) name
+فی الحال آپریٹنگ سسٹم (دانا) کا نام چل رہا ہے
 
 
 ;Currently running Operating System (kernel) version
-Currently running Operating System (kernel) version
+حالیہ وقت چل رہے آپریٹنگ سسٹم کا (کرنل) ورژن 
 
 
 ;The build identifier of the Gecko platform code
-The build identifier of the Gecko platform code
+گیکو پلیٹ فارم کوڈ کا بلڈ ایڈنڈ یفا ئر
 
 
 ;The version of the Gecko platform code
-The version of the Gecko platform code
+گیکو پلیٹ فارم کوڈ کا ورژن
 
 
 ;Processor architecture
-Processor architecture
+پراسیسر تعمیر
 
 
 ;The date this version was first used with this installation profile
@@ -299,71 +299,71 @@ Whether this add-on was installed by the user or automatically by another applic
 
 
 ;Whether this add-on has native code.
-Whether this add-on has native code.
+اس اضافہ پر آ کوڈ ملتی ہیں.
 
 
 ;The identifier of this add-on as defined by the add-on developer
-The identifier of this add-on as defined by the add-on developer
+شناخت اس طور پر شامل کریں پر ڈویلپر کی طرف سے وضاحت اضافہ
 
 
 ;The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
-The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
+سب سے زیادہ حالیہ تاریخ اس اضافہ پر نصب کیا گیا تھا (شامل پر رکھا نہیں ہے ایک انسٹال کے بارے میں پچھلے معلومات).
 
 
 ;The number of searches performed with this search engine from this part of the UI
-The number of searches performed with this search engine from this part of the UI
+تلاش کی تعداد UI کے اس حصے سے اس تلاش کے انجن کے ساتھ کارکردگی کا مظاہرہ کیا
 
 
 ;Whether this add-on was installed in the application directory or profile directory
-Whether this add-on was installed in the application directory or profile directory
+اس اضافہ پر ایپلیکیشن ڈائریکٹری یا پروفائل ڈائریکٹری میں نصب کیا گیا تھا یا نہیں
 
 
 ;Whether this add-on is an extension or a plug-in
-Whether this add-on is an extension or a plug-in
+اس اضافہ پر توسیع یا پلگ ان ہے کہ
 
 
 ;The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
-The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
+اس اضافہ پر اپ ڈیٹ کیا گیا سب سے زیادہ حالیہ تاریخ (شامل پر رکھا نہیں ہے، ایک انسٹال کے بارے میں پچھلے معلومات).
 
 
 ;<var>True</var> if the user manually disabled the add-on
-<var>True</var> if the user manually disabled the add-on
+صارف دستی طور پر غیر فعال کر دیا <var> یہ سچ ہے </ متغیر> تو اضافہ پر
 
 
 ;The current version of this add-on
-The current version of this add-on
+اس اضافہ پر کا حالیہ ورژن
 
 
 ;How long in milliseconds it took during startup for the application to render the UI and display the window
-How long in milliseconds it took during startup for the application to render the UI and display the window
+milliseconds میں UI کے رینڈر اور کھڑکی ظاہر کرنے کے لئے درخواست کے لئے سٹارٹاپ کے دوران لیا کب تک
 
 
 ;How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
-How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
+milliseconds میں لائبریریوں لوڈ اور بنیادی ابتدا کاری ختم کرنے کے لئے درخواست کے لئے سٹارٹاپ کے دوران لیا کب تک
 
 
 ;How long in milliseconds it took during startup for the application to restore tabs from the previous session
-How long in milliseconds it took during startup for the application to restore tabs from the previous session
+milliseconds میں گزشتہ سیشن سے ٹیبز بحال کرنے کے لئے درخواست کے لئے سٹارٹاپ کے دوران لیا کب تک
 
 
 ;The number of times the application was run and not cleanly shut down.
-The number of times the application was run and not cleanly shut down.
+اوقات کی تعداد میں درخواست کو چلانے اور cleanly کو بند نہیں کیا گیا تھا.
 
 
 ;The time in seconds that the aborted sessions were not idle
-The time in seconds that the aborted sessions were not idle
+اسقاط حمل سیشن بیکار نہیں تھے کہ سیکنڈ میں وقت
 
 
 ;The time in seconds that the aborted sessions were running
-The time in seconds that the aborted sessions were running
+اسقاط حمل سیشن چل رہا تھا کہ سیکنڈ میں وقت
 
 
 ;The number of days since this application profile directory was created
-The number of days since this application profile directory was created
+اس درخواست پروفائل ڈائریکٹری کے بعد دنوں کی تعداد میں تشکیل دے دیا گیا
 
 
 ;The number of times the application was run and cleanly shut down.
-The number of times the application was run and cleanly shut down.
+اوقات کی تعداد میں درخواست کو چلانے اور cleanly کو بند کیا گیا تھا.
 
 
 ;The time in seconds that the completed sessions were not idle
@@ -375,56 +375,56 @@ The time in seconds that the completed sessions were running
 
 
 ;Total number of crashes that were recorded but not yet submitted
-Total number of crashes that were recorded but not yet submitted
+ کریشیس کی کل تعداد جو کی ریکارڈ کی لیکن ابھی تک پیش نہیں کی گیی- 
 
 
 ;Total number of crashes that have been submitted
-Total number of crashes that have been submitted
+پیش کیا گیا ہے گر کر تباہ کی کل تعداد
 
 
 ;Time in seconds the app has not been idle
-Time in seconds the app has not been idle
+سیکنڈ میں وقت اے پی پی بیکار نہیں ہے
 
 
 ;Time in seconds since the app was last started
-Time in seconds since the app was last started
+اے پی پی سے سیکنڈوں میں آخری وقت شروع کیا گیا تھا
 
 
 ;Total number of bookmarks
-Total number of bookmarks
+بک مارکس کی کل تعداد
 
 
 ;Total number of pages listed in the history
-Total number of pages listed in the history
+تاریخ میں درج صفحات کی کل تعداد
 
 
 ;How long in minutes the current session has been running
-How long in minutes the current session has been running
+منٹ میں موجودہ سیشن چل رہا ہے کیا گیا ہے کتنی دیر تک
 
 
 ;Welcome to your Firefox Health Report
-Welcome to your Firefox Health Report
+اپنے فائر فاکس صحت کی رپورٹ میں خوش آمدید
 
 
 ;Welcome!
-Welcome!
+خوش آمدید!
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
-Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
+فائر فاکس صحت کی رپورٹ سے آپ اپنے فائر فاکس کارکردگی کا مظاہرہ کر اور کیا تم اس کو بہتر بنانے کے کر سکتے ہیں ہے کس طرح پتہ دیتا ہے.
 
 
 ;See My Report
-See My Report
+میری رپورٹ دیکھو
 
 
 ;Time (in seconds)
-Time (in seconds)
+وقت (in seconds)
 
 
 ;Show Statistics
-Show Statistics
+دکھائیں شماریات
 
 
 ;Privacy Policy
-Privacy Policy
+نجی نوعیت
