@@ -1,433 +1,430 @@
 ;Firefox Health Report
-Firefox Health Report
+Firefox Health Report {ok}
 
 
 ;Raw Data
-Raw Data
+Bayhaya ganey
 
 
 ;Get insights and performance information about your version of Firefox.
-Get insights and performance information about your version of Firefox.
+Fahami nda goyteeri alhabar caw war Firefox dumoo ga.
 
 
 ;Learn more...
-Learn more...
+Bay ka tonton…
 
 
 ;Data Sharing
-Data Sharing
+Bayhaya žemnayan
 
 
 ;ON
-ON
+TUN
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
-You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
+War suuba ka bayhaya toonandiyan kayandi Mozilla ga, amma hala sohõ war ga dii taka kaŋ nda war ceecikaa goo ma goy.
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
-Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
+War baani tammaasa (Health Report) bayhayey ga tuusandi ka hun Mozilla ceecikey ga. Caw ka tonton ir <a href="%(privacy_url)s">sutura laadaa</a> ra.
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
-You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
+War suuba ka war bayhayey žemna nda Mozilla waati ka kaa waati. Foo nda goy nda war faaba ir misoo ra, Interneti ma boori hiino woo še.
 
 
 ;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
-Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
+Guna taka kaŋ nd'ir ga war bayhayey jeere ir <a href="%(privacy_url)s">sutura laadaa</a> ra.
 
 
 ;Vital Stats
-Vital Stats
+Hunayan tammaasa
 
 
 ;version
-version
+dumi
 
 
 ;time open
-time open
+waati feeri
 
 
 ;last crash
-last crash
+kaŋyan koraa
 
 
 ;bookmarks
-bookmarks
+doo-šilbawey
 
 
 ;This Month
-This Month
+Handoo woo
 
 
 ;crashes
-crashes
+kaŋyaney
 
 
 ;Add-ons
-Add-ons
+Tontoney
 
 
 ;View List
-View List
+Maašeede guna
 
 
 ;enabled
-enabled
+tunante
 
 
 ;disabled
-disabled
+kayante
 
 
 ;Plugins
-Plugins
+Sukarey
 
 
 ;Tips
-Tips
+Carmay
 
 
 ;Wear and Tear
-Wear and Tear
+Žeenay
 
 
 ;It looks like your browser has crashed a number of times recently. To learn more:
-It looks like your browser has crashed a number of times recently. To learn more:
+A ga hima kaŋ war ceecikaa kaŋ cee booboyaŋ jirbi korawey ra. Guna ka boori:
 
 
 ;OFF
-OFF
+BUU
 
 
 ;Visit our <a href="%(sumo_url)s">support website</a>
-Visit our <a href="%(sumo_url)s">support website</a>
+Ir <a href="%(sumo_url)s">Interneti nungoo</a> guna
 
 
 ;View more <a href="%(details_url)s">detailed information</a>
-View more <a href="%(details_url)s">detailed information</a>
+Guna <a href="%(details_url)s">alhabar kukey</a> ka tonton 
 
 
 ;pages visited
-pages visited
+moo dirantey
 
 
 ;Your browser seems to be running slower than usual. To learn more:
-Your browser seems to be running slower than usual. To learn more:
+A ga hima kaŋ war ceecikaa cewoo ga yay ka bisa hankul. Guna ka boori:
 
 
 ;You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
-You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
+War ga hin ka dii alhabar kaana nda šifante waati kul kaŋ war ga goy nda war ceecikaa ka tonton. Ɲeli ka dii jirbiiye hinka korawey ka šintin ka tammaasawey maate.
 
 
 ;Startup Time by Day
-Startup Time by Day
+Tunandiri waati zaari ra
 
 
 ;Graph:
-Graph:
+Bii:
 
 
 ;Average
-Average
+Sasawa
 
 
 ;All
-All
+Ikul
 
 
 ;Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
-Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
+Tunandi taaga waati ga tabatandi taka kaŋ nda war Firefox dumoo ga goy. Yamma, cahãri waatey (sanda waati duura) ga goy henno šilbay.
 
 
 ;Data Collected
-Data Collected
+Bayhayey margantey
 
 
 ;Glossary
-Glossary
+Maanawey
 
 
 ;What the Firefox Health Report Measures
-What the Firefox Health Report Measures
+Woo kaŋ Firefox Health Report g'a neeši
 
 
 ;The Firefox Health Report (FHR) has 4 categories of metrics:
-The Firefox Health Report (FHR) has 4 categories of metrics:
+Firefox Health Report (FHR) goo nda neešiyan kuray 4:
 
 
 ;Configuration
-Configuration
+Hanseyan
 
 
 ;Device hardware, operating system, Firefox version
-Device hardware, operating system, Firefox version
+Jinay šenda, goyandi dabariɲaa, Firefox dumi
 
 
 ;Customizations
-Customizations
+Boŋše hanseyaney
 
 
 ;Add-ons, count and type
-Add-ons, count and type
+Tontoni, hinna nda dumi
 
 
 ;Performance
-Performance
+Teeyan sahã
 
 
 ;Timing of browser events, rendering, session restores
-Timing of browser events, rendering, session restores
+Ceecikaw teera waati diiyan, bii williyan, goywaati yeetiyan 
 
 
 ;Length of session, how old a profile is, count of crashes, count of pages
-Length of session, how old a profile is, count of crashes, count of pages
+Goywaati kuuyan, alhaali žeenaytaray, kaŋyan hinnawey, moo hinnawey
 
 
 ;Detailed Description
-Detailed Description
+Šilbayyan kuku
 
 
 ;Metric
-Metric
+Meetar bande
 
 
 ;Description
-Description
+Šilbayyan
 
 
 ;Binary interface for XPCOM
-Binary interface for XPCOM
+Cere-hinka dii-feddi XPCOM še
 
 
 ;Identifier for this build of the application based on the date the build was started
-Identifier for this build of the application based on the date the build was started
+Porogaramoo cinaroo woo taamansakaa ga goro cinaroo šintinyan hanoo boŋ
 
 
 ;Operating System for which this build was configured
-Operating System for which this build was configured
+Goyandi dabariɲaa n'ka hansandi cinaroro woo še
 
 
 ;Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
-Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
+Taamansakaw goo goy ra porogaramoo žemnari tanaa še. A ga hun <var>distribution.id</var> ibaayoo ra
 
 
 ;Version of the distribution, taken from the <var>distribution.version</var> preference
-Version of the distribution, taken from the <var>distribution.version</var> preference
+Žemnari dumoo, kaŋ hun <var>distribution.version</var> ibaayoo ra
 
 
 ;The version number of any Mozilla hotfix applied to the application
-The version number of any Mozilla hotfix applied to the application
+Mozilla hansari dumi kul hinna kaŋ kanandi porogaramoo bande
 
 
 ;Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
-Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
+Taamansakaw follokaa kaŋ ga cebe kaŋ Firefox wala Thunderbird, wala tana no. Affollokaa da porogaram kul sinjarey še haya kul kaŋ ti <var>appName</var> fellaa
 
 
 ;The configured name of the application (Firefox/Aurora/Nightly for instance)
-The configured name of the application (Firefox/Aurora/Nightly for instance)
+Porogaramoo maaɲoo kaŋ tabatandi (sanda Firefox/Aurora/Nightly)
 
 
 ;The channel this installation checks for application updates (nightly/aurora/beta/release)
-The channel this installation checks for application updates (nightly/aurora/beta/release)
+Fansoo kaŋ sinjaroo woo g'a tam ka porogaram taagandirey še (nightly/aurora/beta/release)
 
 
 ;The name of the company/provider who built this version
-The name of the company/provider who built this version
+Konpaɲaa/maamalakaa kaŋ na dumoo woo cin maaɲoo
 
 
 ;The current version of the product
-The current version of the product
+Jinaa sohõda dumoo
 
 
 ;Number of processor cores
-Number of processor cores
+Goy-lakkal bine hinnawey
 
 
 ;Whether the application is currently configured to be the default browser for the operating system
-Whether the application is currently configured to be the default browser for the operating system
+Wala nda porogaramoo goo ma hansandi sohõda ka tee war še tilasu ceecikaw goyandi dabariɲaŋoo še
 
 
 ;Locale currently being used
-Locale currently being used
+Šenni nungoo goo goy ra sohõda
 
 
 ;Amount of RAM in megabytes
-Amount of RAM in megabytes
+RAM dimma cebsumiliyon ra
 
 
 ;Currently running Operating System (kernel) name
-Currently running Operating System (kernel) name
+Goo ma dira dabariɲaa (OS linji) maaɲoo ga
 
 
 ;Currently running Operating System (kernel) version
-Currently running Operating System (kernel) version
+Goo ma dira goyandi dabariɲaa (OS linji) dumoo ga
 
 
 ;The build identifier of the Gecko platform code
-The build identifier of the Gecko platform code
+Gecko goydaari ašariyaa cinari taamansakaa
 
 
 ;The version of the Gecko platform code
-The version of the Gecko platform code
+Gecko goydaari ašariyaa dumoo
 
 
 ;Processor architecture
-Processor architecture
+goy-lakkal cinari-gagaaru
 
 
 ;The date this version was first used with this installation profile
-The date this version was first used with this installation profile
+Dumoo woo hanoo goyandi cee jinaa nda sinjiyan alhaaloo woo
 
 
 ;An application version which has been used with this installation profile
-An application version which has been used with this installation profile
+Porogaram dumi kaŋ bay ga goyandi nda sinjiyan alhaaloo woo
 
 
 ;The number of add-ons of this type that existed in the profile on this date
-The number of add-ons of this type that existed in the profile on this date
+Tontoni dumoo woo hinnaa kab bay ka bara alhaaloo ra hanoo woo še
 
 
 ;<var>True</var> if the application automatically disabled the add-on
-<var>True</var> if the application automatically disabled the add-on
+<var>True</var> nda porogaramoo na tontonoo kayandi nga boŋ še
 
 
 ;Whether this add-on was installed by the user or automatically by another application
-Whether this add-on was installed by the user or automatically by another application
+Wala nda goykaa na tontonoo woo kayandi or porogaramoo tana k'a tee nga boŋ še 
 
 
 ;Whether this add-on has native code.
-Whether this add-on has native code.
+Wala nda tontonoo woo goo nda aššil ašariya.
 
 
 ;The identifier of this add-on as defined by the add-on developer
-The identifier of this add-on as defined by the add-on developer
+Tontonoo woo taamansakaa taka kaŋ nda cinakaa n'a tabatandi
 
 
 ;The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
-The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
+Han kul kokorantaa kaŋ ga tontonoo woo sinjandi (zahõ alhabar ši gaabundi tontoni dogante še).
 
 
 ;The number of searches performed with this search engine from this part of the UI
-The number of searches performed with this search engine from this part of the UI
+Ceeciyan hinnawey kaŋyaŋ tee nda ceecijinaa woo ka hun goykaw tammaasaa ceraa woo ga
 
 
 ;Whether this add-on was installed in the application directory or profile directory
-Whether this add-on was installed in the application directory or profile directory
+Wala nda tontonoo woo sinjandi porogaramoo fooloɲaa ra wala alhaali fooloɲaa ra
 
 
 ;Whether this add-on is an extension or a plug-in
-Whether this add-on is an extension or a plug-in
+Wala nda tontonoo woo ti dobu wala sukari foo
 
 
 ;The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
-The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
+Han kokorantaa kaŋ tontonoo woo taagandi (alhabar bisante tontoni doganta ga ši gaabundi).
 
 
 ;<var>True</var> if the user manually disabled the add-on
-<var>True</var> if the user manually disabled the add-on
+<var>True</var> nda goykaa n' ka hawandi ka tontonoo kayandi
 
 
 ;The current version of this add-on
-The current version of this add-on
+Tontonoo woo sohõda dumoo
 
 
 ;How long in milliseconds it took during startup for the application to render the UI and display the window
-How long in milliseconds it took during startup for the application to render the UI and display the window
+Milisegondu ra dimma kaŋ ra porogaramoo tunandi ga goykaw diidogoo bangandi nda ka zanfunoo cebe
 
 
 ;How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
-How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
+Milisegondu ra dimma kaŋ ra porogaramoo tunandi ga tiirahugey zumandi nda šintinyan jinaa benandi
 
 
 ;How long in milliseconds it took during startup for the application to restore tabs from the previous session
-How long in milliseconds it took during startup for the application to restore tabs from the previous session
+Milisegondu ra dimma kaŋ ra porogaramoo ga nor lokey yeeti ka hun goywaati bisantaa ra
 
 
 ;The number of times the application was run and not cleanly shut down.
-The number of times the application was run and not cleanly shut down.
+Cee hinnaa kaŋ ra porogaramoo tunandi nd'a mana daaba ka boori.
 
 
 ;The time in seconds that the aborted sessions were not idle
-The time in seconds that the aborted sessions were not idle
+Segondu ra dimmaa kaŋ ra goywaati munantey cindi ka dira
 
 
 ;The time in seconds that the aborted sessions were running
-The time in seconds that the aborted sessions were running
+Segondu ra dimmaa kaŋ ra goywaati munantey cindi ka kay
 
 
 ;The number of days since this application profile directory was created
-The number of days since this application profile directory was created
+Jirbi hinnaa za porogaram alhaali fooloɲaŋoo woo teeyandi
 
 
 ;The number of times the application was run and cleanly shut down.
-The number of times the application was run and cleanly shut down.
+Cee hinna kaŋ porogaramoo dirandi nd'a daaba ka boori.
 
 
 ;The time in seconds that the completed sessions were not idle
-The time in seconds that the completed sessions were not idle
+Segondu ra dimmaa kaŋ ra goywaati timmantey cindi ka dira
 
 
 ;The time in seconds that the completed sessions were running
-The time in seconds that the completed sessions were running
+Segondu ra waatoo kaŋ ra goywaati timmantey cindi ka dira
 
 
 ;Total number of crashes that were recorded but not yet submitted
-Total number of crashes that were recorded but not yet submitted
+Kaŋyaney kul kaŋ jisandi amm'i mama sanbandi hinnaa
 
 
 ;Total number of crashes that have been submitted
-Total number of crashes that have been submitted
+Kaŋyaney kul kaŋ sanbandi hinnaa
 
 
 ;Time in seconds the app has not been idle
-Time in seconds the app has not been idle
+Segondu ra waatoo kaŋ porogaramizoo cindi ka kay
 
 
 ;Time in seconds since the app was last started
-Time in seconds since the app was last started
+Segondu ra waatoo za porogaramozoo tun cee koraa
 
 
 ;Total number of bookmarks
-Total number of bookmarks
+Doo-šilbawey hinnaa kul
 
 
 ;Total number of pages listed in the history
-Total number of pages listed in the history
+Moo hantumantey kul hinnaa taarikoo ra
 
 
 ;How long in minutes the current session has been running
-How long in minutes the current session has been running
+Miniti ra waatikuuyan za sohõ goywaatoo goo ma dira 
 
 
 ;Welcome to your Firefox Health Report
-Welcome to your Firefox Health Report
+Kubayni Firefox baani bayrandi (FHR) do
 
 
 ;Welcome!
-Welcome!
+Kubayni!
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
-Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
+Firefox baani bayrandi (FHR) ga war cebe takaa kaŋ nda Firefox goo ma goy nda haya kaŋ war ga hin k'a tee ka boryandi ka tonton.
 
 
 ;See My Report
-See My Report
+Ay bayrandoo guna
 
 
 ;Time (in seconds)
-Time (in seconds)
+Waati (segondu ra)
 
 
 ;Show Statistics
 Teera hinnawey cebe
 
 
-
-
 ;Privacy Policy
 Sutura laada
-
