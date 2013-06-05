@@ -23,7 +23,7 @@ ACTIVAR
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
-Elegió dejar de compartir información con Mozilla, pero puede seguir viendo el rendimiento de su navegador.
+Eligió dejar de compartir información con Mozilla, pero puede seguir viendo el rendimiento de su navegador.
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
@@ -31,7 +31,7 @@ La información de los Informes de salud serán borrados de los servidores de Mo
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
-Elegió compartir sus datos con Mozilla cada cierto tiempo. Gracias por ser parte de nuestra misión de crear un futuro más brillantes para la Web.
+Eligió compartir sus datos con Mozilla cada cierto tiempo. Gracias por ser parte de nuestra misión de crear un futuro más brillantes para la Web.
 
 
 ;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
@@ -75,11 +75,11 @@ Ver lista
 
 
 ;enabled
-habilitado
+habilitado(s)
 
 
 ;disabled
-deshabilitado
+deshabilitado(s)
 
 
 ;Plugins
@@ -139,7 +139,7 @@ Todos
 
 
 ;Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
-El tiempo de inicio ayuda a determinar que tan buen rendimiento tiene su versión de Firefox. En general, tiempos más rápidos (p.ej. menos tiempo) indican un mejor rendimiento.
+El tiempo de inicio ayuda a determinar qué tan buen rendimiento tiene su versión de Firefox. En general, tiempoS más rápidos (esto es, menos tiempo) indican un mejor rendimiento.
 
 
 ;Data Collected
