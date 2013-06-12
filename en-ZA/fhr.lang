@@ -103,7 +103,7 @@ OFF {ok}
 
 
 ;Visit our <a href="%(sumo_url)s">support website</a>
-Visit our <a href="%(sumo_url)s">support website</a> {ok}
+Visit our <a href="%(sumo_url)s">support web site</a>
 
 
 ;View more <a href="%(details_url)s">detailed information</a>
@@ -416,3 +416,15 @@ Firefox Health Report lets you know how your Firefox is performing and what you 
 
 ;See My Report
 See My Report {ok}
+
+
+;Time (in seconds)
+Time (in seconds)
+
+
+;Show Statistics
+Show Statistics
+
+
+;Privacy Policy
+Privacy Policy
