@@ -154,6 +154,10 @@ Glossari
 De qué mesura lo bilanç de santat de Firefox
 
 
+;The Firefox Health Report (FHR) has 4 categories of metrics:
+The Firefox Health Report (FHR) has 4 categories of metrics:
+
+
 ;The Firefox Health Report (FHR) has 5 categories of metrics:
 Lo «&nbsp;Bilanç de Santé de Firefox&nbsp;» (FHR en anglés) compòrta 5 metricas&nbsp;:
 
@@ -326,8 +330,8 @@ Lo modul es una extension o un plugin
 La data de mesa a jorn la mai recenta per aqueste modul (las precedentas informacions a prepaus d'un modul desinstallat son pas conservadas).
 
 
-;True if the user manually disabled the add-on
-True se l'utilizaire a desactivat manualament lo modul
+;<var>True</var> if the user manually disabled the add-on
+<var>True</var> se l'utilizaire a desactivat manualament lo modul
 
 
 ;The current version of this add-on
@@ -416,3 +420,15 @@ Lo Bilanç de Santat de Firefox vos permet de melhor comprene las performàncias
 
 ;See My Report
 Afichar mon rapòrt
+
+
+;Time (in seconds)
+Time (in seconds)
+
+
+;Show Statistics
+Show Statistics
+
+
+;Privacy Policy
+Privacy Policy
