@@ -1,425 +1,426 @@
+
 ;Firefox Health Report
-Firefox Health Report
+דוח התקינות של Firefox
 
 
 ;Raw Data
-Raw Data
+נתונים גולמיים
 
 
 ;Get insights and performance information about your version of Firefox.
-Get insights and performance information about your version of Firefox.
+קבלת תובנות ונתונים על הביצועים של גרסת ה־Firefox שברשותך.
 
 
 ;Learn more...
-Learn more...
+מידע נוסף...
 
 
 ;Data Sharing
-Data Sharing
+שיתוף נתונים
 
 
 ;ON
-ON
+פעיל
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
-You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
+בחרת להפסיק לשתף נתונים עם Mozilla, אך עדיין תהיה לך אפשרות לצפות בביצועי הדפדפן שלך.
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
-Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
+נתוני דוח התקינות שלך יוסרו גם הם מהשרת של Mozilla. ניתן למצוא מידע נוסף ב<a href="%(privacy_url)s">מדיניות הפרטיות</a> שלנו.
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
-You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
+בחרת לשתף את הנתונים שלך עם Mozilla מדי פעם בפעם. תודה לך על שבחרת לקחת חלק במשימה שלנו לבנות עתיד טוב יותר לרשת האינטרנט.
 
 
 ;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
-Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
+ניתן למצוא מידע נוסף על אופן הטיפול שלנו בנתונים שלך ב<a href="%(privacy_url)s">מדיניות הפרטיות.</a>
 
 
 ;Vital Stats
-Vital Stats
+סטטיסטיקת חיוניות
 
 
 ;version
-version
+גרסה
 
 
 ;time open
-time open
+זמן פתוח
 
 
 ;last crash
-last crash
+קריסה אחרונה
 
 
 ;bookmarks
-bookmarks
+סימניות
 
 
 ;This Month
-This Month
+החודש
 
 
 ;crashes
-crashes
+קריסות
 
 
 ;Add-ons
-Add-ons
+תוספות
 
 
 ;View List
-View List
+צפייה ברשימה
 
 
 ;enabled
-enabled
+פעיל
 
 
 ;disabled
-disabled
+מנוטרל
 
 
 ;Plugins
-Plugins
+תוספים חיצוניים
 
 
 ;Tips
-Tips
+עצות
 
 
 ;Wear and Tear
-Wear and Tear
+שחיקה עם הזמן
 
 
 ;It looks like your browser has crashed a number of times recently. To learn more:
-It looks like your browser has crashed a number of times recently. To learn more:
+נראה כי הדפדפן שלך קרס מספר פעמים לאחרונה. למידע נוסף:
 
 
 ;OFF
-OFF
+כבוי
 
 
 ;Visit our <a href="%(sumo_url)s">support website</a>
-Visit our <a href="%(sumo_url)s">support website</a>
+כדאי לבקר ב<a href="%(sumo_url)s">אתר התמיכה</a> שלנו
 
 
 ;View more <a href="%(details_url)s">detailed information</a>
-View more <a href="%(details_url)s">detailed information</a>
+צפייה ב<a href="%(details_url)s">נתונים מפורטים</a> נוספים
 
 
 ;pages visited
-pages visited
+עמודים שביקרת בהם
 
 
 ;Your browser seems to be running slower than usual. To learn more:
-Your browser seems to be running slower than usual. To learn more:
+נראה כי הדפדפן שלך פועל לאט מן הרגיל. למידע נוסף:
 
 
 ;You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
-You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
+ניתן לראות פרטים מעניינים נוספים ככל שהשימוש בדפדפן גובר. כדאי לבקר כאן שוב בעוד כמה שבועות כדי להתחיל לצפות במגמות המשתנות.
 
 
 ;Startup Time by Day
-Startup Time by Day
+זמן ההפעלה לפי ימים
 
 
 ;Graph:
-Graph:
+תרשים:
 
 
 ;Average
-Average
+ממוצע
 
 
 ;All
-All
+הכול
 
 
 ;Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
-Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
+זמן העלייה מסייע לזהות את טיב ביצועי ה־Firefox שלך, זמנים קצרים יותר (פחות זמן) מציינים ביצועים טובים יותר.
 
 
 ;Data Collected
-Data Collected
+נתונים שנאספו
 
 
 ;Glossary
-Glossary
+מונחים
 
 
 ;What the Firefox Health Report Measures
-What the Firefox Health Report Measures
+מה מודד דוח התקינות של Firefox
 
 
 ;The Firefox Health Report (FHR) has 4 categories of metrics:
-The Firefox Health Report (FHR) has 4 categories of metrics:
+לדוח התקינות של Firefox‏ (FHR) יש 4 קטגוריות מדידה:
 
 
 ;Configuration
-Configuration
+הגדרות
 
 
 ;Device hardware, operating system, Firefox version
-Device hardware, operating system, Firefox version
+חומרת ההתקן, מערכת ההפעלה, גרסת ה־Firefox
 
 
 ;Customizations
-Customizations
+התאמות אישיות
 
 
 ;Add-ons, count and type
-Add-ons, count and type
+תוספות, ספירה וסוג
 
 
 ;Performance
-Performance
+ביצועים
 
 
 ;Timing of browser events, rendering, session restores
-Timing of browser events, rendering, session restores
+תזמון אירועי דפדפן, עיבוד ושחזור הפעלות
 
 
 ;Length of session, how old a profile is, count of crashes, count of pages
-Length of session, how old a profile is, count of crashes, count of pages
+משך ההפעלה, גיל הפרופיל, מספר הקריסות, מספר העמודים
 
 
 ;Detailed Description
-Detailed Description
+תיאור מפורט
 
 
 ;Metric
-Metric
+מדידה
 
 
 ;Description
-Description
+תיאור
 
 
 ;Binary interface for XPCOM
-Binary interface for XPCOM
+ממשק בינרי עבור XPCOM
 
 
 ;Identifier for this build of the application based on the date the build was started
-Identifier for this build of the application based on the date the build was started
+מזהה עבור בנייה זו של היישום על בסיס התאריך בו החלה הבנייה
 
 
 ;Operating System for which this build was configured
-Operating System for which this build was configured
+מערכת ההפעלה שעבורה הוגדרה הבנייה הזאת
 
 
 ;Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
-Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
+מזהה עבור ההפצה המיועדת של היישום בשימוש. נלקח מההעדפה <var>distribution.id</var>
 
 
 ;Version of the distribution, taken from the <var>distribution.version</var> preference
-Version of the distribution, taken from the <var>distribution.version</var> preference
+גרסת ההפצה, נלקח מההעדפה <var>distribution.version</var>
 
 
 ;The version number of any Mozilla hotfix applied to the application
-The version number of any Mozilla hotfix applied to the application
+מספר הגרסה של כל תיקון מבית Mozilla שחל על היישום
 
 
 ;Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
-Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
+מזהה ייחודי של היישום שמציין האם זה Firefox או Thunderbird וכו׳. כנ״ל באשר לכל ההתקנות של היישום ללא תלות בערך של <var>appName</var>
 
 
 ;The configured name of the application (Firefox/Aurora/Nightly for instance)
-The configured name of the application (Firefox/Aurora/Nightly for instance)
+השם המוגדר עבור היישום (לדוגמה Firefox/Aurora/Nightly)
 
 
 ;The channel this installation checks for application updates (nightly/aurora/beta/release)
-The channel this installation checks for application updates (nightly/aurora/beta/release)
+הערוץ שבו היישום הנוכחי מחפש עדכונים (nightly/aurora/beta/release)
 
 
 ;The name of the company/provider who built this version
-The name of the company/provider who built this version
+שם החברה/ספק שבנו את הגרסה הזאת
 
 
 ;The current version of the product
-The current version of the product
+הגרסה הנוכחית של המוצר
 
 
 ;Number of processor cores
-Number of processor cores
+מספר ליבות המעבד
 
 
 ;Whether the application is currently configured to be the default browser for the operating system
-Whether the application is currently configured to be the default browser for the operating system
+האם היישום מוגדר כרגע בתור דפדפן בררת המחדל של המערכת
 
 
 ;Locale currently being used
-Locale currently being used
+השפה שבשימוש כרגע
 
 
 ;Amount of RAM in megabytes
-Amount of RAM in megabytes
+כמות הזיכרון במגה־בתים
 
 
 ;Currently running Operating System (kernel) name
-Currently running Operating System (kernel) name
+שם מערכת ההפעלה (ליבה) הפעילה כרגע
 
 
 ;Currently running Operating System (kernel) version
-Currently running Operating System (kernel) version
+גרסת מערכת ההפעלה (ליבה) הפעילה כרגע
 
 
 ;The build identifier of the Gecko platform code
-The build identifier of the Gecko platform code
+מזהה הבנייה של קוד פלטפורמת ה־Gecko
 
 
 ;The version of the Gecko platform code
-The version of the Gecko platform code
+גרסת קוד פלטפורמת ה־Gecko
 
 
 ;Processor architecture
-Processor architecture
+ארכיטקטורת המעבד
 
 
 ;The date this version was first used with this installation profile
-The date this version was first used with this installation profile
+התאריך שבו נעשה שימוש לראשונה על ידי גרסה זו בפרופיל התקנה זה
 
 
 ;An application version which has been used with this installation profile
-An application version which has been used with this installation profile
+גרסת היישום בו נעשה שימוש עם פרופיל התקנה זה
 
 
 ;The number of add-ons of this type that existed in the profile on this date
-The number of add-ons of this type that existed in the profile on this date
+מספר התוספות מסוג זה שהיו קיימות בפרופיל בתאריך הזה
 
 
 ;<var>True</var> if the application automatically disabled the add-on
-<var>True</var> if the application automatically disabled the add-on
+<var>אמת/True</var> אם היישום נטרל את התוספת אוטומטית
 
 
 ;Whether this add-on was installed by the user or automatically by another application
-Whether this add-on was installed by the user or automatically by another application
+האם תוספת זו הותקנה על ידי המשתמש או על ידי יישום אחר באופן אוטומטי
 
 
 ;Whether this add-on has native code.
-Whether this add-on has native code.
+האם לתוספת זו יש קוד טבעי.
 
 
 ;The identifier of this add-on as defined by the add-on developer
-The identifier of this add-on as defined by the add-on developer
+המזהה של תוספת זו כדי שהוגדר על ידי מפתח התוספת
 
 
 ;The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
-The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
+התאריך העדכני ביותר בו הותקנה תוספת זו (פרטים קודמים ותוספת שהוסרה אינם נשמרים).
 
 
 ;The number of searches performed with this search engine from this part of the UI
-The number of searches performed with this search engine from this part of the UI
+מספר החיפושים שבוצעו עם מנוע חיפוש זה מהחלק הזה של ממשק המשתמש
 
 
 ;Whether this add-on was installed in the application directory or profile directory
-Whether this add-on was installed in the application directory or profile directory
+האם תוספת זו הותקנה בתיקיית היישום או בתיקיית הפרופיל
 
 
 ;Whether this add-on is an extension or a plug-in
-Whether this add-on is an extension or a plug-in
+האם מדובר בתוספת או בתוסף חיצוני
 
 
 ;The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
-The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
+תאריך העדכון האחרון של התוספת  (פרטים קודמים ותוספת שהוסרה אינם נשמרים).
 
 
 ;<var>True</var> if the user manually disabled the add-on
-<var>True</var> if the user manually disabled the add-on
+<var>אמת/True</var> אם המשתמש נטרל את התוספת באופן ידני
 
 
 ;The current version of this add-on
-The current version of this add-on
+הגרסה הנוכחית של תוספת זו
 
 
 ;How long in milliseconds it took during startup for the application to render the UI and display the window
-How long in milliseconds it took during startup for the application to render the UI and display the window
+כמה זמן באלפיות השנייה לקח ליישום לעבד את ממשק המשתמש ולהציג את החלון
 
 
 ;How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
-How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
+כמה זמן באלפיות השנייה לקח ליישום לטעון את הספריות ולסיים את הטעינה הראשונית בזמן העלייה
 
 
 ;How long in milliseconds it took during startup for the application to restore tabs from the previous session
-How long in milliseconds it took during startup for the application to restore tabs from the previous session
+כמה זמן באלפיות השנייה לקח ליישום לשחזר את הלשונית מההפעלה הקודמת בזמן העלייה
 
 
 ;The number of times the application was run and not cleanly shut down.
-The number of times the application was run and not cleanly shut down.
+כמה פעמים היישום הופעל ולא נסגר כראוי.
 
 
 ;The time in seconds that the aborted sessions were not idle
-The time in seconds that the aborted sessions were not idle
+כמה שניות הייתה פעילות בהפעלות שבוטלו
 
 
 ;The time in seconds that the aborted sessions were running
-The time in seconds that the aborted sessions were running
+זמן ההפעלה בשניות של ההפעלות שבוטלו
 
 
 ;The number of days since this application profile directory was created
-The number of days since this application profile directory was created
+מספר הימים מאז שתיקיית פרופיל היישום נוצרה
 
 
 ;The number of times the application was run and cleanly shut down.
-The number of times the application was run and cleanly shut down.
+כמה פעמים היישום הופעל ונסגר כראוי.
 
 
 ;The time in seconds that the completed sessions were not idle
-The time in seconds that the completed sessions were not idle
+זמן אי ההמתנה בשניות של ההפעלות שהושלמו
 
 
 ;The time in seconds that the completed sessions were running
-The time in seconds that the completed sessions were running
+זמן ההפעלה בשניות של ההפעלות שהושלמו
 
 
 ;Total number of crashes that were recorded but not yet submitted
-Total number of crashes that were recorded but not yet submitted
+סך כל מספר הקריסות שנשמרו אך לא נשלחו
 
 
 ;Total number of crashes that have been submitted
-Total number of crashes that have been submitted
+סך כל מספר הקריסות שנשלחו לבדיקה
 
 
 ;Time in seconds the app has not been idle
-Time in seconds the app has not been idle
+כמה שניות היישום לא היה בהמתנה
 
 
 ;Time in seconds since the app was last started
-Time in seconds since the app was last started
+כמה שניות מאז שהיישום הופעל לאחרונה
 
 
 ;Total number of bookmarks
-Total number of bookmarks
+סך כל כמות הסימניות
 
 
 ;Total number of pages listed in the history
-Total number of pages listed in the history
+סך כל כמות הדפים בהיסטורייה
 
 
 ;How long in minutes the current session has been running
-How long in minutes the current session has been running
+מה משך ההפעלה הנוכחית בדקות
 
 
 ;Welcome to your Firefox Health Report
-Welcome to your Firefox Health Report
+ברוך בואך לדוח התקינות של Firefox
 
 
 ;Welcome!
-Welcome!
+ברוך בואך!
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
-Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
+דוח התקינות של Firefox מאפשר לך לדעת כיצד ה־Firefox שלך מתפקד ומה עליך לעשות כדי לשפר זאת.
 
 
 ;See My Report
-See My Report
+הצגת הדוח שלי
 
 
 ;Time (in seconds)
-Time (in seconds)
+זמן (בשניות)
 
 
 ;Show Statistics
@@ -430,4 +431,3 @@ Time (in seconds)
 
 ;Privacy Policy
 מדיניות פרטיות
-
