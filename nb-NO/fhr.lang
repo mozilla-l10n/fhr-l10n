@@ -51,7 +51,7 @@ tid åpen
 
 
 ;last crash
-siste krasj
+forrige krasj
 
 
 ;bookmarks
@@ -75,11 +75,11 @@ Vis liste
 
 
 ;enabled
-påslått
+påslåtte
 
 
 ;disabled
-avslått
+avslåtte
 
 
 ;Plugins
