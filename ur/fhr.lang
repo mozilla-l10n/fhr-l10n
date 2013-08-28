@@ -440,7 +440,7 @@ Learn More&hellip;
 
 
 ;Tip
-Tip
+تجاویز
 
 
 ;Looks like your Firefox is brand new! Check back after using Firefox for a while.
@@ -456,7 +456,7 @@ Firefox Health Report records information about your browser and device. You can
 
 
 ;Device hardware, operating system, Firefox version.
-Device hardware, operating system, Firefox version.
+آلہ ہارڈ ویئر، آپریٹنگ سسٹم، فائر فاکس ورژن
 
 
 ;Extensions, plugins, and number of installed add-ons.
@@ -512,7 +512,7 @@ Application Version:
 
 
 ;The current version of the browser
-The current version of the browser
+مصنوعہ کا حالیہ ورژن
 
 
 ;Application Build ID:
@@ -685,5 +685,3 @@ Choose what I share
 
 ;You are currently not sharing your health report with Mozilla.
 You are currently not sharing your health report with Mozilla.
-
-
