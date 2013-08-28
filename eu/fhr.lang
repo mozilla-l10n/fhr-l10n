@@ -555,7 +555,7 @@ Androiden appBuildID-ren ordezko izena da.
 
 
 ;xpcomabi:
-xpcomabi:
+xpcomabi:{ok}
 
 
 ;The CPU architecture for which this application was built.
@@ -595,7 +595,7 @@ Android sistema eragilearen bertsioa.
 
 
 ;Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
-Firefoxek gehigarrien blokeo-zerrendetako emaitzak jasotzen dituen, gehigarri kaltegarriengandik babesteko. Balio lehenetsia: bai.
+Firefoxek gehigarrien blokeo-zerrendetako emaitzak jasotzen dituen, gehigarri kaltegarriengandik babesteko. Balio lehenetsia: GAITUTA.
 
 
 ;Telemetry Enabled:
@@ -603,7 +603,7 @@ Telemetria gaituta:
 
 
 ;Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
-Firefoxek erabilera-datu xehetuak bidaltzen dituen, garapena laguntzeko. Kanal gehienentzako balio lehenetsia: ez.
+Firefoxek erabilera-datu xehetuak bidaltzen dituen, garapena laguntzeko. Kanal gehienentzako balio lehenetsia: DESGAITUTA.
 
 
 ;Extension Count:
