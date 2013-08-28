@@ -432,7 +432,7 @@ Informativa sulla privacy
 
 # The following strings are used only in the Mobile version of about:healthreport (Firefox for Android)
 ;Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
-Analisi integrità di Firefox consente di ottimizzare Firefox e ci aiuta a costruire un browser migliore. I rapporti saranno piuttosto semplici all'inizio, ma continueranno ad evolversi e a crescere.
+Analisi integrità di Firefox consente di ottimizzare Firefox e ci permette di realizzare un browser migliore. I rapporti saranno piuttosto semplici all'inizio, ma continueranno a evolversi e a crescere.
 
 
 ;Learn More&hellip;
@@ -452,7 +452,7 @@ Metriche importanti
 
 
 ;Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
-Analisi integrità di Firefox raccoglie informazioni sul tuo browser e sul dispositivo. Puoi <a href="#raw" class="navigate">vedere le informazioni che raccogliamo.</a> Puoi anche vedere cosa condividi con Mozilla.
+Analisi integrità di Firefox raccoglie informazioni sul tuo browser e sul dispositivo. Puoi <a href="#raw" class="navigate">vedere le informazioni che raccogliamo</a> o vedere che cosa condividi con Mozilla.
 
 
 ;Device hardware, operating system, Firefox version.
@@ -460,11 +460,11 @@ Dispositivo hardware, sistema operativo, versione di Firefox.
 
 
 ;Extensions, plugins, and number of installed add-ons.
-Extensioni, plugin, e numero dei componenti aggiuntivi installati.
+Estensioni, plugin e numero dei componenti aggiuntivi installati.
 
 
 ;Key performance measures, such as launch speed.
-Misurazioni su prestazioni chiave, come la velocità di avvio.
+Misurazione delle prestazioni chiave, come la velocità di avvio.
 
 
 ;Browsing duration, install time, number of bookmarks and pages.
@@ -476,7 +476,7 @@ Pagina iniziale
 
 
 ;CPU Count:
-Conteggio CPU:
+Numero di CPU:
 
 
 ;The number of CPU cores reported by Android.
@@ -496,7 +496,7 @@ Nome dell'applicazione:
 
 
 ;The internal application name for the browser.
-Il nome dell'applicazione interna per il browser.
+Il nome interno dell'applicazione per il browser.
 
 
 ;Application ID:
@@ -524,11 +524,11 @@ Il timestamp interno della build.
 
 
 ;Update Channel:
-Canali di aggiornamento:
+Canale di aggiornamento:
 
 
 ;Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
-Firefox è distribuito attraverso canali: Nightly, il canale pre-release Aurora, una Beta stabile, e la release pubblica. Questo campo identifica il canale.
+Firefox è distribuito attraverso diversi canali: Nightly, il canale pre-release Aurora, una Beta stabile e la release pubblica. Questo campo identifica il canale.
 
 
 ;Vendor:
@@ -544,7 +544,7 @@ Versione della piattaforma:
 
 
 ;An internal version identifier. Typically the same as appVersion.
-Un identificativo interno della versione. Solitamente lo stesso di appVersion.
+Un identificativo interno della versione. Solitamente coincide con appVersion.
 
 
 ;Platform Build ID:
@@ -556,7 +556,7 @@ Su Android questo è un nome alternativo per appBuildID.
 
 
 ;xpcomabi:
-xpcomabi:
+xpcomabi: {ok}
 
 
 ;The CPU architecture for which this application was built.
@@ -564,7 +564,7 @@ L'architettura della CPU per la quale l'applicazione è stata creata.
 
 
 ;OS:
-OS:
+OS: {ok}
 
 
 ;The current operating system.
@@ -596,15 +596,15 @@ Revisione di Android.
 
 
 ;Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
-Firefox prleva i risultati del componente aggiuntivo blocklist per proteggere contro componenti aggiuntivi malevoli. Valore predefinito su attivato.
+Firefox preleva i risultati della blocklist per i componenti aggiuntivi per proteggere da componenti aggiuntivi malevoli. Il valore predefinito è 'attivo'.
 
 
 ;Telemetry Enabled:
-Telemetria abilitata:
+Telemetria attivata:
 
 
 ;Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
-Firefox segnali i dati sull'uso per aiutare con lo sviluppo. Valore predefinito su disattivato per la maggior parte dei canali.
+Se Firefox debba segnalare i dati sull'uso per contribuire allo sviluppo. Il valore predefinito è 'disattivato' per la maggior parte dei canali.
 
 
 ;Extension Count:
@@ -644,7 +644,7 @@ Conteggio ricerche:
 
 
 ;A count of how many searches you issued to each of Mozilla's partner providers.
-Un conteggio di quante ricerce sono state rilasciate a ciascun fornitore di partner di Mozilla.
+Un conteggio di quante ricerce sono state inviate a ciascun partner di ricerca di Mozilla.
 
 
 ;Sessions and Startup Times
@@ -652,7 +652,7 @@ Sessioni e tempi di avvio
 
 
 ;For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
-Per ogni sessione, Analisi integrità di Firefox registra, approssimativamente, il tempo di navigazione (espresso in secondi), e se la sessione è terminata normalmente oppure a causa di un crash. Comprende anche i tempi di avvio (espresso in millisecondi), se disponibili.
+Per ogni sessione Analisi integrità di Firefox registra, approssimativamente, il tempo di navigazione (espresso in secondi)  e se la sessione è terminata normalmente oppure a causa di un crash. Se disponibili comprende anche i tempi di avvio (espresso in millisecondi).
 
 
 ;Profile Creation:
@@ -660,7 +660,7 @@ Creazione profilo:
 
 
 ;The day on which your browser profile was created. Counted in days since January 1st 1970.
-Il giorno in cui il profilo del browser è stato creato. Conteggiato in giorni, a partire dal 1° Gennaio 1970.
+Il giorno in cui è stato creato il profilo del browser. Conteggiato in giorni, a partire dal 1° Gennaio 1970.
 
 
 ;Learn More
@@ -668,7 +668,7 @@ Ulteriori informazioni
 
 
 ;Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
-Analisi integrità di Firefox analizza le informazioni sulle prestazioni del browser, in modo da fornire consigli utili per ottenere il meglio da Firefox. Per maggiori informazioni su Analisi integrità di Firefox, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
+Analisi integrità di Firefox analizza le informazioni sulle prestazioni del browser, in modo da fornire consigli utili per ottenere il meglio da Firefox. Per maggiori informazioni su Analisi integrità di Firefox, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visita la sezione per il supporto a Mozilla.</a>
 
 
 ;For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.
