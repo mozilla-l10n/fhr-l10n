@@ -1,9 +1,9 @@
 ;Firefox Health Report
-Firefox Health Report
+Firefox туругун хобото
 
 
 ;Raw Data
-Raw Data
+Raw дааннай
 
 
 ;Get insights and performance information about your version of Firefox.
@@ -11,7 +11,7 @@ Get insights and performance information about your version of Firefox.
 
 
 ;Learn more...
-Learn more...
+Сиһилии...
 
 
 ;Data Sharing
@@ -19,11 +19,11 @@ Data Sharing
 
 
 ;ON
-ON
+ХОЛБОО
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
-You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
+Мозилланы кытта дааннай атастаһары тохтоттуҥ, ол эрэн син биир браузерыҥ тугу гынарын көрөр буолуоҥ.
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
@@ -31,7 +31,7 @@ Your Health Report data will also be removed from Mozilla's servers. Learn more 
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
-You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
+Кэмиттэн кэмигэр Мозилланы кытта дааннайдаргын атастаһыах буоллуҥ. Ситим кэскилин тупсарар үлэбитигэр кыттаргыттан үөрэбит уонна Эйиэхэ махтанабыт.
 
 
 ;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
@@ -43,71 +43,71 @@ Vital Stats
 
 
 ;version
-version
+барыл
 
 
 ;time open
-time open
+саҕаланыыта
 
 
 ;last crash
-last crash
+тиһэх алдьаныы
 
 
 ;bookmarks
-bookmarks
+кыбытык-бэлиэлэр
 
 
 ;This Month
-This Month
+Бу ыйдааҕы
 
 
 ;crashes
-crashes
+алдьаныы
 
 
 ;Add-ons
-Add-ons
+Эбиискэлэр
 
 
 ;View List
-View List
+Кэтиир тиһик
 
 
 ;enabled
-enabled
+холбоммут
 
 
 ;disabled
-disabled
+араарыллыбыт
 
 
 ;Plugins
-Plugins
+Плаагиннар
 
 
 ;Tips
-Tips
+Уһуктара
 
 
 ;Wear and Tear
-Wear and Tear
+Элэйии, алдьаныы
 
 
 ;It looks like your browser has crashed a number of times recently. To learn more:
-It looks like your browser has crashed a number of times recently. To learn more:
+Браузерыҥ кэнники кэмҥэ хаста да эмсэҕэлии сылдьыбыт ээ. Сиһилии:
 
 
 ;OFF
-OFF
+АРААР
 
 
 ;Visit our <a href="%(sumo_url)s">support website</a>
-Visit our <a href="%(sumo_url)s">support website</a>
+Visit our <a href="%(sumo_url)s">support web site</a>
 
 
 ;View more <a href="%(details_url)s">detailed information</a>
-View more <a href="%(details_url)s">detailed information</a>
+<a href="%(details_url)s">Сиһилии</a> көр
 
 
 ;pages visited
@@ -115,7 +115,7 @@ pages visited
 
 
 ;Your browser seems to be running slower than usual. To learn more:
-Your browser seems to be running slower than usual. To learn more:
+Браузерыҥ бытаарбыт ээ. Сиһилии:
 
 
 ;You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
@@ -123,7 +123,7 @@ You'll be able to see more interesting and detailed information the more you use
 
 
 ;Startup Time by Day
-Startup Time by Day
+Саҕаламмыт күнэ
 
 
 ;Graph:
@@ -131,11 +131,11 @@ Graph:
 
 
 ;Average
-Average
+Орто
 
 
 ;All
-All
+Бары
 
 
 ;Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
@@ -147,7 +147,7 @@ Data Collected
 
 
 ;Glossary
-Glossary
+Глоссарий
 
 
 ;What the Firefox Health Report Measures
@@ -159,15 +159,15 @@ The Firefox Health Report (FHR) has 4 categories of metrics:
 
 
 ;Configuration
-Configuration
+Конфигурацията
 
 
 ;Device hardware, operating system, Firefox version
-Device hardware, operating system, Firefox version
+Хард, операциялыыр систиэмэ, Firefox барыла
 
 
 ;Customizations
-Customizations
+Customisations
 
 
 ;Add-ons, count and type
@@ -175,7 +175,7 @@ Add-ons, count and type
 
 
 ;Performance
-Performance
+Үлэтин таһаарыыта
 
 
 ;Timing of browser events, rendering, session restores
@@ -187,7 +187,7 @@ Length of session, how old a profile is, count of crashes, count of pages
 
 
 ;Detailed Description
-Detailed Description
+Сиһилии ойуулааһын
 
 
 ;Metric
@@ -339,7 +339,7 @@ How long in milliseconds it took during startup for the application to render th
 
 
 ;How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
-How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
+How long in milliseconds it took during startup for the application to load libraries and finish basic initialisation
 
 
 ;How long in milliseconds it took during startup for the application to restore tabs from the previous session
@@ -440,7 +440,7 @@ Learn More&hellip;
 
 
 ;Tip
-Tip
+Уһуктара
 
 
 ;Looks like your Firefox is brand new! Check back after using Firefox for a while.
@@ -456,7 +456,7 @@ Firefox Health Report records information about your browser and device. You can
 
 
 ;Device hardware, operating system, Firefox version.
-Device hardware, operating system, Firefox version.
+Хард, операциялыыр систиэмэ, Firefox барыла
 
 
 ;Extensions, plugins, and number of installed add-ons.
@@ -685,5 +685,3 @@ Choose what I share
 
 ;You are currently not sharing your health report with Mozilla.
 You are currently not sharing your health report with Mozilla.
-
-
