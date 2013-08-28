@@ -1,25 +1,25 @@
 ;Firefox Health Report
-Firefox Health Report
+firefox аюулгүйн мэдээ
 
 
 ;Raw Data
-Raw Data
+Анхан шатны мэдээлэл
 
 
 ;Get insights and performance information about your version of Firefox.
-Get insights and performance information about your version of Firefox.
+firefox-ийн хувилбарын ажиллагааны талаар дэлгэрэнгүй мэдээлэл авах
 
 
 ;Learn more...
-Learn more...
+Илүү ихийг судлах
 
 
 ;Data Sharing
-Data Sharing
+Мэдээлэл хуваалцах
 
 
 ;ON
-ON
+нээлттэй
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
@@ -43,7 +43,7 @@ Vital Stats
 
 
 ;version
-version
+хувилбар
 
 
 ;time open
@@ -51,7 +51,7 @@ time open
 
 
 ;last crash
-last crash
+Сүүлийн доголдол
 
 
 ;bookmarks
@@ -59,15 +59,15 @@ bookmarks
 
 
 ;This Month
-This Month
+Сануулсан хуудас
 
 
 ;crashes
-crashes
+Доголдолууд
 
 
 ;Add-ons
-Add-ons
+Нэмэгдлүүд
 
 
 ;View List
@@ -75,11 +75,11 @@ View List
 
 
 ;enabled
-enabled
+ Жагсаалт харах
 
 
 ;disabled
-disabled
+идэвхигүй
 
 
 ;Plugins
@@ -87,7 +87,7 @@ Plugins
 
 
 ;Tips
-Tips
+Нэмэлтүүд
 
 
 ;Wear and Tear
@@ -440,7 +440,7 @@ Learn More&hellip;
 
 
 ;Tip
-Tip
+Нэмэлтүүд
 
 
 ;Looks like your Firefox is brand new! Check back after using Firefox for a while.
@@ -685,5 +685,3 @@ Choose what I share
 
 ;You are currently not sharing your health report with Mozilla.
 You are currently not sharing your health report with Mozilla.
-
-
