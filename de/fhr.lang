@@ -530,6 +530,7 @@ Update-Kanal:
 ;Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
 Firefox wird über mehrere Kanäle verteilt: Nightly-Builds, den Aurora-Kanal für Vorabversionen, eine stabile Beta und die endgültige Version. Dieses Feld bezeichnet den Kanal.
 
+
 ;Vendor:
 Hersteller:
 
@@ -670,7 +671,7 @@ Erfahren Sie mehr
 Der Firefox-Statusbericht (FSB) analysiert die Leistungsdaten Ihres Browsers, um Ihnen hilfreiche Tipps zu liefern, mit denen Sie das Beste aus Firefox herausholen. Weitere Informationen zum Firefox-Statusbericht a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>finden Sie in de Mozilla-Hilfe</a>.
 
 
-;For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.
+;For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
 Weitere Informationen dazu, wie wir mit Ihren Daten umgehen, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>finden Sie in unserer Datenschutzerklärung</a>.
 
 
