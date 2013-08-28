@@ -426,8 +426,264 @@
 Показать статистику
 
 
-
-
 ;Privacy Policy
 Политика приватности
+
+
+# The following strings are used only in the Mobile version of about:healthreport (Firefox for Android)
+;Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
+Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
+
+
+;Learn More&hellip;
+Learn More&hellip;
+
+
+;Tip
+Tip
+
+
+;Looks like your Firefox is brand new! Check back after using Firefox for a while.
+Looks like your Firefox is brand new! Check back after using Firefox for a while.
+
+
+;Important Metrics
+Important Metrics
+
+
+;Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
+Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
+
+
+;Device hardware, operating system, Firefox version.
+Device hardware, operating system, Firefox version.
+
+
+;Extensions, plugins, and number of installed add-ons.
+Extensions, plugins, and number of installed add-ons.
+
+
+;Key performance measures, such as launch speed.
+Key performance measures, such as launch speed.
+
+
+;Browsing duration, install time, number of bookmarks and pages.
+Browsing duration, install time, number of bookmarks and pages.
+
+
+;Home
+Home
+
+
+;CPU Count:
+CPU Count:
+
+
+;The number of CPU cores reported by Android.
+The number of CPU cores reported by Android.
+
+
+;Memory in MB:
+Memory in MB:
+
+
+;The amount of memory reported by Android. Typically excludes graphics memory.
+The amount of memory reported by Android. Typically excludes graphics memory.
+
+
+;Application Name:
+Application Name:
+
+
+;The internal application name for the browser.
+The internal application name for the browser.
+
+
+;Application ID:
+Application ID:
+
+
+;The internal identifier for the application.
+The internal identifier for the application.
+
+
+;Application Version:
+Application Version:
+
+
+;The current version of the browser
+The current version of the browser
+
+
+;Application Build ID:
+Application Build ID:
+
+
+;The internal build timestamp.
+The internal build timestamp.
+
+
+;Update Channel:
+Update Channel:
+
+
+;Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
+Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
+
+
+;Vendor:
+Vendor:
+
+
+;The organization that built this application. Typically Mozilla.
+The organization that built this application. Typically Mozilla.
+
+
+;Platform Version:
+Platform Version:
+
+
+;An internal version identifier. Typically the same as appVersion.
+An internal version identifier. Typically the same as appVersion.
+
+
+;Platform Build ID:
+Platform Build ID:
+
+
+;On Android this is an alternative name for appBuildID.
+On Android this is an alternative name for appBuildID.
+
+
+;xpcomabi:
+xpcomabi:
+
+
+;The CPU architecture for which this application was built.
+The CPU architecture for which this application was built.
+
+
+;OS:
+OS:
+
+
+;The current operating system.
+The current operating system.
+
+
+;Architecture:
+Architecture:
+
+
+;The CPU architecture for this device.
+The CPU architecture for this device.
+
+
+;System Name:
+System Name:
+
+
+;The current system name.
+The current system name.
+
+
+;System Version:
+System Version:
+
+
+;The Android OS revision.
+The Android OS revision.
+
+
+;Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
+Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
+
+
+;Telemetry Enabled:
+Telemetry Enabled:
+
+
+;Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
+Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
+
+
+;Extension Count:
+Extension Count:
+
+
+;How many extension add-ons are installed.
+How many extension add-ons are installed.
+
+
+;Plugin Count:
+Plugin Count:
+
+
+;How many plugin add-ons are installed.
+How many plugin add-ons are installed.
+
+
+;Theme Count:
+Theme Count:
+
+
+;How many theme add-ons are installed.
+How many theme add-ons are installed.
+
+
+;Addons:
+Addons:
+
+
+;A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
+A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
+
+
+;Search Counts:
+Search Counts:
+
+
+;A count of how many searches you issued to each of Mozilla's partner providers.
+A count of how many searches you issued to each of Mozilla's partner providers.
+
+
+;Sessions and Startup Times
+Sessions and Startup Times
+
+
+;For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
+For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
+
+
+;Profile Creation:
+Profile Creation:
+
+
+;The day on which your browser profile was created. Counted in days since January 1st 1970.
+The day on which your browser profile was created. Counted in days since January 1st 1970.
+
+
+;Learn More
+Learn More
+
+
+;Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
+Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
+
+
+;For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.
+For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.
+
+
+;You are currently sharing your health report with Mozilla.
+You are currently sharing your health report with Mozilla.
+
+
+;Choose what I share
+Choose what I share
+
+
+;You are currently not sharing your health report with Mozilla.
+You are currently not sharing your health report with Mozilla.
+
 
