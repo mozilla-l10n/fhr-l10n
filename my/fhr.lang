@@ -83,7 +83,7 @@
 
 
 ;Plugins
-Plugins
+ပေါင်းထည့်ဆော့ဝဲလ်
 
 
 ;Tips
@@ -103,7 +103,7 @@ Plugins
 
 
 ;Visit our <a href="%(sumo_url)s">support website</a>
-ကျွနု်ပ်တို့၏ <a href="%(sumo_url)s">အကူအညီပေး ဝတ်ဆိုဒ်</a> အားလာလည်ပါ။
+Visit our <a href="%(sumo_url)s">support web site</a>
 
 
 ;View more <a href="%(details_url)s">detailed information</a>
@@ -167,7 +167,7 @@ Plugins
 
 
 ;Customizations
-ပြင်ဆက်ထပ်ပေါင်းထားချက်များ
+Customisations
 
 
 ;Add-ons, count and type
@@ -339,7 +339,7 @@ XPCON ရဲ့ ဘိုင်နရီ အသုံးပြုစနစ်
 
 
 ;How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
-ဆော့ဝဲအား စစဖွင့်ပြီးချိန်နှင့်  လိုအပ်သော အရာများအား ပြင်ဆင်ပြီးချိန် အတွင်း မီလီစက္ကန့်ကြာချိန်
+How long in milliseconds it took during startup for the application to load libraries and finish basic initialisation
 
 
 ;How long in milliseconds it took during startup for the application to restore tabs from the previous session
@@ -419,15 +419,15 @@ XPCON ရဲ့ ဘိုင်နရီ အသုံးပြုစနစ်
 
 
 ;Time (in seconds)
-Time (in seconds)
+အချိန် ( စက္ကန့်ဖြင့် )
 
 
 ;Show Statistics
-Show Statistics
+အချက်အလက်များပြပါ
 
 
 ;Privacy Policy
-Privacy Policy
+လုံခြုံရေးဆိုင်ရာ ပေါ်လစီ
 
 
 # The following strings are used only in the Mobile version of about:healthreport (Firefox for Android)
@@ -440,7 +440,7 @@ Learn More&hellip;
 
 
 ;Tip
-Tip
+သုံးနည်းများ
 
 
 ;Looks like your Firefox is brand new! Check back after using Firefox for a while.
@@ -456,7 +456,7 @@ Firefox Health Report records information about your browser and device. You can
 
 
 ;Device hardware, operating system, Firefox version.
-Device hardware, operating system, Firefox version.
+ကွန်ပျူတာအမျိုးအစား ၊ ကွန်ပျူတာ စနစ် ၊ မီးမြေခွေး ဗားရှင်း
 
 
 ;Extensions, plugins, and number of installed add-ons.
@@ -512,7 +512,7 @@ Application Version:
 
 
 ;The current version of the browser
-The current version of the browser
+ထုတ်ကုန်၏ လက်ရှိဗားရှင်း
 
 
 ;Application Build ID:
@@ -685,5 +685,3 @@ Choose what I share
 
 ;You are currently not sharing your health report with Mozilla.
 You are currently not sharing your health report with Mozilla.
-
-
