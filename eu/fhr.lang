@@ -432,127 +432,126 @@ Pribatutasun-politika
 
 # The following strings are used only in the Mobile version of about:healthreport (Firefox for Android)
 ;Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
-Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
+Firefoxen osasun-txostenari esker nabigatzailea optimiza dezakezu, eta guri Firefox bikainago bat eraikitzen laguntzen diguzu. Txostenak oso soilak izango dira hasieran, baina garatzen eta loditzen joango dira.
 
 
 ;Learn More&hellip;
-Learn More&hellip;
+Ikasi gehiago&hellip;
 
 
 ;Tip
-Tip
+Aholkua
 
 
 ;Looks like your Firefox is brand new! Check back after using Firefox for a while.
-Looks like your Firefox is brand new! Check back after using Firefox for a while.
+Dirudienez, darabilzun Firefox berri berria da! Itzul zaitez Firefox aldi batez erabili ondoren.
 
 
 ;Important Metrics
-Important Metrics
+Neurketa garrantzitsuak
 
 
 ;Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
-Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
+Firefoxen osasun-txostenak darabilzun nabigatzailearen eta gailuaren informazioa gordetzen du. <a href="#raw" class="navigate">Gordetzen dugun informazioa ikusi</a> dezakezu. Mozillarekin zer partekatzen duzun ere ikus dezakezu.
 
 
 ;Device hardware, operating system, Firefox version.
-Device hardware, operating system, Firefox version.
+Gailuaren hardwarea, sistema eragilea, Firefoxen bertsioa.
 
 
 ;Extensions, plugins, and number of installed add-ons.
-Extensions, plugins, and number of installed add-ons.
+Hedapenak, pluginak, eta instalatutako gehigarri kopurua.
 
 
 ;Key performance measures, such as launch speed.
-Key performance measures, such as launch speed.
+Errendimendu-neurketa gakoak, esaterako abiarazte-abiadura. 
 
 
 ;Browsing duration, install time, number of bookmarks and pages.
-Browsing duration, install time, number of bookmarks and pages.
+Nabigazioaren iraupena, instalaziorako denbora, laster-marka eta orri kopurua.
 
 
 ;Home
-Home
+Hasiera
 
 
 ;CPU Count:
-CPU Count:
+PUZ kopurua:
 
 
 ;The number of CPU cores reported by Android.
-The number of CPU cores reported by Android.
+Androidek adierazitako PUZ nukleo kopurua.
 
 
 ;Memory in MB:
-Memory in MB:
+Memoria MBetan:
 
 
 ;The amount of memory reported by Android. Typically excludes graphics memory.
-The amount of memory reported by Android. Typically excludes graphics memory.
+Androidek adierazitako memoria kantitatea. Normalki memoria grafikoa kanpoan gelditzen da.
 
 
 ;Application Name:
-Application Name:
+Aplikazioaren izena:
 
 
 ;The internal application name for the browser.
-The internal application name for the browser.
+Aplikazioaren barneko izena nabigatzailearentzat.
 
 
 ;Application ID:
-Application ID:
+Aplikazioaren IDa:
 
 
 ;The internal identifier for the application.
-The internal identifier for the application.
+Aplikazioaren barneko identifikatzailea.
 
 
 ;Application Version:
-Application Version:
+Aplikazioaren bertsioa:
 
 
 ;The current version of the browser
-The current version of the browser
+Nabigatzailearen uneko bertsioa
 
 
 ;Application Build ID:
-Application Build ID:
+Aplikazioaren eraikitze-identifikatzailea:
 
 
 ;The internal build timestamp.
-The internal build timestamp.
+Eraikitzearen barneko data-zigilua.
 
 
 ;Update Channel:
-Update Channel:
+Eguneratzeen kanala:
 
 
 ;Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
-Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
-
+Firefox honako kanalon bitartez banatzen da: gaueroko Nightly bertsioak, Aurora argitaratu aurreko kanala, Beta egonkorra, eta argitaratze publikoa. Eremu honek kanala identifikatzen du.
 
 ;Vendor:
-Vendor:
+Saltzailea:
 
 
 ;The organization that built this application. Typically Mozilla.
-The organization that built this application. Typically Mozilla.
+Aplikazioa eraiki duen erakundea. Normalean Mozilla.
 
 
 ;Platform Version:
-Platform Version:
+Plataformaren bertsioa:
 
 
 ;An internal version identifier. Typically the same as appVersion.
-An internal version identifier. Typically the same as appVersion.
+Bertsioaren barne-identifikatzailea. Normalean appVersion-en balio bera.
 
 
 ;Platform Build ID:
-Platform Build ID:
+Plataformaren eraikitze-identifikatzailea:
 
 
 ;On Android this is an alternative name for appBuildID.
-On Android this is an alternative name for appBuildID.
+Androiden appBuildID-ren ordezko izena da.
 
 
 ;xpcomabi:
@@ -560,130 +559,130 @@ xpcomabi:
 
 
 ;The CPU architecture for which this application was built.
-The CPU architecture for which this application was built.
+Aplikazioa zein PUZ arkitekturarako eraiki zen.
 
 
 ;OS:
-OS:
+Sistema eragilea:
 
 
 ;The current operating system.
-The current operating system.
+Uneko sistema eragilea.
 
 
 ;Architecture:
-Architecture:
+Arkitektura:
 
 
 ;The CPU architecture for this device.
-The CPU architecture for this device.
+Gailu honen PUZ arkitektura.
 
 
 ;System Name:
-System Name:
+Sistemaren izena:
 
 
 ;The current system name.
-The current system name.
+Uneko sistemaren izena.
 
 
 ;System Version:
-System Version:
+Sistemaren bertsioa:
 
 
 ;The Android OS revision.
-The Android OS revision.
+Android sistema eragilearen bertsioa.
 
 
 ;Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
-Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
+Firefoxek gehigarrien blokeo-zerrendetako emaitzak jasotzen dituen, gehigarri kaltegarriengandik babesteko. Balio lehenetsia: bai.
 
 
 ;Telemetry Enabled:
-Telemetry Enabled:
+Telemetria gaituta:
 
 
 ;Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
-Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
+Firefoxek erabilera-datu xehetuak bidaltzen dituen, garapena laguntzeko. Kanal gehienentzako balio lehenetsia: ez.
 
 
 ;Extension Count:
-Extension Count:
+Hedapen kopurua:
 
 
 ;How many extension add-ons are installed.
-How many extension add-ons are installed.
+Hedapen motako zenbat gehigarri dauden instalatuta.
 
 
 ;Plugin Count:
-Plugin Count:
+Plugin kopurua:
 
 
 ;How many plugin add-ons are installed.
-How many plugin add-ons are installed.
+Plugin motako zenbat gehigarri dauden instalatuta.
 
 
 ;Theme Count:
-Theme Count:
+Gai kopurua:
 
 
 ;How many theme add-ons are installed.
-How many theme add-ons are installed.
+Gai motako zenbat gehigarri dauden instalatuta.
 
 
 ;Addons:
-Addons:
+Gehigarriak:
 
 
 ;A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
-A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
+Instalatutako gehigarriak deskribatzen dituen bilduma. Ez da gehigarri guztien berri ematen: plugin, hedapen eta zerbitzuak soilik hartzen dira kontutan.
 
 
 ;Search Counts:
-Search Counts:
+Bilaketa kopurua:
 
 
 ;A count of how many searches you issued to each of Mozilla's partner providers.
-A count of how many searches you issued to each of Mozilla's partner providers.
+Mozillaren bazkide hornitzaile bakoitzarekin zenbat bilaketa burutu dituzun.
 
 
 ;Sessions and Startup Times
-Sessions and Startup Times
+Saioak eta abiarazte-denborak
 
 
 ;For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
-For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
+Nabigatze-saio bakoitzerako, Firefoxen osasun-txostenak honakoa gordetzen du: nabigatzen aritu zaren denbora (segundotan), eta saioa ondo amaitu den edo kraskadura baten ondorioz. Abiarazte-denborak ere gordetzen ditu (milisegundotan), informazioa eskuragarri badago.
 
 
 ;Profile Creation:
-Profile Creation:
+Profilaren sorrera:
 
 
 ;The day on which your browser profile was created. Counted in days since January 1st 1970.
-The day on which your browser profile was created. Counted in days since January 1st 1970.
+Nabigatzaileko profila zein egunetan sortu zen. 1970eko urtarrilaren 1etik datararte igarotako egunetan zenbatua.
 
 
 ;Learn More
-Learn More
+Ikasi gehiago
 
 
 ;Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
-Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
+Firefoxen osasun-txostenak (FHR) nabigatzailearen errendimenduari buruzko informazioa aztertzen du, Firefoxi zuku guztia atera diezaiozun aholku erabilgarriak emanez. Firefoxen osasun-txostenari buruz informazio gehiago eskuratzeko <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>bisitatu Mozillaren laguntza gunea.</a>
 
 
 ;For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
-For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
+Zure datuak nola erabiltzen ditugun jakiteko, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>ikusi gure pribatutasun-politika.</a>
 
 
 ;You are currently sharing your health report with Mozilla.
-You are currently sharing your health report with Mozilla.
+Une honetan osasun-txostena Mozillarekin partekatzen ari zara.
 
 
 ;Choose what I share
-Choose what I share
+Aukeratu zer partekatzen dudan
 
 
 ;You are currently not sharing your health report with Mozilla.
-You are currently not sharing your health report with Mozilla.
+Une honetan ez duzu osasun-txostena Mozillarekin partekatzen.
 
 
