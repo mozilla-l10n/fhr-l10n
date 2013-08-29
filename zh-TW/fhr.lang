@@ -448,11 +448,11 @@ Firefox 健康檢查報告讓您可以最佳化您的 Firefox，並幫助我們�
 
 
 ;Important Metrics
-Important Metrics
+重要統計項目
 
 
 ;Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
-Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
+Firefox 健康檢查報告將會記錄您使用的裝置與瀏覽器的資訊。您可以檢視 <a href="#raw" class="navigate">我們記錄了哪些資訊</a>，也可以看看您與 Mozilla 分享了哪些資訊。
 
 
 ;Device hardware, operating system, Firefox version.
@@ -464,7 +464,7 @@ Firefox Health Report records information about your browser and device. You can
 
 
 ;Key performance measures, such as launch speed.
-Key performance measures, such as launch speed.
+重點效能測量，諸如啟動速度。
 
 
 ;Browsing duration, install time, number of bookmarks and pages.
@@ -556,7 +556,7 @@ Firefox 有下列不同頻道的版本: Nightly 每日編譯版、Aurora 預先�
 
 
 ;xpcomabi:
-xpcomabi:
+xpcomabi: {OK}
 
 
 ;The CPU architecture for which this application was built.
@@ -564,7 +564,7 @@ xpcomabi:
 
 
 ;OS:
-OS:
+OS: {OS}
 
 
 ;The current operating system.
