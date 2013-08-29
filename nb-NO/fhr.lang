@@ -556,7 +556,7 @@ På Android er dette et annet navn for appBuildID.
 
 
 ;xpcomabi:
-xpcomabi:
+xpcomabi: {ok}
 
 
 ;The CPU architecture for which this application was built.
