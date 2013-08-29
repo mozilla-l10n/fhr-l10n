@@ -432,127 +432,127 @@ Personvern
 
 # The following strings are used only in the Mobile version of about:healthreport (Firefox for Android)
 ;Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
-Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
+Firefox Helserapport lar deg optimalisere Firefox, og hjelper oss å lage en enda bedre nettleser. Rapportene er ganske enkle i starten, men vil fortsette å vokse og utvikle seg.
 
 
 ;Learn More&hellip;
-Learn More&hellip;
+Les mer &hellip;
 
 
 ;Tip
-Tip
+Tips
 
 
 ;Looks like your Firefox is brand new! Check back after using Firefox for a while.
-Looks like your Firefox is brand new! Check back after using Firefox for a while.
+Ser ut som din Firefox er helt ny! Kom tilbake etter at du har brukt Firefox en stund.
 
 
 ;Important Metrics
-Important Metrics
+Viktig metrikk
 
 
 ;Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
-Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
+Firefox Helserapport samler info om nettleseren din og enheten. Du kan <a href="#raw" class="navigate">se på informasjonen vi samler.</a> Du kan også se hva du deler med Mozilla.
 
 
 ;Device hardware, operating system, Firefox version.
-Device hardware, operating system, Firefox version.
+Enhetsmaskinvare, operativsystem, Firefox-versjon.
 
 
 ;Extensions, plugins, and number of installed add-ons.
-Extensions, plugins, and number of installed add-ons.
+Utvidelser og programtillegg.
 
 
 ;Key performance measures, such as launch speed.
-Key performance measures, such as launch speed.
+Nøkkeltall for ytelse, som f.eks. oppstartshastighet.
 
 
 ;Browsing duration, install time, number of bookmarks and pages.
-Browsing duration, install time, number of bookmarks and pages.
+Varighet på nettlesing, installasjonstidspunkt, antall bokmerker og sider.
 
 
 ;Home
-Home
+Hjem
 
 
 ;CPU Count:
-CPU Count:
+Antall CPU-er:
 
 
 ;The number of CPU cores reported by Android.
-The number of CPU cores reported by Android.
+Antall CPU-kjerner rapportert av Android.
 
 
 ;Memory in MB:
-Memory in MB:
+Minne i MB:
 
 
 ;The amount of memory reported by Android. Typically excludes graphics memory.
-The amount of memory reported by Android. Typically excludes graphics memory.
+Mengden minne rapportert av Android. Dette inneholder vanligvis ikke grafikkminne.
 
 
 ;Application Name:
-Application Name:
+Applikasjonsnavn:
 
 
 ;The internal application name for the browser.
-The internal application name for the browser.
+Det interne applikasjonsnavnet for nettleseren.
 
 
 ;Application ID:
-Application ID:
+Applikasjonsid:
 
 
 ;The internal identifier for the application.
-The internal identifier for the application.
+Den interne identifikatoren til applikasjonen.
 
 
 ;Application Version:
-Application Version:
+Applikasjonsversjon:
 
 
 ;The current version of the browser
-The current version of the browser
+Nåværende versjon av nettleseren
 
 
 ;Application Build ID:
-Application Build ID:
+Byggid for applikasjonen:
 
 
 ;The internal build timestamp.
-The internal build timestamp.
+Internt byggetidspunkt.
 
 
 ;Update Channel:
-Update Channel:
+Oppdateringskanal:
 
 
 ;Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
-Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
+Firefox distribueres gjennom kanaler: Nattlige versjoner, Aurora pre-utgivelsesversjon, en stabil Beta, og utgivelsesversjonen. Dette feltet identifiserer kanalen.
 
 
 ;Vendor:
-Vendor:
+Utgiver:
 
 
 ;The organization that built this application. Typically Mozilla.
-The organization that built this application. Typically Mozilla.
+Organisasjonen som bygget applikasjonen. Vanligvis Mozilla.
 
 
 ;Platform Version:
-Platform Version:
+Plattformversjon:
 
 
 ;An internal version identifier. Typically the same as appVersion.
-An internal version identifier. Typically the same as appVersion.
+En intern versjonsid. Er typisk det samme som appVersion.
 
 
 ;Platform Build ID:
-Platform Build ID:
+Plattform-byggid:
 
 
 ;On Android this is an alternative name for appBuildID.
-On Android this is an alternative name for appBuildID.
+På Android er dette et annet navn for appBuildID.
 
 
 ;xpcomabi:
@@ -560,130 +560,130 @@ xpcomabi:
 
 
 ;The CPU architecture for which this application was built.
-The CPU architecture for which this application was built.
+CPU-arkitekturen som denne applikasjonen ble bygd for.
 
 
 ;OS:
-OS:
+OS: {ok}
 
 
 ;The current operating system.
-The current operating system.
+Nåværende operativsystem.
 
 
 ;Architecture:
-Architecture:
+Arkitektur:
 
 
 ;The CPU architecture for this device.
-The CPU architecture for this device.
+CPU-arkitekturen til denne enheten.
 
 
 ;System Name:
-System Name:
+Systemnavn:
 
 
 ;The current system name.
-The current system name.
+Navnet til systemet.
 
 
 ;System Version:
-System Version:
+Systemversjon:
 
 
 ;The Android OS revision.
-The Android OS revision.
+Android OS-revisjon.
 
 
 ;Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
-Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
+Om Firefox henter blokkeringsliste for utvidelser, slik at du er beskyttet mot ondsinnede utvidelser. Standard er på.
 
 
 ;Telemetry Enabled:
-Telemetry Enabled:
+Telemetry påslått:
 
 
 ;Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
-Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
+Om Firefox rapporterer detaljert bruksdata som bidrar til videre utvikling. Standard er avslått for de fleste kanalene.
 
 
 ;Extension Count:
-Extension Count:
+Antall utvidelser:
 
 
 ;How many extension add-ons are installed.
-How many extension add-ons are installed.
+Hvor mange utvidelser som er installert.
 
 
 ;Plugin Count:
-Plugin Count:
+Antall programtillegg:
 
 
 ;How many plugin add-ons are installed.
-How many plugin add-ons are installed.
+Hvor mange programtillegg som er installert.
 
 
 ;Theme Count:
-Theme Count:
+Antall temaer:
 
 
 ;How many theme add-ons are installed.
-How many theme add-ons are installed.
+Hvor mange temaer som er installert.
 
 
 ;Addons:
-Addons:
+Utvidelser:
 
 
 ;A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
-A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
+En samling som beskriver installerte utvidelser. Pprogramtillegg, utvidelser og tjenester rapporteres.
 
 
 ;Search Counts:
-Search Counts:
+Antall søk:
 
 
 ;A count of how many searches you issued to each of Mozilla's partner providers.
-A count of how many searches you issued to each of Mozilla's partner providers.
+Antallet søk som du har utført mot hver av Mozilla-partnernes søketilbydere.
 
 
 ;Sessions and Startup Times
-Sessions and Startup Times
+Økt- og oppstartstid
 
 
 ;For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
-For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
+For hver nettleserøkt registrerer Firefox omtrent hvor lenge du surfet (i sekunder), og om programøkten avsluttet normalt eller på grunn av et krasj. Oppstartstiden (i millisekunder) er også med hvis tilgjengelig.
 
 
 ;Profile Creation:
-Profile Creation:
+Profilopprettelse:
 
 
 ;The day on which your browser profile was created. Counted in days since January 1st 1970.
-The day on which your browser profile was created. Counted in days since January 1st 1970.
+Hvilken dag nettleserprofilen ble opprettet. Telles i dager siden 1. januar 1970.
 
 
 ;Learn More
-Learn More
+Les mer
 
 
 ;Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
-Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
+Firefox Helserapport (FHR) analyserer nettleserytelse for å kunne gi deg tips om hvordan du kan få mest mulig ut av din Firefox. Du kan finne ut mer om Firefox Helserapport på <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>Mozilla Support-artikkelen.</a>
 
 
 ;For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
-For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
+For mer info om hvordan vi håndterer dine data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>se personvernerklæringen.</a>
 
 
 ;You are currently sharing your health report with Mozilla.
-You are currently sharing your health report with Mozilla.
+Du deler helserapporten med Mozilla.
 
 
 ;Choose what I share
-Choose what I share
+Velg hva jeg deler
 
 
 ;You are currently not sharing your health report with Mozilla.
-You are currently not sharing your health report with Mozilla.
+Du deler for tiden ikke helserapporten med Mozilla.
 
 
