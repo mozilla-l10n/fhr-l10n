@@ -564,7 +564,7 @@ xpcomabi: {OK}
 
 
 ;OS:
-OS: {OS}
+OS: {OK}
 
 
 ;The current operating system.
@@ -668,11 +668,11 @@ Firefox 是否會回報詳細的使用資料以幫助開發。對於大部分的
 
 
 ;Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
-Firefox 健康檢查報告 (FHR) 將會分析您瀏覽器的效能資訊以讓您能更好的使用 Firefox 的有用秘訣。若想了解關於 Firefox 健康檢查報告的更多資訊，<a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>請參照 Mozilla 技術支援站的相關文件。</a>
+Firefox 健康檢查報告 (FHR) 將會分析您瀏覽器的效能資訊，以提供讓您能更好的使用 Firefox 的有用秘訣。若想了解關於 Firefox 健康檢查報告的更多資訊，<a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>請參照 Mozilla 技術支援站的相關文件。</a>
 
 
 ;For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
-若您想了解關於我們如何處理您的資料的更多資訊，<a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>請參考我們的隱私權保護政策。</a>
+若您想了解我們如何處理您的資料，<a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>請參考我們的隱私權保護政策。</a>
 
 
 ;You are currently sharing your health report with Mozilla.
