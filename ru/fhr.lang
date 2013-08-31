@@ -432,258 +432,258 @@
 
 # The following strings are used only in the Mobile version of about:healthreport (Firefox for Android)
 ;Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
-Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
+Отчёт о работоспособности Firefox позволяет вам оптимизировать работу Firefox и помогает нам улучшить наш браузер. Поначалу отчёты будут довольно простыми, но они будут развиваться и расти.
 
 
 ;Learn More&hellip;
-Learn More&hellip;
+Подробнее&hellip;
 
 
 ;Tip
-Tip
+Совет
 
 
 ;Looks like your Firefox is brand new! Check back after using Firefox for a while.
-Looks like your Firefox is brand new! Check back after using Firefox for a while.
+Похоже ваш Firefox абсолютно новый! Зайдите после того, как попользуетесь некоторое время Firefox.
 
 
 ;Important Metrics
-Important Metrics
+Важные метрики
 
 
 ;Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
-Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
+Отчёт о работоспособности Firefox записывает информацию о вашем браузере и устройстве. Вы можете <a href="#raw" class="navigate">посмотреть записываемую нами информацию</a>. Также вы можете увидеть, чем делитесь с Mozilla.
 
 
 ;Device hardware, operating system, Firefox version.
-Device hardware, operating system, Firefox version.
+Характеристики устройства, операционная система, версия Firefox.
 
 
 ;Extensions, plugins, and number of installed add-ons.
-Extensions, plugins, and number of installed add-ons.
+Расширения, плагины и число установленных дополнений.
 
 
 ;Key performance measures, such as launch speed.
-Key performance measures, such as launch speed.
+Ключевые показатели производительности, такие как скорость запуска.
 
 
 ;Browsing duration, install time, number of bookmarks and pages.
-Browsing duration, install time, number of bookmarks and pages.
+Длительность веб-сёрфинга, дата установки, число закладок и страниц.
 
 
 ;Home
-Home
+Начало
 
 
 ;CPU Count:
-CPU Count:
+Число процессоров:
 
 
 ;The number of CPU cores reported by Android.
-The number of CPU cores reported by Android.
+Число процессорных ядер по данным Android.
 
 
 ;Memory in MB:
-Memory in MB:
+Память в МБ:
 
 
 ;The amount of memory reported by Android. Typically excludes graphics memory.
-The amount of memory reported by Android. Typically excludes graphics memory.
+Размер памяти по данным Android. Обычно не включает графическую память.
 
 
 ;Application Name:
-Application Name:
+Имя приложения:
 
 
 ;The internal application name for the browser.
-The internal application name for the browser.
+Внутреннее имя приложения для браузера.
 
 
 ;Application ID:
-Application ID:
+ID приложения:
 
 
 ;The internal identifier for the application.
-The internal identifier for the application.
+Внутренний идентификатор приложения.
 
 
 ;Application Version:
-Application Version:
+Версия приложения:
 
 
 ;The current version of the browser
-The current version of the browser
+Текущая версия браузера
 
 
 ;Application Build ID:
-Application Build ID:
+ID сборки приложения:
 
 
 ;The internal build timestamp.
-The internal build timestamp.
+Внутренняя временная метка сборки.
 
 
 ;Update Channel:
-Update Channel:
+Канал обновлений:
 
 
 ;Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
-Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
+Firefox распространяется через следующие каналы: ночные сборки, канал пре-релиза Aurora, стабильная Бета и публичный релиз. В этом поле указан канал.
 
 
 ;Vendor:
-Vendor:
+Поставщик:
 
 
 ;The organization that built this application. Typically Mozilla.
-The organization that built this application. Typically Mozilla.
+Организация, которая собрала это приложение. Обычно Mozilla.
 
 
 ;Platform Version:
-Platform Version:
+Версия платформы:
 
 
 ;An internal version identifier. Typically the same as appVersion.
-An internal version identifier. Typically the same as appVersion.
+Идентификатор внутренней версии. Обычно совпадает с appVersion.
 
 
 ;Platform Build ID:
-Platform Build ID:
+ID сборки платформы:
 
 
 ;On Android this is an alternative name for appBuildID.
-On Android this is an alternative name for appBuildID.
+На Android это альтернативное имя для appBuildID.
 
 
 ;xpcomabi:
-xpcomabi:
+xpcomabi: {ok}
 
 
 ;The CPU architecture for which this application was built.
-The CPU architecture for which this application was built.
+Архитектура CPU для которой было собрано это приложение.
 
 
 ;OS:
-OS:
+ОС:
 
 
 ;The current operating system.
-The current operating system.
+Текущая операционная система.
 
 
 ;Architecture:
-Architecture:
+Архитектура:
 
 
 ;The CPU architecture for this device.
-The CPU architecture for this device.
+Архитектура CPU этого устройства.
 
 
 ;System Name:
-System Name:
+Имя системы:
 
 
 ;The current system name.
-The current system name.
+Текущее имя системы.
 
 
 ;System Version:
-System Version:
+Версия системы:
 
 
 ;The Android OS revision.
-The Android OS revision.
+Ревизия ОС Android.
 
 
 ;Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
-Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
+Будет ли Firefox загружать черный список дополнений для защиты вас от вредоносных дополнений. По умолчанию включено.
 
 
 ;Telemetry Enabled:
-Telemetry Enabled:
+Телеметрия включена:
 
 
 ;Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
-Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
+Будет ли Firefox отправлять подробные данные об использовании для помощи в разработке. По умолчанию отключено для большинства каналов.
 
 
 ;Extension Count:
-Extension Count:
+Число расширений:
 
 
 ;How many extension add-ons are installed.
-How many extension add-ons are installed.
+Сколько установлено дополнений с расширениями.
 
 
 ;Plugin Count:
-Plugin Count:
+Число плагинов:
 
 
 ;How many plugin add-ons are installed.
-How many plugin add-ons are installed.
+Сколько установлено дополнений с плагинами.
 
 
 ;Theme Count:
-Theme Count:
+Число тем:
 
 
 ;How many theme add-ons are installed.
-How many theme add-ons are installed.
+Сколько установлено дополнений с темами.
 
 
 ;Addons:
-Addons:
+Дополнения:
 
 
 ;A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
-A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
+Коллекция, описывающая установленные дополнения. Сообщается не обо всех дополнениях: только о плагинах, расширениях и службах.
 
 
 ;Search Counts:
-Search Counts:
+Число поисков:
 
 
 ;A count of how many searches you issued to each of Mozilla's partner providers.
-A count of how many searches you issued to each of Mozilla's partner providers.
+Сколько поисков вы произвели в каждом из провайдеров - партнеров Mozilla.
 
 
 ;Sessions and Startup Times
-Sessions and Startup Times
+Времена сеансов и запуска
 
 
 ;For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
-For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
+Для каждого сеанса веб-серфинга Отчёт о работоспособности Firefox записывает примерную длительность сеанса (в секундах), и закончилась ли сессия нормально или из-за падения. Также включается время запуска (в миллисекундах), если это доступно.
 
 
 ;Profile Creation:
-Profile Creation:
+Создание профиля:
 
 
 ;The day on which your browser profile was created. Counted in days since January 1st 1970.
-The day on which your browser profile was created. Counted in days since January 1st 1970.
+Дата создания профиля вашего браузера. Измеряется в числе дней, прошедших с 1 января 1970 года.
 
 
 ;Learn More
-Learn More
+Подробнее
 
 
 ;Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
-Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
+Отчёт о работоспособности Firefox (FHR) анализирует информацию о производительности вашего браузера, для того, чтобы дать вам полезные советы, которые помогут вам использовать Firefox по максимуму. Для получения более подробной информацию об отчёте о работоспособности Firefox <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>посетите раздел на сайте поддержки Mozilla</a>.
 
 
 ;For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
-For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
+Для получения дополнительной информации о том, как мы обращаемся с вашими данными, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>прочтите нашу политику приватности</a>.
 
 
 ;You are currently sharing your health report with Mozilla.
-You are currently sharing your health report with Mozilla.
+В данный момент вы делитесь отчётом о работоспособности с Mozilla.
 
 
 ;Choose what I share
-Choose what I share
+Выбрать, чем мне поделиться
 
 
 ;You are currently not sharing your health report with Mozilla.
-You are currently not sharing your health report with Mozilla.
+В данный момент вы не делитесь отчётом о работоспособности с Mozilla.
 
 
