@@ -432,7 +432,7 @@ Zásady ochrany súkromia
 
 # The following strings are used only in the Mobile version of about:healthreport (Firefox for Android)
 ;Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
-Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
+Správa o kondícii Firefoxu Vám umožňuje optimalizovať svoj Firefox a nám pomáha vytvoriť ešte excelentnejší prehliadač. Zo začiatku budú správy veľmi jednoduché, ale čím viac budete prehliadač používať, tým budú užitočnejšie.
 
 
 ;Learn More&hellip;
@@ -464,7 +464,7 @@ Rozšírenia, zásuvné moduly a počet nainštalovaných doplnkov.
 
 
 ;Key performance measures, such as launch speed.
-Kľúčové údajoe o výkonnosti, napríklad doba spustenia.
+Kľúčové údaje o výkonnosti, napríklad doba spustenia.
 
 
 ;Browsing duration, install time, number of bookmarks and pages.
@@ -472,11 +472,11 @@ Browsing duration, install time, number of bookmarks and pages.
 
 
 ;Home
-Home
+Domov
 
 
 ;CPU Count:
-CPU Count:
+Počet procesorov:
 
 
 ;The number of CPU cores reported by Android.
@@ -556,11 +556,11 @@ On Android this is an alternative name for appBuildID.
 
 
 ;xpcomabi:
-xpcomabi:
+xpcomabi: {ok}
 
 
 ;The CPU architecture for which this application was built.
-The CPU architecture for which this application was built.
+Architektúra CPU, pre ktorú bola táto aplikácia zostavená.
 
 
 ;OS:
@@ -568,15 +568,15 @@ OS: {ok}
 
 
 ;The current operating system.
-The current operating system.
+Aktuálny operačný systém.
 
 
 ;Architecture:
-Architecture:
+Architektúra:
 
 
 ;The CPU architecture for this device.
-The CPU architecture for this device.
+Architektúra CPU tohto zariadenia.
 
 
 ;System Name:
@@ -584,7 +584,7 @@ Názov systému:
 
 
 ;The current system name.
-Aktuálny nzáov systému.
+Aktuálny názov systému.
 
 
 ;System Version:
@@ -596,43 +596,43 @@ Revízia Android OS.
 
 
 ;Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
-Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
+Či Firefox získava údaje čiernej listiny doplnkov s cieľom ochrániť vás pred nebezpečnými doplnkami. Predvolene zapnuté.
 
 
 ;Telemetry Enabled:
-Telemetry Enabled:
+Telemetria povolená:
 
 
 ;Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
-Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
+Či Firefox reportuje podorbné údaje o používaní s cieľom pomôcť vývojárom. Pre väčšinu kanálov predvolene vypnuté.
 
 
 ;Extension Count:
-Extension Count:
+Počet rozšírení:
 
 
 ;How many extension add-ons are installed.
-How many extension add-ons are installed.
+Počet nainštalovaných rozšírení.
 
 
 ;Plugin Count:
-Plugin Count:
+Počet zásuvných modulov:
 
 
 ;How many plugin add-ons are installed.
-How many plugin add-ons are installed.
+Počet nainštalovaných zásuvných modulov.
 
 
 ;Theme Count:
-Theme Count:
+Počet tém:
 
 
 ;How many theme add-ons are installed.
-How many theme add-ons are installed.
+Počet nainštalovaných tém vzhľadu.
 
 
 ;Addons:
-Addons:
+Doplnky:
 
 
 ;A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
@@ -656,11 +656,11 @@ For each browsing session, Firefox Health Report records approximately how long 
 
 
 ;Profile Creation:
-Profile Creation:
+Profil vytvorený dňa:
 
 
 ;The day on which your browser profile was created. Counted in days since January 1st 1970.
-The day on which your browser profile was created. Counted in days since January 1st 1970.
+Deň, kedy bol vytvorený aktuálne používaný profil prehliadača. Počítané v dňoch od 1. januára 1970.
 
 
 ;Learn More
@@ -672,18 +672,17 @@ Firefox Health Report (FHR) analyses your browser's performance information, in 
 
 
 ;For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
-For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
+Ak chcete chcete dozvedieť viac o tom, ako spravujeme vaše údaje, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>pozrite si naše zásady ochrany súkromia</a>.
 
 
 ;You are currently sharing your health report with Mozilla.
-You are currently sharing your health report with Mozilla.
+Aktuálne zdieľate údaje o kondícii so spoločnosťou Mozilla.
 
 
 ;Choose what I share
-Choose what I share
+Zvoliť, čo zdieľam
 
 
 ;You are currently not sharing your health report with Mozilla.
-You are currently not sharing your health report with Mozilla.
-
+Aktuálne nezdieľate údaje o kondícii so spoločnosťou Mozilla.
 
