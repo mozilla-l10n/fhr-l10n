@@ -1,5 +1,5 @@
 ;Firefox Health Report
-Rapòrt stónu zdrowiégò Firefoksa
+Rapòrt ò Zdrowim Firefoksa
 
 
 ;Raw Data
@@ -7,11 +7,11 @@ Sërowé pòdôwczi
 
 
 ;Get insights and performance information about your version of Firefox.
-Wëwiedzë sã wicy ò wëdajnoscë Twòji wersje Firefoksa.
+Wëdowiedzë sã wicy ò wëdajnoscë Twòji wersje Firefoksa.
 
 
 ;Learn more...
-Wëwiedzë sã wicy...
+Wëdowiedzë sã wicy...
 
 
 ;Data Sharing
@@ -27,15 +27,15 @@ Chòc môsz wëłączoné ùprzistãpnianié pòdôwków, równak mòżesz òbô
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
-Rapòrt stónu zdrowiégò Firefoksa òstanié rëmniãti z serwera Mòzillë. Wëwiedzë sã wicy czëtającë <a href="%(privacy_url)s">pòlitikã priwatnoscë.</a>
-
+Rapòrt ò Zdrowim Firefoksa òstanié rëmniãti z serwera Mòzillë. Wëdowiedzë sã wicy czëtającë <a href="%(privacy_url)s">pòlitikã priwatnoscë.</a>
+o
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
 Môsz sã zdecydowóné, bë nama òd czasu do czasu nama sélac pòdôwczi. Dzãka za wpiarcé naju misje, bë twòrzëc bëlniészą przińdnotã Sécë.
 
 
 ;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
-Wëwiedzë sã jak lepi zabezpieczëc swòje pòdôwczi czëtającë naju <a href="%(privacy_url)s">pòlitikã priwatnoscë.</a>
+Wëdowiedzë sã jak lepi zabezpieczëc swòje pòdôwczi czëtającë naju <a href="%(privacy_url)s">pòlitikã priwatnoscë.</a>
 
 
 ;Vital Stats
@@ -95,7 +95,7 @@ Radë
 
 
 ;It looks like your browser has crashed a number of times recently. To learn more:
-Wëzdrzi na to, że Twòj przezérnik miôł cziles awariów. Wëwiedzë sã wicy:
+Wëzdrzi na to, że Twòj przezérnik miôł cziles awariów. Wëdowiedzë sã wicy:
 
 
 ;OFF
@@ -115,11 +115,11 @@ Wicy <a href="%(details_url)s">dokładniészi infòrmacje</a>
 
 
 ;Your browser seems to be running slower than usual. To learn more:
-Twój przezérnik òstanio chòdzy wòlni. Wëwiedzë sã wicy:
+Twój przezérnik òstanio chòdzy wòlni. Wëdowiedzë sã wicy:
 
 
 ;You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
-Jim wicy gò ùżëwôsz, tim wicy sã ò nim wëwiedzësz. Wrócë na tą stronã za pôrã niedzel pò nowszé infòrmacje.
+Jim wicy gò ùżëwôsz, tim wicy sã ò nim wëdowiész. Wrócë na tą stronã za pôrã niedzel pò nowszé infòrmacje.
 
 
 ;Startup Time by Day
@@ -139,7 +139,7 @@ Wszëtkò
 
 
 ;Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
-Infòrkacjô ò czasu zrëszaniô pòmôgô w ùstalanim jak dobrze danô wersjô Firefokosa robi. Chùtczészé zrëszenia (krótszi czas) òznôczają bëlniészé òsydżi.
+Infòrmacjô ò czasu zrëszaniô pòmôgô w ùstalanim jak dobrze danô wersjô Firefokosa robi. Chùtczészé zrëszenia (krótszi czas) òznôczają bëlniészé òsydżi.
 
 
 ;Data Collected
@@ -155,11 +155,11 @@ Logika rapòrtu ò stanié zdrowia Firefoksa
 
 
 ;The Firefox Health Report (FHR) has 4 categories of metrics:
-W rapòrce stónu zdrowiégò Firefoksa zapisywóné sã sztërë rzeczé:
+W Rapòrce ò Zdrowim Firefoksa zapisywóné sã sztërë rzeczé:
 
 
 ;Configuration
-Ùstawë
+Ùstôwë
 
 
 ;Device hardware, operating system, Firefox version
@@ -403,7 +403,7 @@ Jak długò (w minutach) dereje ternô sesjô
 
 
 ;Welcome to your Firefox Health Report
-Witôj w rapòrce ò stónie zdrowiégò Firefoksa
+Witôj w Rapòrce ò Zdrowim Firefoksa
 
 
 ;Welcome!
@@ -411,7 +411,7 @@ Witôj!
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
-Rapòrt ò stónie zdrowiégò Firefoksa dôwô mòżlëwòtã sprôwdzeniô òsygów przezérnika i jich pòprawienié.
+Rapòrt ò Zdrowiu Firefoksa dôwô mòżlëwòtã sprôwdzeniô òsygów przezérnika i jich pòprawienié.
 
 
 ;See My Report
@@ -432,258 +432,257 @@ Pòlitika priwatnoscë
 
 # The following strings are used only in the Mobile version of about:healthreport (Firefox for Android)
 ;Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
-Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
+Rapòrt ò Zdrowim Firefoksa zezwòlë na òptimizajcã i zbùdowanié bëlniészi wersje przezérnika. Ne rapòrtë sã terô prosté, le sã z czasã pòprawią. 
 
 
 ;Learn More&hellip;
-Learn More&hellip;
+Wëdowiedzë sã wicy i pòm&òże;
 
 
 ;Tip
-Tip
+Rada
 
 
 ;Looks like your Firefox is brand new! Check back after using Firefox for a while.
-Looks like your Firefox is brand new! Check back after using Firefox for a while.
+Wëzdrzi na to, że môsz nowégò Firefoksa! Sprôwdzë pòzdze, pò ùżëwanim Firefoksa przez jaczis czas.
 
 
 ;Important Metrics
-Important Metrics
+Impòrtëjë statisticzi
 
 
 ;Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
-Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
+Rapòrt ò Zdrowim Firefoksa zapisëjë infòrmacje ò przezérnikù i ùrządzeniô.  Mòżesz <a href="#raw" class="navigate">sprawdzëc, jaczé infòrmacje zapisëjëmë.</a> Mòżesz téż sprawdzëc, co môsz ùprzistãpnioné Mozillë.
 
 
 ;Device hardware, operating system, Firefox version.
-Device hardware, operating system, Firefox version.
+Hardwôre ùrządzenia, òperacjowi system, wersjô Firefoksa.
 
 
 ;Extensions, plugins, and number of installed add-ons.
-Extensions, plugins, and number of installed add-ons.
+Rozszerzenia, wtëkôcze, i winstalowóné dodôwczi.
 
 
 ;Key performance measures, such as launch speed.
-Key performance measures, such as launch speed.
+Nôwôżniészé pòmiarë wëdajnotë, taczé jak chùtkòsc zrëszaniô.
 
 
 ;Browsing duration, install time, number of bookmarks and pages.
-Browsing duration, install time, number of bookmarks and pages.
+Czas przezéraniô, instalacje, załóżczi i stronë.
 
 
 ;Home
-Home
+Dodóm
 
 
 ;CPU Count:
-CPU Count:
+Wielota procesorów:
 
 
 ;The number of CPU cores reported by Android.
-The number of CPU cores reported by Android.
+Wielota procesorów widzonëch przez Androida.
 
 
 ;Memory in MB:
-Memory in MB:
+Pamiãc w MB:
 
 
 ;The amount of memory reported by Android. Typically excludes graphics memory.
-The amount of memory reported by Android. Typically excludes graphics memory.
+Pamiãc widzonô przez Androida. Normalno, nie zamikô w se graficzny pamiãcë.
 
 
 ;Application Name:
-Application Name:
+Miono aplikacje:
 
 
 ;The internal application name for the browser.
-The internal application name for the browser.
+Bënowé miono aplikacje dlô przezérnika
 
 
 ;Application ID:
-Application ID:
+ID aplikacje:
 
 
 ;The internal identifier for the application.
-The internal identifier for the application.
-
+Bënowi identifikator aplikajce.
 
 ;Application Version:
-Application Version:
+Wersjô aplikacje:
 
 
 ;The current version of the browser
-The current version of the browser
+Òbecnô wersjô przezérnika
 
 
 ;Application Build ID:
-Application Build ID:
+Build ID aplikacje:
 
 
 ;The internal build timestamp.
-The internal build timestamp.
+Bënowi timestamp zbùdowaniô.
 
 
 ;Update Channel:
-Update Channel:
+Kanôł:
 
 
 ;Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
-Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
+Firefox je rozkòscërzóny przez kanałë: Nighly builds, Aurora pre-release kanal, sztabilnô wersjô Beta, i wëdanié pùbliczné. No pòle identifikùje nen kanôł.
 
 
 ;Vendor:
-Vendor:
+Producent:
 
 
 ;The organization that built this application. Typically Mozilla.
-The organization that built this application. Typically Mozilla.
+Chto zrobił aplikacjã. Normalno, Mozilla.
 
 
 ;Platform Version:
-Platform Version:
+Wersjô platfòrmë:
 
 
 ;An internal version identifier. Typically the same as appVersion.
-An internal version identifier. Typically the same as appVersion.
+Bënowi identifikator. Normalno, to samò co appVersion.
 
 
 ;Platform Build ID:
-Platform Build ID:
+Build ID platfòrmé:
 
 
 ;On Android this is an alternative name for appBuildID.
-On Android this is an alternative name for appBuildID.
+Na Androidze, to je alternatiwné miono dlô appBuildID.
 
 
 ;xpcomabi:
-xpcomabi:
+xpcomabi:{ok}
 
 
 ;The CPU architecture for which this application was built.
-The CPU architecture for which this application was built.
+Architektura CPU, dlô chtërnégò na aplikacjô bëła zbùdowónô.
 
 
 ;OS:
-OS:
+OS: {ok}
 
 
 ;The current operating system.
-The current operating system.
+Òbecny òperacjowi system.
 
 
 ;Architecture:
-Architecture:
+Architektura:
 
 
 ;The CPU architecture for this device.
-The CPU architecture for this device.
+Architektura CPU ùrządzeniô.
 
 
 ;System Name:
-System Name:
+Miono systemù:
 
 
 ;The current system name.
-The current system name.
+Miono òbecnégò systemù.
 
 
 ;System Version:
-System Version:
+Wersjô systemù:
 
 
 ;The Android OS revision.
-The Android OS revision.
+Rewizjô Andoid OS.
 
 
 ;Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
-Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
+Czë Firefox scygô czôrną lëstã dodôwków, bë Ce òchronic przed złoslëwima dodôwkama.
 
 
 ;Telemetry Enabled:
-Telemetry Enabled:
+Telemetriô włączonô:
 
 
 ;Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
-Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
+Czë Firefox wësëłô rapòrtë ò ùżëcym, bë pòmòc w rozwijanim przezérnika. Domëslno, kanałë są wëłączoné.
 
 
 ;Extension Count:
-Extension Count:
+Rozszerzenia:
 
 
 ;How many extension add-ons are installed.
-How many extension add-ons are installed.
+Winstalowóné rozszerzenia.
 
 
 ;Plugin Count:
-Plugin Count:
+Wtëkôcze:
 
 
 ;How many plugin add-ons are installed.
-How many plugin add-ons are installed.
+Winsatlowóné dodôwczi
 
 
 ;Theme Count:
-Theme Count:
+Mòtiwë:
 
 
 ;How many theme add-ons are installed.
-How many theme add-ons are installed.
+Winstlowóné mòtiwë.
 
 
 ;Addons:
-Addons:
+Dodôwczi:
 
 
 ;A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
-A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
+Òpisënk winstalowóné dodôwczi.
 
 
 ;Search Counts:
-Search Counts:
+Szëkba:
 
 
 ;A count of how many searches you issued to each of Mozilla's partner providers.
-A count of how many searches you issued to each of Mozilla's partner providers.
+Wielota szëkbów, pòzorotówóné pòdług partnerów Mozillë.
 
 
 ;Sessions and Startup Times
-Sessions and Startup Times
+Sesje i czas brékòwóny na jich zrëszanié
 
 
 ;For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
-For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
+Dlô kôżdi sesje przezéraniô, Rapòrt ò Zdrowim Firefoksa zapisëjë jak długò môsz pzezéróné (w sekùńdach), i czë sesjô sã normalnô skùńcza, czë òsta przerwónô przez awariã. Òkróm tegò, czas zrëszaniô (w milisekùńdach), żlë je przistãpny.
 
 
 ;Profile Creation:
-Profile Creation:
+Swòrzenié profilu:
 
 
 ;The day on which your browser profile was created. Counted in days since January 1st 1970.
-The day on which your browser profile was created. Counted in days since January 1st 1970.
+Dzéń swòrzeniô profilu. Liczony w dniach òd 1. sticznika 1970 rokù.
 
 
 ;Learn More
-Learn More
+Wëwiedzë sã wicy
 
 
 ;Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
-Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
+Rapòrt ò Zdrowim Firefoksa (RZF) analyzëjë to jak przezérnik radzy, i zapropònowac zmianã ùstawów. Wicy wëdowiedzë ò RZP, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>weńdzë na stronã Wspiarcô Mozilla.</a>
 
 
 ;For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
-For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
+Bë wëdowiedzëc sã wicy ò tim jak sã òbchòdzëmë z Twòjima pòdôwkama, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>òbôcz naju pòlitikã priwatnoscë.</a>
 
 
 ;You are currently sharing your health report with Mozilla.
-You are currently sharing your health report with Mozilla.
+Môsz ùprzistãpnioné Mozillë rapòrt ò zdrowim.
 
 
 ;Choose what I share
-Choose what I share
+Wëbierzë, co chcész ùprzistãpnic
 
 
 ;You are currently not sharing your health report with Mozilla.
-You are currently not sharing your health report with Mozilla.
+Ni môsz ùprzistãpnioné Mozillë rapòrtu ò zdrowim.
 
 
