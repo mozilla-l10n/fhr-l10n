@@ -7,7 +7,7 @@ Firefox-ի վիճակի մասին զեկույց
 
 
 ;Get insights and performance information about your version of Firefox.
-Ստացեք պատկերացում և տեղեկություններ Ձեր Firefox-ի արտադրողականության մասին։
+Ստացեք պատկերացում և տեղեկություններ ձեր Firefox-ի արտադրողականության մասին։
 
 
 ;Learn more...
@@ -15,7 +15,7 @@ Firefox-ի վիճակի մասին զեկույց
 
 
 ;Data Sharing
-Տվյալների տարածում
+Կիսվել տվյալներով
 
 
 ;ON
@@ -23,7 +23,7 @@ Firefox-ի վիճակի մասին զեկույց
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
-Դուք անջատել եք տվյալների տարածումը Mozilla-ի միջոցով, բայց դեռ հասանելի է դիտարկիչի արտադրողականությունը։
+Դուք անջատել եք տվյալներով Mozilla-ի հետ կիսվելու հնարավորությունը, բայց դեռ հասանելի է դիտարկիչի արտադրողականությունը։
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
@@ -31,11 +31,11 @@ Firefox-ի վիճակի մասին զեկույց
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
-Դուք ընտրել եք տվյալները ժամանակ առ ժամանակ տարածելու Mozilla-ի միջոցով։ Շնորհակալություն, որ մասնակցում եք մեր վեբի լուսավոր ապագայի մեր առաքելությանը։
+Դուք ընտրել եք տվյալներով ժամանակ առ ժամանակ Mozilla-ի հետ կիսվելու տարբերակը: Շնորհակալություն, որ մասնակցում եք վեբի լուսավոր ապագայի մեր առաքելությանը։
 
 
 ;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
-Իմացեք, թե ինչպես ենք մենք մշակում մեր տվյալները մեր <a href="%(privacy_url)s">անվտանգության քաղաքականությունում։</a>
+Իմացեք, թե ինչպես ենք մենք մշակում ձեր տվյալները մեր <a href="%(privacy_url)s">անվտանգության քաղաքականությունում։</a>
 
 
 ;Vital Stats
@@ -47,7 +47,7 @@ Firefox-ի վիճակի մասին զեկույց
 
 
 ;time open
-բացելու ժամանակը
+աշխատած ժամանակը
 
 
 ;last crash
@@ -55,7 +55,7 @@ Firefox-ի վիճակի մասին զեկույց
 
 
 ;bookmarks
-էջանիշներ
+էջանիշեր
 
 
 ;This Month
@@ -95,7 +95,7 @@ Firefox-ի վիճակի մասին զեկույց
 
 
 ;It looks like your browser has crashed a number of times recently. To learn more:
-Կարծես թե Ձեր դիտարկիչը բազմիցս ձախողվել է վերջերս։ Կարդալ ավելին.
+Կարծես թե ձեր դիտարկիչը բազմիցս ձախողվել է վերջերս։ Կարդալ ավելին.
 
 
 ;OFF
@@ -103,11 +103,11 @@ Firefox-ի վիճակի մասին զեկույց
 
 
 ;Visit our <a href="%(sumo_url)s">support website</a>
-Այցելեք մեր <a href="%(sumo_url)s">աջակցման կենտրոն</a>
+Այցելեք մեր <a href="%(sumo_url)s">աջակցության կենտրոն</a>
 
 
 ;View more <a href="%(details_url)s">detailed information</a>
-Նայեք ավելին՝ <a href="%(details_url)s">մանրամասն տեղեկություն</a>
+Ավելին՝ <a href="%(details_url)s">մանրամասն տեղեկություն</a>
 
 
 ;pages visited
@@ -115,7 +115,7 @@ Firefox-ի վիճակի մասին զեկույց
 
 
 ;Your browser seems to be running slower than usual. To learn more:
-Ձեր դիտարկիչը կարծես սովորականից դանդաղ է բացում։ Կարդալ ավելին.
+Ձեր դիտարկիչը կարծես սովորականից դանդաղ է բացվում։ Կարդալ ավելին.
 
 
 ;You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
@@ -123,7 +123,7 @@ Firefox-ի վիճակի մասին զեկույց
 
 
 ;Startup Time by Day
-Բացելու ժամանակը ըստ օրերի
+Մեկնարկի ժամանակը՝ ըստ օրերի
 
 
 ;Graph:
@@ -139,7 +139,7 @@ Firefox-ի վիճակի մասին զեկույց
 
 
 ;Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
-Բացելու ժամանակը օգնում է որոշել Firefox-ի արագագործությունը։ Հիմնականում արագ բացումը (այ. քիչ ժամանակում less time) ատացոլումն է բարձր արտադրողականության։
+Մեկնարկի ժամանակը օգնում է որոշել Firefox-ի արագագործությունը։ Հիմնականում արագ մեկնարկը (այսինքն կարճ ժամանակում) արտացոլումն է բարձր արտադրողականության։
 
 
 ;Data Collected
@@ -319,7 +319,7 @@ Gecko հիմնահարթակի կոդի տարբերակը
 
 
 ;Whether this add-on is an extension or a plug-in
-Արդյոք այս հավելումը ընդարձակում է, թե բաղադրիչ
+Արդյոք այս հավելումը ընդլայնում է, թե բաղադրիչ
 
 
 ;The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
@@ -387,7 +387,7 @@ Gecko հիմնահարթակի կոդի տարբերակը
 
 
 ;Time in seconds since the app was last started
-Անցած ժամանակը վայրկյաններով՝ ծրագրը վերջին անգամ բացելուց հետո
+Անցած ժամանակը վայրկյաններով՝ ծրագիրը վերջին անգամ բացելուց հետո
 
 
 ;Total number of bookmarks
@@ -411,7 +411,7 @@ Gecko հիմնահարթակի կոդի տարբերակը
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
-Firefox-ի վիճակի մասին զեկույցը հնարավորություն է տալիս տեղյակ լինել Ձեր Firefox-ի արտադրողականության մասին և ինչ պետք է անել այն լավացնելու համար։
+Firefox-ի վիճակի մասին զեկույցը հնարավորություն է տալիս տեղյակ լինել ձեր Firefox-ի արտադրողականության մասին և ինչ պետք է անել այն լավացնելու համար։
 
 
 ;See My Report
@@ -432,258 +432,258 @@ Firefox-ի վիճակի մասին զեկույցը հնարավորությու
 
 # The following strings are used only in the Mobile version of about:healthreport (Firefox for Android)
 ;Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
-Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
+Firefox-ի վիճակի մասին զեկույցը հնարավորություն է տալիս լավարկել ձեր Firefox-ը և օգնում է մեզ՝ այն ավելի լավը դարձնելու համար: Զեկույցները նախ կլինեն շատ պարզ, ապա կշարունակեն զարգանալ և աճել:
 
 
 ;Learn More&hellip;
-Learn More&hellip;
+Մանրամասն&hellip;
 
 
 ;Tip
-Tip
+Հուշում
 
 
 ;Looks like your Firefox is brand new! Check back after using Firefox for a while.
-Looks like your Firefox is brand new! Check back after using Firefox for a while.
+Կարծես թե նոր եք տեղադրել Firefox-ը: Վերադարձեք Firefox-ը մի փոքր օգտագործելուց հետո:
 
 
 ;Important Metrics
-Important Metrics
+Կարևոր ցուցիչներ
 
 
 ;Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
-Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
+Firefox-ի վիճակի մասին զեկույցը գրառում է տեղեկություններ ձեր դիտարկիչի և սարքի մասին: Կարող եք <a href="#raw" class="navigate">դիտել գրառված տեղեկությունները:</a> Կարող եք նաև դիտել, թե ինչով եք կիսվել Mozilla-ի հետ:
 
 
 ;Device hardware, operating system, Firefox version.
-Device hardware, operating system, Firefox version.
+Սարքակազմը, օպերացիոն համակարգը, Firefox-ի տարբերակը:
 
 
 ;Extensions, plugins, and number of installed add-ons.
-Extensions, plugins, and number of installed add-ons.
+Ընդլայնումներ, բաղադրիչներ և տեղադրված հավելումներ:
 
 
 ;Key performance measures, such as launch speed.
-Key performance measures, such as launch speed.
+Արագագործության ցուցիչները, օր՝ բացվելու արագությունը:
 
 
 ;Browsing duration, install time, number of bookmarks and pages.
-Browsing duration, install time, number of bookmarks and pages.
+Նավարկման ժամանակը, տեղադրելու ժամանակը, էջանիշերի և էջերի քանակը:
 
 
 ;Home
-Home
+Գլխավորը
 
 
 ;CPU Count:
-CPU Count:
+CPU-ների ք-ը.
 
 
 ;The number of CPU cores reported by Android.
-The number of CPU cores reported by Android.
+Android-ի կողմից որոշված CPU-ների քանակը:
 
 
 ;Memory in MB:
-Memory in MB:
+Հիշող. ՄԲ-ով.
 
 
 ;The amount of memory reported by Android. Typically excludes graphics memory.
-The amount of memory reported by Android. Typically excludes graphics memory.
+Android-ի կողմից որոշված հիշողության քանակը: Որպես կանոն բացառում է գրաֆիկականը:
 
 
 ;Application Name:
-Application Name:
+Ծրագրի անունը.
 
 
 ;The internal application name for the browser.
-The internal application name for the browser.
+Ծրագրի ներքին անունը դիտարկիչի համար:
 
 
 ;Application ID:
-Application ID:
+Ծրագրի ID-ին.
 
 
 ;The internal identifier for the application.
-The internal identifier for the application.
+Ծրագրի ներքին նույնացուցիչը:
 
 
 ;Application Version:
-Application Version:
+Ծրագրի տարբերակը.
 
 
 ;The current version of the browser
-The current version of the browser
+Դիտարկիչի գործող տարբերակը
 
 
 ;Application Build ID:
-Application Build ID:
+Ծրագրի կառուցման ID-ին.
 
 
 ;The internal build timestamp.
-The internal build timestamp.
+Ներքին կառուցման ժամադրոշմը:
 
 
 ;Update Channel:
-Update Channel:
+Թարմացումների ալիքը.
 
 
 ;Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
-Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
+Firefox-ը բաշխված է ըստ ալիքների՝ Nightly կառուցվածք՝ Aurora նախաթողարկման ալիք, կայուն Beta և ընդհանուր թողարկում: Այս դաշտը բնորոշում է ալիքը:
 
 
 ;Vendor:
-Vendor:
+Արտադրողը.
 
 
 ;The organization that built this application. Typically Mozilla.
-The organization that built this application. Typically Mozilla.
+Կազմակերպությունը, որը մշակել է այս ծրագիրը: Սովորաբար՝ Mozilla:
 
 
 ;Platform Version:
-Platform Version:
+Հարթակի տարբերակը.
 
 
 ;An internal version identifier. Typically the same as appVersion.
-An internal version identifier. Typically the same as appVersion.
+Նույնացուցիչի ներքին տարբերակը: Սովորաբար նույնն է, ինչ appVersion-ը:
 
 
 ;Platform Build ID:
-Platform Build ID:
+Հարթակի կառուցման ID-ին.
 
 
 ;On Android this is an alternative name for appBuildID.
-On Android this is an alternative name for appBuildID.
+Android-ում սա appBuildID-ի այլընտրանքային անունն է:
 
 
 ;xpcomabi:
-xpcomabi:
+xpcomabi: {ok}
 
 
 ;The CPU architecture for which this application was built.
-The CPU architecture for which this application was built.
+CPU-ի համակառույցը, որի համար այս ծրագիրը կառուցվել է:
 
 
 ;OS:
-OS:
+ՕՀ-ը.
 
 
 ;The current operating system.
-The current operating system.
+Գործող օպերացիոն համակարգը:
 
 
 ;Architecture:
-Architecture:
+Համակառույցը.
 
 
 ;The CPU architecture for this device.
-The CPU architecture for this device.
+CPU-ի համակառույցը այս սարքի համար:
 
 
 ;System Name:
-System Name:
+Համակարգի անունը.
 
 
 ;The current system name.
-The current system name.
+Գործող համակարգի անունը:
 
 
 ;System Version:
-System Version:
+Համակարգի տարբերակը.
 
 
 ;The Android OS revision.
-The Android OS revision.
+Android OS-ի վերանայումը:
 
 
 ;Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
-Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
+Firefox-ը ստանում է հավելումների սև ցուցակի արդյունքները՝ պաշտպանելու համար ձեզ վնասակար հավելումներից: Ծրագրայինը միաց. է:
 
 
 ;Telemetry Enabled:
-Telemetry Enabled:
+Telemetry-ին միացված է.
 
 
 ;Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
-Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
+Firefox-ին զեկուցում է տվյալների օգտագործման մանրամասների մասին՝ ծրագիրը զարգացնելու նպատակով: Ծրագրայինը անջ. է:
 
 
 ;Extension Count:
-Extension Count:
+Հավելումների քանակը.
 
 
 ;How many extension add-ons are installed.
-How many extension add-ons are installed.
+Քանի հավելում է տեղադրված:
 
 
 ;Plugin Count:
-Plugin Count:
+Բաղադրիչների քանակը.
 
 
 ;How many plugin add-ons are installed.
-How many plugin add-ons are installed.
+Քանի բաղադրիչ է տեղադրված:
 
 
 ;Theme Count:
-Theme Count:
+Ոճերի քանակը.
 
 
 ;How many theme add-ons are installed.
-How many theme add-ons are installed.
+Ոճերի քանի հավելում է տեղադրված:
 
 
 ;Addons:
-Addons:
+Հավելումներ.
 
 
 ;A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
-A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
+Տեղադրված հավելումների մանրամասները: Ոչ բոլոր հավելումներն են զեկուցվում՝ միայն բաղադրիչները, ընդլայնումները և ծառայությունները:
 
 
 ;Search Counts:
-Search Counts:
+Որոնումների քանակը.
 
 
 ;A count of how many searches you issued to each of Mozilla's partner providers.
-A count of how many searches you issued to each of Mozilla's partner providers.
+Որոնումների ընդհանուր քանակը, որ դուք կատարել եք Mozilla-ի գործընկեր մատակարարների միջոցով:
 
 
 ;Sessions and Startup Times
-Sessions and Startup Times
+Աշխատաշրջաններ և մեկնարկումներ
 
 
 ;For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
-For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
+Դիտարկման ամեն աշխատաշրջանում Firefox-ի վիճակի մասին զեկույցը գրառում է, թե մոտավոր ինչքան ժամանակ եք դուք նավարկել վեբում (վայրկյան) և արդյոք աշխատաշրջանը նորմալ է ավարտվել, թե ձախողվել է: Նաև ներառում է մեկնարկումների քանակը (մվ-ով), եթե հասանելի է:
 
 
 ;Profile Creation:
-Profile Creation:
+Պրոֆիլը ստեղծվել է.
 
 
 ;The day on which your browser profile was created. Counted in days since January 1st 1970.
-The day on which your browser profile was created. Counted in days since January 1st 1970.
+Այն օրը, երբ ստեղծվել է դիտարկիչի պպրոֆիլը: Հաշվվում է օրերը սկսած 1970թ. հունվարի է-ից:
 
 
 ;Learn More
-Learn More
+Մանրամասն
 
 
 ;Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
-Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
+Firefox-ի վիճակի մասին զեկույցը (FHR) վերլուծում է ձեր դիտարկիչի արագագործությունը՝ տրամադրելու համար ձեզ օգտակար հուշումներ, թե ինչպես էլ ավելի արագացնել Firefox-ը: Firefox-ի վիճակի մասին զեկույցի մասին առավել մանրամասն՝ <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>Mozilla-ի աջակցության կայքում:</a>
 
 
 ;For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
-For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
+Առավել մանրամասն այն մասին, թե ինչպես ենք մենք տնօրինում ձեր տվյալները՝ <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>անվտանգության քաղաքականությունում:</a>
 
 
 ;You are currently sharing your health report with Mozilla.
-You are currently sharing your health report with Mozilla.
+Այժմ դուք կիսվում եք վիճակի մասին զեկույցով Mozilla-ի հետ:
 
 
 ;Choose what I share
-Choose what I share
+Ընտրել, թե ինչով կիսվել
 
 
 ;You are currently not sharing your health report with Mozilla.
-You are currently not sharing your health report with Mozilla.
+Այժմ դուք չեք կիսվում վիճակի մասին զեկույցով Mozilla-ի հետ:
 
 
