@@ -163,7 +163,7 @@ Konfigurácia
 
 
 ;Device hardware, operating system, Firefox version
-Hardvér zariadenia, operačný systém, verzia Firefoxu...
+Hardvér zariadenia, operačný systém, verzia Firefoxu
 
 
 ;Customizations
@@ -171,7 +171,7 @@ Prispôsobenie
 
 
 ;Add-ons, count and type
-Doplnky, počet a typ...
+Doplnky, počet a typ
 
 
 ;Performance
@@ -179,11 +179,11 @@ Výkon
 
 
 ;Timing of browser events, rendering, session restores
-Doba vykonávania udalostí prehliadača, vykresľovanie, obnova relácií...
+Doba vykonávania udalostí prehliadača, vykresľovanie, obnova relácií
 
 
 ;Length of session, how old a profile is, count of crashes, count of pages
-Dĺžka relácie, aký starý je profil, počet zlyhaní, počet stránok v histórii...
+Dĺžka relácie, aký starý je profil, počet zlyhaní, počet stránok v histórii
 
 
 ;Detailed Description
@@ -436,35 +436,35 @@ Firefox Health Report lets you optimize your Firefox and helps us build a more e
 
 
 ;Learn More&hellip;
-Learn More&hellip;
+Ďalšie informácie&hellip;
 
 
 ;Tip
-Tip
+Tip {ok}
 
 
 ;Looks like your Firefox is brand new! Check back after using Firefox for a while.
-Looks like your Firefox is brand new! Check back after using Firefox for a while.
+Zdá sa, že Firefox je úplne nový! Vráťte sa, prosím, neskôr. Firefox zatiaľ zozbiera úvodný set údajov.
 
 
 ;Important Metrics
-Important Metrics
+Dôležité údaje
 
 
 ;Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
-Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
+Správa o kondícii Firefoxu zaznamenáva informácie o vašom prehliadači a zariadení. Môžete sa pozrieť, <a href="#raw" class="navigate">o ktoré informácie ide</a>. Môžete sa takisto pozrieť, aké údaje zdieľate so spoločnosťou Mozilla.
 
 
 ;Device hardware, operating system, Firefox version.
-Device hardware, operating system, Firefox version.
+Hardvér zariadenia, operačný systém, verzia Firefoxu.
 
 
 ;Extensions, plugins, and number of installed add-ons.
-Extensions, plugins, and number of installed add-ons.
+Rozšírenia, zásuvné moduly a počet nainštalovaných doplnkov.
 
 
 ;Key performance measures, such as launch speed.
-Key performance measures, such as launch speed.
+Kľúčové údajoe o výkonnosti, napríklad doba spustenia.
 
 
 ;Browsing duration, install time, number of bookmarks and pages.
@@ -564,7 +564,7 @@ The CPU architecture for which this application was built.
 
 
 ;OS:
-OS:
+OS: {ok}
 
 
 ;The current operating system.
@@ -580,19 +580,19 @@ The CPU architecture for this device.
 
 
 ;System Name:
-System Name:
+Názov systému:
 
 
 ;The current system name.
-The current system name.
+Aktuálny nzáov systému.
 
 
 ;System Version:
-System Version:
+Verzia systému:
 
 
 ;The Android OS revision.
-The Android OS revision.
+Revízia Android OS.
 
 
 ;Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
@@ -664,7 +664,7 @@ The day on which your browser profile was created. Counted in days since January
 
 
 ;Learn More
-Learn More
+Ďalšie informácie
 
 
 ;Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
