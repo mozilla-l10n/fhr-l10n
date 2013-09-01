@@ -39,7 +39,7 @@ Découvrez comment nous gérons vos données dans notre <a href="%(privacy_url)s
 
 
 ;Vital Stats
-Statistiques clefs
+Statistiques clés
 
 
 ;version
@@ -432,258 +432,256 @@ Politique de confidentialité
 
 # The following strings are used only in the Mobile version of about:healthreport (Firefox for Android)
 ;Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
-Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
+Grâce au Bilan de santé de Firefox, vous pourrez optimiser votre navigateur et nous aider à le rendre meilleur encore. Les rapports seront d'abord plutôt rudimentaires, mais ils vont ensuite évoluer et seront plus nourris.
+Dans un premier temps, les rapports seront rudimentaires, mais ils seront prochainement plus complets.
 
 
 ;Learn More&hellip;
-Learn More&hellip;
+Pour en savoir plus&hellip;
 
 
 ;Tip
-Tip
+Astuce
 
 
 ;Looks like your Firefox is brand new! Check back after using Firefox for a while.
 Looks like your Firefox is brand new! Check back after using Firefox for a while.
+On dirait que votre Firefox est flambant neuf&nbsp;! Revenez après avoir utilisé Firefox un certain temps.
 
 
 ;Important Metrics
-Important Metrics
+Statistiques importantes
 
 
 ;Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
-Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
+Le Bilan de santé de Firefox collecte des informations sur votre navigateur et votre appareil. Vous pouvez <a href="#raw" class="navigate">visualiser les informations que nous enregistrons.</a> Vous pouvez également voir ce que vous partagez avec Mozilla.
 
 
 ;Device hardware, operating system, Firefox version.
-Device hardware, operating system, Firefox version.
+Type d'appareil, système d'exploitation, version de Firefox.
 
 
 ;Extensions, plugins, and number of installed add-ons.
-Extensions, plugins, and number of installed add-ons.
+Extensions, plugins et nombre de modules installés.
 
 
 ;Key performance measures, such as launch speed.
-Key performance measures, such as launch speed.
+Mesures de performance clés, telles que la vitesse de démarrage.
 
 
 ;Browsing duration, install time, number of bookmarks and pages.
-Browsing duration, install time, number of bookmarks and pages.
+Durée de navigation, date d'installation, nombre de pages et de marque-pages.
 
 
 ;Home
-Home
+Accueil
 
 
 ;CPU Count:
-CPU Count:
+Nombre de processeurs&nbsp;:
 
 
 ;The number of CPU cores reported by Android.
-The number of CPU cores reported by Android.
+Le nombre de processeurs communiqué par Android.
 
 
 ;Memory in MB:
-Memory in MB:
+Mémoire en Mo&nbsp;:
 
 
 ;The amount of memory reported by Android. Typically excludes graphics memory.
-The amount of memory reported by Android. Typically excludes graphics memory.
+La quantité de mémoire communiquée par Android. La mémoire graphique est généralement exclue.
 
 
 ;Application Name:
-Application Name:
+Nom de l'application&nbsp;:
 
 
 ;The internal application name for the browser.
-The internal application name for the browser.
+Le nom de l'application interne pour le navigateur.
 
 
 ;Application ID:
-Application ID:
+ID de l'application&nbsp;:
 
 
 ;The internal identifier for the application.
-The internal identifier for the application.
+L'identifiant interne de l'application.
 
 
 ;Application Version:
-Application Version:
+Version de l'application&nbsp;:
 
 
 ;The current version of the browser
-The current version of the browser
+La version actuelle du navigateur
 
 
 ;Application Build ID:
-Application Build ID:
+Identifiant de compilation de l'application&nbsp;:
 
 
 ;The internal build timestamp.
-The internal build timestamp.
+L'horodatage interne de la compilation.
 
 
 ;Update Channel:
-Update Channel:
+Canal de mise à jour&nbsp;:
 
 
 ;Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
-Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
+Firefox est distribué à travers plusieurs canaux&nbsp;: les compilations nocturnes (Nightly), le canal Aurora, le canal stable Beta et le canal destiné au grand public. Ce champ indique le canal.
 
 
 ;Vendor:
-Vendor:
+Éditeur&nbsp;:
 
 
 ;The organization that built this application. Typically Mozilla.
-The organization that built this application. Typically Mozilla.
+L'organisation qui a réalisé cette application. Généralement Mozilla.
 
 
 ;Platform Version:
-Platform Version:
+Version de la plate-forme&nbsp;:
 
 
 ;An internal version identifier. Typically the same as appVersion.
-An internal version identifier. Typically the same as appVersion.
+Un identifiant interne de version. Généralement le même que pour appVersion.
 
 
 ;Platform Build ID:
-Platform Build ID:
+Identifiant de compilation de la plate-forme&nbsp;:
 
 
 ;On Android this is an alternative name for appBuildID.
-On Android this is an alternative name for appBuildID.
-
+Sur Android, c'est un synonyme pour appBuildID.
 
 ;xpcomabi:
-xpcomabi:
+xpcomabi&nbsp;:
 
 
 ;The CPU architecture for which this application was built.
-The CPU architecture for which this application was built.
-
+L'architecture du processeur pour laquelle l'application a été conçue.
 
 ;OS:
-OS:
+Système d'exploitation&nbsp;:
 
 
 ;The current operating system.
-The current operating system.
+Le système d'exploitation actuel.
 
 
 ;Architecture:
-Architecture:
+Architecture&nbsp;:
 
 
 ;The CPU architecture for this device.
-The CPU architecture for this device.
+Le type d'architecture du processeur de cet appareil.
 
 
 ;System Name:
-System Name:
+Nom du système&nbsp;:
 
 
 ;The current system name.
-The current system name.
+Le nom actuel du système.
 
 
 ;System Version:
-System Version:
+Version du système&nbsp;:
 
 
 ;The Android OS revision.
-The Android OS revision.
+Le numéro de version du système d'exploitation Android.
 
 
 ;Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
-Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
+Firefox récupère-t-il la liste de blocage des modules complémentaires afin de vous protéger des modules complémentaires malveillants. Activé par défaut.
 
 
 ;Telemetry Enabled:
-Telemetry Enabled:
+Télémétrie activée&nbsp;:
 
 
 ;Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
-Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
+Firefox envoie-t-il des données d'utilisation détaillées afin de faciliter son développement. Désactivé par défaut sur la plupart des canaux.
 
 
 ;Extension Count:
-Extension Count:
+Nombre d'extensions&nbsp;:
 
 
 ;How many extension add-ons are installed.
-How many extension add-ons are installed.
+Combien d'extensions sont installées.
 
 
 ;Plugin Count:
-Plugin Count:
+Nombre de plugins&nbsp;:
 
 
 ;How many plugin add-ons are installed.
-How many plugin add-ons are installed.
+Combien de plugins sont installés.
 
 
 ;Theme Count:
-Theme Count:
+Nombre de thèmes&nbsp;:
 
 
 ;How many theme add-ons are installed.
-How many theme add-ons are installed.
+Combien de thèmes sont installés.
 
 
 ;Addons:
-Addons:
+Modules complémentaires&nbsp;:
 
 
 ;A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
-A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
+Une bibliothèque indiquant les modules installés. Tout les modules ne sont pas repris&nbsp;: seuls les plugins, extensions et services sont présents.
 
 
 ;Search Counts:
-Search Counts:
+Nombre de recherches&nbsp;:
 
 
 ;A count of how many searches you issued to each of Mozilla's partner providers.
-A count of how many searches you issued to each of Mozilla's partner providers.
+Combien de recherches vous avez effectuées à l'aide des moteurs de recherche partenaires de Mozilla.
 
 
 ;Sessions and Startup Times
-Sessions and Startup Times
+Sessions et temps de démarrage
 
 
 ;For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
-For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
+À chaque session de navigation, le Bilan de santé de Firefox enregistre le temps approximatif de navigation (en secondes) et si la session s'est terminée normalement ou à cause d'une erreur. Il peut aussi éventuellement inclure les temps de démarrage (en millisecondes)
 
 
 ;Profile Creation:
-Profile Creation:
+Création du profil&nbsp;:
 
 
 ;The day on which your browser profile was created. Counted in days since January 1st 1970.
-The day on which your browser profile was created. Counted in days since January 1st 1970.
+Le jour où le profil de votre navigateur a été créé. Nombre de jours depuis le 1er janvier 1970.
 
 
 ;Learn More
-Learn More
+En savoir plus
 
 
 ;Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
-Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
+Le Bilan de santé de Firefox analyse les performances de votre navigateur pour vous proposer des astuces pratiques qui vous aideront à tirer le meilleur parti de Firefox. Pour plus d'informations sur le Bilan de santé de Firefox, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visiter la section assistance de Mozilla.</a>
 
 
 ;For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
-For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
+Pour plus d'informations sur le traitement de vos données, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>consulter notre politique de confidentialité.</a>
 
 
 ;You are currently sharing your health report with Mozilla.
-You are currently sharing your health report with Mozilla.
+Vous partagez actuellement votre bilan de santé avec Mozilla.
 
 
 ;Choose what I share
-Choose what I share
+Choisir ce que je partage
 
 
 ;You are currently not sharing your health report with Mozilla.
-You are currently not sharing your health report with Mozilla.
-
-
+Vous ne partagez pas votre bilan de santé avec Mozilla.
