@@ -468,7 +468,7 @@ Kľúčové údaje o výkonnosti, napríklad doba spustenia.
 
 
 ;Browsing duration, install time, number of bookmarks and pages.
-Browsing duration, install time, number of bookmarks and pages.
+Dĺžka prehliadania, čas inštalácie, počet záložiek a stránok.
 
 
 ;Home
@@ -480,79 +480,79 @@ Počet procesorov:
 
 
 ;The number of CPU cores reported by Android.
-The number of CPU cores reported by Android.
+Počet jadier CPU reportovaný systémom Android.
 
 
 ;Memory in MB:
-Memory in MB:
+Pamäť v MB:
 
 
 ;The amount of memory reported by Android. Typically excludes graphics memory.
-The amount of memory reported by Android. Typically excludes graphics memory.
+Množstvo pamäte reportované systémom Android. Typicky nezahŕňa pamäť pre grafiku.
 
 
 ;Application Name:
-Application Name:
+Názov aplikácie:
 
 
 ;The internal application name for the browser.
-The internal application name for the browser.
+Interný názov aplikácie prehliadača.
 
 
 ;Application ID:
-Application ID:
+ID aplikácie:
 
 
 ;The internal identifier for the application.
-The internal identifier for the application.
+Interný identifikátor aplikácie.
 
 
 ;Application Version:
-Application Version:
+Verzia aplikácie:
 
 
 ;The current version of the browser
-The current version of the browser
+Aktuálna verzia prehliadača
 
 
 ;Application Build ID:
-Application Build ID:
+ID zostavenia aplikácie:
 
 
 ;The internal build timestamp.
-The internal build timestamp.
+Interná časová známka zostavenia.
 
 
 ;Update Channel:
-Update Channel:
+Aktualizačný kanál:
 
 
 ;Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
-Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
+Firefox je distribuovaný cez nasledovné kanály: nočné zostavenia, testovací kanál Aurora, stabilný Beta kanál a verejné zostavenia. Toto pole identifikuje daný kanál.
 
 
 ;Vendor:
-Vendor:
+Organizácia:
 
 
 ;The organization that built this application. Typically Mozilla.
-The organization that built this application. Typically Mozilla.
+Organizácia, ktorá zostavila túto aplikáciu. Typicky Mozilla.
 
 
 ;Platform Version:
-Platform Version:
+Verzia platformy:
 
 
 ;An internal version identifier. Typically the same as appVersion.
-An internal version identifier. Typically the same as appVersion.
+Interný identifikátor verzie. Typicky rovnaký ako verzia aplikácie.
 
 
 ;Platform Build ID:
-Platform Build ID:
+ID zostavenia platformy:
 
 
 ;On Android this is an alternative name for appBuildID.
-On Android this is an alternative name for appBuildID.
+V systéme Android je toto alternatívny názov pre appBuildID.
 
 
 ;xpcomabi:
@@ -604,7 +604,7 @@ Telemetria povolená:
 
 
 ;Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
-Či Firefox reportuje podorbné údaje o používaní s cieľom pomôcť vývojárom. Pre väčšinu kanálov predvolene vypnuté.
+Či Firefox reportuje podrobné údaje o používaní s cieľom pomôcť vývojárom. Pre väčšinu kanálov predvolene vypnuté.
 
 
 ;Extension Count:
@@ -636,15 +636,15 @@ Doplnky:
 
 
 ;A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
-A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
+Kolekcia popisujúca nainštalované doplnky. Nezahŕňa všetky doplnky: zaznamenávajú sa len zásuvné moduly, rozšírenia a služby.
 
 
 ;Search Counts:
-Search Counts:
+Počty vyhľadávaní:
 
 
 ;A count of how many searches you issued to each of Mozilla's partner providers.
-A count of how many searches you issued to each of Mozilla's partner providers.
+Počet vyhľadávaní pre každý predvolene nainštalovaný vyhľadávací modul.
 
 
 ;Sessions and Startup Times
