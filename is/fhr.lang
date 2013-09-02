@@ -211,7 +211,7 @@ Stýrikerfið sem þessi útgáfa var stillt fyrir
 
 
 ;Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
-Auðkenni á þessari dreifingu af af forritinu. Tekið frá <var>distribution.id</var> breytu
+Auðkenni á þessari dreifingu af forritinu. Tekið frá <var>distribution.id</var> breytu
 
 
 ;Version of the distribution, taken from the <var>distribution.version</var> preference
@@ -223,7 +223,7 @@ Auðkenni á þessari dreifingu af af forritinu. Tekið frá <var>distribution.i
 
 
 ;Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
-Auðkenni sem er einkvæmt fyrir forrit og auðkennir hvort það er Firefox eða Thunderbird o.s.frv. Þetta er fyrir allar uppsetningar af forritinu sama hvað nafnið er í <var>appName</var>
+Auðkenni er einkvæmt fyrir forrit og auðkennir hvort það er Firefox eða Thunderbird o.s.frv. Þetta er fyrir allar uppsetningar af forritinu sama hvað nafnið er í <var>appName</var>
 
 
 ;The configured name of the application (Firefox/Aurora/Nightly for instance)
@@ -283,11 +283,11 @@ Dagsetningin þegar þessi útgáfa var fyrst notuð með uppsetningunni
 
 
 ;An application version which has been used with this installation profile
-Útgáfunúmer sem hefur verið notað með þessari uppsetningu
+Útgáfunúmer sem var notað með þessari uppsetningu
 
 
 ;The number of add-ons of this type that existed in the profile on this date
-Fjöldi viðbóta af þessari tegund sem var í uppsetningu á þessari dagsetningu
+Fjöldi viðbóta af þessari tegund sem voru í uppsetningunni á þessari dagsetningu
 
 
 ;<var>True</var> if the application automatically disabled the add-on
@@ -307,7 +307,7 @@ Auðkenni viðbótar eins og það er skilgreint af höfundi viðbótar
 
 
 ;The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
-Nýjasta dagsetning sem þessi viðbót var sett upp (gamlar upplýsingar um viðbætur sem voru teknar út eru ekki geymdar).
+Nýjasta dagsetningin sem þessi viðbót var sett upp (gamlar upplýsingar um viðbætur sem voru teknar út eru ekki geymdar).
 
 
 ;The number of searches performed with this search engine from this part of the UI
@@ -351,11 +351,11 @@ Fjöldi skipta sem forritið keyrði en hætti ekki eðlilega.
 
 
 ;The time in seconds that the aborted sessions were not idle
-Tími í sekúndum fyrir þær lotur sem hætt var við voru ekki aðgerðalausar
+Tími í sekúndum fyrir aðgerðarleysi fyrir þær lotur sem hætt var
 
 
 ;The time in seconds that the aborted sessions were running
-Tími í sekúndum fyrir þær lotur sem hætt var við voru að keyra
+Tími í sekúndum sem lotur keyrðu sem hætt var við
 
 
 ;The number of days since this application profile directory was created
@@ -375,7 +375,7 @@ Tími í sekúndum fyrir lotur sem var lokið og voru keyrandi
 
 
 ;Total number of crashes that were recorded but not yet submitted
-Fjöldi skipta sem forritið hrundi og var skráð niður en ekki ennþá búið að senda
+Fjöldi skipta sem forritið hrundi og var skráð en ekki ennþá búið að senda
 
 
 ;Total number of crashes that have been submitted
@@ -432,258 +432,258 @@ Meðferð persónuupplýsinga
 
 # The following strings are used only in the Mobile version of about:healthreport (Firefox for Android)
 ;Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
-Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
+Firefox ástandsskoðunarskýrsla gerir þér kleift að fínstilla Firefox og hjálpa okkur að búa til betri vafra. Skýrslurnar verða einfaldar í fyrstu, en munu halda áfram að þróast og stækka.
 
 
 ;Learn More&hellip;
-Learn More&hellip;
+Fræðast meira&hellip;
 
 
 ;Tip
-Tip
+Ábending
 
 
 ;Looks like your Firefox is brand new! Check back after using Firefox for a while.
-Looks like your Firefox is brand new! Check back after using Firefox for a while.
+Þú ert með glænýjan Firefox! Athugaðu aftur eftir að þú hefur notað hann í einhvern tíma.
 
 
 ;Important Metrics
-Important Metrics
+Mikilvægar mælingar
 
 
 ;Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
-Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
+Firefox ástandsskoðunarskýrsla geymir upplýsingar um vafra og tæki. Þú getur <a href="#raw" class="navigate">skoðað hvaða upplýsingar við geymum.</a> Þú getur einnig séð hverju við deilum með Mozilla.
 
 
 ;Device hardware, operating system, Firefox version.
-Device hardware, operating system, Firefox version.
+Vélbúnaður, stýrikerfi, Firefox útgáfa.
 
 
 ;Extensions, plugins, and number of installed add-ons.
-Extensions, plugins, and number of installed add-ons.
+Viðbætur, tengiforrit, og fjöldi uppsettra viðbóta.
 
 
 ;Key performance measures, such as launch speed.
-Key performance measures, such as launch speed.
+Lykilatriði fyrir mælingar afkastagetu, t.d. ræsitími.
 
 
 ;Browsing duration, install time, number of bookmarks and pages.
-Browsing duration, install time, number of bookmarks and pages.
+Vafratímamælingar, tími uppsetningar, fjöldi bókamerkja og síður.
 
 
 ;Home
-Home
+Heim
 
 
 ;CPU Count:
-CPU Count:
+CPU fjöldi:
 
 
 ;The number of CPU cores reported by Android.
-The number of CPU cores reported by Android.
+Fjöldi CPU kjarna sem eru skilgreindir í Android.
 
 
 ;Memory in MB:
-Memory in MB:
+Minni í MB:
 
 
 ;The amount of memory reported by Android. Typically excludes graphics memory.
-The amount of memory reported by Android. Typically excludes graphics memory.
+Heildarminni í Android. Venjulega er grafískt minni undantekið.
 
 
 ;Application Name:
-Application Name:
+Nafn forrits:
 
 
 ;The internal application name for the browser.
-The internal application name for the browser.
+Innra nafn vafrans.
 
 
 ;Application ID:
-Application ID:
+Auðkenni forrits:
 
 
 ;The internal identifier for the application.
-The internal identifier for the application.
+Innra auðkenni forrits.
 
 
 ;Application Version:
-Application Version:
+Útgáfa forrits:
 
 
 ;The current version of the browser
-The current version of the browser
+Núverandi útgáfa vafrans
 
 
 ;Application Build ID:
-Application Build ID:
+Byggingarauðkenni:
 
 
 ;The internal build timestamp.
-The internal build timestamp.
+Innri byggingartímastimpill.
 
 
 ;Update Channel:
-Update Channel:
+Uppfærslurás:
 
 
 ;Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
-Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
+Firefox er dreift í gegnum rásir: Nightly builds, Aurora for-útgáfu rás, beta útgáfa, og opinbera útgáfurásin. Þetta svæði skilgreinir hvaða rás er í gangi.
 
 
 ;Vendor:
-Vendor:
+Framleiðandi:
 
 
 ;The organization that built this application. Typically Mozilla.
-The organization that built this application. Typically Mozilla.
+Fyrirtækið sem bjó til þtta forrit. Venjulega Mozilla.
 
 
 ;Platform Version:
-Platform Version:
+Útgáfa stýrikerfis:
 
 
 ;An internal version identifier. Typically the same as appVersion.
-An internal version identifier. Typically the same as appVersion.
+Innra útgáfunúmer. Venjulega það sama og appversion.
 
 
 ;Platform Build ID:
-Platform Build ID:
+Byggingarauðkenni stýrikerfis:
 
 
 ;On Android this is an alternative name for appBuildID.
-On Android this is an alternative name for appBuildID.
+Á Android er þetta auka nafn fyrir appBuildID.
 
 
 ;xpcomabi:
-xpcomabi:
+xpcomabi: {ok}
 
 
 ;The CPU architecture for which this application was built.
-The CPU architecture for which this application was built.
+CPU högunin sem þetta forrit var byggt fyrir.
 
 
 ;OS:
-OS:
+Stýrikerfi:
 
 
 ;The current operating system.
-The current operating system.
+Núverandi stýrikerfi
 
 
 ;Architecture:
-Architecture:
+Vélbúnaðarhögun:
 
 
 ;The CPU architecture for this device.
-The CPU architecture for this device.
+CPU högunin fyrir þetta tæki.
 
 
 ;System Name:
-System Name:
+Kerfisnafn:
 
 
 ;The current system name.
-The current system name.
+Núverandi kerfisnafn.
 
 
 ;System Version:
-System Version:
+Kerfisútgáfa:
 
 
 ;The Android OS revision.
-The Android OS revision.
+Android útgáfa.
 
 
 ;Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
-Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
+Hvort Firefox nái í viðbótar blokklista til verja þig gegn hættulegum viðbótum. Er sjálfgefið virkt.
 
 
 ;Telemetry Enabled:
-Telemetry Enabled:
+Fjarmælingar virkar:
 
 
 ;Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
-Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
+Hvort Firefox sendi nákvæm notkunargögn til að hjálpa upp á þróun. Er sjálfgefið ekki virkt fyrir flestar rásir.
 
 
 ;Extension Count:
-Extension Count:
+Fjöldi viðbóta:
 
 
 ;How many extension add-ons are installed.
-How many extension add-ons are installed.
+Hve margar viðbætur eru uppsettar.
 
 
 ;Plugin Count:
-Plugin Count:
+FJöldi tengiforrita:
 
 
 ;How many plugin add-ons are installed.
-How many plugin add-ons are installed.
+Hve mörg tengiforrit eru uppsett.
 
 
 ;Theme Count:
-Theme Count:
+Fjöldi þema:
 
 
 ;How many theme add-ons are installed.
-How many theme add-ons are installed.
+Hve mörg þema eru uppsettar.
 
 
 ;Addons:
-Addons:
+Viðbætur:
 
 
 ;A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
-A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
+Listi sem lýsir uppsettum viðbótum. Ekki eru allar viðbætur birtar: Aðeins tengiforrit, viðbætur, og þjónustur.
 
 
 ;Search Counts:
-Search Counts:
+Fjöldi leita:
 
 
 ;A count of how many searches you issued to each of Mozilla's partner providers.
-A count of how many searches you issued to each of Mozilla's partner providers.
+Fjöldi leita sem þú sendir á aðila tengda Mozilla.
 
 
 ;Sessions and Startup Times
-Sessions and Startup Times
+Lotur og ræsitími
 
 
 ;For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
-For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
+Fyrir hverja lotu, skráir Firefox ástandsskoðunarskýrsla hve lengi þú varst að vafra (í sekúndum), og hvort lotan hætti eðlilega eða vegna hruns. Einnig inniheldur skýrslan ræsitíma (í millisekúndum), ef það er tiltækt.
 
 
 ;Profile Creation:
-Profile Creation:
+Dagsetning vafranotanda:
 
 
 ;The day on which your browser profile was created. Counted in days since January 1st 1970.
-The day on which your browser profile was created. Counted in days since January 1st 1970.
+Dagsetningin sem vafranotandinn var búinn til. Talið í dögum frá 1. janúart 1970.
 
 
 ;Learn More
-Learn More
+Fræðast meira
 
 
 ;Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
-Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
+Firefox ástandsskoðunarskýrsla (FHR) greinir afköst vafrans, svo hægt sé að senda þér áhugaverðar ábendingar sem geta hjálpað þér að fá sem mest út úr Firefox. Fyrir meiri upplýsingar um Firefox ástandsskoðunarskýrslu, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>kíktu á hjálparsvæði Mozilla.</a>
 
 
 ;For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
-For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
+Fyrir meiri upplýsingar um hvernig þín gögn eru meðhöndluð, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>kíktu á meðferð persónuuplýsinga.</a>
 
 
 ;You are currently sharing your health report with Mozilla.
-You are currently sharing your health report with Mozilla.
+Þú deilir ástandskoðunarskýrslu með Mozilla.
 
 
 ;Choose what I share
-Choose what I share
+Velja hverju ég vill deila
 
 
 ;You are currently not sharing your health report with Mozilla.
-You are currently not sharing your health report with Mozilla.
+Þú ert ekki að deila ástandskoðunarskýrslu með Mozilla.
 
 
