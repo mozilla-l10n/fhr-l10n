@@ -512,11 +512,11 @@ Version de l'application&nbsp;:
 
 
 ;The current version of the browser
-La version actuelle du navigateur
+La version actuelle du navigateur.
 
 
 ;Application Build ID:
-Identifiant de compilation de l'application&nbsp;:
+ID de compilation de l'application&nbsp;:
 
 
 ;The internal build timestamp.
@@ -548,7 +548,7 @@ Un identifiant interne de version. Généralement le même que pour appVersion.
 
 
 ;Platform Build ID:
-Identifiant de compilation de la plate-forme&nbsp;:
+ID de compilation de la plate-forme&nbsp;:
 
 
 ;On Android this is an alternative name for appBuildID.
@@ -646,11 +646,11 @@ Combien de recherches vous avez effectuées à l'aide des moteurs de recherche p
 
 
 ;Sessions and Startup Times
-Sessions et temps de démarrage
+Sessions et temps de démarrage&nbsp;:
 
 
 ;For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
-À chaque session de navigation, le Bilan de santé de Firefox enregistre le temps approximatif de navigation (en secondes) et si la session s'est terminée normalement ou à cause d'une erreur. Il peut aussi éventuellement inclure les temps de démarrage (en millisecondes)
+À chaque session de navigation, le Bilan de santé de Firefox enregistre le temps approximatif de navigation (en secondes) et si la session s'est terminée normalement ou à cause d'une erreur. Il peut aussi éventuellement inclure les temps de démarrage (en millisecondes).
 
 
 ;Profile Creation:
