@@ -430,129 +430,131 @@ Mussar la statistica
 Directivas per la protecziun da datas
 
 
+
+
 # The following strings are used only in the Mobile version of about:healthreport (Firefox for Android)
 ;Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
-Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
+L'analisa da sanadad da Firefox ta lascha optinar tes Firefox ed ans gida da far in navigatur anc meglier. Ils rapports vegnan èn anc fitg s'impels l'entschatta, ma cun il temp vegnan els a sa sviluppar e creschar.
 
 
 ;Learn More&hellip;
-Learn More&hellip;
+Dapli infurmaziuns&hellip;
 
 
 ;Tip
-Tip
+Avis
 
 
 ;Looks like your Firefox is brand new! Check back after using Firefox for a while.
-Looks like your Firefox is brand new! Check back after using Firefox for a while.
+I para sco sche tes Firefox fiss nov! Turna sche ti has utilisà Firefox per in temp.
 
 
 ;Important Metrics
-Important Metrics
+Statisticas impurtantas
 
 
 ;Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
-Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
+L'analisa da sanadad da Firefox registrescha infurmaziuns davart tes navigatur e tes apparat. ti pos <a href="#raw" class="navigate">contemplar las infurmaziuns che nus registrain.</a> Ti pos era contemplar tge che ti cundividas cun Mozilla. 
 
 
 ;Device hardware, operating system, Firefox version.
-Device hardware, operating system, Firefox version.
+Hardware e sistem operativ da tes apparat e la versiun da Firefox.
 
 
 ;Extensions, plugins, and number of installed add-ons.
-Extensions, plugins, and number of installed add-ons.
+Extensiuns, plug-ins ed il dumber da supplements installads.
 
 
 ;Key performance measures, such as launch speed.
-Key performance measures, such as launch speed.
+Mesiras principalas da la prestaziun sco il tempo d'aviar.
 
 
 ;Browsing duration, install time, number of bookmarks and pages.
-Browsing duration, install time, number of bookmarks and pages.
+Durada da navigar, temp d'installaziun, dumber da segnapaginas e paginas.
 
 
 ;Home
-Home
+Chasa
 
 
 ;CPU Count:
-CPU Count:
+Dumber da CPUs:
 
 
 ;The number of CPU cores reported by Android.
-The number of CPU cores reported by Android.
+Il dumber da CPUs tenor inditgaziuns dad Android.
 
 
 ;Memory in MB:
-Memory in MB:
+Memoiria en MB:
 
 
 ;The amount of memory reported by Android. Typically excludes graphics memory.
-The amount of memory reported by Android. Typically excludes graphics memory.
+Il dumber da memoria rapportà dad Android. Normailmain senza la memoria da grafica.
 
 
 ;Application Name:
-Application Name:
+Num da l'applicaziun:
 
 
 ;The internal application name for the browser.
-The internal application name for the browser.
+Il num d'applicaziun intern per il navigatur.
 
 
 ;Application ID:
-Application ID:
+L'ID da l'applicaziun:
 
 
 ;The internal identifier for the application.
-The internal identifier for the application.
+L'identificatur intern per l'lapplicaziun.
 
 
 ;Application Version:
-Application Version:
+Versiun da l'applicaziun:
 
 
 ;The current version of the browser
-The current version of the browser
+La versiun actuala dal navigatur.
 
 
 ;Application Build ID:
-Application Build ID:
+L'ID dal buld da l'applicaziun:
 
 
 ;The internal build timestamp.
-The internal build timestamp.
+Il timestamp intern dal build.
 
 
 ;Update Channel:
-Update Channel:
+Chanal d'actualisaziun:
 
 
 ;Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
-Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
+Firefox vegn distribuì entras chanals: Nightly builds, il chanal Aurora cun versiuns avant la publitgaziun, il chanal stabel cun versiuns da Beta e la publitgaziun finala. Quest champ identifitgescha il chanal.
 
 
 ;Vendor:
-Vendor:
+Producent:
 
 
 ;The organization that built this application. Typically Mozilla.
-The organization that built this application. Typically Mozilla.
+L'organisaziun che ha fatg questa applicaziun. Normalmain Mozilla.
 
 
 ;Platform Version:
-Platform Version:
+Versiun da la plattafurma:
 
 
 ;An internal version identifier. Typically the same as appVersion.
-An internal version identifier. Typically the same as appVersion.
+In identifitgader intern per la versiun. Normalmain il medem sco appVersion.
 
 
 ;Platform Build ID:
-Platform Build ID:
+ID da la plattafurma da build:
 
 
 ;On Android this is an alternative name for appBuildID.
-On Android this is an alternative name for appBuildID.
+Sut Android è quest in num alternativ per appBuildID.
 
 
 ;xpcomabi:
@@ -560,7 +562,7 @@ xpcomabi:
 
 
 ;The CPU architecture for which this application was built.
-The CPU architecture for which this application was built.
+L'architectura da CPU per la quala questa applicaziun è vegnida creada.
 
 
 ;OS:
@@ -568,122 +570,122 @@ OS:
 
 
 ;The current operating system.
-The current operating system.
+Il sistem operativ actual.
 
 
 ;Architecture:
-Architecture:
+Architectura:
 
 
 ;The CPU architecture for this device.
-The CPU architecture for this device.
+L'architectura da CPU per quest apparat.
 
 
 ;System Name:
-System Name:
+Num dal sistem:
 
 
 ;The current system name.
-The current system name.
+Il num dal sistem actual.
 
 
 ;System Version:
-System Version:
+Versiun dal sistem:
 
 
 ;The Android OS revision.
-The Android OS revision.
+La versiun dad Android OS.
 
 
 ;Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
-Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
+Inditgescha, sche Firefox retschaiva resultats da glistas da bloccar per ta proteger encunter supplements nuschaivels. Standard è activ.
 
 
 ;Telemetry Enabled:
-Telemetry Enabled:
+Activà la telemetria:
 
 
 ;Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
-Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
+Inditgescha, sche Firefox rapporta datas detagliadas davart utilisaziun per gidar cun il svilup. Standard è inactiv per ils blers chanals.
 
 
 ;Extension Count:
-Extension Count:
+Dumber dad extensiuns:
 
 
 ;How many extension add-ons are installed.
-How many extension add-ons are installed.
+Quantas extensiun ch'èn installadas.
 
 
 ;Plugin Count:
-Plugin Count:
+Dumber da plug-ins:
 
 
 ;How many plugin add-ons are installed.
-How many plugin add-ons are installed.
+Quants plug-ins ch'èn installads.
 
 
 ;Theme Count:
-Theme Count:
+Dumber da designs:
 
 
 ;How many theme add-ons are installed.
-How many theme add-ons are installed.
+Quants designs ch'èn installads.
 
 
 ;Addons:
-Addons:
+Supplements:
 
 
 ;A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
-A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
+Ina collecziun che descriva ils supplements installads. Betg tut ils supplements vegnan rapportads: be plug-ins, extensiuns e servetschs.
 
 
 ;Search Counts:
-Search Counts:
+Dumber da tschertgas:
 
 
 ;A count of how many searches you issued to each of Mozilla's partner providers.
-A count of how many searches you issued to each of Mozilla's partner providers.
+Il dumber da quantas tschertgas ch'èn vegnidas exequidas cun mintgin dal partenaris da tschertgar da Mozilla.
 
 
 ;Sessions and Startup Times
-Sessions and Startup Times
+Sessiuns e temps d'aviar
 
 
 ;For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
-For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
+Per mintga sessiun da navigar registrescha l'analisa da sanadad da Firefox circa quant ditg che ti es navigà (en secundas) e sche la sessiun è vegnida terminada normalmain u pervia d'in crash. Las datas includan sche disponibel era ils temps d'aviar (en millisecundas).
 
 
 ;Profile Creation:
-Profile Creation:
+Creaziun dal profil:
 
 
 ;The day on which your browser profile was created. Counted in days since January 1st 1970.
-The day on which your browser profile was created. Counted in days since January 1st 1970.
+Il di il qual che tes profil da navigatur è vegnì creà. Dumbrà en dis dapi ils emprims da schaner 1970.
 
 
 ;Learn More
-Learn More
+Dapli infurmaziuns
 
 
 ;Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
-Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
+L'analisa da sanadad da Firefox (FHR) analisescha infurmaziuns davart la prestaziun da tes navigatur per ta porscher tips nizzaivels davart l'optimaziun da Firefox. Dapli infurmaziuns davart l'analisa da sanadad da Firefox ta dat <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>l'agid da Mozilla.</a>
 
 
 ;For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
-For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
+Dapli infurmaziuns davart l'utilisaziun da tias datas <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>chattas ti en nossas directivas davart la protecziun da datas.</a>
 
 
 ;You are currently sharing your health report with Mozilla.
-You are currently sharing your health report with Mozilla.
+Ti cundividas actualmain tia analisa da sanadad da Firefox cun Mozilla.
 
 
 ;Choose what I share
-Choose what I share
+Tscherner tge che vegn cundividì
 
 
 ;You are currently not sharing your health report with Mozilla.
-You are currently not sharing your health report with Mozilla.
+Ti na cundividas actualmain betg tia analisa da sanadad da Firefox cun Mozilla.
 
 
