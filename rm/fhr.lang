@@ -558,7 +558,7 @@ Sut Android è quest in num alternativ per appBuildID.
 
 
 ;xpcomabi:
-xpcomabi:
+xpcomabi:{ok}
 
 
 ;The CPU architecture for which this application was built.
@@ -566,7 +566,7 @@ L'architectura da CPU per la quala questa applicaziun è vegnida creada.
 
 
 ;OS:
-OS:
+OS:{ok}
 
 
 ;The current operating system.
