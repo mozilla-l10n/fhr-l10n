@@ -1,4 +1,4 @@
-﻿;Firefox Health Report
+;Firefox Health Report
 Informe de salud de Firefox
 
 
@@ -15,11 +15,11 @@ Más información...
 
 
 ;Data Sharing
-Datos compartidos
+Intercambio de datos
 
 
 ;ON
-ACTIVAR
+ACTIVADO
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
@@ -27,7 +27,7 @@ Ha elegido dejar de compartir información con Mozilla, pero puede seguir viendo
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
-La información sobre los informes de salud también se eliminará de los servidores de Mozilla. Infórmese leyendo nuestra <a href="%(privacy_url)s">política de privacidad.</a>
+La información sobre los informes de salud también se eliminará de los servidores de Mozilla. Conozca más leyendo nuestra <a href="%(privacy_url)s">política de privacidad.</a>
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
@@ -51,7 +51,7 @@ tiempo abierto
 
 
 ;last crash
-último cuelgue
+último fallo
 
 
 ;bookmarks
@@ -63,7 +63,7 @@ Este mes
 
 
 ;crashes
-cuelgues
+fallos
 
 
 ;Add-ons
@@ -95,11 +95,11 @@ Desgaste
 
 
 ;It looks like your browser has crashed a number of times recently. To learn more:
-Parece que su navegador se ha colgado varias veces recientemente. Si quiere tener más información:
+Parece que su navegador ha fallado varias veces recientemente. Si quiere tener más información:
 
 
 ;OFF
-DESACTIVAR
+DESACTIVADO
 
 
 ;Visit our <a href="%(sumo_url)s">support website</a>
@@ -107,7 +107,7 @@ Visite nuestro <a href="%(sumo_url)s">centro de ayuda</a>
 
 
 ;View more <a href="%(details_url)s">detailed information</a>
-Lea <a href="%(details_url)s">información detallada</a>
+Mire más <a href="%(details_url)s">información detallada</a>
 
 
 ;pages visited
@@ -115,7 +115,7 @@ páginas visitadas
 
 
 ;Your browser seems to be running slower than usual. To learn more:
-Parece que su navegador está yendo más lento de lo habitual. Si quiere tener más información:
+Parece que su navegador está funcionando más lento de lo habitual. Si quiere tener más información:
 
 
 ;You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
@@ -139,7 +139,7 @@ Todos
 
 
 ;Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
-El tiempo de inicio ayuda a determinar la calidad del rendimiento de su versión de Firefox. En general, tiempos más rápidos (p. ej. menos tiempo) indican un mejor rendimiento.
+El tiempo de inicio ayuda a determinar la calidad del rendimiento de su versión de Firefox. En general, tiempos más rápidos (es decir, menos tiempo) indican un mejor rendimiento.
 
 
 ;Data Collected
@@ -171,7 +171,7 @@ Personalización
 
 
 ;Add-ons, count and type
-Complementos, suma total y tipo
+Complementos, cantidad y tipo
 
 
 ;Performance
@@ -179,11 +179,11 @@ Rendimiento
 
 
 ;Timing of browser events, rendering, session restores
-Tiempo de eventos del navegador, renderizado, restauración de sesiones
+Tiempo de eventos, representación y restauración de sesiones del navegador
 
 
 ;Length of session, how old a profile is, count of crashes, count of pages
-Duración de la sesión, antigüedad del perfil, número total de cuelgues, número total de páginas
+Duración de la sesión, antigüedad del perfil, cantidad de cuelgues o cierres inesperados, cantidad de páginas
 
 
 ;Detailed Description
@@ -203,11 +203,11 @@ Interfaz binaria para XPCOM
 
 
 ;Identifier for this build of the application based on the date the build was started
-Identificador para esta versión de la aplicación basado en la fecha en que se inició la versión
+Identificador para esta versión de la aplicación basado en el momento en que comenzó la compilación.
 
 
 ;Operating System for which this build was configured
-Sistema operativo para el que fue configurada esta versión
+Sistema operativo para el que se configuró esta versión
 
 
 ;Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
@@ -235,7 +235,7 @@ El canal que esta instalación busca para las actualizaciones (nightly/aurora/be
 
 
 ;The name of the company/provider who built this version
-El nombre de la compañía/proveedor que desarrolla esta versión
+El nombre de la compañía/proveedor que preparó esta versión
 
 
 ;The current version of the product
@@ -243,7 +243,7 @@ La versión actual del producto
 
 
 ;Number of processor cores
-Número de núcleos de procesamiento
+Número de núcleos del procesador
 
 
 ;Whether the application is currently configured to be the default browser for the operating system
@@ -259,11 +259,11 @@ Cantidad de RAM en megabytes
 
 
 ;Currently running Operating System (kernel) name
-Nombre del sistema operativo usado actualmente (kernel)
+Nombre del sistema operativo (kernel) usado actualmente
 
 
 ;Currently running Operating System (kernel) version
-Versión del sistema operativo usado actualmente (kernel)
+Versión del sistema operativo (kernel) usado actualmente
 
 
 ;The build identifier of the Gecko platform code
@@ -347,15 +347,15 @@ Cuánto tiempo en milisegundos tardó la aplicación en restaurar las pestañas 
 
 
 ;The number of times the application was run and not cleanly shut down.
-El número de veces que la aplicación estaba funcionando y no se apagó correctamente.
+El número de veces que la aplicación estaba funcionando y no fue cerrada correctamente.
 
 
 ;The time in seconds that the aborted sessions were not idle
-El tiempo en segundos en que la sesión interrumpida no estuvo inactiva
+El tiempo en segundos en que las sesiones interrumpidas no estuvieron inactivas
 
 
 ;The time in seconds that the aborted sessions were running
-El tiempo en segundos en que la sesión interrumpida estuvo funcionando
+El tiempo en segundos en que las sesiones interrumpidas estuvieron funcionando
 
 
 ;The number of days since this application profile directory was created
@@ -367,19 +367,19 @@ El número de veces en que la aplicación estaba funcionando y fue cerrada corre
 
 
 ;The time in seconds that the completed sessions were not idle
-El tiempo en segundos en que la sesión terminada no estuvo inactiva
+El tiempo en segundos en que las sesiones terminadas no estuvieron inactivas
 
 
 ;The time in seconds that the completed sessions were running
-El tiempo en segundos en que la sesión terminada estuvo en funcionamiento
+El tiempo en segundos en que las sesiones terminadas estuvieron en funcionamiento
 
 
 ;Total number of crashes that were recorded but not yet submitted
-Número total de cuelgues que se han registrado pero aún no se han enviado
+Número total de fallos que se han registrado pero aún no se han enviado
 
 
 ;Total number of crashes that have been submitted
-Número total de cuelgues que se han enviado
+Número total de fallos que se han enviado
 
 
 ;Time in seconds the app has not been idle
@@ -448,7 +448,7 @@ Consejo
 
 
 ;Important Metrics
-Métricas importes
+Métricas importantes
 
 
 ;Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
@@ -464,7 +464,7 @@ Extensiones, plugins y número de complementos instalados.
 
 
 ;Key performance measures, such as launch speed.
-Medidas clave de rendimiento, como la velocidad de lanzamiento.
+Medidas clave de rendimiento, como la velocidad de inicio.
 
 
 ;Browsing duration, install time, number of bookmarks and pages.
@@ -508,7 +508,7 @@ El identificador interno de la aplicación.
 
 
 ;Application Version:
-Versión de la aplicación
+Versión de la aplicación:
 
 
 ;The current version of the browser
@@ -536,7 +536,7 @@ Proveedor:
 
 
 ;The organization that built this application. Typically Mozilla.
-La organización que desarrolló esta aplicación. Normalmente Mozilla.
+La organización que generó esta aplicación. Normalmente Mozilla.
 
 
 ;Platform Version:
@@ -552,7 +552,7 @@ ID de la compilación de la plataforma:
 
 
 ;On Android this is an alternative name for appBuildID.
-En Android existe un nombre alternativo a appBuildID.
+En Android, este es un nombre alternativo a appBuildID.
 
 
 ;xpcomabi:
@@ -652,7 +652,7 @@ Sesiones y tiempos de inicio
 
 
 ;For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
-En cada sesión de navegación, el Informe de salud de Firefox registra el tiempo aproximado (en segundos) que estuvo navegando, y si la sesión trascurrió con normalidad o fue interrumpida por un cuelgue. Asimismo, incluye tiempos de inicio (en milisegundos), si tal opción está disponible.
+En cada sesión de navegación, el Informe de salud de Firefox registra el tiempo aproximado (en segundos) que estuvo navegando, y si la sesión trascurrió con normalidad o fue interrumpida por un fallo. Asimismo, incluye tiempos de inicio (en milisegundos), si tal opción está disponible.
 
 
 ;Profile Creation:
@@ -684,4 +684,4 @@ Elegir lo que comparto
 
 
 ;You are currently not sharing your health report with Mozilla.
-Actualmente no comparte su informe de salud con Mozilla.
+Actualmente no comparte su informe de salud con Mozilla
