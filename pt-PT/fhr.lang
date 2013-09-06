@@ -456,7 +456,7 @@ Firefox Health Report records information about your browser and device. You can
 
 
 ;Device hardware, operating system, Firefox version.
-Device hardware, operating system, Firefox version.
+Hardware do dispositivo, sistema operativo, versão do Firefox.
 
 
 ;Extensions, plugins, and number of installed add-ons.
@@ -468,7 +468,7 @@ Key performance measures, such as launch speed.
 
 
 ;Browsing duration, install time, number of bookmarks and pages.
-Browsing duration, install time, number of bookmarks and pages.
+Duração da navegação, tempo de instalação, número de marcadores e páginas.
 
 
 ;Home
@@ -500,7 +500,7 @@ The internal application name for the browser.
 
 
 ;Application ID:
-Application ID:
+ID da aplicação:
 
 
 ;The internal identifier for the application.
@@ -508,11 +508,11 @@ The internal identifier for the application.
 
 
 ;Application Version:
-Application Version:
+Versão da aplicação:
 
 
 ;The current version of the browser
-The current version of the browser
+A versão atual do navegador
 
 
 ;Application Build ID:
@@ -524,7 +524,7 @@ The internal build timestamp.
 
 
 ;Update Channel:
-Update Channel:
+Canal de atualização:
 
 
 ;Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
@@ -540,7 +540,7 @@ The organization that built this application. Typically Mozilla.
 
 
 ;Platform Version:
-Platform Version:
+Versão da plataforma:
 
 
 ;An internal version identifier. Typically the same as appVersion.
@@ -560,15 +560,15 @@ xpcomabi:
 
 
 ;The CPU architecture for which this application was built.
-The CPU architecture for which this application was built.
+A arquitetura de CPU para a qual esta aplicaçõe foi feita.
 
 
 ;OS:
-OS:
+SO:
 
 
 ;The current operating system.
-The current operating system.
+O sistema operativo atual.
 
 
 ;Architecture:
@@ -576,23 +576,23 @@ Architecture:
 
 
 ;The CPU architecture for this device.
-The CPU architecture for this device.
+A arquitetura de CPU deste dispositivo.
 
 
 ;System Name:
-System Name:
+Nome do sistema:
 
 
 ;The current system name.
-The current system name.
+O nome atual do sistema.
 
 
 ;System Version:
-System Version:
+Versão do sistema:
 
 
 ;The Android OS revision.
-The Android OS revision.
+A revisão do SO do Android.
 
 
 ;Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
@@ -600,7 +600,7 @@ Whether Firefox fetches add-on blocklist results to protect you against maliciou
 
 
 ;Telemetry Enabled:
-Telemetry Enabled:
+Telemetria ativada:
 
 
 ;Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
@@ -608,31 +608,31 @@ Whether Firefox reports detailed usage data to help with development. Defaults t
 
 
 ;Extension Count:
-Extension Count:
+Contador de extensões:
 
 
 ;How many extension add-ons are installed.
-How many extension add-ons are installed.
+Quantas extensões estão instaladas.
 
 
 ;Plugin Count:
-Plugin Count:
+Contador de plugin:
 
 
 ;How many plugin add-ons are installed.
-How many plugin add-ons are installed.
+Quantos plugins estão instalados.
 
 
 ;Theme Count:
-Theme Count:
+Contador de temas:
 
 
 ;How many theme add-ons are installed.
-How many theme add-ons are installed.
+Quantos temas estão instalados.
 
 
 ;Addons:
-Addons:
+Extras:
 
 
 ;A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
@@ -640,7 +640,7 @@ A collection describing the installed add-ons. Not all add-ons are reported: onl
 
 
 ;Search Counts:
-Search Counts:
+Contadores de pesquisa:
 
 
 ;A count of how many searches you issued to each of Mozilla's partner providers.
@@ -648,7 +648,7 @@ A count of how many searches you issued to each of Mozilla's partner providers.
 
 
 ;Sessions and Startup Times
-Sessions and Startup Times
+Sessões e tempos de arranque
 
 
 ;For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
@@ -656,7 +656,7 @@ For each browsing session, Firefox Health Report records approximately how long 
 
 
 ;Profile Creation:
-Profile Creation:
+Criação de perfil:
 
 
 ;The day on which your browser profile was created. Counted in days since January 1st 1970.
@@ -664,7 +664,7 @@ The day on which your browser profile was created. Counted in days since January
 
 
 ;Learn More
-Learn More
+Saber mais
 
 
 ;Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
