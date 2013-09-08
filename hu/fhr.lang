@@ -1,5 +1,5 @@
 ;Firefox Health Report
-Firefox Health Report {ok}
+Firefox állapotjelentés
 
 
 ;Raw Data
@@ -27,7 +27,7 @@ A továbbiakban nem kívánja megosztani az adatokat a Mozillával, de továbbra
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
-A Health Report adatit eltávolítjuk a Mozilla infrastúrájábül. Erről bővebben az <a href="%(privacy_url)s">adatvédelmi irányelvekben</a> olvashat.
+Az állapotjelentés adatit eltávolítjuk a Mozilla infrastúrájábül. Erről bővebben az <a href="%(privacy_url)s">adatvédelmi irányelvekben</a> olvashat.
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
@@ -151,11 +151,11 @@ Szójegyzék
 
 
 ;What the Firefox Health Report Measures
-Mit mér a Firefox Health Report
+Mit mér a Firefox állapotjelentés
 
 
 ;The Firefox Health Report (FHR) has 4 categories of metrics:
-A Firefox Health Report (FHR) 4 kategóriában mér adatokat:
+A Firefox állapotjelentés (FHR) 4 kategóriában mér adatokat:
 
 
 ;Configuration
@@ -403,7 +403,7 @@ Hány perce fut a jelenlegi munkamenet
 
 
 ;Welcome to your Firefox Health Report
-Üdvözöljük a Firefox Health Reportban
+Üdvözöljük a Firefox állapotjelentés oldalán
 
 
 ;Welcome!
@@ -411,7 +411,7 @@ Hány perce fut a jelenlegi munkamenet
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
-A Firefox Health Report megmutatja a Firefox teljesítményét és annak fokozásának lehetőségeit.
+A Firefox állapotjelentés megmutatja a Firefox teljesítményét és annak fokozásának lehetőségeit.
 
 
 ;See My Report
@@ -432,27 +432,27 @@ Adatvédelmi irányelvek
 
 # The following strings are used only in the Mobile version of about:healthreport (Firefox for Android)
 ;Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
-Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
+A Firefox állapotjelentés segítségével finomhangolhatja a Firefoxát és segíthet nekünk abban, hogy még jöbb böngészőt készítsünk. A jelentések kezdetben még elég egyszerüek lesznek, de folyamatosan javítjuk és bővitjük őket.
 
 
 ;Learn More&hellip;
-Learn More&hellip;
+Tovább&hellip;
 
 
 ;Tip
-Tip
+Tipp
 
 
 ;Looks like your Firefox is brand new! Check back after using Firefox for a while.
-Looks like your Firefox is brand new! Check back after using Firefox for a while.
+Úgy néz ki, hogy csak most kezdte el használni a Firefoxot. Jöjjön vissza később, ha már használja egy ideje a böngészőt.
 
 
 ;Important Metrics
-Important Metrics
+Fontos mérések
 
 
 ;Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
-Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
+Firefox állapotjelentés records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
 
 
 ;Device hardware, operating system, Firefox version.
@@ -472,79 +472,80 @@ Browsing duration, install time, number of bookmarks and pages.
 
 
 ;Home
-Home
+Kezdőlap
 
 
 ;CPU Count:
-CPU Count:
+CPU-k száma:
 
 
 ;The number of CPU cores reported by Android.
-The number of CPU cores reported by Android.
+Az Android által észlelt CPU magok száma.
 
 
 ;Memory in MB:
-Memory in MB:
+Memória (MB):
 
 
 ;The amount of memory reported by Android. Typically excludes graphics memory.
+Az Android által észlelt memória mennyisége (tipikusan a grafikus memória nélkül).
 The amount of memory reported by Android. Typically excludes graphics memory.
 
 
 ;Application Name:
-Application Name:
+Alkalmazás neve:
 
 
 ;The internal application name for the browser.
-The internal application name for the browser.
+A böngésző belső alkalmazásneve.
 
 
 ;Application ID:
-Application ID:
+Alkalmazás azonosító:
 
 
 ;The internal identifier for the application.
-The internal identifier for the application.
+Az alkalmazás belső azonosítója.
 
 
 ;Application Version:
-Application Version:
+Alkalmazás verziója:
 
 
 ;The current version of the browser
-The current version of the browser
+A böngésző jelenlegi verziója
 
 
 ;Application Build ID:
-Application Build ID:
+Alkalmazás készítésének időpontja:
 
 
 ;The internal build timestamp.
-The internal build timestamp.
+A készítés belső időbélyege.
 
 
 ;Update Channel:
-Update Channel:
+Frissítési csatorna:
 
 
 ;Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
-Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
+A Firefox különbző csatornákon keresztül érhető el: Nightly, Aurora, Beta és nyilvános kiadás. Ez a mező megadja a frissítési csatorna nevét.
 
 
 ;Vendor:
-Vendor:
+Gyártó:
 
 
 ;The organization that built this application. Typically Mozilla.
-The organization that built this application. Typically Mozilla.
+A szervezet, amely az alkalmazást készítette (tipikusan a Mozilla).
 
 
 ;Platform Version:
-Platform Version:
+Platform verziója:
 
 
 ;An internal version identifier. Typically the same as appVersion.
-An internal version identifier. Typically the same as appVersion.
+Belső verzióazonosító (tipikusan megegyezik az alkalmazásverzióval).
 
 
 ;Platform Build ID:
@@ -568,11 +569,11 @@ OS:
 
 
 ;The current operating system.
-The current operating system.
+A jelenlegi operációs rendszer.
 
 
 ;Architecture:
-Architecture:
+Architektúra:
 
 
 ;The CPU architecture for this device.
@@ -580,19 +581,19 @@ The CPU architecture for this device.
 
 
 ;System Name:
-System Name:
+Rendszernév:
 
 
 ;The current system name.
-The current system name.
+A jelenlegi rendszer neve.
 
 
 ;System Version:
-System Version:
+Rendszerverzió:
 
 
 ;The Android OS revision.
-The Android OS revision.
+Az Android OS verziója.
 
 
 ;Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
@@ -600,7 +601,7 @@ Whether Firefox fetches add-on blocklist results to protect you against maliciou
 
 
 ;Telemetry Enabled:
-Telemetry Enabled:
+Telemetry engedélyezés:
 
 
 ;Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
@@ -608,31 +609,31 @@ Whether Firefox reports detailed usage data to help with development. Defaults t
 
 
 ;Extension Count:
-Extension Count:
+Bővítmények száma:
 
 
 ;How many extension add-ons are installed.
-How many extension add-ons are installed.
+mennyi bővítmény került telepítésre.
 
 
 ;Plugin Count:
-Plugin Count:
+Kiegészítők száma:
 
 
 ;How many plugin add-ons are installed.
-How many plugin add-ons are installed.
+Mennyi kiegészítő került telepítésre.
 
 
 ;Theme Count:
-Theme Count:
+Témák száma:
 
 
 ;How many theme add-ons are installed.
-How many theme add-ons are installed.
+Mennyi téma került telepítésre.
 
 
 ;Addons:
-Addons:
+Kiegészítők:
 
 
 ;A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
@@ -656,15 +657,15 @@ For each browsing session, Firefox Health Report records approximately how long 
 
 
 ;Profile Creation:
-Profile Creation:
+Profil létrehozása:
 
 
 ;The day on which your browser profile was created. Counted in days since January 1st 1970.
-The day on which your browser profile was created. Counted in days since January 1st 1970.
+A nap, amikor a böngésző profilja létrejött. Napokban számolva 1970. január 1-től.
 
 
 ;Learn More
-Learn More
+Tovább
 
 
 ;Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
