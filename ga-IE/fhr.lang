@@ -103,7 +103,7 @@ STOPTHA
 
 
 ;Visit our <a href="%(sumo_url)s">support website</a>
-Déan cuairt ar ár <a href="%(sumo_url)s">suíomh tacaíochta</a>
+Tabhair cuairt ar ár <a href="%(sumo_url)s">suíomh tacaíochta</a>
 
 
 ;View more <a href="%(details_url)s">detailed information</a>
@@ -243,7 +243,7 @@ Leagan reatha den táirge
 
 
 ;Number of processor cores
-Líon na gcór
+Líon na gcór LAP
 
 
 ;Whether the application is currently configured to be the default browser for the operating system
@@ -411,7 +411,7 @@ Fáilte!
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
-Tugann Tuairisc Shláinte Firefox eolas duit maidir le feidhmíocht Firefox agus conas is féidir feabhas a chur air.
+Tugann Tuairisc Shláinte Firefox faisnéis duit maidir le feidhmíocht Firefox agus conas is féidir feabhas a chur air.
 
 
 ;See My Report
@@ -432,211 +432,211 @@ Polasaí Príobháideachta
 
 # The following strings are used only in the Mobile version of about:healthreport (Firefox for Android)
 ;Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
-Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
+Is féidir leat an Tuairisc Shláinte a úsáid chun Firefox a optamú, agus is mór an chabhair dúinn í agus Firefox á fheabhsú. I dtosach báire, ní fhaigheann tú ach tuairiscí an-simplí, ach éireoidh siad níos cuimsithí de réir a chéile.
 
 
 ;Learn More&hellip;
-Learn More&hellip;
+Tuilleadh Eolais&hellip;
 
 
 ;Tip
-Tip
+Leid
 
 
 ;Looks like your Firefox is brand new! Check back after using Firefox for a while.
-Looks like your Firefox is brand new! Check back after using Firefox for a while.
+Tá leagan úrnua de Firefox agat de réir cosúlachta! Déan iarracht eile i gceann cúpla seachtain, tar éis duit Firefox a úsáid ar feadh tamaill.
 
 
 ;Important Metrics
-Important Metrics
+Méadrachtaí Tábhachtacha
 
 
 ;Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
-Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
+Déanann Tuairisc Shláinte Firefox taifead ar fhaisnéis a bhaineann le do bhrabhsálaí agus le do ghléas. Is féidir leat <a href="#raw" class="navigate">an fhaisnéis seo go léir a fheiceáil.</a> Is féidir an fhaisnéís a sheolann tú chuig Mozilla a fheiceáil freisin.
 
 
 ;Device hardware, operating system, Firefox version.
-Device hardware, operating system, Firefox version.
+Crua-earraí, córas oibriúcháin, leagan de Firefox.
 
 
 ;Extensions, plugins, and number of installed add-ons.
-Extensions, plugins, and number of installed add-ons.
+Eisínteachtaí, forlíontáin, agus líon na mbreiseán suiteáilte.
 
 
 ;Key performance measures, such as launch speed.
-Key performance measures, such as launch speed.
+Méadrachtaí tábhachtachta feidhmíochta, mar shampla luas tosaithe.
 
 
 ;Browsing duration, install time, number of bookmarks and pages.
-Browsing duration, install time, number of bookmarks and pages.
+Aga brabhsála, aga suiteála, líon na leabharmharcanna agus líon na leathanach.
 
 
 ;Home
-Home
+Baile
 
 
 ;CPU Count:
-CPU Count:
+Líon na gcór LAP:
 
 
 ;The number of CPU cores reported by Android.
-The number of CPU cores reported by Android.
+Líon na gcór LAP, de réir Android.
 
 
 ;Memory in MB:
-Memory in MB:
+Cuimhne (MB):
 
 
 ;The amount of memory reported by Android. Typically excludes graphics memory.
-The amount of memory reported by Android. Typically excludes graphics memory.
+Méid cuimhne ar an ngléas, de réir Android. Ní chuireann sé cuimhne grafaice san áireamh de ghnáth.
 
 
 ;Application Name:
-Application Name:
+Ainm an Bhrabhsálaí:
 
 
 ;The internal application name for the browser.
-The internal application name for the browser.
+Ainm inmheánach ar an mbrabhsálaí.
 
 
 ;Application ID:
-Application ID:
+Aitheantas an bhrabhsálaí:
 
 
 ;The internal identifier for the application.
-The internal identifier for the application.
+Aitheantas inmheánach an bhrabhsálaí.
 
 
 ;Application Version:
-Application Version:
+Leagan den bhrabhsálaí:
 
 
 ;The current version of the browser
-The current version of the browser
+Leagan den bhrabhsálaí
 
 
 ;Application Build ID:
-Application Build ID:
+Aitheantas tógála an bhrabhsálaí:
 
 
 ;The internal build timestamp.
-The internal build timestamp.
+Stampa ama inmheánach.
 
 
 ;Update Channel:
-Update Channel:
+Caineál Nuashonraithe:
 
 
 ;Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
-Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
+Cuirimid Firefox ar fáil trí "chainéil": leaganacha turgnamhacha laethúla, réamhleaganacha Aurora, leagan béite (níos cobhsaí), agus an leagan poiblí oifigiúil. Is é an cainéal atá sa réimse seo.
 
 
 ;Vendor:
-Vendor:
+Cruthaitheoir:
 
 
 ;The organization that built this application. Typically Mozilla.
-The organization that built this application. Typically Mozilla.
+An eagraíocht a chruthaigh an feidhmchlár seo. Mozilla, de ghnáth.
 
 
 ;Platform Version:
-Platform Version:
+Leagan den ardán:
 
 
 ;An internal version identifier. Typically the same as appVersion.
-An internal version identifier. Typically the same as appVersion.
+Aitheantas inmheánach an ardáin. Is ionann é seo agus appVersion de ghnáth.
 
 
 ;Platform Build ID:
-Platform Build ID:
+Aitheantas Tógála an Ardáin:
 
 
 ;On Android this is an alternative name for appBuildID.
-On Android this is an alternative name for appBuildID.
+Ar Android, is ainm malartach ar appBuildID é seo.
 
 
 ;xpcomabi:
-xpcomabi:
+xpcomabi: {ok}
 
 
 ;The CPU architecture for which this application was built.
-The CPU architecture for which this application was built.
+An ailtireacht LAP ar a bhfuil an brabhsálaí seo dírithe.
 
 
 ;OS:
-OS:
+CO:
 
 
 ;The current operating system.
-The current operating system.
+An córas oibriúchán.
 
 
 ;Architecture:
-Architecture:
+Ailtireacht:
 
 
 ;The CPU architecture for this device.
-The CPU architecture for this device.
+Ailtireacht an LAP sa ghléas seo.
 
 
 ;System Name:
-System Name:
+Ainm an Chórais:
 
 
 ;The current system name.
-The current system name.
+Ainm an chórais.
 
 
 ;System Version:
-System Version:
+Leagan den chóras:
 
 
 ;The Android OS revision.
-The Android OS revision.
+Leagan den chóras oibriúcháin Android.
 
 
 ;Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
-Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
+An bhfaigheann Firefox liosta breiseán coiscthe chun tusa a chosaint ar bhreiseáin chontúirteacha? Réamhshocrú: Faigheann.
 
 
 ;Telemetry Enabled:
-Telemetry Enabled:
+Telemetry i bhfeidhm:
 
 
 ;Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
-Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
+Ar mhaith leat mionsonraí úsáide a sheoladh chuig Mhozilla, chun cabhrú linn Firefox a fheabhsú? Réamhshocrú: níor mhaith, ar an chuid is mó de na cainéil.
 
 
 ;Extension Count:
-Extension Count:
+Líon na nEisínteachtaí:
 
 
 ;How many extension add-ons are installed.
-How many extension add-ons are installed.
+Líon na n-eisínteachtaí suiteáilte.
 
 
 ;Plugin Count:
-Plugin Count:
+Líon na bhForlíontán:
 
 
 ;How many plugin add-ons are installed.
-How many plugin add-ons are installed.
+Líon na bhforlíontán suiteáilte.
 
 
 ;Theme Count:
-Theme Count:
+Líon na dTéamaí:
 
 
 ;How many theme add-ons are installed.
-How many theme add-ons are installed.
+Líon na dtéamaí suiteáilte.
 
 
 ;Addons:
-Addons:
+Breiseáin:
 
 
 ;A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
-A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
+Bailiúchán a dhéanann cur síos ar na breiseáin suiteáilte. Ní dhéantar tuairisc ar na breiseáin go léir: forlíontáin, eisínteachtaí, agus seirbhísí amháin.
 
 
 ;Search Counts:
@@ -648,7 +648,7 @@ A count of how many searches you issued to each of Mozilla's partner providers.
 
 
 ;Sessions and Startup Times
-Sessions and Startup Times
+Seisiúin agus Tréimhsí Tosaithe
 
 
 ;For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
@@ -656,15 +656,15 @@ For each browsing session, Firefox Health Report records approximately how long 
 
 
 ;Profile Creation:
-Profile Creation:
+Cruthaíodh do Phróifíl:
 
 
 ;The day on which your browser profile was created. Counted in days since January 1st 1970.
-The day on which your browser profile was created. Counted in days since January 1st 1970.
+An lá ar ar cruthaíodh do phróifíl bhrabhsála. Líon na laethanta ó 1 Eanáir 1970.
 
 
 ;Learn More
-Learn More
+Tuilleadh Eolais
 
 
 ;Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
@@ -676,7 +676,7 @@ For more information about how we handle your data, <a href="https://www.mozilla
 
 
 ;You are currently sharing your health report with Mozilla.
-You are currently sharing your health report with Mozilla.
+Bíonn tú ag seoladh tuairisc shláinte chuig Mozilla.
 
 
 ;Choose what I share
@@ -684,6 +684,6 @@ Choose what I share
 
 
 ;You are currently not sharing your health report with Mozilla.
-You are currently not sharing your health report with Mozilla.
+Ní bhíonn tú ag seoladh tuairisc shláinte chuig Mozilla.
 
 
