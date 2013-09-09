@@ -15,7 +15,7 @@ Más información...
 
 
 ;Data Sharing
-Intercambio de datos
+Compartición de datos
 
 
 ;ON
@@ -27,7 +27,7 @@ Ha elegido dejar de compartir información con Mozilla, pero puede seguir viendo
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
-La información sobre los informes de salud también se eliminará de los servidores de Mozilla. Conozca más leyendo nuestra <a href="%(privacy_url)s">política de privacidad.</a>
+La información sobre los informes de salud también se eliminará de los servidores de Mozilla. Infórmese leyendo nuestra <a href="%(privacy_url)s">política de privacidad y protección de datos.</a>
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
@@ -35,7 +35,7 @@ Ha elegido compartir periódicamente sus datos con Mozilla. Gracias por ser part
 
 
 ;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
-Conozca cómo gestionamos su información en nuestra <a href="%(privacy_url)s">política de privacidad.</a>
+Conozca cómo gestionamos su información en nuestra <a href="%(privacy_url)s">política de privacidad y protección de datos.</a>
 
 
 ;Vital Stats
@@ -672,7 +672,7 @@ El Informe de salud de Firefox analiza la información sobre el rendimiento de s
 
 
 ;For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
-Si desea más información sobre la gestión de sus datos, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>lea nuestra política de privacidad.</a>
+Si desea más información sobre la gestión de sus datos, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>lea nuestra política de privacidad y protección de datos.</a>
 
 
 ;You are currently sharing your health report with Mozilla.
