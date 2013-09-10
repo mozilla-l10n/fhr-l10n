@@ -63,7 +63,7 @@ An Mhí Seo
 
 
 ;crashes
-tuairt
+tuairteanna
 
 
 ;Add-ons
@@ -432,7 +432,7 @@ Polasaí Príobháideachta
 
 # The following strings are used only in the Mobile version of about:healthreport (Firefox for Android)
 ;Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
-Is féidir leat an Tuairisc Shláinte a úsáid chun Firefox a optamú, agus is mór an chabhair dúinn í agus Firefox á fheabhsú. I dtosach báire, ní fhaigheann tú ach tuairiscí an-simplí, ach éireoidh siad níos cuimsithí de réir a chéile.
+Is féidir leat an Tuairisc Shláinte a úsáid chun Firefox a optamú, agus is mór an chabhair dúinn na sonraí seo agus Firefox á fheabhsú. I dtosach báire, ní fhaigheann tú ach tuairiscí an-simplí, ach éireoidh siad níos cuimsithí de réir a chéile.
 
 
 ;Learn More&hellip;
@@ -452,7 +452,7 @@ Méadrachtaí Tábhachtacha
 
 
 ;Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
-Déanann Tuairisc Shláinte Firefox taifead ar fhaisnéis a bhaineann le do bhrabhsálaí agus le do ghléas. Is féidir leat <a href="#raw" class="navigate">an fhaisnéis seo go léir a fheiceáil.</a> Is féidir an fhaisnéís a sheolann tú chuig Mozilla a fheiceáil freisin.
+Déanann Tuairisc Shláinte Firefox taifead ar fhaisnéis a bhaineann le do bhrabhsálaí agus le do ghléas. Is féidir leat <a href="#raw" class="navigate">an fhaisnéis seo go léir a fheiceáil.</a> Is féidir na sonraí a sheolann tú chuig Mozilla a fheiceáil freisin.
 
 
 ;Device hardware, operating system, Firefox version.
@@ -640,7 +640,7 @@ Bailiúchán a dhéanann cur síos ar na breiseáin suiteáilte. Ní dhéantar t
 
 
 ;Search Counts:
-Search Counts:
+Líon na gcuardach:
 
 
 ;A count of how many searches you issued to each of Mozilla's partner providers.
