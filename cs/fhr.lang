@@ -411,7 +411,7 @@ Vítejte!
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
-Hlášení o zdraví Firefoxu vám dá vědět, jak si váš Firefox vede v oblsti výkonu a co můžete udělat pro jeho vylepšení.
+Hlášení o zdraví Firefoxu vám dá vědět, jak si váš Firefox vede v oblasti výkonu a co můžete udělat pro jeho vylepšení.
 
 
 ;See My Report
@@ -440,7 +440,7 @@ Dozvědět se více&hellip;
 
 
 ;Tip
-Tip
+Tip {ok}
 
 
 ;Looks like your Firefox is brand new! Check back after using Firefox for a while.
@@ -452,7 +452,7 @@ Důležité metriky
 
 
 ;Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
-Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
+Hlášení o zdraví Firefoxu zaznamenává informace o vašem prohlížeči a zařízení. Informace, které jsou zaznamenávány, si <a href="#raw" class="navigate">můžete prohlédnout</a>. Můžete se též podívat, co s Mozillou sdílíte.
 
 
 ;Device hardware, operating system, Firefox version.
