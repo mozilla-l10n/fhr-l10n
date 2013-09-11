@@ -432,258 +432,258 @@
 
 # The following strings are used only in the Mobile version of about:healthreport (Firefox for Android)
 ;Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
-Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
+Докладът за изправност на Firefox ви дава възможност да оптимизирате вашия Firefox и ни помага да построим по-добър браузър. Докладите ще са доста основни отначало, но ще се развиват и растат.
 
 
 ;Learn More&hellip;
-Learn More&hellip;
+Научи още&hellip;
 
 
 ;Tip
-Tip
+Съвет
 
 
 ;Looks like your Firefox is brand new! Check back after using Firefox for a while.
-Looks like your Firefox is brand new! Check back after using Firefox for a while.
+Изглежда, че вашият Firefox е чисто нов! Проверете отново, след като използвате Firefox известно време.
 
 
 ;Important Metrics
-Important Metrics
+Важни показатели
 
 
 ;Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
-Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
+Докладът за състояние на Firefox записва информация относно браузърът ви и устройството. Можете да <a href="#raw" class="navigate">видите информацията, която записваме.</a> Същоо така може да видите какво споделяте сMozilla.
 
 
 ;Device hardware, operating system, Firefox version.
-Device hardware, operating system, Firefox version.
+Хардуер на устройството, операционна система, версия на Firefox.
 
 
 ;Extensions, plugins, and number of installed add-ons.
-Extensions, plugins, and number of installed add-ons.
+Разширения, плъгини и брой инсталирани добавки.
 
 
 ;Key performance measures, such as launch speed.
-Key performance measures, such as launch speed.
+Ключови характеристики, например скорост на стартиране.
 
 
 ;Browsing duration, install time, number of bookmarks and pages.
-Browsing duration, install time, number of bookmarks and pages.
+Продължителност на сърфирането, време за инсталация, брой отметки и страници.
 
 
 ;Home
-Home
+Начало
 
 
 ;CPU Count:
-CPU Count:
+Брой процесори:
 
 
 ;The number of CPU cores reported by Android.
-The number of CPU cores reported by Android.
+Броят процесорни ядра, докладвани от Android.
 
 
 ;Memory in MB:
-Memory in MB:
+Памет в MB:
 
 
 ;The amount of memory reported by Android. Typically excludes graphics memory.
-The amount of memory reported by Android. Typically excludes graphics memory.
+Размерът на паметта, докладван от Android. Обикновено не включва графичната памет.
 
 
 ;Application Name:
-Application Name:
+Име на приложението:
 
 
 ;The internal application name for the browser.
-The internal application name for the browser.
+Вътрешното име на браузъра.
 
 
 ;Application ID:
-Application ID:
+ID на приложението:
 
 
 ;The internal identifier for the application.
-The internal identifier for the application.
+Вътрешният идентификатор на приложението.
 
 
 ;Application Version:
-Application Version:
+Версия на приложението:
 
 
 ;The current version of the browser
-The current version of the browser
+Текущата версия на браузъра
 
 
 ;Application Build ID:
-Application Build ID:
+Build ID на приложението:
 
 
 ;The internal build timestamp.
-The internal build timestamp.
+Вътрешната дата на версията.
 
 
 ;Update Channel:
-Update Channel:
+Ъпдейт канал:
 
 
 ;Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
-Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
+Firefox се разпространява чрез канали: Nightly версии, каналът за pre-release Aurora, стабилна Beta и публична версия. Това поле показва този канал.
 
 
 ;Vendor:
-Vendor:
+Доставчик:
 
 
 ;The organization that built this application. Typically Mozilla.
-The organization that built this application. Typically Mozilla.
+Организацията, която е разработила това приложение. Обикновено Mozilla.
 
 
 ;Platform Version:
-Platform Version:
+Версия на платформата:
 
 
 ;An internal version identifier. Typically the same as appVersion.
-An internal version identifier. Typically the same as appVersion.
+Вътрешен идентификатор на верията. Обикновено еднакъв с appVersion.
 
 
 ;Platform Build ID:
-Platform Build ID:
+Build ID на платформата;
 
 
 ;On Android this is an alternative name for appBuildID.
-On Android this is an alternative name for appBuildID.
+На Android това е алтернативно име за appBuildID.
 
 
 ;xpcomabi:
-xpcomabi:
+xpcomabi:{ok}
 
 
 ;The CPU architecture for which this application was built.
-The CPU architecture for which this application was built.
+Архитектурата на процесора, за която е това приложение.
 
 
 ;OS:
-OS:
+ОС:
 
 
 ;The current operating system.
-The current operating system.
+Текущата операционна система
 
 
 ;Architecture:
-Architecture:
+Архитектура:
 
 
 ;The CPU architecture for this device.
-The CPU architecture for this device.
+Архитектурата на процесора на това устройство.
 
 
 ;System Name:
-System Name:
+Име на системата:
 
 
 ;The current system name.
-The current system name.
+Текущото име на системата.
 
 
 ;System Version:
-System Version:
+Версия на системата:
 
 
 ;The Android OS revision.
-The Android OS revision.
+Версия на Android.
 
 
 ;Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
-Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
+Дали Firefox изтегля списък с блокирани добавки, за да ви защитава от злонамерени добавки. Включено по подразбиране.
 
 
 ;Telemetry Enabled:
-Telemetry Enabled:
+Телеметрия: 
 
 
 ;Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
-Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
+Дали Firefox докладва подробни данни за използването, за да се подпомогне разработката. Изключено по подразбиране за повечето канали.
 
 
 ;Extension Count:
-Extension Count:
+Брой на разширения:
 
 
 ;How many extension add-ons are installed.
-How many extension add-ons are installed.
+Колко разширения са инсталирани.
 
 
 ;Plugin Count:
-Plugin Count:
+Брой на плъгини:
 
 
 ;How many plugin add-ons are installed.
-How many plugin add-ons are installed.
+Колко плъгини са инсталирани.
 
 
 ;Theme Count:
-Theme Count:
+Брой на темите:
 
 
 ;How many theme add-ons are installed.
-How many theme add-ons are installed.
+Колко теми са инсталирани.
 
 
 ;Addons:
-Addons:
+Добавки:
 
 
 ;A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
-A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
+Колекция, описваща инсталираните добавки. Не всички добавки са докладвани: само плъгини, разширения и услуги.
 
 
 ;Search Counts:
-Search Counts:
+Брой на търсенията:
 
 
 ;A count of how many searches you issued to each of Mozilla's partner providers.
-A count of how many searches you issued to each of Mozilla's partner providers.
+Брой, показващ колко търсения са направени с всеки от партньорите на Mozilla.
 
 
 ;Sessions and Startup Times
-Sessions and Startup Times
+Сесии и време за стартиране
 
 
 ;For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
-For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
+За всяка сесия Докладът за изправност на Firefox записва приблизително колко време (в секунди) сте сърфирали и дали сесията е приключила нормално или заради срив. Също се включва и времето за стартиране на приложението (в милисекунди), ако е налично.
 
 
 ;Profile Creation:
-Profile Creation:
+Създаване на профил:
 
 
 ;The day on which your browser profile was created. Counted in days since January 1st 1970.
-The day on which your browser profile was created. Counted in days since January 1st 1970.
+Денят, в който профилът ви е създаден. Отброявано в дни от 1-ви Януари 1970.
 
 
 ;Learn More
-Learn More
+Научи още
 
 
 ;Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
-Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
+Докладът за изправност на Firefox (Firefox Health Report (FHR)) анализира работата на вашия браузър, за да ви предостави полезни съвети за извличане на най-доброто от Firefox. За повече информация относно докладът <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>посетете секцията тук</a>
 
 
 ;For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
-For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
+За повече информация за това как управляваме данните ви, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>вижте нашата декларация за поверителност.</a>
 
 
 ;You are currently sharing your health report with Mozilla.
-You are currently sharing your health report with Mozilla.
+В момента споделяте вашия доклад с Mozilla
 
 
 ;Choose what I share
-Choose what I share
+Избери какво се споделя
 
 
 ;You are currently not sharing your health report with Mozilla.
-You are currently not sharing your health report with Mozilla.
+В момента не споделяте вашия доклад с Mozilla.
 
 
