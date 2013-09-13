@@ -432,258 +432,256 @@ Firefox წარმადობის პატაკი წარმოდგ�
 
 # The following strings are used only in the Mobile version of about:healthreport (Firefox for Android)
 ;Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
-Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
+Firefox დიაგნოსტიკა თქვენი Firefox ბრაუზერის ოპტიმიზაციასა და გაუმჯობესებაში დაგვეხმარება. საწყისი პატაკები საკმაოდ მარტივი იქნება, თუმცა მომავალშI განვითარდება და გაიზრდება.
 
 
 ;Learn More&hellip;
-Learn More&hellip;
+დაწვრილებით&hellip;
 
 
 ;Tip
-Tip
+რჩევა
 
 
 ;Looks like your Firefox is brand new! Check back after using Firefox for a while.
-Looks like your Firefox is brand new! Check back after using Firefox for a while.
+როგორც ჩანს Firefox აბსოლუტურად ახალია! შემოდით მისი ცოტაოდენი პრაქტიკული გამოყენების შემდეგ.
 
 
 ;Important Metrics
-Important Metrics
+მნიშვნელოვანი აზომვები
 
 
 ;Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
-Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
+Firefox დიაგნოსტიკა თქვნი ბრაუზერისა და მოწყობილობების დავთარს აწარმოებს. შეგიძლიათ <a href="#raw" class="navigate">გაეცნოთ ჩაწერილ ინფორმაციას.</a> ასევე, შეგიძლიათ ნახოთ თუ რას უზიარებთ Mozilla-ს.
 
 
 ;Device hardware, operating system, Firefox version.
-Device hardware, operating system, Firefox version.
+მოწყობილობები, საოპერაციო სისტემა, Firefox ვერსია.
 
 
 ;Extensions, plugins, and number of installed add-ons.
-Extensions, plugins, and number of installed add-ons.
+მოდულები, პაკეტები და ჩადგმულ სკრიპტთა რაოდენობა.
 
 
 ;Key performance measures, such as launch speed.
-Key performance measures, such as launch speed.
+წარმადობის მაჩვენებლები, როგორიცაა გახსნის სიჩქარე.
 
 
 ;Browsing duration, install time, number of bookmarks and pages.
-Browsing duration, install time, number of bookmarks and pages.
+ასახვის ხანგრძლიობა, ჩადგმის დრო, სანიშნეთა და გვერდების რაოდენობა.
 
 
 ;Home
-Home
+თავფურცელი
 
 
 ;CPU Count:
-CPU Count:
+პროცესორები:
 
 
 ;The number of CPU cores reported by Android.
-The number of CPU cores reported by Android.
+Android-ის ნაპატაკები პროცესორთა რაოდენობა.
 
 
 ;Memory in MB:
-Memory in MB:
+მეხსიერება (მბ):
 
 
 ;The amount of memory reported by Android. Typically excludes graphics memory.
-The amount of memory reported by Android. Typically excludes graphics memory.
+Android-ის ნაპატაკები მეხსიერება. ჩვეულებრივ, გრაფიკული მეხსიერების გარეშე.
 
 
 ;Application Name:
-Application Name:
+პროგრამის სახელი:
 
 
 ;The internal application name for the browser.
-The internal application name for the browser.
+პროგრამის შიდა სახელი ბრაუზერისთვის.
 
 
 ;Application ID:
-Application ID:
+პროგრამის ID:
 
 
 ;The internal identifier for the application.
-The internal identifier for the application.
+შიდა იდენტდიკატორი პროგრამისთვის.
 
 
 ;Application Version:
-Application Version:
+პროგრამის ვერსია:
 
 
 ;The current version of the browser
-The current version of the browser
+ბრაუზერის მიმდინარე ვერსია
 
 
 ;Application Build ID:
-Application Build ID:
+პროგრამის აგების ID:
 
 
 ;The internal build timestamp.
-The internal build timestamp.
+აგების შიდა დროის შტამპი.
 
 
 ;Update Channel:
-Update Channel:
+განახლების არხი:
 
 
 ;Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
-Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
+Firefox ვრცელდება შემდეგი არხებით: დღე-ღამის ვერსიები, Aurora წინასწარი ვერსიის არხი, სტაბილური Beta და საზოგადო ვერსია. ამ ველში არხი მიეთითება.
 
 
 ;Vendor:
-Vendor:
+მომწოდებელი:
 
 
 ;The organization that built this application. Typically Mozilla.
-The organization that built this application. Typically Mozilla.
+პროგრამის ამგები ორგანიზაცია. ჩვეულებრივ, Mozilla.
 
 
 ;Platform Version:
-Platform Version:
+პლატფორმის ვერსია:
 
 
 ;An internal version identifier. Typically the same as appVersion.
-An internal version identifier. Typically the same as appVersion.
+ვერსიის შიდა იდენტიფიკატორი. ჩვეულებრივ, იგივ, რაც appVersion.
 
 
 ;Platform Build ID:
-Platform Build ID:
+პლატფორმის აგების ID:
 
 
 ;On Android this is an alternative name for appBuildID.
-On Android this is an alternative name for appBuildID.
+Android-ისთვის ეს ეს ალტერნატული appBuildID სახელია.
 
 
 ;xpcomabi:
-xpcomabi:
+xpcomabi: {ok}
 
 
 ;The CPU architecture for which this application was built.
-The CPU architecture for which this application was built.
+პროცესორის არქიტექტურა, რომლისთვისაც აიგო ეს პროგრამა.
 
 
 ;OS:
-OS:
+OS: {ok}
 
 
 ;The current operating system.
-The current operating system.
+მიმდინარე საოპერაციო სისტემა.
 
 
 ;Architecture:
-Architecture:
+არქიტექტურა:
 
 
 ;The CPU architecture for this device.
-The CPU architecture for this device.
+ამ მოწყობილობის პროცესორის არქიტექტურა.
 
 
 ;System Name:
-System Name:
+სისტემის სახელი:
 
 
 ;The current system name.
-The current system name.
+მიმდინარე სისტემის სახელი.
 
 
 ;System Version:
-System Version:
+სისტემის ვერსია:
 
 
 ;The Android OS revision.
-The Android OS revision.
+Android-ის OS ვერსია.
 
 
 ;Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
-Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
+ჩატვირთოს თუ არა Firefox-მა მოდულების შავი სია მავნე მოდულებისგან დაცვის უზრუნველსაყოფად. ნაგულისხმებად - ჩართულია.
 
 
 ;Telemetry Enabled:
-Telemetry Enabled:
+ტელემეტრია ჩართულია:
 
 
 ;Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
-Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
+უპატაკოს თუ არა Firefox-მა მისი გამოყენების დეტალური მონაცემები პროგრამის გასაუმჯობესებლად. არხების უმეტესობისთვის, ნაგულისხმებად - ამორთულია.
 
 
 ;Extension Count:
-Extension Count:
+სკრიპტების რაოდენობა:
 
 
 ;How many extension add-ons are installed.
-How many extension add-ons are installed.
+სკრიპტების რამდენი მოდულია ჩადგმული.
 
 
 ;Plugin Count:
-Plugin Count:
+პაკეტების რაოდენობა:
 
 
 ;How many plugin add-ons are installed.
-How many plugin add-ons are installed.
+პაკეტების რამდენი მოდულია ჩადგმული.
 
 
 ;Theme Count:
-Theme Count:
+თემების რაოდენობა:
 
 
 ;How many theme add-ons are installed.
-How many theme add-ons are installed.
+თემების რამდენი მოდულია ჩადგმული.
 
 
 ;Addons:
-Addons:
+მოდულები:
 
 
 ;A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
-A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
+ჩადგმული მოდულების აღწერილობათა კოლექცია. ყველა მოდული არ აისახება: მხოლოდ პაკეტები, სკრიპტები და მომსახურებები.
 
 
 ;Search Counts:
-Search Counts:
+ძიებათა რაოდენობა:
 
 
 ;A count of how many searches you issued to each of Mozilla's partner providers.
-A count of how many searches you issued to each of Mozilla's partner providers.
+ძიებათა რაოდენობა Mozilla-ს თითოეული პარტნიორი პროვაიდერის საშუალებით.
 
 
 ;Sessions and Startup Times
-Sessions and Startup Times
+სეანსები და გახსნათა დროები
 
 
 ;For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
-For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
+ბრაუზერის თითოეული სეანსისთვის, Firefox დიაგნოსტიკა შეინახავს სეანსის მიახლოებით დროს (წამებში) სეანსის დასრულების სტატუსს. ასევე, თუ შესაძლებელია, პროგრამის გახსნის დროს (მილიწამებში).
 
 
 ;Profile Creation:
-Profile Creation:
+პროფაილის შექმნა:
 
 
 ;The day on which your browser profile was created. Counted in days since January 1st 1970.
-The day on which your browser profile was created. Counted in days since January 1st 1970.
+დღე, როცა თქვენი ბრაუზერის პროფაილი შეიქმნა. გამოითვლება გასული დღეებით 1970 წლის 1 იანვრიდან.
 
 
 ;Learn More
-Learn More
+დაწვრილებით
 
 
 ;Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
-Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
+Firefox დიაგნოსტიკა (FHR) აანალიზებს თქვენი ბრაუზერის წარმადობას, რათა მოგაწოდოთ რჩევები თქვენი Firefox ბრაუზერის მაქსიმალური რფექტიანობით გამოსაყნებლად. Firefox დიაგნოსტიკის შესახებ დამატებითი ინფორმაციის მისღებად, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>ესტუმრეთ Mozilla-ს მხარდაჭერის სექციას.</a>
 
 
 ;For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
-For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
+იმის შესახებ თუ როგორ ვიყენებთ თქვენს მოწოდებულ მონაცემებს, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>გაეცანით ჩვენს კონფიდენციალობის პირობებს.</a>
 
 
 ;You are currently sharing your health report with Mozilla.
-You are currently sharing your health report with Mozilla.
+ამ დროისთვის Mozilla-ს დიაგნოსტიკის შედეგებს უზიარებთ.
 
 
 ;Choose what I share
-Choose what I share
+შერჩევა, რა გაუზიაროთ
 
 
 ;You are currently not sharing your health report with Mozilla.
-You are currently not sharing your health report with Mozilla.
-
-
+ამ დროისთვის Mozilla-ს დიაგნოსტიკის შედეგებს არ უზიარებთ.
