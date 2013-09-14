@@ -119,7 +119,7 @@ Uw browser lijkt minder snel te werken dan normaal. Voor meer info:
 
 
 ;You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
-Hoe meer u uw browser gebruikt, hoe meer interessante en gedetailleerde gegevens u kunt bekijken. Kijk over enkele weken nog eens om bepaalde trends te zien.
+Hoe meer u uw browser gebruikt, hoe meer interessante en gedetailleerde gegevens u kunt zien. Kijk over enkele weken nog eens om bepaalde trends te zien.
 
 
 ;Startup Time by Day
@@ -203,7 +203,7 @@ Binaire interface voor XPCOM
 
 
 ;Identifier for this build of the application based on the date the build was started
-Identificatie voor deze build van de toepassing, gebaseerd op de datum waarop de build is gestart
+Aanduiding voor deze build van de toepassing, gebaseerd op de datum waarop de build is gestart
 
 
 ;Operating System for which this build was configured
@@ -211,7 +211,7 @@ Besturingssysteem waarvoor de build is geconfigureerd
 
 
 ;Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
-Identificatie voor de bepaalde distributie van de gebruikte toepassing. Deze wordt verkregen van de voorkeursinstelling <var>distribution.id</var>
+Aanduiding voor de bepaalde distributie van de gebruikte toepassing. Deze wordt verkregen van de voorkeursinstelling <var>distribution.id</var>
 
 
 ;Version of the distribution, taken from the <var>distribution.version</var> preference
@@ -223,7 +223,7 @@ Het versienummer van een eventuele op de toepassing toegepaste Mozilla-hotfix
 
 
 ;Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
-Unieke identificator voor de toepassing die aangeeft of het Firefox of Thunderbird betreft, etc. Hetzelfde voor alle installaties van een toepassing, ongeacht de waarde van <var>appName</var>
+Unieke aanduiding voor de toepassing die aangeeft of het Firefox of Thunderbird betreft, etc. Hetzelfde voor alle installaties van een toepassing, ongeacht de waarde van <var>appName</var>
 
 
 ;The configured name of the application (Firefox/Aurora/Nightly for instance)
@@ -267,7 +267,7 @@ Versie van het huidige actieve besturingssysteem (kernel)
 
 
 ;The build identifier of the Gecko platform code
-De build-identifier van de Gecko-platformcode
+De build-aanduiding van de Gecko-platformcode
 
 
 ;The version of the Gecko platform code
@@ -303,7 +303,7 @@ Of deze add-on systeemeigen code bevat.
 
 
 ;The identifier of this add-on as defined by the add-on developer
-De identificator van deze add-on, zoals bepaald door de add-on-ontwikkelaar
+De aanduiding van deze add-on, zoals bepaald door de add-on-ontwikkelaar
 
 
 ;The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
@@ -432,258 +432,258 @@ Privacybeleid (en)
 
 # The following strings are used only in the Mobile version of about:healthreport (Firefox for Android)
 ;Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
-Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
+Het Firefox-statusrapport laat u uw Firefox optimaliseren en helpt ons een nog betere browser te bouwen. Rapporten zijn aanvankelijk nogal basaal, maar blijven evalueren en groeien.
 
 
 ;Learn More&hellip;
-Learn More&hellip;
+Meer info&hellip;
 
 
 ;Tip
-Tip
+Tip {ok}
 
 
 ;Looks like your Firefox is brand new! Check back after using Firefox for a while.
-Looks like your Firefox is brand new! Check back after using Firefox for a while.
+Het lijkt erop dat uw Firefox hagelnieuw is! Kijk nog eens nadat u Firefox een tijdje hebt gebruikt.
 
 
 ;Important Metrics
-Important Metrics
+Belangrijke meetgegevens
 
 
 ;Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
-Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
+Het Firefox-statusrapport legt gegevens over uw browser en apparaat vast. U kunt <a href="#raw" class="navigate">de gegevens die we vastleggen bekijken.</a> Ook kunt u zien wat u met Mozilla deelt.
 
 
 ;Device hardware, operating system, Firefox version.
-Device hardware, operating system, Firefox version.
+Apparaathardware, besturingssysteem, Firefox-versie.
 
 
 ;Extensions, plugins, and number of installed add-ons.
-Extensions, plugins, and number of installed add-ons.
+Extensies, plug-ins en aantal geïnstalleerde add-ons.
 
 
 ;Key performance measures, such as launch speed.
-Key performance measures, such as launch speed.
+Belangrijkste prestatiemetingen, zoals opstarttijd.
 
 
 ;Browsing duration, install time, number of bookmarks and pages.
-Browsing duration, install time, number of bookmarks and pages.
+Navigatieduur, installatietijd, aantal bladwijzers en pagina’s.
 
 
 ;Home
-Home
+Start
 
 
 ;CPU Count:
-CPU Count:
+Aantal CPU’s:
 
 
 ;The number of CPU cores reported by Android.
-The number of CPU cores reported by Android.
+Het aantal door Android gerapporteerde CPU’s.
 
 
 ;Memory in MB:
-Memory in MB:
+Geheugen in MB:
 
 
 ;The amount of memory reported by Android. Typically excludes graphics memory.
-The amount of memory reported by Android. Typically excludes graphics memory.
+De hoeveelheid door Android gerapporteerd geheugen. Bevat doorgaans geen grafisch geheugen.
 
 
 ;Application Name:
-Application Name:
+Toepassingsnaam:
 
 
 ;The internal application name for the browser.
-The internal application name for the browser.
+De interne toepassingsnaam voor de browser.
 
 
 ;Application ID:
-Application ID:
+Toepassings-id:
 
 
 ;The internal identifier for the application.
-The internal identifier for the application.
+De interne aanduiding voor de toepassing.
 
 
 ;Application Version:
-Application Version:
+Toepassingsversie:
 
 
 ;The current version of the browser
-The current version of the browser
+De huidige versie van de browser
 
 
 ;Application Build ID:
-Application Build ID:
+Build-id van de toepassing
 
 
 ;The internal build timestamp.
-The internal build timestamp.
+De interne tijdstempel van de build.
 
 
 ;Update Channel:
-Update Channel:
+Updatekanaal:
 
 
 ;Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
-Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
+Firefox wordt verspreid via kanalen: nightly builds, het Aurora-pre-releasekanaal, een stabiele Bèta, en de publieke versie. Dit veld geeft het kanaal aan.
 
 
 ;Vendor:
-Vendor:
+Leverancier:
 
 
 ;The organization that built this application. Typically Mozilla.
-The organization that built this application. Typically Mozilla.
+De organisatie die deze toepassing heeft gebouwd. Doorgaans is dit Mozilla.
 
 
 ;Platform Version:
-Platform Version:
+Platformversie:
 
 
 ;An internal version identifier. Typically the same as appVersion.
-An internal version identifier. Typically the same as appVersion.
+Een interne versieaanduiding. Doorgaans hetzelfde als appVersion.
 
 
 ;Platform Build ID:
-Platform Build ID:
+Build-id van platform:
 
 
 ;On Android this is an alternative name for appBuildID.
-On Android this is an alternative name for appBuildID.
+Op Android is dit een alternatieve naam voor appBuildID.
 
 
 ;xpcomabi:
-xpcomabi:
+xpcomabi: {ok}
 
 
 ;The CPU architecture for which this application was built.
-The CPU architecture for which this application was built.
+De CPU-architectuur waarvoor de toepassing is gebouwd.
 
 
 ;OS:
-OS:
+OS: {ok}
 
 
 ;The current operating system.
-The current operating system.
+Het huidige besturingssysteem.
 
 
 ;Architecture:
-Architecture:
+Architectuur:
 
 
 ;The CPU architecture for this device.
-The CPU architecture for this device.
+De CPU-architectuur voor dit apparaat.
 
 
 ;System Name:
-System Name:
+Systeemnaam:
 
 
 ;The current system name.
-The current system name.
+De huidige systeemnaam.
 
 
 ;System Version:
-System Version:
+Systeemversie:
 
 
 ;The Android OS revision.
-The Android OS revision.
+De Android OS-revisie.
 
 
 ;Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
-Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
+Of Firefox resultaten van de add-on-blokkeerlijst ophaalt om u tegen kwaadwillende add-ons te beschermen. Standaard staat dit aan.
 
 
 ;Telemetry Enabled:
-Telemetry Enabled:
+Telemetry ingeschakeld:
 
 
 ;Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
-Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
+Of Firefox gedetailleerde gebruiksgegevens rapporteert om de ontwikkeling te helpen. Standaard staat dit voor de meeste kanalen uit.
 
 
 ;Extension Count:
-Extension Count:
+Aantal extensies:
 
 
 ;How many extension add-ons are installed.
-How many extension add-ons are installed.
+Het aantal geïnstalleerde extensie-add-ons.
 
 
 ;Plugin Count:
-Plugin Count:
+Aantal plug-ins:
 
 
 ;How many plugin add-ons are installed.
-How many plugin add-ons are installed.
+Het aantal geïnstalleerde plug-in-add-ons.
 
 
 ;Theme Count:
-Theme Count:
+Aantal thema’s:
 
 
 ;How many theme add-ons are installed.
-How many theme add-ons are installed.
+Het aantal geïnstalleerde thema-add-ons.
 
 
 ;Addons:
-Addons:
+Add-ons:
 
 
 ;A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
-A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
+Een verzameling die de geïnstalleerde add-ons beschrijft. Niet alle add-ons worden gerapporteerd: alleen plug-ins, extensies en services.
 
 
 ;Search Counts:
-Search Counts:
+Aantal zoekopdrachten:
 
 
 ;A count of how many searches you issued to each of Mozilla's partner providers.
-A count of how many searches you issued to each of Mozilla's partner providers.
+Een telling van de hoeveelheid zoekopdrachten die u aan elk van Mozilla’s partnerproviders hebt verleend.
 
 
 ;Sessions and Startup Times
-Sessions and Startup Times
+Sessies en opstarttijden
 
 
 ;For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
-For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
+Voor elke navigatiesessie legt het Firefox-statusrapport ruwweg vast hoe lang u hebt genavigeerd (in seconden), en of de sessie normaal is geëindigd of vanwege een crash. Bevat tevens opstarttijden (in milliseconden) wanneer beschikbaar.
 
 
 ;Profile Creation:
-Profile Creation:
+Profielaanmaak:
 
 
 ;The day on which your browser profile was created. Counted in days since January 1st 1970.
-The day on which your browser profile was created. Counted in days since January 1st 1970.
+De dag waarop uw browserprofiel is aangemaakt. Wordt geteld in dagen sinds 1 januari 1970.
 
 
 ;Learn More
-Learn More
+Meer info
 
 
 ;Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
-Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
+Het Firefox-statusrapport (FHR) analyseert de prestatiegegevens van uw browser, zodat u nuttige tips kunt verkrijgen die u helpen het beste uit Firefox te halen. <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>Bezoek de sectie Mozilla Support</a> voor meer informatie over het Firefox-statusrapport.
 
 
 ;For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
-For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
+<a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>Bekijk ons privacybeleid</a> voor meer informatie over de wijze waarop we met uw gegevens omgaan.
 
 
 ;You are currently sharing your health report with Mozilla.
-You are currently sharing your health report with Mozilla.
+Op dit moment deelt u uw statusrapport met Mozilla.
 
 
 ;Choose what I share
-Choose what I share
+Kiezen wat ik deel
 
 
 ;You are currently not sharing your health report with Mozilla.
-You are currently not sharing your health report with Mozilla.
+Op dit moment deelt u uw statusrapport niet met Mozilla.
 
 
