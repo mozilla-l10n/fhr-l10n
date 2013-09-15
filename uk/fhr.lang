@@ -115,7 +115,7 @@
 
 
 ;Your browser seems to be running slower than usual. To learn more:
-Здається, ваш браузер працює повільніше чим звичайно. Щоб дізнатись більше:
+Здається, ваш браузер працює повільніше ніж звичайно. Щоб дізнатись більше:
 
 
 ;You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
@@ -163,7 +163,7 @@
 
 
 ;Device hardware, operating system, Firefox version
-Апаратне частина пристрою, операційна система, версія Firefox
+Апаратна частина пристрою, операційна система, версія Firefox
 
 
 ;Customizations
@@ -223,7 +223,7 @@
 
 
 ;Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
-Ідентифікатор, що є унікальним для застосунку і вказує що це Firefox чи Thunderbird, тощо. Він є однаковим для усих встановлень застосунка і не залежить від значення параметру <var>appName</var>
+Ідентифікатор, що є унікальним для застосунку і вказує що це: Firefox чи Thunderbird, тощо. Він є однаковим для усих встановлень застосунка і не залежить від значення параметру <var>appName</var>
 
 
 ;The configured name of the application (Firefox/Aurora/Nightly for instance)
@@ -375,7 +375,7 @@
 
 
 ;Total number of crashes that were recorded but not yet submitted
-Загальна кількість відмов, які були записані та про які ще не було відзвітовано
+Загальна кількість відмов, які були записані, та про які ще не було відзвітовано
 
 
 ;Total number of crashes that have been submitted
@@ -488,7 +488,7 @@
 
 
 ;The amount of memory reported by Android. Typically excludes graphics memory.
-Повідомлена Андроїдом кількість пам'яті. Типово, не врахувує графічну пам'ять.
+Повідомлена Андроїдом кількість пам'яті. Типово, не враховує графічну пам'ять.
 
 
 ;Application Name:
@@ -544,7 +544,7 @@ Firefox розповсюджується каналами: нічні збірк
 
 
 ;An internal version identifier. Typically the same as appVersion.
-Внутнішній ідентифікатор версії. Типово, те саме що і appVersion.
+Внутрішній ідентифікатор версії. Типово, те саме що і appVersion.
 
 
 ;Platform Build ID:
@@ -556,11 +556,11 @@ ID збірки платформи:
 
 
 ;xpcomabi:
-xpcomabi:
+xpcomabi: {ok}
 
 
 ;The CPU architecture for which this application was built.
-Архітектура ЦП для якої було зібрано цей застосунок.
+Архітектура ЦП, для якої було зібрано цей застосунок.
 
 
 ;OS:
@@ -604,7 +604,7 @@ xpcomabi:
 
 
 ;Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
-Чи звітує Firefox докладну інформацію про своє використання для допомоги подальшої розроки. Типово, вимкнуто для більшості каналів.
+Чи звітує Firefox докладну інформацію про своє використання для допомоги подальшої розробки. Типово, вимкнуто для більшості каналів.
 
 
 ;Extension Count:
