@@ -432,135 +432,135 @@ Firefox 상태 검사 보고서를 통해서 Firefox 성능을 확인하고 향�
 
 # The following strings are used only in the Mobile version of about:healthreport (Firefox for Android)
 ;Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
-Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
+Firefox 상태 검사 보고서는 Firefox를 최적화하고 보다 나은 브라우저를 만드는데 사용됩니다. 처음의 보고서는 기초적인 내용이지만 계속해서 발전할 것입니다.
 
 
 ;Learn More&hellip;
-Learn More&hellip;
+자세히 보기&hellip;
 
 
 ;Tip
-Tip
+팁
 
 
 ;Looks like your Firefox is brand new! Check back after using Firefox for a while.
-Looks like your Firefox is brand new! Check back after using Firefox for a while.
+Firefox가 새로 설치된 것 같습니다. Firefox를 어느정도 사용한 후 다시 방문해 주세요.
 
 
 ;Important Metrics
-Important Metrics
+주요 정보
 
 
 ;Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
-Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
+Firefox 상태 검사 보고서는 브라우저와 기기에 대한 정보를 기록합니다. <a href="#raw" class="navigate">기록되는 정보</a>를 확인해 보실 수 있습니다. 또한 어떠한 정보가 Mozilla와 공유되는지도 확인할 수 있습니다.
 
 
 ;Device hardware, operating system, Firefox version.
-Device hardware, operating system, Firefox version.
+기기의 하드웨어와 운영 체제, Firefox 버전.
 
 
 ;Extensions, plugins, and number of installed add-ons.
-Extensions, plugins, and number of installed add-ons.
+확장과 플러그인, 설치된 부가기능 수.
 
 
 ;Key performance measures, such as launch speed.
-Key performance measures, such as launch speed.
+초기 구동 속도와 같은 주요 성능 정보.
 
 
 ;Browsing duration, install time, number of bookmarks and pages.
-Browsing duration, install time, number of bookmarks and pages.
+브라우징 기간과 설치 시간, 북마크와 페이지의 수.
 
 
 ;Home
-Home
+처음
 
 
 ;CPU Count:
-CPU Count:
+CPU 수:
 
 
 ;The number of CPU cores reported by Android.
-The number of CPU cores reported by Android.
+Android에서 제공하는 CPU 코어의 수.
 
 
 ;Memory in MB:
-Memory in MB:
+메모리(MB):
 
 
 ;The amount of memory reported by Android. Typically excludes graphics memory.
-The amount of memory reported by Android. Typically excludes graphics memory.
+Android에서 제공하는 메모리의 양. 보통 그래픽 메모리는 제외됨.
 
 
 ;Application Name:
-Application Name:
+어플리케이션 이름:
 
 
 ;The internal application name for the browser.
-The internal application name for the browser.
+내부적인 브라우저 어플리케이션의 이름.
 
 
 ;Application ID:
-Application ID:
+어플리케이션 ID:
 
 
 ;The internal identifier for the application.
-The internal identifier for the application.
+내부적인 어플리케이션 고유 인식 정보.
 
 
 ;Application Version:
-Application Version:
+어플리케이션 버전:
 
 
 ;The current version of the browser
-The current version of the browser
+브라우저의 현재 버전
 
 
 ;Application Build ID:
-Application Build ID:
+어플리케이션 빌드 ID:
 
 
 ;The internal build timestamp.
-The internal build timestamp.
+내부적인 빌드 타임 스탬프.
 
 
 ;Update Channel:
-Update Channel:
+업데이트 채널:
 
 
 ;Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
-Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
+Firefox는 채널을 통해 배포됩니다: Nightly 빌드와 Aurora 출시전 채널, 안정된 Beta, 공개 배포 버전. 이 항목은 채널 정보를 나타냅니다.
 
 
 ;Vendor:
-Vendor:
+제작사:
 
 
 ;The organization that built this application. Typically Mozilla.
-The organization that built this application. Typically Mozilla.
+어플리케이션을 제작한 기관. 보통은 Mozilla.
 
 
 ;Platform Version:
-Platform Version:
+플랫폼 버전:
 
 
 ;An internal version identifier. Typically the same as appVersion.
-An internal version identifier. Typically the same as appVersion.
+내부적인 버전 인식 정보. 보통은 appVersion과 동일함.
 
 
 ;Platform Build ID:
-Platform Build ID:
+플랫폼 빌드 ID:
 
 
 ;On Android this is an alternative name for appBuildID.
-On Android this is an alternative name for appBuildID.
+Android에서 이 정보는 appBuildID의 다른 이름임.
 
 
 ;xpcomabi:
-xpcomabi:
+xpcomabi: {ok}
 
 
 ;The CPU architecture for which this application was built.
-The CPU architecture for which this application was built.
+이 어플리케이션이 빌드된 CPU 아키텍처.
 
 
 ;OS:
@@ -568,122 +568,122 @@ OS:
 
 
 ;The current operating system.
-The current operating system.
+현재 운영 체제.
 
 
 ;Architecture:
-Architecture:
+아키텍처:
 
 
 ;The CPU architecture for this device.
-The CPU architecture for this device.
+이 기기의 CPU 아키텍처.
 
 
 ;System Name:
-System Name:
+시스템 이름:
 
 
 ;The current system name.
-The current system name.
+현재 시스템 이름.
 
 
 ;System Version:
-System Version:
+시스템 버전:
 
 
 ;The Android OS revision.
-The Android OS revision.
+Android 운영체제 버전.
 
 
 ;Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
-Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
+Firefox가 악성 코드 부가기능을 막기위한 부가기능 차단 목록을 받아올지 여부. 기본값은 켜져있음.
 
 
 ;Telemetry Enabled:
-Telemetry Enabled:
+원격 측정 활성:
 
 
 ;Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
-Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
+Firefox가 개발에 도움이 되는 상세 사용 정보를 보고할지 여부. 대부분의 채널에서 기본값은 꺼져있음.
 
 
 ;Extension Count:
-Extension Count:
+확장기능 수:
 
 
 ;How many extension add-ons are installed.
-How many extension add-ons are installed.
+설치된 확장 부가기능 갯수.
 
 
 ;Plugin Count:
-Plugin Count:
+플러그인 수:
 
 
 ;How many plugin add-ons are installed.
-How many plugin add-ons are installed.
+설치된 플러그인 부가기능 갯수.
 
 
 ;Theme Count:
-Theme Count:
+테마 수:
 
 
 ;How many theme add-ons are installed.
-How many theme add-ons are installed.
+설치된 테마 부가기능 갯수.
 
 
 ;Addons:
-Addons:
+부가기능:
 
 
 ;A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
-A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
+설치된 부가기능 수를 모아서 보여줌. 모든 부가 기능이 포함되지는 않음: 플러그인과 확장, 서비스가 포함됨.
 
 
 ;Search Counts:
-Search Counts:
+검색 수:
 
 
 ;A count of how many searches you issued to each of Mozilla's partner providers.
-A count of how many searches you issued to each of Mozilla's partner providers.
+각 Mozilla의 검색 제휴사별 검색을 수행한 횟수..
 
 
 ;Sessions and Startup Times
-Sessions and Startup Times
+세션과 시작 시간
 
 
 ;For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
-For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
+각 브라우저 세션 별로 Firefox 상태 검사 보고서가 얼마나 오래 브라우징을 했는지(초 단위)와 정상적으로 세션이 종료되었는지 앱이 잘못 종료되었는지를 기록합니다. 또한 정보가 있다면 초기 구동 시간(밀리초 단위)도 포함됩니다.
 
 
 ;Profile Creation:
-Profile Creation:
+프로필 생성:
 
 
 ;The day on which your browser profile was created. Counted in days since January 1st 1970.
-The day on which your browser profile was created. Counted in days since January 1st 1970.
+브라우저 프로필이 생성된 때로부터의 날짜. 1970년 1월 1일 이후의 날짜 수로 기록됩니다.
 
 
 ;Learn More
-Learn More
+자세히 보기
 
 
 ;Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
-Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
+Firefox 상태 검사 보고서(FHR)는 최상의 Firefox 사용 경험을 위한 브라우저의 성능 정보를 분석합니다. Firefox 상태 검사 보고서에 대한 보다 자세한 정보는 <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>Mozilla 도움말 항목</a>을 살펴보세요.
 
 
 ;For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
-For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
+보내진 정보가 어떻게 다뤄지는지에 대해서는 <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>개인정보 보호정책</a>을 살펴보세요.
 
 
 ;You are currently sharing your health report with Mozilla.
-You are currently sharing your health report with Mozilla.
+상태 검사 보고서를 Mozilla에 공유하고 있습니다.
 
 
 ;Choose what I share
-Choose what I share
+공유할 항목 선택
 
 
 ;You are currently not sharing your health report with Mozilla.
-You are currently not sharing your health report with Mozilla.
+상태 검사 보고서를 Mozilla와 공유하고 있지 않습니다.
 
 
