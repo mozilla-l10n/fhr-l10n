@@ -500,59 +500,59 @@
 
 
 ;Application ID:
-Ідентифікатор застосунку:
+ID застосунку:
 
 
 ;The internal identifier for the application.
-The internal identifier for the application.
+Внутрішній ідентифікатор застосунку.
 
 
 ;Application Version:
-Application Version:
+Версія застосунку:
 
 
 ;The current version of the browser
-The current version of the browser
+Поточна версія браузера
 
 
 ;Application Build ID:
-Application Build ID:
+ID збірки застосунка:
 
 
 ;The internal build timestamp.
-The internal build timestamp.
+Внутрішня часова мітка збірки.
 
 
 ;Update Channel:
-Update Channel:
+Канал оновлення:
 
 
 ;Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
-Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
+Firefox розповсюджується каналами: нічні збірки, канал пре-релізів Аврора, стабільна Бета та загальний реліз. Це поле визначає канал.
 
 
 ;Vendor:
-Vendor:
+Поставщик:
 
 
 ;The organization that built this application. Typically Mozilla.
-The organization that built this application. Typically Mozilla.
+Організація, що зібрала застосунок. Типово, це Mozilla.
 
 
 ;Platform Version:
-Platform Version:
+Версія платформи:
 
 
 ;An internal version identifier. Typically the same as appVersion.
-An internal version identifier. Typically the same as appVersion.
+Внутнішній ідентифікатор версії. Типово, те саме що і appVersion.
 
 
 ;Platform Build ID:
-Platform Build ID:
+ID збірки платформи:
 
 
 ;On Android this is an alternative name for appBuildID.
-On Android this is an alternative name for appBuildID.
+На Андроїді, це альтернативна назва для appBuildID.
 
 
 ;xpcomabi:
@@ -560,7 +560,7 @@ xpcomabi:
 
 
 ;The CPU architecture for which this application was built.
-The CPU architecture for which this application was built.
+Архітектура ЦП для якої було зібрано цей застосунок.
 
 
 ;OS:
@@ -596,7 +596,7 @@ The CPU architecture for which this application was built.
 
 
 ;Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
-Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
+Чи отримує Firefox список блокування додатків для вашого захисту від зловмисних додатків. Типово, увімкнуто.
 
 
 ;Telemetry Enabled:
@@ -604,7 +604,7 @@ Whether Firefox fetches add-on blocklist results to protect you against maliciou
 
 
 ;Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
-Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
+Чи звітує Firefox докладну інформацію про своє використання для допомоги подальшої розроки. Типово, вимкнуто для більшості каналів.
 
 
 ;Extension Count:
@@ -612,7 +612,7 @@ Whether Firefox reports detailed usage data to help with development. Defaults t
 
 
 ;How many extension add-ons are installed.
-How many extension add-ons are installed.
+Скільки встановлено розширень.
 
 
 ;Plugin Count:
@@ -620,7 +620,7 @@ How many extension add-ons are installed.
 
 
 ;How many plugin add-ons are installed.
-How many plugin add-ons are installed.
+Скільки встановлено плагінів.
 
 
 ;Theme Count:
@@ -628,7 +628,7 @@ How many plugin add-ons are installed.
 
 
 ;How many theme add-ons are installed.
-How many theme add-ons are installed.
+Скільки встановлено тем.
 
 
 ;Addons:
@@ -636,7 +636,7 @@ How many theme add-ons are installed.
 
 
 ;A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
-A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
+Колекція, що описує встановлені додатки. Звітується не про всі додатки: тільки про плагіни, розширення та сервіси.
 
 
 ;Search Counts:
@@ -644,7 +644,7 @@ A collection describing the installed add-ons. Not all add-ons are reported: onl
 
 
 ;A count of how many searches you issued to each of Mozilla's partner providers.
-A count of how many searches you issued to each of Mozilla's partner providers.
+Лічильник кількості пошуків, що ви виконали за допомогою кожного з пошукових засобів партнерів Мозіли.
 
 
 ;Sessions and Startup Times
@@ -652,7 +652,7 @@ A count of how many searches you issued to each of Mozilla's partner providers.
 
 
 ;For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
-For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
+Для кожного сеансу перегляду, звіт про справність Firefox записує його приблизну тривалість (в секундах) і чи завершився сеанс нормально чи падінням. Також, включає час запусків (в мілісекундах), якщо такі є.
 
 
 ;Profile Creation:
@@ -660,7 +660,7 @@ For each browsing session, Firefox Health Report records approximately how long 
 
 
 ;The day on which your browser profile was created. Counted in days since January 1st 1970.
-The day on which your browser profile was created. Counted in days since January 1st 1970.
+День, коли було створено ваш профіль браузеру. Рахується в днях, починаючи з 1 січня 1970.
 
 
 ;Learn More
@@ -668,15 +668,15 @@ The day on which your browser profile was created. Counted in days since January
 
 
 ;Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
-Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
+Звіт про справність Firefox (FHR) аналізує інформацію про швидкодію вашого браузеру та надає вам корисні рекомендації, які допоможуть покращити роботу Firefox. <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>Відвідайте розділ підтримки Мозіли</a> щодо докладної інформації по звіту про справність Firefox.
 
 
 ;For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
-For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
+Докладніше про те, як ми поводимось з вашою інформацією <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>дивіться в нашій політиці конфіденційності.</a>
 
 
 ;You are currently sharing your health report with Mozilla.
-You are currently sharing your health report with Mozilla.
+Ви зараз ділитесь з Мозілою своїм звітом про справніть.
 
 
 ;Choose what I share
@@ -684,6 +684,6 @@ You are currently sharing your health report with Mozilla.
 
 
 ;You are currently not sharing your health report with Mozilla.
-You are currently not sharing your health report with Mozilla.
+Ви зараз не ділитесь з Мозілою своїм звітом про справність.
 
 
