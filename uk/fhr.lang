@@ -23,7 +23,7 @@
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
-Ви обрали не ділитись даними з Мозілою, проте ви все ж зможете переглядати інформацію про те, як функціоную ваш браузер.
+Ви обрали не ділитись даними з Мозілою, однак ви все ж зможете переглядати інформацію про те, як функціонує ваш браузер.
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
@@ -31,7 +31,7 @@
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
-Ви обрали час від часу ділитись своїми даними з Мозілою. Дякуюємо за те, що ви є частиною нашої місії задля побудові яскравішого майбутнього мережі.
+Ви обрали час від часу ділитись своїми даними з Мозілою. Дякуюємо за те, що ви є частиною нашої місії з побудови яскравішого майбутнього мережі.
 
 
 ;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
@@ -95,7 +95,7 @@
 
 
 ;It looks like your browser has crashed a number of times recently. To learn more:
-Здається, ваш збраузер упав декілька разів нещодавно. Щоб дізнатись більше:
+Здається, ваш браузер нещодавно падав декілька разів. Щоб дізнатись більше:
 
 
 ;OFF
@@ -107,7 +107,7 @@
 
 
 ;View more <a href="%(details_url)s">detailed information</a>
-Переглянути <a href="%(details_url)s">докладніше</a>
+Переглянути <a href="%(details_url)s">подробиці</a>
 
 
 ;pages visited
@@ -167,11 +167,11 @@
 
 
 ;Customizations
-Припасування
+Налаштування
 
 
 ;Add-ons, count and type
-Додатки, кількість ти тип
+Додатки, кількість та тип
 
 
 ;Performance
@@ -179,11 +179,11 @@
 
 
 ;Timing of browser events, rendering, session restores
-Хронометраж подій браузеру, вимальовування, відновлення сеансів
+Хронометраж подій браузеру, візуалізація, відновлення сеансів
 
 
 ;Length of session, how old a profile is, count of crashes, count of pages
-Тривалість сеансу, вік профілю, кількість відмов, кількість сторінок
+Тривалість сеансу, вік профілю, лічильник відмов, лічильник сторінок
 
 
 ;Detailed Description
@@ -207,7 +207,7 @@
 
 
 ;Operating System for which this build was configured
-Операційна система для якої було сконфігуровано дану збіркуd
+Операційна система для якої було сконфігуровано дану збірку
 
 
 ;Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
@@ -299,7 +299,7 @@
 
 
 ;Whether this add-on has native code.
-Чи має цей додаток має нативний код.
+Чи має цей додаток нативний код.
 
 
 ;The identifier of this add-on as defined by the add-on developer
@@ -407,7 +407,7 @@
 
 
 ;Welcome!
-Ласкаво просимо!
+Вітаємо!
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
@@ -432,75 +432,75 @@
 
 # The following strings are used only in the Mobile version of about:healthreport (Firefox for Android)
 ;Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
-Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
+Звіт про справність Firefox дозволяє вам оптимізувати свій Firefox та допомогає нам будувати кращий браузер. Спочатку звіти будуть простими, та з часом їх складність та інформативність зростатиме.
 
 
 ;Learn More&hellip;
-Learn More&hellip;
+Дізнатись більше&hellip;
 
 
 ;Tip
-Tip
+Порада
 
 
 ;Looks like your Firefox is brand new! Check back after using Firefox for a while.
-Looks like your Firefox is brand new! Check back after using Firefox for a while.
+Схоже ваш Firefox було щойно встановлено! Завітайте сюди через деякий час.
 
 
 ;Important Metrics
-Important Metrics
+Важливі метрики
 
 
 ;Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
-Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
+Звіт про справність Firefox записує інформацію про ваш браузер та пристрій. Ви можете <a href="#raw" class="navigate">переглянути, яка інформація записується.</a> Ви також можете бачити, якою інформацією ви ділитесь з Мозілою.
 
 
 ;Device hardware, operating system, Firefox version.
-Device hardware, operating system, Firefox version.
+Апаратне забезпечення пристрою, операційна система, версія Firefox.
 
 
 ;Extensions, plugins, and number of installed add-ons.
-Extensions, plugins, and number of installed add-ons.
+Розширення, плагіни та кількість встановлених додатків.
 
 
 ;Key performance measures, such as launch speed.
-Key performance measures, such as launch speed.
+Важливі показники швидкодії, такі як швидкість запуску.
 
 
 ;Browsing duration, install time, number of bookmarks and pages.
-Browsing duration, install time, number of bookmarks and pages.
+Тривалість перегляду, час встановлення, кількість закладок та сторінок.
 
 
 ;Home
-Home
+Домівка
 
 
 ;CPU Count:
-CPU Count:
+Кількість ЦП:
 
 
 ;The number of CPU cores reported by Android.
-The number of CPU cores reported by Android.
+Повідомлена Андроїдом кількіть ядер ЦП.
 
 
 ;Memory in MB:
-Memory in MB:
+Пам'ять в МБ:
 
 
 ;The amount of memory reported by Android. Typically excludes graphics memory.
-The amount of memory reported by Android. Typically excludes graphics memory.
+Повідомлена Андроїдом кількість пам'яті. Типово, не врахувує графічну пам'ять.
 
 
 ;Application Name:
-Application Name:
+Назва застосунку:
 
 
 ;The internal application name for the browser.
-The internal application name for the browser.
+Внутрішня назва застосунку браузера.
 
 
 ;Application ID:
-Application ID:
+Ідентифікатор застосунку:
 
 
 ;The internal identifier for the application.
@@ -564,35 +564,35 @@ The CPU architecture for which this application was built.
 
 
 ;OS:
-OS:
+ОС:
 
 
 ;The current operating system.
-The current operating system.
+Поточна операційна система.
 
 
 ;Architecture:
-Architecture:
+Архітектура:
 
 
 ;The CPU architecture for this device.
-The CPU architecture for this device.
+Архітектура ЦП цього пристрою.
 
 
 ;System Name:
-System Name:
+Назва системи:
 
 
 ;The current system name.
-The current system name.
+Назва поточної системи.
 
 
 ;System Version:
-System Version:
+Версія системи:
 
 
 ;The Android OS revision.
-The Android OS revision.
+Версія Android OS.
 
 
 ;Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
@@ -600,7 +600,7 @@ Whether Firefox fetches add-on blocklist results to protect you against maliciou
 
 
 ;Telemetry Enabled:
-Telemetry Enabled:
+Телеметрія увімкнута:
 
 
 ;Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
@@ -608,7 +608,7 @@ Whether Firefox reports detailed usage data to help with development. Defaults t
 
 
 ;Extension Count:
-Extension Count:
+Лічильник розширень:
 
 
 ;How many extension add-ons are installed.
@@ -616,7 +616,7 @@ How many extension add-ons are installed.
 
 
 ;Plugin Count:
-Plugin Count:
+Лічильник плагінів:
 
 
 ;How many plugin add-ons are installed.
@@ -624,7 +624,7 @@ How many plugin add-ons are installed.
 
 
 ;Theme Count:
-Theme Count:
+Лічильник тем:
 
 
 ;How many theme add-ons are installed.
@@ -632,7 +632,7 @@ How many theme add-ons are installed.
 
 
 ;Addons:
-Addons:
+Додатки:
 
 
 ;A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
@@ -640,7 +640,7 @@ A collection describing the installed add-ons. Not all add-ons are reported: onl
 
 
 ;Search Counts:
-Search Counts:
+Пошуковий лічильник:
 
 
 ;A count of how many searches you issued to each of Mozilla's partner providers.
@@ -648,7 +648,7 @@ A count of how many searches you issued to each of Mozilla's partner providers.
 
 
 ;Sessions and Startup Times
-Sessions and Startup Times
+Сеанси та час запуску
 
 
 ;For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
@@ -656,7 +656,7 @@ For each browsing session, Firefox Health Report records approximately how long 
 
 
 ;Profile Creation:
-Profile Creation:
+Створення профілю:
 
 
 ;The day on which your browser profile was created. Counted in days since January 1st 1970.
@@ -664,7 +664,7 @@ The day on which your browser profile was created. Counted in days since January
 
 
 ;Learn More
-Learn More
+Дізнайтесь більше
 
 
 ;Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
@@ -680,7 +680,7 @@ You are currently sharing your health report with Mozilla.
 
 
 ;Choose what I share
-Choose what I share
+Обрати чим ділитись
 
 
 ;You are currently not sharing your health report with Mozilla.
