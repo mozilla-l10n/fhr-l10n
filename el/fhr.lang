@@ -452,11 +452,11 @@
 
 
 ;Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
-Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
+Η Αναφπρά υγείας του Firefox καταγράφει πληροφορίες σχετικά με τον περιηγητή και τη συσκευή σας. Μπορείτε να <a href="#raw" class="navigate">να δείτε τις πληροφορίες που καταγράφουμε.</a> Μπορείτε ακόμη να δείτε τι μοιράζεστε με το Mozilla.
 
 
 ;Device hardware, operating system, Firefox version.
-Hardware συσκευής, λειτουργικό σύστημα, έκδοση Firefox.
+Υλικό συσκευής, λειτουργικό σύστημα, έκδοση Firefox.
 
 
 ;Extensions, plugins, and number of installed add-ons.
@@ -556,7 +556,7 @@ Build ID πλατφόρμας:
 
 
 ;xpcomabi:
-xpcomabi:{ok}
+xpcomabi: {ok}
 
 
 ;The CPU architecture for which this application was built.
