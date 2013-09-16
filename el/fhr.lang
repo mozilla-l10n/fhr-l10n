@@ -111,7 +111,7 @@
 
 
 ;pages visited
-Σελίδες που επισκεφθείκατε
+Σελίδες που επισκεφθήκατε
 
 
 ;Your browser seems to be running slower than usual. To learn more:
@@ -171,7 +171,7 @@
 
 
 ;Add-ons, count and type
-Αριθμός και τύπος πρόσθετων
+Αριθμός και τύπος προσθέτων
 
 
 ;Performance
@@ -556,7 +556,7 @@ Build ID πλατφόρμας:
 
 
 ;xpcomabi:
-xpcomabi: {ok}
+xpcomabi:{ok}
 
 
 ;The CPU architecture for which this application was built.
