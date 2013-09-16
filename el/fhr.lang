@@ -287,7 +287,7 @@
 
 
 ;The number of add-ons of this type that existed in the profile on this date
-Ο αρθμός των πρόσθετων αυτού του τύπου που υπήρχε αυτή την ημερομηνία στο προφίλ
+Ο αρθμός των προσθέτων αυτού του τύπου που υπήρχε αυτή την ημερομηνία στο προφίλ
 
 
 ;<var>True</var> if the application automatically disabled the add-on
@@ -355,7 +355,7 @@
 
 
 ;The time in seconds that the aborted sessions were running
-Ο χρόνος (σε δευτερόλεπτα) που οι εγκαταλελειμμένες συνεδρίες εκτελούταν
+Ο χρόνος (σε δευτερόλεπτα) που οι εγκαταλελειμμένες συνεδρίες εκτελούνταν
 
 
 ;The number of days since this application profile directory was created
@@ -432,23 +432,23 @@
 
 # The following strings are used only in the Mobile version of about:healthreport (Firefox for Android)
 ;Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
-Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
+Η Αναφορά Υγείας του Firefox σας επιτρέπει να βελτιώσετε τον Firefox και μας βοηθά να φτιάξουμε έναν πιο ωραίο περιηγητή. Οι αναφορές θα είναι αρκετά απλές στην αρχή, μα θα συνεχίσουν να εξελίσσονται και να αναπτύσσονται.
 
 
 ;Learn More&hellip;
-Learn More&hellip;
+Μάθετε περισσότερα&hellip;
 
 
 ;Tip
-Tip
+Συμβουλή
 
 
 ;Looks like your Firefox is brand new! Check back after using Firefox for a while.
-Looks like your Firefox is brand new! Check back after using Firefox for a while.
+Φαίνεται πως ο Firefox σας είναι ολοκαίνουριος! Ελέγξτε ξανά αφού τον χρησιμοποιήσετε λιγάκι.
 
 
 ;Important Metrics
-Important Metrics
+Σημαντικές Μετρικές
 
 
 ;Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
@@ -456,234 +456,234 @@ Firefox Health Report records information about your browser and device. You can
 
 
 ;Device hardware, operating system, Firefox version.
-Device hardware, operating system, Firefox version.
+Hardware συσκευής, λειτουργικό σύστημα, έκδοση Firefox.
 
 
 ;Extensions, plugins, and number of installed add-ons.
-Extensions, plugins, and number of installed add-ons.
+Επεκτάσεις, πρόσθετες λειτουργίες, και αριθμός εγκατεστημένων προσθέτων.
 
 
 ;Key performance measures, such as launch speed.
-Key performance measures, such as launch speed.
+Σημαντικές μετρήσεις επιδόσεων, όπως η ταχύτητα εκκίνησης.
 
 
 ;Browsing duration, install time, number of bookmarks and pages.
-Browsing duration, install time, number of bookmarks and pages.
+Διάρκει περιήγησης, χρόνος εγκατάστασης, αριθμός σελιδοδεικτών και σελίδων.
 
 
 ;Home
-Home
+Αρχική
 
 
 ;CPU Count:
-CPU Count:
+Αριθμός CPU:
 
 
 ;The number of CPU cores reported by Android.
-The number of CPU cores reported by Android.
+Ο αριθμός των πυρήνων CPU που αναφέρονται από το Android.
 
 
 ;Memory in MB:
-Memory in MB:
+Μνήμη σε MB:
 
 
 ;The amount of memory reported by Android. Typically excludes graphics memory.
-The amount of memory reported by Android. Typically excludes graphics memory.
+Το σύνολο μνήμης που αναφέρεται από το Android. Τυπικά δεν περιλαμβάνει τη μνη γραφικών.
 
 
 ;Application Name:
-Application Name:
+Όνομα εφαρμογής:
 
 
 ;The internal application name for the browser.
-The internal application name for the browser.
+Το εσωτερικό όνομα εφαρμογής για τον περιηγητή.
 
 
 ;Application ID:
-Application ID:
+ID εφαρμογής:
 
 
 ;The internal identifier for the application.
-The internal identifier for the application.
+Το εσωτερικό αναγνωριστικό για την εφαρμογή.
 
 
 ;Application Version:
-Application Version:
+Έκδοση εφαρμογής:
 
 
 ;The current version of the browser
-The current version of the browser
+Η τρέχουσα έκδοση του περιηγητή
 
 
 ;Application Build ID:
-Application Build ID:
+Build ID εφαρμογής:
 
 
 ;The internal build timestamp.
-The internal build timestamp.
+Το εσωτερικό build timestamp.
 
 
 ;Update Channel:
-Update Channel:
+Κανάλι ενημερώσεων:
 
 
 ;Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
-Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
+Ο Firefox διανέμεται μέσω καναλιών: Nightly builds, το κανάλι Aurora pre-release, ένα σταθερί Beta, και η επίσημη έκδοση. Αυτό το πεδίο ταυτοποιεί το κανάλι.
 
 
 ;Vendor:
-Vendor:
+Προμηθευτής:
 
 
 ;The organization that built this application. Typically Mozilla.
-The organization that built this application. Typically Mozilla.
+Ο οργανισμός για τον οποίο δημιουργήθηκε αυτή η εφαρμογή. Τυπικά ο Mozilla.
 
 
 ;Platform Version:
-Platform Version:
+Έκδοση πλατφόρμας:
 
 
 ;An internal version identifier. Typically the same as appVersion.
-An internal version identifier. Typically the same as appVersion.
+Ένα εσωτερικό αναγνωριστικό έκδοσης. Τυπικά το ίδιο όπως το appVersion.
 
 
 ;Platform Build ID:
-Platform Build ID:
+Build ID πλατφόρμας:
 
 
 ;On Android this is an alternative name for appBuildID.
-On Android this is an alternative name for appBuildID.
+Στο Android αυτό είναι ένα εναλλακτικό όνομα για το appBuildID.
 
 
 ;xpcomabi:
-xpcomabi:
+xpcomabi: {ok}
 
 
 ;The CPU architecture for which this application was built.
-The CPU architecture for which this application was built.
+Η αρχιτεκτονική CPU για την οποία δημιουργήθηκε αυτή η εφαρμογή.
 
 
 ;OS:
-OS:
+ΛΣ:
 
 
 ;The current operating system.
-The current operating system.
+Το τρέχον λειτουργικό σύστημα.
 
 
 ;Architecture:
-Architecture:
+Αρχιτεκτονική:
 
 
 ;The CPU architecture for this device.
-The CPU architecture for this device.
+Η αρχιτεκτονική της CPU για αυτή τη συσκευή.
 
 
 ;System Name:
-System Name:
+Όνομα συστήματος:
 
 
 ;The current system name.
-The current system name.
+Το τρέχον όνομα συστήματος.
 
 
 ;System Version:
-System Version:
+Έκδοση συστήματος:
 
 
 ;The Android OS revision.
-The Android OS revision.
+Η έκδοση του Android OS.
 
 
 ;Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
-Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
+Αν ο Firefox λαμβάνει αποτελέσματα αποκλεισμού προσθέτων για να σας προφυλάξει από κακόβουλα πρόσθετα. Η προεπιλογή είναι ναι.
 
 
 ;Telemetry Enabled:
-Telemetry Enabled:
+Η τηλεμετρία ενεργοποιήθηκε:
 
 
 ;Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
-Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
+Αν ο Firefox αναφέρει λεπτομερή δεδομένα χρήσης για βοήθεια στην ανάπτυξη. Η προεπιλογή είναι όχι στα περισσότερα κανάλια.
 
 
 ;Extension Count:
-Extension Count:
+Αριθμός επεκτάσεων:
 
 
 ;How many extension add-ons are installed.
-How many extension add-ons are installed.
+Πόσες επεκτάσεις είναι εγκατεστημένες.
 
 
 ;Plugin Count:
-Plugin Count:
+Αριθμός προσθέτων:
 
 
 ;How many plugin add-ons are installed.
-How many plugin add-ons are installed.
+Πόσες πρόσθετες λειτουργίες είναι εγκατεστημένες.
 
 
 ;Theme Count:
-Theme Count:
+Μέτρηση θεμάτων:
 
 
 ;How many theme add-ons are installed.
-How many theme add-ons are installed.
+Πόσα πρόσθετα θέματος είναι εγκατεστημένα.
 
 
 ;Addons:
-Addons:
+Πρόσθετα:
 
 
 ;A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
-A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
+Μια συλλογή που περιγράφει τα εγκατεστημένα πρόσθετα. Δεν αναφέρονται όλα τα πρόσθετα: μόνο πρόσθετες λειτουργίες, επεκτάσεις, και υπηρεσίες.
 
 
 ;Search Counts:
-Search Counts:
+Μετρήσεις αναζητήσεων:
 
 
 ;A count of how many searches you issued to each of Mozilla's partner providers.
-A count of how many searches you issued to each of Mozilla's partner providers.
+Μια μέτρηση του αριθμού των αναζητήσεων που κάνατε σε καθένα από τους παρόχους συνεργατών του Mozilla.
 
 
 ;Sessions and Startup Times
-Sessions and Startup Times
+Διάρκειες συνεδριών και εκκινήσεων
 
 
 ;For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
-For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
+Για κάθε συνεδρία περιήγησης, η Αναφορά υγείας του Firefox καταγράφει προσεγγιστικά τη διάρκεια περιήγησης (σε δευτερόλεπτα), και αν η συνεδρία έληξε φυσιολογικά ή εξαιτίας μιας κατάρρευσης. Ακόμη περιλαμβάνει χρόνους εκκίνησης (σε milliseconds) αν είναι διαθέσιμοι.
 
 
 ;Profile Creation:
-Profile Creation:
+Δημιουργία προφίλ:
 
 
 ;The day on which your browser profile was created. Counted in days since January 1st 1970.
-The day on which your browser profile was created. Counted in days since January 1st 1970.
+Η ημέρα κατά την οποία δημιουργήθηκε το προφίλ περιηγητή σας. Μετρημένη από την 1η Ιανουαρίου του 1970.
 
 
 ;Learn More
-Learn More
+Μάθετε περισσότερα
 
 
 ;Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
-Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
+Η Αναφορά Υγείας του Firefox (FHR) αναλύει τα δεδομένα επιδόσεων του περιηγητή σας, ώστε να σας παρέχει χρήσιμες συμβουλές για να αποκομίζετε το μέγιστο από τον Firefox. Για περισσότερες πληροφορίες σχετικά με την Αναφορά Υγείας του Firefox, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>επισκεφθείτε το τμήμα Υποστήριξης του Mozilla.</a>
 
 
 ;For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
-For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
+Για περισσότερες πληροφορίες σχετικά με το πως χειριζόμαστε τα δεδομένα σας, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>δείτε την πολιτική απορρήτου μας.</a>
 
 
 ;You are currently sharing your health report with Mozilla.
-You are currently sharing your health report with Mozilla.
+Αυτή τη στιγμή μοιράζεστε την αναφορά υγείας με το Mozilla.
 
 
 ;Choose what I share
-Choose what I share
+Διαλέξτε τι μοιράζεστε
 
 
 ;You are currently not sharing your health report with Mozilla.
-You are currently not sharing your health report with Mozilla.
+Αυτή τη στιγμή δε μοιράζεστε την αναφορά υγείας με το Mozilla.
 
 
