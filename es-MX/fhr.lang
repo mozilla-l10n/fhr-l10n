@@ -7,7 +7,7 @@ Datos en bruto
 
 
 ;Get insights and performance information about your version of Firefox.
-Obtenga indicaciones e información sobre el rendimiento de su versión de Firefox.
+Obtén indicacioens e información sobre el rendimiento de tu versión de Firefox.
 
 
 ;Learn more...
@@ -23,15 +23,15 @@ ACTIVAR
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
-Ha elegido dejar de compartir información con Mozilla, pero puede seguir viendo el rendimiento de su navegador.
+Elegiste dejar de compartir información con Mozilla, pero puedes seguir viendo el rendimiento de tu navegador.
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
-La información sobre los informes de salud también se eliminará de los servidores de Mozilla. Conozca más leyendo las <a href="%(privacy_url)s">políticas de privacidad.</a>
+La información sobre los informes de salud también se eliminará de los servidores de Mozilla. Conoce más leyendo las <a href="%(privacy_url)s">políticas de privacidad.</a>
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
-Ha elegido compartir periódicamente sus datos con Mozilla. Gracias por ser parte de nuestra misión y ayudarnos a crear un futuro mejor para la Web.
+Elegiste compartir periódicamente tus datos con Mozilla. Gracias por ser parte de nuestra misión y ayudarnos a crear un futuro mejor para la web.
 
 
 ;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
@@ -403,15 +403,15 @@ Cuánto tiempo en minutos estuvo en funcionamiento la sesión actual
 
 
 ;Welcome to your Firefox Health Report
-Bienvenido/a al Informe de salud de Firefox
+Bienvenido al Informe de salud de Firefox
 
 
 ;Welcome!
-¡Bienvenido/a!
+¡Bienvenido!
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
-El Informe de salud de Firefox le permite conocer cuál es el rendimiento de su Firefox y qué se puede hacer para mejorarlo.
+El Informe de salud de Firefox te permite conocer cuál es el rendimiento de tu Firefox y qué se puede hacer para mejorarlo.
 
 
 ;See My Report
@@ -432,124 +432,122 @@ Política de privacidad
 
 # The following strings are used only in the Mobile version of about:healthreport (Firefox for Android)
 ;Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
-Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
+El Informe de salud de Firefox te permite optimizar tu Firefox y nos ayuda a crear un mejor navegador. Los reportes serán muy básicos al inicio, pero evolucionarán y crecerán.
 
 
 ;Learn More&hellip;
-Learn More&hellip;
+Conocer más&hellip;
 
 
 ;Tip
-Tip
+Tip {ok}
 
 
 ;Looks like your Firefox is brand new! Check back after using Firefox for a while.
-Looks like your Firefox is brand new! Check back after using Firefox for a while.
+¡Al parecer tu Firefox es nuevo! Entra aquí de nuevo después de usar Firefox durante un tiempo.
 
 
 ;Important Metrics
-Important Metrics
+Métricas importantes.
 
 
 ;Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
-Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
+El Informe de salud de Firefox guarda información sobre tu navegador y dispositivo. Puedes <a href="#raw" class="navigate">ver la información que guardamos.</a> También puedes ver qué es lo que compartes con Mozilla.
 
 
 ;Device hardware, operating system, Firefox version.
-Device hardware, operating system, Firefox version.
+Hardware del dispositivo, sistema operativo, versión de Firefox.
 
 
 ;Extensions, plugins, and number of installed add-ons.
-Extensions, plugins, and number of installed add-ons.
+Extensiones, plugins, y cantidad de complementos instalados.
 
 
 ;Key performance measures, such as launch speed.
-Key performance measures, such as launch speed.
+Medidas clave de rendimiento, como tiempo de arranque.
 
 
 ;Browsing duration, install time, number of bookmarks and pages.
-Browsing duration, install time, number of bookmarks and pages.
+Duración de navegación, momento de la instalación, cantidad de marcadores y páginas.
 
 
 ;Home
-Home
+Inicio
 
 
 ;CPU Count:
-CPU Count:
+Cantidad de CPUs:
 
 
 ;The number of CPU cores reported by Android.
-The number of CPU cores reported by Android.
+El número de núcleos de CPU reportados por Android.
 
 
 ;Memory in MB:
-Memory in MB:
+Memoria en MB:
 
 
 ;The amount of memory reported by Android. Typically excludes graphics memory.
-The amount of memory reported by Android. Typically excludes graphics memory.
+La cantidad de memoria reportada por Android. Generalmente excluye memoria gráfica.
 
 
 ;Application Name:
-Application Name:
+Nombre de la aplicación:
 
 
 ;The internal application name for the browser.
-The internal application name for the browser.
+Nombre interno de la aplicación del navegador.
 
 
 ;Application ID:
-Application ID:
+ID de aplicación:
 
 
 ;The internal identifier for the application.
-The internal identifier for the application.
+Identificador interno de la aplicación.
 
 
 ;Application Version:
-Application Version:
-
+Versión de la aplicación:
 
 ;The current version of the browser
-The current version of the browser
+La versión actual del navegador
 
 
 ;Application Build ID:
-Application Build ID:
+ID de compilación de la aplicación:
 
 
 ;The internal build timestamp.
-The internal build timestamp.
+Marca de tiempo interna de la compilación.
 
 
 ;Update Channel:
-Update Channel:
+Canal de actualizaciones:
 
 
 ;Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
-Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
+Firefox se distribuye a través de canales: compilaciones Nightly (nocturnas), canal Aurora de pre-lanzamientos, una Beta estable, y la versión pública final. Este campo identifica el canal.
 
 
 ;Vendor:
-Vendor:
+Proveedor:
 
 
 ;The organization that built this application. Typically Mozilla.
-The organization that built this application. Typically Mozilla.
+La organización que generó esta aplicación. Generalmente Mozilla.
 
 
 ;Platform Version:
-Platform Version:
+Versión de la plataforma:
 
 
 ;An internal version identifier. Typically the same as appVersion.
-An internal version identifier. Typically the same as appVersion.
+El identificador interno de la versión. Generalmente el mismo que appVersion (versión de la aplicación).
 
 
 ;Platform Build ID:
-Platform Build ID:
-
+ID de la compilación de la plataforma:
 
 ;On Android this is an alternative name for appBuildID.
 On Android this is an alternative name for appBuildID.
