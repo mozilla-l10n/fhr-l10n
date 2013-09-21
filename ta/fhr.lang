@@ -440,7 +440,7 @@ Learn More&hellip;
 
 
 ;Tip
-Tip
+துணுக்கு
 
 
 ;Looks like your Firefox is brand new! Check back after using Firefox for a while.
@@ -448,7 +448,7 @@ Looks like your Firefox is brand new! Check back after using Firefox for a while
 
 
 ;Important Metrics
-Important Metrics
+முக்கியமான அளவீடுகள்
 
 
 ;Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
@@ -456,7 +456,7 @@ Firefox Health Report records information about your browser and device. You can
 
 
 ;Device hardware, operating system, Firefox version.
-Device hardware, operating system, Firefox version.
+வன்பொருள் சாதனம், இயங்கு தளம், பயர்பாக்ஸ் பதிப்பு.
 
 
 ;Extensions, plugins, and number of installed add-ons.
@@ -472,19 +472,19 @@ Browsing duration, install time, number of bookmarks and pages.
 
 
 ;Home
-Home
+இல்லம்
 
 
 ;CPU Count:
-CPU Count:
+சிபியூ எண்ணிக்கை:
 
 
 ;The number of CPU cores reported by Android.
-The number of CPU cores reported by Android.
+ஆன்ட்ராடால் அறிவிக்கப்பட்ட சிபியூ அடிப்படைகளின் எண்ணிக்கை.
 
 
 ;Memory in MB:
-Memory in MB:
+நினைவகம் மெபை இல்:
 
 
 ;The amount of memory reported by Android. Typically excludes graphics memory.
@@ -492,15 +492,15 @@ The amount of memory reported by Android. Typically excludes graphics memory.
 
 
 ;Application Name:
-Application Name:
+பயன்பாட்டின் பெயர்:
 
 
 ;The internal application name for the browser.
-The internal application name for the browser.
+உலாவிலுள்ள உள்ளார்ந்த பயன்பாட்டின் பெயர்.
 
 
 ;Application ID:
-Application ID:
+பயன்பாடின் அடையாளம்:
 
 
 ;The internal identifier for the application.
@@ -685,5 +685,3 @@ Choose what I share
 
 ;You are currently not sharing your health report with Mozilla.
 You are currently not sharing your health report with Mozilla.
-
-
