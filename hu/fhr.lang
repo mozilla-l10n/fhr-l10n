@@ -456,11 +456,11 @@ Firefox állapotjelentés records information about your browser and device. You
 
 
 ;Device hardware, operating system, Firefox version.
-Device hardware, operating system, Firefox version.
+Eszköz, operációs rendszer, Firefox verzió.
 
 
 ;Extensions, plugins, and number of installed add-ons.
-Extensions, plugins, and number of installed add-ons.
+Bővítmények, kiegészítők és a telepített kiterjesztések száma.
 
 
 ;Key performance measures, such as launch speed.
@@ -489,7 +489,6 @@ Memória (MB):
 
 ;The amount of memory reported by Android. Typically excludes graphics memory.
 Az Android által észlelt memória mennyisége (tipikusan a grafikus memória nélkül).
-The amount of memory reported by Android. Typically excludes graphics memory.
 
 
 ;Application Name:
@@ -561,7 +560,7 @@ xpcomabi:
 
 
 ;The CPU architecture for which this application was built.
-The CPU architecture for which this application was built.
+A processzorarchitektúrája, amelyen az alkalamzás készült.
 
 
 ;OS:
@@ -577,7 +576,7 @@ Architektúra:
 
 
 ;The CPU architecture for this device.
-The CPU architecture for this device.
+Az eszköz processzorarchitektúrája.
 
 
 ;System Name:
@@ -685,6 +684,6 @@ Choose what I share
 
 
 ;You are currently not sharing your health report with Mozilla.
-You are currently not sharing your health report with Mozilla.
+Jelenleg nem osztja meg a Health Reportot a Mozillával.
 
 
