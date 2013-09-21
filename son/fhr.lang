@@ -432,11 +432,11 @@ Sutura laada
 
 # The following strings are used only in the Mobile version of about:healthreport (Firefox for Android)
 ;Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
-Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
+Firefox Health Report ga naŋ war ma Firefox sahãndi nd'a ga war gaa ka ceecikaw šifante cin da. Šintinoo ga bayrandey ga faala, amma i ga beeri ka tonton.
 
 
 ;Learn More&hellip;
-Learn More&hellip;
+Bay ka tonton
 
 
 ;Tip
@@ -444,15 +444,15 @@ Carmay
 
 
 ;Looks like your Firefox is brand new! Check back after using Firefox for a while.
-Looks like your Firefox is brand new! Check back after using Firefox for a while.
+A ga hima war Firefox ga taaga banzaŋ! Guna koyne hiino nda war na Firefox ka goy.
 
 
 ;Important Metrics
-Important Metrics
+Neeši šifantey
 
 
 ;Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
-Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
+Firefox Health Report n'alhabar gaabu war ceecikaa nda jinaa ga. War ga hin ka dii <a href="#raw" class="navigate">ra alhabaroo kaŋ ir n'a jiši.</a> War ga hin ka dii hayaa kaŋ war n'a har Mozilla še.
 
 
 ;Device hardware, operating system, Firefox version.
@@ -460,55 +460,55 @@ Jinay šenda, goyandi dabariɲaa, Firefox dumi
 
 
 ;Extensions, plugins, and number of installed add-ons.
-Extensions, plugins, and number of installed add-ons.
+Dobuyaney, sukarey nda tontoni sinjantey hinnaa.
 
 
 ;Key performance measures, such as launch speed.
-Key performance measures, such as launch speed.
+Teeyan neeširi boŋey, sanda tunandiyan cahãroo.
 
 
 ;Browsing duration, install time, number of bookmarks and pages.
-Browsing duration, install time, number of bookmarks and pages.
+Ceeciyan gayyan, sinjiyan waati, doo-šilbawey nda moɲey hinnaa.
 
 
 ;Home
-Home
+Šintin
 
 
 ;CPU Count:
-CPU Count:
+CPU kabu:
 
 
 ;The number of CPU cores reported by Android.
-The number of CPU cores reported by Android.
+CPU biney hinnaa kaŋ Android n'a bayrandi.
 
 
 ;Memory in MB:
-Memory in MB:
+Lakkal MB ra:
 
 
 ;The amount of memory reported by Android. Typically excludes graphics memory.
-The amount of memory reported by Android. Typically excludes graphics memory.
+Lakkal alkadar kaŋ Android n'a bayrandi: Woo ga doona ka tee bii takari.
 
 
 ;Application Name:
-Application Name:
+Porogaram maa:
 
 
 ;The internal application name for the browser.
-The internal application name for the browser.
+Kunahere porogaram maa ceecikaa še:
 
 
 ;Application ID:
-Application ID:
+Porogaram šilbay:
 
 
 ;The internal identifier for the application.
-The internal identifier for the application.
+Kunahere taamansakaw porogaramoo še.
 
 
 ;Application Version:
-Application Version:
+Porogaram dumi:
 
 
 ;The current version of the browser
@@ -516,174 +516,172 @@ Jinaa sohõda dumoo
 
 
 ;Application Build ID:
-Application Build ID:
+Porogaram cinari šilbay:
 
 
 ;The internal build timestamp.
-The internal build timestamp.
+Kunahere cinari waati tammaasa.
 
 
 ;Update Channel:
-Update Channel:
+Taagandiri kanaara:
 
 
 ;Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
-Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
+Firefox ga žemna kanaarayaŋ ra: cijinhere cinarey, Aurora hohoray kanaara, Beta tabatante nda fattayan jamaa še. Faaroo woo kanaaraa cebe.
 
 
 ;Vendor:
-Vendor:
+Neerekaw:
 
 
 ;The organization that built this application. Typically Mozilla.
-The organization that built this application. Typically Mozilla.
+Kondaa kaŋ na porogaramoo woo tee. Ga doona ka tee Mozilla.
 
 
 ;Platform Version:
-Platform Version:
+Goydaari dumi:
 
 
 ;An internal version identifier. Typically the same as appVersion.
-An internal version identifier. Typically the same as appVersion.
+Kunahere dumi taamansakaw. Ga hima sanda appVersion.
 
 
 ;Platform Build ID:
-Platform Build ID:
+Goydaari cinari šilbay:
 
 
 ;On Android this is an alternative name for appBuildID.
-On Android this is an alternative name for appBuildID.
+Android ga woo maa kanbari foo appBuildID še.
 
 
 ;xpcomabi:
-xpcomabi:
+xpcomabi: {ok}
 
 
 ;The CPU architecture for which this application was built.
-The CPU architecture for which this application was built.
+CPU cinaroo kaŋ še porogaramoo woo n' ka tee.
 
 
 ;OS:
-OS:
+OS: {ok}
 
 
 ;The current operating system.
-The current operating system.
+Sohõ goyandi dabariɲaŋoo:
 
 
 ;Architecture:
-Architecture:
+Cinari:
 
 
 ;The CPU architecture for this device.
-The CPU architecture for this device.
+CPU cinaroo jinaa woo še.
 
 
 ;System Name:
-System Name:
+Dabariɲaa maa:
 
 
 ;The current system name.
-The current system name.
+Sohõ dabariɲaa maaɲoo.
 
 
 ;System Version:
-System Version:
+Dabariɲaa dumi:
 
 
 ;The Android OS revision.
-The Android OS revision.
+Android OS dumi barmante.
 
 
 ;Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
-Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
+Wala nda Firefox ga tontoni gagayantey maaɲey zaa ga war jejebu tontoni laaley ga. Tunandi tilasu ra.
 
 
 ;Telemetry Enabled:
-Telemetry Enabled:
+Mooru neešiyan tunandi:
 
 
 ;Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
-Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
+Wala nda Firefox ka goy alhabar šilbayante bayrandai ka cinaroo faaba. Kanaara boobey wii tilasu ra.
 
 
 ;Extension Count:
-Extension Count:
+Dobuyan kabu:
 
 
 ;How many extension add-ons are installed.
-How many extension add-ons are installed.
+Dobuyan tontoni marje ka sinjandi.
 
 
 ;Plugin Count:
-Plugin Count:
+Sukari kabu:
 
 
 ;How many plugin add-ons are installed.
-How many plugin add-ons are installed.
+Sukari tontoni marje ka sinjandi.
 
 
 ;Theme Count:
-Theme Count:
+Furari kabu:
 
 
 ;How many theme add-ons are installed.
-How many theme add-ons are installed.
+Furari tontoni marje ka sinjandi.
 
 
 ;Addons:
-Addons:
+Tontoney:
 
 
 ;A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
-A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
+Margari kaŋ ga tontoni sinjantey šilbay. Manti tontoney kul ma bayrandi; sukarey, dobuyaney nda goyey hinne ma tee.
 
 
 ;Search Counts:
-Search Counts:
+Ceeciyan kabu:
 
 
 ;A count of how many searches you issued to each of Mozilla's partner providers.
-A count of how many searches you issued to each of Mozilla's partner providers.
+Kabuyan kaŋ ga cebe ceeciyaney kaŋ war n'i sanba Mozilla cettekašine foo kul še.
 
 
 ;Sessions and Startup Times
-Sessions and Startup Times
+Goywaati nda tunandi waatey
 
 
 ;For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
-For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
+Goywaati foo kul še, Firefox Health Report ga honga sanda dimma kaŋ ra war naaru (segondu hinna) nda wala goywaatoo ben nda baani wala an' ka kaŋ. A ga tunandi waatey kabu da (millisegondu ra) nd'i ga bara.
 
 
 ;Profile Creation:
-Profile Creation:
+Alhaali teeyan:
 
 
 ;The day on which your browser profile was created. Counted in days since January 1st 1970.
-The day on which your browser profile was created. Counted in days since January 1st 1970.
+Zaaroo kaŋ hane war ceecikaw alhaaloo teeyandi. Kabu jirbiyaŋ ra za žanwiye 1-foo 1970.
 
 
 ;Learn More
-Learn More
+Bay ka tonton
 
 
 ;Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
-Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
+Firefox Health Report (FHR) ga war ceecikaa goy-sahãa koroši ka war yaamar nda faabari henna hala war ma felle Firefox nafaa ra. Ka bay ka tonton Health Report ga, dii <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>Mozilla faaba dunboo ra.</a>
 
 
-;For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
-For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
+;For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.
+Ka bay ka tonton taka kaŋ nda ir ga war bayhayey gaabi, dii For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>ir sutura laadaa še.
 
 
 ;You are currently sharing your health report with Mozilla.
-You are currently sharing your health report with Mozilla.
+War goo ma war gaahambaani bayrandoo sanba Mozilla do sohõda.
 
 
 ;Choose what I share
-Choose what I share
+Suuba woo kaŋ ay ga žemna
 
 
 ;You are currently not sharing your health report with Mozilla.
-You are currently not sharing your health report with Mozilla.
-
-
+War ši war gaahambaani bayrandi sanbo Mozilla do sohõ.
