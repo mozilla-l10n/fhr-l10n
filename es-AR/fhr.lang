@@ -87,15 +87,15 @@ Plugins{ok}
 
 
 ;always activate
-always activate
+activar siempre
 
 
 ;ask to activate
-ask to activate
+preguntar para activar
 
 
 ;never activate
-never activate
+nunca activar
 
 
 ;Tips
