@@ -87,15 +87,15 @@ Plugins {ok}
 
 
 ;always activate
-always activate
+Immer aktivieren
 
 
 ;ask to activate
-ask to activate
+Zum Aktivieren nachfragen
 
 
 ;never activate
-never activate
+Nie aktivieren
 
 
 ;Tips
@@ -560,7 +560,7 @@ Eine interne Kennung der Version. Üblicherweise die selbe wie die Anwendungsver
 
 
 ;Platform Build ID:
-Build-ID der Plattform.
+Build-ID der Plattform:
 
 
 ;On Android this is an alternative name for appBuildID.
