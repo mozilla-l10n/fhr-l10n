@@ -432,258 +432,257 @@ Tietosuojakäytäntö
 
 # The following strings are used only in the Mobile version of about:healthreport (Firefox for Android)
 ;Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
-Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
+Firefoxin terveydentilaraportti antaa sinun parantaa Firefoxin toimintaa ja auttaa meitä tekemään siitä vieläkin mahtavamman. Raportit ovat alkuun melko alkeellista, mutta ne kehittyvät ajan kuluessa.
 
 
 ;Learn More&hellip;
-Learn More&hellip;
+Lue lisää&hellip;
 
 
 ;Tip
-Tip
+Vinkki
 
 
 ;Looks like your Firefox is brand new! Check back after using Firefox for a while.
-Looks like your Firefox is brand new! Check back after using Firefox for a while.
+Näyttää siltä, että Firefoxisi on upouusi! Tule takaisin, kun olet käyttänyt sitä vähän aikaa.
 
 
 ;Important Metrics
-Important Metrics
+Tärkeät mittarit
 
 
 ;Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
-Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
+Firefoxin terveydentilaraportti tallentaa tietoja selaimesta ja laitteesta. Voit <a href="#raw" class="navigate">tutustua tallennettaviin tietoihin.</a> Voit myös lukea, mitä tietoja lähetetään Mozillalle.
 
 
 ;Device hardware, operating system, Firefox version.
-Device hardware, operating system, Firefox version.
+Laitteisto, käyttöjärjestelmä, Firefoxin versio.
 
 
 ;Extensions, plugins, and number of installed add-ons.
-Extensions, plugins, and number of installed add-ons.
+Laajennukset, liitännäiset ja asennettujen lisäosien lukumäärä.
 
 
 ;Key performance measures, such as launch speed.
-Key performance measures, such as launch speed.
+Tärkeimmät suorituskykylukemat, kuten käynnistysaika.
 
 
 ;Browsing duration, install time, number of bookmarks and pages.
-Browsing duration, install time, number of bookmarks and pages.
+Selausaika, asennusaika sekä kirjanmerkkien ja sivujen lukumäärä.
 
 
 ;Home
-Home
+Koti
 
 
 ;CPU Count:
-CPU Count:
+CPU:iden määrä:
 
 
 ;The number of CPU cores reported by Android.
-The number of CPU cores reported by Android.
+Androidin raportoima prosessoriydinten lukumäärä.
 
 
 ;Memory in MB:
-Memory in MB:
+Muisti (Mt):
 
 
 ;The amount of memory reported by Android. Typically excludes graphics memory.
-The amount of memory reported by Android. Typically excludes graphics memory.
+Androidin raportoima muistin määrä. Ei yleensä sisällä grafiikkamuistia.
 
 
 ;Application Name:
-Application Name:
+Sovelluksen nimi:
 
 
 ;The internal application name for the browser.
-The internal application name for the browser.
+Selainsovelluksen sisäinen nimi.
 
 
 ;Application ID:
-Application ID:
+Sovelluksen tunniste:
 
 
 ;The internal identifier for the application.
-The internal identifier for the application.
+Sovelluksen sisäinen tunniste.
 
 
 ;Application Version:
-Application Version:
+Sovelluksen versio:
 
 
 ;The current version of the browser
-The current version of the browser
+Selaimen nykyinen versio
 
 
 ;Application Build ID:
-Application Build ID:
+Sovelluksen koosteen tunniste:
 
 
 ;The internal build timestamp.
-The internal build timestamp.
+Koosteen aikaleima (sisäinen).
 
 
 ;Update Channel:
-Update Channel:
+Päivityskanava:
 
 
 ;Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
-Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
+Firefoxia jaellaan eri kanavien kautta: jokaöinen kooste (nightly), esijulkaisukanava (aurora), vakaa beta ja yleinen julkaisu (release). Tämä kenttä identifioi ko. kanavan.
 
 
 ;Vendor:
-Vendor:
+Valmistaja:
 
 
 ;The organization that built this application. Typically Mozilla.
-The organization that built this application. Typically Mozilla.
+Organisaatio, joka koosti sovelluksen. Yleensä Mozilla.
 
 
 ;Platform Version:
-Platform Version:
+Alustan versio:
 
 
 ;An internal version identifier. Typically the same as appVersion.
-An internal version identifier. Typically the same as appVersion.
+Sisäinen versiotunniste. Yleensä sama kuin appVersion.
 
 
 ;Platform Build ID:
-Platform Build ID:
+Alustan koosteen tunniste:
 
 
 ;On Android this is an alternative name for appBuildID.
-On Android this is an alternative name for appBuildID.
+Tämä on appBuildID:n vaihtoehtoinen tunniste Androidilla.
 
 
 ;xpcomabi:
-xpcomabi:
+xpcomabi: {ok}
 
 
 ;The CPU architecture for which this application was built.
-The CPU architecture for which this application was built.
+CPU-arkkitehtuuri, jolle tämä sovellus on koostettu.
 
 
 ;OS:
-OS:
+Käyttöjärjestelmä:
 
 
 ;The current operating system.
-The current operating system.
+Nykyinen käyttöjärjestelmä.
 
 
 ;Architecture:
-Architecture:
+Arkkitehtuuri:
 
 
 ;The CPU architecture for this device.
-The CPU architecture for this device.
+Laitteen CPU:n arkkitehtuuri:
 
 
 ;System Name:
-System Name:
+Järjestelmän nimi:
 
 
 ;The current system name.
-The current system name.
+Järjestelmän nykyinen nimi.
 
 
 ;System Version:
-System Version:
+Järjestelmän versio:
 
 
 ;The Android OS revision.
-The Android OS revision.
+Android OS:n versio.
 
 
 ;Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
-Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
+Sallitko Firefoxin noutaa lisäosien estolistan, mikä suojaa haitallisilta lisäosilta. Oletusarvo on "päällä".
 
 
 ;Telemetry Enabled:
-Telemetry Enabled:
+Kaukomittaus käytössä:
 
 
 ;Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
-Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
+Sallitko Firefoxin raportoida tarkempia tietoja sen käytöstä kehityksen edistämiseksi. Oletusarvo on "pois päältä" useimmilla kanavilla.
 
 
 ;Extension Count:
-Extension Count:
+Laajennusten lukumäärä:
 
 
 ;How many extension add-ons are installed.
-How many extension add-ons are installed.
+Kuinka monta laajennusta on asennettu.
 
 
 ;Plugin Count:
-Plugin Count:
+Liitännäisten lukumäärä:
 
 
 ;How many plugin add-ons are installed.
-How many plugin add-ons are installed.
+Kuinka monta liitännäistä on asennettu.
 
 
 ;Theme Count:
-Theme Count:
+Teemojen lukumäärä:
 
 
 ;How many theme add-ons are installed.
-How many theme add-ons are installed.
+Kuinka monta teemaa on asennettu.
 
 
 ;Addons:
-Addons:
+Lisäosat:
 
 
 ;A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
-A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
+Kokoelma, joka kuvaa asennettuja lisäosia. Vain liitännäiset, laajennukset ja palvelut näytetään.
 
 
 ;Search Counts:
-Search Counts:
+Hakujen lukumäärä:
 
 
 ;A count of how many searches you issued to each of Mozilla's partner providers.
-A count of how many searches you issued to each of Mozilla's partner providers.
+Kuinka monta hakua olet tehnyt Mozillan yhteistyökumppaneiden kautta.
 
 
 ;Sessions and Startup Times
-Sessions and Startup Times
+Istunnot ja käynnistysajat
 
 
 ;For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
-For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
-
+Firefoxin terveydentilaraportti tallentaa jokaisesta selausistunnosta sen, kuinka kauan istunto kesti (sekunteina) ja päättyikö istunto normaalisti vai kaatumisen seurauksena. Sisältää myös käynnistysajan (millisekunteina), jos saatavilla.
 
 ;Profile Creation:
-Profile Creation:
+Profiilin luonti:
 
 
 ;The day on which your browser profile was created. Counted in days since January 1st 1970.
-The day on which your browser profile was created. Counted in days since January 1st 1970.
+Päivä, jolloin selaimen profiili luotiin. Lasketaan päivissä alkaen tammikuun ensimmäisestä päivästä vuonna 1970.
 
 
 ;Learn More
-Learn More
+Lue lisää
 
 
 ;Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
-Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
+Firefoxin terveydentilaraportti analysoi selaimesi suorituskykytietoja antaakseen sinulle vinkkejä, joilla saat enemmän irti Firefoxista. Jos haluat lisätietoja Firefoxin terveydentilaraportista, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>käy Mozillan tukisivustolla.</a>
 
 
 ;For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
-For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
+Jos haluat lisätietoja siitä, kuinka kohtelemme tietojasi, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>lue tietosuojakäytäntömme.</a>
 
 
 ;You are currently sharing your health report with Mozilla.
-You are currently sharing your health report with Mozilla.
+Olet sallinut terveydentilaraportin tietojen lähettämisen Mozillalle.
 
 
 ;Choose what I share
-Choose what I share
+Valitse, mitkä tiedot lähetetään.
 
 
 ;You are currently not sharing your health report with Mozilla.
-You are currently not sharing your health report with Mozilla.
+Olet estänyt terveydentilaraportin tietojen lähettämisen Mozillalle.
 
 
