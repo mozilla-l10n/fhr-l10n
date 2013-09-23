@@ -86,6 +86,18 @@ pois käytöstä
 Liitännäiset
 
 
+;always activate
+always activate
+
+
+;ask to activate
+ask to activate
+
+
+;never activate
+never activate
+
+
 ;Tips
 Vinkkejä
 
@@ -653,6 +665,7 @@ Istunnot ja käynnistysajat
 
 ;For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
 Firefoxin terveydentilaraportti tallentaa jokaisesta selausistunnosta sen, kuinka kauan istunto kesti (sekunteina) ja päättyikö istunto normaalisti vai kaatumisen seurauksena. Sisältää myös käynnistysajan (millisekunteina), jos saatavilla.
+
 
 ;Profile Creation:
 Profiilin luonti:

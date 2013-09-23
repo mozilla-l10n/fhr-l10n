@@ -28,7 +28,7 @@ Chòc môsz wëłączoné ùprzistãpnianié pòdôwków, równak mòżesz òbô
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
 Rapòrt ò Zdrowim Firefoksa òstanié rëmniãti z serwera Mòzillë. Wëdowiedzë sã wicy czëtającë <a href="%(privacy_url)s">pòlitikã priwatnoscë.</a>
-o
+
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
 Môsz sã zdecydowóné, bë nama òd czasu do czasu nama sélac pòdôwczi. Dzãka za wpiarcé naju misje, bë twòrzëc bëlniészą przińdnotã Sécë.
@@ -84,6 +84,18 @@ wëłączoné
 
 ;Plugins
 Dodôwczi
+
+
+;always activate
+always activate
+
+
+;ask to activate
+ask to activate
+
+
+;never activate
+never activate
 
 
 ;Tips
@@ -432,7 +444,7 @@ Pòlitika priwatnoscë
 
 # The following strings are used only in the Mobile version of about:healthreport (Firefox for Android)
 ;Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
-Rapòrt ò Zdrowim Firefoksa zezwòlë na òptimizajcã i zbùdowanié bëlniészi wersje przezérnika. Ne rapòrtë sã terô prosté, le sã z czasã pòprawią. 
+Rapòrt ò Zdrowim Firefoksa zezwòlë na òptimizajcã i zbùdowanié bëlniészi wersje przezérnika. Ne rapòrtë sã terô prosté, le sã z czasã pòprawią.
 
 
 ;Learn More&hellip;
@@ -505,6 +517,7 @@ ID aplikacje:
 
 ;The internal identifier for the application.
 Bënowi identifikator aplikajce.
+
 
 ;Application Version:
 Wersjô aplikacje:

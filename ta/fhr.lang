@@ -86,6 +86,18 @@ Firefox இன் உங்கள் பதிப்பு பற்றிய �
 செருகு நிரல்கள்
 
 
+;always activate
+always activate
+
+
+;ask to activate
+ask to activate
+
+
+;never activate
+never activate
+
+
 ;Tips
 உதவிக்குறிப்புகள்
 
@@ -685,3 +697,5 @@ Choose what I share
 
 ;You are currently not sharing your health report with Mozilla.
 You are currently not sharing your health report with Mozilla.
+
+

@@ -86,6 +86,18 @@ uitgeschakeld
 Plug-ins
 
 
+;always activate
+always activate
+
+
+;ask to activate
+ask to activate
+
+
+;never activate
+never activate
+
+
 ;Tips
 Tips {ok}
 

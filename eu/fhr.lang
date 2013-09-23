@@ -86,6 +86,18 @@ desgaituta
 Pluginak
 
 
+;always activate
+always activate
+
+
+;ask to activate
+ask to activate
+
+
+;never activate
+never activate
+
+
 ;Tips
 Aholkuak
 
@@ -464,7 +476,7 @@ Hedapenak, pluginak, eta instalatutako gehigarri kopurua.
 
 
 ;Key performance measures, such as launch speed.
-Errendimendu-neurketa gakoak, esaterako abiarazte-abiadura. 
+Errendimendu-neurketa gakoak, esaterako abiarazte-abiadura.
 
 
 ;Browsing duration, install time, number of bookmarks and pages.
@@ -529,6 +541,7 @@ Eguneratzeen kanala:
 
 ;Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
 Firefox honako kanalon bitartez banatzen da: gaueroko Nightly bertsioak, Aurora argitaratu aurreko kanala, Beta egonkorra, eta argitaratze publikoa. Eremu honek kanala identifikatzen du.
+
 
 ;Vendor:
 Saltzailea:

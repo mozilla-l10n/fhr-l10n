@@ -86,6 +86,18 @@ zakázané
 Zásuvné moduly
 
 
+;always activate
+always activate
+
+
+;ask to activate
+ask to activate
+
+
+;never activate
+never activate
+
+
 ;Tips
 Tipy
 
@@ -685,4 +697,5 @@ Zvoliť, čo zdieľam
 
 ;You are currently not sharing your health report with Mozilla.
 Aktuálne nezdieľate údaje o kondícii so spoločnosťou Mozilla.
+
 

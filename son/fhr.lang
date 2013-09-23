@@ -86,6 +86,18 @@ kayante
 Sukarey
 
 
+;always activate
+always activate
+
+
+;ask to activate
+ask to activate
+
+
+;never activate
+never activate
+
+
 ;Tips
 Carmay
 
@@ -671,8 +683,8 @@ Bay ka tonton
 Firefox Health Report (FHR) ga war ceecikaa goy-sahãa koroši ka war yaamar nda faabari henna hala war ma felle Firefox nafaa ra. Ka bay ka tonton Health Report ga, dii <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>Mozilla faaba dunboo ra.</a>
 
 
-;For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.
-Ka bay ka tonton taka kaŋ nda ir ga war bayhayey gaabi, dii For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>ir sutura laadaa še.
+;For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
+For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
 
 
 ;You are currently sharing your health report with Mozilla.
@@ -685,3 +697,5 @@ Suuba woo kaŋ ay ga žemna
 
 ;You are currently not sharing your health report with Mozilla.
 War ši war gaahambaani bayrandi sanbo Mozilla do sohõ.
+
+

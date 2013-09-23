@@ -86,6 +86,18 @@ deactivads
 Plug-ins
 
 
+;always activate
+always activate
+
+
+;ask to activate
+ask to activate
+
+
+;never activate
+never activate
+
+
 ;Tips
 Cussegls
 
@@ -430,8 +442,6 @@ Mussar la statistica
 Directivas per la protecziun da datas
 
 
-
-
 # The following strings are used only in the Mobile version of about:healthreport (Firefox for Android)
 ;Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
 L'analisa da sanadad da Firefox ta lascha optinar tes Firefox ed ans gida da far in navigatur anc meglier. Ils rapports vegnan èn anc fitg s'impels l'entschatta, ma cun il temp vegnan els a sa sviluppar e creschar.
@@ -454,7 +464,7 @@ Statisticas impurtantas
 
 
 ;Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
-L'analisa da sanadad da Firefox registrescha infurmaziuns davart tes navigatur e tes apparat. ti pos <a href="#raw" class="navigate">contemplar las infurmaziuns che nus registrain.</a> Ti pos era contemplar tge che ti cundividas cun Mozilla. 
+L'analisa da sanadad da Firefox registrescha infurmaziuns davart tes navigatur e tes apparat. ti pos <a href="#raw" class="navigate">contemplar las infurmaziuns che nus registrain.</a> Ti pos era contemplar tge che ti cundividas cun Mozilla.
 
 
 ;Device hardware, operating system, Firefox version.
