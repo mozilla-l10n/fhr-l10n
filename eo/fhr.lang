@@ -432,7 +432,7 @@ Politiko pri privateco
 
 # The following strings are used only in the Mobile version of about:healthreport (Firefox for Android)
 ;Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
-Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
+La sanraporto de Firefox permesas al vi optimume uzi vian Firefox kaj helpas nin krei pli eksterordinare bonan retesplorilon. Komence la raportoj estos tre simplaj, sed ili daŭre evoluos kaj kreskos.
 
 
 ;Learn More&hellip;
@@ -652,7 +652,7 @@ Seancoj kaj tempoj de starto
 
 
 ;For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
-For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
+Por ĉiu retesplora seanco, la sanraporto de Firefox registras proksimume kiel longe vi retesploris (en sekundoj), kaj ĉu la seanco finiĝis normale aŭ panee. Se haveblas, ankaŭ la tempo de starto (en milonsekundoj) estos registrita.
 
 
 ;Profile Creation:
