@@ -636,19 +636,19 @@ Aldonaĵoj:
 
 
 ;A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
-A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
+Kolekto kiu priskribas la instalitajn aldonaĵojn. Ne ĉiuj aldonaĵoj estas raportitaj, nur kromprogramoj, etendaĵoj kaj servoj.
 
 
 ;Search Counts:
-Search Counts:
+Nombro de serĉoj:
 
 
 ;A count of how many searches you issued to each of Mozilla's partner providers.
-A count of how many searches you issued to each of Mozilla's partner providers.
+Nombro de serĉoj kiujn vi faris en ĉiu el la provizantoj asociitaj kun Mozilla.
 
 
 ;Sessions and Startup Times
-Sessions and Startup Times
+Seancoj kaj tempoj de starto
 
 
 ;For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
@@ -656,23 +656,23 @@ For each browsing session, Firefox Health Report records approximately how long 
 
 
 ;Profile Creation:
-Profile Creation:
+Kreado de profilo:
 
 
 ;The day on which your browser profile was created. Counted in days since January 1st 1970.
-The day on which your browser profile was created. Counted in days since January 1st 1970.
+La tago kiam via retesplorila profila estis kreita. Kalkulita jene: tagoj ekde la 1a de januaro de 1970.
 
 
 ;Learn More
-Learn More
+Pli da informo
 
 
 ;Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
-Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
+La sanraporto de Firefox analizas informon pri la efikeco de via retesplorilo, por povi doni al vi utilajn konsilojn kiuj helpu vin eltiri la maksimumon el Firefox. Pli da informo pri la sanraporto de Firefox <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>troveblas en la helpa sekcio de Mozilla.</a>
 
 
 ;For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
-For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
+Por havi pli da informo pri la traktado de viaj datumoj <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>vidu nian politikon pri privateco.</a>
 
 
 ;You are currently sharing your health report with Mozilla.
