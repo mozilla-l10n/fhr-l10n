@@ -464,7 +464,7 @@ never activate
 
 
 ;Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
-Во здравствениот картон на Firefox се снимаат информации за вашиот прелистувач и вашиот уред. Можете да ги погледнете <a href="#raw" class="navigate">информациите што ги снимаме</a>. Исто така можете да погледнете и што споделувате со Mozilla.
+Во здравствениот картон на Firefox се снимаат информации за Вашиот прелистувач и Вашиот уред. Можете да ги погледнете <a href="#raw" class="navigate">информациите што ги снимаме</a>. Исто така можете да погледнете и што споделувате со Mozilla.
 
 
 ;Device hardware, operating system, Firefox version.
@@ -672,7 +672,7 @@ xpcomabi: {ok}
 
 
 ;The day on which your browser profile was created. Counted in days since January 1st 1970.
-Денот на кој беше создаден вашиот профил во прелистувачот. Се брои во денови започнувајќи од 1-ви јануари 1970 година.
+Денот на кој беше создаден Вашиот профил во прелистувачот. Се брои во денови започнувајќи од 1-ви јануари 1970 година.
 
 
 ;Learn More
@@ -680,15 +680,15 @@ xpcomabi: {ok}
 
 
 ;Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
-Здравствениот картон на Firefox (ЗКF) ги анализира информациите за перформансите на вашиот прелистувач, со цел да ви обезбеди корисни трикови што ви помагаат да го извлечете најдоброто од Firefox. За повеќе информации за Здравствениот картон на Firefox, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>посетете ја страницата за поддршка на Mozilla.</a>
+Здравствениот картон на Firefox (ЗКF) ги анализира информациите за перформансите на Вашиот прелистувач, со цел да ви обезбеди корисни трикови што ви помагаат да го извлечете најдоброто од Firefox. За повеќе информации за Здравствениот картон на Firefox, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>посетете ја страницата за поддршка на Mozilla.</a>
 
 
 ;For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
-За повеќе информации околу тоа што правиме со вашите податоци, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>погледнете ја нашата политика за приватност.</a>
+За повеќе информации околу тоа што правиме со Вашите податоци, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>погледнете ја нашата политика за приватност.</a>
 
 
 ;You are currently sharing your health report with Mozilla.
-Во моментов го споделувате вашиот здравствен картон со Mozilla.
+Во моментов го споделувате Вашиот здравствен картон со Mozilla.
 
 
 ;Choose what I share
@@ -696,6 +696,6 @@ xpcomabi: {ok}
 
 
 ;You are currently not sharing your health report with Mozilla.
-Во моментов не го споделувате вашиот здравствен картон со Mozilla.
+Во моментов не го споделувате Вашиот здравствен картон со Mozilla.
 
 
