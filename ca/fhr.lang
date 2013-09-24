@@ -444,107 +444,107 @@ Política de privadesa
 
 # The following strings are used only in the Mobile version of about:healthreport (Firefox for Android)
 ;Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
-Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
+L'informe de salut del Firefox us permet optimitzar el Firefox i us ajuda a construir un navegador encara millor. Els informes seran bastant senzills al principi però evolucionaran i creixeran.
 
 
 ;Learn More&hellip;
-Learn More&hellip;
+Més informació&hellip;
 
 
 ;Tip
-Tip
+Consell
 
 
 ;Looks like your Firefox is brand new! Check back after using Firefox for a while.
-Looks like your Firefox is brand new! Check back after using Firefox for a while.
+Sembla que el vostre Firefox està acabat d'estrenar! Torneu després d'haver-lo utilitzat un temps.
 
 
 ;Important Metrics
-Important Metrics
+Mesures importants
 
 
 ;Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
-Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
+L'informe de salut del Firefox enregistra informació sobre el vostre navegador i dispositiu. Podeu <a href="#raw" class="navigate">veure la informació que enregistrem</a>. També podeu veure què compartiu amb Mozilla.
 
 
 ;Device hardware, operating system, Firefox version.
-Device hardware, operating system, Firefox version.
+Maquinari, sistema operatiu, versió del Firefox.
 
 
 ;Extensions, plugins, and number of installed add-ons.
-Extensions, plugins, and number of installed add-ons.
+Extensions, connectors i nombre de complements instal·lats.
 
 
 ;Key performance measures, such as launch speed.
-Key performance measures, such as launch speed.
+Mesures clau de rendiment, com la velocitat d'engegada
 
 
 ;Browsing duration, install time, number of bookmarks and pages.
-Browsing duration, install time, number of bookmarks and pages.
+Durada de la navegació, temps d'instal·lació i nombre d'adreces d'interès i pàgines.
 
 
 ;Home
-Home
+Inici
 
 
 ;CPU Count:
-CPU Count:
+Nombre de CPUs:
 
 
 ;The number of CPU cores reported by Android.
-The number of CPU cores reported by Android.
+El nombre de nuclis de la CPU que Android indica.
 
 
 ;Memory in MB:
-Memory in MB:
+Memòria en MB:
 
 
 ;The amount of memory reported by Android. Typically excludes graphics memory.
-The amount of memory reported by Android. Typically excludes graphics memory.
+La quantitat de memòria que Android indica. Normalment exclou la memòria gràfica.
 
 
 ;Application Name:
-Application Name:
+Nom de l'aplicació:
 
 
 ;The internal application name for the browser.
-The internal application name for the browser.
+El nom intern de l'aplicació pel navegador.
 
 
 ;Application ID:
-Application ID:
+ID de l'aplicació:
 
 
 ;The internal identifier for the application.
-The internal identifier for the application.
+L'identificador intern per l'aplicació
 
 
 ;Application Version:
-Application Version:
+Versió de l'aplicació:
 
 
 ;The current version of the browser
-The current version of the browser
+La versió actual del navegador
 
 
 ;Application Build ID:
-Application Build ID:
+ID del muntatge de l'aplicació:
 
 
 ;The internal build timestamp.
-The internal build timestamp.
+La marca horària del muntatge intern.
 
 
 ;Update Channel:
-Update Channel:
+Canal d'actualitzacions:
 
 
 ;Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
-Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
+El Firefox es distribueix a través de canals: muntatges nocturns, el canal Aurora de versions de prova, una Beta estable i les versions públiques. Aquest camp identifica el canal
 
 
 ;Vendor:
-Vendor:
+Proveïdor:
 
 
 ;The organization that built this application. Typically Mozilla.
