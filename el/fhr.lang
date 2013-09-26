@@ -59,7 +59,7 @@
 
 
 ;This Month
-Αυτό το μήνα
+Αυτόν τον μήνα
 
 
 ;crashes
@@ -87,15 +87,15 @@
 
 
 ;always activate
-always activate
+πάντα ενεργοποίηση
 
 
 ;ask to activate
-ask to activate
+ερώτηση για ενεργοποίηση
 
 
 ;never activate
-never activate
+ποτέ ενεργοποίηση
 
 
 ;Tips
@@ -163,7 +163,7 @@ never activate
 
 
 ;What the Firefox Health Report Measures
-Τι μετράει η αναφορά υγείας του Firefox
+Τί μετράει η αναφορά υγείας του Firefox
 
 
 ;The Firefox Health Report (FHR) has 4 categories of metrics:
@@ -423,7 +423,7 @@ never activate
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
-Η αναφορά υγείας του Firefox σας ενημερώνει για τις επιδόσεις του Firefox και τι μπορείτε να κάνετε για να τις βελτιώσετε.
+Η αναφορά υγείας του Firefox σας ενημερώνει για τις επιδόσεις του Firefox και τί μπορείτε να κάνετε για να τις βελτιώσετε.
 
 
 ;See My Report
@@ -464,7 +464,7 @@ never activate
 
 
 ;Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
-Η Αναφπρά υγείας του Firefox καταγράφει πληροφορίες σχετικά με τον περιηγητή και τη συσκευή σας. Μπορείτε να <a href="#raw" class="navigate">να δείτε τις πληροφορίες που καταγράφουμε.</a> Μπορείτε ακόμη να δείτε τι μοιράζεστε με το Mozilla.
+Η Αναφορά υγείας του Firefox καταγράφει πληροφορίες σχετικά με τον περιηγητή και τη συσκευή σας. Μπορείτε να <a href="#raw" class="navigate">να δείτε τις πληροφορίες που καταγράφουμε.</a> Μπορείτε ακόμη να δείτε τί μοιράζεστε με το Mozilla.
 
 
 ;Device hardware, operating system, Firefox version.
@@ -480,7 +480,7 @@ never activate
 
 
 ;Browsing duration, install time, number of bookmarks and pages.
-Διάρκει περιήγησης, χρόνος εγκατάστασης, αριθμός σελιδοδεικτών και σελίδων.
+Διάρκεια περιήγησης, χρόνος εγκατάστασης, αριθμός σελιδοδεικτών και σελίδων.
 
 
 ;Home
@@ -500,7 +500,7 @@ never activate
 
 
 ;The amount of memory reported by Android. Typically excludes graphics memory.
-Το σύνολο μνήμης που αναφέρεται από το Android. Τυπικά δεν περιλαμβάνει τη μνη γραφικών.
+Το σύνολο μνήμης που αναφέρεται από το Android. Τυπικά δεν περιλαμβάνει τη μνήμη γραφικών.
 
 
 ;Application Name:
@@ -540,7 +540,7 @@ Build ID εφαρμογής:
 
 
 ;Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
-Ο Firefox διανέμεται μέσω καναλιών: Nightly builds, το κανάλι Aurora pre-release, ένα σταθερί Beta, και η επίσημη έκδοση. Αυτό το πεδίο ταυτοποιεί το κανάλι.
+Ο Firefox διανέμεται μέσω καναλιών: Nightly builds, το κανάλι Aurora pre-release, ένα σταθερό Beta, και η επίσημη έκδοση. Αυτό το πεδίο ταυτοποιεί το κανάλι.
 
 
 ;Vendor:
