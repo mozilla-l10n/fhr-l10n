@@ -87,15 +87,15 @@ Connector
 
 
 ;always activate
-always activate
+activa-ho sempre
 
 
 ;ask to activate
-ask to activate
+demana per activar-ho
 
 
 ;never activate
-never activate
+no l'activis mai
 
 
 ;Tips
@@ -568,7 +568,7 @@ En Android és un nom alternatiu per appBuildID
 
 
 ;xpcomabi:
-xpcomabi:
+xpcomabi: {ok}
 
 
 ;The CPU architecture for which this application was built.
@@ -608,39 +608,39 @@ La versió del SO Android
 
 
 ;Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
-Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
+Si el Firefox recull el resultat de les llistes de complements blocats per protegir-vos dels maliciosos. Per defecte està habilitat.
 
 
 ;Telemetry Enabled:
-Telemetry Enabled:
+S'ha habilitat la telemesura:
 
 
 ;Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
-Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
+Si el Firefox informa detalladament de l'ús de dades per ajudar en el desenvolupament. Per defecte està inhabilitat per la majoria de canals.
 
 
 ;Extension Count:
-Extension Count:
+Nombre d'extensions:
 
 
 ;How many extension add-ons are installed.
-How many extension add-ons are installed.
+Quantes extensions hi ha instal·lades.
 
 
 ;Plugin Count:
-Plugin Count:
+Nombre de connectors:
 
 
 ;How many plugin add-ons are installed.
-How many plugin add-ons are installed.
+Quants connectors hi ha instal·lats.
 
 
 ;Theme Count:
-Theme Count:
+Nombre de temes:
 
 
 ;How many theme add-ons are installed.
-How many theme add-ons are installed.
+Quants complements de tema hi ha instal·lats.
 
 
 ;Addons:
@@ -648,31 +648,32 @@ Complements:
 
 
 ;A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
-A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
+Una col·lecció que descriu els complements instal·lats. No s'informa de tots els complements sinó només dels connectors, extensions i serveis.
 
 
 ;Search Counts:
-Search Counts:
+Nombre de cerques:
 
 
 ;A count of how many searches you issued to each of Mozilla's partner providers.
-A count of how many searches you issued to each of Mozilla's partner providers.
+Recompte de cerques que heu fet a cadascun dels socis proveïdors de Mozilla.
 
 
 ;Sessions and Startup Times
-Sessions and Startup Times
+Sessions i temps d'inici
 
 
 ;For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
-For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
+Per a cada sessió de navegació, l'informe de salut del Firefox enregistra quant ha durat aproximadament (en segons) i si la sessió ha finalitzat correctament o per causa d'una fallada. També inclou el temps d'inici (en milisegons), si és disponible.
+
 
 
 ;Profile Creation:
-Profile Creation:
+Creació del perfil:
 
 
 ;The day on which your browser profile was created. Counted in days since January 1st 1970.
-The day on which your browser profile was created. Counted in days since January 1st 1970.
+El dia en què es va crear el vostre perfil del navegador web. Comptat en dies des de l'1 de gener de 1970.
 
 
 ;Learn More
@@ -680,15 +681,16 @@ Més informació
 
 
 ;Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
-Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
+L'informe de salut del Firefox analitza la informació del rendiment del vostre navegador per a proporcionar-vos consells útils que us ajudin a obtenir el millor del Firefox. Per a més informació sobre l'informe de salut del Firefox, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>llegiu la secció d'ajuda de Mozilla.</a>
+
 
 
 ;For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
-For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
+Per a més informació sobre com gestionem les vostres dades, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>llegiu la nostra política de privadesa.</a>
 
 
 ;You are currently sharing your health report with Mozilla.
-You are currently sharing your health report with Mozilla.
+Esteu compartint el vostre informe de salut amb Mozilla.
 
 
 ;Choose what I share
