@@ -86,6 +86,18 @@ ynskeakele
 Ynstekkers
 
 
+;always activate
+always activate
+
+
+;ask to activate
+ask to activate
+
+
+;never activate
+never activate
+
+
 ;Tips
 Tips {ok}
 
@@ -685,4 +697,5 @@ Kieze wat ik diel
 
 ;You are currently not sharing your health report with Mozilla.
 Op dit stuit diele jo jo sûnensrapport net mei Mozilla.
+
 
