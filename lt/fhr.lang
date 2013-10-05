@@ -87,15 +87,15 @@ Papildiniai
 
 
 ;always activate
-always activate
+visuomet aktyvinti
 
 
 ;ask to activate
-ask to activate
+klausti, ar aktyvinti
 
 
 ;never activate
-never activate
+niekada neaktyvinti
 
 
 ;Tips
@@ -444,127 +444,127 @@ Privatumo nuostatai
 
 # The following strings are used only in the Mobile version of about:healthreport (Firefox for Android)
 ;Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
-Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
+„Firefox“ sveikatos būklės ataskaita jums padės optimizuoti savo „Firefox“ naršyklės darbą, o mums – tobulinti ją. Pradžioje ši ataskaita bus trumpa ir glausta, tačiau bėgant laikui, ji augs ir darysis vis išsamesnė.
 
 
 ;Learn More&hellip;
-Learn More&hellip;
+Sužinoti daugiau&hellip;
 
 
 ;Tip
-Tip
+Patarimas
 
 
 ;Looks like your Firefox is brand new! Check back after using Firefox for a while.
-Looks like your Firefox is brand new! Check back after using Firefox for a while.
+Panašu, jog jūsų „Firefox“ naršyklė dar visai šviežia! Sugrįžkite čia, kurį laiką ja pasinaudoję.
 
 
 ;Important Metrics
-Important Metrics
+Svarbiausia statistika
 
 
 ;Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
-Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
+„Firefox“ sveikatos būklės ataskaitose kaupiama informacija apie Jūsų naršyklę ir įrenginį. Galite "<a href="#raw" class="navigate">susipažinti su kaupiama informacija.</a> Be to, galite pažiūrėti, kuria informacija dalijamasi su „Mozilla“.
 
 
 ;Device hardware, operating system, Firefox version.
-Device hardware, operating system, Firefox version.
+Aparatinė įranga, operacinė sistema, „Firefox“ versija.
 
 
 ;Extensions, plugins, and number of installed add-ons.
-Extensions, plugins, and number of installed add-ons.
+Plėtiniai, papildiniai ir įdiegtų priedų kiekis.
 
 
 ;Key performance measures, such as launch speed.
-Key performance measures, such as launch speed.
+Pagrindiniai našumo rodikliai, tokie kaip paleisties greitis.
 
 
 ;Browsing duration, install time, number of bookmarks and pages.
-Browsing duration, install time, number of bookmarks and pages.
+Naršymo trukmė, laikas nuo įdiegimo, adresyno įrašų ir atvertų tinklalapių skaičius.
 
 
 ;Home
-Home
+Pradžios tinklalapis
 
 
 ;CPU Count:
-CPU Count:
+Procesoriaus branduoliai:
 
 
 ;The number of CPU cores reported by Android.
-The number of CPU cores reported by Android.
+„Android“ sistemos rodomas procesoriaus branduolių kiekis.
 
 
 ;Memory in MB:
-Memory in MB:
+Atminties dydis, MB:
 
 
 ;The amount of memory reported by Android. Typically excludes graphics memory.
-The amount of memory reported by Android. Typically excludes graphics memory.
+Atminties dydis, rodomas „Android“ sistemos. Paprastai neapima grafinės apimties.
 
 
 ;Application Name:
-Application Name:
+Programos pavadinimas:
 
 
 ;The internal application name for the browser.
-The internal application name for the browser.
+Naršyklės vidinis programos pavadinimas.
 
 
 ;Application ID:
-Application ID:
+Programos identifikatorius:
 
 
 ;The internal identifier for the application.
-The internal identifier for the application.
+Programos vidinis identifikatorius.
 
 
 ;Application Version:
-Application Version:
+Programos versija:
 
 
 ;The current version of the browser
-The current version of the browser
+Naudojama naršyklės versija
 
 
 ;Application Build ID:
-Application Build ID:
+Programos darinio identifikatorius:
 
 
 ;The internal build timestamp.
-The internal build timestamp.
+Programos kompiliavimo laiko žymė.
 
 
 ;Update Channel:
-Update Channel:
+Naujinimų kanalas:
 
 
 ;Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
-Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
+„Firefox“ programa platinama skirtingais kanalais: „nightly“ (kasdienės versijos, mažiausiai stabilios), „aurora“ (atitinka alfa versijas), „beta“ ir „release“ (oficialios galutinės laidos). Šis laukas identifikuoja naudojamą kalalą.
 
 
 ;Vendor:
-Vendor:
+Gamintojas:
 
 
 ;The organization that built this application. Typically Mozilla.
-The organization that built this application. Typically Mozilla.
+Organizacija, sukūrusi šią programą. Paprastai tai bus „Mozilla“.
 
 
 ;Platform Version:
-Platform Version:
+Platformos versija:
 
 
 ;An internal version identifier. Typically the same as appVersion.
-An internal version identifier. Typically the same as appVersion.
+Vidinis versijos identifikatorius. Paprastai atitinka „appVersion“.
 
 
 ;Platform Build ID:
-Platform Build ID:
+Platformos darinio identifikatorius:
 
 
 ;On Android this is an alternative name for appBuildID.
-On Android this is an alternative name for appBuildID.
+„Android“ platformoje tai atlternatyvus „appBuildID“ vardas.
 
 
 ;xpcomabi:
@@ -572,7 +572,7 @@ xpcomabi:
 
 
 ;The CPU architecture for which this application was built.
-The CPU architecture for which this application was built.
+Procesoriaus architektūra, kuriai ši programa sukompiliuota.
 
 
 ;OS:
@@ -580,122 +580,122 @@ OS:
 
 
 ;The current operating system.
-The current operating system.
+Naudojama operacinė sistema.
 
 
 ;Architecture:
-Architecture:
+Architektūra:
 
 
 ;The CPU architecture for this device.
-The CPU architecture for this device.
+Šio įrenginio procesoriaus architektūra.
 
 
 ;System Name:
-System Name:
+Sistemos vardas:
 
 
 ;The current system name.
-The current system name.
+Dabartinis sistemos vardas.
 
 
 ;System Version:
-System Version:
+Sistemos versija:
 
 
 ;The Android OS revision.
-The Android OS revision.
+„Android“ operacinės sistemos versija.
 
 
 ;Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
-Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
+Ar „Firefox“ parsisiunčia blokuojamų priedų sąrašą, padedantį Jus apsaugoti nuo kenksmingų priedų. Numatytuoju atveju – „on“ (įjungta).
 
 
 ;Telemetry Enabled:
-Telemetry Enabled:
+Ar įjungta telemetrija:
 
 
 ;Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
-Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
+Ar „Firefox“ teikia naudojimo ataskaitas, padedančias tobulinti programą. Daugumoje kanalų numatytoji reikšmė – „off“ (išjungta).
 
 
 ;Extension Count:
-Extension Count:
+Plėtinių skaičius:
 
 
 ;How many extension add-ons are installed.
-How many extension add-ons are installed.
+Kiek yra įdiegtų plėtinių.
 
 
 ;Plugin Count:
-Plugin Count:
+Papildinių skaičius:
 
 
 ;How many plugin add-ons are installed.
-How many plugin add-ons are installed.
+Kiek yra įdiegtų papildinių.
 
 
 ;Theme Count:
-Theme Count:
+Grafinių apvalkalų skaičius:
 
 
 ;How many theme add-ons are installed.
-How many theme add-ons are installed.
+Kiek yra įdiegtų grafinių apvalkalų.
 
 
 ;Addons:
-Addons:
+Priedai:
 
 
 ;A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
-A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
+Įdiegtų priedų skaičius. Į jį įtraukiami ne visi priedai, bet tik papildiniai, plėtiniai ir tarnybos.
 
 
 ;Search Counts:
-Search Counts:
+Vykdytų paieškų skaičius:
 
 
 ;A count of how many searches you issued to each of Mozilla's partner providers.
-A count of how many searches you issued to each of Mozilla's partner providers.
+Paieškų, vykdytų per atskirus su „Mozilla“ bendradarbiaujančius paieškos tiekėjus, skaičius.
 
 
 ;Sessions and Startup Times
-Sessions and Startup Times
+Seansai ir paleidimo trukmė
 
 
 ;For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
-For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
+„Firefox“ sveikatos būklės ataskaitoje kaupiama informacija apie apytikslę kiekvieno naršymo seanso trukmę (sekundėmis) ir apie tai, ar seansas buvo užbaigtas įprastai, ar nutrūko dėl strigties. Jeigu įmanoma, taip pat kaupiama informacija apie paleisties trukmę.
 
 
 ;Profile Creation:
-Profile Creation:
+Profilio sukūrimas:
 
 
 ;The day on which your browser profile was created. Counted in days since January 1st 1970.
-The day on which your browser profile was created. Counted in days since January 1st 1970.
+Diena, kai buvo sukurtas profilis (skaičiuojama nuo 1970 m. sausio 1 d.).
 
 
 ;Learn More
-Learn More
+Sužinoti daugiau
 
 
 ;Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
-Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
+„Firefox“ sveikatos būklės ataskaitose analizuojami naršyklės našumo rodikliai, siekiant pasiūlyti naudingų patarimų, galinčių Jums padėti iš „Firefox“ gauti kuo daugiau naudos. Daugiau informacijos apie sveikatos būklės ataskaitas rasite <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>joms dedikuotame „Mozillos“ žinyno skyriuje.</a>
 
 
 ;For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
-For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
+Daugiau informacijos apie tai, kaip ir kokie Jūsų duomenys kaupiami, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>rasite mūsų privatumo nuostatuose.</a>
 
 
 ;You are currently sharing your health report with Mozilla.
-You are currently sharing your health report with Mozilla.
+Šiuo metu programos sveikatos būklės ataskaitos duomenimis dalijatės su „Mozilla“.
 
 
 ;Choose what I share
-Choose what I share
+Pasirinkti, kuo dalintis
 
 
 ;You are currently not sharing your health report with Mozilla.
-You are currently not sharing your health report with Mozilla.
+Šiuo metu programos sveikatos būklės ataskaitos duomenimis su „Mozilla“ nesidalijate.
 
 
