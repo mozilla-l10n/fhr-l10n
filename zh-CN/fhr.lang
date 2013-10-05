@@ -7,7 +7,7 @@
 
 
 ;Get insights and performance information about your version of Firefox.
-获得你正在使用的火狐版本的评价和性能信息。
+获得您正在使用的火狐版本的评价和性能信息。
 
 
 ;Learn more...
@@ -23,15 +23,15 @@
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
-你选择不与 Mozilla 分享数据，但是你依然可以查看浏览器的性能。
+您选择不与 Mozilla 分享数据，但是您依然可以查看浏览器的性能。
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
-Mozilla 也会从服务器上删除你的健康报告数据。查看<a href="%(privacy_url)s">隐私政策</a>了解更多信息。
+Mozilla 也会从服务器上删除您的健康报告数据。查看<a href="%(privacy_url)s">隐私政策</a>了解更多信息。
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
-你选择经常与 Mozilla 分享您的数据。感谢您帮助我们为互联网构建更光明的未来。
+您选择经常与 Mozilla 分享您的数据。感谢您帮助我们为互联网构建更光明的未来。
 
 
 ;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
@@ -131,7 +131,7 @@ never activate
 
 
 ;You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
-使用你的浏览器越多，就越能发现很多有趣的细节。可以每隔几周就来看看，了解一些动向。
+使用您的浏览器越多，就越能发现很多有趣的细节。可以每隔几周就来看看，了解一些动向。
 
 
 ;Startup Time by Day
@@ -151,7 +151,7 @@ never activate
 
 
 ;Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
-启动时间体现了你使用的火狐版本的性能。一般来说，更快的启动时间（或者说更短的时间）意味着更好的性能。
+启动时间体现了您使用的火狐版本的性能。一般来说，更快的启动时间（或者说更短的时间）意味着更好的性能。
 
 
 ;Data Collected
@@ -415,7 +415,7 @@ Gecko 平台代码的版本
 
 
 ;Welcome to your Firefox Health Report
-欢迎查看你的火狐健康报告
+欢迎查看您的火狐健康报告
 
 
 ;Welcome!
@@ -423,7 +423,7 @@ Gecko 平台代码的版本
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
-火狐健康报告帮助你了解火狐的性能以及如何提高。
+火狐健康报告帮助您了解火狐的性能以及如何提高。
 
 
 ;See My Report
@@ -444,258 +444,258 @@ Gecko 平台代码的版本
 
 # The following strings are used only in the Mobile version of about:healthreport (Firefox for Android)
 ;Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
-Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
+Firefox 健康报告帮助您优化 Firefox ，帮助我们打造更出色的浏览器。刚开始，报告会很简略，之后会逐渐深入和扩展。
 
 
 ;Learn More&hellip;
-Learn More&hellip;
+详细了解&hellip;
 
 
 ;Tip
-Tip
+提示
 
 
 ;Looks like your Firefox is brand new! Check back after using Firefox for a while.
-Looks like your Firefox is brand new! Check back after using Firefox for a while.
+您的 Firefox 看上去是全新的，使用一段时间再来看吧。
 
 
 ;Important Metrics
-Important Metrics
+重要的指标
 
 
 ;Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
-Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
+Firefox 健康报告记录了您的浏览器和设备的信息。您可以 <a href="#raw" class="navigate">查看我们记录的信息</a>，并决定将哪些信息与 Mozilla 分享。
 
 
 ;Device hardware, operating system, Firefox version.
-Device hardware, operating system, Firefox version.
+硬件设备，操作系统，Firefox 版本。
 
 
 ;Extensions, plugins, and number of installed add-ons.
-Extensions, plugins, and number of installed add-ons.
+扩展，插件，和安装的附加组件数量。
 
 
 ;Key performance measures, such as launch speed.
-Key performance measures, such as launch speed.
+重要的性能指标，例如启动速度。
 
 
 ;Browsing duration, install time, number of bookmarks and pages.
-Browsing duration, install time, number of bookmarks and pages.
+浏览时间，安装时间，书签和页面数量。
 
 
 ;Home
-Home
+首页
 
 
 ;CPU Count:
-CPU Count:
+CPU 数量：
 
 
 ;The number of CPU cores reported by Android.
-The number of CPU cores reported by Android.
+由 Android 报告的 CPU 内核数量。
 
 
 ;Memory in MB:
-Memory in MB:
+以 MB 为:
 
 
 ;The amount of memory reported by Android. Typically excludes graphics memory.
-The amount of memory reported by Android. Typically excludes graphics memory.
+Android 报告的内存数量，一般情况下不包括显示内存。
 
 
 ;Application Name:
-Application Name:
+应用程序名称:
 
 
 ;The internal application name for the browser.
-The internal application name for the browser.
+浏览器的内部应用程序名称。
 
 
 ;Application ID:
-Application ID:
+应用程序 ID:
 
 
 ;The internal identifier for the application.
-The internal identifier for the application.
+应用程序的内部标识名。
 
 
 ;Application Version:
-Application Version:
+应用程序版本：
 
 
 ;The current version of the browser
-The current version of the browser
+浏览器当前版本
 
 
 ;Application Build ID:
-Application Build ID:
+应用程序构建 ID:
 
 
 ;The internal build timestamp.
-The internal build timestamp.
+内部构建时间戳。
 
 
 ;Update Channel:
-Update Channel:
+更新通道:
 
 
 ;Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
-Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
+Firefox 通过几个通道进行分发：Nightly（每夜版），Aurora（早期测试版本），稳定测试版，和公开发布版。这个字段标识了版本通道名称。
 
 
 ;Vendor:
-Vendor:
+发布者:
 
 
 ;The organization that built this application. Typically Mozilla.
-The organization that built this application. Typically Mozilla.
+构建这个应用程序的组织名称。一般是 Mozilla。
 
 
 ;Platform Version:
-Platform Version:
+平台版本:
 
 
 ;An internal version identifier. Typically the same as appVersion.
-An internal version identifier. Typically the same as appVersion.
+内部版本标识符，通常与应用标识符相同。
 
 
 ;Platform Build ID:
-Platform Build ID:
+平台构建 ID:
 
 
 ;On Android this is an alternative name for appBuildID.
-On Android this is an alternative name for appBuildID.
+在 Android 上这是 appBuildID 的替代名称。
 
 
 ;xpcomabi:
-xpcomabi:
+xpcomabi: {ok}
 
 
 ;The CPU architecture for which this application was built.
-The CPU architecture for which this application was built.
+构建此应用程序的 CPU 架构。
 
 
 ;OS:
-OS:
+操作系统:
 
 
 ;The current operating system.
-The current operating system.
+当前的操作系统。
 
 
 ;Architecture:
-Architecture:
+架构：
 
 
 ;The CPU architecture for this device.
-The CPU architecture for this device.
+本设备的 CPU 架构。
 
 
 ;System Name:
-System Name:
+系统名称:
 
 
 ;The current system name.
-The current system name.
+当前系统名称。
 
 
 ;System Version:
-System Version:
+系统版本：
 
 
 ;The Android OS revision.
-The Android OS revision.
+Android 操作系统版本。
 
 
 ;Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
-Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
+Firefox 是否会获取附加组件阻止列表保护您免受恶意附加组件的侵害。默认打开。
 
 
 ;Telemetry Enabled:
-Telemetry Enabled:
+已启用遥测：:
 
 
 ;Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
-Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
+Firefox 是否汇报具体的使用数据以便帮助开发工作。在多数通道版本中默认关闭。
 
 
 ;Extension Count:
-Extension Count:
+扩展计数:
 
 
 ;How many extension add-ons are installed.
-How many extension add-ons are installed.
+安装了多少个扩展。
 
 
 ;Plugin Count:
-Plugin Count:
+插件计数:
 
 
 ;How many plugin add-ons are installed.
-How many plugin add-ons are installed.
+安装了多少个插件。
 
 
 ;Theme Count:
-Theme Count:
+主题计数:
 
 
 ;How many theme add-ons are installed.
-How many theme add-ons are installed.
+安装了多少个主题。
 
 
 ;Addons:
-Addons:
+附加组件:
 
 
 ;A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
-A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
+已安装附加组件的整体描述，并不包括所有的附加组件：只有插件、扩展和服务。
 
 
 ;Search Counts:
-Search Counts:
+搜索计数:
 
 
 ;A count of how many searches you issued to each of Mozilla's partner providers.
-A count of how many searches you issued to each of Mozilla's partner providers.
+分别记录您通过 Mozilla 各个搜索合作伙伴进行搜索的次数。
 
 
 ;Sessions and Startup Times
-Sessions and Startup Times
+会话和启动时间
 
 
 ;For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
-For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
+对于每一个浏览器会话，Firefox 健康报告会近似记录浏览的持续时间（按秒），以及会话是正常或者由于崩溃而终止。如果可能，还会包括启动时间（微妙）。
 
 
 ;Profile Creation:
-Profile Creation:
+配置文件创建:
 
 
 ;The day on which your browser profile was created. Counted in days since January 1st 1970.
-The day on which your browser profile was created. Counted in days since January 1st 1970.
+您的浏览器配置文件自创建后经历的时间。从1970年1月1日起以天计算。
 
 
 ;Learn More
-Learn More
+详细了解
 
 
 ;Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
-Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
+Firefox 健康报告（FHR）分析了您的浏览器性能信息，以便向您提供有用的提示，帮助您将 Firefox 调整至更好的状态。要进一步了解 Firefox 健康报告的有关信息，<a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>访问 Mozilla 支持章节</a> 。
 
 
 ;For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
-For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
+要进一步了解我们如何处理您的数据，请 <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>参阅我们的隐私政策</a>。
 
 
 ;You are currently sharing your health report with Mozilla.
-You are currently sharing your health report with Mozilla.
+您目前设置与 Mozilla 分享您的健康报告数据。
 
 
 ;Choose what I share
-Choose what I share
+选择要分享哪些内容
 
 
 ;You are currently not sharing your health report with Mozilla.
-You are currently not sharing your health report with Mozilla.
+您目前没有和 Mozilla 分享您的健康报告。
 
 
