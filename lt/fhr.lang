@@ -568,7 +568,7 @@ Platformos darinio identifikatorius:
 
 
 ;xpcomabi:
-xpcomabi:
+xpcomabi: {ok}
 
 
 ;The CPU architecture for which this application was built.
@@ -576,7 +576,7 @@ Procesoriaus architektūra, kuriai ši programa sukompiliuota.
 
 
 ;OS:
-OS:
+OS: {ok}
 
 
 ;The current operating system.
