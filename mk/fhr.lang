@@ -86,17 +86,6 @@
 Приклучоци
 
 
-;always activate
-секогаш активирај
-
-;ask to activate
-прашувај за активирање
-
-
-;never activate
-никогаш не активирај
-
-
 ;Tips
 Совети
 
@@ -659,7 +648,7 @@ xpcomabi: {ok}
 
 
 ;Sessions and Startup Times
-Времиња на сесии и на стартувања
+Сесиски и времиња на стартување
 
 
 ;For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
