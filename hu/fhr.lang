@@ -576,8 +576,7 @@ A processzorarchitektúrája, amelyen az alkalamzás készült.
 
 
 ;OS:
-OS:
-
+OS: 
 
 ;The current operating system.
 A jelenlegi operációs rendszer.
@@ -624,7 +623,7 @@ Bővítmények száma:
 
 
 ;How many extension add-ons are installed.
-mennyi bővítmény került telepítésre.
+Mennyi bővítmény került telepítésre.
 
 
 ;Plugin Count:
@@ -688,11 +687,11 @@ For more information about how we handle your data, <a href="https://www.mozilla
 
 
 ;You are currently sharing your health report with Mozilla.
-You are currently sharing your health report with Mozilla.
+Jelenleg megosztja a Health Reportot a Mozillával.
 
 
 ;Choose what I share
-Choose what I share
+Válassza ki, mit oszt meg
 
 
 ;You are currently not sharing your health report with Mozilla.
