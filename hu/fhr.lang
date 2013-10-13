@@ -87,15 +87,15 @@ Bővítmények
 
 
 ;always activate
-always activate
+mindig aktiválva
 
 
 ;ask to activate
-ask to activate
+kérésre aktiválva
 
 
 ;never activate
-never activate
+sosem aktiválva
 
 
 ;Tips
@@ -464,7 +464,7 @@ Fontos mérések
 
 
 ;Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
-Firefox Health Report adatai a böngészővel és eszközzel kapcsolatban. <a href="#raw" class="navigate">Ezeket az adatokat tároljuk.</a> Mgetekintheti, hogy milyen adatokat oszt meg a Mozillával.
+Firefox Health Report adatai a böngészővel és eszközzel kapcsolatban. <a href="#raw" class="navigate">Ezeket az adatokat tároljuk.</a> Megtekintheti, hogy milyen adatokat oszt meg a Mozillával.
 
 
 ;Device hardware, operating system, Firefox version.
@@ -476,7 +476,7 @@ Bővítmények, kiegészítők és a telepített kiterjesztések száma.
 
 
 ;Key performance measures, such as launch speed.
-Key performance measures, such as launch speed.
+Kulcsfontosságú teljesítménymutatók, mint például az indulási sebesség.
 
 
 ;Browsing duration, install time, number of bookmarks and pages.
@@ -568,7 +568,7 @@ Az Androidon ez az appBuildID másik elnevezése.
 
 
 ;xpcomabi:
-xpcomabi:
+xpcomabi: {ok}
 
 
 ;The CPU architecture for which this application was built.
@@ -576,7 +576,7 @@ A processzorarchitektúrája, amelyen az alkalmazás készült.
 
 
 ;OS:
-OS: 
+OS: {ok}
 
 ;The current operating system.
 A jelenlegi operációs rendszer.
@@ -645,7 +645,7 @@ Kiegészítők:
 
 
 ;A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
-A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
+A gyűjtemény tartalmazza a telepített kiegészítőket. Nem minden kiegészítő kerül a jelentésbe: csak a bővítmények, kiegészítők és szolgáltatások.
 
 
 ;Search Counts:
@@ -653,7 +653,7 @@ Keresések száma:
 
 
 ;A count of how many searches you issued to each of Mozilla's partner providers.
-A count of how many searches you issued to each of Mozilla's partner providers.
+A keresési szolgáltatásokon keresztül indított keresések száma.
 
 
 ;Sessions and Startup Times
@@ -661,7 +661,7 @@ Munkamenetek és indulási idő
 
 
 ;For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
-For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
+Minden egyes böngészési munkamenetnél a Firefox Health Report rögzíiti, hogy milyen hosszú volt a böngészés (másodpercben) és hogy a munkamenet lezárása természetes volt vagy összeomlás okozta. Amennyiben lehetséges, ugyancsak rögzítésre kerül az indulási idő (tizedmásodpercben).
 
 
 ;Profile Creation:
@@ -677,7 +677,7 @@ Tovább
 
 
 ;Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
-Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
+A Firefox Health Report (FHR) vizsgálja a böngésző teljesítményét, hogy tanácsot adjon a teljesítmény fokozásában. A Firefox Health Reporttal kapcsolatos további információ a <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>Mozilla támogatási oldalán</a> található.
 
 
 ;For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
@@ -685,7 +685,7 @@ Az adatok kezelésével kapcsolatos további információ az <a href="https://ww
 
 
 ;You are currently sharing your health report with Mozilla.
-Jelenleg megosztja a Health Reportot a Mozillával.
+Jelenleg megosztja a Health Report eredményeit a Mozillával.
 
 
 ;Choose what I share
