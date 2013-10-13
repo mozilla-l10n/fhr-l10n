@@ -444,7 +444,7 @@ Adatvédelmi irányelvek
 
 # The following strings are used only in the Mobile version of about:healthreport (Firefox for Android)
 ;Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
-A Firefox állapotjelentés segítségével finomhangolhatja a Firefoxát és segíthet nekünk abban, hogy még jöbb böngészőt készítsünk. A jelentések kezdetben még elég egyszerüek lesznek, de folyamatosan javítjuk és bővitjük őket.
+A Firefox állapotjelentés segítségével finomhangolhatja a Firefoxát és segíthet nekünk abban, hogy még jobb böngészőt készítsünk. A jelentések kezdetben még elég egyszerűek lesznek, de folyamatosan javítjuk és bővítjük őket.
 
 
 ;Learn More&hellip;
@@ -464,7 +464,7 @@ Fontos mérések
 
 
 ;Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
-Firefox állapotjelentés records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
+Firefox Health Report adatai a böngészővel és eszközzel kapcsolatban. <a href="#raw" class="navigate">Ezeket az adatokat tároljuk.</a> Mgetekintheti, hogy milyen adatokat oszt meg a Mozillával.
 
 
 ;Device hardware, operating system, Firefox version.
@@ -480,7 +480,7 @@ Key performance measures, such as launch speed.
 
 
 ;Browsing duration, install time, number of bookmarks and pages.
-Browsing duration, install time, number of bookmarks and pages.
+Böngészési idő, telepítési idő, könyvjelzők és oldalak száma.
 
 
 ;Home
@@ -528,7 +528,7 @@ A böngésző jelenlegi verziója
 
 
 ;Application Build ID:
-Alkalmazás készítésének időpontja:
+Alkalmazás készítésének azonosítója:
 
 
 ;The internal build timestamp.
@@ -540,7 +540,7 @@ Frissítési csatorna:
 
 
 ;Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
-A Firefox különbző csatornákon keresztül érhető el: Nightly, Aurora, Beta és nyilvános kiadás. Ez a mező megadja a frissítési csatorna nevét.
+A Firefox különböző csatornákon keresztül érhető el: Nightly, Aurora, Beta és nyilvános kiadás. Ez a mező megadja a frissítési csatorna nevét.
 
 
 ;Vendor:
@@ -560,11 +560,11 @@ Belső verzióazonosító (tipikusan megegyezik az alkalmazásverzióval).
 
 
 ;Platform Build ID:
-Platform Build ID:
+Platform készítésének azonosítója:
 
 
 ;On Android this is an alternative name for appBuildID.
-On Android this is an alternative name for appBuildID.
+Az Androidon ez az appBuildID másik elnevezése.
 
 
 ;xpcomabi:
@@ -572,7 +572,7 @@ xpcomabi:
 
 
 ;The CPU architecture for which this application was built.
-A processzorarchitektúrája, amelyen az alkalamzás készült.
+A processzorarchitektúrája, amelyen az alkalmazás készült.
 
 
 ;OS:
@@ -607,16 +607,14 @@ Az Android OS verziója.
 
 
 ;Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
-Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
-
+Engedélyezésekor a Firefox letölti a kiegészítők feketelistáját, hogy védelmet nyújtson a rosszindulatú kiegészítők ellen. Alapértelmezésként be van kapcsolva.
 
 ;Telemetry Enabled:
 Telemetry engedélyezés:
 
 
 ;Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
-Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
-
+Engedélyezéskor a Firefox részletes adatokat a használattal kapcsolatban, hogy segítse a fejlesztést. A legtöbb csatornán alapértelmezésként ki van kapcsolva.
 
 ;Extension Count:
 Bővítmények száma:
@@ -651,7 +649,7 @@ A collection describing the installed add-ons. Not all add-ons are reported: onl
 
 
 ;Search Counts:
-Search Counts:
+Keresések száma:
 
 
 ;A count of how many searches you issued to each of Mozilla's partner providers.
@@ -659,7 +657,7 @@ A count of how many searches you issued to each of Mozilla's partner providers.
 
 
 ;Sessions and Startup Times
-Sessions and Startup Times
+Munkamenetek és indulási idő
 
 
 ;For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
@@ -683,7 +681,7 @@ Firefox Health Report (FHR) analyses your browser's performance information, in 
 
 
 ;For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
-For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
+Az adatok kezelésével kapcsolatos további információ az <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>adatkezelési irányelvekben</a> olvasható.
 
 
 ;You are currently sharing your health report with Mozilla.
