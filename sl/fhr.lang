@@ -214,8 +214,8 @@ Opis
 Binarni vmesnik za XPCOM
 
 
-;Identifikator for this build of the application based on the date the build was started
-Indikator obstoječe izgradnje aplikacije na osnovi njenega datuma zagona
+;Identifier for this build of the application based on the date the build was started
+Identifikator obstoječe izgradnje aplikacije na osnovi njenega datuma zagona
 
 
 ;Operating System for which this build was configured
@@ -697,3 +697,4 @@ Izberi, kaj želim deliti
 
 ;You are currently not sharing your health report with Mozilla.
 Zdravniškega spričevala trenutno ne delite z Mozillo.
+
