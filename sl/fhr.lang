@@ -83,19 +83,19 @@ onemogočeni
 
 
 ;Plugins
-Vstavki
+Vtičniki
 
 
 ;always activate
-always activate
+vedno omogoči
 
 
 ;ask to activate
-ask to activate
+vprašaj pred uporabo
 
 
 ;never activate
-never activate
+nikoli ne omogočaj
 
 
 ;Tips
@@ -107,7 +107,7 @@ Fizična obraba
 
 
 ;It looks like your browser has crashed a number of times recently. To learn more:
-Kaže, da se je vaš brskalnik v zadnjem času večkrat sesul. Več o tem:
+Kaže da se je vaš brskalnik v zadnjem času večkrat sesul. Več o tem:
 
 
 ;OFF
@@ -127,7 +127,7 @@ obiskane strani
 
 
 ;Your browser seems to be running slower than usual. To learn more:
-Kaže, da vaš brskalnik deluje počasneje kot običajno. Več o tem:
+Kaže da vaš brskalnik deluje počasneje kot običajno. Več o tem:
 
 
 ;You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
@@ -151,7 +151,7 @@ Skupaj
 
 
 ;Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
-Zagonski čas pomaga določiti, kako dobro deluje vaša različica Firefoxa. V splošnem hitrejši časi (tj. manj časa) kažejo boljšo učinkovitost delovanja.
+Zagonski čas pomaga določiti, kako dobro deluje vaša različica Firefoxa. V splošnem hitrejši časi (tj. manj časa) kažejo na boljšo učinkovitost delovanja.
 
 
 ;Data Collected
@@ -167,7 +167,7 @@ Kaj meri zdravniško spričevalo za Firefox
 
 
 ;The Firefox Health Report (FHR) has 4 categories of metrics:
-Zdravniško spričevalo za Firefox vsebuje 4 kategorije metrik:
+Zdravniško spričevalo za Firefox vsebuje 4 kategorije meritev:
 
 
 ;Configuration
@@ -214,7 +214,7 @@ Opis
 Binarni vmesnik za XPCOM
 
 
-;Identifier for this build of the application based on the date the build was started
+;Identifikator for this build of the application based on the date the build was started
 Indikator obstoječe izgradnje aplikacije na osnovi njenega datuma zagona
 
 
@@ -235,7 +235,7 @@ Različica distribucije, vzeta iz nastavitve <var>distribution.version</var>
 
 
 ;Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
-Identifikator uporabljen za aplikacijo, ki kaže, če gre za Firefox ali Thunderbird itd. Enak za vse namestitve aplikacije ne glede na vrednost <var>appName</var>
+Enolični identifikator aplikacije, ki kaže ali gre za Firefox ali Thunderbird itd. Enak za vse namestitve aplikacije ne glede na vrednost <var>appName</var>
 
 
 ;The configured name of the application (Firefox/Aurora/Nightly for instance)
@@ -267,15 +267,15 @@ Trenutno uporabljene območne nastavitve
 
 
 ;Amount of RAM in megabytes
-Količina RAM-a v megabitih
+Količina RAM v megabajtih
 
 
 ;Currently running Operating System (kernel) name
-Ime operacijskega sistema v teku (jedro)
+Ime operacijskega sistema (jedra) v teku
 
 
 ;Currently running Operating System (kernel) version
-Različica operacijskega sistema v teku (jedro)
+Različica operacijskega sistema (jedra) v teku
 
 
 ;The build identifier of the Gecko platform code
@@ -387,7 +387,7 @@ Kolikokrat je bila aplikacija zagnana in zaustavljena brez napak.
 
 
 ;Total number of crashes that were recorded but not yet submitted
-Število sesutij, ki so bila posneta, a niso bila oddana
+Število sesutij, ki so bila zabeležena, a še niso oddana
 
 
 ;Total number of crashes that have been submitted
@@ -444,127 +444,127 @@ Politika zasebnosti
 
 # The following strings are used only in the Mobile version of about:healthreport (Firefox for Android)
 ;Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
-Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
+Zdravniško spričevalo vam pomaga optimizirati Firefox, nam pa razviti še boljši brskalnik. Poročila bodo na začetku precej osnovna, potem pa se bodo razvijala in večala.
 
 
 ;Learn More&hellip;
-Learn More&hellip;
+Več o tem &hellip;
 
 
 ;Tip
-Tip
+Nasvet
 
 
 ;Looks like your Firefox is brand new! Check back after using Firefox for a while.
-Looks like your Firefox is brand new! Check back after using Firefox for a while.
+Kaže da je vaš Firefox čisto nov! Vrnite se, ko boste Firefox že uporabljali nekaj časa.
 
 
 ;Important Metrics
-Important Metrics
+Pomembne meritve
 
 
 ;Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
-Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
+Zdravniško spričevalo za Firefox beleži podatke o brskalniku in vaši napravi, ki si jih lahko tudi <a href="#raw" class="navigate">ogledate.</a> Preverite lahko tudi, katere podatke delite z Mozillo.
 
 
 ;Device hardware, operating system, Firefox version.
-Device hardware, operating system, Firefox version.
+Strojna oprema, operacijski sistem in različica Firefoxa
 
 
 ;Extensions, plugins, and number of installed add-ons.
-Extensions, plugins, and number of installed add-ons.
+Razširitve, vtičniki in številni nameščeni dodatki.
 
 
 ;Key performance measures, such as launch speed.
-Key performance measures, such as launch speed.
+Ključne meritve učinkovitosti, npr. zagonski čas.
 
 
 ;Browsing duration, install time, number of bookmarks and pages.
-Browsing duration, install time, number of bookmarks and pages.
+Trajanje brskanja, namestitveni čas, število zaznamkov in strani.
 
 
 ;Home
-Home
+Domov
 
 
 ;CPU Count:
-CPU Count:
+Število CPE:
 
 
 ;The number of CPU cores reported by Android.
-The number of CPU cores reported by Android.
+Število jeder CPE, na voljo v Androidu.
 
 
 ;Memory in MB:
-Memory in MB:
+Pomnilnik v MB:
 
 
 ;The amount of memory reported by Android. Typically excludes graphics memory.
-The amount of memory reported by Android. Typically excludes graphics memory.
+Količina pomnilnika, na voljo v Androidu. Običajno ne vsebuje grafičnega pomnilnika.
 
 
 ;Application Name:
-Application Name:
+Ime aplikacije:
 
 
 ;The internal application name for the browser.
-The internal application name for the browser.
+Ime brskalnika za interno rabo.
 
 
 ;Application ID:
-Application ID:
+ID aplikacije:
 
 
 ;The internal identifier for the application.
-The internal identifier for the application.
+ID aplikacije za interno rabo.
 
 
 ;Application Version:
-Application Version:
+Različica aplikacije:
 
 
 ;The current version of the browser
-The current version of the browser
+Trenutna različica brskalnika
 
 
 ;Application Build ID:
-Application Build ID:
+ID graditve:
 
 
 ;The internal build timestamp.
-The internal build timestamp.
+Časovni žig graditve za interno rabo.
 
 
 ;Update Channel:
-Update Channel:
+Posodobitveni kanal:
 
 
 ;Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
-Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
+Firefox je na voljo v različnih kanalih: nočne graditve (Nightly), predizdajni kanal Aurora, stabilna Beta in javne izdaje. To polje predstavlja kanal.
 
 
 ;Vendor:
-Vendor:
+Izdelovalec:
 
 
 ;The organization that built this application. Typically Mozilla.
-The organization that built this application. Typically Mozilla.
+Organizacija, ki je razvila aplikacijo. Običajno Mozilla.
 
 
 ;Platform Version:
-Platform Version:
+Različica platforme:
 
 
 ;An internal version identifier. Typically the same as appVersion.
-An internal version identifier. Typically the same as appVersion.
+Identifikator različice za interno rabo. Običajno enak appVersion.
 
 
 ;Platform Build ID:
-Platform Build ID:
+ID graditve platforme:
 
 
 ;On Android this is an alternative name for appBuildID.
-On Android this is an alternative name for appBuildID.
+Na Androidu je to drugo ime za appBuildID.
 
 
 ;xpcomabi:
@@ -572,7 +572,7 @@ xpcomabi:
 
 
 ;The CPU architecture for which this application was built.
-The CPU architecture for which this application was built.
+Arhitektura CPE, za katero je bila razvita aplikacija.
 
 
 ;OS:
@@ -580,122 +580,120 @@ OS:
 
 
 ;The current operating system.
-The current operating system.
+Trenuten operacijski sistem.
 
 
 ;Architecture:
-Architecture:
+Arhitektura:
 
 
 ;The CPU architecture for this device.
-The CPU architecture for this device.
+Arhitektura CPE na napravi.
 
 
 ;System Name:
-System Name:
+Ime sistema:
 
 
 ;The current system name.
-The current system name.
+Trenutno ime sistema.
 
 
 ;System Version:
-System Version:
+Različica sistema:
 
 
 ;The Android OS revision.
-The Android OS revision.
+Različica Android OS.
 
 
 ;Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
-Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
+Ali naj Firefox preverja, če so dodatki na črnem seznamu škodljive programske opreme. Privzeto vključeno.
 
 
 ;Telemetry Enabled:
-Telemetry Enabled:
+Telemetrija vključena:
 
 
 ;Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
-Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
+Ali naj Firefox za pomoč pri razvoju poroča podrobne podatke o uporabi. Privzeto izključeno za večino kanalov.
 
 
 ;Extension Count:
-Extension Count:
+Število razširitev:
 
 
 ;How many extension add-ons are installed.
-How many extension add-ons are installed.
+Koliko razširitev je nameščenih.
 
 
 ;Plugin Count:
-Plugin Count:
+Število vtičnikov:
 
 
 ;How many plugin add-ons are installed.
-How many plugin add-ons are installed.
+Koliko vtičnikov je nameščenih.
 
 
 ;Theme Count:
-Theme Count:
+Število tem:
 
 
 ;How many theme add-ons are installed.
-How many theme add-ons are installed.
+Koliko tem je nameščenih.
 
 
 ;Addons:
-Addons:
+Dodatki:
 
 
 ;A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
-A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
+Zbirka, ki opisuje nameščene dodatke. Ne seznamu ni vseh dodatkov, ampak samo za vtičniki, razširitve in storitve.
 
 
 ;Search Counts:
-Search Counts:
+Število iskanj:
 
 
 ;A count of how many searches you issued to each of Mozilla's partner providers.
-A count of how many searches you issued to each of Mozilla's partner providers.
+Število iskanj, ki ste jih opravili z Mozillinimi partnerskimi iskalniki.
 
 
 ;Sessions and Startup Times
-Sessions and Startup Times
+Predlogi in zagonski časi
 
 
 ;For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
-For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
+Zdravniško spričevalo za Firefox za vsako sejo beleži približno kako dolgo ste brskali (v sekundah) in ali se je seja končala običajno ali s sesutjem. Vključuje tudi zagonske čase (v milisekundah), če so na voljo.
 
 
 ;Profile Creation:
-Profile Creation:
+Izdelava profila:
 
 
 ;The day on which your browser profile was created. Counted in days since January 1st 1970.
-The day on which your browser profile was created. Counted in days since January 1st 1970.
+Dan, ko je bil izdelan profil. Preštet v dnevih od 1. januarja 1970.
 
 
 ;Learn More
-Learn More
+Več o tem
 
 
 ;Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
-Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
+Zdravniško spričevalo za Firefox analizira podatke o učinkovitosti vašega brskalnika, da bi vam lahko ponudil uporabne nasvete, kako izvleči največ iz Firefoxa. Podrobnosti o Zdravniškem spričevalu za Firefox lahko najdete na <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>Mozillinih straneh s podporo.</a>
 
 
 ;For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
-For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
+Za več informacij o ravnanju z vašimi podatki <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>preberite našo politiko zasebnosti.</a>
 
 
 ;You are currently sharing your health report with Mozilla.
-You are currently sharing your health report with Mozilla.
+Zdravniško spričevalo trenutno delite z Mozillo.
 
 
 ;Choose what I share
-Choose what I share
+Izberi, kaj želim deliti
 
 
 ;You are currently not sharing your health report with Mozilla.
-You are currently not sharing your health report with Mozilla.
-
-
+Zdravniškega spričevala trenutno ne delite z Mozillo.
