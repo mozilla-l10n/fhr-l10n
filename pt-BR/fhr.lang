@@ -484,7 +484,7 @@ Tempo de navegação, tempo instalado e número de favoritos.
 
 
 ;Home
-Home
+Home {ok}
 
 
 ;CPU Count:
@@ -568,7 +568,7 @@ No Android isto é o mesmo que appBuildID.
 
 
 ;xpcomabi:
-xpcomabi:
+xpcomabi: {ok}
 
 
 ;The CPU architecture for which this application was built.
