@@ -444,11 +444,11 @@ Firefox நல அறிக்கையின் மூலம், உங்க�
 
 # The following strings are used only in the Mobile version of about:healthreport (Firefox for Android)
 ;Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
-Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
+பயர்பொக்ஸ் நல அறிக்கை உங்களின் பயர்பொக்ஸ் உலாவியை முழுமையாகப் பயன்படுத்துவதற்கும் இன்னும் சிறந்த உலாவியை நாங்கள் உருவாக்குவதற்கும் பயன்படும். அறிக்கை தொடக்கத்தில் அடிப்படை செய்திகளை மற்றும் கொண்டிருக்கும் பின்னர் தொடர்ந்து மேம்பாடு காணும்
 
 
 ;Learn More&hellip;
-Learn More&hellip;
+மேலும் தெரிந்துகொள்ள &உதவி
 
 
 ;Tip
@@ -456,7 +456,7 @@ Learn More&hellip;
 
 
 ;Looks like your Firefox is brand new! Check back after using Firefox for a while.
-Looks like your Firefox is brand new! Check back after using Firefox for a while.
+புதிய பயர்பாக்ஸ்! சிறிது நேரம் பயன்படுத்தி பாருங்கள்.
 
 
 ;Important Metrics
@@ -464,7 +464,7 @@ Looks like your Firefox is brand new! Check back after using Firefox for a while
 
 
 ;Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
-Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
+பயர்பாக்ஸ் நல அறிக்கை உங்களுடைய உலாவி மற்றம் கருவி பற்றிய தகவலை பதிக்கிறது. இங்கே பார்த்தால்  <a href="#raw" class="navigate">நாங்கள் பதியும் தகவலை பாரக்கலாம்.</a> நீங்க மொசில்லா என்ன பகிர்ந்தீங்கனும் பார்க்கலாம்.
 
 
 ;Device hardware, operating system, Firefox version.
@@ -472,15 +472,15 @@ Firefox Health Report records information about your browser and device. You can
 
 
 ;Extensions, plugins, and number of installed add-ons.
-Extensions, plugins, and number of installed add-ons.
+நீட்டிப்புகள், கூடுதல் வசதி, மற்றும்  நீட்சிகளின் என்ணிக்கை.
 
 
 ;Key performance measures, such as launch speed.
-Key performance measures, such as launch speed.
+முக்கிய செயல்திறன் நடவடிக்கைகள், தொடக்க வேகம் போன்றவை
 
 
 ;Browsing duration, install time, number of bookmarks and pages.
-Browsing duration, install time, number of bookmarks and pages.
+உலாவும் நேரம், நிறுவும் நேரம், புத்தகக்குறிகளின் மற்றும் பக்கங்கள்
 
 
 ;Home
@@ -500,7 +500,7 @@ Browsing duration, install time, number of bookmarks and pages.
 
 
 ;The amount of memory reported by Android. Typically excludes graphics memory.
-The amount of memory reported by Android. Typically excludes graphics memory.
+அண்ட்ராய்டு மூலம் அறியப்பட்ட நினைவக அளவு. பொதுவாக வரைகலை நினைவகத்தை தவிர்க்கிறது.
 
 
 ;Application Name:
@@ -516,186 +516,184 @@ The amount of memory reported by Android. Typically excludes graphics memory.
 
 
 ;The internal identifier for the application.
-The internal identifier for the application.
+பயனபாட்டிற்க்கான உள்ளார்ந்த அடையாளம்.
 
 
 ;Application Version:
-Application Version:
+பயன்பாட்டின் பதிப்பு:
 
 
 ;The current version of the browser
-The current version of the browser
+உலாவியின் தற்ப்போதைய பதிப்பு
 
 
 ;Application Build ID:
-Application Build ID:
+பயன்பாட்டின் உருவாக்க அடையாள எண்:
 
 
 ;The internal build timestamp.
-The internal build timestamp.
+உள்ளார்ந்த உருவாக்க நேரமுத்திரை.
 
 
 ;Update Channel:
-Update Channel:
+அலைவரிசையை புதுப்பி:
 
 
 ;Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
-Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
+பயர்பாக்ஸை தடங்களில் மூலம் விநியோகிக்கப்படுகிறது: இரவு உருவாக்கங்கள், அரோரா முன் வெளியீட்டு தடம், ஒரு நிலையான பீட்டா, மற்றும் பொது வெளியீடு. இந்த புலம் தடத்தை குறிக்கும்.
 
 
 ;Vendor:
-Vendor:
+விற்பனையாளர்:
 
 
 ;The organization that built this application. Typically Mozilla.
-The organization that built this application. Typically Mozilla.
+இந்த பயன்பாடு ஒரு அமைப்பால் உருவாக்கப்பட்டது. பொதுவாக மொசில்லா.
 
 
 ;Platform Version:
-Platform Version:
+தள பதிப்பு:
 
 
 ;An internal version identifier. Typically the same as appVersion.
-An internal version identifier. Typically the same as appVersion.
+ஒரு உள்ளமைவின் பதிப்பு அடையாளம். பொதுவாக பயன்பாட்டின் பதிப்பு போன்றதே.
 
 
 ;Platform Build ID:
-Platform Build ID:
+தள உருவாக்குநரின் அடையாளம்:
 
 
 ;On Android this is an alternative name for appBuildID.
-On Android this is an alternative name for appBuildID.
+இது ஆண்ட்ராய்டில் பயன்பாட்டின் உருவாக்குநர் அடையாளத்திற்க்கான மாற்று.
 
 
 ;xpcomabi:
-xpcomabi:
+xpcomabi: {ok}
 
 
 ;The CPU architecture for which this application was built.
-The CPU architecture for which this application was built.
+மையசெயலக கட்டமைப்புக்காக இந்த பயன்பாடு உருவாக்கப்பட்டது.
 
 
 ;OS:
-OS:
+இயங்குதளம்:
 
 
 ;The current operating system.
-The current operating system.
+தற்பொதைய இயங்குதளம்.
 
 
 ;Architecture:
-Architecture:
+கட்டமைப்பு:
 
 
 ;The CPU architecture for this device.
-The CPU architecture for this device.
+இந்த கருவிக்கான மைய செயலக கட்டமைப்பு.
 
 
 ;System Name:
-System Name:
+கணினி பெயர்:
 
 
 ;The current system name.
-The current system name.
+நடப்பிலுள்ள கணினி பெயர்.
 
 
 ;System Version:
-System Version:
+கணினியின் பதிப்பு எண்:
 
 
 ;The Android OS revision.
-The Android OS revision.
+ஆண்ட்ராய்டு இயங்குதளத்தின் திருத்தம்.
 
 
 ;Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
-Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
+உங்களை பாதுகாப்பற்ற நீட்சிகளிடமிருந்து காக்க பயர்பாக்ஸ்  நீட்சிகளின் தடுப்புபட்டியலை பெறுகிறதா. இயல்புநிலையில் செயல்பாடும் படி இருக்கும்.
 
 
 ;Telemetry Enabled:
-Telemetry Enabled:
+டெலிமெட்ரி இயக்கப்பட்டது:
 
 
 ;Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
-Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
+பயர்பாக்ஸானது விவரமான பயன்பாட்டு தரவு அறிக்கையை உருவாக்கத்திற்கு உதவும் வகையில் அளிக்கிறதா. பெரும்பாலான தடங்களில் இயல்பாக முடங்கியிருக்கும்.
 
 
 ;Extension Count:
-Extension Count:
+நீட்சிகளின் எண்ணிக்கை:
 
 
 ;How many extension add-ons are installed.
-How many extension add-ons are installed.
+எவ்வளவு நீட்சிகள் நிறுவப்பட்டுள்ளன.
 
 
 ;Plugin Count:
-Plugin Count:
+செருகிகளின் எண்ணிக்கை:
 
 
 ;How many plugin add-ons are installed.
-How many plugin add-ons are installed.
+எவ்வளவு நீட்சிகள் நிறுவப்பட்டுள்ளன.
 
 
 ;Theme Count:
-Theme Count:
+தோற்றங்களின் எண்ணிக்கை:
 
 
 ;How many theme add-ons are installed.
-How many theme add-ons are installed.
+எவ்வளவு நீட்சிகள் நிறுவப்பட்டுள்ளன.
 
 
 ;Addons:
-Addons:
+நீட்சிகள்:
 
 
 ;A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
-A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
+நிறுவப்பட்ட துணை நிரல்களை வரையறுக்கும் களஞ்சியம். அனைத்து துணை நிரல்களும் தெறிவிப்பதில்லை: செருகிகள், நீட்சிகள், மற்றும் சேவைகள் மட்டும்தான்.
 
 
 ;Search Counts:
-Search Counts:
+தேடலின் எண்ணிக்கைகள்:
 
 
 ;A count of how many searches you issued to each of Mozilla's partner providers.
-A count of how many searches you issued to each of Mozilla's partner providers.
+ஒவ்வொரு மொசில்லா கூட்டாளி வழங்குநர்களுக்கும் எத்தனை எண்ணிக்கையிலான தேடுல்களை நீங்கள் ஒப்படைத்தீர்கள்.
 
 
 ;Sessions and Startup Times
-Sessions and Startup Times
+அமர்வுகள் மற்றும் தொடக்க நேரங்கள்
 
 
 ;For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
-For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
+ஒவ்வொரு தேடுலின் அமர்வுக்கும், பயர்பாக்ஸ் நல அறிக்கையானது எவ்வளவு நேரம் நீங்கள் இணையத்தில் உலாவியிருக்கிறீர்கள் (நொடிகளில்), மற்றும் அமர்வானது முறையாக முடிவடைந்ததா அல்லது ஒரு செயலிழப்பாலா என்பதை பதிவு செய்கிறது. இது மேலும் தொடக்க நேரங்களையும் (நொடிகளில்) வைத்திருக்கிறது.
 
 
 ;Profile Creation:
-Profile Creation:
+விவரக்குறிப்பு உருவாக்கம்:
 
 
 ;The day on which your browser profile was created. Counted in days since January 1st 1970.
-The day on which your browser profile was created. Counted in days since January 1st 1970.
+உங்கள் உலாவியின் விவரக்குறிப்பு உருவாக்கப்பட்ட நாள். 1ஆம் திகதி ஜனவரி 1970-இல் இருந்து கணக்கிடப்படுகிறது.
 
 
 ;Learn More
-Learn More
+மேலும் அறிய
 
 
 ;Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
-Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
+மேலும் அறிய
 
 
 ;For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
-For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
+உங்கள் தரவுகளை நாங்கள் எப்படி கையாளுகிறோம் என்பதை அறிய , <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>எங்களுடைய தனியுரிம கொள்கையை பார்க்கவும்.</a>
 
 
 ;You are currently sharing your health report with Mozilla.
-You are currently sharing your health report with Mozilla.
+நீங்கள் தற்போது உங்களுடைய உலாவியின் நல அறிக்கையை மொசில்லாவுடன் பகிர்கிறீர்கள்.
 
 
 ;Choose what I share
-Choose what I share
+நான் தேர்ந்தெடுத்ததை பகிரவும்
 
 
 ;You are currently not sharing your health report with Mozilla.
-You are currently not sharing your health report with Mozilla.
-
-
+நீங்கள் தற்போது உங்களுடைய உலாவியின் நல அறிக்கையை மொசில்லாவுடன் பகிரவில்லை.
