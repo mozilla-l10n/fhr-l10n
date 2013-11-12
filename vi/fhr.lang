@@ -444,258 +444,256 @@ Chính sách Riêng tư
 
 # The following strings are used only in the Mobile version of about:healthreport (Firefox for Android)
 ;Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
-Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
+Báo cáo về Firefox cho phép bạn tinh chỉnh và giúp chúng tôi xây dựng một trình duyệt tuyệt vời hơn. Các báo cáo ban sẽ đơn giản nhưng sẽ tiếp tục tăng dần.
 
 
 ;Learn More&hellip;
-Learn More&hellip;
+Tìm hiểu thêm...
 
 
 ;Tip
-Tip
+Mẹo
 
 
 ;Looks like your Firefox is brand new! Check back after using Firefox for a while.
-Looks like your Firefox is brand new! Check back after using Firefox for a while.
+Có vẻ như Firefox của bạn là phiên bản hoàn toàn mới! Kiểm tra lại điều này sau khi sử dụng Firefox một thời gian.
 
 
 ;Important Metrics
-Important Metrics
+Số liệu quan trọng
 
 
 ;Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
-Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
+Firefox Health Report lưu thông tin về trình duyệt và thiết bị của bạn. Bạn có thể <a href="#raw" class="navigate">xem thông tin mà bạn lưu.</a> Bạn cũng có thể xem những thông tin bạn chia sẻ với Mozilla.
 
 
 ;Device hardware, operating system, Firefox version.
-Device hardware, operating system, Firefox version.
+Phần cứng, hệ điều hành, phiên bản Firefox.
 
 
 ;Extensions, plugins, and number of installed add-ons.
-Extensions, plugins, and number of installed add-ons.
+Phần mở rộng, plugin, và số lượng các add-on được cài đặt.
 
 
 ;Key performance measures, such as launch speed.
-Key performance measures, such as launch speed.
+Kiểm tra các hiệu năng chính, chẳng hạn như tốc độ khởi động.
 
 
 ;Browsing duration, install time, number of bookmarks and pages.
-Browsing duration, install time, number of bookmarks and pages.
+Thời gian duyệt, thời gian cài đặt, số lượng trang ưa thích.
 
 
 ;Home
-Home
+Trang chủ
 
 
 ;CPU Count:
-CPU Count:
+Số lượng CPU:
 
 
 ;The number of CPU cores reported by Android.
-The number of CPU cores reported by Android.
+Số lượng CPU core mà Android tìm thấy.
 
 
 ;Memory in MB:
-Memory in MB:
+Dung lượng tính bằng MB:
 
 
 ;The amount of memory reported by Android. Typically excludes graphics memory.
-The amount of memory reported by Android. Typically excludes graphics memory.
+Báo cáo dung lượng bộ nhớ từ Android. Thông thường không bao gồm bộ nhớ đồ họa.
 
 
 ;Application Name:
-Application Name:
+Tên ứng dụng:
 
 
 ;The internal application name for the browser.
-The internal application name for the browser.
+Tên ứng dụng cài đặt sẵn trong trình duyệt.
 
 
 ;Application ID:
-Application ID:
+ID ứng dụng:
 
 
 ;The internal identifier for the application.
-The internal identifier for the application.
+Bộ nhận diện internal cho ứng dụng.
 
 
 ;Application Version:
-Application Version:
+Phiên bản ứng dụng:
 
 
 ;The current version of the browser
-The current version of the browser
+Phiên bản hiện tại của trình duyệt
 
 
 ;Application Build ID:
-Application Build ID:
+ID xây dựng ứng dụng:
 
 
 ;The internal build timestamp.
-The internal build timestamp.
+Timestamp xây dựng internal.
 
 
 ;Update Channel:
-Update Channel:
+Cập nhật kênh:
 
 
 ;Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
-Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
+Firefox được phân bố thông qua các kênh: Nightly, Aurora, bản Beta ổn định, và phát hành công khai. Trường này để xác định một trong các kênh đó. 
 
 
 ;Vendor:
-Vendor:
+Nhà sản xuất:
 
 
 ;The organization that built this application. Typically Mozilla.
-The organization that built this application. Typically Mozilla.
+Tổ chức xây dựng ứng dụng. Tiêu biểu là Mozilla.
 
 
 ;Platform Version:
-Platform Version:
+Phiên bản nền tảng:
 
 
 ;An internal version identifier. Typically the same as appVersion.
-An internal version identifier. Typically the same as appVersion.
+Bộ nhận diện phiên bản internal. Thường giống như là appVersion.
 
 
 ;Platform Build ID:
-Platform Build ID:
+ID kiến trúc nền tảng:
 
 
 ;On Android this is an alternative name for appBuildID.
-On Android this is an alternative name for appBuildID.
+Trên Android có thể chọn một tên khác cho appBuildID.
 
 
 ;xpcomabi:
-xpcomabi:
+xpcomabi: {ok}
 
 
 ;The CPU architecture for which this application was built.
-The CPU architecture for which this application was built.
+Kiến trúc CPU cho ứng dụng này đã được xây dựng.
 
 
 ;OS:
-OS:
+Hệ điều hành:
 
 
 ;The current operating system.
-The current operating system.
+Hệ điều hành hiện tại.
 
 
 ;Architecture:
-Architecture:
+Kiến trúc:
 
 
 ;The CPU architecture for this device.
-The CPU architecture for this device.
+Kiến trúc CPU cho thiết bị.
 
 
 ;System Name:
-System Name:
+Tên hệ thống:
 
 
 ;The current system name.
-The current system name.
+Tên hệ thống hiện tại.
 
 
 ;System Version:
-System Version:
+Phiên bản hệ thống:
 
 
 ;The Android OS revision.
-The Android OS revision.
+Hiệu chỉnh hệ điều hành Android.
 
 
 ;Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
-Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
+Firefox lấy kết quả từ danh sách các add-on bị chặn để bảo vệ bạn khỏi các add-on độc hại. Mặc định là được bật.
 
 
 ;Telemetry Enabled:
-Telemetry Enabled:
+Telemetry đã kích hoạt:
 
 
 ;Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
-Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
+Firefox báo cáo chi tiết dữ liệu sử dụng để giúp cho việc phát triển. Mặc định là tắt ở hầu hết các kênh.
 
 
 ;Extension Count:
-Extension Count:
+Số lượng phần mở rộng:
 
 
 ;How many extension add-ons are installed.
-How many extension add-ons are installed.
+Có bao nhiêu add-on mở rộng đã được cài đặt.
 
 
 ;Plugin Count:
-Plugin Count:
+Số lượng plugin:
 
 
 ;How many plugin add-ons are installed.
-How many plugin add-ons are installed.
+Có bao nhiêu các add-on plugin được cài đặt.
 
 
 ;Theme Count:
-Theme Count:
+Số lượng chủ đề:
 
 
 ;How many theme add-ons are installed.
-How many theme add-ons are installed.
+Có bao nhiêu add-on chủ đề được cài đặt.
 
 
 ;Addons:
-Addons:
+Addon:
 
 
 ;A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
-A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
+Một tập hợp mô tả các add-on đã cài đặt. Không phải tất cả các add-on được báo cáo: chỉ có plugin, phần mở rộng, và dịch vụ.
 
 
 ;Search Counts:
-Search Counts:
+Số lượng tìm kiếm:
 
 
 ;A count of how many searches you issued to each of Mozilla's partner providers.
-A count of how many searches you issued to each of Mozilla's partner providers.
+Số lượng các tìm kiếm mà bạn cấp cho mỗi nhà cung cấp đối tác của Mozilla.
 
 
 ;Sessions and Startup Times
-Sessions and Startup Times
+Thời gian khởi động và phiên làm việc
 
 
 ;For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
-For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
+Mỗi phiên làm việc, Firefox Health Report lưu khoảng thời gian (tính bằng giây) mà bạn làm việc trên trình duyệt, và thời gian mà phiên làm việc kết thúc một cách bình thường hoặc do bị đổ vỡ. Cũng có thể bao gồm cả thời gian khởi động (tính bằng mili giây).
 
 
 ;Profile Creation:
-Profile Creation:
+Tạo hồ sơ:
 
 
 ;The day on which your browser profile was created. Counted in days since January 1st 1970.
-The day on which your browser profile was created. Counted in days since January 1st 1970.
+Ngày tạo hồ sơ trình duyệt của bạn. Tính từ ngày 1 tháng một năm 1970.
 
 
 ;Learn More
-Learn More
+Tìm hiểu thêm
 
 
 ;Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
-Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
+Firefox Health Report (FHR) phân tích thông tin hiệu năng trình duyệt của bạn, để cung cấp cho bạn các cách sử dụng trình duyệt Firefox hiệu quả nhất. Để biết thêm thông tin về Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>xem trong phần Hỗ trợ Mozilla.</a>
 
 
 ;For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
-For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
+Để biết thêm thông tin về cách chúng tôi xử lý dữ liệu của bạn, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>xem trong phần chính sách bảo mật.</a>
 
 
 ;You are currently sharing your health report with Mozilla.
-You are currently sharing your health report with Mozilla.
+Bạn đang chia sẻ health report của bạn với Mozilla.
 
 
 ;Choose what I share
-Choose what I share
+Chọn những thứ bạn muốn chia sẻ
 
 
 ;You are currently not sharing your health report with Mozilla.
-You are currently not sharing your health report with Mozilla.
-
-
+Bạn đang không chia sẻ health report của bạn với Mozilla.
