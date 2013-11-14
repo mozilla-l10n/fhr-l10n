@@ -1,13 +1,13 @@
-;Firefox Health Report
-تقرير فيرفكس الصحي
+﻿;Firefox Health Report
+تقرير فَيَرفُكس الصحي
 
 
 ;Raw Data
-بيانات خامة
+بيانات خام
 
 
 ;Get insights and performance information about your version of Firefox.
-احصل على معلومات أداء وخفايا نسختك من فيرفكس.
+احصل على معلومات حول أداء الإصدار الذي تستخدمه من فَيَرفُكس.
 
 
 ;Learn more...
@@ -19,31 +19,31 @@
 
 
 ;ON
-مشغل
+مُشغل
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
-لقد اخترت التوقف عن مشاركة البيانات مع موزيلا، لكنك ستبقى دائما على اطلاع على أداء المتصفح.
+لقد اخترت إيقاف مشاركة البيانات مع موزيلا، لكنه سيبقى بإمكانك الاطلاع على أداء المتصفح.
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
-ستُحذف بيانات تقريرك الصحي من خوادم موزيلا أيضا. اعرف المزيد في صفحة <a href="%(privacy_url)s">سياسة الخصوصية.</a>
+ستُحذف بيانات تقريرك الصحي من خادومات موزيلا أيضًا. اعرف المزيد في صفحة <a href="%(privacy_url)s">سياسة الخصوصية.</a>
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
-لقد اخترت مشاركة البيانات مع موزيلا، شكرا لكونك طرفا في مهمتنا لبناء مستقبل مشع للوب.
+لقد اخترت مشاركة البيانات مع موزيلا، شكرا لكونك طرفًا في مهمتنا لبناء مستقبل أبهى للوب.
 
 
 ;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
-تعلم أكثر كيف تتحكم ببياناتك في <a href="%(privacy_url)s">سياسة الخصوصية.</a>
+تعلم أكثر كيف تتحكم ببياناتك بقراءتك لـ<a href="%(privacy_url)s">سياسة الخصوصية.</a>
 
 
 ;Vital Stats
-إحصائيات هامة
+إحصائيات حيوية
 
 
 ;version
-النسخة
+الإصدار
 
 
 ;time open
@@ -83,19 +83,19 @@
 
 
 ;Plugins
-الملحقات
+المُلحقات
 
 
 ;always activate
-always activate
+فعّل باستمرار
 
 
 ;ask to activate
-ask to activate
+استأذن للتفعيل
 
 
 ;never activate
-never activate
+لا تفعّل أبدًا
 
 
 ;Tips
@@ -107,11 +107,11 @@ never activate
 
 
 ;It looks like your browser has crashed a number of times recently. To learn more:
-يبدو أن متصفحك انهار عدة مرات مؤخرا. لمعرفة المزيد:
+يبدو أن متصفحك انهار عدة مرات مؤخرًا. لمعرفة المزيد:
 
 
 ;OFF
-متوقف
+مطفأ
 
 
 ;Visit our <a href="%(sumo_url)s">support website</a>
@@ -123,19 +123,19 @@ never activate
 
 
 ;pages visited
-الصفحات المزارة
+الصفحات التي تمت زيارتها
 
 
 ;Your browser seems to be running slower than usual. To learn more:
-يبدو متصفحك أبطأ من المعتاد، لمعرفة المزيد:
+يبدو أن متصفحك أبطأ من المُعتاد، لمعرفة المزيد:
 
 
 ;You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
-ستكون قادرا على الاطلاع على تقارير أكثر تفصيلا وأهمية كلما استخدمت متصفّحك أكثر. عُد بعد أسبوعين من أجل الاطلاع على بعض الإحصائيات.
+ستكون قادرا على الاطلاع على تقارير أكثر تفصيلا وأهمية كلما استخدمت متصفّحك أكثر. رجاء عُد بعد أسبوعين من أجل الاطلاع على بعض الإحصائيات.
 
 
 ;Startup Time by Day
-وقت الإقلاع حسب اليوم
+مدة الإقلاع حسب اليوم
 
 
 ;Graph:
@@ -143,7 +143,7 @@ never activate
 
 
 ;Average
-المتوسط
+المُتوسط
 
 
 ;All
@@ -151,23 +151,23 @@ never activate
 
 
 ;Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
-يساعد وقت الإقلاع على تحديد مستوى أداء متصفحك. بصفة عامة، سرعة في الإقلاع (أي زمن أقل) تشير لأداء أفضل.
+تساعد مدة الإقلاع على تحديد مستوى أداء متصفحك. بصفة عامة، الإقلاع الأسرع (أي بزمن أقل) دليل على أداء أفضل.
 
 
 ;Data Collected
-البيانات المُحصاة
+البيانات التي جُمعت
 
 
 ;Glossary
-المعجم
+المُعجم
 
 
 ;What the Firefox Health Report Measures
-ما معايير الأداء التي يتابعها التقرير؟
+ماهي معايير الأداء التي يقيسها التقرير؟
 
 
 ;The Firefox Health Report (FHR) has 4 categories of metrics:
-تقرير أداء فايرفوكس مبني علي أربعة معايير رئيسة
+تقرير أداء فَيَرفُكس مبني علي أربعة معايير رئيسة
 
 
 ;Configuration
@@ -175,7 +175,7 @@ never activate
 
 
 ;Device hardware, operating system, Firefox version
-عتاد الجهاز، نظام التشغيل، إصدار فيرفكس
+عتاد الجهاز، نظام التشغيل، إصدار فَيَرفُكس
 
 
 ;Customizations
@@ -183,7 +183,7 @@ never activate
 
 
 ;Add-ons, count and type
-الإضافات، العدد والنوع
+الإضافات، عددها ونوعها
 
 
 ;Performance
@@ -203,7 +203,7 @@ never activate
 
 
 ;Metric
-متري
+المقياس
 
 
 ;Description
@@ -215,7 +215,7 @@ never activate
 
 
 ;Identifier for this build of the application based on the date the build was started
-معرّف عملية بناء هذا التطبيق، اعتمادا على تاريخ بداية البناء
+معرّف عملية بناء هذا التطبيق، اعتمادًا على تاريخ بداية البناء
 
 
 ;Operating System for which this build was configured
@@ -223,11 +223,11 @@ never activate
 
 
 ;Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
-معرّف توزيعة محدّدة مستخدمة من طرف التطبيق، مأخوذا من إعدادات <var>distribution.id</var>
+معرّف التوزيعة المحدّدة من التطبيق قيد الاستخدام، مأخوذا من إعدادات <var>distribution.id</var>
 
 
 ;Version of the distribution, taken from the <var>distribution.version</var> preference
-إصدار التوزيعة، مأخوذا من  إعدادات <var>distribution.version</var>
+إصدار التوزيعة، مأخوذا من إعدادات <var>distribution.version</var>
 
 
 ;The version number of any Mozilla hotfix applied to the application
@@ -235,15 +235,15 @@ never activate
 
 
 ;Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
-المعرّف الخاص بالتطبيق والذي يحدد أهو فيرفكس أم ثندربرد إلخ.  هذا المعرّف لا يتغير مع تثبيتات التطبيق بغض النظر عن قيمة  <var>appName</var>
+المعرّف الخاص بالتطبيق والذي يحدد إن كان الأمر يتعلق بفَيَرفُكس أم بثندربرد إلخ. هذا المعرّف لا يتغير مع تثبيتات التطبيق بغض النظر عن قيمة <var>appName</var>
 
 
 ;The configured name of the application (Firefox/Aurora/Nightly for instance)
-الاسم المهيأ للتطبيق (فيرفكس/أورورا/الإصدار الليلي مثلا)
+الاسم المهيأ للتطبيق (فَيَرفُكس/أورورا/الإصدار الليلي مثلا)
 
 
 ;The channel this installation checks for application updates (nightly/aurora/beta/release)
-القناة التي يتحقق منها هذا التثبيت بشأن تحديثات التطبيق
+القناة التي يقوم من خلالها هذا التثبيت بالتحقق من تحديثات التطبيق (فَيَرفُكس/أورورا/الإصدار الليلي مثلا)
 
 
 ;The name of the company/provider who built this version
@@ -255,15 +255,15 @@ never activate
 
 
 ;Number of processor cores
-عدد أنوية المعالج
+عدد أنوية المُعالج
 
 
 ;Whether the application is currently configured to be the default browser for the operating system
-ما إذا تم إعداد التطبيق ليكون المتصفح المبدئي لنظام التشغيل
+ما إذا ضُبط التطبيق ليكون المتصفح المبدئي لنظام التشغيل
 
 
 ;Locale currently being used
-الموقع المستخدم حاليا
+اللغة المستخدمة حاليًا
 
 
 ;Amount of RAM in megabytes
@@ -271,11 +271,11 @@ never activate
 
 
 ;Currently running Operating System (kernel) name
-اسم (نواة) نظام التشغيل المستخدم حاليا
+اسم (نواة) نظام التشغيل قيد الاستخدام
 
 
 ;Currently running Operating System (kernel) version
-إصدار (نواة) نظام التشغيل المستخدم حاليا
+إصدار (نواة) نظام التشغيل قيد الاستخدام
 
 
 ;The build identifier of the Gecko platform code
@@ -287,7 +287,7 @@ never activate
 
 
 ;Processor architecture
-بنية المعالج
+بُنية المعالج
 
 
 ;The date this version was first used with this installation profile
@@ -307,39 +307,39 @@ never activate
 
 
 ;Whether this add-on was installed by the user or automatically by another application
-ما إذا ثبّت مستخدم هذه الإضافة، أو ثبّتها تطبيق آخر آليا
+ما إذا كان المُستخدم هو من ثبّت هذه الإضافة أو أن تطبيقًا آخر ثبّتها آليًا
 
 
 ;Whether this add-on has native code.
-ما إذا كان لهذه الإضافة كود أصلي
+ما إذا كان لهذه الإضافة كود أصيل
 
 
 ;The identifier of this add-on as defined by the add-on developer
-معرّف هذه الإضافة كما حدّده المطوّر
+معرّف هذه الإضافة كما ضبطه المطوّر
 
 
 ;The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
-أحدث تاريخ ثبّتت فيه هذه الإضافة (لا يُحتفظ بالمعلومات السابقة لإضافة ألغي تثبيتها)
+أحدث تاريخ ثُبّتت هذه الإضافة فيه (لا يُحتفظ بالمعلومات السابقة لإضافة ألغي تثبيتها)
 
 
 ;The number of searches performed with this search engine from this part of the UI
-عدد عمليات البحث المنجزة مع محرّك البحث هذا، انطلاقا من هذا الجزء من واجهة الاستخدام
+عدد عمليات البحث التي جرت باستخدام محرّك البحث هذا من هذا الجزء من واجهة المُستخدم
 
 
 ;Whether this add-on was installed in the application directory or profile directory
-هل ثُبّتت هذه الإضافة في مجلد التطبيقات أم مجلد الصفحة التعريفية
+ما إذا ثُبّتت هذه الإضافة في مجلد التطبيق أم في مجلد الملف الشخصي 
 
 
 ;Whether this add-on is an extension or a plug-in
-هل هذه الإضافة امتداد أم ملحق
+ما إذا كان الأمر مُتعلقًا بإضافة أم بملحق
 
 
 ;The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
-أحدث تاريخ لتحديث الإضافة (لا يُحتفظ بالمعلومات السابقة لإضافة ألغي تثبيتها)
+أحدث تاريخ حُدّثت الإضافة فيه (لا يُحتفظ بالمعلومات السابقة لإضافة ألغي تثبيتها)
 
 
 ;<var>True</var> if the user manually disabled the add-on
-<var>صحيح</var> إن ألغى المستخدم الإضافة يدويا
+<var>صحيح</var> إن كان المستخدم قد عطّل الإضافة يدويًا
 
 
 ;The current version of this add-on
@@ -347,59 +347,58 @@ never activate
 
 
 ;How long in milliseconds it took during startup for the application to render the UI and display the window
-المدة المستغرقة بالميلي ثانية، أثناء الإقلاع، لكي يقدم التطبيق واجهة المستخدم ويعرض النافذة
+المدة المستغرقة (بالميلي ثانية)، التي استغرقها التطبيق أثناء الإقلاع لتصيير واجهة المستخدم ولعرض النافذة
 
 
 ;How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
-المدة المستغرقة بالميلي ثانية، أثناء الإقلاع، لكي يحمّل التطبيق المكتبات وينهي التهيئة الأساسية
+المدة المستغرقة (بالميلي ثانية)، التي استغرقها التطبيق أثناء الإقلاع لتحميل المكتبات ولإنهاء التهيئة الأساسية
 
 
 ;How long in milliseconds it took during startup for the application to restore tabs from the previous session
-المدة المستغرقة بالميلي ثانية، أثناء الإقلاع، لكي يستعيد التطبيق الألسنة من الجلسة السابقة
-
+المدة المستغرقة (بالميلي ثانية)، التي استغرقها التطبيق أثناء الإقلاع لاستعادة الألسنة من الجلسة السابقة
 
 ;The number of times the application was run and not cleanly shut down.
-عدد المرات التي أُغلق التطبيق فيها وهو يعمل بشكل غير عادي
+عدد المرات التي تم تشغيل التطبيق وإغلاقه فيها بشكل غير عادي.
 
 
 ;The time in seconds that the aborted sessions were not idle
-الوقت بالثواني للجلسة المجهضة وهي غير خاملة
+المُدة (بالثواني) التي لم تكن فيها الجلسات المجهضة خاملة
 
 
 ;The time in seconds that the aborted sessions were running
-الوقت بالثواني للجلسة المجهضة وهي في طور الاشتغال
+المُدة (بالثواني) التي كانت فيها الجلسات المجهضة قيد التشغيل
 
 
 ;The number of days since this application profile directory was created
-عدد الأيام منذ إنشاء تطبيق مجلد الملف الشخصي
+عدد الأيام التي مضت منذ تاريخ إنشاء مجلد الملف الشخصي للتطبيق
 
 
 ;The number of times the application was run and cleanly shut down.
-عدد المرات والتطبيق أوقف بشكل عادي وهو يعمل
+عدد المرات التي تم فيها تشغيل التطبيق وإيقافه بشكل صحيح.
 
 
 ;The time in seconds that the completed sessions were not idle
-الوقت بالثواني للجلسة المنتهية وهي غير خاملة
+المدة (بالثواني) التي كانت فيها الجلسات المنتهية غير خاملة
 
 
 ;The time in seconds that the completed sessions were running
-الوقت بالثواني للجلسة المنتهية وهي في طور الاشتغال
+المدة (بالثواني) التي استغرقتها الجلسات المنتهية
 
 
 ;Total number of crashes that were recorded but not yet submitted
-مجموع الانهيارات المسجلة وغير المرسلة بعد
+مجموع الانهيارات المسجلة والتي لم تُرسَل بعد
 
 
 ;Total number of crashes that have been submitted
-مجموع الانهيارات المرسًلة
+مجموع الانهيارات التي أُرسلت
 
 
 ;Time in seconds the app has not been idle
-الوقت بالثواني منذ صار التطبيق غير خامل
+المدة (بالثواني) التي لم يكن التطبيق فيها خاملًا
 
 
 ;Time in seconds since the app was last started
-الوقت بالثواني منذ آخر تشغيل للتطبيق
+المدة (بالثواني) منذ آخر تشغيل للتطبيق
 
 
 ;Total number of bookmarks
@@ -411,19 +410,19 @@ never activate
 
 
 ;How long in minutes the current session has been running
-المدة بالدقائق منذ بدء اشتغال الجلسة الحالية
+المدة (بالدقائق) منذ بدء انطلاق الجلسة الحالية
 
 
 ;Welcome to your Firefox Health Report
-مرحبًا بك مع تقرير فيرفكس الصحي
+أهلا بك في تقرير فَيَرفُكس الصحي
 
 
 ;Welcome!
-مرحبًا
+أهلا بك
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
-يمكّنك تقرير فيرفكس الصحي من التعرف على أداء متصفحك فيرفكس، والسبيل لتحسينه.
+يُمكّنك تقرير فَيَرفُكس الصحي من التعرف على أداء متصفحك فَيَرفُكس، وما الذي يُمكنك القيام به لتحسينه.
 
 
 ;See My Report
@@ -444,258 +443,256 @@ never activate
 
 # The following strings are used only in the Mobile version of about:healthreport (Firefox for Android)
 ;Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
-Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
+يسمح لك تقرير فَيَرفُكس الصحي بتحسين أداء المُتصفح كما أنه يُمكننا من بناء متصفح أفضل. ستكون التقارير بسيطة في مرحلة أولية، لكن ستتحسن بشكل مُستمر.
 
 
 ;Learn More&hellip;
-Learn More&hellip;
-
+اطّلع على المزيد
 
 ;Tip
-Tip
+تلميحات
 
 
 ;Looks like your Firefox is brand new! Check back after using Firefox for a while.
-Looks like your Firefox is brand new! Check back after using Firefox for a while.
+يبدو بأنك ثبتّ فَيَرفُكس لتوّك، تحقق لاحقًا بعد استخدامك للمُتصفح لبعض الوقت.
 
 
 ;Important Metrics
-Important Metrics
+المقياسات المُهمة
 
 
 ;Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
-Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
+يسجل تقرير فَيَرفُكس الصحي معلومات عن مُتصفحك وجهازك. بإمكانك. <a href="#raw" class="navigate">الاطّلاع على البيانات التي نقوم بتسجيلها.</a> بإمكانك أيضا الاطلاع على البيانات التي تتشاركها مع موزيلا.
 
 
 ;Device hardware, operating system, Firefox version.
-Device hardware, operating system, Firefox version.
+نوع الجهاز، نظام التشغيل، إصدار فَيَرفُكس.
 
 
 ;Extensions, plugins, and number of installed add-ons.
-Extensions, plugins, and number of installed add-ons.
-
+امتدادات وملحقات وعدد الإضافات المُثبتة.
 
 ;Key performance measures, such as launch speed.
-Key performance measures, such as launch speed.
+مقاييس الأداء الرئيسية مثل سرعة الإقلاع.
 
 
 ;Browsing duration, install time, number of bookmarks and pages.
-Browsing duration, install time, number of bookmarks and pages.
+مُدّة التصفح، وقت التثبيت، عدد العلامات والصفحات.
 
 
 ;Home
-Home
+الرئيسية
 
 
 ;CPU Count:
-CPU Count:
+عدد المُعالجات:
 
 
 ;The number of CPU cores reported by Android.
-The number of CPU cores reported by Android.
+عدد أنوية المُعالجات المُعلن عنها من طرف أندرويد.
 
 
 ;Memory in MB:
-Memory in MB:
+الذاكرة بالميغابايت:
 
 
 ;The amount of memory reported by Android. Typically excludes graphics memory.
-The amount of memory reported by Android. Typically excludes graphics memory.
+مقدار الذاكرة المُعلن عنها من طرف أندرويد. عادة ما يتم استثناء الذاكرة الرسومية.
 
 
 ;Application Name:
-Application Name:
+اسم التطبيق:
 
 
 ;The internal application name for the browser.
-The internal application name for the browser.
+اسم المُتصفح الداخلي.
 
 
 ;Application ID:
-Application ID:
+مُعرف التطبيق:
 
 
 ;The internal identifier for the application.
-The internal identifier for the application.
+المُعرف الداخلي للتطبيق.
 
 
 ;Application Version:
-Application Version:
+إصدار التطبيق:
 
 
 ;The current version of the browser
-The current version of the browser
+الإصدار الحالي للمتصفح
 
 
 ;Application Build ID:
-Application Build ID:
+مُعرف بناء المتصفح:
 
 
 ;The internal build timestamp.
-The internal build timestamp.
+الطابع الزمني الداخلي الخاص بعملية البناء.
 
 
 ;Update Channel:
-Update Channel:
+قناة التحديث:
 
 
 ;Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
-Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
+يتم توزيع فَيَرفُكس عبر قنوات: البناءات الليلية، قناة أورورا الخاصة بالإصدارات ما قبل النهائية، الإصدارات التجريبية المستقرة، إضافة إلى الإصدارات النهائية. يحدد هذا الحقل القناة المعنية بالأمر.
 
 
 ;Vendor:
-Vendor:
+البائع:
 
 
 ;The organization that built this application. Typically Mozilla.
-The organization that built this application. Typically Mozilla.
+المنظمة التي قامت ببناء التطبيق. يُفترض أن تكون موزيلا هي التي قامت بذلك.
 
 
 ;Platform Version:
-Platform Version:
+إصدار المنصة:
 
 
 ;An internal version identifier. Typically the same as appVersion.
-An internal version identifier. Typically the same as appVersion.
+مُعرف الإصدار الداخلي. عادة ما يكون مُطابقا لـ appVersion.
 
 
 ;Platform Build ID:
-Platform Build ID:
+مُعرف بناء المنصة:
 
 
 ;On Android this is an alternative name for appBuildID.
-On Android this is an alternative name for appBuildID.
+مُرادف لـ appBuildID على أندرويد.
 
 
 ;xpcomabi:
-xpcomabi:
+xpcomabi: 
 
 
 ;The CPU architecture for which this application was built.
-The CPU architecture for which this application was built.
+معمارية المُعالج التي بُني التطبيق من أجلها.
 
 
 ;OS:
-OS:
+نظام التشغيل:
 
 
 ;The current operating system.
-The current operating system.
+نظام التشغيل الحالي.
 
 
 ;Architecture:
-Architecture:
+المعمارية:
 
 
 ;The CPU architecture for this device.
-The CPU architecture for this device.
+معمارية المُعالج على الجهاز الحالي.
 
 
 ;System Name:
-System Name:
+اسم النظام:
 
 
 ;The current system name.
-The current system name.
+اسم النظام الحالي.
 
 
 ;System Version:
-System Version:
+إصدار النظام:
 
 
 ;The Android OS revision.
-The Android OS revision.
+رقم إصدار نظام أندرويد.
 
 
 ;Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
-Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
+ما إذا كان فَيَرفُكس يستخرج قائمة الإضافات المحظورة لحمايتك من الإضافات الخبيثة. خاصية مُفعلة بشكل مبدئي. 
 
 
 ;Telemetry Enabled:
-Telemetry Enabled:
+تفعيل القياس عن بُعد:
 
 
 ;Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
-Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
+ما إذا كان فَيَرفُكس يقوم بإرسال بيانات حول الاستخدام لتسهيل مهمة التطوير. مُعطلة بشكل مبدئي مع أغلب القنوات.
 
 
 ;Extension Count:
-Extension Count:
+عدد الامتدادات:
 
 
 ;How many extension add-ons are installed.
-How many extension add-ons are installed.
+عدد الامتدادات المثبتة.
 
 
 ;Plugin Count:
-Plugin Count:
+عدد المُلحقات:
 
 
 ;How many plugin add-ons are installed.
-How many plugin add-ons are installed.
+عدد المُلحقات والإضافات المثبتة.
 
 
 ;Theme Count:
-Theme Count:
+عدد السمات:
 
 
 ;How many theme add-ons are installed.
-How many theme add-ons are installed.
+عدد إضافات السمات المثبتة.
 
 
 ;Addons:
-Addons:
+الإضافات:
 
 
 ;A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
-A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
+مجموعة تصف الإضافات المثبتة. لا يتم إحصاء كل شيء، بل يُكتفى بالملحقات والامتدادات والخدمات.
 
 
 ;Search Counts:
-Search Counts:
+عدد عمليات البحث:
 
 
 ;A count of how many searches you issued to each of Mozilla's partner providers.
-A count of how many searches you issued to each of Mozilla's partner providers.
+عدد عمليات البحث التي قمت بها على مُحركات البحث الشريكة لموزيلا.
 
 
 ;Sessions and Startup Times
-Sessions and Startup Times
+الجلسات ومدة الإقلاع
 
 
 ;For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
-For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
+مع كل جلسة تصفح، يسجل تقرير فَيَرفُكس الصحي الفترة التقريبية لتصفحك (بالثواني)، إضافة إلى ما إذا كانت نهاية الجلسة طبيعية أو نتيجة لانهيار. كما يسجّل مدة الإقلاع (بالميلي ثانية) إن كانت متوفرة.
 
 
 ;Profile Creation:
-Profile Creation:
+إنشاء الملف الشخصي:
 
 
 ;The day on which your browser profile was created. Counted in days since January 1st 1970.
-The day on which your browser profile was created. Counted in days since January 1st 1970.
+اليوم الذي أنشئ فيه ملفك الشخصي على المتصفح. يتم إحصاء الأيام منذ أول يناير 1970.
 
 
 ;Learn More
-Learn More
+اعرف المزيد
 
 
 ;Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
-Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
+يقوم تقرير فَيَرفُكس الصحي (FHR) بتحليل بيانات أداء المُتصفح ليتمكن من إعطائك تلميحات مُفيدة تساعدك على الإستفادة المُثلى من فَيَرفُكس. لمعلومات أوفى حول تقرير فَيَرفُكس الصحّي، <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>زُر قسم الدعم الخاص بموزيلا.</a>
 
 
 ;For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
-For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
+للمزيد من المعلومات حول آليات مُعالجة بياناتك، <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>اطلع على سياسة الخصوصية لدينا.</a>
 
 
 ;You are currently sharing your health report with Mozilla.
-You are currently sharing your health report with Mozilla.
+أنت تتشارك حاليًا تقرير فَيَرفُكس الصحي الخاص بك مع موزيلا.
 
 
 ;Choose what I share
-Choose what I share
+اختيار ما أقوم بتشاركه.
 
 
 ;You are currently not sharing your health report with Mozilla.
-You are currently not sharing your health report with Mozilla.
+أنت لا تقوم حاليًا بتشارك تقرير فَيَرفُكس الصحي مع موزيلا.
 
 
