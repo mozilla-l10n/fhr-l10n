@@ -35,7 +35,7 @@ Elegiste compartir periódicamente tus datos con Mozilla. Gracias por ser parte 
 
 
 ;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
-Conozca cómo gestionamos su información en nuestra <a href="%(privacy_url)s">política de privacidad.</a>
+Entérate de cómo usamos tu información en nuestra <a href="%(privacy_url)s">política de privacidad.</a>
 
 
 ;Vital Stats
@@ -107,7 +107,7 @@ Desgaste
 
 
 ;It looks like your browser has crashed a number of times recently. To learn more:
-Parece que su navegador se ha colgado varias veces recientemente. Si quiere tener más información:
+Al parecer tu navegador se ha colgado varias veces recientemente. Para más información:
 
 
 ;OFF
@@ -115,11 +115,11 @@ DESACTIVAR
 
 
 ;Visit our <a href="%(sumo_url)s">support website</a>
-Visite nuestro <a href="%(sumo_url)s">centro de ayuda</a>
+Visita nuestro <a href="%(sumo_url)s">centro de ayuda</a>
 
 
 ;View more <a href="%(details_url)s">detailed information</a>
-Mire más <a href="%(details_url)s">información detallada</a>
+Mira más <a href="%(details_url)s">información detallada</a>
 
 
 ;pages visited
@@ -127,11 +127,11 @@ páginas visitadas
 
 
 ;Your browser seems to be running slower than usual. To learn more:
-Parece que su navegador está yendo más lento de lo habitual. Si quiere tener más información:
+Parece que tu navegador está yendo más lento de lo habitual. Para más información:
 
 
 ;You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
-Podrá ver información más detallada e interesante a medida que use su navegador. En un par de semanas vuelva a comprobarlo para empezar a ver algunas tendencias.
+Podrás ver información más detallada e interesante a medida que uses tu navegador. En un par de semanas vuelve a comprobarlo para empezar a ver algunas tendencias.
 
 
 ;Startup Time by Day
@@ -151,7 +151,7 @@ Todos
 
 
 ;Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
-El tiempo de inicio ayuda a determinar la calidad del rendimiento de su versión de Firefox. En general, tiempos más rápidos (p. ej. menos tiempo) indican un mejor rendimiento.
+El tiempo de inicio ayuda a determinar la calidad del rendimiento de tu versión de Firefox. En general, tiempos más rápidos (i.e. menos tiempo) indican un mejor rendimiento.
 
 
 ;Data Collected
@@ -696,6 +696,6 @@ Choose what I share
 
 
 ;You are currently not sharing your health report with Mozilla.
-You are currently not sharing your health report with Mozilla.
+En este momento no compartes tu reporte de salud con Mozilla.
 
 
