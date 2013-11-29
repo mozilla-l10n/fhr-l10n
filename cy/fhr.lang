@@ -87,15 +87,15 @@ Ategion
 
 
 ;always activate
-always activate
+gweithredu bob tro
 
 
 ;ask to activate
-ask to activate
+gofyn i'w weithredu
 
 
 ;never activate
-never activate
+byth gweithredu
 
 
 ;Tips
@@ -697,5 +697,3 @@ Dewis beth rwy'n rhannu
 
 ;You are currently not sharing your health report with Mozilla.
 Nid ydych y rhannu ei adrodiad iechyd gyda Mozilla ar hyn o bryd.
-
-
