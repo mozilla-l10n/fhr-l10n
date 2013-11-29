@@ -1,4 +1,3 @@
-## active ##
 ;Firefox Health Report
 របាយការណ៍​សុខភាព​ Firefox
 
@@ -88,15 +87,15 @@
 
 
 ;always activate
-always activate
+ធ្វើឲ្យ​សកម្ម​ជានិច្ច
 
 
 ;ask to activate
-ask to activate
+ស្នើ​ឲ្យ​ធ្វើ​ឲ្យ​សកម្ម
 
 
 ;never activate
-never activate
+កុំ​ធ្វើ​ឲ្យ​សកម្ម
 
 
 ;Tips
