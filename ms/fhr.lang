@@ -1,5 +1,5 @@
 ;Firefox Health Report
-Laporan Kesihatan Firefox
+Firefox Health Report {ok}
 
 
 ;Raw Data
@@ -11,7 +11,7 @@ Dapatkan pandangan dan maklumat prestasi mengenai versi Firefox anda.
 
 
 ;Learn more...
-Ketahui lebih lanjut...
+Ketahui lanjut...
 
 
 ;Data Sharing
@@ -87,15 +87,15 @@ Plugin
 
 
 ;always activate
-always activate
+sentiasa aktif
 
 
 ;ask to activate
-ask to activate
+Tanya untuk diaktifkan
 
 
 ;never activate
-never activate
+jangan aktif
 
 
 ;Tips
@@ -444,11 +444,11 @@ Polisi Privasi
 
 # The following strings are used only in the Mobile version of about:healthreport (Firefox for Android)
 ;Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
-Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
+Firefox Health Report membiarkan anda mengoptimumkan Firefox anda dan membantu kami membina satu pelayar yang lebih cemerlang. Laporan adalah agak asas pada mulanya, tetapi akan meneruskan untuk berevolusi dan berkembang.
 
 
 ;Learn More&hellip;
-Learn More&hellip;
+Ketahui lanjut&hellip;
 
 
 ;Tip
@@ -456,7 +456,7 @@ Tip {ok}
 
 
 ;Looks like your Firefox is brand new! Check back after using Firefox for a while.
-Looks like your Firefox is brand new! Check back after using Firefox for a while.
+Seolah-olah Firefox anda baru! Semak kembali selepas menggunakan Firefox untuk seketika.
 
 
 ;Important Metrics
@@ -464,7 +464,7 @@ Metrik Penting
 
 
 ;Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
-Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
+Firefox Health Report merekodkan maklumat tentang pelayar dan peranti anda. Anda boleh<a href="#raw" class="navigate">lihat maklumat yang kami catatkan.</a> Anda boleh juga melihat apa yang anda berkongsi dengan Mozilla. 
 
 
 ;Device hardware, operating system, Firefox version.
@@ -472,11 +472,11 @@ Perkakas peranti, sistem operasi, versi Firefox.
 
 
 ;Extensions, plugins, and number of installed add-ons.
-Extensions, plugins, and number of installed add-ons.
+Ekstensi,plugin dan bilangan addon yang terpasang.
 
 
 ;Key performance measures, such as launch speed.
-Key performance measures, such as launch speed.
+Langkah-langkah petunjuk prestasi, seperti pelancaran kelajuan.
 
 
 ;Browsing duration, install time, number of bookmarks and pages.
@@ -492,7 +492,7 @@ Bilangan CPU:
 
 
 ;The number of CPU cores reported by Android.
-The number of CPU cores reported by Android.
+Jumlah berteras CPU dilaporkan oleh Android.
 
 
 ;Memory in MB:
@@ -500,7 +500,7 @@ Memori dalam MB:
 
 
 ;The amount of memory reported by Android. Typically excludes graphics memory.
-The amount of memory reported by Android. Typically excludes graphics memory.
+Jumlah ingatan dilaporkan oleh Android. Lazimnya mengecualikan ingatan grafik.
 
 
 ;Application Name:
@@ -508,7 +508,7 @@ Nama Aplikasi:
 
 
 ;The internal application name for the browser.
-The internal application name for the browser.
+Nama permohonan dalaman untuk pelayar.
 
 
 ;Application ID:
@@ -516,7 +516,7 @@ ID Aplikasi:
 
 
 ;The internal identifier for the application.
-The internal identifier for the application.
+Pengenal pasti dalaman untuk aplikasi.
 
 
 ;Application Version:
@@ -532,7 +532,7 @@ ID Binaan Aplikasi:
 
 
 ;The internal build timestamp.
-The internal build timestamp.
+Pembinaan dalaman cop masa.
 
 
 ;Update Channel:
@@ -540,15 +540,15 @@ Saluran Kemaskini:
 
 
 ;Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
-Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
+Firefox diedarkan melalui saluran; Pembinaan nightly , saluran pra-keluaran Aurora , Beta yang stabil , dan keluaran awam. Ruangan ini mengenalpasti saluran.
 
 
 ;Vendor:
-Vendor:
+Pembekal:
 
 
 ;The organization that built this application. Typically Mozilla.
-The organization that built this application. Typically Mozilla.
+Organisasi yang membina permohonan ini. Lazimnya Mozilla.
 
 
 ;Platform Version:
@@ -556,7 +556,7 @@ Versi Platform:
 
 
 ;An internal version identifier. Typically the same as appVersion.
-An internal version identifier. Typically the same as appVersion.
+Pengenalpasti versi dalaman. Biasanya sama seperti appVersion.
 
 
 ;Platform Build ID:
@@ -564,7 +564,7 @@ ID Binaan Platform:
 
 
 ;On Android this is an alternative name for appBuildID.
-On Android this is an alternative name for appBuildID.
+Pada Android ini merupakan nama alternatif bagi appBuildID.
 
 
 ;xpcomabi:
@@ -572,7 +572,7 @@ xpcomabi: {ok}
 
 
 ;The CPU architecture for which this application was built.
-The CPU architecture for which this application was built.
+The arkitektur CPU untuk dimana aplikasi ini dibina.
 
 
 ;OS:
@@ -584,11 +584,11 @@ Sistem operasi terkini.
 
 
 ;Architecture:
-Architecture:
+Arkitektur:
 
 
 ;The CPU architecture for this device.
-The CPU architecture for this device.
+Arkitektur CPU untuk peranti ini.
 
 
 ;System Name:
@@ -604,43 +604,43 @@ Versi Sistem:
 
 
 ;The Android OS revision.
-The Android OS revision.
+Rujukan Android OS.
 
 
 ;Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
-Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
+Sama ada Firefox addon memperoleh senarai yang di blok untuk melindungi anda dari addon yang berbahaya. Setkan kepada lalai.
 
 
 ;Telemetry Enabled:
-Telemetry Enabled:
+Telemetri Dibolehkan:
 
 
 ;Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
-Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
+Sama ada laporan Firefox memperincikan kegunaan data untuk membantu dalam pembangunan. Setkan lalai kepada tutup untuk kebanyakan saluran.
 
 
 ;Extension Count:
-Extension Count:
+Bilangan Ekstensi:
 
 
 ;How many extension add-ons are installed.
-How many extension add-ons are installed.
+Berapa banyak ekstensi addon yang terpasang.
 
 
 ;Plugin Count:
-Plugin Count:
+Bilangan Plugin:
 
 
 ;How many plugin add-ons are installed.
-How many plugin add-ons are installed.
+Berapa banyak plugin addon yang terpasang.
 
 
 ;Theme Count:
-Theme Count:
+Bilangan Tema:
 
 
 ;How many theme add-ons are installed.
-How many theme add-ons are installed.
+Berapa banyak tema addon yang terpasang.
 
 
 ;Addons:
@@ -648,7 +648,7 @@ Addons: {ok}
 
 
 ;A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
-A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
+Sebuah koleksi memperincikan addon yang terpasang. Tidak semua addon dilaporkan: hanya plugin, esktensi dan perkhidmatan.
 
 
 ;Search Counts:
@@ -656,39 +656,39 @@ Bilangan Carian:
 
 
 ;A count of how many searches you issued to each of Mozilla's partner providers.
-A count of how many searches you issued to each of Mozilla's partner providers.
+Satu bilangan berkaitan berapa banyak carian yang dikeluarkan kepada setiap rakan kongsi pengeluar Mozilla.
 
 
 ;Sessions and Startup Times
-Sessions and Startup Times
+Sesi dan Waktu Permulaan
 
 
 ;For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
-For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
+Untuk setiap sesi pelayar , Firefox Health Report merekod masa anda melayari (dalam saat), dan sama ada sesi itu berakhir secara normal atau kerana ranap. Juga disertakan masa permulaan (dalam mili saat) jika ada.
 
 
 ;Profile Creation:
-Profile Creation:
+Perciptaan Profil:
 
 
 ;The day on which your browser profile was created. Counted in days since January 1st 1970.
-The day on which your browser profile was created. Counted in days since January 1st 1970.
+Hari di mana profil pelayar anda diwujudkan. Dikira dalam hari sejak 1hb Januari 1970.
 
 
 ;Learn More
-Ketahui Lanjut
+Ketahui lanjut
 
 
 ;Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
-Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
+Firefox Health Report (FHR) menganalisis maklumat prestasi penyemak imbas anda, bagi menyediakan anda dengan tip-tip yang berguna yang membantu anda mendapat yang terbaik dari Firefox. Untuk maklumat lanjut Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>layari Mozilla seksyen Support</a>
 
 
 ;For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
-Untuk maklumat lanjut tentang cara kami menguruskan data anda, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon">lihat polisi privasi kami.</a>
+Untuk maklumat lanjut tentang cara kami menguruskan data anda, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>lihat polisi privasi kami.</a>
 
 
 ;You are currently sharing your health report with Mozilla.
-You are currently sharing your health report with Mozilla.
+Anda kini berkongsi laporan kesihatan anda dengan Mozilla.
 
 
 ;Choose what I share
@@ -696,4 +696,4 @@ Pilih bahan perkongsian saya
 
 
 ;You are currently not sharing your health report with Mozilla.
-You are currently not sharing your health report with Mozilla.
+Anda kini tidak berkongsi laporan kesihatan anda dengan Mozilla.
