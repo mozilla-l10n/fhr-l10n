@@ -35,7 +35,7 @@
 
 
 ;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
-మీ దత్తాంశమును మేము యేలా సంభాలించుతామో మా <a href="%(privacy_url)s">గోప్యాతా విధానం.</a> నందు తెలుసుకోండి.
+మీ దత్తాంశమును మేము యేలా సంభాలించుతామో మా <a href="%(privacy_url)s">గోప్యాతా విధానం</a> నందు తెలుసుకోండి.
 
 
 ;Vital Stats
@@ -71,7 +71,7 @@
 
 
 ;View List
-జాబితా దర్శించు
+జాబితాను చూడండి
 
 
 ;enabled
@@ -448,11 +448,11 @@ Firefox Health Report lets you optimize your Firefox and helps us build a more e
 
 
 ;Learn More&hellip;
-Learn More&hellip;
+మరింత తెలుసుకోండి&hellip;
 
 
 ;Tip
-Tip
+చిట్కా
 
 
 ;Looks like your Firefox is brand new! Check back after using Firefox for a while.
@@ -484,7 +484,7 @@ Browsing duration, install time, number of bookmarks and pages.
 
 
 ;Home
-Home
+ముంగిలి
 
 
 ;CPU Count:
@@ -504,7 +504,7 @@ The amount of memory reported by Android. Typically excludes graphics memory.
 
 
 ;Application Name:
-Application Name:
+అనువర్తనపు పేరు:
 
 
 ;The internal application name for the browser.
@@ -580,7 +580,7 @@ OS:
 
 
 ;The current operating system.
-The current operating system.
+ప్రస్తుత నిర్వాహక వ్యవస్థ.
 
 
 ;Architecture:
@@ -636,7 +636,7 @@ How many plugin add-ons are installed.
 
 
 ;Theme Count:
-Theme Count:
+అలంకారాల సంఖ్య:
 
 
 ;How many theme add-ons are installed.
@@ -676,7 +676,7 @@ The day on which your browser profile was created. Counted in days since January
 
 
 ;Learn More
-Learn More
+మరింత తెలుసుకోండి
 
 
 ;Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
@@ -688,14 +688,14 @@ For more information about how we handle your data, <a href="https://www.mozilla
 
 
 ;You are currently sharing your health report with Mozilla.
-You are currently sharing your health report with Mozilla.
+మీరు ప్రస్తుతం ఈ ఆరోగ్య నివేదికను మొజిల్లాకు భాగస్వామ్యం చేసారు.
 
 
 ;Choose what I share
-Choose what I share
+నేను ఏమి వెల్లడిస్తున్నానో ఎంచుకుంటాను
 
 
 ;You are currently not sharing your health report with Mozilla.
-You are currently not sharing your health report with Mozilla.
+మీరు ప్రస్తుతం ఈ ఆరోగ్య నివేదికను మొజిల్లాకు భాగస్వామ్యం చెయ్యలేదు.
 
 
