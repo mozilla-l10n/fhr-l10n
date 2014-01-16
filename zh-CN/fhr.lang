@@ -87,15 +87,15 @@ Mozilla 也会从服务器上删除您的健康报告数据。查看<a href="%(p
 
 
 ;always activate
-always activate
+总是启用
 
 
 ;ask to activate
-ask to activate
+询问是否启用
 
 
 ;never activate
-never activate
+永不启用
 
 
 ;Tips
