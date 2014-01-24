@@ -1,5 +1,5 @@
 ;Firefox Health Report
-Извештај здравља Фајерфокса
+Извештај здравља Firefox-а
 
 
 ;Raw Data
@@ -7,7 +7,7 @@
 
 
 ;Get insights and performance information about your version of Firefox.
-Сазнајте детаље о перформансама ваше верзије Фајерфокса
+Сазнајте детаље о перформансама Ваше верзије Firefox-а.
 
 
 ;Learn more...
@@ -23,19 +23,19 @@
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
-Одлучили сте да не делите податке са Мозилом, али ћете идаље моћи да пратите како се понаша ваш веб прегледач.
+Одлучили сте да не делите податке са Mozilla-ом, али ћете и даље моћи да пратите како се понаша Ваш веб прегледач.
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
-Ваши подаци извештаја здравља ће такође бити уклоњени са Мозилиних сервера. Сазнајте више у нашој <a href="%(privacy_url)s">полиси приватности.</a>
+Ваши подаци извештаја здравља ће такође бити уклоњени са Mozilla сервера. Сазнајте више у нашој <a href="%(privacy_url)s">полиси приватности.</a>
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
-Одлучили сте повремено делити податке са Мозилом. Хвала што сте део наше мисије да изградимо бољи веб.
+Одлучили сте повремено делити податке са Mozilla-ом. Хвала што сте део наше мисије да изградимо бољи веб.
 
 
 ;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
-Сазнајте како се служимо вашим подацимо у нашој <a href="%(privacy_url)s">полиси приватности.</a>
+Сазнајте како се служимо Вашим подацимо у нашој <a href="%(privacy_url)s">полиси приватности.</a>
 
 
 ;Vital Stats
@@ -71,7 +71,7 @@
 
 
 ;View List
-Прикажи попис
+Прикажи списак
 
 
 ;enabled
@@ -87,15 +87,15 @@
 
 
 ;always activate
-always activate
+увек активирај
 
 
 ;ask to activate
-ask to activate
+тражи активацију
 
 
 ;never activate
-never activate
+никад не активирај
 
 
 ;Tips
@@ -107,7 +107,7 @@ never activate
 
 
 ;It looks like your browser has crashed a number of times recently. To learn more:
-Чини се да се ваш веб прегледач у последње време повећи број пута срушио. Да бисте сазнали више:
+Чини се да се Ваш веб прегледач у последње време повећи број пута срушио. Да бисте сазнали више:
 
 
 ;OFF
@@ -127,7 +127,7 @@ never activate
 
 
 ;Your browser seems to be running slower than usual. To learn more:
-Чини се да ваш веб прегледач ради спорије него иначе. Да бисте сазнали више:
+Чини се да Ваш веб прегледач ради спорије него иначе. Да бисте сазнали више:
 
 
 ;You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
@@ -135,7 +135,7 @@ never activate
 
 
 ;Startup Time by Day
-Времена покретања по данима
+Време покретања по данима
 
 
 ;Graph:
@@ -151,7 +151,7 @@ never activate
 
 
 ;Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
-Време покретања понекад помаже у закључивању колико се добро ваша верзија Фајерфокса понаша. У принципу, бржа времена (тј. краће време покретања) упућује на боље перформансе.
+Време покретања понекад помаже у закључивању колико се добро Ваша верзија Firefox-a понаша. У принципу, бржа времена (тј. краће време покретања) упућује на боље перформансе.
 
 
 ;Data Collected
@@ -163,11 +163,11 @@ never activate
 
 
 ;What the Firefox Health Report Measures
-Шта мери Извештај здравља Фајерфокса?
+Шта мери Извештај здравља Firefox-a?
 
 
 ;The Firefox Health Report (FHR) has 4 categories of metrics:
-Извештај здравља Фајерфокса (ИЗФ) има катогорије:
+Извештај здравља Firefox-a (ИЗФ) има 4 катогорије:
 
 
 ;Configuration
@@ -175,7 +175,7 @@ never activate
 
 
 ;Device hardware, operating system, Firefox version
-Хардвер, оперативни систем, верзија Фајерфокса
+Хардвер, оперативни систем, верзија Firefox-a
 
 
 ;Customizations
@@ -211,7 +211,7 @@ never activate
 
 
 ;Binary interface for XPCOM
-Бинарни интерфејс за ХПЦОМ (XPCOM)
+Бинарни интерфејс за XPCOM
 
 
 ;Identifier for this build of the application based on the date the build was started
@@ -231,11 +231,11 @@ never activate
 
 
 ;The version number of any Mozilla hotfix applied to the application
-Верзија било које Мозилине закрпе примењене на апликацији
+Верзија било које Mozilla закрпе примењене на апликацији
 
 
 ;Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
-Индетификатор јединствен за апликацију која указује да је Фајерфокс, Тандерберд и сл. Исто је за све инсталације апликације без обзира на <var>appName</var> вредност
+Индетификатор јединствен за апликацију која указује да је Firefox, Thunderbird и сл. Исто је за све инсталације апликације без обзира на <var>appName</var> вредност
 
 
 ;The configured name of the application (Firefox/Aurora/Nightly for instance)
@@ -243,7 +243,7 @@ never activate
 
 
 ;The channel this installation checks for application updates (nightly/aurora/beta/release)
-Канал којег ова инсталација проверава за допуне апликације (nightly/aurora/beta/release)
+Канал којег ова инсталација проверава за надоградње апликације (nightly/aurora/beta/release)
 
 
 ;The name of the company/provider who built this version
@@ -255,11 +255,11 @@ never activate
 
 
 ;Number of processor cores
-Број процесорских језгри
+Број процесорских језгара
 
 
 ;Whether the application is currently configured to be the default browser for the operating system
-Је ли апликације тренутно подешена као подразумевани веб прегледач за оперативни систем
+Било да је апликације тренутно подешена као подразумевани веб прегледач за оперативни систем
 
 
 ;Locale currently being used
@@ -279,11 +279,11 @@ never activate
 
 
 ;The build identifier of the Gecko platform code
-Индетификатор издања платформе Геко кôда.
+Индетификатор издања платформе Gecko кôда.
 
 
 ;The version of the Gecko platform code
-Верзија платформе Геко кôда
+Верзија платформе Gecko кôда
 
 
 ;Processor architecture
@@ -291,15 +291,15 @@ never activate
 
 
 ;The date this version was first used with this installation profile
-Датум првог коришћења ове верзије са тренутним профилом
+Датум првог коришћења ове верзије са тренутним профилом инсталације
 
 
 ;An application version which has been used with this installation profile
-Верзија апликације која је коришћена са овом инсталацијом профила
+Верзија апликације која је коришћена са овим профилом инсталације
 
 
 ;The number of add-ons of this type that existed in the profile on this date
-Број додатака ове врсте који су постојали у профилу на овај датум date
+Број додатака ове врсте који су постојали у профилу на овај датум
 
 
 ;<var>True</var> if the application automatically disabled the add-on
@@ -307,11 +307,11 @@ never activate
 
 
 ;Whether this add-on was installed by the user or automatically by another application
-Је ли овај додатак инсталиран од стране корисника или аутоматски од стране друге апликације
+Било да је овај додатак инсталиран од стране корисника или аутоматски од стране друге апликације
 
 
 ;Whether this add-on has native code.
-Има ли овај додатак нативни кôд.
+Било да овај додатак има нативни кôд.
 
 
 ;The identifier of this add-on as defined by the add-on developer
@@ -319,23 +319,23 @@ never activate
 
 
 ;The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
-Најближи датум када је овај додатак инсталиран (претходне информације о уклоњеним додацима се не чувају)
+Најближи датум када је овај додатак инсталиран (претходне информације о уклоњеним додацима се не чувају).
 
 
 ;The number of searches performed with this search engine from this part of the UI
-Број претраживања са овом тражилицом из овог дела корисничког интерфејса.
+Број претраживања са овим претраживачем из овог дела корисничког интерфејса
 
 
 ;Whether this add-on was installed in the application directory or profile directory
-Је ли овај додатак инсталиран у директорију апликације или профила
+Било да је овај додатак инсталиран у директоријуму апликације или профила
 
 
 ;Whether this add-on is an extension or a plug-in
-Је ли овај додатак екстензија или прикључак?
+Било да је овај додатак екстензија или прикључак
 
 
 ;The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
-Најближи датум када је овај додатак ажуриран (претходне информације о уклоњеним додацима се не чувају)
+Најближи датум када је овај додатак ажуриран (претходне информације о уклоњеним додацима се не чувају).
 
 
 ;<var>True</var> if the user manually disabled the add-on
@@ -347,31 +347,31 @@ never activate
 
 
 ;How long in milliseconds it took during startup for the application to render the UI and display the window
-Време потребно за приказ корисничог интерфејса и прозора код покретања (у милисекундама)
+Време потребно за приказ корисничог интерфејса и прозора код покретања ове апликације (у милисекундама)
 
 
 ;How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
-Време потребно за учитавање библиотека и основну иницијализацију код покретања (у милисекундама)
+Време потребно за учитавање библиотека и основну иницијализацију код покретања ове апликације (у милисекундама)
 
 
 ;How long in milliseconds it took during startup for the application to restore tabs from the previous session
-Време потребно за враћање језичака из претходне сесије код покретања (у милисекундама)
+Време потребно за враћање језичака из претходне сесије код покретања ове апликације (у милисекундама)
 
 
 ;The number of times the application was run and not cleanly shut down.
-Број насилних затварања апликације
+Број насилних затварања апликације.
 
 
 ;The time in seconds that the aborted sessions were not idle
-Време (у секундама) током којег прекинуте сесије нису биле у стању мировања
+Време у секундама током којег прекинуте сесије нису биле у стању мировања
 
 
 ;The time in seconds that the aborted sessions were running
-Време (у секундама) током којег су прекинуте сесије биле покренуте
+Време у секундама током којег су прекинуте сесије биле покренуте
 
 
 ;The number of days since this application profile directory was created
-Број дана од како је створен профил ове аликације
+Број дана од када је креиран овај директоријум профила апликације
 
 
 ;The number of times the application was run and cleanly shut down.
@@ -379,11 +379,11 @@ never activate
 
 
 ;The time in seconds that the completed sessions were not idle
-Време (у секундама) током којег довршене сесије нису биле у стању мировања
+Време у секундама током којег довршене сесије нису биле у стању мировања
 
 
 ;The time in seconds that the completed sessions were running
-Време (у секундама) током којег су довршене сесије биле покренуте
+Време у секундама током којег су довршене сесије биле покренуте
 
 
 ;Total number of crashes that were recorded but not yet submitted
@@ -395,7 +395,7 @@ never activate
 
 
 ;Time in seconds the app has not been idle
-Време (у секундама) када апликација није мировала
+Време у секундама када апликација није мировала
 
 
 ;Time in seconds since the app was last started
@@ -411,11 +411,11 @@ never activate
 
 
 ;How long in minutes the current session has been running
-Време (у минутима) колико је тренутна сесија активна
+Време у минутима колико је тренутна сесија активна
 
 
 ;Welcome to your Firefox Health Report
-Добродошли у Извештај здравља вашег Фајерфокса
+Добродошли у Ваш Извештај здравља Firefox-a
 
 
 ;Welcome!
@@ -423,7 +423,7 @@ never activate
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
-Извештај здравља Фајерфокса даје вам увид у перформансе вашег Фајерфокса, те вам нуди савете за побољшање перформанси.
+Извештај здравља Firefox-a даје Вам увид у перформансе Вашег Firefox-a, те нуди савете за побољшање перформанси.
 
 
 ;See My Report
@@ -444,258 +444,258 @@ never activate
 
 # The following strings are used only in the Mobile version of about:healthreport (Firefox for Android)
 ;Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
-Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
+Извештај здравља Firefox-а омогућава оптимизацију Вашег Firefox-а и помаже нам да изградимо још бољи прегледач. Извештаји ће на почетку бити прилично једноставни, али ће се наставити развијати и расти.
 
 
 ;Learn More&hellip;
-Learn More&hellip;
+Сазнајте више&hellip;
 
 
 ;Tip
-Tip
+Савет
 
 
 ;Looks like your Firefox is brand new! Check back after using Firefox for a while.
-Looks like your Firefox is brand new! Check back after using Firefox for a while.
+Изгледа да је Ваш Firefox нов! Вратите се после одређеног времена коришћења Firefox-а.
 
 
 ;Important Metrics
-Important Metrics
+Битне метрике
 
 
 ;Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
-Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
+Извештај здравља Firefox-а чува информације о Вашем прегледачу и уређају. Можете <a href="#raw" class="navigate">погледати информације које чувамо.</a>  Такође можете погледати шта делите са Mozilla-ом.
 
 
 ;Device hardware, operating system, Firefox version.
-Device hardware, operating system, Firefox version.
+Хардвер уређаја, оперативни систем, верзија Firefox-а.
 
 
 ;Extensions, plugins, and number of installed add-ons.
-Extensions, plugins, and number of installed add-ons.
+Екстензије, прикључци, и број инсталираних додатака.
 
 
 ;Key performance measures, such as launch speed.
-Key performance measures, such as launch speed.
+Кључна мерења перформанси, као што је брзина покретања.
 
 
 ;Browsing duration, install time, number of bookmarks and pages.
-Browsing duration, install time, number of bookmarks and pages.
+Дужина сурфовања, трајање инсталације, број забелешки и страница.
 
 
 ;Home
-Home
+Почетна
 
 
 ;CPU Count:
-CPU Count:
+CPU број:
 
 
 ;The number of CPU cores reported by Android.
-The number of CPU cores reported by Android.
+Број CPU језгара које извештава Android.
 
 
 ;Memory in MB:
-Memory in MB:
+Меморија у MB:
 
 
 ;The amount of memory reported by Android. Typically excludes graphics memory.
-The amount of memory reported by Android. Typically excludes graphics memory.
+Количина меморије коју извештава Android. Типично изоставља графичку меморију.
 
 
 ;Application Name:
-Application Name:
+Назив апликације:
 
 
 ;The internal application name for the browser.
-The internal application name for the browser.
+Унутрашњи назив апликације за прегледач.
 
 
 ;Application ID:
-Application ID:
+ИД апликације:
 
 
 ;The internal identifier for the application.
-The internal identifier for the application.
+Унутрашњи идентификатор за апликацију.
 
 
 ;Application Version:
-Application Version:
+Верзија апликације:
 
 
 ;The current version of the browser
-The current version of the browser
+Тренутна верзија прегледача
 
 
 ;Application Build ID:
-Application Build ID:
+ИД издања апликације:
 
 
 ;The internal build timestamp.
-The internal build timestamp.
+Унутрашњи времески жиг изградње.
 
 
 ;Update Channel:
-Update Channel:
+Канал надоградње:
 
 
 ;Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
-Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
+Firefox се дистрибуира кроз канале: нићна (Nightly) издања, Aurora канал за пред-објављивање, стабилна бета, и јавна дистрибуција. Ово поље представља канал.
 
 
 ;Vendor:
-Vendor:
+Произвођач:
 
 
 ;The organization that built this application. Typically Mozilla.
-The organization that built this application. Typically Mozilla.
+Организација која развија ову апликацију. Обично је то Mozilla.
 
 
 ;Platform Version:
-Platform Version:
+Верзија платформе:
 
 
 ;An internal version identifier. Typically the same as appVersion.
-An internal version identifier. Typically the same as appVersion.
+Унутрашњи идентификатор верзије. Обично је исто што и appVersion.
 
 
 ;Platform Build ID:
-Platform Build ID:
+ИД издања платформе:
 
 
 ;On Android this is an alternative name for appBuildID.
-On Android this is an alternative name for appBuildID.
+На Android-у је ово други назив за appBuildID.
 
 
 ;xpcomabi:
-xpcomabi:
+xpcomabi: {ok}
 
 
 ;The CPU architecture for which this application was built.
-The CPU architecture for which this application was built.
+CPU архитектура за коју је ова апликација изграђена.
 
 
 ;OS:
-OS:
+Оперативни систем:
 
 
 ;The current operating system.
-The current operating system.
+Тренутни оперативни систем.
 
 
 ;Architecture:
-Architecture:
+Архитектура:
 
 
 ;The CPU architecture for this device.
-The CPU architecture for this device.
+CPU архитектура за овај уређај.
 
 
 ;System Name:
-System Name:
+Назив система:
 
 
 ;The current system name.
-The current system name.
+Тренутни назив система.
 
 
 ;System Version:
-System Version:
+Верзија система:
 
 
 ;The Android OS revision.
-The Android OS revision.
+Android OS ревизија.
 
 
 ;Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
-Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
+Да ли Firefox прикупља резултате блокираних додатака да Вас заштити против малициозних додатака. Укључено је по подразумеваном.
 
 
 ;Telemetry Enabled:
-Telemetry Enabled:
+Телеметрија омогућена:
 
 
 ;Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
-Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
+Да ли Firefox извештава детаљне податке коришћења како би помогао за развојем. По подразумеваном је искључено за већину канала.
 
 
 ;Extension Count:
-Extension Count:
+Број екстензија:
 
 
 ;How many extension add-ons are installed.
-How many extension add-ons are installed.
+Колико је екстензија инсталирано.
 
 
 ;Plugin Count:
-Plugin Count:
+Број прикључака:
 
 
 ;How many plugin add-ons are installed.
-How many plugin add-ons are installed.
+Колико је прикључака инсталирано.
 
 
 ;Theme Count:
-Theme Count:
+Број тема:
 
 
 ;How many theme add-ons are installed.
-How many theme add-ons are installed.
+Колико је тема инсталирано.
 
 
 ;Addons:
-Addons:
+Додаци:
 
 
 ;A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
-A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
+Колекција која описује инсталиране додатке. Нису сви додаци ивештавани: само прикључци, екстензије, и сервиси.
 
 
 ;Search Counts:
-Search Counts:
+Број претрага:
 
 
 ;A count of how many searches you issued to each of Mozilla's partner providers.
-A count of how many searches you issued to each of Mozilla's partner providers.
+Број претрага које сте извршили за сваког партнера Mozilla-е.
 
 
 ;Sessions and Startup Times
-Sessions and Startup Times
+Сесије и времена покретања
 
 
 ;For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
-For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
+За сваку сесију сурфовања, Извештај здравља Firefox-а чува колико дуго отприлике сурфујете (у секундама), и да ли се сесија завршила исправно или због рушења. Такође, ако је доступно, садржи времена покретања (у милисекундама).
 
 
 ;Profile Creation:
-Profile Creation:
+Профил креаиран:
 
 
 ;The day on which your browser profile was created. Counted in days since January 1st 1970.
-The day on which your browser profile was created. Counted in days since January 1st 1970.
+Дан када је профил Вашег прегледача креиран. Броји се у данима од првог јануара 1970 године.
 
 
 ;Learn More
-Learn More
+Сазнајте више
 
 
 ;Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
-Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
+Извештај здравља Firefox-а (ИЗФ) анализира информације о перформансама Вашег прегледача да би Вам пружили корисне савете да извучете најбоље из Firefox-а.  За више информација о Извештају здравља Firefox-а, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>посетите одељак за Mozilla подршку.</a>
 
 
 ;For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
-For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
+За више информација о томе како рукујемо Вашим подацима, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>погледаје нашу полису приватности.</a>
 
 
 ;You are currently sharing your health report with Mozilla.
-You are currently sharing your health report with Mozilla.
+Тренутно делите са Mozilla-ом извештај здравља.
 
 
 ;Choose what I share
-Choose what I share
+Изавери шта делим
 
 
 ;You are currently not sharing your health report with Mozilla.
-You are currently not sharing your health report with Mozilla.
+Тренутно не делите са Mozilla-ом извештај здравља.
 
 
