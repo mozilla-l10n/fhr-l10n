@@ -87,15 +87,15 @@ Plugins {ok}
 
 
 ;always activate
-always activate
+activar totjorn
 
 
 ;ask to activate
-ask to activate
+demandar per activar
 
 
 ;never activate
-never activate
+activar pas jamai
 
 
 ;Tips
@@ -448,7 +448,7 @@ Firefox Health Report lets you optimize your Firefox and helps us build a more e
 
 
 ;Learn More&hellip;
-Learn More&hellip;
+Ne saber mai&hellip;
 
 
 ;Tip
