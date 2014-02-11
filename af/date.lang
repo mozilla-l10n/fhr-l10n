@@ -1,9 +1,9 @@
 ;Jan
-Jan
+Jan {ok}
 
 
 ;Feb
-Feb
+Feb {ok}
 
 
 ;Mar
@@ -11,7 +11,7 @@ Mrt
 
 
 ;Apr
-Apr
+Apr {ok}
 
 
 ;May
@@ -19,19 +19,19 @@ Mei
 
 
 ;Jun
-Jun
+Jun {ok}
 
 
 ;Jul
-Jul
+Jul {ok}
 
 
 ;Aug
-Aug
+Aug {ok}
 
 
 ;Sep
-Sep
+Sep {ok}
 
 
 ;Oct
@@ -39,7 +39,7 @@ Okt
 
 
 ;Nov
-Nov
+Nov {ok}
 
 
 ;Dec
@@ -59,7 +59,7 @@ Maart
 
 
 ;April
-April
+April {ok}
 
 
 ;May
@@ -79,7 +79,7 @@ Augustus
 
 
 ;September
-September
+September {ok}
 
 
 ;October
@@ -87,7 +87,7 @@ Oktober
 
 
 ;November
-November
+November {ok}
 
 
 ;December
@@ -175,7 +175,7 @@ Vr
 
 
 ;Sa
-Sa
+Sa.
 
 
 ;Noon
