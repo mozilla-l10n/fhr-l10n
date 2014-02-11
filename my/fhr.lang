@@ -87,15 +87,15 @@
 
 
 ;always activate
-always activate
+အမြဲတမ်းသုံးမည်
 
 
 ;ask to activate
-ask to activate
+အသုံးပြုရန်မေး
 
 
 ;never activate
-never activate
+ဘယ်တော့မှမသုံး
 
 
 ;Tips
@@ -444,11 +444,11 @@ How long in milliseconds it took during startup for the application to load libr
 
 # The following strings are used only in the Mobile version of about:healthreport (Firefox for Android)
 ;Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
-Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
+မီးမြေခွေး​ ကျန်းမာရေးအစီရင်ခံစာသည် သင့်ကို ဘယောက်ဆာ အသုံးချမှူ ပေါ်တွင် ကူညီပေးသည်။အစပိုင်းတွင် အနည်းငယ် နားလည်ရခက်ပြီး နောက်ပိုင်းတွင် ကောင်းမွန်လာသည်ကို တွေ့ရှိရပါသည်။
 
 
 ;Learn More&hellip;
-Learn More&hellip;
+ဆက်လက်လေ့လာ&hကူညီ
 
 
 ;Tip
@@ -456,11 +456,11 @@ Learn More&hellip;
 
 
 ;Looks like your Firefox is brand new! Check back after using Firefox for a while.
-Looks like your Firefox is brand new! Check back after using Firefox for a while.
+သင့် မီးမြေခွေးက အသစ်ပဲ ! ကြာကြာလေးသုံးပြီးမှ ပြန်လာကြည့်ရင် ကောင်းမယ်
 
 
 ;Important Metrics
-Important Metrics
+အရေးကြီးသော အတိုင်းအတာများ
 
 
 ;Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
