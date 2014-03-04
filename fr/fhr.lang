@@ -47,7 +47,7 @@ version {ok}
 
 
 ;time open
-ouvert depuis
+activité
 
 
 ;last crash
@@ -227,7 +227,7 @@ Identifiant du canal de distribution spécifique du logiciel utilisé. Extrait d
 
 
 ;Version of the distribution, taken from the <var>distribution.version</var> preference
-Version de la distribution, prise depuis la préférence <var>distribution.version</var>
+Version de la distribution, extraite de la préférence <var>distribution.version</var>
 
 
 ;The version number of any Mozilla hotfix applied to the application
@@ -359,7 +359,7 @@ Combien de temps en millisecondes a-t-il fallu pendant le démarrage de l'applic
 
 
 ;The number of times the application was run and not cleanly shut down.
-Le nombre de fois où l'application a été exécutée et n'a pas été proprement fermée
+Le nombre de fois où l'application a été exécutée mais n'a pas été correctement quittée
 
 
 ;The time in seconds that the aborted sessions were not idle
@@ -375,7 +375,7 @@ Le nombre de jours depuis que le répertoire de l'application a été créé
 
 
 ;The number of times the application was run and cleanly shut down.
-Le nombre de fois où l'application a été exécutée et a été proprement fermée
+Le nombre de fois où l'application a été exécutée et correctement quittée
 
 
 ;The time in seconds that the completed sessions were not idle
@@ -399,7 +399,7 @@ Temps en secondes d'activité continue de l'application
 
 
 ;Time in seconds since the app was last started
-Temps en secondes depuis que le dernier lancement de l'application
+Temps en secondes depuis le dernier lancement de l'application
 
 
 ;Total number of bookmarks
