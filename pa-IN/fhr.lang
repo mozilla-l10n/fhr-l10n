@@ -23,7 +23,7 @@
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
-ਤੁਸੀਂ ਮੌਜ਼ੀਲਾ ਨਾਲ ਡਾਟਾ ਸਾਂਝਾ ਨਾ ਕਰਨ ਦੀ ਚੋਣ ਕੀਤੀ ਹੈ, ਪਰ ਤੁਸੀਂ ਤਾਂ ਵੀ ਆਪਣੇ ਬਰਾਊਜ਼ਰ ਦੀ ਕਾਰਗੁਜ਼ਾਰੀ ਨੂੰ ਵੇਖ ਸਕੋਗੇ।
+ਤੁਸੀਂ ਮੋਜ਼ੀਲਾ ਨਾਲ ਡਾਟਾ ਸਾਂਝਾ ਨਾ ਕਰਨ ਦੀ ਚੋਣ ਕੀਤੀ ਹੈ, ਪਰ ਤੁਸੀਂ ਤਾਂ ਵੀ ਆਪਣੇ ਬਰਾਊਜ਼ਰ ਦੀ ਕਾਰਗੁਜ਼ਾਰੀ ਨੂੰ ਵੇਖ ਸਕੋਗੇ।
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
@@ -444,7 +444,7 @@ XPCOM ਲਈ ਬਾਈਨਰੀ ਇੰਟਰਫੇਸ
 
 # The following strings are used only in the Mobile version of about:healthreport (Firefox for Android)
 ;Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
-Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
+ਫਾਇਰਫਾਕਸ ਹਾਲਤ ਰਿਪੋਰਟ ਤੁਹਾਨੂੰ ਤੁਹਾਡੇ ਫਾਇਰਫਾਕਸ ਨੂੰ ਅਨੁਕੂਲ ਬਣਾਉਣ ਦਿੰਦੀ ਹੈ ਅਤੇ ਸਾਨੂੰ ਹੋਰ ਵਧੀਆ ਬਰਾਊਜ਼ਰ ਬਣਾਉਣ ਲਈ ਮੱਦਦ ਕਰਦੀ ਹੈ। ਪਹਿਲਾਂ ਰਿਪੋਰਟਾਂ ਪਹਿਲਾਂ ਸਧਾਰਨ ਹੁੰਦੀਆਂ ਸਨ, ਪਰ ਸਮੇਂ ਨਾਲ ਤਰੱਕੀ ਤੇ ਸੁਧਾਰ ਹੁੰਦਾ ਜਾ ਰਿਹਾ ਹੈ।
 
 
 ;Learn More&hellip;
@@ -464,7 +464,7 @@ Firefox Health Report lets you optimize your Firefox and helps us build a more e
 
 
 ;Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla. 
-Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
+ਫਾਇਰਫਾਕਸ ਹਾਲਤ ਰਿਪੋਰਟ ਤੁਹਾਡੇ ਬਰਾਊਜ਼ਰ ਅਤੇ ਜੰਟਰ ਬਾਰੇ ਜਾਣਕਾਰੀ ਰਿਕਾਰਡ ਕਰਦੀ ਹੈ। ਤੁਸੀਂ <a href="#raw" class="navigate">ਜਾਣਕਾਰੀ ਵੇਖ ਸਕਦੇ ਹੋ ਕਿ ਅਸੀਂ ਕੀ ਰਿਕਾਰਡ ਕਰਦੇ ਹਾਂ।</a> ਤੁਸੀਂ ਇਹ ਵੀ ਵੇਖ ਸਕਦੇ ਹੋ ਕਿ ਅਸੀਂ ਮੋਜ਼ੀਲਾ ਨਾਲ ਕੀ ਸਾਂਝਾ ਕਰਦੇ ਹਾਂ।
 
 
 ;Device hardware, operating system, Firefox version.
@@ -608,94 +608,94 @@ OS:{ok}
 
 
 ;Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
-Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
+ਕੀ ਫਾਇਰਫਾਕਸ ਤੁਹਾਨੂੰ ਖ਼ਰਾਬ ਐਡ-ਆਨ ਤੋਂ ਸੁਰੱਖਿਅਤ ਕਰਨ ਲਈ ਐਡ-ਆਬ ਪਾਬੰਦੀ ਨਤੀਜੇ ਪ੍ਰਾਪਤ ਕਰੇ। ਮੂਲ ਰੂਪ ਵਿੱਚ ਚਾਲੂ ਹੈ।
 
 
 ;Telemetry Enabled:
-Telemetry Enabled:
+ਟੈਲੀਮੈਟਰੀ ਚਾਲੂ ਹੈ:
 
 
 ;Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
-Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
+ਕੀ ਫਾਇਰਫਾਕਸ ਵਰਤੋਂ ਡਾਟੇ ਨੂੰ ਵੇਰਵੇ ਸਮੇਤ ਵਿਕਾਸ ਵਿੱਚ ਮੱਦਦ ਲਈ ਜਾਣਕਾਰੀ ਭੇਜਦਾ ਹੈ। ਬਹੁਤੇ ਚੈਨਲਾਂ ਲਈ ਮੂਲ ਰੂਪ ਵਿੱਚ ਬੰਦ ਹੈ।
 
 
 ;Extension Count:
-Extension Count:
+ਇਕਸਟੈਨਸ਼ਨ ਗਿਣਤੀ:
 
 
 ;How many extension add-ons are installed.
-How many extension add-ons are installed.
+ਕਿੰਨੀਆਂ ਇਕਸਟੈਨਸ਼ਨ ਐਡ-ਆਨ ਇੰਸਟਾਲ ਹਨ।
 
 
 ;Plugin Count:
-Plugin Count:
+ਪਲੱਗਇਨ ਗਿਣਤੀ:
 
 
 ;How many plugin add-ons are installed.
-How many plugin add-ons are installed.
+ਕਿੰਨੀਆਂ ਪਲੱਗਇਨ ਐਡ-ਆਨ ਇੰਸਟਾਲ ਹਨ।
 
 
 ;Theme Count:
-Theme Count:
+ਥੀਮ ਗਿਣਤੀ:
 
 
 ;How many theme add-ons are installed.
-How many theme add-ons are installed.
+ਕਿੰਨੇ ਥੀਮ ਐਡ-ਆਨ ਇੰਸਟਾਲ ਹਨ।
 
 
 ;Addons:
-Addons:
+ਐਡ-ਆਨ:
 
 
 ;A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
-A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
+ਇੰਸਟਾਲ ਹੋਈਆਂ ਐਡ-ਆਨ ਬਾਰੇ ਭੰਡਾਰ। ਸਭ ਐਡ-ਆਨ ਲਈ ਰਿਪੋਰਟ ਨਹੀਂ ਕੀਤੀ ਜਾਂਦੀ ਹੈ: ਕੇਵਲ ਪਲੱਗਇਨ, ਇਕਸਟੈਨਸ਼ਨ, ਅਤੇ ਸੇਵਾਵਾਂ ਹੀ।
 
 
 ;Search Counts:
-Search Counts:
+ਖੋਜ ਗਿਣਤੀ:
 
 
 ;A count of how many searches you issued to each of Mozilla's partner providers.
-A count of how many searches you issued to each of Mozilla's partner providers.
+ਗਿਣਤੀ ਕਿ ਕਿੰਨੀ ਵਾਰ ਤੁਸੀਂ ਮੋਜ਼ੀਲਾ ਵਲੋਂ ਦਿੱਤੇ ਗਏ ਉਪਲੱਬਧਕਰਤਾ ਰਾਹੀਂ ਖੋਜ ਕੀਤੀ।
 
 
 ;Sessions and Startup Times
-Sessions and Startup Times
+ਸ਼ੈਸ਼ਨ ਅਤੇ ਸ਼ੁਰੂਆਤ ਸਮਾਂ
 
 
 ;For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
-For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
+ਹਰ ਬਰਾਊਜ਼ਿੰਗ ਸ਼ੈਸ਼ ਲਈ, ਫਾਇਰਫਾਕਸ ਹਾਲਤ ਰਿਪੋਰਟ ਰਿਕਾਰਡ ਕਰਦੀ ਹੈ ਕਿ ਕਿੰਨਾ ਸਮਾਂ ਤੁਸੀਂ ਬਰਾਊਜ਼ ਕੀਤਾ (ਸਕਿੰਟਾਂ ਵਿੱਚ) ਅਤੇ ਕੀ ਸ਼ੈਸ਼ਨ ਆਮ ਦੀ ਤਰ੍ਹਾਂ ਬੰਦ ਹੋਇਆ ਜਾਂ ਕਰੈਸ਼ ਦੇ ਕਰਕੇ। ਜੇ ਉਪਲੱਬਧ ਹੋਵੇ ਤਾਂ ਸ਼ੁਰੂ ਸਮਾਂ ਵੀ ਸ਼ਾਮਿਲ ਕੀਤਾ ਜਾਂਦਾ ਹੈ (ਮਿਲੀਸਕਿੰਟਾਂ ਵਿੱਚ)।
 
 
 ;Profile Creation:
-Profile Creation:
+ਪ੍ਰੋਫਾਇਲ ਨਿਰਮਾਣ:
 
 
 ;The day on which your browser profile was created. Counted in days since January 1st 1970.
-The day on which your browser profile was created. Counted in days since January 1st 1970.
+ਦਿਨ, ਜਿਸ ਨੂੰ ਤੁਹਾਡਾ ਬਰਾਊਜ਼ਰ ਪ੍ਰੋਫਾਇਲ ਬਣਾਇਆ ਗਿਆ ਸੀ। 1 ਜਨਵਰੀ 1970 ਤੋਂ ਦਿਨਾਂ ਦੀ ਗਿਣਤੀ ਕੀਤੀ ਜਾਂਦੀ ਹੈ।
 
 
 ;Learn More
-Learn More
+ਹੋਰ ਜਾਣੋ
 
 
 ;Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
-Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
+ਮੋਜ਼ੀਲਾ ਹਾਲਤ ਰਿਪੋਰਟ (FHR) ਤੁਹਾਡੇ ਬਰਾਊਜ਼ਰ ਦੀ ਕਾਰਗੁਜ਼ਾਰੀ ਜਾਣਕਾਰੀ ਦੀ ਜਾਂਚ ਕਰਦੀ ਹੈ, ਤਾਂ ਕਿ ਇਹ ਤੁਹਾਨੂੰ ਫਾਇਰਫਾਕਸ ਦੀ ਚੰਗੀ ਵਰਤੋਂ ਕਰਨ ਵਿੱਚ ਤੁਹਾਡੀ ਮੱਦਦ ਕਰਨ ਵਾਸਤੇ ਫਾਇਦੇਮੰਦ ਟੋਟਕੇ ਦੇ ਸਕੇ। ਮੋਜ਼ੀਲਾ ਹਾਲਤ ਰਿਪੋਰਟ ਬਾਰੇ ਹੋਰ ਜਾਣਕਾਰੀ ਲਈ, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>ਮੋਜ਼ੀਲਾ ਸਹਾਇਤਾ ਭਾਗ ਨੂੰ ਵੇਖੋ।</a>
 
 
 ;For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
-For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
+ਤੁਹਾਡੇ ਡਾਟੇ ਨੂੰ ਅਸੀਂ ਕਿਵੇਂ ਵਰਤਦੇ ਜਾਂ ਬਾਰੇ ਹੋਰ ਜਾਣਕਾਰੀ ਲਈ, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>ਸਾਡੀ ਪ੍ਰਾਈਵੇਸੀ ਨੀਤੀ ਵੇਖੋ।</a>
 
 
 ;You are currently sharing your health report with Mozilla.
-You are currently sharing your health report with Mozilla.
+ਤੁਸੀਂ ਇਸ ਸਮੇਂ ਮੋਜ਼ੀਲਾ ਨਾਲ ਆਪਣੀ ਹਾਲਤ ਰਿਪੋਰਟ ਸਾਂਝੀ ਕਰ ਰਹੇ ਹੋ।
 
 
 ;Choose what I share
-Choose what I share
+ਚੁਣੋ ਕਿ ਮੈਂ ਕੀ ਸਾਂਝਾ ਕਰਾਂ
 
 
 ;You are currently not sharing your health report with Mozilla.
-You are currently not sharing your health report with Mozilla.
+ਤੁਸੀਂ ਇਸ ਸਮੇਂ ਮੋਜ਼ੀਲਾ ਨਾਲ ਆਪਣੀ ਹਾਲਤ ਰਿਪੋਰਟ ਸਾਂਝੀ ਨਹੀਂ ਕਰ ਰਹੇ ਹੋ।
 
 
