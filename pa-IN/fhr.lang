@@ -87,19 +87,19 @@
 
 
 ;always activate
-always activate
+ਹਮੇਸ਼ਾ ਸਰਗਰਮ
 
 
 ;ask to activate
-ask to activate
+ਸਰਗਰਮ ਕਰਨ ਲਈ ਪੁੱਛੋ
 
 
 ;never activate
-never activate
+ਕਦੇ ਸਰਗਰਮ ਨਹੀਂ
 
 
 ;Tips
-ਟਿੱਪ
+ਟੋਟਕੇ
 
 
 ;Wear and Tear
@@ -448,163 +448,163 @@ Firefox Health Report lets you optimize your Firefox and helps us build a more e
 
 
 ;Learn More&hellip;
-Learn More&hellip;
+ਹੋਰ ਜਾਣੋ&hellip;
 
 
 ;Tip
-Tip
+ਟੋਟਕਾ
 
 
 ;Looks like your Firefox is brand new! Check back after using Firefox for a while.
-Looks like your Firefox is brand new! Check back after using Firefox for a while.
+ਤੁਹਾਡਾ ਫਾਇਰਫਾਕਸ ਬਿਲਕੁਲ ਨਵਾਂ ਜਾਪਦਾ ਹੈ! ਕੁਝ ਦੇਰ ਫਾਇਰਫਾਕਸ ਵਰਤਣ ਦੇ ਬਾਅਦ ਚੈੱਕ ਕਰੋ ਜੀ।
 
 
 ;Important Metrics
-Important Metrics
+ਮਹੱਤਵਪੂਰਨ ਸਾਰਣੀਆਂ
 
 
-;Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
+;Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla. 
 Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
 
 
 ;Device hardware, operating system, Firefox version.
-Device hardware, operating system, Firefox version.
+ਜੰਤਰ ਹਾਰਡਵੇਅਰ, ਓਪਰੇਟਿੰਗ ਸਿਸਟਮ, ਫਾਇਰਫਾਕਸ ਵਰਜਨ।
 
 
 ;Extensions, plugins, and number of installed add-ons.
-Extensions, plugins, and number of installed add-ons.
+ਇਕਸਟੈਨਸ਼ਨ, ਪਲੱਗਇਨ ਅਤੇ ਇੰਸਟਾਲ ਕੀਤੀਆਂ ਐਡ-ਆਨ ਦੀ ਗਿਣਤੀ।
 
 
 ;Key performance measures, such as launch speed.
-Key performance measures, such as launch speed.
+ਮੁੱਖ ਕਾਰਗੁਜ਼ਾਰੀ ਮਾਪ ਜਿਵੇਂ ਕਿ ਸ਼ੁਰੂ ਹੋਣ ਗਤੀ।
 
 
 ;Browsing duration, install time, number of bookmarks and pages.
-Browsing duration, install time, number of bookmarks and pages.
+ਬਰਾਊਜ਼ਰ ਕਰਨ, ਇੰਸਟਾਲ ਕਰਨ ਸਮਾਂ, ਬੁੱਕਮਾਰਕ ਤੇ ਸਫ਼ਿਆਂ ਦੀ ਗਿਣਤੀ।
 
 
 ;Home
-Home
+ਮੁੱਖ ਸਫ਼ਾ
 
 
 ;CPU Count:
-CPU Count:
+CPU ਗਿਣਤੀ:
 
 
 ;The number of CPU cores reported by Android.
-The number of CPU cores reported by Android.
+ਐਂਡਰਾਇਡ ਵਲੋਂ ਰਿਪੋਰਟ ਕੀਤੀਆਂ CPU ਕੋਰ ਦੀ ਗਿਣਤੀ।
 
 
 ;Memory in MB:
-Memory in MB:
+MB ਵਿੱਚ ਮੈਮੋਰੀ:
 
 
 ;The amount of memory reported by Android. Typically excludes graphics memory.
-The amount of memory reported by Android. Typically excludes graphics memory.
+ਐਂਡਰਾਇਡ ਵਲੋਂ ਦੱਸੀ ਗਈ ਮੈਮੋਰੀ ਦੀ ਮਾਤਰਾ। ਆਮ ਤੌਰ ਉੱਤੇ ਗ੍ਰਾਫਕਿਸ ਮੈਮੋਰੀ ਨੂੰ ਛੱਡ ਕੇ ਹੁੰਦੀ ਹੈ।
 
 
 ;Application Name:
-Application Name:
+ਐਪਲੀਕੇਸ਼ਨ ਨਾਂ:
 
 
 ;The internal application name for the browser.
-The internal application name for the browser.
+ਬਰਾਊਜ਼ਰ ਲਈ ਅੰਦਰੂਨੀ ਐਪਲੀਕੇਸ਼ਨ ਨਾਂ ਹੈ।
 
 
 ;Application ID:
-Application ID:
+ਐਪਲੀਕੇਸ਼ਨ ID:
 
 
 ;The internal identifier for the application.
-The internal identifier for the application.
+ਐਪਲੀਕੇਸ਼ਨ ਲਈ ਅੰਦਰੂਨੀ ਪਛਾਣਕਰਤਾ ਹੈ।
 
 
 ;Application Version:
-Application Version:
+ਐਪਲੀਕੇਸ਼ਨ ਵਰਸ਼ਨ:
 
 
 ;The current version of the browser
-The current version of the browser
+ਬਰਾਊਜ਼ਰ ਦਾ ਮੌਜੂਦਾ ਵਰਸ਼ਨ
 
 
 ;Application Build ID:
-Application Build ID:
+ਐਪਲੀਕੇਸ਼ਨ ਬਿਲਡ ID:
 
 
 ;The internal build timestamp.
-The internal build timestamp.
+ਅੰਦਰੂਨੀ ਬਿਲਡ ਸਮਾਂ-ਮੋਹਰ।
 
 
 ;Update Channel:
-Update Channel:
+ਅੱਪਡੇਟ ਚੈਨਲ:
 
 
 ;Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
-Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
+ਫਾਇਰਫਾਕਸ ਨੂੰ ਚੈਨਲਾਂ ਰਾਹੀਂ ਵੰਡਿਆ ਜਾਂਦਾ ਹੈ: ਨਾਈਟਲੀ ਬਿਲਡ, ਅਰੋਰਾ ਪ੍ਰੀ-ਰੀਲਿਜ਼ ਚੈਨਲ, ਸਟੇਬਲ ਬੀਟਾ ਅਤੇ ਪਬਲਿਕ ਰੀਲਿਜ਼।  ਇਹ ਖੇਤਰ ਚੈਨਲ ਦੀ ਪਛਾਣ ਕਰਦਾ ਹੈ।
 
 
 ;Vendor:
-Vendor:
+ਵੇਂਡਰ:
 
 
 ;The organization that built this application. Typically Mozilla.
-The organization that built this application. Typically Mozilla.
+ਸੰਗਠਨ, ਜੋ ਕਿ ਇਹ ਐਪਲੀਕੇਸ਼ਨ ਬਣਾਉਂਦੇ ਹਨ। ਖਾਸ ਤੌਰ ਉੱਤੇ ਮੋਜ਼ੀਲਾ।
 
 
 ;Platform Version:
-Platform Version:
+ਪਲੇਟਫਾਰਮ ਵਰਸ਼ਨ:
 
 
 ;An internal version identifier. Typically the same as appVersion.
-An internal version identifier. Typically the same as appVersion.
+ਅੰਦਰੂਨੀ ਵਰਸ਼ਨ ਪਛਾਣਕਰਤਾ। ਆਮ ਤੌਰ ਉੱਤੇ appVersion ਵਾਂਗ ਹੈ।
 
 
 ;Platform Build ID:
-Platform Build ID:
+ਪਲੇਟਫਾਰਮ ਬਿਲਡ ID:
 
 
 ;On Android this is an alternative name for appBuildID.
-On Android this is an alternative name for appBuildID.
+ਐਂਡਰਾਇਡ ਉੱਤੇ, ਇਹ appBuildID ਦਾ ਬਦਲਵਾਂ ਨਾਂ ਹੈ।
 
 
 ;xpcomabi:
-xpcomabi:
+xpcomabi: {ok}
 
 
 ;The CPU architecture for which this application was built.
-The CPU architecture for which this application was built.
+CPU ਢਾਂਚਾ, ਜਿਸ ਲਈ ਇਹ ਐਪਲੀਕੇਸ਼ਨ ਬਣਾਈ ਗਈ ਸੀ।
 
 
 ;OS:
-OS:
+OS:{ok}
 
 
 ;The current operating system.
-The current operating system.
+ਮੌਜੂਦਾ ਓਪਰੇਟਿੰਗ ਸਿਸਟਮ।
 
 
 ;Architecture:
-Architecture:
+ਢਾਂਚਾ:
 
 
 ;The CPU architecture for this device.
-The CPU architecture for this device.
+ਇਹ ਜੰਤਰ ਲਈ CPU ਢਾਂਚਾ ਹੈ।
 
 
 ;System Name:
-System Name:
+ਸਿਸਟਮ ਨਾਂ:
 
 
 ;The current system name.
-The current system name.
+ਮੌਜੂਦਾ ਸਿਸਟਮ ਨਾਂ।
 
 
 ;System Version:
-System Version:
+ਸਿਸਟਮ ਵਰਜਨ:
 
 
 ;The Android OS revision.
-The Android OS revision.
+ਐਂਡਰਾਇਡ OS ਰੀਵਿਜ਼ਨ।
 
 
 ;Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
