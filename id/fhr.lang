@@ -87,15 +87,15 @@ Plugin
 
 
 ;always activate
-always activate
+selalu aktifkan
 
 
 ;ask to activate
-ask to activate
+tanyakan untuk mengaktifkan
 
 
 ;never activate
-never activate
+jangan pernah diaktifkan
 
 
 ;Tips
@@ -508,11 +508,11 @@ Nama Aplikasi:
 
 
 ;The internal application name for the browser.
-The internal application name for the browser.
+Nama aplikasi internal untuk peramban.
 
 
 ;Application ID:
-Application ID:
+ID Aplikasi:
 
 
 ;The internal identifier for the application.
@@ -544,7 +544,7 @@ Firefox didistribusikan lewat beberapa kanal: build Nightly, kanal prarilis Auro
 
 
 ;Vendor:
-Vendor:
+Vendor: {ok}
 
 
 ;The organization that built this application. Typically Mozilla.
@@ -568,7 +568,7 @@ Pada Android, bidang ini merupakan nama alternatif appBuildID.
 
 
 ;xpcomabi:
-xpcomabi:
+xpcomabi: {ok}
 
 
 ;The CPU architecture for which this application was built.
