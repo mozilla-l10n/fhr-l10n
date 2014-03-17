@@ -1,0 +1,699 @@
+;Firefox Health Report
+Firefox - Statusowa rozprawa
+
+
+;Raw Data
+Hruby daty
+
+
+;Get insights and performance information about your version of Firefox.
+Dobudźće dohlady a wukonowe informacije wo wašej wersiji Firefox.
+
+
+;Learn more...
+Dalše informacije...
+
+
+;Data Sharing
+Dźělenje datow
+
+
+;ON
+Zapinjeny
+
+
+;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
+Sće so rozsudźił, dźělenje datow z Mozilla skónčić, ale móžeće hišće widźeć, kak waš wobhladowak dźěła.
+
+
+;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
+Daty wašeje statusoweje rozprawy so tež ze serwerow Mozilla wotstronja. Zhońće wjace wo <a href="%(privacy_url)s">prawidłach priwatnosće.</a>
+
+
+;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
+Sće so rozsudźił, swoje daty hdys a hdys z Mozilla dźělić. Dźakujemy so wam, zo chceće dźěl našeje misije, swětliši přichod za web wutworić.
+
+
+;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
+Zhońće, kak z wašimi datami w našich <a href="%(privacy_url)s">prawidłach priwatnosće</a> wobchadźamy.
+
+
+;Vital Stats
+Podstatne podaća
+
+
+;version
+wersija
+
+
+;time open
+běžny čas dohromady
+
+
+;last crash
+posledni spad
+
+
+;bookmarks
+zapołožki
+
+
+;This Month
+Tutón měsac
+
+
+;crashes
+spady
+
+
+;Add-ons
+Přidatki
+
+
+;View List
+Lisćinu pokazać
+
+
+;enabled
+zmóžnjeny
+
+
+;disabled
+znjemóžnjeny
+
+
+;Plugins
+Tykače
+
+
+;always activate
+přeco aktiwizować
+
+
+;ask to activate
+prašeć so, hač ma so aktiwizować
+
+
+;never activate
+ženje njeaktiwizować
+
+
+;Tips
+Pokiwy
+
+
+;Wear and Tear
+Wottrjebanje
+
+
+;It looks like your browser has crashed a number of times recently. To learn more:
+Zda so, zo waš wobhladowak je wjacore razy spadnył. Zo byšće wjace zhonił:
+
+
+;OFF
+WUPINJENY
+
+
+;Visit our <a href="%(sumo_url)s">support website</a>
+Wopytajće naše <a href="%(sumo_url)s">podpěrne websydło</a>
+
+
+;View more <a href="%(details_url)s">detailed information</a>
+<a href="%(details_url)s">Podrobniše informacije</a> pokazać
+
+
+;pages visited
+wopytane strony
+
+
+;Your browser seems to be running slower than usual. To learn more:
+Zda so, zo waš wobhladowak pomałšo hač hewak běži. Zo byšće wjace zhonił:
+
+
+;You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
+Móžeće zajimawše a podrobniše informacije widźeć, ćim wjace swój wobhladowak wužiwaće. Skontrolujće za por tydźenjow pozdźišo hišće raz, zo byšće někotre trendy widźał.
+
+
+;Startup Time by Day
+Startowy čas po dnju
+
+
+;Graph:
+Diagram:
+
+
+;Average
+Přerězk
+
+
+;All
+Wšě
+
+
+;Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
+Startowy čas pomha postajić, kak derje waša wersija Firefox dźěła. Zwjetša pokazuja spěšniše časy (t.r. mjenje časa) na lěpši wukon.
+
+
+;Data Collected
+Nahromadźene daty
+
+
+;Glossary
+Glosar
+
+
+;What the Firefox Health Report Measures
+Što statusowa rozprawa Firefox měri?
+
+
+;The Firefox Health Report (FHR) has 4 categories of metrics:
+Statusowa rozprawa Firefox (FHR) ma 4 kategorije metriki:
+
+
+;Configuration
+Konfiguracija
+
+
+;Device hardware, operating system, Firefox version
+Gratowa hardwara, dźěłowy systemo, wersija Firefox
+
+
+;Customizations
+Přiměrjenja
+
+
+;Add-ons, count and type
+Přidatki, ličba a typ
+
+
+;Performance
+Wukon
+
+
+;Timing of browser events, rendering, session restores
+Časoměrjenje za podawki wobhladowaka, rysowanje, wobnowjenja posedźenjow
+
+
+;Length of session, how old a profile is, count of crashes, count of pages
+Dołhosć posedźenja, kak stary profil je, ličba spadow, ličba stronow
+
+
+;Detailed Description
+Podrobne wopisanje
+
+
+;Metric
+Metriski
+
+
+;Description
+Wopisanje
+
+
+;Binary interface for XPCOM
+Binarny powjerch za XPCOM
+
+
+;Identifier for this build of the application based on the date the build was started
+Identifikator za wersiju nałoženja na zakładźe datuma, na kotryž wersija je so startowała
+
+
+;Operating System for which this build was configured
+Dźěłowy system, za kotryž tuta wersija je so konfigurowała
+
+
+;Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
+Identifikator za wosebitu distribuciju nałoženja, kotraž so wužiwa. Bjerje so z nastajenja <var>distribution.id</var>
+
+
+;Version of the distribution, taken from the <var>distribution.version</var> preference
+Wersija distribucije, wuwzata z nastajenja <var>distribution.version</var>
+
+
+;The version number of any Mozilla hotfix applied to the application
+Wersijowe čisło porjedźenja Mozilla nałožene na nałoženje
+
+
+;Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
+Za nałoženje jednozmyslny identifikator, kotryž podawa, hač je Firefox abo Thunderbird atd. Samsne płaći za wšě instalacije nałoženja njedźiwajo na hódnotu <var>appName</var> 
+
+
+;The configured name of the application (Firefox/Aurora/Nightly for instance)
+Konfigurowane mjeno nałoženja (na přikład Firefox/Aurora/Nightly)
+
+
+;The channel this installation checks for application updates (nightly/aurora/beta/release)
+Kanal, kotryž instalacija za nałoženskimi aktualizacijemi (nightly/aurora/release) přepytuje
+
+
+;The name of the company/provider who built this version
+Mjeno předewzaća/poskićowarja, kotryž je tutu wersiju wutworił
+
+
+;The current version of the product
+Aktualna wersija produkta
+
+
+;Number of processor cores
+Ličba procesorowych jadrow
+
+
+;Whether the application is currently configured to be the default browser for the operating system
+Hač nałoženje so tuchwilu konfiguruje, zo by standardny wobhladowak za dźěłowy system było
+
+
+;Locale currently being used
+Lokala, kotraž so runje wužiwa
+
+
+;Amount of RAM in megabytes
+Hódnota RAM w megabajtach
+
+
+;Currently running Operating System (kernel) name
+Mjeno tuchwilu běžaceho dźěłoweho systema (kernel)
+
+
+;Currently running Operating System (kernel) version
+Wersija tuchwilu běžaceho dźěłoweho systema (kernel)
+
+
+;The build identifier of the Gecko platform code
+Wersijowy identifikator koda platformy Gecko
+
+
+;The version of the Gecko platform code
+Wersija koda platformy Gecko
+
+
+;Processor architecture
+Procesorowa architektura
+
+
+;The date this version was first used with this installation profile
+Datum, hdyž tuta wersija je so prěni raz z tutym instalaciskim profilom wužiła
+
+
+;An application version which has been used with this installation profile
+Nałoženska wersija, kotraž je so z tutym instalaciskim profilom wužiła
+
+
+;The number of add-ons of this type that existed in the profile on this date
+Ličba přidatkow tutoho typa, kotraž je tutón datum w profilu eksistowała
+
+
+;<var>True</var> if the application automatically disabled the add-on
+<var>True</var>, jeli nałoženje je přidatk awtomatisce znjemóžniło
+
+
+;Whether this add-on was installed by the user or automatically by another application
+Hač tutón přidatk je so wot wužiwarja instalował abo awtomatisce přez druhe nałoženje
+
+
+;Whether this add-on has native code.
+Hač tutón přidatk ma systemowy kod.
+
+
+;The identifier of this add-on as defined by the add-on developer
+Identifikator tutoho přidatka kaž je so wot wuwiwarja přidatka definował
+
+
+;The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
+Najnowši datum, hdyž je so tutón přidatk instalował (prjedawše informacije wo wotinstalowanym přidatku so njewobchowuja).
+
+
+;The number of searches performed with this search engine from this part of the UI
+Ličba pytanjow přewjedźenych z tutej pytawu z tutoho dźěla wužiwarskeho powjercha
+
+
+;Whether this add-on was installed in the application directory or profile directory
+Hač tutón přidatk je so w rjadowaku nałoženja abo profila instalował
+
+
+;Whether this add-on is an extension or a plug-in
+Hač tutón přidatk je rozšěrjenje abo tykač
+
+
+;The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
+Najnowši datum, na kotrymž tutón přidatk je so zaktualizował (prjedawše informacije wo wotinstalowanym přidatku njeje so wobchował).
+
+
+;<var>True</var> if the user manually disabled the add-on
+<var>True</var>, jeli wužiwar je přidatk manuelnje znjemóžnił
+
+
+;The current version of this add-on
+Aktualna wersija tutoho přidatka
+
+
+;How long in milliseconds it took during startup for the application to render the UI and display the window
+Kak dołho w milisekundach za startowanje nałoženja traješe, wužiwarski powjerch rysować a wokno zwobraznić
+
+
+;How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
+Kak dołho w milisekundach za startowanje nałoženja traješe, biblioteki začitać a zakładnu inicializaciju zakónčić
+
+
+;How long in milliseconds it took during startup for the application to restore tabs from the previous session
+Kak dołho w milisekundach za startowanje nałoženja traješe, rajtarki z předchadneho posedźenja wobnowić
+
+
+;The number of times the application was run and not cleanly shut down.
+Ličba razow, hdyž je so nałoženje běžało a njeje so porjadnje skónčiło.
+
+
+;The time in seconds that the aborted sessions were not idle
+Čas w sekundach, za kotryž přetorhnjene posedźenje njejsu w prózdnoběhu byli.
+
+
+;The time in seconds that the aborted sessions were running
+Čas w sekundach, za kotryž přetorhnjene posedźenja su bězeli
+
+
+;The number of days since this application profile directory was created
+Ličba dnjow, wot toho zo profilowy rjadowak tutoho nałoženja je so wutworił
+
+
+;The number of times the application was run and cleanly shut down.
+Ličba razow, hdyž nałoženje je běžało a je so poradnje skónčiło.
+
+
+;The time in seconds that the completed sessions were not idle
+Čas w sekundach, hdyž skónčene posedźenja njejsu w prózdnoběhu byli
+
+
+;The time in seconds that the completed sessions were running
+Čas w sekundach, hdyž skónčene posedźenja su běželi
+
+
+;Total number of crashes that were recorded but not yet submitted
+Cyłkowna ličba spadow, kotrež su so zwěsćili, ale njejsu wotpósłali
+
+
+;Total number of crashes that have been submitted
+Cyłkowna ličba spadow, kotrež su so wotpósłali
+
+
+;Time in seconds the app has not been idle
+Čas w sekundach, za kotryž nałoženje njeje w prózdnoběhu było
+
+
+;Time in seconds since the app was last started
+Čas w sekundach, wot toho zo nałoženje je so posledni raz startowało
+
+
+;Total number of bookmarks
+Ličba zapołožkow dohromady
+
+
+;Total number of pages listed in the history
+Cyłkowna ličba stronow nalistowanych w historiji
+
+
+;How long in minutes the current session has been running
+Kak dołho w mjeńšinach aktualne posedźenje hižo běži
+
+
+;Welcome to your Firefox Health Report
+Witjaće do swojeje statusoweje rozprawy Firefox
+
+
+;Welcome!
+Witajće!
+
+
+;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
+Statusowa rozprawa Firefox zdźěla wam, kak waš Firefox dźěła a štož móžeće činić, zo byšće jón polěpšił.
+
+
+;See My Report
+Hlejće moju rozprawu
+
+
+;Time (in seconds)
+Čas (w sekundach)
+
+
+;Show Statistics
+Statistiku pokazać
+
+
+;Privacy Policy
+Prawidła priwatnosće
+
+
+# The following strings are used only in the Mobile version of about:healthreport (Firefox for Android)
+;Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
+Statusowa rozprawa Firefox dowola wam waš Firefox optimować a pomha nam, wuběrniši wobhladowaki wutworić. Rozprawy budu na spočatku dosć jednore, ale budu so rozwiwać a rosć. 
+
+
+;Learn More&hellip;
+Dalše informacije&hellip;
+
+
+;Tip
+Pokiw
+
+
+;Looks like your Firefox is brand new! Check back after using Firefox for a while.
+Zda so, zo waš Firefox je čisće nowy! Skontrolujće znowa, po tym zo sće Firefox chwilku wužiwał.
+
+
+;Important Metrics
+Wažna metrika
+
+
+;Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
+Statusowa rozprawa Firefox zapřijima informacije wo wašim wobhladowaku a graće. Móžeće <a href="#raw" class="navigate">informacije widźeć, kotrež zapřijimamy.</a> Móžeće tež widźeć, štož z Mozilla dźělimy.
+
+
+;Device hardware, operating system, Firefox version.
+Gratowa hardware, dźěłowy system, wersija Firefox.
+
+
+;Extensions, plugins, and number of installed add-ons.
+Rozšěrjenja, tykače a ličba instalowanych přidatkow.
+
+
+;Key performance measures, such as launch speed.
+Wažne wukonowe měry, na př. startowa spěšnosć.
+
+
+;Browsing duration, install time, number of bookmarks and pages.
+Přehladowanske traće, instalaciski čas, ličba zapołožkow a stronow.
+
+
+;Home
+Startowa strona
+
+
+;CPU Count:
+CPU-ličba:
+
+
+;The number of CPU cores reported by Android.
+Ličba CPU-jadrow, kotrež Android je zdźělił.
+
+
+;Memory in MB:
+Skład w MB:
+
+
+;The amount of memory reported by Android. Typically excludes graphics memory.
+Wulkosć składa, kotruž Android je zdźělił. Zwjetša njewobsahuje grafikowy skład.
+
+
+;Application Name:
+Mjeno nałoženja:
+
+
+;The internal application name for the browser.
+Nutřkowne mjeno nałoženja za wobhladowak.
+
+
+;Application ID:
+ID nałoženja:
+
+
+;The internal identifier for the application.
+Nutřkowny identifikator za nałoženje.
+
+
+;Application Version:
+Wersija nałoženja:
+
+
+;The current version of the browser
+Aktualna wersija wobhladowaka
+
+
+;Application Build ID:
+Wersijowy ID nałoženja:
+
+
+;The internal build timestamp.
+Nutřkowny wersijowy časowy kołk.
+
+
+;Update Channel:
+Aktualizowanski kanal:
+
+
+;Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
+Firefox so přez kanale rozdźěla: wersije Nightly, předdopušćenski kanal Aurora, stabilna beta-wersija a zjawne dopušćenje. Tute polo kanal identifikuje.
+
+
+;Vendor:
+Předawar:
+
+
+;The organization that built this application. Typically Mozilla.
+Organizacija, kotraž je tute nałoženje wutworiła. Zwjetša Mozilla.
+
+
+;Platform Version:
+Wersija platformy:
+
+
+;An internal version identifier. Typically the same as appVersion.
+Nutřkowny wersijowy identifikator. Zwjetša samsny kaž appVersion.
+
+
+;Platform Build ID:
+Wersijowy ID platformy:
+
+
+;On Android this is an alternative name for appBuildID.
+Na Androidźe je to alternatiwne mjeno za appBuildID.
+
+
+;xpcomabi:
+xpcomabi: {ok}
+
+
+;The CPU architecture for which this application was built.
+CPU-architektura, za kotruž tute nałoženje je so wutworiło.
+
+
+;OS:
+Dźěłowy system:
+
+
+;The current operating system.
+Aktualny dźěłowy system.
+
+
+;Architecture:
+Architektura:
+
+
+;The CPU architecture for this device.
+CPU-architektura za tutón grat.
+
+
+;System Name:
+Systemowe mjeno:
+
+
+;The current system name.
+Aktualne systemowe mjeno.
+
+
+;System Version:
+Systemowa wersija:
+
+
+;The Android OS revision.
+Wersija dźěłoweho systema Android.
+
+
+;Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
+Hač Firefox so wuslědki přidatkoweje blokowanskeje lisćiny wobstaruje, zo by was přećiwo złowólnym přidatkam škitał. Standard: Zmóžnjeny.
+
+
+;Telemetry Enabled:
+Telemetrija zmóžnjena:
+
+
+;Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
+Hač Firefox podrobne wužiwanske daty zdźěla, zo by při wuwiću pomhał. Standard: Wupinjeny za najwjace kanalow.
+
+
+;Extension Count:
+Ličba rozšěrjenjow:
+
+
+;How many extension add-ons are installed.
+Kelkož rozšěrjenja su instalowane.
+
+
+;Plugin Count:
+Ličba tykačow:
+
+
+;How many plugin add-ons are installed.
+Kelkož tykače su instalowane.
+
+
+;Theme Count:
+Ličba drastow:
+
+
+;How many theme add-ons are installed.
+Kelkož drastowe přidatki su so instalowali.
+
+
+;Addons:
+Přidatki:
+
+
+;A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
+Zběrka, kotraž instalowane přidatki wopisuje. Nic wšě přidatki so zdźěleja: jenož tykače, rozšěrjenja a słužby.
+
+
+;Search Counts:
+Pytanske ličby:
+
+
+;A count of how many searches you issued to each of Mozilla's partner providers.
+Ličba wo tym, kelko pytanja sće na kóždeho partneroweho poskićowarja Mozilla wudał
+
+
+;Sessions and Startup Times
+Posedźenja a startowe časy
+
+
+;For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
+Za kóžde přehladowanske posedźenje zapřijima statusowa ropzprawa Firefox, kak dołho přibližnje sće přehladował (w sekundach), a hač so posedźenje normalnje abo přez spad skónčiło. Wobsahuje tež startowe časy (w milisekundach), jeli k dispoziciji steja.
+
+
+;Profile Creation:
+Wutworjenje profilow:
+
+
+;The day on which your browser profile was created. Counted in days since January 1st 1970.
+Dźeń, hdyž waš wobhladowakowy profil je so wutworił. Liči so w dnjach wot 1. januara 1970.
+
+
+;Learn More
+Dalše informacije
+
+
+;Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
+Statusowa rozprawa Firefox (FHR) analyzuje wukonowe informacije wašeho wobhladowaka, zo by z wužitnymi pokiwami wobstarała, kotrerž wam pomhaja, zo byšće najlěpše z Firefox won ćahnył. Za dalše informacije wo statusowej rozprawje Firefox, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>wopytajće wotrězk pomocy Mozilla.</a>
+
+
+;For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
+Za dalše informacije wo tym, kak z wašimi datami wobchadźamy, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>hlejće naše prawidła priwatnosće.</a>
+
+
+;You are currently sharing your health report with Mozilla.
+Tuchwilu dźěliće swoju statusowu rozprawu z Mozilla.
+
+
+;Choose what I share
+Wubrać, štož ma so dźělić
+
+
+;You are currently not sharing your health report with Mozilla.
+Tuchwilu njedźěliće swoju statusowu rozprawu z Mozilla.
