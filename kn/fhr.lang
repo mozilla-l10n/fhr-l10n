@@ -87,15 +87,15 @@
 
 
 ;always activate
-always activate
+ಯಾವಾಗಲೂ ಸಕ್ರಿಯಗೊಳಿಸು
 
 
 ;ask to activate
-ask to activate
+ಸಕ್ರಿಯಗೊಳಿಸಲು ಕೇಳು
 
 
 ;never activate
-never activate
+ಎಂದಿಗೂ ಸಕ್ರಿಯಗೊಳಿಸಬೇಡ
 
 
 ;Tips
@@ -448,11 +448,11 @@ Firefox Health Report lets you optimize your Firefox and helps us build a more e
 
 
 ;Learn More&hellip;
-Learn More&hellip;
+ಹೆಚ್ಚಿನದನ್ನು ಕಲಿಯಿರಿ&hellip;
 
 
 ;Tip
-Tip
+ಸಲಹೆ
 
 
 ;Looks like your Firefox is brand new! Check back after using Firefox for a while.
@@ -484,19 +484,19 @@ Browsing duration, install time, number of bookmarks and pages.
 
 
 ;Home
-Home
+ನೆಲೆ
 
 
 ;CPU Count:
-CPU Count:
+CPU ಎಣಿಕೆ:
 
 
 ;The number of CPU cores reported by Android.
-The number of CPU cores reported by Android.
+ಆಂಡ್ರಾಯ್ಡ್ ವರದಿ ಮಾಡಿದ CPU ಕೋರ್‌ಗಳ ಸಂಖ್ಯೆ.
 
 
 ;Memory in MB:
-Memory in MB:
+ಮೆಮರಿ MBಗಳಲ್ಲಿ:
 
 
 ;The amount of memory reported by Android. Typically excludes graphics memory.
@@ -524,11 +524,11 @@ Application Version:
 
 
 ;The current version of the browser
-The current version of the browser
+ಬ್ರೌಸರ್‌ನ ಪ್ರಸ್ತುತ ಆವೃತ್ತಿ
 
 
 ;Application Build ID:
-Application Build ID:
+ಅನ್ವಯದ ನಿರ್ಮಿತಿ ಸಂಖ್ಯೆ:
 
 
 ;The internal build timestamp.
@@ -536,7 +536,7 @@ The internal build timestamp.
 
 
 ;Update Channel:
-Update Channel:
+ ಅಪ್‌ಡೇಟ್ ಚಾನಲ್‌:
 
 
 ;Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
@@ -697,5 +697,3 @@ Choose what I share
 
 ;You are currently not sharing your health report with Mozilla.
 You are currently not sharing your health report with Mozilla.
-
-
