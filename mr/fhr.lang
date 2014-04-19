@@ -15,31 +15,31 @@ Firefoxच्या आपल्या आवृत्तीविषयी स�
 
 
 ;Data Sharing
-डाटा शेअरिंग
+माहिती शेअरिंग
 
 
 ;ON
-सुरू करा
+सुरू
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
-Mozillaसह डाटा शेअर करणे बंद करायचे तुम्ही ठरवले आहे, परंतु तुम्ही अजूनही ब्राऊजरची कामगिरि पाहू शकाल.
+Mozillaसह माहिती शेअर करणे बंद करायचे तुम्ही ठरवले आहे, परंतु तुम्ही अजुनही ब्राऊझरची कामगिरी पाहू शकाल.
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
-Mozillaच्या सर्व्हरपासून तुमचा हेल्थ रिपोर्ट डाटा देखील काढून टाकला जाईल. <a href="%(privacy_url)s">गोपणीयता धोरण.</a> विषयी आणखी शिका
+Mozillaच्या सर्व्हरपासून तुमच्या हेल्थ रिपोर्टवरची माहिती देखील काढून टाकली जाईल. <a href="%(privacy_url)s">गोपनीयता धोरण</a> विषयी आणखी शिका.
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
-तुम्ही वेळोवेळी Mozillaसह डाटा शेअर करायचे ठरवले आहे. वेबच्या उज्जवल भविष्यच्या निर्माणकरिता सहभागी झाल्याबद्दल धन्यवाद.
+तुम्ही वेळोवेळी Mozillaसह माहिती शेअर करायचे ठरवले आहे. वेबच्या उज्जवल भविष्याच्या निर्माणासाठी सहभागी झाल्याबद्दल धन्यवाद.
 
 
 ;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
-<a href="%(privacy_url)s">गोपणियता धोरण.</a>मध्ये तुमचा डाटा कशा प्रकारे हाताळला जाते ते शिका
+<a href="%(privacy_url)s">गोपनीयता धोरण</a>मध्ये तुमची माहिती कशा प्रकारे हाताळली जाते ते शिका.
 
 
 ;Vital Stats
-महत्वपूर्ण स्थिती
+महत्वपूर्ण आकडेवारी
 
 
 ;version
@@ -47,11 +47,11 @@ Mozillaच्या सर्व्हरपासून तुमचा हे�
 
 
 ;time open
-खुला वेळ
+वेळ खुले
 
 
 ;last crash
-शेवटचा कडकडाट
+शेवटचा क्रॅश
 
 
 ;bookmarks
@@ -63,7 +63,7 @@ Mozillaच्या सर्व्हरपासून तुमचा हे�
 
 
 ;crashes
-कडकडाट
+क्रॅशेस
 
 
 ;Add-ons
@@ -71,15 +71,15 @@ Mozillaच्या सर्व्हरपासून तुमचा हे�
 
 
 ;View List
-अवलोकन सूची
+सूची बघा
 
 
 ;enabled
-सुरू केले
+सक्रीय
 
 
 ;disabled
-बंद केले
+निष्क्रिय
 
 
 ;Plugins
@@ -87,27 +87,27 @@ Mozillaच्या सर्व्हरपासून तुमचा हे�
 
 
 ;always activate
-always activate
+सदा कार्यान्वित करा
 
 
 ;ask to activate
-ask to activate
+कार्यान्वित करण्यासाठी विचारा
 
 
 ;never activate
-never activate
+कधीही कार्यान्वित करु नये
 
 
 ;Tips
-टिप्स
+टीपा
 
 
 ;Wear and Tear
-तूटफूट
+घसारा
 
 
 ;It looks like your browser has crashed a number of times recently. To learn more:
-असे आढळून येते कि तुमचे ब्राऊजर नुकतेच अनेक वेळ कडकडाटले. आणखी शिकण्याकरिता:
+असे आढळून येते की तुमचे ब्राऊझर नुकतेच अनेक वेळा क्रॅश झाले. आणखी शिकण्याकरिता:
 
 
 ;OFF
@@ -115,7 +115,7 @@ never activate
 
 
 ;Visit our <a href="%(sumo_url)s">support website</a>
-<a href="%(sumo_url)s">सपोर्ट संकेतस्थळ</a> येथे भेट द्या
+आमच्या <a href="%(sumo_url)s">आधार संकेतस्थळाला</a> भेट द्या
 
 
 ;View more <a href="%(details_url)s">detailed information</a>
@@ -123,15 +123,15 @@ never activate
 
 
 ;pages visited
-भेट दिलेले पान
+भेट दिलेले पाने
 
 
 ;Your browser seems to be running slower than usual. To learn more:
-नेहमीपेक्षा तुमचे ब्राऊजर हळुवारपमे सुरू आहे. आणखी शिकण्याकरिता:
+नेहमीपेक्षा तुमचे ब्राऊझर हळुवारपणे सुरू आहे. आणखी शिकण्याकरिता:
 
 
 ;You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
-ब्राऊजरचा जेवढा वापर कराल तेवढ्याच गरजेचे व तपशील माहिती पुरवणारे वाटेल. कल पहाण्याकरिता दोन आठवड्यानंतर तपासणी करा.
+ब्राऊझरचा जेवढा वापर कराल तेवढेच ते गरजेचे व तपशील माहिती पुरवणारे वाटेल. कल पहाण्याकरिता काही आठवड्यानंतर तपासणी करा.
 
 
 ;Startup Time by Day
@@ -143,7 +143,7 @@ never activate
 
 
 ;Average
-सरासरि
+सरासरी
 
 
 ;All
@@ -151,11 +151,11 @@ never activate
 
 
 ;Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
-स्टार्टअपवेळ Firefoxची आवृत्ती किती कुशलतेने काम करत आहे, ओळखण्यास मदत करते. सर्वसाधारणपणे, वेगवान वेळ (म्हणजेच कमी वेळ) उत्तम कामगिरि निर्देशीत करते.
+स्टार्टअपवेळ Firefoxची आवृत्ती किती कुशलतेने काम करत आहे, ओळखण्यास मदत करते. सर्वसाधारणपणे, वेगवान वेळ (म्हणजेच कमी वेळ) उत्तम कामगिरी निर्देशीत करते.
 
 
 ;Data Collected
-गोळा केलेला डाटा
+गोळा केलेली माहिती
 
 
 ;Glossary
@@ -175,11 +175,11 @@ Firefox Health Report (FHR)चे चार दशमान आहेत:
 
 
 ;Device hardware, operating system, Firefox version
-साधन हार्डवेअर, ऑपरेटिंग सिस्टम, Firefox आवृत्ती
+उपकरण हार्डवेअर, ऑपरेटिंग सिस्टम, Firefox आवृत्ती
 
 
 ;Customizations
-पसंती
+स्वपसंती
 
 
 ;Add-ons, count and type
@@ -187,15 +187,15 @@ Firefox Health Report (FHR)चे चार दशमान आहेत:
 
 
 ;Performance
-कामगिरि
+कामगिरी
 
 
 ;Timing of browser events, rendering, session restores
-ब्राऊजर इव्हेंट्स्चे टाइमिंग, रेंडरिंग, सत्र पुन्हा साठवणे
+ब्राऊझर इव्हेंट्स्चे टाइमिंग, रेंडरिंग, सत्र पुन्हा साठवणे
 
 
 ;Length of session, how old a profile is, count of crashes, count of pages
-सत्राची लांबी, जुणे प्रोफाइल कसे आहे, कडकडाटचे प्रमाण, पानांचे प्रमाण
+सत्राची लांबी, जुने प्रोफाइल कसे आहे, क्रॅशचे प्रमाण, पानांचे प्रमाण
 
 
 ;Detailed Description
@@ -211,7 +211,7 @@ Firefox Health Report (FHR)चे चार दशमान आहेत:
 
 
 ;Binary interface for XPCOM
-XPCOMकरिता बाइनरि संवाद
+XPCOMकरिता बाइनरी संवाद
 
 
 ;Identifier for this build of the application based on the date the build was started
@@ -223,11 +223,11 @@ XPCOMकरिता बाइनरि संवाद
 
 
 ;Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
-वापरकरिता ॲप्लिकेशनकरिता विशिष्ट वितरणकरिता आइडेंटिफायर. त्यास <var>distribution.id</var> पसंतीपासून प्राप्त केले आहे
+वापराकरिता ॲप्लिकेशनकरिता विशिष्ट वितरणाकरिता आइडेंटिफायर. त्यास <var>distribution.id</var> पसंतीपासून प्राप्त केले आहे
 
 
 ;Version of the distribution, taken from the <var>distribution.version</var> preference
-वितणची आवृत्ती, <var>distribution.version</var> प्राधान्यपासून प्राप्त
+वितरणाची आवृत्ती, <var>distribution.version</var> प्राधान्यपासून प्राप्त
 
 
 ;The version number of any Mozilla hotfix applied to the application
@@ -235,7 +235,7 @@ XPCOMकरिता बाइनरि संवाद
 
 
 ;Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
-Firefox किंवा Thunderbird, इत्यादि असे निर्देशीत करणारे ॲप्लिकेशनकरिता एकमेव आइडेंटिफायर. <var>appName</var>च्या मूल्य अपेक्षित ॲप्लिकेशनच्या सर्व इंस्टॉलेशन्सकरिता समान आहे
+Firefox किंवा Thunderbird, इत्यादी असे निर्देशीत करणारे ॲप्लिकेशनकरिता एकमेव आइडेंटिफायर. <var>appName</var>च्या मूल्य अपेक्षित ॲप्लिकेशनच्या सर्व इंस्टॉलेशन्सकरिता समान आहे
 
 
 ;The configured name of the application (Firefox/Aurora/Nightly for instance)
@@ -355,7 +355,7 @@ UI दाखवण्याकरिता व पटल दाखवल्य�
 
 
 ;How long in milliseconds it took during startup for the application to restore tabs from the previous session
-मागील सत्रपासून टॅब्स पूर्ववत् करण्यासाठी ॲप्लिकेशनकरिता स्टार्टअपवेळी मिलिसेकंदातील वेळ
+मागील सत्रपासून टॅब्स पूर्ववत करण्यासाठी ॲप्लिकेशनकरिता स्टार्टअपवेळी मिलिसेकंदातील वेळ
 
 
 ;The number of times the application was run and not cleanly shut down.
@@ -375,7 +375,7 @@ UI दाखवण्याकरिता व पटल दाखवल्य�
 
 
 ;The number of times the application was run and cleanly shut down.
-ॲप्लिकेशन सुरू व योग्यरित्या शट डाऊन झाल्याची संख्या.
+ॲप्लिकेशन सुरू व योग्यरित्या बंद झाल्याची संख्या.
 
 
 ;The time in seconds that the completed sessions were not idle
@@ -387,11 +387,11 @@ UI दाखवण्याकरिता व पटल दाखवल्य�
 
 
 ;Total number of crashes that were recorded but not yet submitted
-कडकडाटची संख्या ज्यास रेकॉर्ड केले परंतु सादर केले नाही
+क्रॅशेसची संख्या ज्यास रेकॉर्ड केले परंतु सादर केले नाही
 
 
 ;Total number of crashes that have been submitted
-सादर केलेल्या कडकडाटांची एकूण संख्या
+सादर केलेल्या क्रॅशेसची एकूण संख्या
 
 
 ;Time in seconds the app has not been idle
@@ -423,7 +423,7 @@ Firefox Health Reportवर आपले स्वागत आहे
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
-Firefox Health Report तुम्हाला Firefoxची कामगिरि कशी आहे व त्याची सुधारणा करण्यासाठी काय शक्य आहे ते कळवते.
+Firefox Health Report तुम्हाला Firefoxची कामगिरी कशी आहे व त्याची सुधारणा करण्यासाठी काय शक्य आहे ते कळवते.
 
 
 ;See My Report
@@ -435,136 +435,135 @@ Firefox Health Report तुम्हाला Firefoxची कामगिर�
 
 
 ;Show Statistics
-आकडेवारि दाखवा
+आकडेवारी दाखवा
 
 
 ;Privacy Policy
-गोपणीयता धोरण
+गोपनीयता धोरण
 
 
 # The following strings are used only in the Mobile version of about:healthreport (Firefox for Android)
 ;Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
-Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
+Firefox Health Report तुम्हाला Firefoxचा जस्तीतजास्त उपयोग करण्यास आणि आम्हाला अधिक चांगल ब्राउझर बनवण्यास मदत करते. अहवाल पहिले साधे असतील, पण ते वाढत आणि मोठे होत जाणार.
 
 
 ;Learn More&hellip;
-Learn More&hellip;
+आणखी शिका&hellip;
 
 
 ;Tip
-Tip
+टीप
 
 
 ;Looks like your Firefox is brand new! Check back after using Firefox for a while.
-Looks like your Firefox is brand new! Check back after using Firefox for a while.
+असं दिसतं तुमचं Firefox कोरं करकरीत आहे! काही वेळ Firefox वापरल्यानंतर परत तपासा.
 
 
 ;Important Metrics
-Important Metrics
+महत्त्वाचे दशमाने
 
 
 ;Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
-Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
+Firefox Health Report तुमच्या ब्राउझर आणि उपकरणाबद्दल माहिती रेकॉर्ड करते. तुम्ही <a href="#raw" class="navigate">आम्ही रेकॉर्ड करतो ती माहिती बघा.</a> तुम्ही Mozillaसोबत काय शेअर करता ते पण बघु शकता.
 
 
 ;Device hardware, operating system, Firefox version.
-Device hardware, operating system, Firefox version.
+उपकरण हार्डवेयर, ऑपरेटिंग सिस्टम, Firefox आवृत्ती.
 
 
 ;Extensions, plugins, and number of installed add-ons.
-Extensions, plugins, and number of installed add-ons.
+एक्सटेंशन्स, प्लगइन्स, आणि इंस्टॉल केलेल्या ॲड-ऑन्सचे प्रमाण.
 
 
 ;Key performance measures, such as launch speed.
-Key performance measures, such as launch speed.
+महत्त्वाचे कामगिरी निकषे, जसे की लौंच गति.
 
 
 ;Browsing duration, install time, number of bookmarks and pages.
-Browsing duration, install time, number of bookmarks and pages.
+ब्राउझिंग वेळ, इंस्टॉल वेळ, वाचनखूणा व पानांचे प्रमाण.
 
 
 ;Home
-Home
-
+घर
 
 ;CPU Count:
-CPU Count:
+सीपीयु आकडा:
 
 
 ;The number of CPU cores reported by Android.
-The number of CPU cores reported by Android.
+Androidद्वारा सांगितलेले सीपीयु कोर्सचे प्रमाण.
 
 
 ;Memory in MB:
-Memory in MB:
+एमबी मध्ये मेमोरी:
 
 
 ;The amount of memory reported by Android. Typically excludes graphics memory.
-The amount of memory reported by Android. Typically excludes graphics memory.
+Androidद्वारा सांगितलेले मेमोरीचे प्रमाण. जास्तकरुन ग्राफिक्स मेमोरी अपवर्जित.
 
 
 ;Application Name:
-Application Name:
+ॲप्लिकेशनचे नाव:
 
 
 ;The internal application name for the browser.
-The internal application name for the browser.
+ब्राउझरसाठी आंतरिक ॲप्लिकेशनचे नाव.
 
 
 ;Application ID:
-Application ID:
+ॲप्लिकेशन आयडी:
 
 
 ;The internal identifier for the application.
-The internal identifier for the application.
+ॲप्लिकेशनसाठी आंतरिक ओळख.
 
 
 ;Application Version:
-Application Version:
+ॲप्लिकेशन आवृत्ती:
 
 
 ;The current version of the browser
-The current version of the browser
+ब्राउझरची सध्याची आवृत्ती
 
 
 ;Application Build ID:
-Application Build ID:
+ॲप्लिकेशन बिल्ड आयडी:
 
 
 ;The internal build timestamp.
-The internal build timestamp.
+आंतरिक बिल्डचा वेळठसा.
 
 
 ;Update Channel:
-Update Channel:
+अद्ययावताचे चॅनल:
 
 
 ;Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
-Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
+Firefoxचे ह्या चॅनल्सने वितरण केले जाते: Nightly बिल्डस्, Aurora रिलीझ-पूर्व चॅनल, स्थायी Beta, आणि जाहीर रिलीझ. ही जागा ते चॅनल ओळखते.
 
 
 ;Vendor:
-Vendor:
+विक्रेता:
 
 
 ;The organization that built this application. Typically Mozilla.
-The organization that built this application. Typically Mozilla.
+ज्या संघटनेने हे ॲप्लिकेशन बनवले आहे. विशिष्ट प्रकारे Mozilla.
 
 
 ;Platform Version:
-Platform Version:
+प्लॅटफॉर्म आवृत्ती:
 
 
 ;An internal version identifier. Typically the same as appVersion.
-An internal version identifier. Typically the same as appVersion.
+आंतरिक आवृत्ती ओळख. appVersion सारखेच.
 
 
 ;Platform Build ID:
-Platform Build ID:
+प्लॅटफॉर्म बिल्ड आयडी:
 
 
 ;On Android this is an alternative name for appBuildID.
-On Android this is an alternative name for appBuildID.
+Androidवर appBuildIDसाठीचे हे पर्यायी नाव आहे.
 
 
 ;xpcomabi:
@@ -572,130 +571,130 @@ xpcomabi:
 
 
 ;The CPU architecture for which this application was built.
-The CPU architecture for which this application was built.
+सीपीयु रचना ज्यासाठी ह्या ॲप्लिकेशनची बांधणी केली गेली.
 
 
 ;OS:
-OS:
+ओएस:
 
 
 ;The current operating system.
-The current operating system.
+सध्याची ऑपरेटिंग सिस्टीम.
 
 
 ;Architecture:
-Architecture:
+रचना:
 
 
 ;The CPU architecture for this device.
-The CPU architecture for this device.
+उपकरणासाठीची सीपीयु रचना.
 
 
 ;System Name:
-System Name:
+सिस्टीमचे नाव:
 
 
 ;The current system name.
-The current system name.
+सध्याच्या सिस्टीमचे नाव.
 
 
 ;System Version:
-System Version:
+सिस्टीम आवृत्ती:
 
 
 ;The Android OS revision.
-The Android OS revision.
+Android ओएस संस्करण.
 
 
 ;Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
-Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
+तुम्हाला धूर्त  ॲड-ऑन्सपासून वाचवण्यासाठी Firefox अडवलेल्या ॲड-ऑन्सची माहिती मागवते का. पूर्वनिर्धारित सुरु आहे.
 
 
 ;Telemetry Enabled:
-Telemetry Enabled:
+Telemetry सक्रीय:
 
 
 ;Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
-Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
+डेवेलपमेंटसाठी Firefox माहिती तपशील कळवतो का. पूर्वनिर्धारित जास्तकरुन चॅनल्सवर बंद आहे.
 
 
 ;Extension Count:
-Extension Count:
+एक्सटेंशन प्रमाण:
 
 
 ;How many extension add-ons are installed.
-How many extension add-ons are installed.
+किती प्रमाणात एक्सटेंशन व ॲड-ऑन्स इंस्टॉल केलेले आहेत.
 
 
 ;Plugin Count:
-Plugin Count:
+प्लगइन प्रमाण:
 
 
 ;How many plugin add-ons are installed.
-How many plugin add-ons are installed.
+किती प्रमाणात प्लगइन ॲड-ऑन्स इंस्टॉल केलेले आहेत.
 
 
 ;Theme Count:
-Theme Count:
+थीमचे प्रमाण:
 
 
 ;How many theme add-ons are installed.
-How many theme add-ons are installed.
+किती प्रमाणात थीम ॲड-ऑन्स इंस्टॉल केलेले आहेत.
 
 
 ;Addons:
-Addons:
+ॲड-ऑन्स:
 
 
 ;A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
-A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
+इंस्टॉल केलेल्या ॲड-ऑन्सचे वर्णन करताना चयन. सगळेच ॲड-ऑन्स कळवले नाही जात: फक्त प्लगइन्स, एक्सटेंशन, आणि सेवा.
 
 
 ;Search Counts:
-Search Counts:
+शोधाचे प्रमाण:
 
 
 ;A count of how many searches you issued to each of Mozilla's partner providers.
-A count of how many searches you issued to each of Mozilla's partner providers.
+तुम्ही Mozillaच्या भागीदार प्रोव्हाइडर्सला किती शोध मागितले त्याचे एक प्रमाण.
 
 
 ;Sessions and Startup Times
-Sessions and Startup Times
+सत्रे व स्टार्टअप वेळा
 
 
 ;For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
-For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
+प्रत्येक बाउझिंग सत्रासाठी, Firefox Health Report तुम्ही किती वेळ ब्राउझ केले ते रेकॉर्ड करते (सेकंदांमध्ये), आणि सत्र सामान्यपणे संपले किंवा क्रॅशमुळे. जर उपलब्ध असेल तर स्टार्टअप वेळापण सामील (मिलीसेकंदांमध्ये).
 
 
 ;Profile Creation:
-Profile Creation:
+प्रोफाइल बनवणे:
 
 
 ;The day on which your browser profile was created. Counted in days since January 1st 1970.
-The day on which your browser profile was created. Counted in days since January 1st 1970.
+ज्या दिवशी तुमची ब्राउझर प्रोफाइल बनवली गेली. १ जानेवारी १९७०पासून दिवसांत मोजली जाते.
 
 
 ;Learn More
-Learn More
+आणखी शिका
 
 
 ;Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
-Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
+Firefox Health Report (FHR) तुमच्या ब्राउझरच्या कामगिरी माहितीचे आकलन करतं, जेणेकरुन तुम्हाला Firefoxमधुन उत्तम मिळवण्यासाठी महत्त्वाच्या टीपा देता येतील. अधिक माहितीसाठी Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>Mozilla Support गटाला भेट द्या.</a>
 
 
 ;For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
-For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
+आम्ही तुमच्या माहितीचा कसा वापर करतो याच्या अधिक माहितीसाठी, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>आमचे गोपनीयता धोरण बघा.</a>
 
 
 ;You are currently sharing your health report with Mozilla.
-You are currently sharing your health report with Mozilla.
+तुम्ही सध्यस्थितीत Mozillaसोबत हेल्थ रिपोर्ट शेअर करता.
 
 
 ;Choose what I share
-Choose what I share
+मी काय शेअर करतो ते निवडा
 
 
 ;You are currently not sharing your health report with Mozilla.
-You are currently not sharing your health report with Mozilla.
+तुम्ही सध्यस्थितीत Mozillaसोबत हेल्थ रिपोर्ट शेअर नाही करत.
 
 
