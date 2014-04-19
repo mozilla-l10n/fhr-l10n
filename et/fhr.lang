@@ -87,15 +87,15 @@ Pluginad
 
 
 ;always activate
-always activate
+alati aktiivne
 
 
 ;ask to activate
-ask to activate
+aktiveerimiseks küsitakse luba
 
 
 ;never activate
-never activate
+mitte kunagi aktiivne
 
 
 ;Tips
@@ -576,7 +576,7 @@ Protsessori arhitektuur, mille jaoks see rakendus kompileeriti.
 
 
 ;OS:
-OS:
+OS: {ok}
 
 
 ;The current operating system.
