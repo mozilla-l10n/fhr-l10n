@@ -107,7 +107,7 @@ Uzadur
 
 
 ;It looks like your browser has crashed a number of times recently. To learn more:
-Sac'het en deus ho merdeer kalz nevez zo war ar seblant. Evit gouzout hiroc'h :
+Sac'het en deus ho merdeer meur a wech war ar seblant. Evit gouzout hiroc'h :
 
 
 ;OFF
@@ -419,11 +419,11 @@ Donemat war ho tanevell a-fet yec'hed Firefox
 
 
 ;Welcome!
-Donemat&nbsp;!
+Donemat !
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
-Danevell a-fet yec'hed Firefox a ro deoc'h titouroù a-fet digonusted ho merdeer ha petra a c'hellit ober evit gwellaat anezhi.
+An danevell a-fet yec'hed Firefox a ro titouroù deoc'h a-fet digonusted ho merdeer ha petra a c'hellit ober evit gwellaat anezhi.
 
 
 ;See My Report
@@ -444,7 +444,7 @@ Reolenn an diogelroez
 
 # The following strings are used only in the Mobile version of about:healthreport (Firefox for Android)
 ;Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
-Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
+Gwellekaet e vez ho Firefox gant an danevell a-fet yec'hed Firefox ha da sevel ur merdeer gwelloc'h c'hoazh e ro skoazel deomp. Da gentañ e vo an danevelloù eeun a-walc'h, amdreiñ a raint, 'vat, ha da greskiñ.
 
 
 ;Learn More&hellip;
@@ -456,246 +456,246 @@ Tun
 
 
 ;Looks like your Firefox is brand new! Check back after using Firefox for a while.
-Looks like your Firefox is brand new! Check back after using Firefox for a while.
+Nevez flamm e hañval bezañ ho Firefox ! Taolit ur sell goude bezañ graet gantañ e-pad un tamm amzer.
 
 
 ;Important Metrics
-Important Metrics
+Muzulioù pouezus
 
 
 ;Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
-Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
+Stlennoù a vez enrollet gant an danevell a-fet yec'hed a-zivout ho merdeer hag ho trevnadoù. Mar fell deoc'h <a href="#raw" class="navigate">gwelit an titouroù enrollet ganeomp.</a> Gwelet e vez ivez pezh a rannit gant Mozilla.
 
 
 ;Device hardware, operating system, Firefox version.
-Device hardware, operating system, Firefox version.
+Periantoù, reizhiad korvoiñ, handelv Firefox.
 
 
 ;Extensions, plugins, and number of installed add-ons.
-Extensions, plugins, and number of installed add-ons.
+Askouezhioù, enlugelladoù ha niver an askouezhioù bet staliet.
 
 
 ;Key performance measures, such as launch speed.
-Key performance measures, such as launch speed.
+Muzulioù digonusted pennañ evel tizh al loc'hañ.
 
 
 ;Browsing duration, install time, number of bookmarks and pages.
-Browsing duration, install time, number of bookmarks and pages.
+Pad ar merdeiñ, pad ar staliadur, niver a sinedoù ha pajennadoù.
 
 
 ;Home
-Home
+Pennbajenn
 
 
 ;CPU Count:
-CPU Count:
+Niver a CPUioù :
 
 
 ;The number of CPU cores reported by Android.
-The number of CPU cores reported by Android.
+An niver a graoñelloù CPUioù lakaet en danevell gant Android.
 
 
 ;Memory in MB:
-Memory in MB:
+Memor e Me :
 
 
 ;The amount of memory reported by Android. Typically excludes graphics memory.
-The amount of memory reported by Android. Typically excludes graphics memory.
+Kementad a vemor lakaet en danevell gant Android. Peurliesañ ne vez ket dalc'het kont er vemor gevregat.
 
 
 ;Application Name:
-Application Name:
+Anv an arload :
 
 
 ;The internal application name for the browser.
-The internal application name for the browser.
+Anv diabarzh an arload evit ar merdeer.
 
 
 ;Application ID:
-Application ID:
+Naoudi an arload :
 
 
 ;The internal identifier for the application.
-The internal identifier for the application.
+An naoudi diabarzh evit an arload.
 
 
 ;Application Version:
-Application Version:
+Handelv an arload :
 
 
 ;The current version of the browser
-The current version of the browser
+Handelv vremanel ar merdeer
 
 
 ;Application Build ID:
-Application Build ID:
+Naoudi savadur an arload :
 
 
 ;The internal build timestamp.
-The internal build timestamp.
+Eur-deiziad ar savadur diabarzh.
 
 
 ;Update Channel:
-Update Channel:
+Sanell hizivaat :
 
 
 ;Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
-Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
+Dre sanelloù e vez dasparzhet Firefox : Savadurioù mod Nightly, ar sanell Aurora, evit ar rakermaeziadennoù, ur Beta stabil, hag  an ermaeziadenn foran. Ar vaezienn-mañ a dalv da hennadiñ ar sanell.
 
 
 ;Vendor:
-Vendor:
+Gwerzhour :
 
 
 ;The organization that built this application. Typically Mozilla.
-The organization that built this application. Typically Mozilla.
+An aozadur a sav an arload-mañ. Peurliesañ Mozilla.
 
 
 ;Platform Version:
-Platform Version:
+Handelv ar savenn :
 
 
 ;An internal version identifier. Typically the same as appVersion.
-An internal version identifier. Typically the same as appVersion.
+Un naoudi diabarzh evit an handelv. Peurliesañ an hini heñvel ha appVersion.
 
 
 ;Platform Build ID:
-Platform Build ID:
+Naoudi savadur ar savenn :
 
 
 ;On Android this is an alternative name for appBuildID.
-On Android this is an alternative name for appBuildID.
+War Android e talv d'un anv all evit appBuildID.
 
 
 ;xpcomabi:
-xpcomabi:
+xpcomabi :
 
 
 ;The CPU architecture for which this application was built.
-The CPU architecture for which this application was built.
+Adeiladezh ar CPU ma'z eo bet savet an arload-mañ eviti.
 
 
 ;OS:
-OS:
+Reizhiad korvoiñ :
 
 
 ;The current operating system.
-The current operating system.
+Ar reizhiad korvoiñ bremanel.
 
 
 ;Architecture:
-Architecture:
+Adeiladezh :
 
 
 ;The CPU architecture for this device.
-The CPU architecture for this device.
+Adeiladezh ar CPU evit an trevnad-mañ.
 
 
 ;System Name:
-System Name:
+Anv ar reizhiad :
 
 
 ;The current system name.
-The current system name.
+Anv ar reizhiad bremanel.
 
 
 ;System Version:
-System Version:
+Handelv ar reizhiad :
 
 
 ;The Android OS revision.
-The Android OS revision.
+Azgweladur ar reizhiad korvoiñ Android.
 
 
 ;Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
-Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
+Ma yay Firefox da gerc'hat disoc'hoù roll tolc'hañ an askouezhioù d'ho kwareziñ a-enep an askouezhioù arvarus. Dre ziouer ez eo gweredekaet.
 
 
 ;Telemetry Enabled:
-Telemetry Enabled:
+Gweredekaet eo Telemetry :
 
 
 ;Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
-Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
+Mar bez lakaet roadennoù a-fet arver en un danevell munudet da skoazellañ an diorren. Dre ziouer ez eo diweredekaet evit an holl sanelloù.
 
 
 ;Extension Count:
-Extension Count:
+Niver a askouezhioù :
 
 
 ;How many extension add-ons are installed.
-How many extension add-ons are installed.
+Pet askouezh zo bet staliet.
 
 
 ;Plugin Count:
-Plugin Count:
+Niver a enlugelladoù :
 
 
 ;How many plugin add-ons are installed.
-How many plugin add-ons are installed.
+Pet enlugellad zo bet staliet.
 
 
 ;Theme Count:
-Theme Count:
+Niver a neuzioù :
 
 
 ;How many theme add-ons are installed.
-How many theme add-ons are installed.
+Pet askouezhioù evit an neuz zo bet staliet.
 
 
 ;Addons:
-Addons:
+Askouezhioù :
 
 
 ;A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
-A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
+Un dastumadeg o teskrivañ an askouezhioù bet staliet. Ne vo ket meneget an holl askouezhioù : enlugelladoù, askouezhioù ha gwazerezhioù nemetken.
 
 
 ;Search Counts:
-Search Counts:
+Niver a c'hlaskoù :
 
 
 ;A count of how many searches you issued to each of Mozilla's partner providers.
-A count of how many searches you issued to each of Mozilla's partner providers.
+An niver a glaskoù hoc'h eus graet evit pep keveler Mozilla.
 
 
 ;Sessions and Startup Times
-Sessions and Startup Times
+Estezioù hag eur al loc'hadurioù
 
 
 ;For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
-For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
+Evit pep estez merdeiñ e vez enrollet pad ho merdeiñ (well-wazh) gant an danevell a-fet yec'hed Firefox (e eilennoù) ha mard eo bet arsavet an estez gant un doare dereat pe un abeg d'ur sac'hadenn. Enlakaet e vo ivez pad al loc'hañ (e milieilennoù) mar bez hegerz.
 
 
 ;Profile Creation:
-Profile Creation:
+Krouiñ an aelad :
 
 
 ;The day on which your browser profile was created. Counted in days since January 1st 1970.
-The day on which your browser profile was created. Counted in days since January 1st 1970.
+An deiz ma'z eo bet krouet an aelad. Kont e deizioù abaoe Kala Genver 1970.
 
 
 ;Learn More
-Learn More
+Deskiñ hiroc'h
 
 
 ;Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
-Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
+Dezrannañ a ra an danevell a-fet yec'hed Firefox (DYF) digonusted ho merdeer a-benn pourchas deoc'h tunioù talvoudus da wellat hoc'h arver eus Firefox. Evit gouzout hiroc'h a-zivout an danevell a-fet yec'hed Firefox, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>taolit ur sell ouzh kevrenn skoazellañ Mozilla.</a>
 
 
 ;For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
-For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
+Evit gouzout hiroc'h a-zivout an doare ma keweriomp ho roadennoù, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>lennit hor reolenn a-fet buhez prevez.</a>
 
 
 ;You are currently sharing your health report with Mozilla.
-You are currently sharing your health report with Mozilla.
+Emaoc'h o rannañ ho tanevell a-fet yec'hed Firefox gant Mozilla.
 
 
 ;Choose what I share
-Choose what I share
+Dibab pezh a fell din rannañ
 
 
 ;You are currently not sharing your health report with Mozilla.
-You are currently not sharing your health report with Mozilla.
+N'emaoc'h ket o rannañ ho tanevell a-fet yec'hed Firefox gant Mozilla.
 
 
