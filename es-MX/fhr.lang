@@ -568,7 +568,7 @@ En Android, este es el nombre alternativo para appBuildID.
 
 
 ;xpcomabi:
-xpcomabi:
+xpcomabi: {ok}
 
 
 ;The CPU architecture for which this application was built.
