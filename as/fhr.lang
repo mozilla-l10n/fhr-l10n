@@ -87,15 +87,15 @@ Firefox স্বাস্থ্য সংবাদ
 
 
 ;always activate
-always activate
+সদায় সক্ৰিয় কৰিব
 
 
 ;ask to activate
-ask to activate
+সক্ৰিয় কৰিবলে সোধক
 
 
 ;never activate
-never activate
+কেতিয়াও সক্ৰিয় নকৰিব
 
 
 ;Tips
@@ -444,258 +444,256 @@ Firefox স্বাস্থ্য সংবাদে আপোনাৰ Firefo
 
 # The following strings are used only in the Mobile version of about:healthreport (Firefox for Android)
 ;Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
-Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
+Firefox স্বাস্থ্য সংবাদে আপোনাৰ Firefox ক অনুকলন কৰিবলৈ দিয়ে আৰু আমাক এটা উৎকৃষ্ট ব্ৰাউছাৰ নিৰ্মাণ কৰাত সহায় কৰে। সংবাদসমূহ প্ৰথমতে মৈলিক হ'ব, কিন্তু পাছত আৰু উন্নত হব।
 
 
 ;Learn More&hellip;
-Learn More&hellip;
+অধিক জানক&hellip;
 
 
 ;Tip
-Tip
+সহায়
 
 
 ;Looks like your Firefox is brand new! Check back after using Firefox for a while.
-Looks like your Firefox is brand new! Check back after using Firefox for a while.
+আপোনাৰ Firefox একেবাৰে নতুন যেন উপলব্ধ হৈছে! Firefox ক কিছু সময় ব্যৱহাৰ কৰাৰ পাছত আকৌ পৰীক্ষা কৰিব।
 
 
 ;Important Metrics
-Important Metrics
+গুৰুত্বপূৰ্ণ মেট্ৰিক্স
 
 
 ;Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
-Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
+Firefox স্বাস্থ্য সংবাদে আপোনাৰ ব্ৰাউছাৰ আৰু ডিভাইচৰ বিষয়ে তথ্য ৰেকৰ্ড কৰে। আপুনি <a href="#raw" class="navigate">আমি ৰেকৰ্ড কৰা তথ্য চাব পাৰিব।</a> আপুনি Mozillaৰ সৈতে কি অংশীদাৰী কৰে সেয়াও চাব পাৰিব।
 
 
 ;Device hardware, operating system, Firefox version.
-Device hardware, operating system, Firefox version.
+ডিভাইচ হাৰ্ডৱেৰ, অপাৰেটিং চিস্টেম, Firefox সংস্কৰণ।
 
 
 ;Extensions, plugins, and number of installed add-ons.
-Extensions, plugins, and number of installed add-ons.
+সম্প্ৰসাৰণ, প্লাগিনসমূহ, আৰু ইনস্টল কৰা এড-অনসমূহৰ সংখ্যা।
 
 
 ;Key performance measures, such as launch speed.
-Key performance measures, such as launch speed.
+মূখ্য পৰিৱেশন জোখ, যেনে আৰম্ভ হোৱাৰ সময়।
 
 
 ;Browsing duration, install time, number of bookmarks and pages.
-Browsing duration, install time, number of bookmarks and pages.
+ব্ৰাউছিংৰ অৱধি, ইনস্টল সময়, পত্ৰচিহ্নসমূহ আৰু পৃষ্ঠাসমূহৰ সংখ্যা।
 
 
 ;Home
-Home
+ঘৰ
 
 
 ;CPU Count:
-CPU Count:
+CPU গণনা:
 
 
 ;The number of CPU cores reported by Android.
-The number of CPU cores reported by Android.
+Android দ্বাৰা সংবাদন কৰা CPU কেন্দ্ৰবোৰৰ সংখ্যা
 
 
 ;Memory in MB:
-Memory in MB:
+MB ত মেমৰি:
 
 
 ;The amount of memory reported by Android. Typically excludes graphics memory.
-The amount of memory reported by Android. Typically excludes graphics memory.
+Android দ্বাৰা সংবাদন কৰা মেমৰিৰ পৰিমাণ। গ্ৰাফিক্স মেমৰি বাদ দিয়ে।
 
 
 ;Application Name:
-Application Name:
+এপ্লিকেচনৰ নাম:
 
 
 ;The internal application name for the browser.
-The internal application name for the browser.
+ব্ৰাউছাৰৰ বাবে অভ্যান্তৰীক এপ্লিকেচন নাম।
 
 
 ;Application ID:
-Application ID:
+এপ্লিকেচন ID:
 
 
 ;The internal identifier for the application.
-The internal identifier for the application.
+এপ্লিকেচনৰ বাবে অভ্যান্তৰীক পৰিচয়ক।
 
 
 ;Application Version:
-Application Version:
+এপ্লিকেচনৰ সংস্কৰণ:
 
 
 ;The current version of the browser
-The current version of the browser
+ব্ৰাউছাৰৰ বৰ্তমান সংস্কৰণ
 
 
 ;Application Build ID:
-Application Build ID:
+এপ্লিকেচন নিৰ্মাণ ID:
 
 
 ;The internal build timestamp.
-The internal build timestamp.
+অভ্যান্তৰীক নিৰ্মাণ টাইমস্টেম্প।
 
 
 ;Update Channel:
-Update Channel:
+আপডেইট চেনেল:
 
 
 ;Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
-Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
+Firefox ক চেনেলসমূহত সহায়ত বিতৰন কৰা হয়: Nightly নিৰ্মাণ, Aurora পূ্ৰ্ব-উন্মোচন চেনেল, এটা স্থিৰ Beta, আৰু ৰাজহুৱা উন্মোচন। এই ফিল্ডে চেনেলক চিনাক্ত কৰে।
 
 
 ;Vendor:
-Vendor:
+বিক্ৰেতা:
 
 
 ;The organization that built this application. Typically Mozilla.
-The organization that built this application. Typically Mozilla.
+এই এপ্লিকেচনক নিৰ্মাণ কৰা সংগঠন। সাধাৰণত Mozilla।
 
 
 ;Platform Version:
-Platform Version:
+প্লেটফৰ্ম সংস্কৰণ:
 
 
 ;An internal version identifier. Typically the same as appVersion.
-An internal version identifier. Typically the same as appVersion.
+এটা অভ্যান্তৰীক সংস্কৰণ পৰিচয়ক। সাধাৰণত appVersion ৰ সৈতে একে।
 
 
 ;Platform Build ID:
-Platform Build ID:
+প্লেটফৰ্ম নিৰ্মাণ ID:
 
 
 ;On Android this is an alternative name for appBuildID.
-On Android this is an alternative name for appBuildID.
+Android ত ই appBuildID ৰ বাবে এটা বিকল্প নাম।
 
 
 ;xpcomabi:
-xpcomabi:
+xpcomabi: {ok}
 
 
 ;The CPU architecture for which this application was built.
-The CPU architecture for which this application was built.
+CPU স্থাপত্য যাৰ বাবে এই এপ্লিকেচন নিৰ্মাণ কৰা হৈছিল।
 
 
 ;OS:
-OS:
+OS: {ok}
 
 
 ;The current operating system.
-The current operating system.
+বৰ্তমান অপাৰেটিং চিস্টেম।
 
 
 ;Architecture:
-Architecture:
+স্থাপত্য:
 
 
 ;The CPU architecture for this device.
-The CPU architecture for this device.
+এই ডিভাইচৰ বাবে CPU স্থাপত্য।
 
 
 ;System Name:
-System Name:
+চিস্টেমৰ নাম:
 
 
 ;The current system name.
-The current system name.
+বৰ্তমান চিস্টেমৰ নাম।
 
 
 ;System Version:
-System Version:
+চিস্টেমৰ সংস্কৰণ:
 
 
 ;The Android OS revision.
-The Android OS revision.
+Android OS পুনৰীক্ষণ।
 
 
 ;Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
-Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
+Firefox এ আপোনাক দ্বেষপূ্ৰ্ণ এড-অনসমূহৰ পৰা ৰক্ষা কৰিবলৈ এড-অন ব্লকলিস্ট প্ৰাপ্ত কৰে নে। অবিকল্পিত হল অন।
 
 
 ;Telemetry Enabled:
-Telemetry Enabled:
+টেলিমেট্ৰি সামৰ্থবান:
 
 
 ;Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
-Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
+Firefox এ উন্নয়নৰ সৈতে সহায় কৰিবলে বিৱৰিত ব্যৱহাৰ তথ্য সংবাদন কৰে নে। বেছিৰভাগ চেনেলৰ বাবে অফ থাকে।
 
 
 ;Extension Count:
-Extension Count:
+সম্প্ৰসাৰণ গণনা:
 
 
 ;How many extension add-ons are installed.
-How many extension add-ons are installed.
+কেইটা সম্প্ৰসাৰণ এড-অন ইনস্টল আছে।
 
 
 ;Plugin Count:
-Plugin Count:
+প্লাগিন গণনা:
 
 
 ;How many plugin add-ons are installed.
-How many plugin add-ons are installed.
+কেইটা প্লাগিন এড-অন ইনস্টল আছে।
 
 
 ;Theme Count:
-Theme Count:
+থীম গণনা:
 
 
 ;How many theme add-ons are installed.
-How many theme add-ons are installed.
+কেইটা থীম এড-অন ইনস্টল আছে।
 
 
 ;Addons:
-Addons:
+এডঅনসমূহ:
 
 
 ;A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
-A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
+ইনস্টল এড-অনসমূহৰ বিৱৰণ দিয়া এটা সংগ্ৰহ। সকলো এড-অন সলবাদন কৰা নহয়: কেৱল প্লাগিন, সম্প্ৰসাৰণ, আৰু সেৱাসমূহ।
 
 
 ;Search Counts:
-Search Counts:
+সন্ধান গণনা:
 
 
 ;A count of how many searches you issued to each of Mozilla's partner providers.
-A count of how many searches you issued to each of Mozilla's partner providers.
+Mozilla ৰ প্ৰতিজন সহকাৰী প্ৰদানকাৰীসকললৈ প্ৰেৰণ কৰা সন্ধানৰ গণনা।
 
 
 ;Sessions and Startup Times
-Sessions and Startup Times
+অধিবেশন আৰু আৰম্ভণি সময়
 
 
 ;For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
-For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
+প্ৰতিটো ব্ৰাউছিং অধিবেশনৰ বাবে, Firefox স্বাস্থ্য সংবাদে আপুনি ব্ৰাউছ কৰাৰ সময়কাল (ছেকেণ্ডত), আৰু অধিবেশন স্বাভাৱিকভাৱে নে এটা স্খলনৰ বাবে অন্ত হৈছে ৰেকৰ্ড কৰে। ই লগতে, যদি উপলব্ধ আৰম্ভণি সময় (মিলিছেকেণ্ডত) অন্তৰ্ভুক্ত কৰে।
 
 
 ;Profile Creation:
-Profile Creation:
+আলেখ্য সৃষ্টি:
 
 
 ;The day on which your browser profile was created. Counted in days since January 1st 1970.
-The day on which your browser profile was created. Counted in days since January 1st 1970.
+আপোনাৰ ব্ৰাউছাৰৰ আলেখ্য সৃষ্টি কৰাৰ তাৰিখ। ১ জানুৱাৰী ১৯৭০ ৰ পৰা দিনত গণনা কৰা হয়।
 
 
 ;Learn More
-Learn More
+অধিক জানক
 
 
 ;Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
-Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
+Firefox স্বাস্থ্য সংবাদ (FHR) এ আপোনাৰ ব্ৰাউছাৰৰ পৰিৱেশন তথ্য বিশ্লেষণ কৰে, যাতে আপুনি Firefox ৰ সৰ্বোত্তম পৰিৱেশন প্ৰাপ্ত কৰিবলে উপযোগী সহায় প্ৰাপ্ত কৰে। Firefox স্বাস্থ্য সংবাদৰ বিষয়ে অধিক তথ্যৰ বাবে, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>Mozilla সমৰ্থন অংশত যাওক।</a>
 
 
 ;For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
-For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
+আপোনাৰ তথ্য আমি কিদৰে নিয়ন্ত্ৰণ কৰো তাৰ বিষয়ে অধিক জানিবলে, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>আমাৰ গোপনীয়তা নীতি চাওক।</a>
 
 
 ;You are currently sharing your health report with Mozilla.
-You are currently sharing your health report with Mozilla.
+আপুনি বৰ্তমানে Mozilla ৰ সৈতে আপোনাৰ স্বাস্থ্য সংবাদ অংশীদাৰী কৰি আছে।
 
 
 ;Choose what I share
-Choose what I share
+মই কি অংশীদাৰী কৰো বাছক
 
 
 ;You are currently not sharing your health report with Mozilla.
-You are currently not sharing your health report with Mozilla.
-
-
+আপুনি বৰ্তমানে Mozilla ৰ সৈতে আপোনাৰ স্বাস্থ্য সংবাদ অংশীদাৰী কৰা নাই।
