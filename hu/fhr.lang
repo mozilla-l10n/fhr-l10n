@@ -3,11 +3,11 @@ Firefox állapotjelentés
 
 
 ;Raw Data
-Nyers adat
+Nyers adatok
 
 
 ;Get insights and performance information about your version of Firefox.
-Bepillantást nyerhet és információt kaphat a Firefox teljesítményéről.
+Bepillantást nyerhet, és információt kaphat a Firefox teljesítményéről.
 
 
 ;Learn more...
@@ -23,11 +23,11 @@ BE
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
-A továbbiakban nem kívánja megosztani az adatokat a Mozillával, de továbbra is nyomo követheti böngészője teljesítményét.
+A továbbiakban nem kívánja megosztani az adatokat a Mozillával, de továbbra is nyomon követheti böngészője teljesítményét.
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
-Az állapotjelentés adatit eltávolítjuk a Mozilla infrastúrájábül. Erről bővebben az <a href="%(privacy_url)s">adatvédelmi irányelvekben</a> olvashat.
+Az állapotjelentés adatait eltávolítjuk a Mozilla infrastruktúrájából. Erről bővebben az <a href="%(privacy_url)s">adatvédelmi irányelvekben</a> olvashat.
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
@@ -119,7 +119,7 @@ Látogasson el a <a href="%(sumo_url)s">támogatói oldalunkra</a>
 
 
 ;View more <a href="%(details_url)s">detailed information</a>
-További <a href="%(details_url)s">részletes információ</a>
+További <a href="%(details_url)s">részletes információk</a>
 
 
 ;pages visited
@@ -151,11 +151,11 @@ Grafikon:
 
 
 ;Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
-Az indítási idő segít meghatározni a Firefox teljesítményét. A gyorsabb indítás (kevesebb idő) jobb teljesítményt jelent.
+Az indulási idő segít meghatározni a Firefox teljesítményét. A gyorsabb indítás (kevesebb idő) jobb teljesítményt jelent.
 
 
 ;Data Collected
-Begyűjtött adat
+Begyűjtött adatok
 
 
 ;Glossary
@@ -191,7 +191,7 @@ Teljesítmény
 
 
 ;Timing of browser events, rendering, session restores
-Böngészőesemények időzítése, renderelés, munkamenet visszaállítása
+Böngészőesemények időzítése, renderelés, munkamenet-visszaállítások
 
 
 ;Length of session, how old a profile is, count of crashes, count of pages
@@ -203,7 +203,7 @@ Részletes leírás
 
 
 ;Metric
-Számítás
+Mérőszám
 
 
 ;Description
@@ -235,7 +235,7 @@ Az alkalmazásra telepített Mozilla javítások verziószáma
 
 
 ;Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
-Egyedi azonosító, amely jelzi, hogy az Firefox vagy Thunderbird stb. Ugyanaz az alkalmazás összes telepítésére, függetlenül attól, hogy mi a <var>appName</var> értéke.
+Egyedi azonosító, amely jelzi, hogy az Firefox vagy Thunderbird stb. Ugyanaz az alkalmazás összes telepítésére, függetlenül attól, hogy mi az <var>appName</var> értéke.
 
 
 ;The configured name of the application (Firefox/Aurora/Nightly for instance)
@@ -267,7 +267,7 @@ Jelenleg használt nyelv
 
 
 ;Amount of RAM in megabytes
-Memória mennyisége megabyte-ban
+Memória mennyisége megabájtban
 
 
 ;Currently running Operating System (kernel) name
@@ -303,11 +303,11 @@ Ezen a napon a profilban lévő ilyen típusú kiegészítők száma
 
 
 ;<var>True</var> if the application automatically disabled the add-on
-<var>True</var>, ha az alkamáz automatikusan letiltja a kiegészítőt
+<var>True</var>, ha az alkalmazás automatikusan letiltotta a kiegészítőt
 
 
 ;Whether this add-on was installed by the user or automatically by another application
-A felhasználó vagy egy másik program által, automatikusan telepített kiegészítő
+A felhasználó vagy egy másik program által, automatikusan lett-e telepítve a kiegészítő
 
 
 ;Whether this add-on has native code.
@@ -319,7 +319,7 @@ A kiegészítő fejlesztője által megadott azonosító
 
 
 ;The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
-A kiegészítés legutóbbi telepítésének dátuma (az eltávolított kiegészítők korábbi adatai nem kerülnek megőrzésre).
+A kiegészítő legutóbbi telepítésének dátuma (az eltávolított kiegészítők korábbi adatai nem kerülnek megőrzésre).
 
 
 ;The number of searches performed with this search engine from this part of the UI
@@ -335,7 +335,7 @@ A kiegészítő kiterjesztés vagy bővítmény
 
 
 ;The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
-A kiegészítés legutóbbi frissítésének ideje (az eltávolított kiegészítők korábbi adatai nem kerülnek megőrzésre).
+A kiegészítő legutóbbi frissítésének ideje (az eltávolított kiegészítők korábbi adatai nem kerülnek megőrzésre).
 
 
 ;<var>True</var> if the user manually disabled the add-on
@@ -347,15 +347,15 @@ A kiegészítő jelenlegi verziója
 
 
 ;How long in milliseconds it took during startup for the application to render the UI and display the window
-Mennyi ideig tart az alkalmazás elindításakor a grafikus felület és az ablak megjelenítése (milliszekundumban)
+Mennyi ideig tart az alkalmazás elindításakor a grafikus felület és az ablak megjelenítése (ezredmásodpercben)
 
 
 ;How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
-Mennyi ideig tart az alkalmazás elindításakor a programkönyvtárak betöltése és az előkészítése az induláshoz (milliszekundumban)
+Mennyi ideig tart az alkalmazás elindításakor a programkönyvtárak betöltése és az előkészítése az induláshoz (ezredmásodpercben)
 
 
 ;How long in milliseconds it took during startup for the application to restore tabs from the previous session
-Mennyi ideig tart az alkalmazás elindításakor az előző munkamenetből a lapok visszaállítása (milliszekundumban)
+Mennyi ideig tart az alkalmazás elindításakor az előző munkamenetből a lapok visszaállítása (ezredmásodpercben)
 
 
 ;The number of times the application was run and not cleanly shut down.
@@ -379,15 +379,15 @@ Hányszor futott és állt le megfelelően az alkalmazás.
 
 
 ;The time in seconds that the completed sessions were not idle
-Mennyi ideig volt a befejezett munkamenet tétlen (másodpercben)
+Mennyi ideig nem voltak a befejezett munkamenetek tétlenek (másodpercben)
 
 
 ;The time in seconds that the completed sessions were running
-Mennyi ideig futott a befejezett munkamenet (másodpercben)
+Mennyi ideig futottak a befejezett munkamenetek (másodpercben)
 
 
 ;Total number of crashes that were recorded but not yet submitted
-Elmentett, de el nem küldött összeomlások száma
+Elmentett, de be nem küldött összeomlások száma
 
 
 ;Total number of crashes that have been submitted
@@ -423,7 +423,7 @@ Hány perce fut a jelenlegi munkamenet
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
-A Firefox állapotjelentés megmutatja a Firefox teljesítményét és annak fokozásának lehetőségeit.
+A Firefox állapotjelentés megmutatja a Firefox teljesítményét, és a fokozásának lehetőségeit.
 
 
 ;See My Report
@@ -444,7 +444,7 @@ Adatvédelmi irányelvek
 
 # The following strings are used only in the Mobile version of about:healthreport (Firefox for Android)
 ;Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
-A Firefox állapotjelentés segítségével finomhangolhatja a Firefoxát és segíthet nekünk abban, hogy még jobb böngészőt készítsünk. A jelentések kezdetben még elég egyszerűek lesznek, de folyamatosan javítjuk és bővítjük őket.
+A Firefox állapotjelentés segítségével finomhangolhatja a Firefoxát, és segíthet nekünk abban, hogy még jobb böngészőt készítsünk. A jelentések kezdetben még elég egyszerűek lesznek, de folyamatosan javítjuk és bővítjük őket.
 
 
 ;Learn More&hellip;
@@ -460,11 +460,11 @@ Tipp
 
 
 ;Important Metrics
-Fontos mérések
+Fontos mérőszámok
 
 
 ;Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
-Firefox Health Report adatai a böngészővel és eszközzel kapcsolatban. <a href="#raw" class="navigate">Ezeket az adatokat tároljuk.</a> Megtekintheti, hogy milyen adatokat oszt meg a Mozillával.
+A Firefox állapotjelentés adatokat gyűjt a böngészővel és eszközzel kapcsolatban. <a href="#raw" class="navigate">Ezeket az adatokat tároljuk.</a> Megtekintheti, hogy milyen adatokat oszt meg a Mozillával.
 
 
 ;Device hardware, operating system, Firefox version.
@@ -512,7 +512,7 @@ A böngésző belső alkalmazásneve.
 
 
 ;Application ID:
-Alkalmazás azonosító:
+Alkalmazás azonosítója:
 
 
 ;The internal identifier for the application.
@@ -572,7 +572,7 @@ xpcomabi: {ok}
 
 
 ;The CPU architecture for which this application was built.
-A processzorarchitektúrája, amelyen az alkalmazás készült.
+A processzor architektúrája, amelyhez az alkalmazás készült.
 
 
 ;OS:
@@ -610,11 +610,11 @@ Az Android OS verziója.
 Engedélyezésekor a Firefox letölti a kiegészítők feketelistáját, hogy védelmet nyújtson a rosszindulatú kiegészítők ellen. Alapértelmezésként be van kapcsolva.
 
 ;Telemetry Enabled:
-Telemetry engedélyezés:
+Telemetria engedélyezve:
 
 
 ;Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
-Engedélyezéskor a Firefox részletes adatokat a használattal kapcsolatban, hogy segítse a fejlesztést. A legtöbb csatornán alapértelmezésként ki van kapcsolva.
+Engedélyezéskor a Firefox részletes adatokat küld a használattal kapcsolatban, hogy segítse a fejlesztést. A legtöbb csatornán alapértelmezésként ki van kapcsolva.
 
 ;Extension Count:
 Bővítmények száma:
@@ -653,7 +653,7 @@ Keresések száma:
 
 
 ;A count of how many searches you issued to each of Mozilla's partner providers.
-A keresési szolgáltatásokon keresztül indított keresések száma.
+A keresőszolgáltatásokon keresztül indított keresések száma.
 
 
 ;Sessions and Startup Times
@@ -661,7 +661,7 @@ Munkamenetek és indulási idő
 
 
 ;For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
-Minden egyes böngészési munkamenetnél a Firefox Health Report rögzíiti, hogy milyen hosszú volt a böngészés (másodpercben) és hogy a munkamenet lezárása természetes volt vagy összeomlás okozta. Amennyiben lehetséges, ugyancsak rögzítésre kerül az indulási idő (tizedmásodpercben).
+Minden egyes böngészési munkamenetnél a Firefox állapotjelentés rögzíti, hogy milyen hosszú volt a böngészés (másodpercben) és hogy a munkamenet lezárása természetes volt vagy összeomlás okozta. Amennyiben lehetséges, ugyancsak rögzítésre kerül az indulási idő (tizedmásodpercben).
 
 
 ;Profile Creation:
@@ -677,7 +677,7 @@ Tovább
 
 
 ;Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
-A Firefox Health Report (FHR) vizsgálja a böngésző teljesítményét, hogy tanácsot adjon a teljesítmény fokozásában. A Firefox Health Reporttal kapcsolatos további információ a <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>Mozilla támogatási oldalán</a> található.
+A Firefox állapotjelentés (FHR) vizsgálja a böngésző teljesítményét, hogy tanácsot adjon a teljesítmény fokozására. A Firefox állapotjelentéssel kapcsolatos további információ a <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>Mozilla támogatási oldalán</a> található.
 
 
 ;For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
@@ -685,7 +685,7 @@ Az adatok kezelésével kapcsolatos további információ az <a href="https://ww
 
 
 ;You are currently sharing your health report with Mozilla.
-Jelenleg megosztja a Health Report eredményeit a Mozillával.
+Jelenleg megosztja az állapotjelentés eredményeit a Mozillával.
 
 
 ;Choose what I share
@@ -693,6 +693,6 @@ Válassza ki, mit oszt meg
 
 
 ;You are currently not sharing your health report with Mozilla.
-Jelenleg nem osztja meg a Health Reportot a Mozillával.
+Jelenleg nem osztja meg az állapotjelentést a Mozillával.
 
 
