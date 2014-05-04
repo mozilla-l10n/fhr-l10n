@@ -83,19 +83,19 @@ díchumasaithe
 
 
 ;Plugins
-Breiseáin
+Forlíontáin
 
 
 ;always activate
-always activate
+cuir ar siúl i gcónaí
 
 
 ;ask to activate
-ask to activate
+fiafraigh
 
 
 ;never activate
-never activate
+ná cuir ar siúl riamh
 
 
 ;Tips
@@ -656,7 +656,7 @@ Líon na gcuardach:
 
 
 ;A count of how many searches you issued to each of Mozilla's partner providers.
-A count of how many searches you issued to each of Mozilla's partner providers.
+Líon na gcuardach a sheol tú chuig gach soláthróir a chomhoibríonn le Mozilla.
 
 
 ;Sessions and Startup Times
@@ -664,7 +664,7 @@ Seisiúin agus Tréimhsí Tosaithe
 
 
 ;For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
-For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
+I ngach seisiún brabhsála, taifeadann an Tuairisc Shláinte cé chomh fada a bhí tú ag brabhsáil (soicindí), agus aon tuairteáil a tharla. Cuireann sé amanna tosaithe san áireamh freisin, más féidir.
 
 
 ;Profile Creation:
@@ -692,7 +692,7 @@ Bíonn tú ag seoladh tuairisc shláinte chuig Mozilla.
 
 
 ;Choose what I share
-Choose what I share
+Socruithe príobháideachta
 
 
 ;You are currently not sharing your health report with Mozilla.
