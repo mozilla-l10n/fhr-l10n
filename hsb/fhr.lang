@@ -7,7 +7,7 @@ Hruby daty
 
 
 ;Get insights and performance information about your version of Firefox.
-Dobudźće dohlady a wukonowe informacije wo wašej wersiji Firefox.
+Dobudźće dohlady a wukonowe informacije wo swojej wersiji Firefox.
 
 
 ;Learn more...
@@ -163,7 +163,7 @@ Glosar
 
 
 ;What the Firefox Health Report Measures
-Što statusowa rozprawa Firefox měri?
+Štož statusowa rozprawa Firefox měri
 
 
 ;The Firefox Health Report (FHR) has 4 categories of metrics:
@@ -175,7 +175,7 @@ Konfiguracija
 
 
 ;Device hardware, operating system, Firefox version
-Gratowa hardwara, dźěłowy systemo, wersija Firefox
+Gratowa hardwara, dźěłowy system, wersija Firefox
 
 
 ;Customizations
@@ -235,7 +235,7 @@ Wersijowe čisło porjedźenja Mozilla nałožene na nałoženje
 
 
 ;Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
-Za nałoženje jednozmyslny identifikator, kotryž podawa, hač je Firefox abo Thunderbird atd. Samsne płaći za wšě instalacije nałoženja njedźiwajo na hódnotu <var>appName</var> 
+Za nałoženje jednozmyslny identifikator, kotryž podawa, hač je Firefox abo Thunderbird atd. Samsne płaći za wšě instalacije nałoženja njedźiwajo na hódnotu <var>appName</var>
 
 
 ;The configured name of the application (Firefox/Aurora/Nightly for instance)
@@ -319,7 +319,7 @@ Identifikator tutoho přidatka kaž je so wot wuwiwarja přidatka definował
 
 
 ;The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
-Najnowši datum, hdyž je so tutón přidatk instalował (prjedawše informacije wo wotinstalowanym přidatku so njewobchowuja).
+Najnowši datum, hdyž je so tutón přidatk instalował (prjedawše informacije wo wotinstalowanym přidatku njejsu so njewobchowali).
 
 
 ;The number of searches performed with this search engine from this part of the UI
@@ -335,7 +335,7 @@ Hač tutón přidatk je rozšěrjenje abo tykač
 
 
 ;The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
-Najnowši datum, na kotrymž tutón přidatk je so zaktualizował (prjedawše informacije wo wotinstalowanym přidatku njeje so wobchował).
+Najnowši datum, na kotrymž tutón přidatk je so zaktualizował (prjedawše informacije wo wotinstalowanym přidatku njejsu so wobchowali).
 
 
 ;<var>True</var> if the user manually disabled the add-on
@@ -363,11 +363,11 @@ Ličba razow, hdyž je so nałoženje běžało a njeje so porjadnje skónčiło
 
 
 ;The time in seconds that the aborted sessions were not idle
-Čas w sekundach, za kotryž přetorhnjene posedźenje njejsu w prózdnoběhu byli.
+Čas w sekundach, za kotryž přetorhnjene posedźenja njejsu w prózdnoběhu byli
 
 
 ;The time in seconds that the aborted sessions were running
-Čas w sekundach, za kotryž přetorhnjene posedźenja su bězeli
+Čas w sekundach, za kotryž přetorhnjene posedźenja su běželi
 
 
 ;The number of days since this application profile directory was created
@@ -375,7 +375,7 @@ Ličba dnjow, wot toho zo profilowy rjadowak tutoho nałoženja je so wutworił
 
 
 ;The number of times the application was run and cleanly shut down.
-Ličba razow, hdyž nałoženje je běžało a je so poradnje skónčiło.
+Ličba razow, hdyž nałoženje je běžało a je so porjadnje skónčiło.
 
 
 ;The time in seconds that the completed sessions were not idle
@@ -387,7 +387,7 @@ Ličba razow, hdyž nałoženje je běžało a je so poradnje skónčiło.
 
 
 ;Total number of crashes that were recorded but not yet submitted
-Cyłkowna ličba spadow, kotrež su so zwěsćili, ale njejsu wotpósłali
+Cyłkowna ličba spadow, kotrež su so zwěsćili, ale njejsu so wotpósłali
 
 
 ;Total number of crashes that have been submitted
@@ -415,7 +415,7 @@ Kak dołho w mjeńšinach aktualne posedźenje hižo běži
 
 
 ;Welcome to your Firefox Health Report
-Witjaće do swojeje statusoweje rozprawy Firefox
+Witajće do swojeje statusoweje rozprawy Firefox
 
 
 ;Welcome!
@@ -444,7 +444,7 @@ Prawidła priwatnosće
 
 # The following strings are used only in the Mobile version of about:healthreport (Firefox for Android)
 ;Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
-Statusowa rozprawa Firefox dowola wam waš Firefox optimować a pomha nam, wuběrniši wobhladowaki wutworić. Rozprawy budu na spočatku dosć jednore, ale budu so rozwiwać a rosć. 
+Statusowa rozprawa Firefox dowola wam waš Firefox optimować a pomha nam, wuběrniši wobhladowak wutworić. Rozprawy budu na spočatku dosć jednore, ale budu so rozwiwać a rosć.
 
 
 ;Learn More&hellip;
@@ -608,7 +608,7 @@ Wersija dźěłoweho systema Android.
 
 
 ;Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
-Hač Firefox so wuslědki přidatkoweje blokowanskeje lisćiny wobstaruje, zo by was přećiwo złowólnym přidatkam škitał. Standard: Zmóžnjeny.
+Hač Firefox sej wuslědki přidatkoweje blokowanskeje lisćiny wobstaruje, zo by was přećiwo złowólnym přidatkam škitał. Standard: Zmóžnjeny.
 
 
 ;Telemetry Enabled:
@@ -656,7 +656,7 @@ Pytanske ličby:
 
 
 ;A count of how many searches you issued to each of Mozilla's partner providers.
-Ličba wo tym, kelko pytanja sće na kóždeho partneroweho poskićowarja Mozilla wudał
+Ličba wo tym, kelko pytanjow sće na kóždeho partneroweho poskićowarja Mozilla wudał.
 
 
 ;Sessions and Startup Times
@@ -664,7 +664,7 @@ Posedźenja a startowe časy
 
 
 ;For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
-Za kóžde přehladowanske posedźenje zapřijima statusowa ropzprawa Firefox, kak dołho přibližnje sće přehladował (w sekundach), a hač so posedźenje normalnje abo přez spad skónčiło. Wobsahuje tež startowe časy (w milisekundach), jeli k dispoziciji steja.
+Za kóžde přehladowanske posedźenje zapřijima statusowa rozprawa Firefox, kak dołho přibližnje sće přehladował (w sekundach), a hač so posedźenje normalnje abo přez spad skónčiło. Wobsahuje tež startowe časy (w milisekundach), jeli k dispoziciji steja.
 
 
 ;Profile Creation:
@@ -680,7 +680,7 @@ Dalše informacije
 
 
 ;Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
-Statusowa rozprawa Firefox (FHR) analyzuje wukonowe informacije wašeho wobhladowaka, zo by z wužitnymi pokiwami wobstarała, kotrerž wam pomhaja, zo byšće najlěpše z Firefox won ćahnył. Za dalše informacije wo statusowej rozprawje Firefox, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>wopytajće wotrězk pomocy Mozilla.</a>
+Statusowa rozprawa Firefox (FHR) analyzuje wukonowe informacije wašeho wobhladowaka, zo by was z wužitnymi pokiwami zastarała, kotrež wam pomhaja, zo byšće najlěpše z Firefox won ćahnył. Za dalše informacije wo statusowej rozprawje Firefox, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>wopytajće wotrězk pomocy Mozilla.</a>
 
 
 ;For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
