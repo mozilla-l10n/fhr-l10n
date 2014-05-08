@@ -19,19 +19,19 @@
 
 
 ;ON
-ಆನ್
+ON {ok}
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
-ನೀವು ಮೋಝಿಲ್ಲಾದೊಂದಿಗೆ ಮಾಹಿತಿಯನ್ನು ಹಂಚಿಕೊಳ್ಳುವುದನ್ನು ನಿಲ್ಲಿಸಿದ್ದೀರಿ, ಆದರೂ ಸಹ ನಿಮ್ಮ ಜಾಲವೀಕ್ಷಕವು (ಬ್ರೌಸರ್) ಹೇಗೆ ಕೆಲಸ ಮಾಡುತ್ತದೆ ಎಂಬುದನ್ನು ನೀವು ನೋಡಲು ಸಾಧ್ಯವಿರುತ್ತದೆ.
+ನೀವು ಮೋಝಿಲ್ಲಾದೊಂದಿಗೆ ಮಾಹಿತಿಯನ್ನು ಹಂಚಿಕೊಳ್ಳುವುದನ್ನು ನಿಲ್ಲಿಸಿದ್ದೀರಿ, ಆದರೂ ಸಹ ನಿಮ್ಮ ಜಾಲವೀಕ್ಷಕವು ಹೇಗೆ ಕೆಲಸ ಮಾಡುತ್ತದೆ ಎಂಬುದನ್ನು ನೀವು ನೋಡಲು ಸಾಧ್ಯವಿರುತ್ತದೆ.
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
-ನಿಮ್ಮ ಹೆಲ್ತ್ ರಿಪೋರ್ಟನ್ನು ಮೋಝಿಲ್ಲಾ ಪೂರೈಕೆಗಣಕಗಳಿಂದಲೂ ತೆಗೆದುಹಾಕಲಾಗುತ್ತದೆ. ನಮ್ಮ <a href="%(privacy_url)s">ಗೌಪ್ಯತಾ ನಿಯಮ</a>ದಲ್ಲಿ ಇನ್ನಷ್ಟು ಮಾಹಿತಿಯನ್ನು ತಿಳಿಯಿರಿ.
+ನಿಮ್ಮ ಹೆಲ್ತ್ ರಿಪೋರ್ಟನ್ನು ಮೋಝಿಲ್ಲಾ ಪೂರೈಕೆಗಣಕಗಳಿಂದಲೂ ತೆಗೆದುಹಾಕಲಾಗುತ್ತದೆ. ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ ನಮ್ಮ <a href="%(privacy_url)s">ಗೌಪ್ಯತಾ ನಿಯಮ.</a>
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
-ನೀವು ಮೋಝಿಲ್ಲಾದೊಂದಿಗೆ ಕಾಲ ಕಾಲಕ್ಕೆ ನಿಮ್ಮ ಮಾಹಿತಿಯನ್ನು ಹಂಚಿಕೊಂಡಿದ್ದೀರಿ. ಜಾಲದ (ವೆಬ್) ಪ್ರಖರ ಭವಿಷ್ಯವನ್ನು ನಿರ್ಮಿಸುವ ನಮ್ಮ ಯೋಜನೆಯಲ್ಲಿ ಪಾಲ್ಗೊಂಡಿದ್ದಕ್ಕೆ ಧನ್ಯವಾದಗಳು.
+ನೀವು ಮೋಝಿಲ್ಲಾದೊಂದಿಗೆ ಕಾಲ ಕಾಲಕ್ಕೆ ನಿಮ್ಮ ಮಾಹಿತಿಯನ್ನು ಹಂಚಿಕೊಂಡಿದ್ದೀರಿ. ಜಾಲದ ಪ್ರಖರ ಭವಿಷ್ಯವನ್ನು ನಿರ್ಮಿಸುವ ನಮ್ಮ ಯೋಜನೆಯಲ್ಲಿ ಪಾಲ್ಗೊಂಡಿದ್ದಕ್ಕೆ ಧನ್ಯವಾದಗಳು.
 
 
 ;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
@@ -111,7 +111,7 @@
 
 
 ;OFF
-ಆಫ್‌
+OFF {ok}
 
 
 ;Visit our <a href="%(sumo_url)s">support website</a>
@@ -131,7 +131,7 @@
 
 
 ;You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
-ನೀವು ನಿಮ್ಮ ಜಾಲವೀಕ್ಷಕವನ್ನು ಹೆಚ್ಚು ಹೆಚ್ಚು ಬಳಸಿದಂತೆಲ್ಲಾ ಇನ್ನಷ್ಟು ಆಸಕ್ತಿದಾಯಕ ಮತ್ತು ವಿವರವಾದ ಮಾಹಿತಿಯನ್ನು ಪಡೆಯಲು ಸಾಧ್ಯವಿರುತ್ತದೆ. ಒಂದೆರಡು ವಾರಗಳ ನಂತರ ಕೆಲವು ಬದಲಾವಣೆಗಳನ್ನು (ಟೆಂಡ್ಸ್) ನೀವು ಕಾಣಬಹುದು.
+ನೀವು ನಿಮ್ಮ ಜಾಲವೀಕ್ಷಕವನ್ನು ಹೆಚ್ಚಾಗಿ ಬಳಸಿದಂತೆಲ್ಲಾ ಇನ್ನಷ್ಟು ಆಸಕ್ತಿದಾಯಕ ಮತ್ತು ವಿವರವಾದ ಮಾಹಿತಿಯನ್ನು ಪಡೆಯಲು ಸಾಧ್ಯವಿರುತ್ತದೆ. ಒಂದೆರಡು ವಾರಗಳ ನಂತರ ಕೆಲವು ಬದಲಾವಣೆಗಳನ್ನು ನೀವು ಕಾಣಬಹುದು.
 
 
 ;Startup Time by Day
@@ -151,7 +151,7 @@
 
 
 ;Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
-ನಿಮ್ಮ ಫೈರ್ಫಾಕ್ಸ್ ಆವೃತ್ತಿಯು ಹೇಗೆ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತಿದೆ ಎಂಬುದನ್ನು ನಿರ್ಧರಿಸಲು ಆರಂಭದ ಸಮಯವು ನೆರವಾಗುತ್ತದೆ. ಸಾಮಾನ್ಯವಾಗಿ, ಸಾಮಾನ್ಯವಾಗಿ, ವೇಗವಾಗಿ (ಅಂದರೆ ಕಡಿಮೆ ಸಮಯ) ಅಂದರೆ ಉತ್ತಮ ಕಾರ್ಯನಿರ್ವಹಣೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ.
+ನಿಮ್ಮ ಫೈರ್ಫಾಕ್ಸ್ ಆವೃತ್ತಿಯು ಹೇಗೆ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತಿದೆ ಎಂಬುದನ್ನು ನಿರ್ಧರಿಸಲು ಆರಂಭದ ಸಮಯವು ನೆರವಾಗುತ್ತದೆ. ಸಾಮಾನ್ಯವಾಗಿ, ವೇಗವಾದ ಸಮಯ (ಅಂದರೆ ಕಡಿಮೆ ಸಮಯ) ಉತ್ತಮ ಕಾರ್ಯನಿರ್ವಹಣೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ.
 
 
 ;Data Collected
@@ -223,7 +223,7 @@ XPCOM ಗಾಗಿ ಬೈನರಿ ಸಂಪರ್ಕಸಾಧನ
 
 
 ;Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
-ಬಳಸಲಾಗುತ್ತಿರುವ ಅನ್ವಯದ ನಿರ್ದಿಷ್ಟ ವಿತರಣೆಗಾಗಿನ ಐಡೆಂಟಿಫಯರ್. ಇದನ್ನು <var>distribution.id</var>ನ ಆದ್ಯತೆಯಿಂದ ತೆಗೆದುಕೊಳ್ಳಲಾಗಿದೆ
+ಬಳಸಲಾಗುತ್ತಿರುವ ಅನ್ವಯದ ನಿರ್ದಿಷ್ಟ ವಿತರಣೆಗಾಗಿನ ಐಡೆಂಟಿಫಯರ್. ಇದನ್ನು <var>distribution.id</var> ಆದ್ಯತೆಯಿಂದ ತೆಗೆದುಕೊಳ್ಳಲಾಗಿದೆ
 
 
 ;Version of the distribution, taken from the <var>distribution.version</var> preference
@@ -331,7 +331,7 @@ UI ನ ಈ ಭಾಗದ ಈ ಹುಡುಕು ಎಂಜಿನ್‌ನಿಂದ
 
 
 ;Whether this add-on is an extension or a plug-in
-ಈ ಆಡ್-ಆನ್ ಒಂದು ವಿಸ್ತರಣೆಯಾಗಿದೆಯೆ (ಎಕ್ಸ್ಟೆನ್ಶನ್) ಅಥವ ಒಂದು ಪ್ಲಗ್‌-ಇನ್ ಆಗಿದೆಯೆ
+ಈ ಆಡ್-ಆನ್ ಒಂದು ಎಕ್ಸ್ಟೆನ್ಶನ್ ಅಥವ ಒಂದು ಪ್ಲಗ್‌-ಇನ್ ಆಗಿದೆಯೆ
 
 
 ;The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
@@ -339,7 +339,7 @@ UI ನ ಈ ಭಾಗದ ಈ ಹುಡುಕು ಎಂಜಿನ್‌ನಿಂದ
 
 
 ;<var>True</var> if the user manually disabled the add-on
-ಬಳಕೆದಾರರು ಕೈಯಾರೆ ಈ ಆಡ್-ಆನ್‌ ಅನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿದಲ್ಲಿ <var>True</var>ಆಗಿರುತ್ತದೆ
+ಬಳಕೆದಾರರು ಕೈಯಾರೆ ಈ ಆಡ್-ಆನ್‌ ಅನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿದಲ್ಲಿ <var>True</var> ಆಗಿರುತ್ತದೆ
 
 
 ;The current version of this add-on
@@ -444,7 +444,7 @@ UI ನ ಈ ಭಾಗದ ಈ ಹುಡುಕು ಎಂಜಿನ್‌ನಿಂದ
 
 # The following strings are used only in the Mobile version of about:healthreport (Firefox for Android)
 ;Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
-Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
+ಫೈರ್ಫಾಕ್ಸ್ ಆರೋಗ್ಯ ವರದಿ ನಿಮ್ಮ ಫೈರ್ಫಾಕ್ಸ್ ಅನ್ನು ನೀವೇ ಸಕ್ಷಮಗೊಳಿಸಿಕೊಳ್ಳಲು ಮತ್ತು ನಮಗೆ ಇನ್ನೂ ಉತ್ಕೃಷ್ಟವಾದ ವೀಕ್ಷಕವನ್ನು ನಿರ್ಮಿಸಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ. ವರದಿಗಳು ಮೊದಲು ಬಹಳ ಸಾಮಾನ್ಯವಾಗಿರುತ್ತವೆ, ಆದರೆ ಮುಂದುವರೆದಂತೆಲ್ಲ ವಿಕಸಿಸುತ್ತವೆ ಮತ್ತು ಬೆಳೆಯುತ್ತವೆ.
 
 
 ;Learn More&hellip;
@@ -456,31 +456,31 @@ Firefox Health Report lets you optimize your Firefox and helps us build a more e
 
 
 ;Looks like your Firefox is brand new! Check back after using Firefox for a while.
-Looks like your Firefox is brand new! Check back after using Firefox for a while.
+ನಿಮ್ಮ ಫೈರ್ಫಾಕ್ಸ್ ಹೊಚ್ಚ ಹೊಸದೆನಿಸುತ್ತಿದೆ! ಫೈರ್ಫಾಕ್ಸ್ ಅನ್ನು ಸ್ವಲ್ಪ ಕಾಲ ಬಳಸಿದ ನಂತರ ಮತ್ತೆ ಪರೀಕ್ಷಿಸಿ.
 
 
 ;Important Metrics
-Important Metrics
+ಬಹುಮುಖ್ಯ ಮೀಟ್ರಿಕ್‌ಗಳು
 
 
 ;Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
-Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
+ಫೈರ್ಫಾಕ್ಸ್ ಆರೋಗ್ಯ ವರದಿ ನಿಮ್ಮ ವೀಕ್ಷಕ ಮತ್ತು ಸಾಧನದ ಬಗ್ಗೆ ಮಾಹಿತಿಯನ್ನು ಮುದ್ರಿಸಿಕೊಳ್ಳುತ್ತದೆ. ನಾವು ಮುದ್ರಿಸಿಕೊಳ್ಳುವ ಮಾಹಿತಿ ನೋಡಲು ಇಲ್ಲಿ <a href="#raw" class="navigate">.</a> ನೀವು ಮೊಝಿಲ್ಲಾದೊಂದಿಗೆ ಏನನ್ನು ಹಂಚಿಕೊಳ್ಳುತ್ತಿದ್ದೀರೆಂದೂ ನೋಡಬಹುದು.
 
 
 ;Device hardware, operating system, Firefox version.
-Device hardware, operating system, Firefox version.
+ಸಾಧನ ಯಂತ್ರಾಂಶ, ಕಾರ್ಯಾಚರಣೆ ವ್ಯವಸ್ಥೆ, ಫೈರ್ಫಾಕ್ಸ್ ಆವೃತ್ತಿ.
 
 
 ;Extensions, plugins, and number of installed add-ons.
-Extensions, plugins, and number of installed add-ons.
+ವಿಸ್ತರಣೆಗಳು, ಪ್ಲಗಿನ್‌ಗಳು, ಮತ್ತು ಅಸಂಖ್ಯಾತ ಅನುಸ್ಥಾಪಿಸಲ್ಪಟ್ಟ ಆಡ್-ಆನ್‌ಗಳು.
 
 
 ;Key performance measures, such as launch speed.
-Key performance measures, such as launch speed.
+ಅತಿಮಹತ್ವದ ಕಾರ್ಯಾಚರಣೆ ಪರಿಮಾಣಗಳು, ಪ್ರಾರಂಭಿಸಿದ ವೇಗದಂತಹದ್ದು.
 
 
 ;Browsing duration, install time, number of bookmarks and pages.
-Browsing duration, install time, number of bookmarks and pages.
+ವೀಕ್ಷಣೆಯ ಕಾಲಾವದಿ, ಅನುಸ್ಥಾಪನೆಯ ಸಮಯ, ಅಸಂಖ್ಯಾತ ಪುಟ ಗುರುತುಗಳು ಮತ್ತು ಪುಟಗಳು.
 
 
 ;Home
@@ -500,27 +500,27 @@ CPU ಎಣಿಕೆ:
 
 
 ;The amount of memory reported by Android. Typically excludes graphics memory.
-The amount of memory reported by Android. Typically excludes graphics memory.
+ಆಂಡ್ರಾಯ್ಡ್‌ನಿಂದ ವರದಿ ಮಾಡಲ್ಪಟ್ಟ ಸ್ಮೃತಿಯ ಮೊತ್ತ. ಸಾಮಾನ್ಯವಾಗಿ ಇದು ಗ್ರಾಫಿಕ್ಸ್ ಸ್ಮೃತಿಯನ್ನು ಹೊರತುಪಡಿಸಿರುತ್ತದೆ.
 
 
 ;Application Name:
-Application Name:
+ಅನ್ವಯದ ಹೆಸರು:
 
 
 ;The internal application name for the browser.
-The internal application name for the browser.
+ವೀಕ್ಷಕಕ್ಕೆ ಆತಂರಿಕ ಅನ್ವಯದ ಹೆಸರು.
 
 
 ;Application ID:
-Application ID:
+Application ID: {ok}
 
 
 ;The internal identifier for the application.
-The internal identifier for the application.
+ಅನ್ವಯಕ್ಕೆ ಆಂತರಿಕ ಗುರುತು.
 
 
 ;Application Version:
-Application Version:
+ಅನ್ವಯ ಆವೃತ್ತಿ:
 
 
 ;The current version of the browser
@@ -528,172 +528,172 @@ Application Version:
 
 
 ;Application Build ID:
-ಅನ್ವಯದ ನಿರ್ಮಿತಿ ಸಂಖ್ಯೆ:
+Application Build ID: {ok}
 
 
 ;The internal build timestamp.
-The internal build timestamp.
+ಆಂತರಿಕ ನಿರ್ಮಿತಿ ಸಮಯಮುದ್ರೆ.
 
 
 ;Update Channel:
- ಅಪ್‌ಡೇಟ್ ಚಾನಲ್‌:
+ಅಪ್‌ಡೇಟ್ ಚಾನಲ್‌:
 
 
 ;Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
-Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
+ಫೈರ್ಫಾಕ್ಸ್ ವಾಹಿನಿಗಳ ಮೂಲಕ ವಿತರಿಸಲ್ಪಡುತ್ತದೆ: ನೈಟ್ಲಿ ಬಿಲ್ಡ್ಸ್, ದ ಅರೋರ ಪ್ರೀ-ರಿಲೀಸ್ ಚಾನೆಲ್, ಎ ಸ್ಟೇಬಲ್ ಬೀಟಾ, ಮತ್ತು ಪಬ್ಲಿಕ್ ರಿಲೀಸ್. ಈ ವಲಯ ವಾಹಿನಿಯನ್ನು ಗುರುತು ಹಿಡಿಯುತ್ತದೆ.
 
 
 ;Vendor:
-Vendor:
+ಮಾರಾಟಗಾರ:
 
 
 ;The organization that built this application. Typically Mozilla.
-The organization that built this application. Typically Mozilla.
+ಈ ಅನ್ವಯವನ್ನು ನಿರ್ಮಿಸಿದ ಸಂಸ್ಥೆ. ಮೊಝಿಲ್ಲಾ ಮಾದರಿಯದ್ದು.
 
 
 ;Platform Version:
-Platform Version:
+ವೇದಿಕೆ ಆವೃತ್ತಿ:
 
 
 ;An internal version identifier. Typically the same as appVersion.
-An internal version identifier. Typically the same as appVersion.
+ಒಂದು ಆಂತರಿಕ ಆವೃತ್ತಿ ಸೂಚಕ. ಸಾಮಾನ್ಯವಾಗಿ appVersion ನಂತೆಯೇ ಆಗಿರುತ್ತದೆ.
 
 
 ;Platform Build ID:
-Platform Build ID:
+Platform Build ID: {ok}
 
 
 ;On Android this is an alternative name for appBuildID.
-On Android this is an alternative name for appBuildID.
+ಆಂಡ್ರಾಯ್ಡ್‌ನಲ್ಲಿ ಇದು appBuildID ಯ ಪರ್ಯಾಯ ಹೆಸರು.
 
 
 ;xpcomabi:
-xpcomabi:
+xpcomabi: {ok}
 
 
 ;The CPU architecture for which this application was built.
-The CPU architecture for which this application was built.
+ಯಾವ CPU ಆರ್ಕಿಟೆಕ್ಚರ್‌ಗೋಸ್ಕರ ಈ ಅನ್ವಯವನ್ನು ನಿರ್ಮಿಸಲಾಗಿತ್ತೋ ಅದು.
 
 
 ;OS:
-OS:
+OS: {ok}
 
 
 ;The current operating system.
-The current operating system.
+ಸಧ್ಯದ ಕಾರ್ಯಾಚರಣೆ ವ್ಯವಸ್ಥೆ.
 
 
 ;Architecture:
-Architecture:
+ಆರ್ಕಿಟೆಕ್ಚರ್:
 
 
 ;The CPU architecture for this device.
-The CPU architecture for this device.
+ಈ ಸಾಧನದ CPU ಆರ್ಕಿಟೆಕ್ಚರ್.
 
 
 ;System Name:
-System Name:
+ಗಣಕ ವ್ಯವಸ್ಥೆ ಹೆಸರು:
 
 
 ;The current system name.
-The current system name.
+ಈ ಗಣಕ ವ್ಯವಸ್ಥೆಯ ಹೆಸರು.
 
 
 ;System Version:
-System Version:
+ಗಣಕ ವ್ಯವಸ್ಥೆ ಆವೃತ್ತಿ:
 
 
 ;The Android OS revision.
-The Android OS revision.
+ಆಂಡ್ರಾಯ್ಡ್ OS ಪರಿಷ್ಕರಣೆ.
 
 
 ;Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
-Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
+ಫೈರ್ಫಾಸ್ ಆಡ್-ಆನ್ ನಿರ್ಭಂದಪಟ್ಟಿ ಫಲಿತಾಂಶಗಳನ್ನು ಅಪಾಯಕಾರಿ ಆಡ್-ಆನ್‌ಗಳಿಂದ ನಿಮ್ಮನ್ನು ರಕ್ಷಿಸಲು ಕರೆದುಕೊಳ್ಳಬಹುದೋ. ಪೂರ್ವನಿಯೋಜಿತವಾಗಿ ಇದು ಅನ್ವಯವಾಗಿರುತ್ತದೆ.
 
 
 ;Telemetry Enabled:
-Telemetry Enabled:
+ಟೆಲಿಮೀಟ್ರಿ ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ:
 
 
 ;Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
-Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
+ವಿಸ್ತೃತ ಬಳಕೆಯ ದತ್ತಾಂಶವನ್ನು ವಿಕಸನದ ಸಹಾಯಕ್ಕೆ ಫೈರ್ಫಾಸ್ ವರದಿ ಮಾಡುತ್ತದೋ. ಪೂರ್ವನಿಯೋಜಿತವಾಗಿ ಇದು ಬಹಳಷ್ಟು ವಾಹಿನಿಗಳಿಗೆ ಅನ್ವಯಿಸುವುದಿಲ್ಲ.
 
 
 ;Extension Count:
-Extension Count:
+ವಿಸ್ತರಣ ಎಣಿಕೆ:
 
 
 ;How many extension add-ons are installed.
-How many extension add-ons are installed.
+ಎಷ್ಟು ವಿಸ್ತರಣ ಆಡ್-ಆನ್‌ಗಳು ಅನುಸ್ಥಾಪಿಸಲ್ಪಟ್ಟಿವೆ.
 
 
 ;Plugin Count:
-Plugin Count:
+ಪ್ಲಗಿನ್ ಎಣಿಕೆ:
 
 
 ;How many plugin add-ons are installed.
-How many plugin add-ons are installed.
+ಎಷ್ಟು ಪ್ಲಗಿನ್ ಆಡ್-ಆನ್‌ಗಳು ಅನುಸ್ಥಾಪಿಸಲ್ಪಟ್ಟಿವೆ.
 
 
 ;Theme Count:
-Theme Count:
+ಅಲಂಕಾರ ಎಣಿಕೆ:
 
 
 ;How many theme add-ons are installed.
-How many theme add-ons are installed.
+ಎಷ್ಟು ಅಲಂಕಾರ ಆಡ್-ಆನ್‌ಗಳನ್ನು ಅನುಸ್ಥಾಪಿಸಲಾಗಿದೆ.
 
 
 ;Addons:
-Addons:
+ಆಡ್‌ಆನ್‌ಗಳು:
 
 
 ;A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
-A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
+ಅನುಸ್ಥಾಪಿಸಲ್ಪಟ್ಟಿರುವ ಆಡ್-ಆಅನ್‌ಗಳನ್ನು ವಿವರಿಸುವ ಒಂದು ಸಂಗ್ರಹ. ಎಲ್ಲ ಆಡ್-ಆನ್‌ಗಳು ವರದಿಯಾಗಿರುವುದಿಲ್ಲ: ಕೇವಲ ಪ್ಲಗಿನ್‌ಗಳು, ಎಕ್ಸ್‌ಟೆನ್ಶನ್‌ಗಳು, ಮತ್ತು ಸೇವೆಗಳು.
 
 
 ;Search Counts:
-Search Counts:
+ಹುಡುಕು ಎಣಿಕೆಗಳು:
 
 
 ;A count of how many searches you issued to each of Mozilla's partner providers.
-A count of how many searches you issued to each of Mozilla's partner providers.
+ಮೊಝಿಲ್ಲಾದ ಪ್ರತಿಯೊಬ್ಬ ಸೇವಾ ಪಾಲುದಾರರಿಗೆ ನೀವು ಎಷ್ಟು ಹುಡುಕುಗಳನ್ನು ವಿತರಿಸಿದ್ದೀರ ಎಂಬುದರ ಎಣಿಕೆ.
 
 
 ;Sessions and Startup Times
-Sessions and Startup Times
+ಅಧಿವೇಶನಗಳು ಮತ್ತು ಪ್ರಾರಂಭ ಸಮಯಗಳು
 
 
 ;For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
-For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
+ಪ್ರತಿಯೊಂದೂ ವೀಕ್ಷಕ ಅಧಿವೇಶನಕ್ಕೂ, ಫೈರ್ಫಾಕ್ಸ್ ಆಯೋಗ್ಯ ವರದಿ ಅಂದಾಜು ಎಷ್ಟು ಕಾಲ ನೀವು ವೀಕ್ಷಣೆ ನೆಡೆಸಿದ್ದಿರಿ (ಸೆಕೆಂಡುಗಳಲ್ಲಿ), ಮತ್ತು ಅಧಿವೇಶನ ಸರಾಗವಾಗಿ ಕೊನೆಗೊಂಡಿತೊ ಅಥವಾ ಕ್ರಿಯಾವೈಫಲ್ಯಗೊಂಡಿತೊ ಮುದ್ರಿಸಿಕೊಳ್ಳುತ್ತದೆ. ಹಾಗೂ ಪ್ರಾರಂಭ ಸಮಯಗಳನ್ನು (ಮಿಲಿಸೆಕೆಂಡುಗಳಲ್ಲಿ) ಲಭ್ಯವಿದ್ದಲ್ಲಿ.
 
 
 ;Profile Creation:
-Profile Creation:
+ಪ್ರೊಫೈಲ್ ಸೃಷ್ಟಿ:
 
 
 ;The day on which your browser profile was created. Counted in days since January 1st 1970.
-The day on which your browser profile was created. Counted in days since January 1st 1970.
+ನಿಮ್ಮ ವೀಕ್ಷಕ ಪ್ರೊಫೈಲ್ ಪ್ರಾರಂಭವಾದ ದಿನ. ಜನವರಿ 1ರ 1970 ರಿಂದ ದಿನಗಳಾಗಿ ಎಣಿಸಲಾಗಿದೆ.
 
 
 ;Learn More
-Learn More
+ಇನ್ನಷ್ಟು ಅರಿತುಕೊಳ್ಳಿ
 
 
 ;Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
-Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
+ಫೈರ್ಫಾಕ್ಸ್ ಆರೋಗ್ಯ ವರದಿ (FHR) ನಿಮ್ಮ ವೀಕ್ಷಕದ ಕಾರ್ಯಾಚರಣೆಯ ಮಾಹಿತಿಯನ್ನು ಪರಿಶೀಲಿಸಿ, ನೀವು ನಿಮ್ಮ ಫೈರ್ಫಾಕ್ಸ್ ನಿಂದ ಅತ್ಯುತ್ತಮವಾದದ್ದನ್ನು ಪಡೆಯಲು ಸಹಕಾರಿಯಾಗಬಲ್ಲ ಉಪಯುಕ್ತ ಸಲಹೆಗಳನ್ನು ನೀಡುತ್ತದೆ. ಫೈರ್ಫಾಕ್ಸ್ ಆರೋಗ್ಯ ವರದಿ ಬಗ್ಗೆ ಇನ್ನೂ ಹೆಚ್ಚಿನ ಮಾಹಿತಿಗೆ, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>ಮೊಝಿಲ್ಲಾ ಸೇವಾ ವಿಭಾಗವನ್ನು ಸಂಪರ್ಕಿಸಿ.</a>
 
 
 ;For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
-For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
+ನಾವು ನಿಮ್ಮ ದತ್ತಾಂಶವನ್ನು ಹೇಗೆ ಬಳಸಿಕೊಳ್ಳುತ್ತೇವೆ ಎನ್ನುವ ಹೆಚ್ಚಿನ ಮಾಹಿತಿಗೆ, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>ನಮ್ಮ ಗೌಪ್ಯತೆ ನೀತಿ ನೋಡಿ.</a>
 
 
 ;You are currently sharing your health report with Mozilla.
-You are currently sharing your health report with Mozilla.
+ನೀವು ಸಧ್ಯಕ್ಕೆ ನಿಮ್ಮ ಆರೋಗ್ಯ ವರದಿಯನ್ನು ಮೊಝಿಲ್ಲಾದೊಂದಿಗೆ ಹಂಚಿಕೊಳ್ಳುತ್ತಿದ್ದೀರಿ.
 
 
 ;Choose what I share
-Choose what I share
+ನಾನು ಏನು ಹಂಚಿಕೊಳ್ಳುವುದೆಂದು ಆಯ್ಕೆ ಮಾಡು
 
 
 ;You are currently not sharing your health report with Mozilla.
-You are currently not sharing your health report with Mozilla.
+ನೀವು ಸಧ್ಯಕ್ಕೆ ನಿಮ್ಮ ಆರೋಗ್ಯ ವರದಿಯನ್ನು ಮೊಝಿಲ್ಲಾದೊಂದಿಗೆ ಹಂಚಿಕೊಳ್ಳುತ್ತಿಲ್ಲ.
