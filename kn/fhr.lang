@@ -512,7 +512,7 @@ CPU ಎಣಿಕೆ:
 
 
 ;Application ID:
-Application ID: {ok}
+ಅನ್ವಯ ID:
 
 
 ;The internal identifier for the application.
@@ -528,7 +528,7 @@ Application ID: {ok}
 
 
 ;Application Build ID:
-Application Build ID: {ok}
+ಅನ್ವಯ ನಿರ್ಮಿತಿ ID:
 
 
 ;The internal build timestamp.
@@ -560,7 +560,7 @@ Application Build ID: {ok}
 
 
 ;Platform Build ID:
-Platform Build ID: {ok}
+ಪ್ಲಾಟ್ಫಾರ್ಮ್ ನಿರ್ಮಿತಿ ID:
 
 
 ;On Android this is an alternative name for appBuildID.
