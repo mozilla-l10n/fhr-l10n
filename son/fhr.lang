@@ -87,15 +87,15 @@ Sukarey
 
 
 ;always activate
-always activate
+tunandi waati kul
 
 
 ;ask to activate
-ask to activate
+hãa ka tunandi
 
 
 ;never activate
-never activate
+ma ši tunandi abada
 
 
 ;Tips
@@ -684,7 +684,7 @@ Firefox Health Report (FHR) ga war ceecikaa goy-sahãa koroši ka war yaamar nda
 
 
 ;For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
-For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
+Ka bay ka tonton hayaa kaŋ ir g'a tee nda war bayhayey, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>guna ka dii ir sutura laadaa.</a>
 
 
 ;You are currently sharing your health report with Mozilla.
@@ -697,5 +697,3 @@ Suuba woo kaŋ ay ga žemna
 
 ;You are currently not sharing your health report with Mozilla.
 War ši war gaahambaani bayrandi sanbo Mozilla do sohõ.
-
-
