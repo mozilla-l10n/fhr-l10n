@@ -664,7 +664,7 @@ Pósejźenja a startowe case
 
 
 ;For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
-Za kužde pśeglědowańske pósejźenje zapśěgujo statusowa rozpšawa Firefox, kak dłujko něźi sćo pśegladował (w sekundach), a lěc pósejźenje jo se normalnje abo pśez wowalenje skóńcyło. Wopśimujo teke startowe casy (w milisekundach), jolic stoje k dispoziciji.
+Za kužde pśeglědowańske pósejźenje zapśěgujo statusowa rozpšawa Firefox, kak dłujko něźi sćo pśegladował (w sekundach), a lěc pósejźenje jo se normalnje abo pśez wowalenje skóńcyło. Wopśimujo teke startowe case (w milisekundach), jolic stoje k dispoziciji.
 
 
 ;Profile Creation:
@@ -672,7 +672,7 @@ Napóranje profilow:
 
 
 ;The day on which your browser profile was created. Counted in days since January 1st 1970.
-Źeń, gaž waš wobglědowakowy profil jo se napórak. Licy se w dnjach wót 1. januara 1970.
+Źeń, gaž waš wobglědowakowy profil jo se napórał. Licy se w dnjach wót 1. januara 1970.
 
 
 ;Learn More
