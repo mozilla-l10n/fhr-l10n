@@ -151,7 +151,7 @@ Hamısı
 
 
 ;Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
-Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
+Başlama vaxtı Firefox versiyanızın performansını ölçməyə kömək edir. Əsasən, sürətli vaxt (yani daha az vaxt) daha yaxşı performans demək olur.
 
 
 ;Data Collected
@@ -339,11 +339,11 @@ The most recent date this add-on was updated (previous information about an unin
 
 
 ;<var>True</var> if the user manually disabled the add-on
-<var>True</var> if the user manually disabled the add-on
+Əgər istifadəçi özü əlavəni deaktiv edibsə <var>Doğru</var> olacaq
 
 
 ;The current version of this add-on
-The current version of this add-on
+Bu əlavənin mövcud versiyası
 
 
 ;How long in milliseconds it took during startup for the application to render the UI and display the window
@@ -692,7 +692,7 @@ Siz hal-hazırda sağlamlıq hesabatınızı Mozilla ilə paylaşırsınız.
 
 
 ;Choose what I share
-Nə paylaşmaqdığımı seç
+Nə Paylaşdığımı Seç
 
 
 ;You are currently not sharing your health report with Mozilla.
