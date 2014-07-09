@@ -7,63 +7,63 @@
 
 
 ;Get insights and performance information about your version of Firefox.
-Отримайте детальну інформацію про функціонування вашої версії Firefox.
+Отримайте детальну інформацію про роботу вашої версії Firefox.
 
 
 ;Learn more...
-Докладніше...
+Дізнатись більше...
 
 
 ;Data Sharing
-Ділитись даними
+Надсилання даних
 
 
 ;ON
-Увімк
+Увімкнено
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
-Ви обрали не ділитись даними з Мозілою, однак ви все ж зможете переглядати інформацію про те, як функціонує ваш браузер.
+Ви вибрали не надсилати дані у Mozilla, але ви й надалі зможете переглядати інформацію про роботу вашого браузера.
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
-Дані звітів про справність також будуть вилучені з серверів Мозіли. Докладніше в нашій <a href="%(privacy_url)s">політиці конфіденційності.</a>
+Дані звітів про справність також будуть вилучені з серверів Mozilla. Дізнатись більше в нашій <a href="%(privacy_url)s">політиці приватності.</a>
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
-Ви обрали час від часу ділитись своїми даними з Мозілою. Дякуюємо за те, що ви є частиною нашої місії з побудови яскравішого майбутнього мережі.
+Ви вибрали час від часу надсилати свої дані в Mozilla. Дякуємо за долучення до нашої місії з побудови яскравішого майбутнього мережі.
 
 
 ;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
-Дізнайтесь про те, як ми використовуємо зібрану у вас інформацію в нашій <a href="%(privacy_url)s">політиці конфіденційності.</a>
+Дізнайтесь про те, як ми використовуємо ваші дані в нашій <a href="%(privacy_url)s">політиці приватності.</a>
 
 
 ;Vital Stats
-Головна статистика
+Основна статистика
 
 
 ;version
-версія
+Версія
 
 
 ;time open
-відкритий
+Відкритий
 
 
 ;last crash
-остання відмова
+Останнє падіння
 
 
 ;bookmarks
-закладки
+Закладки
 
 
 ;This Month
-Цього місяця
+Поточний місяць
 
 
 ;crashes
-відмови
+Падіння
 
 
 ;Add-ons
@@ -75,11 +75,11 @@
 
 
 ;enabled
-увімкнуто
+Увімкнено
 
 
 ;disabled
-вимкнуто
+Вимкнено
 
 
 ;Plugins
@@ -87,15 +87,15 @@
 
 
 ;always activate
-завжди активовані
+Завжди активовані
 
 
 ;ask to activate
-запит на активацію
+Запит на активацію
 
 
 ;never activate
-ніколи не активовані
+Ніколи не активовані
 
 
 ;Tips
@@ -111,7 +111,7 @@
 
 
 ;OFF
-Вимк
+Вимкнено
 
 
 ;Visit our <a href="%(sumo_url)s">support website</a>
@@ -123,15 +123,15 @@
 
 
 ;pages visited
-відвідано сторінок
+Відвідано сторінок
 
 
 ;Your browser seems to be running slower than usual. To learn more:
-Здається, ваш браузер працює повільніше ніж звичайно. Щоб дізнатись більше:
+Здається, ваш браузер працює повільніше ніж зазвичай. Щоб дізнатись більше:
 
 
 ;You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
-Ви зможете побачити цікавішу та детальнішу інформацію через деякий час використання браузеру, наприклад, через декілька тижнів.
+Ви зможете побачити цікавішу та детальнішу інформацію через деякий час використання браузера, наприклад, через декілька тижнів.
 
 
 ;Startup Time by Day
@@ -151,7 +151,7 @@
 
 
 ;Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
-Час запуску допомагає визначити як добре функціонує ваша версія Firefox. Зазвичай, швидший час запуску вказує на кращу швидкодію.
+Час запуску допомагає визначити як добре працює ваша версія Firefox. Зазвичай, швидший час запуску свідчить про кращу швидкодію.
 
 
 ;Data Collected
@@ -191,11 +191,11 @@
 
 
 ;Timing of browser events, rendering, session restores
-Хронометраж подій браузеру, візуалізація, відновлення сеансів
+Хронометраж подій браузера, візуалізація, відновлення сеансів
 
 
 ;Length of session, how old a profile is, count of crashes, count of pages
-Тривалість сеансу, вік профілю, лічильник відмов, лічильник сторінок
+Тривалість сеансу, вік профілю, лічильник падінь, лічильник сторінок
 
 
 ;Detailed Description
@@ -211,7 +211,7 @@
 
 
 ;Binary interface for XPCOM
-Двійковий інтерфейс для XPCOM
+Бінарний інтерфейс для XPCOM
 
 
 ;Identifier for this build of the application based on the date the build was started
@@ -231,7 +231,7 @@
 
 
 ;The version number of any Mozilla hotfix applied to the application
-Номер версії критичного оновлення від Мозіли, встановленого в застосунок
+Номер версії критичного оновлення від Mozilla, встановленого в застосунок
 
 
 ;Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
@@ -387,11 +387,11 @@
 
 
 ;Total number of crashes that were recorded but not yet submitted
-Загальна кількість відмов, які були записані, та про які ще не було відзвітовано
+Загальна кількість падінь, які були записані, та про які ще не було відзвітовано
 
 
 ;Total number of crashes that have been submitted
-Загальна кількість відмов, про які було відзвітовано
+Загальна кількість падінь, про які було відзвітовано
 
 
 ;Time in seconds the app has not been idle
@@ -423,7 +423,7 @@
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
-Звіт про справність Firefox дозволяє вам дізнатись як функціонує Firefox та що ви можете зробити для покращення його швидкодії.
+Звіт про справність Firefox дозволяє вам дізнатись як працює Firefox та що ви можете зробити для покращення його швидкодії.
 
 
 ;See My Report
@@ -439,7 +439,7 @@
 
 
 ;Privacy Policy
-Угода конфіденційності
+Політика приватності
 
 
 # The following strings are used only in the Mobile version of about:healthreport (Firefox for Android)
@@ -464,7 +464,7 @@
 
 
 ;Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
-Звіт про справність Firefox записує інформацію про ваш браузер та пристрій. Ви можете <a href="#raw" class="navigate">переглянути, яка інформація записується.</a> Ви також можете бачити, якою інформацією ви ділитесь з Мозілою.
+Звіт про справність Firefox записує інформацію про ваш браузер та пристрій. Ви можете <a href="#raw" class="navigate">переглянути, яка інформація записується.</a> Ви також можете бачити, якою інформацією ви ділитесь з Mozilla.
 
 
 ;Device hardware, operating system, Firefox version.
@@ -540,11 +540,11 @@ ID збірки застосунка:
 
 
 ;Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
-Firefox розповсюджується каналами: нічні збірки, канал пре-релізів Аврора, стабільна Бета та загальний реліз. Це поле визначає канал.
+Firefox розповсюджується каналами: нічні збірки, канал пре-релізів Aurora, стабільна Бета та загальний випуск. Це поле визначає канал.
 
 
 ;Vendor:
-Поставщик:
+Постачальник:
 
 
 ;The organization that built this application. Typically Mozilla.
@@ -632,7 +632,7 @@ xpcomabi: {ok}
 
 
 ;How many plugin add-ons are installed.
-Скільки встановлено плагінів.
+Скільки плагінів встановлено.
 
 
 ;Theme Count:
@@ -680,22 +680,22 @@ xpcomabi: {ok}
 
 
 ;Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
-Звіт про справність Firefox (FHR) аналізує інформацію про швидкодію вашого браузеру та надає вам корисні рекомендації, які допоможуть покращити роботу Firefox. <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>Відвідайте розділ підтримки Мозіли</a> щодо докладної інформації по звіту про справність Firefox.
+Звіт про справність Firefox (FHR) аналізує інформацію про швидкодію вашого браузера та надає вам корисні рекомендації, які допоможуть покращити роботу Firefox. <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>Відвідайте розділ підтримки Mozilla</a> щодо докладної інформації по звіту про справність Firefox.
 
 
 ;For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
-Докладніше про те, як ми поводимось з вашою інформацією <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>дивіться в нашій політиці конфіденційності.</a>
+Докладніше про те, як ми поводимось з вашою інформацією <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>дивіться в нашій політиці приватності.</a>
 
 
 ;You are currently sharing your health report with Mozilla.
-Ви зараз ділитесь з Мозілою своїм звітом про справніть.
+Ви зараз надсилаєте в Mozilla свій звіт про справніть.
 
 
 ;Choose what I share
-Обрати чим ділитись
+Вибрати що надсилати
 
 
 ;You are currently not sharing your health report with Mozilla.
-Ви зараз не ділитесь з Мозілою своїм звітом про справність.
+Ви зараз не надсилаєте в Mozilla свій звіт про справність.
 
 
