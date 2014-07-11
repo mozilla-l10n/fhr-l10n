@@ -47,7 +47,7 @@ uhlelo
 
 
 ;time open
-Ixesha evulwe ngalo
+ixesha evula ngalo
 
 
 ;last crash
@@ -111,7 +111,7 @@ Ingathi ibhrawuza yakho yonakele izihlandlo ezininzi kutshanje. Ukuze ufunde oku
 
 
 ;OFF
-ICINYIWE
+Icinyiwe
 
 
 ;Visit our <a href="%(sumo_url)s">support website</a>
@@ -119,7 +119,7 @@ Tyelela <a href="%(sumo_url)s">iwebhusayithi yethu yenkxaso</a>
 
 
 ;View more <a href="%(details_url)s">detailed information</a>
-Bona inkcazelo <a href="%(details_url)s"> engakumbi eneenkcukacha</a>
+Bona inkcazelo <a href="%(details_url)s">ingcaciso eneenkcukacha</a>
 
 
 ;pages visited
@@ -131,7 +131,7 @@ Ibhrawuza yakho ibonakala icotha kunesiqhelo. Ukuze ufunde okungakumbi:
 
 
 ;You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
-Uza kukwazi ukubona inkcazelo ebangela umdla ngakumbi xa usebenzisa ibhrawuza yakho. Phinda ubuye kwakhona kwiiveki ezimbalwa ukuze uqalise ukubona 
+Uza kukwazi ukubona inkcazelo ebangela umdla ngakumbi xa usebenzisa ibhrawuza yakho. Khangela kwakhona kwiiveki ezimbalwa ukuqala ukubona amanye amakhondo.
 
 
 ;Startup Time by Day
@@ -167,7 +167,7 @@ OkuLinganiswe ngeNgxelo yokuba seMpilweni kweFirefox
 
 
 ;The Firefox Health Report (FHR) has 4 categories of metrics:
-INgxelo yokuba seMpilweni kweFirefxo ineendidi ezine-4 zemetriks:
+Ingxelo yempilo yeFirefox ineendidi ezine-4 zemetriks:
 
 
 ;Configuration
@@ -195,7 +195,7 @@ Ixesha leziganeko zebhrawuza, ukuguqulwa, ukuyiselwa kweseshoni
 
 
 ;Length of session, how old a profile is, count of crashes, count of pages
-Ubude beseshoni, indlela endala ngayo iprofayile, isibalo seziganeko zokonakala kwayo, nesibalo samaphepha.
+Ubude beseshoni, indlela endala ngayo iprofayile, isibalo seziganeko zokonakala kwayo, nesibalo samaphepha
 
 
 ;Detailed Description
@@ -215,7 +215,7 @@ I-intafeyisi yebinary ye-XPCOM
 
 
 ;Identifier for this build of the application based on the date the build was started
-Isichazi sale bhildi ye-aplikheyishini sisekwe kumhla eyaqaliswa ngayo ibhildi leyo.
+Isichazi sale bhildi yeaplikheyishini sisekwe kumhla eyaqaliswa ngayo ibhildi leyo
 
 
 ;Operating System for which this build was configured
@@ -303,7 +303,7 @@ Inani lezongezelelo zolu hlobo ebezikhona kule profayile ngalo mhla
 
 
 ;<var>True</var> if the application automatically disabled the add-on
-<var>True</var> ukuba i-aplikheyishini isivale ngokuzenzekelayo isongezelelo.
+<var>True</var> ukuba iaplikheyishini isivale ngokuzenzekelayo isongezelelo
 
 
 ;Whether this add-on was installed by the user or automatically by another application
@@ -335,7 +335,7 @@ Nokuba esi songezelelo kukwandiswa okanye ufakelo
 
 
 ;The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
-Owona mhla wakutshanje esahlaziywa ngawo esi songezelelo (inkcazelo yexesha eligqithileyo ngesongezelelo esikhutshiweyo ayigcinwa)
+Owona mhla wakutshanje esahlaziywa ngawo esi songezelelo (inkcazelo yexesha eligqithileyo ngesongezelelo esikhutshiweyo ayigcinwa).
 
 
 ;<var>True</var> if the user manually disabled the add-on
@@ -387,7 +387,7 @@ Ixesha ngokwemizuzwana iiseshoni ezigqityiweyo ebezisebenza ngalo
 
 
 ;Total number of crashes that were recorded but not yet submitted
-Lilonke inani lokonakala  iiseshoni ezirekhodwe ngalo kodwa lingekathunyelwa
+Lilonke inani lokonakala iiseshoni ezirekhodwe ngalo kodwa lingekathunyelwa
 
 
 ;Total number of crashes that have been submitted
@@ -444,7 +444,7 @@ Umgaqo-nkqubo Wabucala
 
 # Ezi zitringi zisetyenziswa kuphela kuhlelo lweMfonomfono ePhathwayo malunga:ingxeloyokubasempilweni (iFirefox ye-Android)
 ;Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
-INgxelo yokuba seMpilweni kweFirefox ikwenza ulungelelanise iFirefox yakho ize  isincede sakhe ibhrawuza ethembeke ngakumbi. Ekuqaleni iingxelo ziba sisiseko, kodwa ziya kuqhubeka zitshintsha yaye zikhula.
+Ingxelo yempilo yeFirefox ikwenza ulungelelanise iFirefox yakho ize isincede sakhe ibhrawuza ethembeke ngakumbi. Ekuqaleni iingxelo ziba sisiseko, kodwa ziya kuqhubeka zitshintsha yaye zikhula.
 
 
 ;Learn More&hellip;
@@ -464,7 +464,7 @@ IiMetriks ezibalulekileyo
 
 
 ;Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
-INgxelo yokuba seMpilweni kweFirefox irekhoda inkcazelo engebhrawuza nesixhobo sakho. Unako <a href="#raw" class="navigate"> ukubona inkcazelo esiyirekhodayo.</a> Ungabona nento owabelana ngayo neMozilla.
+Ingxelo yempilo yeFirefox irekhoda inkcazelo engebhrawuza nesixhobo sakho. Unakho <a href="#raw" class="navigate">ukubona inkcazelo esiyirekhodayo.</a> Ungabona nento owabelana ngayo neMozilla.
 
 
 ;Device hardware, operating system, Firefox version.
@@ -512,7 +512,7 @@ Igama langaphakathi le aplikheyishini yebhrawuza.
 
 
 ;Application ID:
-ISazisi se-aplikheyishini:
+Isazisi seaplikheyishini:
 
 
 ;The internal identifier for the application.
@@ -524,11 +524,11 @@ Uhlelo lwe-Aplikheyishini:
 
 
 ;The current version of the browser
-Uhlelo lwangoku lwebhrawuza.
+Uhlelo lwangoku lwebhrawuza
 
 
 ;Application Build ID:
-Ibhildi yeSazisi se-Aplikheyishini:
+Ibhildi yesazisi seaplikheyishini:
 
 
 ;The internal build timestamp.
@@ -560,7 +560,7 @@ Isichazi sohlelo lwangaphakathi. Iqhele ukufana noHlelo lwe-app.
 
 
 ;Platform Build ID:
-Isazisi seBhildi yeQonga:
+Isazisi sebhildi yeqonga:
 
 
 ;On Android this is an alternative name for appBuildID.
