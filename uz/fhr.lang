@@ -1,237 +1,237 @@
 ;Firefox Health Report
-Firefox Health Report
+Firefox yaroqlilik ma’lumoti
 
 
 ;Raw Data
-Raw Data
+Qayta ishlanmagan ma’lumotlar
 
 
 ;Get insights and performance information about your version of Firefox.
-Get insights and performance information about your version of Firefox.
+"Firefox"ning ushbu versiyasi ishlashi haqida ma’lumot va g‘oyalarni olish.
 
 
 ;Learn more...
-Learn more...
+Batafsil ma’lumot…
 
 
 ;Data Sharing
-Data Sharing
+Ma’lumot ulashish
 
 
 ;ON
-ON
+YOQILGAN
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
-You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
+"Mozilla"ga ma’lumotlarni ulashishni to‘xtatishni tanladingiz, ammo hozir ham brauzeringiz ishlashini ko‘rishingiz mumkin.
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
-Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
+Yaroqlilik ma’lumotlari ham Mozilla'ning serverlaridan o‘chirildi. Bu haqda <a href="%(privacy_url)s">maxfiylik siyosati</a>dan o‘qishingiz mumkin.
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
-You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
+Siz vaqti-vaqti bilan "Mozilla" bilan ma’lumotlarni bo‘lishib turishni tanlagansiz. Internetning kelajagini yorqin  qilish vazifasida ishtirok etayotaningiz uchun rahmat.
 
 
 ;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
-Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
+Sizning ma’lumotlaringizni bizning <a href="%(privacy_url)s">maxfiylik nazorati</a>miz bilan qanday qayta ishlashimizni biling oling.
 
 
 ;Vital Stats
-Vital Stats
+Muhim statistik ma’lumotlar
 
 
 ;version
-version
+versiya
 
 
 ;time open
-time open
+ochiq vaqt
 
 
 ;last crash
-last crash
+so‘nggi nosozlik
 
 
 ;bookmarks
-bookmarks
+xatcho‘plar
 
 
 ;This Month
-This Month
+Bu oy
 
 
 ;crashes
-crashes
+nosozliklar
 
 
 ;Add-ons
-Add-ons
+Qo‘shimcha dasturlar
 
 
 ;View List
-View List
+Ro‘yxatni ko‘rish
 
 
 ;enabled
-enabled
+yoqilgan
 
 
 ;disabled
-disabled
+o‘chirilgan
 
 
 ;Plugins
-Plugins
+Plaginlar
 
 
 ;always activate
-always activate
+doim faollashtirilsin
 
 
 ;ask to activate
-ask to activate
+faollashtirish so‘ralsin
 
 
 ;never activate
-never activate
+hech qachon faollashtirilmasin
 
 
 ;Tips
-Tips
+Maslahatlar
 
 
 ;Wear and Tear
-Wear and Tear
+Yeyilish
 
 
 ;It looks like your browser has crashed a number of times recently. To learn more:
-It looks like your browser has crashed a number of times recently. To learn more:
+Brauzeringizda oldinroq bir necha marta nosozliklar yuz berganga o‘xshaydi. Ko‘proq o‘rganish uchun:
 
 
 ;OFF
-OFF
+OFF {ok}
 
 
 ;Visit our <a href="%(sumo_url)s">support website</a>
-Visit our <a href="%(sumo_url)s">support website</a>
+Bizning <a href="%(sumo_url)s">ko‘mak veb-saytimizga</a> tashrif buyuring
 
 
 ;View more <a href="%(details_url)s">detailed information</a>
-View more <a href="%(details_url)s">detailed information</a>
+<a href="%(details_url)s">Batafsil ma’lumot</a> oling
 
 
 ;pages visited
-pages visited
+tashrif buyurilgan sahifalar
 
 
 ;Your browser seems to be running slower than usual. To learn more:
-Your browser seems to be running slower than usual. To learn more:
+Brauzeringiz odatdagidan sekinroq ishlayotganga o‘xshaydi. Batafsil ma’lumot olish uchun:
 
 
 ;You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
-You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
+Brauzeringizdan ko‘proq foydaanib, ko‘proq qiziqarli va batafsil ma’lumotlarni ko‘rish imkoniga ega bo‘lasiz. Ba’zi tendensiyalarni ko‘rishni boshlash uchun ikki hafta orqaga qaytib ko‘ring.
 
 
 ;Startup Time by Day
-Startup Time by Day
+Brauzeringizdan foydalanishdagi ko‘proq batafsil  va qiziqarli ma’lumotlarni ko‘rishingiz mumkin. Ba’zi tendensiyalarni ko‘rish uchun ikki hafta orqaga qaytib tekshirib ko‘ring.
 
 
 ;Graph:
-Graph:
+Grafik:
 
 
 ;Average
-Average
+O‘rtacha
 
 
 ;All
-All
+Barchasi
 
 
 ;Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
-Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
+Ishga tushish vaqti sizga "Firefox" verisyasinining ishlash tezligini aniqlashga yordam beradi. Umuman olganda,  tezroq vaqtlar (qisqa vaqt) yaxshi samaradorlikni ko‘rsatadi.
 
 
 ;Data Collected
-Data Collected
+To‘plangan ma’lumotlar
 
 
 ;Glossary
-Glossary
+Atamalar
 
 
 ;What the Firefox Health Report Measures
-What the Firefox Health Report Measures
+"Firefox yaroqlilik ma’lumotlari o‘lchamlari" nima
 
 
 ;The Firefox Health Report (FHR) has 4 categories of metrics:
-The Firefox Health Report (FHR) has 4 categories of metrics:
+Firefox yaroqlilik ma’lumoti (FHR)da 4 ta o‘lchov kategoriyasi bor:
 
 
 ;Configuration
-Configuration
+Moslash
 
 
 ;Device hardware, operating system, Firefox version
-Device hardware, operating system, Firefox version
+Qurilma uskunasi, operatsion tizimi, Firefox versiyasi
 
 
 ;Customizations
-Customizations
+Qulaylashtirishlar
 
 
 ;Add-ons, count and type
-Add-ons, count and type
+Qo‘shimcha dasturlar, miqdori va turi
 
 
 ;Performance
-Performance
+Unumdorligi
 
 
 ;Timing of browser events, rendering, session restores
-Timing of browser events, rendering, session restores
+Brauzer hodisalari muddati, renderlash, tiklash seanslari
 
 
 ;Length of session, how old a profile is, count of crashes, count of pages
-Length of session, how old a profile is, count of crashes, count of pages
+Seans uzunligi, profilning yoshi, nosozliklar soni, sahifalar soni
 
 
 ;Detailed Description
-Detailed Description
+Batafsil ta’rifi
 
 
 ;Metric
-Metric
+Metrik
 
 
 ;Description
-Description
+Ta’rifi
 
 
 ;Binary interface for XPCOM
-Binary interface for XPCOM
+XPCOM uchun binary interface
 
 
 ;Identifier for this build of the application based on the date the build was started
-Identifier for this build of the application based on the date the build was started
+Ilova dasturning ushbu tuzilishi identifikatori tuzilish boshlangan sanaga asoslangan
 
 
 ;Operating System for which this build was configured
-Operating System for which this build was configured
+Ushbu tuzish moslangan operatsion tizim
 
 
 ;Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
-Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
+Ilovani shaxsiy tarqatish uchun identifikator foydalanishda. U <var>distribution.id</var> moslamasidan olingan
 
 
 ;Version of the distribution, taken from the <var>distribution.version</var> preference
-Version of the distribution, taken from the <var>distribution.version</var> preference
+Tarqatish versiyasi <var>distribution.version</var> moslamasidan olingan
 
 
 ;The version number of any Mozilla hotfix applied to the application
-The version number of any Mozilla hotfix applied to the application
+Har qanday Mozilla versiyasi raqami tuzatishi ilova dasturga qo‘llanadi
 
 
 ;Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
@@ -247,15 +247,15 @@ The channel this installation checks for application updates (nightly/aurora/bet
 
 
 ;The name of the company/provider who built this version
-The name of the company/provider who built this version
+Ushbu versiyani tuzgan kompaniya/provider nomi
 
 
 ;The current version of the product
-The current version of the product
+Mahsulotning joriy versiyasi
 
 
 ;Number of processor cores
-Number of processor cores
+Prosessor yadrolari soni
 
 
 ;Whether the application is currently configured to be the default browser for the operating system
@@ -697,5 +697,3 @@ Choose what I share
 
 ;You are currently not sharing your health report with Mozilla.
 You are currently not sharing your health report with Mozilla.
-
-
