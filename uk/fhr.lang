@@ -103,7 +103,7 @@
 
 
 ;Wear and Tear
-Знос
+Використання
 
 
 ;It looks like your browser has crashed a number of times recently. To learn more:
@@ -488,11 +488,11 @@
 
 
 ;CPU Count:
-Кількість ЦП:
+Облік ЦП:
 
 
 ;The number of CPU cores reported by Android.
-Повідомлена Андроїдом кількіть ядер ЦП.
+Інформація від Android про кількіть ядер ЦП.
 
 
 ;Memory in MB:
@@ -500,27 +500,27 @@
 
 
 ;The amount of memory reported by Android. Typically excludes graphics memory.
-Повідомлена Андроїдом кількість пам'яті. Типово, не враховує графічну пам'ять.
+Інформація від Android про обсяг пам'яті. Зазвичай не враховує графічну пам'ять.
 
 
 ;Application Name:
-Назва застосунку:
+Назва програми:
 
 
 ;The internal application name for the browser.
-Внутрішня назва застосунку браузера.
+Внутрішня назва програми браузера.
 
 
 ;Application ID:
-ID застосунку:
+ID програми:
 
 
 ;The internal identifier for the application.
-Внутрішній ідентифікатор застосунку.
+Внутрішній ідентифікатор програми.
 
 
 ;Application Version:
-Версія застосунку:
+Версія програми:
 
 
 ;The current version of the browser
@@ -528,7 +528,7 @@ ID застосунку:
 
 
 ;Application Build ID:
-ID збірки застосунка:
+ID збірки програми:
 
 
 ;The internal build timestamp.
@@ -548,7 +548,7 @@ Firefox розповсюджується каналами: нічні збірк
 
 
 ;The organization that built this application. Typically Mozilla.
-Організація, що зібрала застосунок. Типово, це Mozilla.
+Організація, яка зібрала цю програму. Зазвичай Mozilla.
 
 
 ;Platform Version:
@@ -556,7 +556,7 @@ Firefox розповсюджується каналами: нічні збірк
 
 
 ;An internal version identifier. Typically the same as appVersion.
-Внутрішній ідентифікатор версії. Типово, те саме що і appVersion.
+Внутрішній ідентифікатор версії. Зазвичай те саме що і appVersion.
 
 
 ;Platform Build ID:
@@ -564,7 +564,7 @@ ID збірки платформи:
 
 
 ;On Android this is an alternative name for appBuildID.
-На Андроїді, це альтернативна назва для appBuildID.
+На Android це альтернативна назва для appBuildID.
 
 
 ;xpcomabi:
@@ -572,7 +572,7 @@ xpcomabi: {ok}
 
 
 ;The CPU architecture for which this application was built.
-Архітектура ЦП, для якої було зібрано цей застосунок.
+Архітектура ЦП, для якої було зібрано цю програму.
 
 
 ;OS:
@@ -656,7 +656,7 @@ xpcomabi: {ok}
 
 
 ;A count of how many searches you issued to each of Mozilla's partner providers.
-Лічильник кількості пошуків, що ви виконали за допомогою кожного з пошукових засобів партнерів Мозіли.
+Лічильник кількості пошуків, що ви виконали за допомогою кожного з пошукових засобів партнерів Mozilla.
 
 
 ;Sessions and Startup Times
@@ -672,15 +672,15 @@ xpcomabi: {ok}
 
 
 ;The day on which your browser profile was created. Counted in days since January 1st 1970.
-День, коли було створено ваш профіль браузеру. Рахується в днях, починаючи з 1 січня 1970.
+День, коли було створено ваш профіль браузера. Рахується в днях, починаючи з 1 січня 1970.
 
 
 ;Learn More
-Дізнайтесь більше
+Дізнатись більше
 
 
 ;Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
-Звіт про справність Firefox (FHR) аналізує інформацію про швидкодію вашого браузера та надає вам корисні рекомендації, які допоможуть покращити роботу Firefox. <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>Відвідайте розділ підтримки Mozilla</a> щодо докладної інформації по звіту про справність Firefox.
+Звіт про справність Firefox (FHR) аналізує інформацію про швидкодію вашого браузера та надає вам корисні рекомендації, які допоможуть покращити роботу Firefox. Для отримання детальної інформації щодо звіту про справність Firefox, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>відвідайте розділ підтримки Mozilla</a>.
 
 
 ;For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
