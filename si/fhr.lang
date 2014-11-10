@@ -7,7 +7,7 @@ Firefox සෞඛ්‍ය වාර්තාව
 
 
 ;Get insights and performance information about your version of Firefox.
-Get insights and performance information about your version of Firefox.
+ඔබේ Firefox අනුවාදය ගැන අන්තර්දෘෂ්ටි සහ ක්‍රියාකාරීත්ව තොරතුරු ලබා ගන්න.
 
 
 ;Learn more...
@@ -27,11 +27,11 @@ ON {ok}
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
-Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
+ඔබේ සෞඛ්‍ය වාර්ථා දත්ත Mozilla සේවාදායක වෙතින්ද ඉවත් වනු ඇත. අපගේ <a href="%(privacy_url)s">පුද්ගලිකත්ව ප්‍රතිපත්තිය.</a> ගැන කියවන්න
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
-You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
+ඔබ කලින් කල ඔබේ දත්ත Mozilla සමඟ බෙදාගැනීමට තෝරාගෙන ඇත. ජාලය සඳහා දීප්තිමත් අනාගතයක් තැනීමේ අපේ මෙහෙයුමේ කොටසක් වීම ගැන ස්තූතියි.
 
 
 ;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
@@ -87,15 +87,15 @@ You've chosen to share your data with Mozilla from time to time. Thanks for bein
 
 
 ;always activate
-always activate
+සැමවිටම සක්‍රීය
 
 
 ;ask to activate
-ask to activate
+සක්‍රීය කිරීමට විමසන්න
 
 
 ;never activate
-never activate
+කිසි විට සක්‍රීය නොකරන්න
 
 
 ;Tips
@@ -103,7 +103,7 @@ never activate
 
 
 ;Wear and Tear
-Wear and Tear
+ඇඳුම හා බිඳීම
 
 
 ;It looks like your browser has crashed a number of times recently. To learn more:
@@ -131,11 +131,11 @@ OFF {ok}
 
 
 ;You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
-You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
+ඔබේ ගවේශකය වැඩිදුර භාවිත කිරීමේදී තවත් සිත් ඇදගන්නා සුළු හා විස්තරාත්මක තොරතුරු දැකගත හැකි වේ. යම් යම් රටා දැකීමට සති කිහිපයකින් නැවත පරික්ෂා කරන්න.
 
 
 ;Startup Time by Day
-Startup Time by Day
+දිනය අනුව ආරම්භක වෙලාව
 
 
 ;Graph:
@@ -151,7 +151,7 @@ Startup Time by Day
 
 
 ;Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
-Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
+ආරම්භක කාලය ඔබේ Firefox අනුවාදනය ක්‍රියාකරන්නේ කෙසේදැයි දැනගැනීමට උදව් වේ. සාමාන්‍යයෙන්, වේගවත් කාලය (එනම්. අඩු කාලය) යනු වඩා හොඳ ක්‍රියාකාරීත්වයකි.
 
 
 ;Data Collected
@@ -179,7 +179,7 @@ Firefox සෞඛ්‍ය වාර්තාවට (FHR) ප්‍රමිත�
 
 
 ;Customizations
-Customizations
+රුචිකරණයන්
 
 
 ;Add-ons, count and type
@@ -191,7 +191,7 @@ Customizations
 
 
 ;Timing of browser events, rendering, session restores
-Timing of browser events, rendering, session restores
+ගවේශක අවස්ථා, ජනන, වාර යළි පිහිටවීම්
 
 
 ;Length of session, how old a profile is, count of crashes, count of pages
@@ -215,7 +215,7 @@ XPCOM සඳහා ද්වීමය අතුරු මුහුණත
 
 
 ;Identifier for this build of the application based on the date the build was started
-Identifier for this build of the application based on the date the build was started
+මෙම යෙදුමේ නිකුතුව සඳහා හඳුනාගැනීම පදනම්ව ඇත්තේ නිකුතුව ආරම්භ කළ දිනය මතයි
 
 
 ;Operating System for which this build was configured
@@ -223,19 +223,19 @@ Identifier for this build of the application based on the date the build was sta
 
 
 ;Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
-Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
+යෙදුමේ නිශ්චිත නිකුතුවක් සඳහා හඳුනාගැනීම භාවිත වේ. එය ලබාගන්නේ <var>distribution.id</var> අභිප්‍රේතයෙනි
 
 
 ;Version of the distribution, taken from the <var>distribution.version</var> preference
-Version of the distribution, taken from the <var>distribution.version</var> preference
+නිකුතුවේ අනුවාදනය, එය ලබාගන්නේ <var>distribution.id</var> අභිප්‍රේතයෙනි
 
 
 ;The version number of any Mozilla hotfix applied to the application
-The version number of any Mozilla hotfix applied to the application
+යෙදුමට යොදා ඇති ඕනෑම Mozilla නිවැරදිකාරකයක අනුවාදන අංකය
 
 
 ;Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
-Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
+යෙදුමට අනන්‍ය හඳුනාගැනීම එය Firefox හෝ Thunderbird ද යනසේ දක්වයි. <var>appName</var>අගය කුමක් වුවර සියළු යෙදුම් ස්ථාපනයන් සඳහා සමාන වේ
 
 
 ;The configured name of the application (Firefox/Aurora/Nightly for instance)
@@ -243,7 +243,7 @@ Identifier unique to the application that indicates it is Firefox or Thunderbird
 
 
 ;The channel this installation checks for application updates (nightly/aurora/beta/release)
-The channel this installation checks for application updates (nightly/aurora/beta/release)
+යෙදුම් යාවත් සඳහා ස්ථාපන පිරික්සුම් නාලිකාගත කිරීම (nightly/aurora/beta/release)
 
 
 ;The name of the company/provider who built this version
@@ -255,7 +255,7 @@ The channel this installation checks for application updates (nightly/aurora/bet
 
 
 ;Number of processor cores
-Number of processor cores
+සකසන හර ගණන
 
 
 ;Whether the application is currently configured to be the default browser for the operating system
@@ -263,7 +263,7 @@ Number of processor cores
 
 
 ;Locale currently being used
-Locale currently being used
+දැනට භාවිත වන භාශාව
 
 
 ;Amount of RAM in megabytes
@@ -279,15 +279,15 @@ RAM මෙගාබයිට් වලින්
 
 
 ;The build identifier of the Gecko platform code
-The build identifier of the Gecko platform code
+Gecko වේදිකා කේතය සඳහා නිකුතු හඳුනාගැනීම
 
 
 ;The version of the Gecko platform code
-The version of the Gecko platform code
+Gecko වේදිකා කේතයේ අනුවාදනය
 
 
 ;Processor architecture
-Processor architecture
+සකසන නිර්මාණය
 
 
 ;The date this version was first used with this installation profile
@@ -311,19 +311,19 @@ Processor architecture
 
 
 ;Whether this add-on has native code.
-Whether this add-on has native code.
+මෙම ඇඩෝනය සතුව දේශීය කේතය පවතීද යන්න.
 
 
 ;The identifier of this add-on as defined by the add-on developer
-The identifier of this add-on as defined by the add-on developer
+ඇඩෝන සංස්කාරක මගින් නිවේශිත ඇඩෝන හඳුන්වනය
 
 
 ;The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
-The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
+ඇඩෝනය ස්ථාපිත වඩා මෑත දිනය (අස්ථාපිත ඇඩෝනයක් පිළිබඳ පෙර තොරතුරු රඳවා නොගනී).
 
 
 ;The number of searches performed with this search engine from this part of the UI
-The number of searches performed with this search engine from this part of the UI
+මෙම මුහුණත් කලාපයේදී මෙම සෙවුම් එන්ජිම සමඟ සිදුකළ සෙවුම් ගණන
 
 
 ;Whether this add-on was installed in the application directory or profile directory
@@ -335,7 +335,7 @@ The number of searches performed with this search engine from this part of the U
 
 
 ;The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
-The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
+මෙම ඇඩෝනය යාවත් කළ වඩා මෑත දිනය (අස්ථාපිත ඇඩෝනයක් පිළිබඳ පෙර තොරතුරු රඳවා නොගනී).
 
 
 ;<var>True</var> if the user manually disabled the add-on
@@ -347,27 +347,27 @@ The most recent date this add-on was updated (previous information about an unin
 
 
 ;How long in milliseconds it took during startup for the application to render the UI and display the window
-How long in milliseconds it took during startup for the application to render the UI and display the window
+යෙදුම ආරම්භයේදී මුහුණත ජනනය කර කවුළුව පෙන්වීමට ගතවන කාලය මිලිතත්පර මගින්
 
 
 ;How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
-How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
+යෙදුම ආරම්භයේදී පුස්ථකාල පූර්ණය කර මූලික ආරම්භය අවසන් කිරීමට ගතවූ කාලය මිලිතත්පර වලින්
 
 
 ;How long in milliseconds it took during startup for the application to restore tabs from the previous session
-How long in milliseconds it took during startup for the application to restore tabs from the previous session
+යෙදුම ආරම්භයේදී පෙර වාරයෙන් ටැබ යළි පිහිටුවීමට ගතවූ කාලය මිලිතත්පර වලින්
 
 
 ;The number of times the application was run and not cleanly shut down.
-The number of times the application was run and not cleanly shut down.
+යෙදුම ධාවනය වූ හා පැහැදිලිව වසා නොදැමුනු වාර ගණන.
 
 
 ;The time in seconds that the aborted sessions were not idle
-The time in seconds that the aborted sessions were not idle
+පිටවූ වාරයන් නිශ්චල නොවූ කාලය තත්පර වලින්
 
 
 ;The time in seconds that the aborted sessions were running
-The time in seconds that the aborted sessions were running
+පිටවූ වාරයන් ධාවනය වූ කාලය තත්පර වලින්
 
 
 ;The number of days since this application profile directory was created
@@ -444,258 +444,256 @@ Firefox සෞඛ්‍ය වාර්තාව ඔබට ඔබගේ Firefox 
 
 # The following strings are used only in the Mobile version of about:healthreport (Firefox for Android)
 ;Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
-Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
+Firefox සෞඛ්‍ය වාර්ථාව ඔබේ Firefox ප්‍රශස්ථ කිරීමට මෙන්ම අපට වඩා හොඳ ගවේශකයක් තැනීමටද සහය වේ. ආරම්භයේදී වාර්ථා ඉතා සරල වන නමුත්, ඉදිරියේදී වැඩී පරිනාමණය වනු ඇත.
 
 
 ;Learn More&hellip;
-Learn More&hellip;
+තවත් දැනගන්න&hellip;
 
 
 ;Tip
-Tip
+ඉඟිය
 
 
 ;Looks like your Firefox is brand new! Check back after using Firefox for a while.
-Looks like your Firefox is brand new! Check back after using Firefox for a while.
+ඔබේ Firefox ඉතා අළුත් බව පෙනීයයි! මඳ කලක් Firefox භාවිත කර නැවත පැමිණෙන්න. 
 
 
 ;Important Metrics
-Important Metrics
+වැදගත් මිමි
 
 
 ;Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
-Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
+Firefox සෞඛ්‍ය වාර්ථාව ඔබේ ගවේශකය හා උපාංගය පිළිබඳ තොරතුරු  වාර්ථාකරයි. ඔබට <a href="#raw" class="navigate">අප වාර්ථාකරගන්නා තොරතුරු දැකිය හැක.</a>තවද ඔබ Mozilla සමඟ බෙදාගන්නේ කුමක්දැයි දැකිය හැක.
 
 
 ;Device hardware, operating system, Firefox version.
-Device hardware, operating system, Firefox version.
+උපාංගයේ දෘඩාංග, මෙහෙයුම් පද්ධතිය, Firefox අනුවාදනය.
 
 
 ;Extensions, plugins, and number of installed add-ons.
-Extensions, plugins, and number of installed add-ons.
+දිගු, ප්ලගින හා ස්ථාපිත ඇඩෝන ගණන.
 
 
 ;Key performance measures, such as launch speed.
-Key performance measures, such as launch speed.
+ප්‍රධාන ක්‍රියාකාරීත්ව මිනුම්, දියත් වේගය වැනි.
 
 
 ;Browsing duration, install time, number of bookmarks and pages.
-Browsing duration, install time, number of bookmarks and pages.
+ගවේශන කාලය, ස්ථාපන කාලය, පිටු සලකුණු හා පිටු ගණන.
 
 
 ;Home
-Home
+නිවෙස
 
 
 ;CPU Count:
-CPU Count:
+CPU ගණන:
 
 
 ;The number of CPU cores reported by Android.
-The number of CPU cores reported by Android.
+Android මගින් වාර්ථාකරන CPU කෝශ ගණන.
 
 
 ;Memory in MB:
-Memory in MB:
+මතකය MB මගින්:
 
 
 ;The amount of memory reported by Android. Typically excludes graphics memory.
-The amount of memory reported by Android. Typically excludes graphics memory.
+Android මගින් වාර්ථාකළ මතක ප්‍රමාණය. සාමාන්‍යයෙන් චිත්‍රණ මතකයට බැහැරව.
 
 
 ;Application Name:
-Application Name:
+යෙදුම් නාමය:
 
 
 ;The internal application name for the browser.
-The internal application name for the browser.
+ගවේශකය සඳහා අභ්‍යන්තර යෙදුම් නාමය.
 
 
 ;Application ID:
-Application ID:
+යෙදුම් ID:
 
 
 ;The internal identifier for the application.
-The internal identifier for the application.
+යෙදුම සඳහා අභ්‍යන්තර හඳුනාගැනීම.
 
 
 ;Application Version:
-Application Version:
+යෙදුම් අනුවාදනය:
 
 
 ;The current version of the browser
-The current version of the browser
+ගවේශකයේ වත්මන් අනුවාදනය
 
 
 ;Application Build ID:
-Application Build ID:
+යෙදුම් නිකුතු ID:
 
 
 ;The internal build timestamp.
-The internal build timestamp.
+අභ්‍යන්තර නිකුතු කාලමුද්‍රාව.
 
 
 ;Update Channel:
-Update Channel:
+නාලිකාව යාවත්:
 
 
 ;Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
-Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
+Firefox නාලිකා ලෙස නිකුත් වේ: රාත්‍රික තැනීම්, Aurora පෙර-නිකුතු නාලිකාව, ස්ථාවර බීටා, සහ පොදු නිකුතුව. මෙම ක්ෂේත්‍රය නාලිකාව හඳුන්වයි.
 
 
 ;Vendor:
-Vendor:
+සම්පාදක:
 
 
 ;The organization that built this application. Typically Mozilla.
-The organization that built this application. Typically Mozilla.
+මෙම යෙදුම නිර්මාණය කල සංවිධානය. සාමාන්‍යයෙන් Mozilla.
 
 
 ;Platform Version:
-Platform Version:
+වේදිකා අනුවාදනය:
 
 
 ;An internal version identifier. Typically the same as appVersion.
-An internal version identifier. Typically the same as appVersion.
+අභ්‍යන්තර අනුවාදන හැඳින්වීම. සාමාන්‍යයෙන් appVersion සමානයි.
 
 
 ;Platform Build ID:
-Platform Build ID:
+වේදිකා නිශ්පාදක ID:
 
 
 ;On Android this is an alternative name for appBuildID.
-On Android this is an alternative name for appBuildID.
+Android මත මෙය appBuildID වෙත විකල්ප නමකි.
 
 
 ;xpcomabi:
-xpcomabi:
+xpcomabi: {ok}
 
 
 ;The CPU architecture for which this application was built.
-The CPU architecture for which this application was built.
+යෙදුම නිර්මිත CPU නිර්මාණය.
 
 
 ;OS:
-OS:
+OS: {ok}
 
 
 ;The current operating system.
-The current operating system.
+වත්මන් මෙහෙයුම් පද්ධතිය.
 
 
 ;Architecture:
-Architecture:
+නිර්මාණය:
 
 
 ;The CPU architecture for this device.
-The CPU architecture for this device.
+මෙම උපාංගය සඳහා CPU නිර්මාණය.
 
 
 ;System Name:
-System Name:
+පද්ධති නාමය:
 
 
 ;The current system name.
-The current system name.
+වත්මන් පද්ධති නාමය.
 
 
 ;System Version:
-System Version:
+පද්ධති අනුවාදනය:
 
 
 ;The Android OS revision.
-The Android OS revision.
+Android OS පුනරීක්ෂණය.
 
 
 ;Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
-Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
+ඔබ දූශිත ඇඩෝන වලින් ගලවාගැනීමට Firefox ඇඩෝන වැලක්වීම් ලැයිස්තු ප්‍රථිපල ලබාගනීද යන්න. පෙරනිමිය යනු සක්‍රීයයි.
 
 
 ;Telemetry Enabled:
-Telemetry Enabled:
+දූරාමිතිය සක්‍රීයයි:
 
 
 ;Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
-Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
+සංවර්ධනය සමඟ සහය වීමට Firefox විස්තරාත්මක භාවිත දත්ත වාර්ථාකරයිද යන්න. පෙරනිමිය යනු බොහෝ නාලිකා සඳහා අක්‍රීයයි. 
 
 
 ;Extension Count:
-Extension Count:
+දිගු ගණන:
 
 
 ;How many extension add-ons are installed.
-How many extension add-ons are installed.
+කොපමණ දිගු ඇඩෝන ස්ථාපිතද
 
 
 ;Plugin Count:
-Plugin Count:
+ප්ලගින ගණන:
 
 
 ;How many plugin add-ons are installed.
-How many plugin add-ons are installed.
+කොපමණ ප්ලගින ඇඩෝන ස්ථාපිතද.
 
 
 ;Theme Count:
-Theme Count:
+තේමා ගණන:
 
 
 ;How many theme add-ons are installed.
-How many theme add-ons are installed.
+කොපමණ තේමා ඇඩෝන ස්ථාපිතද.
 
 
 ;Addons:
-Addons:
+ඇඩෝන:
 
 
 ;A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
-A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
+ස්ථාපිත ඇඩෝනයන් විස්තර කරන එකතුව. සියළු ඇඩෝන වාර්ථා නොවේ: ප්ලගින, දිගු හා සේවා පමණයි.
 
 
 ;Search Counts:
-Search Counts:
+සෙවුම් ගණන:
 
 
 ;A count of how many searches you issued to each of Mozilla's partner providers.
-A count of how many searches you issued to each of Mozilla's partner providers.
+එක් එක් Mozilla සහකරුවන් සමඟ ඔබ නිකුත්කළ සෙවුම් ගණන.
 
 
 ;Sessions and Startup Times
-Sessions and Startup Times
+වාරයන් හා ආරම්භක කාලයන්
 
 
 ;For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
-For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
+එක් එක් ගවේශන වාරයන් සඳහා, Firefox සෞඛ්‍ය වාර්ථාව ඔබේ ගවේශන කාලය වාර්තා කරයි (තත්පර), තවද වාරය අවසන් වන්නේ සාමාන්‍ය ලෙසද නැතහොත් බිඳවැටීමකින්ද හා පවතී නම් ආරම්භක කාලයන්ද (මිලිතත්පර) වාර්ථා කරයි.
 
 
 ;Profile Creation:
-Profile Creation:
+පැතිකඩ නිර්මාණය:
 
 
 ;The day on which your browser profile was created. Counted in days since January 1st 1970.
-The day on which your browser profile was created. Counted in days since January 1st 1970.
+ඔබේ ගවේශන පැතිකඩ නිර්මිත දිනය. 1970 ජනවාරි 1 සිට දින ගණනය වේ.
 
 
 ;Learn More
-Learn More
+තවත් දැනගන්න
 
 
 ;Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
-Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
+Firefox සෞඛ්‍ය වාර්ථාව (FHR) ඔබට වැදගත් ඉඟි ලබාදී වඩා හොඳ Firefox අත්දැකීමකට සහය වීමට ඔබේ ගවේශකයේ කාර්යක්ෂමතාව විශ්ලේෂණය කරයි. Firefox සෞඛ්‍ය වාර්ථාව ගැන වැඩිදුර දැනගැනීමට, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>Mozilla සහයක අංශයට පිවිසෙන්න.</a>
 
 
 ;For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
-For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
+අප ඔබේ දත්ත හසුවන්නේ කෙසේදැයි වැඩිදුර දැනගැනීමට, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>අපගේ පුද්ගලිකත්ව ප්‍රතිපත්තිය බලන්න.</a>
 
 
 ;You are currently sharing your health report with Mozilla.
-You are currently sharing your health report with Mozilla.
+ඔබ දැනට Mozilla සමඟ ඔබේ සෞඛ්‍ය වාර්ථාව බෙදාගනී.
 
 
 ;Choose what I share
-Choose what I share
+මා බෙදාගන්නේ කුමක්දැයි තෝරන්න
 
 
 ;You are currently not sharing your health report with Mozilla.
-You are currently not sharing your health report with Mozilla.
-
-
+ඔබ දැනට Mozilla සමඟ ඔබේ සෞඛ්‍ය වාර්ථාව බෙදා නොගනී.
