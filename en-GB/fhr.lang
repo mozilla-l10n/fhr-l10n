@@ -1,117 +1,117 @@
 ;Firefox Health Report
-Firefox Health Report
+Firefox Health Report {ok}
 
 
 ;Raw Data
-Raw Data
+Raw Data {ok}
 
 
 ;Get insights and performance information about your version of Firefox.
-Get insights and performance information about your version of Firefox.
+Get insights and performance information about your version of Firefox. {ok}
 
 
 ;Learn more...
-Learn more...
+Learn more... {ok}
 
 
 ;Data Sharing
-Data Sharing
+Data Sharing {ok}
 
 
 ;ON
-ON
+ON {ok}
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
-You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
+You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing. {ok}
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
-Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
+Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a> {ok}
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
-You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
+You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web. {ok}
 
 
 ;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
-Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
+Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a> {ok}
 
 
 ;Vital Stats
-Vital Stats
+Vital Stats {ok}
 
 
 ;version
-version
+version {ok}
 
 
 ;time open
-time open
+time open {ok}
 
 
 ;last crash
-last crash
+last crash {ok}
 
 
 ;bookmarks
-bookmarks
+bookmarks {ok}
 
 
 ;This Month
-This Month
+This Month {ok}
 
 
 ;crashes
-crashes
+crashes {ok}
 
 
 ;Add-ons
-Add-ons
+Add-ons {ok}
 
 
 ;View List
-View List
+View List {ok}
 
 
 ;enabled
-enabled
+enabled {ok}
 
 
 ;disabled
-disabled
+disabled {ok}
 
 
 ;Plugins
-Plugins
+Plugins {ok}
 
 
 ;always activate
-always activate
+always activate {ok}
 
 
 ;ask to activate
-ask to activate
+ask to activate {ok}
 
 
 ;never activate
-never activate
+never activate {ok}
 
 
 ;Tips
-Tips
+Tips {ok}
 
 
 ;Wear and Tear
-Wear and Tear
+Wear and Tear {ok}
 
 
 ;It looks like your browser has crashed a number of times recently. To learn more:
-It looks like your browser has crashed a number of times recently. To learn more:
+It looks like your browser has crashed a number of times recently. To learn more: {ok}
 
 
 ;OFF
-OFF
+OFF {ok}
 
 
 ;Visit our <a href="%(sumo_url)s">support website</a>
@@ -119,63 +119,63 @@ Visit our <a href="%(sumo_url)s">support web site</a>
 
 
 ;View more <a href="%(details_url)s">detailed information</a>
-View more <a href="%(details_url)s">detailed information</a>
+View more <a href="%(details_url)s">detailed information</a> {ok}
 
 
 ;pages visited
-pages visited
+pages visited {ok}
 
 
 ;Your browser seems to be running slower than usual. To learn more:
-Your browser seems to be running slower than usual. To learn more:
+Your browser seems to be running slower than usual. To learn more: {ok}
 
 
 ;You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
-You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
+You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends. {ok}
 
 
 ;Startup Time by Day
-Startup Time by Day
+Startup Time by Day {ok}
 
 
 ;Graph:
-Graph:
+Graph: {ok}
 
 
 ;Average
-Average
+Average {ok}
 
 
 ;All
-All
+All {ok}
 
 
 ;Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
-Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
+Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance. {ok}
 
 
 ;Data Collected
-Data Collected
+Data Collected {ok}
 
 
 ;Glossary
-Glossary
+Glossary {ok}
 
 
 ;What the Firefox Health Report Measures
-What the Firefox Health Report Measures
+What the Firefox Health Report Measures {ok}
 
 
 ;The Firefox Health Report (FHR) has 4 categories of metrics:
-The Firefox Health Report (FHR) has 4 categories of metrics:
+The Firefox Health Report (FHR) has 4 categories of metrics: {ok}
 
 
 ;Configuration
-Configuration
+Configuration {ok}
 
 
 ;Device hardware, operating system, Firefox version
-Device hardware, operating system, Firefox version
+Device hardware, operating system, Firefox version {ok}
 
 
 ;Customizations
@@ -183,171 +183,171 @@ Customisations
 
 
 ;Add-ons, count and type
-Add-ons, count and type
+Add-ons, count and type {ok}
 
 
 ;Performance
-Performance
+Performance {ok}
 
 
 ;Timing of browser events, rendering, session restores
-Timing of browser events, rendering, session restores
+Timing of browser events, rendering, session restores {ok}
 
 
 ;Length of session, how old a profile is, count of crashes, count of pages
-Length of session, how old a profile is, count of crashes, count of pages
+Length of session, how old a profile is, count of crashes, count of pages {ok}
 
 
 ;Detailed Description
-Detailed Description
+Detailed Description {ok}
 
 
 ;Metric
-Metric
+Metric {ok}
 
 
 ;Description
-Description
+Description {ok}
 
 
 ;Binary interface for XPCOM
-Binary interface for XPCOM
+Binary interface for XPCOM {ok}
 
 
 ;Identifier for this build of the application based on the date the build was started
-Identifier for this build of the application based on the date the build was started
+Identifier for this build of the application based on the date the build was started {ok}
 
 
 ;Operating System for which this build was configured
-Operating System for which this build was configured
+Operating System for which this build was configured {ok}
 
 
 ;Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
-Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
+Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference {ok}
 
 
 ;Version of the distribution, taken from the <var>distribution.version</var> preference
-Version of the distribution, taken from the <var>distribution.version</var> preference
+Version of the distribution, taken from the <var>distribution.version</var> preference {ok}
 
 
 ;The version number of any Mozilla hotfix applied to the application
-The version number of any Mozilla hotfix applied to the application
+The version number of any Mozilla hotfix applied to the application {ok}
 
 
 ;Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
-Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
+Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var> {ok}
 
 
 ;The configured name of the application (Firefox/Aurora/Nightly for instance)
-The configured name of the application (Firefox/Aurora/Nightly for instance)
+The configured name of the application (Firefox/Aurora/Nightly for instance) {ok}
 
 
 ;The channel this installation checks for application updates (nightly/aurora/beta/release)
-The channel this installation checks for application updates (nightly/aurora/beta/release)
+The channel this installation checks for application updates (nightly/aurora/beta/release) {ok}
 
 
 ;The name of the company/provider who built this version
-The name of the company/provider who built this version
+The name of the company/provider who built this version {ok}
 
 
 ;The current version of the product
-The current version of the product
+The current version of the product {ok}
 
 
 ;Number of processor cores
-Number of processor cores
+Number of processor cores {ok}
 
 
 ;Whether the application is currently configured to be the default browser for the operating system
-Whether the application is currently configured to be the default browser for the operating system
+Whether the application is currently configured to be the default browser for the operating system {ok}
 
 
 ;Locale currently being used
-Locale currently being used
+Locale currently being used {ok}
 
 
 ;Amount of RAM in megabytes
-Amount of RAM in megabytes
+Amount of RAM in megabytes {ok}
 
 
 ;Currently running Operating System (kernel) name
-Currently running Operating System (kernel) name
+Currently running Operating System (kernel) name {ok}
 
 
 ;Currently running Operating System (kernel) version
-Currently running Operating System (kernel) version
+Currently running Operating System (kernel) version {ok}
 
 
 ;The build identifier of the Gecko platform code
-The build identifier of the Gecko platform code
+The build identifier of the Gecko platform code {ok}
 
 
 ;The version of the Gecko platform code
-The version of the Gecko platform code
+The version of the Gecko platform code {ok}
 
 
 ;Processor architecture
-Processor architecture
+Processor architecture {ok}
 
 
 ;The date this version was first used with this installation profile
-The date this version was first used with this installation profile
+The date this version was first used with this installation profile {ok}
 
 
 ;An application version which has been used with this installation profile
-An application version which has been used with this installation profile
+An application version which has been used with this installation profile {ok}
 
 
 ;The number of add-ons of this type that existed in the profile on this date
-The number of add-ons of this type that existed in the profile on this date
+The number of add-ons of this type that existed in the profile on this date {ok}
 
 
 ;<var>True</var> if the application automatically disabled the add-on
-<var>True</var> if the application automatically disabled the add-on
+<var>True</var> if the application automatically disabled the add-on {ok}
 
 
 ;Whether this add-on was installed by the user or automatically by another application
-Whether this add-on was installed by the user or automatically by another application
+Whether this add-on was installed by the user or automatically by another application {ok}
 
 
 ;Whether this add-on has native code.
-Whether this add-on has native code.
+Whether this add-on has native code. {ok}
 
 
 ;The identifier of this add-on as defined by the add-on developer
-The identifier of this add-on as defined by the add-on developer
+The identifier of this add-on as defined by the add-on developer {ok}
 
 
 ;The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
-The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
+The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept). {ok}
 
 
 ;The number of searches performed with this search engine from this part of the UI
-The number of searches performed with this search engine from this part of the UI
+The number of searches performed with this search engine from this part of the UI {ok}
 
 
 ;Whether this add-on was installed in the application directory or profile directory
-Whether this add-on was installed in the application directory or profile directory
+Whether this add-on was installed in the application directory or profile directory {ok}
 
 
 ;Whether this add-on is an extension or a plug-in
-Whether this add-on is an extension or a plug-in
+Whether this add-on is an extension or a plug-in {ok}
 
 
 ;The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
-The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
+The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept). {ok}
 
 
 ;<var>True</var> if the user manually disabled the add-on
-<var>True</var> if the user manually disabled the add-on
+<var>True</var> if the user manually disabled the add-on {ok}
 
 
 ;The current version of this add-on
-The current version of this add-on
+The current version of this add-on {ok}
 
 
 ;How long in milliseconds it took during startup for the application to render the UI and display the window
-How long in milliseconds it took during startup for the application to render the UI and display the window
+How long in milliseconds it took during startup for the application to render the UI and display the window {ok}
 
 
 ;How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
@@ -355,347 +355,347 @@ How long in milliseconds it took during startup for the application to load libr
 
 
 ;How long in milliseconds it took during startup for the application to restore tabs from the previous session
-How long in milliseconds it took during startup for the application to restore tabs from the previous session
+How long in milliseconds it took during startup for the application to restore tabs from the previous session {ok}
 
 
 ;The number of times the application was run and not cleanly shut down.
-The number of times the application was run and not cleanly shut down.
+The number of times the application was run and not cleanly shut down. {ok}
 
 
 ;The time in seconds that the aborted sessions were not idle
-The time in seconds that the aborted sessions were not idle
+The time in seconds that the aborted sessions were not idle {ok}
 
 
 ;The time in seconds that the aborted sessions were running
-The time in seconds that the aborted sessions were running
+The time in seconds that the aborted sessions were running {ok}
 
 
 ;The number of days since this application profile directory was created
-The number of days since this application profile directory was created
+The number of days since this application profile directory was created {ok}
 
 
 ;The number of times the application was run and cleanly shut down.
-The number of times the application was run and cleanly shut down.
+The number of times the application was run and cleanly shut down. {ok}
 
 
 ;The time in seconds that the completed sessions were not idle
-The time in seconds that the completed sessions were not idle
+The time in seconds that the completed sessions were not idle {ok}
 
 
 ;The time in seconds that the completed sessions were running
-The time in seconds that the completed sessions were running
+The time in seconds that the completed sessions were running {ok}
 
 
 ;Total number of crashes that were recorded but not yet submitted
-Total number of crashes that were recorded but not yet submitted
+Total number of crashes that were recorded but not yet submitted {ok}
 
 
 ;Total number of crashes that have been submitted
-Total number of crashes that have been submitted
+Total number of crashes that have been submitted {ok}
 
 
 ;Time in seconds the app has not been idle
-Time in seconds the app has not been idle
+Time in seconds the app has not been idle {ok}
 
 
 ;Time in seconds since the app was last started
-Time in seconds since the app was last started
+Time in seconds since the app was last started {ok}
 
 
 ;Total number of bookmarks
-Total number of bookmarks
+Total number of bookmarks {ok}
 
 
 ;Total number of pages listed in the history
-Total number of pages listed in the history
+Total number of pages listed in the history {ok}
 
 
 ;How long in minutes the current session has been running
-How long in minutes the current session has been running
+How long in minutes the current session has been running {ok}
 
 
 ;Welcome to your Firefox Health Report
-Welcome to your Firefox Health Report
+Welcome to your Firefox Health Report {ok}
 
 
 ;Welcome!
-Welcome!
+Welcome! {ok}
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
-Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
+Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it. {ok}
 
 
 ;See My Report
-See My Report
+See My Report {ok}
 
 
 ;Time (in seconds)
-Time (in seconds)
+Time (in seconds) {ok}
 
 
 ;Show Statistics
-Show Statistics
+Show Statistics {ok}
 
 
 ;Privacy Policy
-Privacy Policy
+Privacy Policy {ok}
 
 
 # The following strings are used only in the Mobile version of about:healthreport (Firefox for Android)
 ;Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
-Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
+Firefox Health Report lets you optimise your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
 
 
 ;Learn More&hellip;
-Learn More&hellip;
+Learn More&hellip; {ok}
 
 
 ;Tip
-Tip
+Tip {ok}
 
 
 ;Looks like your Firefox is brand new! Check back after using Firefox for a while.
-Looks like your Firefox is brand new! Check back after using Firefox for a while.
+Looks like your Firefox is brand new! Check back after using Firefox for a while. {ok}
 
 
 ;Important Metrics
-Important Metrics
+Important Metrics {ok}
 
 
 ;Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
-Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
+Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla. {ok}
 
 
 ;Device hardware, operating system, Firefox version.
-Device hardware, operating system, Firefox version.
+Device hardware, operating system, Firefox version. {ok}
 
 
 ;Extensions, plugins, and number of installed add-ons.
-Extensions, plugins, and number of installed add-ons.
+Extensions, plugins, and number of installed add-ons. {ok}
 
 
 ;Key performance measures, such as launch speed.
-Key performance measures, such as launch speed.
+Key performance measures, such as launch speed. {ok}
 
 
 ;Browsing duration, install time, number of bookmarks and pages.
-Browsing duration, install time, number of bookmarks and pages.
+Browsing duration, install time, number of bookmarks and pages. {ok}
 
 
 ;Home
-Home
+Home {ok}
 
 
 ;CPU Count:
-CPU Count:
+CPU Count: {ok}
 
 
 ;The number of CPU cores reported by Android.
-The number of CPU cores reported by Android.
+The number of CPU cores reported by Android. {ok}
 
 
 ;Memory in MB:
-Memory in MB:
+Memory in MB: {ok}
 
 
 ;The amount of memory reported by Android. Typically excludes graphics memory.
-The amount of memory reported by Android. Typically excludes graphics memory.
+The amount of memory reported by Android. Typically excludes graphics memory. {ok}
 
 
 ;Application Name:
-Application Name:
+Application Name: {ok}
 
 
 ;The internal application name for the browser.
-The internal application name for the browser.
+The internal application name for the browser. {ok}
 
 
 ;Application ID:
-Application ID:
+Application ID: {ok}
 
 
 ;The internal identifier for the application.
-The internal identifier for the application.
+The internal identifier for the application. {ok}
 
 
 ;Application Version:
-Application Version:
+Application Version: {ok}
 
 
 ;The current version of the browser
-The current version of the browser
+The current version of the browser {ok}
 
 
 ;Application Build ID:
-Application Build ID:
+Application Build ID: {ok}
 
 
 ;The internal build timestamp.
-The internal build timestamp.
+The internal build timestamp. {ok}
 
 
 ;Update Channel:
-Update Channel:
+Update Channel: {ok}
 
 
 ;Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
-Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
+Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel. {ok}
 
 
 ;Vendor:
-Vendor:
+Vendor: {ok}
 
 
 ;The organization that built this application. Typically Mozilla.
-The organization that built this application. Typically Mozilla.
+The organisation that built this application. Typically Mozilla.
 
 
 ;Platform Version:
-Platform Version:
+Platform Version: {ok}
 
 
 ;An internal version identifier. Typically the same as appVersion.
-An internal version identifier. Typically the same as appVersion.
+An internal version identifier. Typically the same as appVersion. {ok}
 
 
 ;Platform Build ID:
-Platform Build ID:
+Platform Build ID: {ok}
 
 
 ;On Android this is an alternative name for appBuildID.
-On Android this is an alternative name for appBuildID.
+On Android this is an alternative name for appBuildID. {ok}
 
 
 ;xpcomabi:
-xpcomabi:
+xpcomabi: {ok}
 
 
 ;The CPU architecture for which this application was built.
-The CPU architecture for which this application was built.
+The CPU architecture for which this application was built. {ok}
 
 
 ;OS:
-OS:
+OS: {ok}
 
 
 ;The current operating system.
-The current operating system.
+The current operating system. {ok}
 
 
 ;Architecture:
-Architecture:
+Architecture: {ok}
 
 
 ;The CPU architecture for this device.
-The CPU architecture for this device.
+The CPU architecture for this device. {ok}
 
 
 ;System Name:
-System Name:
+System Name: {ok}
 
 
 ;The current system name.
-The current system name.
+The current system name. {ok}
 
 
 ;System Version:
-System Version:
+System Version: {ok}
 
 
 ;The Android OS revision.
-The Android OS revision.
+The Android OS revision. {ok}
 
 
 ;Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
-Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
+Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on. {ok}
 
 
 ;Telemetry Enabled:
-Telemetry Enabled:
+Telemetry Enabled: {ok}
 
 
 ;Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
-Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
+Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels. {ok}
 
 
 ;Extension Count:
-Extension Count:
+Extension Count: {ok}
 
 
 ;How many extension add-ons are installed.
-How many extension add-ons are installed.
+How many extension add-ons are installed. {ok}
 
 
 ;Plugin Count:
-Plugin Count:
+Plugin Count: {ok}
 
 
 ;How many plugin add-ons are installed.
-How many plugin add-ons are installed.
+How many plugin add-ons are installed. {ok}
 
 
 ;Theme Count:
-Theme Count:
+Theme Count: {ok}
 
 
 ;How many theme add-ons are installed.
-How many theme add-ons are installed.
+How many theme add-ons are installed. {ok}
 
 
 ;Addons:
-Addons:
+Addons: {ok}
 
 
 ;A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
-A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
+A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services. {ok}
 
 
 ;Search Counts:
-Search Counts:
+Search Counts: {ok}
 
 
 ;A count of how many searches you issued to each of Mozilla's partner providers.
-A count of how many searches you issued to each of Mozilla's partner providers.
+A count of how many searches you issued to each of Mozilla's partner providers. {ok}
 
 
 ;Sessions and Startup Times
-Sessions and Startup Times
+Sessions and Startup Times {ok}
 
 
 ;For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
-For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
+For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available. {ok}
 
 
 ;Profile Creation:
-Profile Creation:
+Profile Creation: {ok}
 
 
 ;The day on which your browser profile was created. Counted in days since January 1st 1970.
-The day on which your browser profile was created. Counted in days since January 1st 1970.
+The day on which your browser profile was created. Counted in days since January 1st 1970. {ok}
 
 
 ;Learn More
-Learn More
+Learn More {ok}
 
 
 ;Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
-Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
+Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a> {ok}
 
 
 ;For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
-For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
+For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a> {ok}
 
 
 ;You are currently sharing your health report with Mozilla.
-You are currently sharing your health report with Mozilla.
+You are currently sharing your health report with Mozilla. {ok}
 
 
 ;Choose what I share
-Choose what I share
+Choose what I share {ok}
 
 
 ;You are currently not sharing your health report with Mozilla.
-You are currently not sharing your health report with Mozilla.
+You are currently not sharing your health report with Mozilla. {ok}
 
 
