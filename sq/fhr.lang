@@ -215,7 +215,7 @@ Ndërfaqe dyore për XPCOM
 
 
 ;Identifier for this build of the application based on the date the build was started
-Identifikues për këtë montim të zbatimit, bazuar në datën kur pat filluar montimi
+Identifikues për këtë montim të aplikacionit, bazuar në datën kur pat filluar montimi
 
 
 ;Operating System for which this build was configured
@@ -223,7 +223,7 @@ Sistemi Operativ për të cilin ky montim qe formësuar
 
 
 ;Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
-Identifikues për shpërndarjen e dhënë të zbatimit në përdorim. Merret prej parapëlqimit <var>distribution.id</var>
+Identifikues për shpërndarjen e dhënë të aplikacionit në përdorim. Merret prej parapëlqimit <var>distribution.id</var>
 
 
 ;Version of the distribution, taken from the <var>distribution.version</var> preference
@@ -231,19 +231,19 @@ Version i shpërndarjes, marrë prej parapëlqimit <var>distribution.version</va
 
 
 ;The version number of any Mozilla hotfix applied to the application
-Numër versioni për çfarëdo hotfix Mozilla të zbatuar mbi zbatimin
+Numër versioni për çfarëdo hotfix Mozilla të zbatuar mbi aplikacionin
 
 
 ;Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
-Identifikues unik për zbatimin, i cili tregon se bëhet fjalë për Firefox-in ose Thunderbird-in, etj. Po njësoj për krejt instalimet e një zbatimi, pavarësisht nga vlera e <var>appName</var>
+Identifikues unik për aplikacionin, i cili tregon se bëhet fjalë për Firefox-in ose Thunderbird-in, etj. Po njësoj për krejt instalimet e një aplikacioni, pavarësisht nga vlera e <var>appName</var>
 
 
 ;The configured name of the application (Firefox/Aurora/Nightly for instance)
-Emri i formësuar për zbatimin (për shembull, Firefox/Aurora/Nightly)
+Emri i formësuar për aplikacionin (për shembull, Firefox/Aurora/Nightly)
 
 
 ;The channel this installation checks for application updates (nightly/aurora/beta/release)
-Kanali që kontrollohet prej këtij instalimi për përditësime zbatimi (hedhje në qarkullim të përnatshme/aurora/beta)
+Kanali që kontrollohet prej këtij instalimi për përditësime aplikacioni (hedhje në qarkullim të përnatshme/aurora/beta)
 
 
 ;The name of the company/provider who built this version
@@ -259,7 +259,7 @@ Numri i qendrave të procesorit
 
 
 ;Whether the application is currently configured to be the default browser for the operating system
-Është formësuar a jo zbatimi për të qenë shfletuesi parazgjedhje për sistemin operativ
+Është formësuar a jo aplikacioni për të qenë shfletuesi parazgjedhje për sistemin operativ
 
 
 ;Locale currently being used
@@ -295,7 +295,7 @@ Data kur ky version u përdor për herë me këtë profil instalimi
 
 
 ;An application version which has been used with this installation profile
-Version zbatimi që është përdorur me këtë profil instalimi
+Version aplikacioni që është përdorur me këtë profil instalimi
 
 
 ;The number of add-ons of this type that existed in the profile on this date
@@ -303,11 +303,11 @@ Numri i shtesave të këtij lloji që gjendeshin te profili në këtë datë
 
 
 ;<var>True</var> if the application automatically disabled the add-on
-<var>True</var> nëse zbatimi e çaktivizoi automatikisht shtesën
+<var>True</var> nëse aplikacioni e çaktivizoi automatikisht shtesën
 
 
 ;Whether this add-on was installed by the user or automatically by another application
-Kjo shtesë qe instaluar nga përdoruesi apo vetvetiu nga një zbatim tjetër
+Kjo shtesë qe instaluar nga përdoruesi apo vetvetiu nga një aplikacion tjetër
 
 
 ;Whether this add-on has native code.
@@ -327,7 +327,7 @@ Numri i kërkimeve të kryera me këtë motor kërkimesh prej kësaj pjese të N
 
 
 ;Whether this add-on was installed in the application directory or profile directory
-Ku qe instaluar kjo shtesë, te drejtoria e zbatimeve apo te drejtoria e profileve
+Ku qe instaluar kjo shtesë, te drejtoria e aplikacioneve apo te drejtoria e profileve
 
 
 ;Whether this add-on is an extension or a plug-in
@@ -347,19 +347,19 @@ Versioni i tanishëm i kësaj shtese
 
 
 ;How long in milliseconds it took during startup for the application to render the UI and display the window
-Sa kohë, në milisekonda, iu desh zbatimit gjatë nisjes të vizatojë NP-në dhe të shfaqë dritaren
+Sa kohë, në milisekonda, iu desh aplikacionit gjatë nisjes të vizatojë NP-në dhe të shfaqë dritaren
 
 
 ;How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
-Sa kohë, në milisekonda, iu desh zbatimit gjatë nisjes të ngarkojë libraritë dhe të përfundojë gatitjen bazë
+Sa kohë, në milisekonda, iu desh aplikacionit gjatë nisjes të ngarkojë libraritë dhe të përfundojë gatitjen bazë
 
 
 ;How long in milliseconds it took during startup for the application to restore tabs from the previous session
-Sa kohë, në milisekonda, iu desh zbatimit gjatë nisjes të rikthejë skedat e sesionit të mëparshëm
+Sa kohë, në milisekonda, iu desh aplikacionit gjatë nisjes të rikthejë skedat e sesionit të mëparshëm
 
 
 ;The number of times the application was run and not cleanly shut down.
-Sa herë është xhiruar dhe mbyllur jo si duhet zbatimi.
+Sa herë është xhiruar dhe mbyllur jo si duhet aplikacioni.
 
 
 ;The time in seconds that the aborted sessions were not idle
@@ -371,11 +371,11 @@ Koha, në sekonda, gjatë së cilës sesionet e ndërprera qenë në xhirim e si
 
 
 ;The number of days since this application profile directory was created
-Numri i ditëve qëkurse është krijuar kjo drejtori profili zbatimi
+Numri i ditëve qëkurse është krijuar kjo drejtori profili aplikacioni
 
 
 ;The number of times the application was run and cleanly shut down.
-Numri i herëve që zbatimi është xhiruar dhe mbyllur pastër.
+Numri i herëve që aplikacioni është xhiruar dhe mbyllur pastër.
 
 
 ;The time in seconds that the completed sessions were not idle
@@ -395,11 +395,11 @@ Numri gjithsej i vithisjeve që janë parashtruar
 
 
 ;Time in seconds the app has not been idle
-Koha, në sekonda, gjatë së cilës zbatimi nuk ka qenë i plogësht
+Koha, në sekonda, gjatë së cilës aplikacioni nuk ka qenë i plogësht
 
 
 ;Time in seconds since the app was last started
-Koha, në sekonda, qëkurse zbatimi është nisur për herën e tanishme
+Koha, në sekonda, qëkurse aplikacioni është nisur për herën e tanishme
 
 
 ;Total number of bookmarks
@@ -504,23 +504,23 @@ Sasia e kujtesës raportuar nga Android-i. Zakonisht përjashtohet kujtesa grafi
 
 
 ;Application Name:
-Emër Zbatimi:
+Emër aplikacioni:
 
 
 ;The internal application name for the browser.
-Emri i brendshëm i zbatimit për shfletuesin.
+Emri i brendshëm i aplikacionit për shfletuesin.
 
 
 ;Application ID:
-ID Zbatimi:
+ID Aplikacioni:
 
 
 ;The internal identifier for the application.
-Identifikuesi i brendshëm për zbatimin.
+Identifikuesi i brendshëm për aplikacionin.
 
 
 ;Application Version:
-Version Zbatimi:
+Version Aplikacioni:
 
 
 ;The current version of the browser
@@ -528,7 +528,7 @@ Versioni i tanishëm i shfletuesit
 
 
 ;Application Build ID:
-ID Montimi i Zbatimit:
+ID Montimi i Aplikaciont:
 
 
 ;The internal build timestamp.
@@ -548,7 +548,7 @@ Ofrues:
 
 
 ;The organization that built this application. Typically Mozilla.
-Organizmi që monton këtë zbatim. Zakonisht Mozilla.
+Organizmi që monton këtë aplikacion. Zakonisht Mozilla.
 
 
 ;Platform Version:
@@ -572,7 +572,7 @@ xpcomabi: {ok}
 
 
 ;The CPU architecture for which this application was built.
-Arkitektura e CPU-së për të cilën qe montuar ky zbatim.
+Arkitektura e CPU-së për të cilën qe montuar ky aplikacion.
 
 
 ;OS:
