@@ -327,7 +327,7 @@
 
 
 ;Whether this add-on was installed in the application directory or profile directory
-ما إذا ثُبّتت هذه الإضافة في مجلد التطبيق أم في مجلد الملف الشخصي 
+ما إذا ثُبّتت هذه الإضافة في مجلد التطبيق أم في مجلد الملف الشخصي
 
 
 ;Whether this add-on is an extension or a plug-in
@@ -356,6 +356,7 @@
 
 ;How long in milliseconds it took during startup for the application to restore tabs from the previous session
 المدة المستغرقة (بالميلي ثانية)، التي استغرقها التطبيق أثناء الإقلاع لاستعادة الألسنة من الجلسة السابقة
+
 
 ;The number of times the application was run and not cleanly shut down.
 عدد المرات التي تم تشغيل التطبيق وإغلاقه فيها بشكل غير عادي.
@@ -449,6 +450,7 @@
 ;Learn More&hellip;
 اطّلع على المزيد
 
+
 ;Tip
 تلميحات
 
@@ -471,6 +473,7 @@
 
 ;Extensions, plugins, and number of installed add-ons.
 امتدادات وملحقات وعدد الإضافات المُثبتة.
+
 
 ;Key performance measures, such as launch speed.
 مقاييس الأداء الرئيسية مثل سرعة الإقلاع.
@@ -605,7 +608,7 @@ xpcomabi: {ok}
 
 
 ;Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
-ما إذا كان فَيَرفُكس يستخرج قائمة الإضافات المحظورة لحمايتك من الإضافات الخبيثة. خاصية مُفعلة بشكل مبدئي. 
+ما إذا كان فَيَرفُكس يستخرج قائمة الإضافات المحظورة لحمايتك من الإضافات الخبيثة. خاصية مُفعلة بشكل مبدئي.
 
 
 ;Telemetry Enabled:

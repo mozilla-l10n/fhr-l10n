@@ -291,7 +291,7 @@ Prosessor arxitekturasi
 
 
 ;The date this version was first used with this installation profile
-Ushbu versiya sanasi birinchi marta ushbu o‘rnatish profili bilan foydalanilgan 
+Ushbu versiya sanasi birinchi marta ushbu o‘rnatish profili bilan foydalanilgan
 
 
 ;An application version which has been used with this installation profile
@@ -496,7 +496,7 @@ Android tomonidan ma’lumot berilgan CPU yadrolari soni.
 
 
 ;Memory in MB:
-MBda xotira: 
+MBda xotira:
 
 
 ;The amount of memory reported by Android. Typically excludes graphics memory.
@@ -697,3 +697,5 @@ Men nima bo‘lishishim kerakligini tanlash
 
 ;You are currently not sharing your health report with Mozilla.
 Siz hozirda yaroqlilik ma’lumotini Mozilla bilan bo‘lishmayapsiz.
+
+

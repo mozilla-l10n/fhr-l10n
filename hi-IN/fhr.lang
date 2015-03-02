@@ -536,7 +536,7 @@ Andriod के द्वारा सूचित की गयी स्मृ�
 
 
 ;Update Channel:
- चैनल अद्यतन करें:
+चैनल अद्यतन करें:
 
 
 ;Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
@@ -697,3 +697,5 @@ Firefox Health Report (FHR) analyses your browser's performance information, in 
 
 ;You are currently not sharing your health report with Mozilla.
 You are currently not sharing your health report with Mozilla.
+
+

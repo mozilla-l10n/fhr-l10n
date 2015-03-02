@@ -259,7 +259,7 @@ Prosessor nüvələrinin sayı
 
 
 ;Whether the application is currently configured to be the default browser for the operating system
-Bu tətbiq əməliyyat sistemi üçün 
+Bu tətbiq əməliyyat sistemi üçün
 
 
 ;Locale currently being used
@@ -291,11 +291,11 @@ Prosessor arxitekturası
 
 
 ;The date this version was first used with this installation profile
- Bu versiyanın tarixi ilk dəfə quraşdırma profilində istifadə olunub. 
+Bu versiyanın tarixi ilk dəfə quraşdırma profilində istifadə olunub.
 
 
 ;An application version which has been used with this installation profile
-Bu quraşdırma profili ilə istifadə olunmuş tətbiqin versiyası 
+Bu quraşdırma profili ilə istifadə olunmuş tətbiqin versiyası
 
 
 ;The number of add-ons of this type that existed in the profile on this date
@@ -323,7 +323,7 @@ Bu əlavə son zamanlarda quraşdırılıb (əvvəl silinən əlavə haqqında m
 
 
 ;The number of searches performed with this search engine from this part of the UI
-Bu axtarış mühərriki ilə İnterfeysin bu hissəsindən edilən axtarışların sayı 
+Bu axtarış mühərriki ilə İnterfeysin bu hissəsindən edilən axtarışların sayı
 
 
 ;Whether this add-on was installed in the application directory or profile directory

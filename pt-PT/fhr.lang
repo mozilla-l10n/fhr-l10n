@@ -544,7 +544,7 @@ O Firefox é distribuído a partir de canais: Nightly builds, o canal Aurora pre
 
 
 ;Vendor:
-Vendor: {ok} 
+Vendor: {ok}
 
 
 ;The organization that built this application. Typically Mozilla.
@@ -568,7 +568,7 @@ No Android este é o nome alternativo para a appBuildID.
 
 
 ;xpcomabi:
-xpcomabi: {ok} 
+xpcomabi: {ok}
 
 
 ;The CPU architecture for which this application was built.

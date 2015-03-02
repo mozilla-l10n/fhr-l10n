@@ -650,12 +650,14 @@ Complementos:
 ;A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
 Una colección que describe los complementos instalados. No se reportan todos los complementos, solo los plugins, extensiones y servicios.
 
+
 ;Search Counts:
 Cantidad de búsquedas:
 
 
 ;A count of how many searches you issued to each of Mozilla's partner providers.
 La cantidad de veces que has hecho una búsqueda en cada proveedor de Mozilla.
+
 
 ;Sessions and Startup Times
 Tiempos de inicio y sesión
@@ -671,6 +673,7 @@ Creación del perfil:
 
 ;The day on which your browser profile was created. Counted in days since January 1st 1970.
 El día en el que se creó tu perfil de navegación. Se cuenta en días a partir del primero de enero de 1970.
+
 
 ;Learn More
 Para más información

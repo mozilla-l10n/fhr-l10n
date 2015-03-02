@@ -572,7 +572,7 @@ xpcomabi: {ok}
 
 
 ;The CPU architecture for which this application was built.
-La arquitectura CPU para la que se construyó esta aplicación. 
+La arquitectura CPU para la que se construyó esta aplicación.
 
 
 ;OS:
@@ -697,3 +697,5 @@ Elegir lo que comparto
 
 ;You are currently not sharing your health report with Mozilla.
 Actualmente no comparte su informe de salud con Mozilla
+
+

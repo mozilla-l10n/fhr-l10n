@@ -578,6 +578,7 @@ A processzor architektúrája, amelyhez az alkalmazás készült.
 ;OS:
 OS: {ok}
 
+
 ;The current operating system.
 A jelenlegi operációs rendszer.
 
@@ -609,12 +610,14 @@ Az Android OS verziója.
 ;Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
 Engedélyezésekor a Firefox letölti a kiegészítők feketelistáját, hogy védelmet nyújtson a rosszindulatú kiegészítők ellen. Alapértelmezésként be van kapcsolva.
 
+
 ;Telemetry Enabled:
 Telemetria engedélyezve:
 
 
 ;Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
 Engedélyezéskor a Firefox részletes adatokat küld a használattal kapcsolatban, hogy segítse a fejlesztést. A legtöbb csatornán alapértelmezésként ki van kapcsolva.
+
 
 ;Extension Count:
 Bővítmények száma:

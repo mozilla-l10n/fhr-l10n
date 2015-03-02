@@ -279,7 +279,7 @@ RAM ର ପରିମାଣ ମେଗାବାଇଟରେ
 
 
 ;The build identifier of the Gecko platform code
-Gecko ପ୍ଲାଟଫର୍ମ ସଂକେତର ନିର୍ମାଣ ପରିଚାୟକ 
+Gecko ପ୍ଲାଟଫର୍ମ ସଂକେତର ନିର୍ମାଣ ପରିଚାୟକ
 
 
 ;The version of the Gecko platform code
@@ -327,7 +327,7 @@ UI ର ଏହି ଭାଗରୁ ଏହି ସନ୍ଧାନ ଯନ୍ତ୍ର
 
 
 ;Whether this add-on was installed in the application directory or profile directory
-ଏହି ଏଡ଼-ଅନକୁ ପ୍ରୟୋଗରେ ସିଧାସଳଖ ଭାବରେ ଅଥବା ରୂପରେଖା ଡିରେକ୍ଟୋରୀ ଦ୍ୱାରା ସ୍ଥାପନ କରାଯାଇଛି 
+ଏହି ଏଡ଼-ଅନକୁ ପ୍ରୟୋଗରେ ସିଧାସଳଖ ଭାବରେ ଅଥବା ରୂପରେଖା ଡିରେକ୍ଟୋରୀ ଦ୍ୱାରା ସ୍ଥାପନ କରାଯାଇଛି
 
 
 ;Whether this add-on is an extension or a plug-in
@@ -697,3 +697,5 @@ Choose what I share
 
 ;You are currently not sharing your health report with Mozilla.
 You are currently not sharing your health report with Mozilla.
+
+

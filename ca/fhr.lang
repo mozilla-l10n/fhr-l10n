@@ -667,7 +667,6 @@ Sessions i temps d'inici
 Per a cada sessió de navegació, l'informe de salut del Firefox enregistra quant ha durat aproximadament (en segons) i si la sessió ha finalitzat correctament o per causa d'una fallada. També inclou el temps d'inici (en milisegons), si és disponible.
 
 
-
 ;Profile Creation:
 Creació del perfil:
 
@@ -682,7 +681,6 @@ Més informació
 
 ;Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
 L'informe de salut del Firefox analitza la informació del rendiment del vostre navegador per a proporcionar-vos consells útils que us ajudin a obtenir el millor del Firefox. Per a més informació sobre l'informe de salut del Firefox, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>llegiu la secció d'ajuda de Mozilla.</a>
-
 
 
 ;For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>

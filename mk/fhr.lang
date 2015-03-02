@@ -85,8 +85,10 @@
 ;Plugins
 Приклучоци
 
+
 ;always activate
 секогаш активирај
+
 
 ;ask to activate
 прашувај за активирање
@@ -94,6 +96,7 @@
 
 ;never activate
 никогаш не активирај
+
 
 ;Tips
 Совети
