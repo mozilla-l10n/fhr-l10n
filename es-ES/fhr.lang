@@ -1,4 +1,4 @@
-;Firefox Health Report
+﻿;Firefox Health Report
 Informe de salud de Firefox
 
 
@@ -67,11 +67,11 @@ fallos
 
 
 ;application crashes
-application crashes
+la aplicación falla
 
 
 ;plugin crashes
-plugin crashes
+el plugin falla
 
 
 ;Add-ons
