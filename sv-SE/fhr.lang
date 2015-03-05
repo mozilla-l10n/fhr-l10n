@@ -27,7 +27,7 @@ Du har valt att sluta dela data med Mozilla, men du kommer fortfarande att kunna
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
-Din hälsorapportdata kommer även att tas bort från Mozillas servrar. Läs mer i vår <a href="%(privacy_url)s">sekretesspolicy.</a>
+Din hälsorapportdata kommer även tas bort från Mozillas servrar. Läs mer i vår <a href="%(privacy_url)s">sekretesspolicy.</a>
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
@@ -67,11 +67,11 @@ krascher
 
 
 ;application crashes
-application crashes
+programkrascher
 
 
 ;plugin crashes
-plugin crashes
+insticksmodulkrascher
 
 
 ;Add-ons
@@ -183,7 +183,7 @@ Konfiguration
 
 
 ;Device hardware, operating system, Firefox version
-Enhetens maskinvara, operativsystem, Firefoxversion
+Enhetens maskinvara, operativsystem, firefoxversion
 
 
 ;Customizations
@@ -239,7 +239,7 @@ Distributionens version. Värdet tas från inställningen <var>distribution.vers
 
 
 ;The version number of any Mozilla hotfix applied to the application
-Versionsnummer för en Mozilla-snabbkorrigering, om någon sådan har tillämpats på programmet
+Versionsnummer för en snabbkorrigering från Mozilla, om någon sådan har tillämpats på programmet
 
 
 ;Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
@@ -279,11 +279,11 @@ RAM-minnets storlek (MB)
 
 
 ;Currently running Operating System (kernel) name
-Namn på det operativsystem (kernel) som för närvarande körs
+Namn på det operativsystem (kärnan) som för närvarande körs
 
 
 ;Currently running Operating System (kernel) version
-Version av det operativsystem (kernel) som för närvarande körs
+Version av det operativsystem (kärnan) som för närvarande körs
 
 
 ;The build identifier of the Gecko platform code
@@ -520,7 +520,7 @@ Webbläsarens interna appnamn.
 
 
 ;Application ID:
-App-ID:
+App-id:
 
 
 ;The internal identifier for the application.
@@ -536,7 +536,7 @@ Den aktuella versionen av webbläsaren.
 
 
 ;Application Build ID:
-Appens bygg-ID:
+Appens bygg-id:
 
 
 ;The internal build timestamp.
@@ -568,11 +568,11 @@ En intern versionsidentifierare. Vanligtvis samma som appversionen.
 
 
 ;Platform Build ID:
-Plattformens Bygg-ID:
+Plattformens bygg-id:
 
 
 ;On Android this is an alternative name for appBuildID.
-På Android är detta ett alternativt namn på appens bygg-ID.
+På Android är detta ett alternativt namn på appens bygg-id.
 
 
 ;xpcomabi:
@@ -672,7 +672,7 @@ Sessioner och tidsåtgång vid appstart
 
 
 ;For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
-Vid varje webbläsarsession registrerar Firefox hälsorapport ungefär hur länge du surfade (i sekunder) och om sessionen avslutades normalt eller efter en krasch. Inkluderar även appstartstider (i millisekunder), om tillgängligt.
+Vid varje webbläsarsession registrerar Firefox hälsorapport ungefär hur länge du surfade (i sekunder) och om sessionen avslutades normalt eller efter en krasch. Inkluderar även appstarttider (i millisekunder), om tillgängligt.
 
 
 ;Profile Creation:
