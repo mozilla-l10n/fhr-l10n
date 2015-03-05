@@ -67,11 +67,11 @@ plantages
 
 
 ;application crashes
-application crashes
+plantages de l'application
 
 
 ;plugin crashes
-plugin crashes
+plantages de plugins
 
 
 ;Add-ons
@@ -195,7 +195,7 @@ Nombre et types de modules complémentaires
 
 
 ;Performance
-Performance {ok}
+Performances
 
 
 ;Timing of browser events, rendering, session restores
@@ -484,7 +484,7 @@ Extensions, plugins et nombre de modules installés.
 
 
 ;Key performance measures, such as launch speed.
-Mesures de performance clés, telles que la vitesse de démarrage.
+Mesures de performances clés, telles que la vitesse de démarrage.
 
 
 ;Browsing duration, install time, number of bookmarks and pages.
