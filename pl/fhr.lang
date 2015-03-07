@@ -1,5 +1,5 @@
 ;Firefox Health Report
-Raport o zdrowiu Firefoksa
+Raport o zdrowiu Firefoksa
 
 
 ;Raw Data
@@ -7,11 +7,11 @@ Surowe dane
 
 
 ;Get insights and performance information about your version of Firefox.
-Zdobądź informacje o wydajności i działaniu swojej wersji Firefoksa.
+Zdobądź informacje o wydajności i działaniu swojej wersji Firefoksa.
 
 
 ;Learn more...
-Dowiedz się więcej...
+Więcej informacji…
 
 
 ;Data Sharing
@@ -27,7 +27,7 @@ Wyłączasz udostępnianie danych Mozilli, ale nadal możesz zbadać wydajność
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
-Dane z twojego raportu o zdrowiu zostaną też usunięte z serwerów Mozilli. Więcej informacji znajdziesz w naszej <a href="%(privacy_url)s">polityce prywatności.</a>
+Dane z twojego raportu o zdrowiu zostaną też usunięte z serwerów Mozilli. Więcej informacji znajdziesz w naszej <a href="%(privacy_url)s">polityce prywatności.</a>
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
@@ -43,19 +43,19 @@ Najważniejsze statystyki
 
 
 ;version
-wersja
+Wersja
 
 
 ;time open
-czas uruchomienia
+Czas uruchomienia
 
 
 ;last crash
-ostatnia awaria
+Ostatnia awaria
 
 
 ;bookmarks
-zakładki
+Zakładki
 
 
 ;This Month
@@ -63,15 +63,15 @@ W tym miesiącu
 
 
 ;crashes
-awarie
+Awarie
 
 
 ;application crashes
-application crashes
+Awarie aplikacji
 
 
 ;plugin crashes
-plugin crashes
+Awarie wtyczek
 
 
 ;Add-ons
@@ -83,11 +83,11 @@ Wyświetl listę
 
 
 ;enabled
-włączono
+Włączone
 
 
 ;disabled
-wyłączono
+Wyłączone
 
 
 ;Plugins
@@ -95,15 +95,15 @@ Wtyczki
 
 
 ;always activate
-zawsze uruchamiaj
+Zawsze uruchamiane
 
 
 ;ask to activate
-pytaj o uruchomienie
+Uruchamiane na życzenie
 
 
 ;never activate
-nigdy nie uruchamiaj
+Nigdy nie uruchamiane
 
 
 ;Tips
@@ -115,11 +115,11 @@ Zużycie
 
 
 ;It looks like your browser has crashed a number of times recently. To learn more:
-Wygląda na to, że ostatnio twoja przegladarka często ulega awariom. Aby dowiedzieć się więcej:
+Wygląda na to, że ostatnio przegladarka często ulega awariom. Aby dowiedzieć się więcej:
 
 
 ;OFF
-Wył.
+Wyłączone
 
 
 ;Visit our <a href="%(sumo_url)s">support website</a>
@@ -135,11 +135,11 @@ odwiedzone strony
 
 
 ;Your browser seems to be running slower than usual. To learn more:
-Wygląda na to, że twoja przeglądarka działa wolniej niż zwykle. Aby dowiedzieć się więcej:
+Wygląda na to, że przeglądarka działa wolniej niż zwykle. Aby dowiedzieć się więcej:
 
 
 ;You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
-Im więcej używasz przeglądarki, tym więcej ciekawych i szczegółowych informacji tu znajdziesz. Jeśli wrócisz tu za kilka tygodni, znajdziesz już pewne prawidłowości.
+Im więcej używasz przeglądarki, tym więcej ciekawych i szczegółowych informacji tu znajdziesz. Jeśli wrócisz tu za kilka tygodni, znajdziesz już pewne prawidłowości.
 
 
 ;Startup Time by Day
@@ -171,11 +171,11 @@ Glosariusz
 
 
 ;What the Firefox Health Report Measures
-Co mierzy raport o zdrowiu Firefoksa
+Co mierzy raport o zdrowiu Firefoksa
 
 
 ;The Firefox Health Report (FHR) has 4 categories of metrics:
-Raport o zdrowiu Firefoksa dzieli informacje na 4 kategorie:
+Raport o zdrowiu Firefoksa dzieli informacje na 4 kategorie:
 
 
 ;Configuration
@@ -191,7 +191,7 @@ Modyfikacje
 
 
 ;Add-ons, count and type
-Dodatki, ich liczba i rodzaj
+Dodatki, ich liczba i rodzaj
 
 
 ;Performance
@@ -223,7 +223,7 @@ Interfejs binarny dla XPCOM
 
 
 ;Identifier for this build of the application based on the date the build was started
-Identyfikator tej kompilacji aplikacji w oparciu o datę rozpoczęcia kompilacji
+Identyfikator tej kompilacji aplikacji w oparciu o datę rozpoczęcia kompilacji
 
 
 ;Operating System for which this build was configured
@@ -231,11 +231,11 @@ System operacyjny, dla którego przygotowano tę kompilację
 
 
 ;Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
-Identyfikator tej konkretnej dystrybucji używanej aplikacji. Pobrany z ustawienia <var>distribution.id</var>
+Identyfikator tej konkretnej dystrybucji używanej aplikacji. Pobrany z ustawienia <var>distribution.id</var>
 
 
 ;Version of the distribution, taken from the <var>distribution.version</var> preference
-Wersja tej dystrybucji, pobrana z ustawienia <var>distribution.version</var>
+Wersja tej dystrybucji, pobrana z ustawienia <var>distribution.version</var>
 
 
 ;The version number of any Mozilla hotfix applied to the application
@@ -251,7 +251,7 @@ Ustawiona nazwa aplikacji (np. Firefox/Aurora/Nightly)
 
 
 ;The channel this installation checks for application updates (nightly/aurora/beta/release)
-Kanał, który ta instalacja sprawdza w poszukiwaniu aktualizacji aplikacji (nightly/aurora/beta/release)
+Kanał, który ta instalacja sprawdza w poszukiwaniu aktualizacji aplikacji (nightly/aurora/beta/release)
 
 
 ;The name of the company/provider who built this version
@@ -267,7 +267,7 @@ Liczba rdzeni procesora
 
 
 ;Whether the application is currently configured to be the default browser for the operating system
-Informacja o tym, czy aplikacja jest obecnie domyślną przeglądarką dla systemu operacyjnego
+Informacja o tym, czy aplikacja jest obecnie domyślną przeglądarką dla systemu operacyjnego
 
 
 ;Locale currently being used
@@ -275,7 +275,7 @@ Obecnie używany język
 
 
 ;Amount of RAM in megabytes
-Pamięć RAM w megabajtach
+Pamięć RAM w megabajtach
 
 
 ;Currently running Operating System (kernel) name
@@ -315,11 +315,11 @@ Liczba dodatków tego typu, istniejących danego dnia na tym profilu
 
 
 ;Whether this add-on was installed by the user or automatically by another application
-Informacja o tym, czy ten dodatek został zainstalowany przez użytkownika, czy przez inną aplikację
+Informacja o tym, czy ten dodatek został zainstalowany przez użytkownika, czy przez inną aplikację
 
 
 ;Whether this add-on has native code.
-Informacja o tym, czy ten dodatek ma natywny kod
+Informacja o tym, czy ten dodatek ma natywny kod
 
 
 ;The identifier of this add-on as defined by the add-on developer
@@ -331,15 +331,15 @@ Najnowsza data instalacji tego dodatku (poprzednie dane, dotyczące odinstalowan
 
 
 ;The number of searches performed with this search engine from this part of the UI
-Informacja o tym, ile razy użyto danej wyszukiwarki z tego miejsca interfejsu
+Informacja o tym, ile razy użyto danej wyszukiwarki z tego miejsca interfejsu
 
 
 ;Whether this add-on was installed in the application directory or profile directory
-Informacja o tym, czy dodatek zainstalowano w katalogu aplikacji, czy w katalogu profilu
+Informacja o tym, czy dodatek zainstalowano w katalogu aplikacji, czy w katalogu profilu
 
 
 ;Whether this add-on is an extension or a plug-in
-Informacja o tym, czy ten dodatek jest rozszerzeniem, czy wtyczką
+Informacja o tym, czy ten dodatek jest rozszerzeniem, czy wtyczką
 
 
 ;The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
@@ -355,27 +355,27 @@ Obecna wersja dodatku
 
 
 ;How long in milliseconds it took during startup for the application to render the UI and display the window
-Ile milisekund w trakcie uruchamiania aplikacji zajmuje renderowanie interfejsu i wyświetlenie okna
+Ile milisekund w trakcie uruchamiania aplikacji zajmuje renderowanie interfejsu i wyświetlenie okna
 
 
 ;How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
-Ile milisekund w trakcie uruchamiania aplikacji zajmuje wczytanie bibliotek i zakończenie podstawowej inicjalizacji
+Ile milisekund w trakcie uruchamiania aplikacji zajmuje wczytanie bibliotek i zakończenie podstawowej inicjalizacji
 
 
 ;How long in milliseconds it took during startup for the application to restore tabs from the previous session
-Ile milisekund w trakcie uruchamiania aplikacji zajmuje przywrócenie kart z poprzedniej sesji
+Ile milisekund w trakcie uruchamiania aplikacji zajmuje przywrócenie kart z poprzedniej sesji
 
 
 ;The number of times the application was run and not cleanly shut down.
-Informacja o tym, ile razy uruchomiono aplikację, ale przy jej zamykaniu wystąpiły problemy.
+Informacja o tym, ile razy uruchomiono aplikację, ale przy jej zamykaniu wystąpiły problemy.
 
 
 ;The time in seconds that the aborted sessions were not idle
-Liczony w sekundach czas, w którym przerwane sesje nie były nieaktywne
+Liczony w sekundach czas, w którym przerwane sesje nie były nieaktywne
 
 
 ;The time in seconds that the aborted sessions were running
-Liczony w sekundach czas, w którym przerwane sesje działały
+Liczony w sekundach czas, w którym przerwane sesje działały
 
 
 ;The number of days since this application profile directory was created
@@ -383,15 +383,15 @@ Liczba dni od stworzenia katalogu profilu tej aplikacji
 
 
 ;The number of times the application was run and cleanly shut down.
-Informacja o tym, ile razy uruchomiono aplikację, a przy jej zamykaniu nie wystąpiły problemy.
+Informacja o tym, ile razy uruchomiono aplikację, a przy jej zamykaniu nie wystąpiły problemy.
 
 
 ;The time in seconds that the completed sessions were not idle
-Liczony w sekundach czas, w którym ukończone sesje nie były nieaktywne
+Liczony w sekundach czas, w którym ukończone sesje nie były nieaktywne
 
 
 ;The time in seconds that the completed sessions were running
-Liczony w sekundach czas, w którym ukończone sesje działały
+Liczony w sekundach czas, w którym ukończone sesje działały
 
 
 ;Total number of crashes that were recorded but not yet submitted
@@ -403,11 +403,11 @@ Całkowita liczba awarii, które wysłano
 
 
 ;Time in seconds the app has not been idle
-Liczony w sekundach czas, w którym aplikacja nie była nieaktywna
+Liczony w sekundach czas, w którym aplikacja nie była nieaktywna
 
 
 ;Time in seconds since the app was last started
-Liczony w sekundach czas, jaki upłynął od ostatniego uruchomienia aplikacji
+Liczony w sekundach czas, jaki upłynął od ostatniego uruchomienia aplikacji
 
 
 ;Total number of bookmarks
@@ -415,7 +415,7 @@ Całkowita liczba zakładek
 
 
 ;Total number of pages listed in the history
-Całkowita liczba stron zapisanych w historii przeglądania
+Całkowita liczba stron zapisanych w historii przeglądania
 
 
 ;How long in minutes the current session has been running
@@ -423,7 +423,7 @@ Ile minut trwa obecna sesja
 
 
 ;Welcome to your Firefox Health Report
-Oto twój raport o zdrowiu Firefoksa
+Oto raport o zdrowiu Firefoksa
 
 
 ;Welcome!
@@ -431,7 +431,7 @@ Witaj!
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
-Raport o zdrowiu Firefoksa pozwala ci dowiedzieć się, jak wydajnie działa twoja przeglądarka i jak możesz ulepszyć jej działanie.
+Raport o zdrowiu Firefoksa pozwala dowiedzieć się, jak wydajnie działa twoja przeglądarka i jak możesz ulepszyć jej działanie.
 
 
 ;See My Report
@@ -452,7 +452,7 @@ Polityka prywatności
 
 # The following strings are used only in the Mobile version of about:healthreport (Firefox for Android)
 ;Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
-Raport o zdrowiu Firefoksa pozwala na zoptymalizowanie działania przeglądarki i pomaga nam ulepszać Firefoksa. Na początku raporty będą dość proste, ale z czasem będą się zmieniać i rozwijać.
+Raport o zdrowiu Firefoksa pozwala na zoptymalizowanie działania przeglądarki i pomaga nam ulepszać Firefoksa. Na początku raporty będą dość proste, ale z czasem będą się zmieniać i rozwijać.
 
 
 ;Learn More&hellip;
@@ -464,7 +464,7 @@ Wskazówka
 
 
 ;Looks like your Firefox is brand new! Check back after using Firefox for a while.
-Wygląda na to, że masz Firefoksa od niedawna! Poużywaj go trochę i wróć tu później.
+Wygląda na to, że masz Firefoksa od niedawna! Poużywaj go trochę i wróć tu później.
 
 
 ;Important Metrics
@@ -472,7 +472,7 @@ Ważne informacje
 
 
 ;Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
-Raport o zdrowiu Firefoksa zbiera informacje o twojej przeglądarce i sprzęcie.  Możesz <a href="#raw" class="navigate">przejrzeć zbierane przez nas dane.</a> Możesz też sprawdzić, co udostępniasz Mozilli.
+Raport o zdrowiu Firefoksa zbiera informacje o twojej przeglądarce i sprzęcie. Możesz <a href="#raw" class="navigate">przejrzeć zbierane przez nas dane.</a> Możesz też sprawdzić, co udostępniasz Mozilli.
 
 
 ;Device hardware, operating system, Firefox version.
@@ -480,15 +480,15 @@ Dane sprzętu, system operacyjny, wersja Firefoksa.
 
 
 ;Extensions, plugins, and number of installed add-ons.
-Rozszerzenia, wtyczki i liczba zainstalowanych dodatków.
+Rozszerzenia, wtyczki i liczba zainstalowanych dodatków.
 
 
 ;Key performance measures, such as launch speed.
-Kluczowe dane o wydajności, np. prędkość rozruchu.
+Kluczowe dane o wydajności, np. prędkość rozruchu.
 
 
 ;Browsing duration, install time, number of bookmarks and pages.
-Czas trwania przeglądania, data instalacji, liczba zakładek i stron.
+Czas trwania przeglądania, data instalacji, liczba zakładek i stron.
 
 
 ;Home
@@ -504,7 +504,7 @@ Liczba rdzeni procesora zgłoszona przez Androida.
 
 
 ;Memory in MB:
-Pamięć w MB:
+Pamięć w MB:
 
 
 ;The amount of memory reported by Android. Typically excludes graphics memory.
@@ -548,7 +548,7 @@ Kanał aktualizacji:
 
 
 ;Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
-Firefox jest rozprowadzany w następujących kanałach: kompilacje Nightly, kanał testów przed wydaniem Aurora, stabilny kanał Beta oraz wydanie finalne. To pole identyfikuje kanał wydania.
+Firefox jest rozprowadzany w następujących kanałach: kompilacje Nightly, kanał testów przed wydaniem Aurora, stabilny kanał Beta oraz wydanie finalne. To pole identyfikuje kanał wydania.
 
 
 ;Vendor:
@@ -616,7 +616,7 @@ Rewizja systemu operacyjnego Android.
 
 
 ;Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
-Pobieranie przez Firefoksa list blokowanych dodatków, w celu ochrony użytkownika przed złośliwymi dodatkami. Domyślnie włączone.
+Pobieranie przez Firefoksa list blokowanych dodatków, w celu ochrony użytkownika przed złośliwymi dodatkami. Domyślnie włączone.
 
 
 ;Telemetry Enabled:
@@ -624,7 +624,7 @@ Włączona telemetria:
 
 
 ;Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
-Przesyłanie przez Firefoksa szczegółowych danych dotyczących użytkowania, w celu pomocy twórcom programu. Domyślnie wyłączone na większości kanałów.
+Przesyłanie przez Firefoksa szczegółowych danych dotyczących użytkowania, w celu pomocy twórcom programu. Domyślnie wyłączone na większości kanałów.
 
 
 ;Extension Count:
@@ -656,7 +656,7 @@ Dodatki:
 
 
 ;A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
-Kolekcja opisująca zainstalowane dodatki. Nie obejmuje wszystkich dodatków, wymienia tylko wtyczki, rozszerzenia i usługi.
+Kolekcja opisująca zainstalowane dodatki. Nie obejmuje wszystkich dodatków, wymienia tylko wtyczki, rozszerzenia i usługi.
 
 
 ;Search Counts:
@@ -664,15 +664,15 @@ Liczba zapytań:
 
 
 ;A count of how many searches you issued to each of Mozilla's partner providers.
-Liczba zapytań do każdej z wyszukiwarek współpracujących z Mozillą.
+Liczba zapytań do każdej z wyszukiwarek współpracujących z Mozillą.
 
 
 ;Sessions and Startup Times
-Czasy trwania sesji i uruchamiania przeglądarki
+Czasy trwania sesji i uruchamiania przeglądarki
 
 
 ;For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
-W odniesieniu do każdej sesji przeglądania Internetu raport o zdrowiu Firefoksa zapamiętuje przybliżony czas jej trwania (w sekundach) i sprawdza, czy sesja zakończyła się normalnie, czy w wyniku awarii. Jeśli są dostępne, raport uwzględnia również czasy uruchamiania przeglądarki (w milisekundach).
+W odniesieniu do każdej sesji przeglądania Internetu raport o zdrowiu Firefoksa zapamiętuje przybliżony czas jej trwania (w sekundach) i sprawdza, czy sesja zakończyła się normalnie, czy w wyniku awarii. Jeśli są dostępne, raport uwzględnia również czasy uruchamiania przeglądarki (w milisekundach).
 
 
 ;Profile Creation:
@@ -680,7 +680,7 @@ Stworzenie profilu:
 
 
 ;The day on which your browser profile was created. Counted in days since January 1st 1970.
-Dzień, w którym utworzono twój profil przeglądarki. Liczony w dniach od 1 stycznia 1970 roku.
+Dzień, w którym utworzono profil przeglądarki. Liczony w dniach od 1 stycznia 1970 roku.
 
 
 ;Learn More
@@ -688,15 +688,15 @@ Dowiedz się więcej
 
 
 ;Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
-Raport o zdrowiu Firefoksa analizuje informacje o wydajności przeglądarki, aby dać użytkownikom pomocne wskazówki, dzięki którym Firefox będzie działał jak najsprawniej. Aby dowiedzieć się więcej o raporcie o zdrowiu Firefoksa, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>zajrzyj do centrum pomocy Mozilli.</a>
+Raport o zdrowiu Firefoksa analizuje informacje o wydajności przeglądarki, aby dać użytkownikom pomocne wskazówki, dzięki którym Firefox będzie działał jak najsprawniej. Aby dowiedzieć się więcej o raporcie o zdrowiu Firefoksa, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>zajrzyj do centrum pomocy Mozilli.</a>
 
 
 ;For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
-Aby dowiedzieć się więcej o tym, co robimy z twoimi danymi, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>przeczytaj naszą politykę prywatności.</a>
+Aby dowiedzieć się więcej o tym, co robimy z twoimi danymi, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>przeczytaj naszą politykę prywatności.</a>
 
 
 ;You are currently sharing your health report with Mozilla.
-Obecnie udostępniasz Mozilli swój raport o zdrowiu.
+Obecnie udostępniasz Mozilli swój raport o zdrowiu.
 
 
 ;Choose what I share
@@ -704,6 +704,6 @@ Wybierz dane, które chcesz udostępniać
 
 
 ;You are currently not sharing your health report with Mozilla.
-Obecnie nie udostępniasz Mozilli swojego raportu o zdrowiu.
+Obecnie nie udostępniasz Mozilli swojego raportu o zdrowiu.
 
 
