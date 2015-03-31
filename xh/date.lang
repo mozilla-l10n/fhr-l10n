@@ -1,17 +1,17 @@
 ;Jan
-Jan {ok}
+Mqu
 
 
 ;Feb
-Feb {ok}
+Mdu
 
 
 ;Mar
-Mat
+Kwi
 
 
 ;Apr
-Epr
+Tsh
 
 
 ;May
@@ -19,11 +19,11 @@ Meyi
 
 
 ;Jun
-Jun {ok}
+Sil
 
 
 ;Jul
-Jul {ok}
+Kha
 
 
 ;Aug
@@ -47,35 +47,35 @@ Dis
 
 
 ;January
-Januwari
+eyoMqungu
 
 
 ;February
-Febhuwari
+eyoMdumba
 
 
 ;March
-Matshi
+eyoKwindla
 
 
 ;April
-Epreli
+uTshazimpuzi
 
 
 ;May
-Meyi
+uCanzibe
 
 
 ;June
-Juni
+eyeSilimela
 
 
 ;July
-Julayi
+eyeKhala
 
 
 ;August
-Agasti
+eyeThupha
 
 
 ;September
@@ -83,27 +83,27 @@ Septemba
 
 
 ;October
-Okhthobha
+eyoMsintsi
 
 
 ;November
-Novemba
+eyeNkanga
 
 
 ;December
-Disemba
+eyeMnga
 
 
 ;Sunday
-Cawa
+iCawa
 
 
 ;Monday
-Mvulo
+uMvulo
 
 
 ;Tuesday
-Lwesibini
+Ulwesibini
 
 
 ;Wednesday
@@ -111,23 +111,23 @@ Lwesithathu
 
 
 ;Thursday
-Lwesine
+ulweSine
 
 
 ;Friday
-Lwesihlanu
+Ulwesihlanu
 
 
 ;Saturday
-Mgqibelo
+uMgqibelo
 
 
 ;Sun
-Caw
+Ilanga
 
 
 ;Mon
-Mv
+Mvu
 
 
 ;Tue
@@ -147,15 +147,15 @@ Lwesihl
 
 
 ;Sat
-Mgq
+Mgqi
 
 
 ;Su
-Ca
+Caw
 
 
 ;Mo
-Mv
+Mvu
 
 
 ;Tu
