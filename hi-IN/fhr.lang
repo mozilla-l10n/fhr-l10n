@@ -616,7 +616,7 @@ Android OS संशोधन.
 
 
 ;Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
-Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
+चाहे फायरफ़ॉक्स ऐड-ऑन की ब्लॉकलिस्ट परिणाम लता है जो आपको बुरे ऐड-ऑन से बचाता है. ओन पर सुनिश्चित करें.
 
 
 ;Telemetry Enabled:
@@ -624,7 +624,7 @@ Whether Firefox fetches add-on blocklist results to protect you against maliciou
 
 
 ;Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
-Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
+चाहें फायरफ़ॉक्स विकास में मदद के लिए डेटा उपयोग की विस्तृत रिपोर्ट देता है. ज्यादातर चैनल्स के लिए ऑफ पर सुनिश्चित करें.
 
 
 ;Extension Count:
@@ -672,7 +672,7 @@ Addons: {ok}
 
 
 ;For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
-For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
+प्रत्येक ब्राउज़िंग सत्र के लिए, फायरफ़ॉक्स स्वास्थ्य रिपोर्ट स्वतः आपने कितनी देर ब्राउज किया (सेकंड्स में), और क्या सत्र सामान्य रूप से अंत हुआ या क्रैश के द्वारा को दर्ज़ करता है. स्टार्टअप समय (मिलीसेकन्ड्स में) भी अगर उपलब्ध हो तो शामिल करता है.
 
 
 ;Profile Creation:
@@ -680,7 +680,7 @@ For each browsing session, Firefox Health Report records approximately how long 
 
 
 ;The day on which your browser profile was created. Counted in days since January 1st 1970.
-The day on which your browser profile was created. Counted in days since January 1st 1970.
+वह दिन जब आपने ब्राउज़र प्रोफाइल बनाया था. 1 जनवरी 1970 से दिनों में गिने.
 
 
 ;Learn More
@@ -688,7 +688,7 @@ The day on which your browser profile was created. Counted in days since January
 
 
 ;Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
-Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
+फायरफ़ॉक्स स्वास्थ्य रिपोर्ट (FHR) आपके ब्राउज़र के प्रदर्शन की जानकारी का अवलोकन करती है, आपको फायरफ़ॉक्स से अधिकतम काम निकलने के उपयोगी सुझाव प्रदान करने के लिए. फायरफ़ॉक्स स्वास्थ्य रिपोर्ट पर और अधिक जानकारी के लिए, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>मोज़िल्ला सपोर्ट भाग पर जाएँ.</a>
 
 
 ;For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
@@ -704,6 +704,4 @@ Firefox Health Report (FHR) analyses your browser's performance information, in 
 
 
 ;You are currently not sharing your health report with Mozilla.
-You are currently not sharing your health report with Mozilla.
-
-
+आप वर्तमान में मोज़िला के साथ अपने स्वास्थ्य की रिपोर्ट को साझा नहीं कर रहे हैं.
