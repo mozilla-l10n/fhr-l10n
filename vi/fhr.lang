@@ -548,7 +548,7 @@ Cập nhật kênh:
 
 
 ;Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
-Firefox được phân bố thông qua các kênh: Nightly, Aurora, bản Beta ổn định, và phát hành công khai. Trường này để xác định một trong các kênh đó.
+Firefox được phân bố thông qua các kênh: Nightly, Aurora, bản Beta ổn định, và phát hành công khai. Trường này để xác định một trong các kênh đó. 
 
 
 ;Vendor:
@@ -705,5 +705,3 @@ Chọn những thứ bạn muốn chia sẻ
 
 ;You are currently not sharing your health report with Mozilla.
 Bạn đang không chia sẻ health report của bạn với Mozilla.
-
-
