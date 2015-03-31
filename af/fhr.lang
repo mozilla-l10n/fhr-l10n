@@ -3,7 +3,7 @@ Firefox Health Report
 
 
 ;Raw Data
-Raw Data
+Rou data
 
 
 ;Get insights and performance information about your version of Firefox.
@@ -11,7 +11,7 @@ Get insights and performance information about your version of Firefox.
 
 
 ;Learn more...
-Learn more...
+Meer inligting…
 
 
 ;Data Sharing
@@ -19,7 +19,7 @@ Data Sharing
 
 
 ;ON
-ON
+AAN
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
@@ -43,7 +43,7 @@ Vital Stats
 
 
 ;version
-version
+weergawe
 
 
 ;time open
@@ -55,11 +55,11 @@ last crash
 
 
 ;bookmarks
-bookmarks
+boekmerke
 
 
 ;This Month
-This Month
+Vandeesmaand
 
 
 ;crashes
@@ -705,5 +705,3 @@ Choose what I share
 
 ;You are currently not sharing your health report with Mozilla.
 You are currently not sharing your health report with Mozilla.
-
-
