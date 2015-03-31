@@ -27,7 +27,7 @@
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
-آپ کی صحت کی رپورٹ کے اکوائف کو بھی موزیلا کے سرور سے ہٹا دیا جائے گا. ہمارے <a href="%(privacy_url)s"> رازداری کی پالیسی۔</ a> پر</a> پر مزید جانیے
+آپ کی صحت کی رپورٹ کے اکوائف کو بھی موزیلا کے سرور سے ہٹا دیا جائے گا. ہمارے <a href="٪(privacy_url)s"> رازداری کی پالیسی۔</ a> پر</a> پر مزید جانیے
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
@@ -95,15 +95,15 @@ plugin crashes
 
 
 ;always activate
-always activate
+ہمیشہ متحرک کریں
 
 
 ;ask to activate
-ask to activate
+عمل میں لانے کے لیے پوچھیں
 
 
 ;never activate
-never activate
+کبھی عمل میں نہ لائیں
 
 
 ;Tips
@@ -452,11 +452,11 @@ XPCOM کے لئے ثنائی مواجہ
 
 # The following strings are used only in the Mobile version of about:healthreport (Firefox for Android)
 ;Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
-Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
+فائر فاکس تندرستی رپورٹ آپ کو فائرفاکس کو تیز ترین بنانے میں اور ہمیں اور بھی بہتر براؤزر بنانے دیتی ہے۔رپورٹس شروع میں کافی سادہ ہوں گی، لیکن آگے چل کر بڑھتی اور بہتر ہوتی جائیں گی۔
 
 
 ;Learn More&hellip;
-Learn More&hellip;
+مزید سیکھیں&hellip;
 
 
 ;Tip
@@ -464,11 +464,11 @@ Learn More&hellip;
 
 
 ;Looks like your Firefox is brand new! Check back after using Firefox for a while.
-Looks like your Firefox is brand new! Check back after using Firefox for a while.
+لگتا ہے کہ آپ کا فائر فاکس بلکل نیا ہے! فائر فاکس کو کچھ دیر استعمال کرنے کے بعد پھر آکر چیک کریں۔
 
 
 ;Important Metrics
-Important Metrics
+اہم اعشاریات
 
 
 ;Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
@@ -480,7 +480,7 @@ Firefox Health Report records information about your browser and device. You can
 
 
 ;Extensions, plugins, and number of installed add-ons.
-Extensions, plugins, and number of installed add-ons.
+توسیعات،پلگ ان، اور تنصیب شدہ ایڈ اون کی تعداد۔
 
 
 ;Key performance measures, such as launch speed.
@@ -705,5 +705,3 @@ Choose what I share
 
 ;You are currently not sharing your health report with Mozilla.
 You are currently not sharing your health report with Mozilla.
-
-
