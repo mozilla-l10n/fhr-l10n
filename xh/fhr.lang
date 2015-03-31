@@ -1,41 +1,41 @@
 ;Firefox Health Report
-INgxelo yokuba seMpilweni kweFirefox
+INgxelo yeMpilo kwiFirefox
 
 
 ;Raw Data
-IiNkcukacha eziluHlaza
+IiNkcukacha eziKrwada
 
 
 ;Get insights and performance information about your version of Firefox.
-Fumana ingqiqo nenkcazelo engokusebenza kohlelo lwakho lweFirefox.
+Fumana ingqiqo nenkcazelo engokusebenza ngohlelo lwakho lweFirefox.
 
 
 ;Learn more...
-Funda okungakumbi...
+Funda ngokuthe vetshe...
 
 
 ;Data Sharing
-Ukwabelana ngeeNkcukacha
+Ukwabelana ngeeDatha
 
 
 ;ON
-Ilayitiwe
+Ilayitile
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
-Ukhethe ukuyeka ukwabelana ngeenkcukacha neMozilla, kodwa useza kukwazi ukubona indlela esebenza ngayo ibhrawuza yakho.
+Ukhethe ukuyeka ukwabelana ngeedatha neMozilla, kodwa useza kukwazi ukubona indlela esebenza ngayo ibhrawuza yakho.
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
-Iinkcukacha zakho zeNgxelo engokuba seMpilweni ziza kushenxiswa kwiiseva zeMozilla. Funda okungakumbi <a href="%(privacy_url)s">kumgaqo-nkqubo wabucala wethu.</a>
+Idatha yakho yeNgxelo yezeMpilo iza kususwa kwiiseva zeMozilla. Funda ngokuthe vetshe <a href="%(privacy_url)s">kumgaqo-nkqubo wabucala wethu.</a>
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
-Ukhethe ukwabelana ngeenkcukacha zakho neMozilla amaxesha ngamaxesha. Enkosi ngokuba yinxalenye yomsebenzi wethu ekwakheni ikamva eliqaqambileyo leWebhu.
+Ukhethe ukwabelana ngeedatha yakho neMozilla amaxesha ngamaxesha. Enkosi ngokuba yinxalenye yomsebenzi wethu ekwakheni ikamva eliqaqambileyo leWebhu.
 
 
 ;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
-Funda ngendlela esizisebenzisa<a href="%(privacy_url)s"></a>
+Funda ngendlela esimelana ngayo nedatha yakho<a href="%(privacy_url)s">umgaqo-nkqubo wabucala</a>
 
 
 ;Vital Stats
@@ -83,19 +83,19 @@ Bona uluhlu
 
 
 ;enabled
-ivulelwe
+yenziwe yasebenza
 
 
 ;disabled
-kuqhwalelisiwe
+yenziwe ayasebenza
 
 
 ;Plugins
-Izifakelo
+Izingeniso
 
 
 ;always activate
-soloko uyenza isebenza
+soloko uyenza isebenze
 
 
 ;ask to activate
@@ -163,7 +163,7 @@ Ixesha lokuqalisa linceda ekugqibeni ngendlela olusebenza kakuhle ngayo uhlobo l
 
 
 ;Data Collected
-Iinkcukacha eziQokelelweyo
+Idatha eQokelelweyo
 
 
 ;Glossary
@@ -450,7 +450,7 @@ Bonisa iiNkcukacha-manani
 Umgaqo-nkqubo Wabucala
 
 
-# The following strings are used only in the Mobile version of about:healthreport (Firefox for Android)
+# Ezi zitringi zisetyenziswa kuphela kuhlelo lweMfonomfono ePhathwayo malunga:ingxeloyokubasempilweni (iFirefox ye-Android)
 ;Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
 Ingxelo yempilo yeFirefox ikwenza ulungelelanise iFirefox yakho ize isincede sakhe ibhrawuza ethembeke ngakumbi. Ekuqaleni iingxelo ziba sisiseko, kodwa ziya kuqhubeka zitshintsha yaye zikhula.
 
@@ -705,5 +705,3 @@ Khetha into emandabelane ngayo
 
 ;You are currently not sharing your health report with Mozilla.
 Ngoku akwabelani ngengxelo yakho yokjuba sempilweni neMozilla.
-
-
