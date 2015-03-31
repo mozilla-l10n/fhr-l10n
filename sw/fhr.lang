@@ -1,9 +1,9 @@
 ;Firefox Health Report
-Firefox Health Report
+Ripoti ya Afya ya Firefox
 
 
 ;Raw Data
-Raw Data
+Data ghafi
 
 
 ;Get insights and performance information about your version of Firefox.
@@ -64,6 +64,14 @@ This Month
 
 ;crashes
 crashes
+
+
+;application crashes
+application crashes
+
+
+;plugin crashes
+plugin crashes
 
 
 ;Add-ons
@@ -697,5 +705,3 @@ Choose what I share
 
 ;You are currently not sharing your health report with Mozilla.
 You are currently not sharing your health report with Mozilla.
-
-
