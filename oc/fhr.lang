@@ -496,7 +496,7 @@ Acuèlh
 
 
 ;CPU Count:
-CPU Count:
+Compte CPU :
 
 
 ;The number of CPU cores reported by Android.
@@ -528,7 +528,7 @@ The internal identifier for the application.
 
 
 ;Application Version:
-Application Version:
+Version de l'aplicacion :
 
 
 ;The current version of the browser
@@ -552,7 +552,7 @@ Firefox is distributed through channels: Nightly builds, the Aurora pre-release 
 
 
 ;Vendor:
-Vendor:
+Vendeire :
 
 
 ;The organization that built this application. Typically Mozilla.
@@ -576,7 +576,7 @@ On Android this is an alternative name for appBuildID.
 
 
 ;xpcomabi:
-xpcomabi:
+xpcomabi :
 
 
 ;The CPU architecture for which this application was built.
@@ -584,7 +584,7 @@ The CPU architecture for which this application was built.
 
 
 ;OS:
-OS:
+Sistèma operatiu :
 
 
 ;The current operating system.
@@ -600,7 +600,7 @@ The CPU architecture for this device.
 
 
 ;System Name:
-System Name:
+Nom del sistèma :
 
 
 ;The current system name.
@@ -608,7 +608,7 @@ The current system name.
 
 
 ;System Version:
-System Version:
+Version del sistèma :
 
 
 ;The Android OS revision.
@@ -705,5 +705,3 @@ Choose what I share
 
 ;You are currently not sharing your health report with Mozilla.
 You are currently not sharing your health report with Mozilla.
-
-
