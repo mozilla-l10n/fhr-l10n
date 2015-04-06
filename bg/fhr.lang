@@ -11,7 +11,7 @@
 
 
 ;Learn more...
-Научи още...
+Научете повече…
 
 
 ;Data Sharing
@@ -27,7 +27,7 @@
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
-Вашият доклад за изправност също ще бъде премахнат от сървърите на Mozilla. Научете още в нашата <a href="%(privacy_url)s">декларация за поверителност.</a>
+Вашият доклад за изправност също ще бъде премахнат от сървърите на Mozilla. Научете повече в нашата <a href="%(privacy_url)s">декларация за поверителност.</a>
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
@@ -67,11 +67,11 @@
 
 
 ;application crashes
-application crashes
+сривове на приложението
 
 
 ;plugin crashes
-plugin crashes
+сривове на приставки
 
 
 ;Add-ons
@@ -95,15 +95,15 @@ plugin crashes
 
 
 ;always activate
-активирай винаги
+винаги включени
 
 
 ;ask to activate
-питай за активация
+питане за включване
 
 
 ;never activate
-не активирай никога
+винаги изключени
 
 
 ;Tips
@@ -123,11 +123,11 @@ plugin crashes
 
 
 ;Visit our <a href="%(sumo_url)s">support website</a>
-Посетете нашият <a href="%(sumo_url)s">сайт за поддръжка</a>
+Посетете нашата <a href="%(sumo_url)s">страница за поддръжка</a>
 
 
 ;View more <a href="%(details_url)s">detailed information</a>
-Вижте още <a href="%(details_url)s">детайлна информация</a>
+Вижте още <a href="%(details_url)s">подробна информация</a>
 
 
 ;pages visited
@@ -143,15 +143,15 @@ plugin crashes
 
 
 ;Startup Time by Day
-Време за стартиране по ден
+Време за стартиране по дни
 
 
 ;Graph:
-Графика:
+Диаграма:
 
 
 ;Average
-Осреднена стойност
+Средно
 
 
 ;All
@@ -183,7 +183,7 @@ plugin crashes
 
 
 ;Device hardware, operating system, Firefox version
-Хардуеър, операционна система, версия на Firefox
+Хардуер, операционна система, версия на Firefox
 
 
 ;Customizations
@@ -191,7 +191,7 @@ plugin crashes
 
 
 ;Add-ons, count and type
-Добавки, брой и тип.
+Добавки, брой и тип
 
 
 ;Performance
@@ -219,11 +219,11 @@ plugin crashes
 
 
 ;Binary interface for XPCOM
-Бинарен интерфейс за XPCOM
+Двоичен интерфейс на XPCOM
 
 
 ;Identifier for this build of the application based on the date the build was started
-Идентификатора за тази версия на приложението, базирано на датата на която версията е стартирана
+Идентификатораът за тази версия на приложението, базирано на датата на която версията е стартирана
 
 
 ;Operating System for which this build was configured
@@ -251,7 +251,7 @@ plugin crashes
 
 
 ;The channel this installation checks for application updates (nightly/aurora/beta/release)
-Каналът, който инсталацията използва за проверки за осъвременяване (nightly/aurora/beta/release)
+Каналът, който инсталацията използва за проверки за обновяване (nightly/aurora/beta/release)
 
 
 ;The name of the company/provider who built this version
@@ -263,11 +263,11 @@ plugin crashes
 
 
 ;Number of processor cores
-Брой ядра
+Брой ядра на процесора
 
 
 ;Whether the application is currently configured to be the default browser for the operating system
-Дали приложението е конфигурирано да бъде браузър по подразбиране на операционната система
+Дали приложението е конфигурирано да бъде стандартният браузър на операционната система
 
 
 ;Locale currently being used
@@ -311,7 +311,7 @@ plugin crashes
 
 
 ;<var>True</var> if the application automatically disabled the add-on
-<var>True</var> ако приложението автоматично декативира добавката
+<var>True</var> ако приложението автоматично изключва добавката
 
 
 ;Whether this add-on was installed by the user or automatically by another application
@@ -323,7 +323,7 @@ plugin crashes
 
 
 ;The identifier of this add-on as defined by the add-on developer
-Идентификатора на тази добавка, както е дефиниран от разработчика ѝ
+Идентификаторът на тази добавка, както е дефиниран от разработчика ѝ
 
 
 ;The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
@@ -456,7 +456,7 @@ plugin crashes
 
 
 ;Learn More&hellip;
-Научи още&hellip;
+Научете повече&hellip;
 
 
 ;Tip
@@ -480,7 +480,7 @@ plugin crashes
 
 
 ;Extensions, plugins, and number of installed add-ons.
-Разширения, плъгини и брой инсталирани добавки.
+Разширения, приставки и брой инсталирани добавки.
 
 
 ;Key performance measures, such as launch speed.
@@ -504,7 +504,7 @@ plugin crashes
 
 
 ;Memory in MB:
-Памет в MB:
+Памет в МБ:
 
 
 ;The amount of memory reported by Android. Typically excludes graphics memory.
@@ -544,7 +544,7 @@ Build ID на приложението:
 
 
 ;Update Channel:
-Ъпдейт канал:
+Канал за обновяване:
 
 
 ;Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
@@ -636,11 +636,11 @@ xpcomabi:{ok}
 
 
 ;Plugin Count:
-Брой на плъгини:
+Брой на приставки:
 
 
 ;How many plugin add-ons are installed.
-Колко плъгини са инсталирани.
+Колко приставки са инсталирани.
 
 
 ;Theme Count:
@@ -656,7 +656,7 @@ xpcomabi:{ok}
 
 
 ;A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
-Колекция, описваща инсталираните добавки. Не всички добавки са докладвани: само плъгини, разширения и услуги.
+Колекция, описваща инсталираните добавки. Не всички добавки са докладвани: само приставки, разширения и услуги.
 
 
 ;Search Counts:
@@ -684,7 +684,7 @@ xpcomabi:{ok}
 
 
 ;Learn More
-Научи още
+Научете повече
 
 
 ;Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
