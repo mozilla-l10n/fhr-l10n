@@ -1,77 +1,77 @@
-;Firefox Health Report
-Firefox Health Report
+﻿;Firefox Health Report
+फायारफक्स हेल्थ रिपर्ट
 
 
 ;Raw Data
-Raw Data
+गोथां डाटा
 
 
 ;Get insights and performance information about your version of Firefox.
-Get insights and performance information about your version of Firefox.
+फायारफक्सनि नोंथांनि बिसाननि सोमोन्दै इसिं आरो मावफुंनाय फोरमायथिहोग्राखौ ला।
 
 
 ;Learn more...
-Learn more...
+गोबां सोलों...
 
 
 ;Data Sharing
-Data Sharing
+डाटा शेयारिं
 
 
 ;ON
-ON
+अन
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
-You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
+नोंथाङा मजिलाजों डाटा शेयार खालामनायखौ बन्द खालामनो बासिखबाय, थेवबो नोंथाङा नोंथांनि ब्राउजार मावफुंनायखौ नुनो हागोन।
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
-Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
+नोंथांनि हेल्थ रिपर्ट डाटा खौबो मजिलानि सार्भार निफ्राय बोखारगोन। जोंनि <a href="%(privacy_url)s">गुमुरथि पलिसिआव गोबां सोलों।</a>
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
-You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
+नोंथाङा नोंथांनि डाटाखौ मजिलाजों गेजेर गेजेर शेयार खालामनो बासिखबाय। वेबखौ इयुनाव गोजोंसिन खालामनो जोंनि मिसननि बाहागो जानायनि थाखाय साबायखर।
 
 
 ;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
-Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
+जों नोंथांनि डाटाखौ जोंनि<a href="%(privacy_url)s"> गुमुरथि पलिसिआव माबोरै हेन्डेल खालामो सोलों।</a>
 
 
 ;Vital Stats
-Vital Stats
+भाइटाल स्टेट्स
 
 
 ;version
-version
+बिसान
 
 
 ;time open
-time open
+गेवनाय सम
 
 
 ;last crash
-last crash
+जोबथा बायनाय
 
 
 ;bookmarks
-bookmarks
+बुकमार्क
 
 
 ;This Month
-This Month
+बे दान
 
 
 ;crashes
-crashes
+बायनाय
 
 
 ;application crashes
-application crashes
+एप्लिकेसन बायनाय
 
 
 ;plugin crashes
-plugin crashes
+प्लागिन बायनाय
 
 
 ;Add-ons
@@ -79,500 +79,487 @@ Add-ons
 
 
 ;View List
-View List
+लिस्टखौ नाय
 
 
 ;enabled
-enabled
+हाहोनाय खालामबाय
 
 
 ;disabled
-disabled
+लोरबां खालामबाय
 
 
 ;Plugins
-Plugins
+प्लागिन
 
 
 ;always activate
-always activate
+अरायबो मावथि खालाम
 
 
 ;ask to activate
-ask to activate
-
+मावथि खालामनो सों
 
 ;never activate
-never activate
+माब्लाबाबो मावथि खालामनो नाङा
 
 
 ;Tips
-Tips
+इंगित
 
 
 ;Wear and Tear
-Wear and Tear
+गाननाय आरो जिनाय
 
 
 ;It looks like your browser has crashed a number of times recently. To learn more:
-It looks like your browser has crashed a number of times recently. To learn more:
+ओरैबादि नुयोदि नोंथांनि ब्राउजारआ दा बावैसो गोबां खेब बायबाय। गोबां सोलोंनो:
 
 
 ;OFF
-OFF
+अफ
 
 
 ;Visit our <a href="%(sumo_url)s">support website</a>
-Visit our <a href="%(sumo_url)s">support website</a>
-
+जोंनि <a href="%(sumo_url)s">हेफाजाब वेबसाइट</a>आव थां
 
 ;View more <a href="%(details_url)s">detailed information</a>
-View more <a href="%(details_url)s">detailed information</a>
+गोबां <a href="%(details_url)s">गुवारै फोरमायथिहोग्रा</a>खौ नाय
 
 
 ;pages visited
-pages visited
+थांखांनाय बिलाइफोर
 
 
 ;Your browser seems to be running slower than usual. To learn more:
-Your browser seems to be running slower than usual. To learn more:
+नोंथांनि ब्राउजारखौ सरासनस्रा निख्रुइ लासैसिन खारनाय बादि नुदों। गोबां सोलोंनो:
 
 
 ;You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
-You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
+नोंथाङा जेसेनो नोंथांनि ब्राउजारखौ बाहायगोन एसेनो गोबां रुजाथाव आरो गुवारै फोरमायथिहोग्राखौ नायनो हागोन। माखासे सानखांथि नायनायखौ जागायनो माखासे हाबथायाव आनजाद खालामफिन।
 
 
 ;Startup Time by Day
-Startup Time by Day
+सान मथे जागायनाय सम
 
 
 ;Graph:
-Graph:
+ग्राफ:
 
 
 ;Average
-Average
+गड़
 
 
 ;All
-All
+गासै
 
 
 ;Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
-Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
+जागायनाय समआ फायारफक्सनि नोंथांनि बिसानआ बेसे मोजां खामानि मावयो बेखौ थि खालामनो मदद खालामो। सरासनस्रायै, गोख्रैसिन सम (जेरै- खमसिन सम)आ साबसिन मावफुंनायखौ दिन्थियो।
 
 
 ;Data Collected
-Data Collected
+डाटा बुथुमबाय
 
 
 ;Glossary
-Glossary
-
+सोदोब-बाख्रि
 
 ;What the Firefox Health Report Measures
-What the Firefox Health Report Measures
-
+फायारफक्स हेल्थ रिपर्टआ माखौ जखा सुयो
 
 ;The Firefox Health Report (FHR) has 4 categories of metrics:
-The Firefox Health Report (FHR) has 4 categories of metrics:
+फायारफक्स हेल्ड रिपर्ट (FHR) हा मेट्रिक्सनि 4 थाखो दं:
 
 
 ;Configuration
-Configuration
+बाइजोमहर
 
 
 ;Device hardware, operating system, Firefox version
-Device hardware, operating system, Firefox version
+डिभाइस हार्डवेयार, अपारेटिं सिस्टेम, फायारफक्स बिसान
 
 
 ;Customizations
-Customizations
+गावनि गोसोबादि खालामनाय
 
 
 ;Add-ons, count and type
-Add-ons, count and type
+Add-ons, हिसाब आरो रोखोम
 
 
 ;Performance
-Performance
+मावफुंनाय
 
 
 ;Timing of browser events, rendering, session restores
-Timing of browser events, rendering, session restores
+ब्राउजार जाथायनि सम, जाथाय जाहोनाय, जथुम्मा लाबोफिनो
 
 
 ;Length of session, how old a profile is, count of crashes, count of pages
-Length of session, how old a profile is, count of crashes, count of pages
-
+जथुम्मानि गोलाव, मोनसे प्रफाइलआ बेसे गोजाम, बायनायनि हिसाब, बिलाइनि हिसाब
 
 ;Detailed Description
-Detailed Description
+गुवारै बेखेवथि
 
 
 ;Metric
-Metric
+मेट्रिक
 
 
 ;Description
-Description
+बेखेवथि
 
 
 ;Binary interface for XPCOM
-Binary interface for XPCOM
+XPCOM नि थाखाय बाइनारि इन्टारफेस
 
 
 ;Identifier for this build of the application based on the date the build was started
-Identifier for this build of the application based on the date the build was started
+एप्लिकेसननि बे बिल्डनि थाखाय सिनायथिहोग्राया अक्ट’आव सोनारनाय बिल्डखौ जागायबाय
 
 
 ;Operating System for which this build was configured
-Operating System for which this build was configured
+अपारेटिं सिस्टेम जायनि थाखाय बे बिल्डखौ बाइजोमहर दादोंमोन
 
 
 ;Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
-Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
+एप्लिकेसननि जरखा रानना होनायनि थाखाय सिनायथिहोग्राया बाहायजागासिनो दं। बेखौ <var>distribution.id</var> पसन्द निफ्राय लानाय जायो।
 
 
 ;Version of the distribution, taken from the <var>distribution.version</var> preference
-Version of the distribution, taken from the <var>distribution.version</var> preference
+रानना होनायनि बिसान, <var>distribution.version</var> पसन्द निफ्राय लाबाय
 
 
 ;The version number of any Mozilla hotfix applied to the application
-The version number of any Mozilla hotfix applied to the application
+जायखिजाया मजिला हटफिक्सनि बिसान अनजिमाखौ एप्लिकेसनआव बाहायनाय जायो
 
 
 ;Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
-Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
-
+एप्लिकेसनआव सिनायथिहोग्रा रुजुजायै दं जाय फायारफक्स एबा थान्डारबार्ड बाइदि बाइदि नामा इंगित खालामो। <var>appName</var> नि बेसेनखौ सानाबालानो मोनसे एप्लिकेसननि गासै इनष्टलेसननि थाखाय एखे।
 
 ;The configured name of the application (Firefox/Aurora/Nightly for instance)
-The configured name of the application (Firefox/Aurora/Nightly for instance)
+एप्लिकेसननि बाइजोमहर दाखानाय मुं (बिदिन्थिनि थाखाय फायारफक्स/Aurora/सानफ्रोमबो हरहराव)
 
 
 ;The channel this installation checks for application updates (nightly/aurora/beta/release)
-The channel this installation checks for application updates (nightly/aurora/beta/release)
+बे इनष्टलेसनआ एप्लिकेसननि थाखाय आनजाद खालामनाय सेनेलआ आपडेट खालामो (सानफ्रोमबो हरहराव/aurora/बेटा/ओंखारनाय)
 
 
 ;The name of the company/provider who built this version
-The name of the company/provider who built this version
+बे बिसानखौ बानायनाय कम्पानि/होग्रानि मुं
 
 
 ;The current version of the product
-The current version of the product
+दिहुन्थायनि दानि बिसान
 
 
 ;Number of processor cores
-Number of processor cores
+प्रसेसर क’र्‌सनि अनजिमा
 
 
 ;Whether the application is currently configured to be the default browser for the operating system
-Whether the application is currently configured to be the default browser for the operating system
+एप्लिकेसनखौ दासान्दि अपारेटिं सिस्टेमनि थाखाय डिफल्ट ब्राउजार बानायनो बाइजोमहर दादों ना दायाखै।
 
 
 ;Locale currently being used
-Locale currently being used
-
+लकेलआ दासान्दि बाहाय जागासिनो दं
 
 ;Amount of RAM in megabytes
-Amount of RAM in megabytes
+मेगाबाइट्सआव RAM नि बिबां
 
 
 ;Currently running Operating System (kernel) name
-Currently running Operating System (kernel) name
+दासान्दि सोलिबाय थानाय अपारेटिं सिस्टेम (कार्नेल) मुं
 
 
 ;Currently running Operating System (kernel) version
-Currently running Operating System (kernel) version
-
+दासान्दि सोलिबाय थानाय अपारेटिं सिस्टेम (कार्नेल) बिसान
 
 ;The build identifier of the Gecko platform code
-The build identifier of the Gecko platform code
+Gecko प्लेटफर्म क’डनि बिल्ड सिनायथिहोग्रा
 
 
 ;The version of the Gecko platform code
-The version of the Gecko platform code
+Gecko प्लेटफर्म क’डनि बिसान
 
 
 ;Processor architecture
-Processor architecture
+प्रसेसर दागिरि
 
 
 ;The date this version was first used with this installation profile
-The date this version was first used with this installation profile
+बे इनष्टलेसन प्रफाइलजों बे बिसानखौ गिबिखेब बाहायनाय अक्ट’
 
 
 ;An application version which has been used with this installation profile
-An application version which has been used with this installation profile
-
+मोनसे एप्लिकेसन बिसानखौ बे इनष्टलेसन प्रफाइलजों बाहायबाय
 
 ;The number of add-ons of this type that existed in the profile on this date
-The number of add-ons of this type that existed in the profile on this date
+बे रोखोमनि add-ons नि अनजिमाया बे अक्ट’आव थानाय प्रफाइलआव दंखायो।
 
 
 ;<var>True</var> if the application automatically disabled the add-on
-<var>True</var> if the application automatically disabled the add-on
+<var> एप्लिकेसनआ </var> add-on खौ गावनो गाव महरै लोरबां खालामोब्ला सैथो
 
 
 ;Whether this add-on was installed by the user or automatically by another application
-Whether this add-on was installed by the user or automatically by another application
+बे add-on आ बाहायग्राजों नङाब्ला गुबुन मोनसे एप्लिकेसनजों गावनो गाव महरै इनष्टल खालामजादों ना जायाखै।
 
 
 ;Whether this add-on has native code.
-Whether this add-on has native code.
+बे add-on हा नेटिभ क’ड दं ना गैया।
 
 
 ;The identifier of this add-on as defined by the add-on developer
-The identifier of this add-on as defined by the add-on developer
+बे add-on नि सिनायथिहोग्राया add-on जौगाहोग्राजों थि खालामजायो।
 
 
 ;The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
-The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
+बे add-on खौ इनष्टल खालामनाय जोबोद बावैसोनि अक्ट’ (मोनसे आनइनष्टल खालामनाय add-on नि आगोलनि फोरमायथिहोग्राखौ दोनाखै)।
 
 
 ;The number of searches performed with this search engine from this part of the UI
-The number of searches performed with this search engine from this part of the UI
+UI नि बे बाहागो निफ्राय बे सार्स इन्जिनजों मावफुंनाय नागिरनायनि अनजिमा
 
 
 ;Whether this add-on was installed in the application directory or profile directory
-Whether this add-on was installed in the application directory or profile directory
+बे add-on खौ एप्लिकेसन डिरेक्टरि एबा प्रफाइल डिरेक्टरिआव इनष्टल खालामदों ना खालामाखै।
 
 
 ;Whether this add-on is an extension or a plug-in
-Whether this add-on is an extension or a plug-in
+बे add-on आ मोनसे फेहेरनाय एबा मोनसे प्लागिन नंगौ ना नङा
 
 
 ;The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
-The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
+बे add-on खौ आपडेट खालामनाय जोबोद बावैसोनि अक्ट’ (मोनसे आनइनष्टल खालामनाय add-on नि आगोलनि फोरमायथिहोग्राखौ दोनाखै)।
 
 
 ;<var>True</var> if the user manually disabled the add-on
-<var>True</var> if the user manually disabled the add-on
+<var>बाहायग्राया</var> add-on खौ मेनुयेलि लोरबां खालामोब्ला सैथो
 
 
 ;The current version of this add-on
-The current version of this add-on
+बे add-on नि दानि बिसान
 
 
 ;How long in milliseconds it took during startup for the application to render the UI and display the window
-How long in milliseconds it took during startup for the application to render the UI and display the window
+UI खौ खामानि मावनो आरो उइन्ड’खौ दिन्थिफुंनो एप्लिकेसननि थाखाय जागायनाय समाव बेसे मिलिसेकेन्द लायामोन।
 
 
 ;How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
-How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
+बिजाब बाख्रि ल’ड खालामनो आरो गुदि जागायनायखौ फोजोबनो एप्लिकेसननि थाखाय जागायनाय समाव बेसे मिलिसेकेन्द लायामोन।
 
 
 ;How long in milliseconds it took during startup for the application to restore tabs from the previous session
-How long in milliseconds it took during startup for the application to restore tabs from the previous session
+आगोलनि जथुम्मा निफ्राय टेबखौ मोनफिननो एप्लिकेसननि थाखाय जागायनाय समाव बेसे मिलिसेकेन्द लायामोन।
 
 
 ;The number of times the application was run and not cleanly shut down.
-The number of times the application was run and not cleanly shut down.
+एप्लिकेसनखौ सालायनाय आरो रोखायै (बन्द खालामै)साट डाउन खालामै समनि अनजिमा।
 
 
 ;The time in seconds that the aborted sessions were not idle
-The time in seconds that the aborted sessions were not idle
+होबथाजानाय जथुम्माया अलसिया जायै समआ सेकेन्दआव
 
 
 ;The time in seconds that the aborted sessions were running
-The time in seconds that the aborted sessions were running
-
+होबथाजानाय जथुम्माखौ सालायबाय थानाय समआ सेकेन्दआव
 
 ;The number of days since this application profile directory was created
-The number of days since this application profile directory was created
+बे एप्लिकेसन प्रफाइल डिरेक्टरिखौ सोरजिनाय निफ्राय साननि अनजिमा।
 
 
 ;The number of times the application was run and cleanly shut down.
-The number of times the application was run and cleanly shut down.
+एप्लिकेसनखौ सालायनाय आरो रोखायै खालामनाय (बन्द खालामनाय) साट डाउन खालामनाय समनि अनजिमा।
 
 
 ;The time in seconds that the completed sessions were not idle
-The time in seconds that the completed sessions were not idle
+फुरा जाखानाय जथुम्माया अलसिया जायै समआ सेकेन्दआव
 
 
 ;The time in seconds that the completed sessions were running
-The time in seconds that the completed sessions were running
+फुरा जाखानाय जथुम्माया सोलिबाय थाखानाय समआ सेकेन्दआव
 
 
 ;Total number of crashes that were recorded but not yet submitted
-Total number of crashes that were recorded but not yet submitted
+रेकर्ड खालामखानाय क्रेस (बायनाय)नि गासै अनजिमा जायखौ दासिमबो गथायाखै
 
 
 ;Total number of crashes that have been submitted
-Total number of crashes that have been submitted
+क्रेस (बायनाय)नि गासै अनजिमा जायखौ गथायबाय
 
 
 ;Time in seconds the app has not been idle
-Time in seconds the app has not been idle
+सेकेन्दआव सम, एपखौ लोरबां खालामाखै।
 
 
 ;Time in seconds since the app was last started
-Time in seconds since the app was last started
-
+एपखौ जोबथा जागायनाय निफ्राय सेकेन्दआव सम
 
 ;Total number of bookmarks
-Total number of bookmarks
+बुकमार्कनि गासै अनजिमा
 
 
 ;Total number of pages listed in the history
-Total number of pages listed in the history
-
+जारिमिनाव लिस्ट खालामखानाय बिलाइनि गासै अनजिमा
 
 ;How long in minutes the current session has been running
-How long in minutes the current session has been running
+दानि जथुम्माया बेसे मिनिट निफ्राय सोलिगासिनो दं
 
 
 ;Welcome to your Firefox Health Report
-Welcome to your Firefox Health Report
+नोंथांनि फायारफक्स हेल्थ रिपर्टआव बरायबाय
 
 
 ;Welcome!
-Welcome!
-
+बरायबाय!
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
-Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
+फायारफक्स हेल्थ रिपर्टआ नोंथांनि फायारफक्सआ माबोरै खामानि मावयो आरो बेखौ माबोरै जौगाहोनो हायो बेखौ मोनथिहोयो।
 
 
 ;See My Report
-See My Report
+आंनि रिपर्टखौ नाय
 
 
 ;Time (in seconds)
-Time (in seconds)
+सम (सेकेन्दआव)
 
 
 ;Show Statistics
-Show Statistics
+अनजिमा सानथायखौ दिन्थि
 
 
 ;Privacy Policy
-Privacy Policy
+गुमुरथि पलिसि
 
 
 # The following strings are used only in the Mobile version of about:healthreport (Firefox for Android)
+गाहायनि स्ट्रिंखौ खालि about:healthreport नि म’बाइल बिसानआवल’ बाहायनाय जायो (एनड्र’इडनि थाखाय फायारफक्स)
+
 ;Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
-Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
+फायारफक्स हेल्थ रिपर्टआ नोंथांनि फायारफक्सखौ गोरोबहोनो गनायथि होयो आरो जोंखौ जोबोद मोजां ब्राउजार बानायनो मदद खालामो। गिबियाव रिपर्टआ जोबोद गुदि जागोन, नाथाय फारिजौगालांगोन आरो साबसिन जालांगोन।
 
 
 ;Learn More&hellip;
-Learn More&hellip;
+गोबां&hellip; सोलों
 
 
 ;Tip
-Tip
+इंगित
 
 
 ;Looks like your Firefox is brand new! Check back after using Firefox for a while.
-Looks like your Firefox is brand new! Check back after using Firefox for a while.
-
+नोंथांनि फायारफक्सखौ ब्रेन्ड गोदान बादि नुयो! दसे सम फायारफक्सखौ बाहायनायनि उनाव आनजाद खालामफिन।
 
 ;Important Metrics
-Important Metrics
+गोनांथार मेट्रिक्स
 
 
 ;Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
-Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
+फायारफक्स हेल्थ रिपर्टआ नोंथांनि ब्राउजार आरो डिभाइसनि सोमोन्दै फोरमायथिहोग्राखौ रेकर्ड खालामो। नोंथाङा जों रेकर्ड खालामनाय<a href="#raw" class="navigate"> फोरमायथिहोग्राखौ नायनो हायो। </a> नोंथाङा मजिलाजों माखौ शेयार खालामो बेखौबो नायनो हायो।
 
 
 ;Device hardware, operating system, Firefox version.
-Device hardware, operating system, Firefox version.
+डिभाइस हार्डवेयार, अपारेटिं सिस्टेम, फायारफक्स बिसान
 
 
 ;Extensions, plugins, and number of installed add-ons.
-Extensions, plugins, and number of installed add-ons.
+फेहेरनाय, प्लागिन, आरो इनष्टल खालामखानाय add-ons नि अनजिमा
 
 
 ;Key performance measures, such as launch speed.
-Key performance measures, such as launch speed.
+साबि मावफुंनाय जखा, जेरै- जागायनाय खारथाय।
 
 
 ;Browsing duration, install time, number of bookmarks and pages.
-Browsing duration, install time, number of bookmarks and pages.
+ब्राउजिं समसिमा, इनष्टल खालामनाय सम, बुकमार्क आरो बिलाइनि अनजिमा।
 
 
 ;Home
-Home
+ह’म
 
 
 ;CPU Count:
-CPU Count:
+CPU हिसाब:
 
 
 ;The number of CPU cores reported by Android.
-The number of CPU cores reported by Android.
+एनड्र’इडजों रिपर्ट खालामजानाय CPU क’रनि अनजिमा।
 
 
 ;Memory in MB:
-Memory in MB:
+MB आव मेमरि:
 
 
 ;The amount of memory reported by Android. Typically excludes graphics memory.
-The amount of memory reported by Android. Typically excludes graphics memory.
+एनड्र’इडजों रिपर्ट खालामजानाय मेमरिनि बिबां। गुबैयै ग्राफिक्स मेमरिखौ बाद होयो।
 
 
 ;Application Name:
-Application Name:
+एप्लिकेसन मुं:
 
 
 ;The internal application name for the browser.
-The internal application name for the browser.
+ब्राउजारनि थाखाय इसिंनि एप्लिकेसन मुं।
 
 
 ;Application ID:
-Application ID:
+एप्लिकेसन ID:
 
 
 ;The internal identifier for the application.
-The internal identifier for the application.
-
+एप्लिकेसननि थाखाय इसिंनि सिनायथिहोग्रा।
 
 ;Application Version:
-Application Version:
+एप्लिकेसन बिसान:
 
 
 ;The current version of the browser
-The current version of the browser
+ब्राउजारनि दानि बिसान
 
 
 ;Application Build ID:
-Application Build ID:
+एप्लिकेसन बिल्ड ID:
 
 
 ;The internal build timestamp.
-The internal build timestamp.
+इसिंनि बिल्ड टाइमस्टेम्प।
 
 
 ;Update Channel:
-Update Channel:
+सेनेलखौ आपडेट खालाम:
 
 
 ;Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
-Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
+फायारफक्सखौ सेनेलनि गेजेरजों रानना होनाय जायो: सानफ्रोमहो हरहराव बिल्ड, Aurora आगु-ओंखारनाय सेनेल, मोनसे दिदोम बेटा, आरो रायजो-राजा ओंखारनाय। बे फोथारआ सेनेलखौ सिनायथियो।
 
 
 ;Vendor:
-Vendor:
+फानग्रा:
 
 
 ;The organization that built this application. Typically Mozilla.
-The organization that built this application. Typically Mozilla.
+बे एप्लिकेसनखौ बानायनाय मोनसे फसंथान। गुबैयै मजिला।
 
 
 ;Platform Version:
-Platform Version:
+प्लेटफर्म बिसान:
 
 
 ;An internal version identifier. Typically the same as appVersion.
-An internal version identifier. Typically the same as appVersion.
+मोनसे इसिंनि बिसान सिनायथिहोग्रा। गुबैयै, appVersion महरै एखे।
 
 
 ;Platform Build ID:
-Platform Build ID:
+प्लेटफर्म बिल्ड ID:
 
 
 ;On Android this is an alternative name for appBuildID.
-On Android this is an alternative name for appBuildID.
+एनड्र’इडआव, बेयो appBuildID नि थाखाय मोनसे सोलायस्लु मुं।
 
 
 ;xpcomabi:
@@ -580,7 +567,7 @@ xpcomabi:
 
 
 ;The CPU architecture for which this application was built.
-The CPU architecture for which this application was built.
+CPU दागिरि जायनि थाखाय बे एप्लिकेसनखौ बानायदोंमोन।
 
 
 ;OS:
@@ -588,67 +575,66 @@ OS:
 
 
 ;The current operating system.
-The current operating system.
+दानि अपारेटिं सिस्टेम।
 
 
 ;Architecture:
-Architecture:
+दागिरि:
 
 
 ;The CPU architecture for this device.
-The CPU architecture for this device.
+बे डिभाइसनि थाखाय CPU दागिरि।
 
 
 ;System Name:
-System Name:
+सिस्टेम मुं:
 
 
 ;The current system name.
-The current system name.
+दानि सिस्टेम मुं
 
 
 ;System Version:
-System Version:
+सिस्टेम बिसान:
 
 
 ;The Android OS revision.
-The Android OS revision.
+एनड्र’इड OS नायफिननाय।
 
 
 ;Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
-Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
+खहागोनां add-ons नि बेरेखायै रैखाथि खालामनो फायारफक्सआ add-on ब्लकलिस्टखौ लाबोयो ना लाबोया। अनआव डिफल्ट।
 
 
 ;Telemetry Enabled:
-Telemetry Enabled:
+टिलेमेट्रिखौ हाहोनाय खालामबाय:
 
 
 ;Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
-Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
+जौगानायजों मदद खालामनो फायारफक्सआ गुवारै बाहायथि डाटाखौ रिपर्ट खालामनो ना खालामा। गोबां सेनेलनि थाखाय अफआव डिफल्ट
 
 
 ;Extension Count:
-Extension Count:
+फेहेरनायनि हिसाब:
 
 
 ;How many extension add-ons are installed.
-How many extension add-ons are installed.
+बेसेबां फेहेरनाय add-ons खौ इनष्टल खालामनाय जायो।
 
 
 ;Plugin Count:
-Plugin Count:
+प्लागिननि हिसाब:
 
 
 ;How many plugin add-ons are installed.
-How many plugin add-ons are installed.
+बेसेबां प्लागिन add-ons खौ इनष्टल खालामनाय जायो।
 
 
 ;Theme Count:
-Theme Count:
-
+थिमनि हिसाब:
 
 ;How many theme add-ons are installed.
-How many theme add-ons are installed.
+बेसेबां थिम add-ons खौ इनष्टल खालामनाय जायो।
 
 
 ;Addons:
@@ -656,54 +642,54 @@ Addons:
 
 
 ;A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
-A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
-
+इनष्टल खालामखानाय add-ons खौ बेखेवनायनि मोनसे बुथुमनाय। गासै add-ons खौ रिपर्ट खालामाखै: खालि प्लागिन, फेहेरनाय आरो सिबिथायल’।
 
 ;Search Counts:
-Search Counts:
+नागिरनाय हिसाब:
 
 
 ;A count of how many searches you issued to each of Mozilla's partner providers.
-A count of how many searches you issued to each of Mozilla's partner providers.
+मोनफ्रोम मजिलानि लोगोरि होग्रायाव नोंथाङा दिहुननाय बेसे गोबां नागिरनायनि हिसाब।
 
 
 ;Sessions and Startup Times
-Sessions and Startup Times
+जथुम्मा आरो जागायनाय सम
 
 
 ;For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
-For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
+मोनफ्रोम ब्राउजिं जथुम्मानि थाखाय, नोंथाङा बेसे गोबाव (सेकेन्दआव) ब्राउज खालामो आरो जथुम्माया सरासनस्रायै एबा बायनायनि थाखाय जोबो नामा - बेफोर गासैखौबो फायारफक्स हेल्थ रिपर्टआ रेकर्ड खालामो। दङब्ला जागायनाय समखौबो (मिलिसेकेन्दआव) लाफायो।
 
 
 ;Profile Creation:
-Profile Creation:
+प्रफाइल सोरजिनाय:
 
 
 ;The day on which your browser profile was created. Counted in days since January 1st 1970.
-The day on which your browser profile was created. Counted in days since January 1st 1970.
+नोंथांनि ब्राउजार प्रफाइल सोरजिनाय सानखौ  1970 नि से जानुवारि निफ्राय साननाय जायो।
 
 
 ;Learn More
-Learn More
+गोबां सोलों
 
 
 ;Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
-Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
+फायारफक्स हेल्थ रिपर्ट (FHR)आ नोंथांनि ब्राउजारनि मावफुंनाय फोरमायथिहोग्राखौ बिजिरो, बेयो नोंथांनो खामानिआव नांथाव सोलो होयो जाय नोंथांखौ फायारफक्स निफ्राय साबसिन मोननो मदद खालामो। फायारफक्स हेल्थ रिपर्टआव गोबां मोनथिनो थाखाय, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>मजिला हेफाजाब खोन्दोआव थां।</a>
 
 
 ;For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
-For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
+जों नोंथांनि डाटाखौ माबोरै हेन्डेल खालामो बेनि सोमोन्दै गोबां मोनथिनो थाखाय, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>जोंनि गुमुरथि पलिसिखौ नाय।</a>
 
 
 ;You are currently sharing your health report with Mozilla.
-You are currently sharing your health report with Mozilla.
+नोंथाङा दासान्दि नोंथांनि सावस्रि रिपर्टखौ मजिलाजों शेयार खालामगासिनो दं।
 
 
 ;Choose what I share
-Choose what I share
+आं माखौ शेयार खालामो बेखौ बासिख
 
 
 ;You are currently not sharing your health report with Mozilla.
-You are currently not sharing your health report with Mozilla.
+नोंथाङा दासान्दि नोंथांनि सावस्रि रिपर्टखौ मजिलाजों शेयार खालामबाय थायाखै।
+
 
 
