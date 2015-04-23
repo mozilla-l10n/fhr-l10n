@@ -19,7 +19,7 @@
 
 
 ;ON
-ಆನ್‌ {ok}
+ಆನ್‌
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
@@ -67,11 +67,11 @@
 
 
 ;application crashes
-application crashes
+ಅನ್ವಯದ ಕುಸಿತಗಳು
 
 
 ;plugin crashes
-plugin crashes
+ಪ್ಲಗಿನ್ ಕುಸಿತಗಳು
 
 
 ;Add-ons
@@ -119,7 +119,7 @@ plugin crashes
 
 
 ;OFF
-ಆಫ್‌ {ok}
+ಆಫ್‌
 
 
 ;Visit our <a href="%(sumo_url)s">support website</a>
