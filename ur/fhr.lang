@@ -7,7 +7,7 @@
 
 
 ;Get insights and performance information about your version of Firefox.
-فائر فاکس کے ورژن کے بارے میں بصیرت اور کارکردگی کی معلومات حاصل کریں.
+فائر فاکس کے ورژن کے بارے میں بصیرت اور کارکردگی کی معلومات حاصل کریں۔
 
 
 ;Learn more...
@@ -27,7 +27,7 @@
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
-آپ کی صحت کی رپورٹ کے اکوائف کو بھی موزیلا کے سرور سے ہٹا دیا جائے گا. ہمارے <a href="%(privacy_url)s"> رازداری کی پالیسی۔</ a> پر</a> پر مزید جانیے
+آپ کی صحت کی رپورٹ کے اکوائف کو موزیلا کے سرور سے ہٹا دیا جائے گا۔ مزید سیکھیں ہماری <a href="%(privacy_url)s">رازداری کی پالیسی۔</a>
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
@@ -51,7 +51,7 @@
 
 
 ;last crash
-سابقہ تباہی
+پچھلی تباہی
 
 
 ;bookmarks
@@ -75,7 +75,7 @@ plugin crashes
 
 
 ;Add-ons
-اضافہ جات
+اضافہ
 
 
 ;View List
@@ -115,7 +115,7 @@ plugin crashes
 
 
 ;It looks like your browser has crashed a number of times recently. To learn more:
-ایسا لگتا ہے آپ کا براؤزر حال ہی میں کئی بار تباہ ہوا ہے- مزید جاننے کے لئے:
+ایسا لگتا ہے آپ کا براؤزر حال ہی میں کئی بار تباہ ہوا ہے۔ مزید جاننے کے لئے:
 
 
 ;OFF
@@ -123,11 +123,11 @@ plugin crashes
 
 
 ;Visit our <a href="%(sumo_url)s">support website</a>
-دیکھے ہماری <a/>حمایتی ویب سایئت<a href="%(sumo_url)s">
+دیکھے ہماری <a href="%(sumo_url)s">معاونت ویب سائٹ</a>
 
 
 ;View more <a href="%(details_url)s">detailed information</a>
-مزید دیکھیں </a>تفصیلی معلومات <a href="%(details_url)s">
+مزید دیکھیں <a href="%(details_url)s">مفصل معلومات</a>
 
 
 ;pages visited
@@ -139,7 +139,7 @@ plugin crashes
 
 
 ;You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
-آپ اپنے براؤزر کا جتنا زیادہ استعمال کرینگے اتنی ہی دلچسپ اور تفصیلی معلومات دیکھ سکیں گے۔ کچھ رجحانات دیکھنے کا آغاز کرنے کے لئے چند ہفتے میں دوبارہ ملاحظہ کریں.
+آپ اپنے براؤزر کا جتنا زیادہ استعمال کرینگے اتنی ہی دلچسپ اور تفصیلی معلومات دیکھ سکیں گے۔ کچھ رجحانات دیکھنے کا آغاز کرنے کے لئے چند ہفتے میں دوبارہ ملاحظہ کریں۔
 
 
 ;Startup Time by Day
@@ -231,7 +231,7 @@ XPCOM کے لئے ثنائی مواجہ
 
 
 ;Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
-زیر استعمال ایپلی کیشن کی خاص بانٹ کے لیے شناخت کنندہ۔ یہ <var>distribution.id</var> ترجیح سے لیا جاتا ہے۔
+زیر استعمال ایپلی کیشن کی خاص بانٹ کے لیے شناخت کنندہ۔ یہ <var>distribution.id</var> ترجیح سے لیا جاتا ہے
 
 
 ;Version of the distribution, taken from the <var>distribution.version</var> preference
@@ -243,7 +243,7 @@ XPCOM کے لئے ثنائی مواجہ
 
 
 ;Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
-ایپلی کیشن کا منفرد شناخت کنندہ جو نشاندہی کرتا ہے کہ یہ فائر فاکس یا تھنڈر برڈ وغیرہ ہے۔ <var>appName</var> کی قدر سے قطع نظر ایک ایپلی کیشن کی تمام تنصیبات کے لیے ایک ہی ہے۔
+ایپلی کیشن کا منفرد شناخت کنندہ جو نشاندہی کرتا ہے کہ یہ فائر فاکس یا تھنڈر برڈ وغیرہ ہے۔ <var>appName</var> کی قدر سے قطع نظر ایک ایپلی کیشن کی تمام تنصیبات کے لیے ایک ہی ہے
 
 
 ;The configured name of the application (Firefox/Aurora/Nightly for instance)
@@ -251,7 +251,7 @@ XPCOM کے لئے ثنائی مواجہ
 
 
 ;The channel this installation checks for application updates (nightly/aurora/beta/release)
-وہ چینل جس کی یہ تنصیب ایپلی کیشن کی تازہ کاری کے لیے پڑتال کرتی ہے (نائٹلی/ارورا/بی ٹا/اجراء)
+وہ چینل جس کی یہ تنصیب ایپلی کیشن کی تازہ کاری کے لیے پڑتال کرتی ہے (نائٹلی/aurora/beta/release)
 
 
 ;The name of the company/provider who built this version
@@ -327,7 +327,7 @@ XPCOM کے لئے ثنائی مواجہ
 
 
 ;The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
-حالیہ ترین تاریخ جب یہ اضافہ نصب کیا گيا تھا (ناتنصیب شدہ اضافہ جات کے متعلق گزشتہ معلومات سنبھالی نہیں جاتیں)
+حالیہ ترین تاریخ جب یہ اضافہ نصب کیا گيا تھا (ناتنصیب شدہ اضافہ جات کے متعلق گزشتہ معلومات سنبھالی نہیں جاتیں)۔
 
 
 ;The number of searches performed with this search engine from this part of the UI
@@ -343,7 +343,7 @@ XPCOM کے لئے ثنائی مواجہ
 
 
 ;The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
-حالیہ ترین تاریخ جب اس اضافہ کی تازہ کاری کی گئی (ناتنصیب شدہ اضافہ کے متعلق گزشتہ معلومات سنبھالی نہیں جاتیں)
+حالیہ ترین تاریخ جب اس اضافہ کی تازہ کاری کی گئی (ناتنصیب شدہ اضافہ کے متعلق گزشتہ معلومات سنبھالی نہیں جاتیں)۔
 
 
 ;<var>True</var> if the user manually disabled the add-on
@@ -395,7 +395,7 @@ XPCOM کے لئے ثنائی مواجہ
 
 
 ;Total number of crashes that were recorded but not yet submitted
-تباہیوں کی کل تعداد جو کی ریکارڈ کی گئی لیکن ابھی تک ارسال نہیں کی گئی-
+تباہیوں کی کل تعداد جو کی ریکارڈ کی گئی لیکن ابھی تک ارسال نہیں کی گئی
 
 
 ;Total number of crashes that have been submitted
@@ -452,7 +452,7 @@ XPCOM کے لئے ثنائی مواجہ
 
 # The following strings are used only in the Mobile version of about:healthreport (Firefox for Android)
 ;Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
-فائر فاکس تندرستی رپورٹ آپ کو فائرفاکس کو تیز ترین بنانے میں اور ہمیں اور بھی بہتر براؤزر بنانے دیتی ہے۔رپورٹس شروع میں کافی سادہ ہوں گی، لیکن آگے چل کر بڑھتی اور بہتر ہوتی جائیں گی۔
+فائر فاکس تندرستی رپورٹ آپ کو فائرفاکس کو تیز ترین بنانے میں اور ہمیں اور بھی بہتر براؤزر بنانے دیتی ہے۔ رپورٹس شروع میں کافی سادہ ہوں گی، لیکن آگے چل کر بڑھتی اور بہتر ہوتی جائیں گی۔
 
 
 ;Learn More&hellip;
@@ -476,11 +476,11 @@ Firefox Health Report records information about your browser and device. You can
 
 
 ;Device hardware, operating system, Firefox version.
-آلہ ہارڈ ویئر، آپریٹنگ سسٹم، فائر فاکس ورژن
+آلہ ہارڈ ویئر، آپریٹنگ نظام، فائر فاکس ورژن۔
 
 
 ;Extensions, plugins, and number of installed add-ons.
-توسیعات،پلگ ان، اور تنصیب شدہ ایڈ اون کی تعداد۔
+توسیعات، پلگ ان، اور تنصیب شدہ ایڈ اون کی تعداد۔
 
 
 ;Key performance measures, such as launch speed.
@@ -492,7 +492,7 @@ Browsing duration, install time, number of bookmarks and pages.
 
 
 ;Home
-Home
+گھر
 
 
 ;CPU Count:
@@ -504,7 +504,7 @@ The number of CPU cores reported by Android.
 
 
 ;Memory in MB:
-Memory in MB:
+MB میں میموری:
 
 
 ;The amount of memory reported by Android. Typically excludes graphics memory.
@@ -512,7 +512,7 @@ The amount of memory reported by Android. Typically excludes graphics memory.
 
 
 ;Application Name:
-Application Name:
+ایپلی کیشن نام:
 
 
 ;The internal application name for the browser.
@@ -520,7 +520,7 @@ The internal application name for the browser.
 
 
 ;Application ID:
-Application ID:
+ایپلی کیشن ID:
 
 
 ;The internal identifier for the application.
@@ -528,7 +528,7 @@ The internal identifier for the application.
 
 
 ;Application Version:
-Application Version:
+ایپلی کیشن ورژن:
 
 
 ;The current version of the browser
@@ -536,15 +536,15 @@ Application Version:
 
 
 ;Application Build ID:
-Application Build ID:
+ایپلی کیشن بلڈ ID:
 
 
 ;The internal build timestamp.
-The internal build timestamp.
+اندرونی بلڈ وقت سٹیمپ۔
 
 
 ;Update Channel:
-Update Channel:
+تازہ کاری کریں چینل:
 
 
 ;Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
@@ -552,7 +552,7 @@ Firefox is distributed through channels: Nightly builds, the Aurora pre-release 
 
 
 ;Vendor:
-Vendor:
+فروشندہ:
 
 
 ;The organization that built this application. Typically Mozilla.
@@ -560,7 +560,7 @@ The organization that built this application. Typically Mozilla.
 
 
 ;Platform Version:
-Platform Version:
+پلیٹ فارم ورژن:
 
 
 ;An internal version identifier. Typically the same as appVersion.
