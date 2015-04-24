@@ -1,5 +1,5 @@
 ;Firefox Health Report
-ഫയര്‍ഫോക്സ് ആരോഗ്യ റിപോര്‍ട്ട്
+ഫയര്‍ഫോക്സ് ആരോഗ്യ റിപ്പോര്‍ട്ട്
 
 
 ;Raw Data
@@ -95,7 +95,7 @@ plugin crashes
 
 
 ;always activate
-always activate
+എപ്പോഴും സജീവമാക്കൂ
 
 
 ;ask to activate
@@ -103,7 +103,7 @@ ask to activate
 
 
 ;never activate
-never activate
+ഒരിയ്ക്കലും സജീവമാക്കരുതു്
 
 
 ;Tips
@@ -456,11 +456,11 @@ Firefox Health Report lets you optimize your Firefox and helps us build a more e
 
 
 ;Learn More&hellip;
-Learn More&hellip;
+കൂടുതലറിയുക&hellip;
 
 
 ;Tip
-Tip
+സൂചന
 
 
 ;Looks like your Firefox is brand new! Check back after using Firefox for a while.
@@ -492,7 +492,7 @@ Browsing duration, install time, number of bookmarks and pages.
 
 
 ;Home
-Home
+പൂമുഖം
 
 
 ;CPU Count:
@@ -504,7 +504,7 @@ The number of CPU cores reported by Android.
 
 
 ;Memory in MB:
-Memory in MB:
+മെമ്മറി എംബിയില്‍:
 
 
 ;The amount of memory reported by Android. Typically excludes graphics memory.
@@ -528,11 +528,11 @@ The internal identifier for the application.
 
 
 ;Application Version:
-Application Version:
+ആപ്ലിക്കേഷന്‍ പതിപ്പ്:
 
 
 ;The current version of the browser
-The current version of the browser
+ബ്രൗസറിന്റെ നിലവിലെ പതിപ്പ്
 
 
 ;Application Build ID:
@@ -552,7 +552,7 @@ Firefox is distributed through channels: Nightly builds, the Aurora pre-release 
 
 
 ;Vendor:
-Vendor:
+വില്‍പ്പനക്കാരന്‍:
 
 
 ;The organization that built this application. Typically Mozilla.
@@ -584,11 +584,11 @@ The CPU architecture for which this application was built.
 
 
 ;OS:
-OS:
+ഓഎസ്:
 
 
 ;The current operating system.
-The current operating system.
+നിലവിലെ ഓപ്പറേറ്റിംഗ് സിസ്റ്റം.
 
 
 ;Architecture:
@@ -652,7 +652,7 @@ How many theme add-ons are installed.
 
 
 ;Addons:
-Addons:
+ആഡ്ഓണ്‍സ്:
 
 
 ;A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
@@ -684,7 +684,7 @@ The day on which your browser profile was created. Counted in days since January
 
 
 ;Learn More
-Learn More
+കൂടുതലറിയാം
 
 
 ;Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
@@ -705,5 +705,3 @@ Choose what I share
 
 ;You are currently not sharing your health report with Mozilla.
 You are currently not sharing your health report with Mozilla.
-
-
