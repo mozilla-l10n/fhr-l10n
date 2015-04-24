@@ -1,4 +1,4 @@
-﻿;Firefox Health Report
+;Firefox Health Report
 फायारफक्स हेल्थ रिपर्ट
 
 
@@ -101,6 +101,7 @@ Add-ons
 ;ask to activate
 मावथि खालामनो सों
 
+
 ;never activate
 माब्लाबाबो मावथि खालामनो नाङा
 
@@ -123,6 +124,7 @@ Add-ons
 
 ;Visit our <a href="%(sumo_url)s">support website</a>
 जोंनि <a href="%(sumo_url)s">हेफाजाब वेबसाइट</a>आव थां
+
 
 ;View more <a href="%(details_url)s">detailed information</a>
 गोबां <a href="%(details_url)s">गुवारै फोरमायथिहोग्रा</a>खौ नाय
@@ -167,8 +169,10 @@ Add-ons
 ;Glossary
 सोदोब-बाख्रि
 
+
 ;What the Firefox Health Report Measures
 फायारफक्स हेल्थ रिपर्टआ माखौ जखा सुयो
+
 
 ;The Firefox Health Report (FHR) has 4 categories of metrics:
 फायारफक्स हेल्ड रिपर्ट (FHR) हा मेट्रिक्सनि 4 थाखो दं:
@@ -200,6 +204,7 @@ Add-ons, हिसाब आरो रोखोम
 
 ;Length of session, how old a profile is, count of crashes, count of pages
 जथुम्मानि गोलाव, मोनसे प्रफाइलआ बेसे गोजाम, बायनायनि हिसाब, बिलाइनि हिसाब
+
 
 ;Detailed Description
 गुवारै बेखेवथि
@@ -240,6 +245,7 @@ XPCOM नि थाखाय बाइनारि इन्टारफेस
 ;Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
 एप्लिकेसनआव सिनायथिहोग्रा रुजुजायै दं जाय फायारफक्स एबा थान्डारबार्ड बाइदि बाइदि नामा इंगित खालामो। <var>appName</var> नि बेसेनखौ सानाबालानो मोनसे एप्लिकेसननि गासै इनष्टलेसननि थाखाय एखे।
 
+
 ;The configured name of the application (Firefox/Aurora/Nightly for instance)
 एप्लिकेसननि बाइजोमहर दाखानाय मुं (बिदिन्थिनि थाखाय फायारफक्स/Aurora/सानफ्रोमबो हरहराव)
 
@@ -267,6 +273,7 @@ XPCOM नि थाखाय बाइनारि इन्टारफेस
 ;Locale currently being used
 लकेलआ दासान्दि बाहाय जागासिनो दं
 
+
 ;Amount of RAM in megabytes
 मेगाबाइट्सआव RAM नि बिबां
 
@@ -277,6 +284,7 @@ XPCOM नि थाखाय बाइनारि इन्टारफेस
 
 ;Currently running Operating System (kernel) version
 दासान्दि सोलिबाय थानाय अपारेटिं सिस्टेम (कार्नेल) बिसान
+
 
 ;The build identifier of the Gecko platform code
 Gecko प्लेटफर्म क’डनि बिल्ड सिनायथिहोग्रा
@@ -296,6 +304,7 @@ Gecko प्लेटफर्म क’डनि बिसान
 
 ;An application version which has been used with this installation profile
 मोनसे एप्लिकेसन बिसानखौ बे इनष्टलेसन प्रफाइलजों बाहायबाय
+
 
 ;The number of add-ons of this type that existed in the profile on this date
 बे रोखोमनि add-ons नि अनजिमाया बे अक्ट’आव थानाय प्रफाइलआव दंखायो।
@@ -368,6 +377,7 @@ UI खौ खामानि मावनो आरो उइन्ड’खौ 
 ;The time in seconds that the aborted sessions were running
 होबथाजानाय जथुम्माखौ सालायबाय थानाय समआ सेकेन्दआव
 
+
 ;The number of days since this application profile directory was created
 बे एप्लिकेसन प्रफाइल डिरेक्टरिखौ सोरजिनाय निफ्राय साननि अनजिमा।
 
@@ -399,12 +409,14 @@ UI खौ खामानि मावनो आरो उइन्ड’खौ 
 ;Time in seconds since the app was last started
 एपखौ जोबथा जागायनाय निफ्राय सेकेन्दआव सम
 
+
 ;Total number of bookmarks
 बुकमार्कनि गासै अनजिमा
 
 
 ;Total number of pages listed in the history
 जारिमिनाव लिस्ट खालामखानाय बिलाइनि गासै अनजिमा
+
 
 ;How long in minutes the current session has been running
 दानि जथुम्माया बेसे मिनिट निफ्राय सोलिगासिनो दं
@@ -416,6 +428,7 @@ UI खौ खामानि मावनो आरो उइन्ड’खौ 
 
 ;Welcome!
 बरायबाय!
+
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
 फायारफक्स हेल्थ रिपर्टआ नोंथांनि फायारफक्सआ माबोरै खामानि मावयो आरो बेखौ माबोरै जौगाहोनो हायो बेखौ मोनथिहोयो।
@@ -438,8 +451,6 @@ UI खौ खामानि मावनो आरो उइन्ड’खौ 
 
 
 # The following strings are used only in the Mobile version of about:healthreport (Firefox for Android)
-गाहायनि स्ट्रिंखौ खालि about:healthreport नि म’बाइल बिसानआवल’ बाहायनाय जायो (एनड्र’इडनि थाखाय फायारफक्स)
-
 ;Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
 फायारफक्स हेल्थ रिपर्टआ नोंथांनि फायारफक्सखौ गोरोबहोनो गनायथि होयो आरो जोंखौ जोबोद मोजां ब्राउजार बानायनो मदद खालामो। गिबियाव रिपर्टआ जोबोद गुदि जागोन, नाथाय फारिजौगालांगोन आरो साबसिन जालांगोन।
 
@@ -454,6 +465,7 @@ UI खौ खामानि मावनो आरो उइन्ड’खौ 
 
 ;Looks like your Firefox is brand new! Check back after using Firefox for a while.
 नोंथांनि फायारफक्सखौ ब्रेन्ड गोदान बादि नुयो! दसे सम फायारफक्सखौ बाहायनायनि उनाव आनजाद खालामफिन।
+
 
 ;Important Metrics
 गोनांथार मेट्रिक्स
@@ -513,6 +525,7 @@ MB आव मेमरि:
 
 ;The internal identifier for the application.
 एप्लिकेसननि थाखाय इसिंनि सिनायथिहोग्रा।
+
 
 ;Application Version:
 एप्लिकेसन बिसान:
@@ -633,6 +646,7 @@ OS:
 ;Theme Count:
 थिमनि हिसाब:
 
+
 ;How many theme add-ons are installed.
 बेसेबां थिम add-ons खौ इनष्टल खालामनाय जायो।
 
@@ -643,6 +657,7 @@ Addons:
 
 ;A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
 इनष्टल खालामखानाय add-ons खौ बेखेवनायनि मोनसे बुथुमनाय। गासै add-ons खौ रिपर्ट खालामाखै: खालि प्लागिन, फेहेरनाय आरो सिबिथायल’।
+
 
 ;Search Counts:
 नागिरनाय हिसाब:
@@ -690,6 +705,5 @@ Addons:
 
 ;You are currently not sharing your health report with Mozilla.
 नोंथाङा दासान्दि नोंथांनि सावस्रि रिपर्टखौ मजिलाजों शेयार खालामबाय थायाखै।
-
 
 
