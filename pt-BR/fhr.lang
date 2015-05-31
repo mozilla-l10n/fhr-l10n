@@ -512,7 +512,7 @@ Tamanho da memória informada pelo Android. Geralmente não inclui memória grá
 
 
 ;Application Name:
-Nome da aplicação:
+Nome da aplicativo:
 
 
 ;The internal application name for the browser.
@@ -520,7 +520,7 @@ Nome dado ao navegador internamente.
 
 
 ;Application ID:
-Identificador da aplicação:
+ID do aplicativo:
 
 
 ;The internal identifier for the application.
