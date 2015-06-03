@@ -1,5 +1,5 @@
 ;Firefox Health Report
-Raport de stare al Firefox
+Raport de stare pentru Firefox
 
 
 ;Raw Data
@@ -7,7 +7,7 @@ Date brute
 
 
 ;Get insights and performance information about your version of Firefox.
-Obține perspective și informații despre performanța versiunii tale de Firefox.
+Obșineși perspective și informații despre performanța versiunii Firefox.
 
 
 ;Learn more...
@@ -15,15 +15,15 @@ Aflați mai multe...
 
 
 ;Data Sharing
-Partajare date
+Partajarea datelor
 
 
 ;ON
-Pornite
+Pornită
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
-Ați ales să opriți schimbul de date cu Mozilla, dar veți avea posibilitatea să vedeți în continuare cum funcționează navigatorul dumneavoastră
+Ați ales să opriți partajarea de date cu Mozilla, dar veți putea să vedeți în continuare cum funcționează navigatorul dumneavoastră
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
@@ -31,11 +31,11 @@ Datele din raportul dumneavoastră de stare vor fi deasemenea șterse de pe serv
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
-Ați ales să partajați periodic datele dumneavoastră cu Mozilla. Mulțumim pentru că sunteți o parte din misiunea noastră de a construi un viitor mai luminos pentru Internet.
+Ați ales să partajați periodic datele dumneavoastră cu Mozilla. Vă mulțumim pentru că faceți parte din misiunea noastră de a construi un viitor mai luminos pentru Web.
 
 
 ;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
-Aflați cum ne folosim de datele dumneavoastră în <a href="%(privacy_url)s">politica noastră de confidențialitate.</a>
+Află cum gestionăm datele dumneavoastră în <a href="%(privacy_url)s">politica noastră de confidențialitate.</a>
 
 
 ;Vital Stats
@@ -47,11 +47,11 @@ versiune
 
 
 ;time open
-durata folosire
+durată de folosire
 
 
 ;last crash
-ultimul defect
+ultima defecțiune
 
 
 ;bookmarks
@@ -67,11 +67,11 @@ defecte
 
 
 ;application crashes
-application crashes
+defecțiuni ale aplicației
 
 
 ;plugin crashes
-plugin crashes
+defecțiuni ale module
 
 
 ;Add-ons
@@ -79,7 +79,7 @@ Suplimente
 
 
 ;View List
-Vezi lista
+Vedeți lista
 
 
 ;enabled
@@ -119,7 +119,7 @@ Se pare că navigatorul dumneavoastră a înregistrat câteva defecte recent. Pe
 
 
 ;OFF
-Oprite
+Oprită
 
 
 ;Visit our <a href="%(sumo_url)s">support website</a>
@@ -143,7 +143,7 @@ Veți putea vedea informații mai interesante și mai detaliate pe măsură ce v
 
 
 ;Startup Time by Day
-Timpul de pornire pe zile
+Timpul de pornire în funcție de zi
 
 
 ;Graph:
@@ -239,7 +239,7 @@ Versiunea distribuției, luată din preferința <var>distribution.version</var>
 
 
 ;The version number of any Mozilla hotfix applied to the application
-Numărul versiunii pentru orice petic rapid Mozilla aplicat acestei aplicații
+Numărul versiunii pentru orice remediere rapidă (hotfix) Mozilla aplicată acestei aplicații
 
 
 ;Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
@@ -247,7 +247,7 @@ Identificator unic al aplicației care indică dacă este Firefox sau Thunderbir
 
 
 ;The configured name of the application (Firefox/Aurora/Nightly for instance)
-Numele definit al aplicației( de exemplu Firefox/Aurora/Nightly)
+Numele configurat al aplicației (de exemplu Firefox/Aurora/Nightly)
 
 
 ;The channel this installation checks for application updates (nightly/aurora/beta/release)
@@ -267,11 +267,11 @@ Numărul de nuclee ale procesorului
 
 
 ;Whether the application is currently configured to be the default browser for the operating system
-Dacă aplicația este configurată curent ca navigator prestabilit pentru sistemul de operare
+Dacă aplicația este configurată în prezent ca navigator implicit pentru sistemul de operare
 
 
 ;Locale currently being used
-Localizarea folosită în mod curent
+Limba folosită în prezent
 
 
 ;Amount of RAM in megabytes
@@ -355,19 +355,19 @@ Versiunea curentă a acestei extensii
 
 
 ;How long in milliseconds it took during startup for the application to render the UI and display the window
-Numărul în milisecunde a duratei, în timpul pornirii aplicației, pentru a desena interfața grafică și a arata fereastra
+Numărul în milisecunde a duratei în timpul pornirii aplicației pentru a randa interfața grafică și a afișa fereastra
 
 
 ;How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
-Numărul în milisecunde a duratei, în timpul pornirii aplicației, pentru a incarca librăriile și a termina inițializarea de bază
+Numărul în milisecunde a duratei în timpul pornirii aplicației pentru a încărca librăriile și a termina inițializarea de bază
 
 
 ;How long in milliseconds it took during startup for the application to restore tabs from the previous session
-Numărul în milisecunde a duratei, în timpul pornirii aplicației, pentru a restaura filele din sesiunea precedentă
+Numărul în milisecunde a duratei în timpul pornirii aplicației pentru a restaura filele din sesiunea precedentă
 
 
 ;The number of times the application was run and not cleanly shut down.
-Numărul de ori în care aplicația a fost rulată și nu a fost închisă explicit.
+De câte ori aplicația a fost rulată și nu a fost închisă explicit.
 
 
 ;The time in seconds that the aborted sessions were not idle
@@ -383,7 +383,7 @@ Numărul de zile de când dosarul profilului aplicației a fost creat
 
 
 ;The number of times the application was run and cleanly shut down.
-Numărul de ori în care aplicația a fost rulată și a fost inchisă explicit.
+De câte ori aplicația a fost rulată și a fost inchisă explicit.
 
 
 ;The time in seconds that the completed sessions were not idle
@@ -431,7 +431,7 @@ Bine ați venit!
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
-Raportul de stare al Firefox vă permite să știți cât de bine funcționează Firefox și ce puteți face pentru a îmbunătăți performanța.
+Raportul de stare pentru Firefox vă permite să știți cât de bine funcționează Firefox și ce puteți face pentru a îmbunătăți performanța.
 
 
 ;See My Report
@@ -452,7 +452,7 @@ Politică de confidențialitate
 
 # The following strings are used only in the Mobile version of about:healthreport (Firefox for Android)
 ;Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
-Raportul de stare al Firefox vă permite să îl optimizați și ne ajută să creeăm un navigator mai excelent. Rapoartele vor fi destul de simple la început dar vor continua să evolueze și să crească.
+Raportul de stare pentru Firefox vă permite să îl optimizați și ne ajută să creăm un navigator mai excelent. Rapoartele vor fi destul de simple la început, dar vor continua să evolueze și să crească.
 
 
 ;Learn More&hellip;
@@ -464,11 +464,11 @@ Sfat
 
 
 ;Looks like your Firefox is brand new! Check back after using Firefox for a while.
-Se pare că Firefox este nou instalat! Reveniți aici după utilizarea Firefox pentru o vreme.
+Se pare că Firefox este nou instalat! Reveniți aici după ce folosiți Firefox pentru o vreme.
 
 
 ;Important Metrics
-Metrice importante
+Metrici importante
 
 
 ;Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
@@ -664,7 +664,7 @@ Număr căutări:
 
 
 ;A count of how many searches you issued to each of Mozilla's partner providers.
-Un număr a cât de multe căutări sunt emise de fiecare dintre furnizorii parteneri Mozilla.
+Numărul de căutări pe care l-ați efectuat pentru fiecare dintre furnizorii parteneri Mozilla.
 
 
 ;Sessions and Startup Times
@@ -672,7 +672,7 @@ Sesiuni și perioade de pornire
 
 
 ;For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
-Pentru fiecare sesiune de navigare, Raportul de stare Firefox înregistrează aproximativ cât de mult ai navigat (în secunde), și dacă sesiunea s-a încheiat în mod normal sau s-a încheiat din cauza unei erori. Include, de asemenea, timpul de pornire (în milisecunde), dacă este disponibil.
+Pentru fiecare sesiune de navigare, Raportul de stare pentru Firefox înregistrează aproximativ cât de mult ați navigat (în secunde), și dacă sesiunea s-a încheiat în mod normal sau s-a încheiat din cauza unei erori. Include, de asemenea, timpul de pornire (în milisecunde), dacă este disponibil.
 
 
 ;Profile Creation:
@@ -704,6 +704,6 @@ Alegeți ce transmiteți
 
 
 ;You are currently not sharing your health report with Mozilla.
-În prezent nu transmiteți raportul dumneavoastră de stare către Mozilla.
+În prezent nu partajați raportul de stare către Mozilla.
 
 
