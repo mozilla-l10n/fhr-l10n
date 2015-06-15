@@ -67,11 +67,11 @@ Mozilla와의 데이터 공유를 선택하였습니다. 보다나은 웹을 만
 
 
 ;application crashes
-application crashes
+애플리케이션 문제
 
 
 ;plugin crashes
-plugin crashes
+플러그인 문제
 
 
 ;Add-ons
@@ -692,7 +692,7 @@ Firefox 상태 검사 보고서(FHR)는 최상의 Firefox 사용 경험을 위�
 
 
 ;For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
-보내진 정보가 어떻게 다뤄지는지에 대해서는 <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>개인정보 보호정책</a>을 살펴보세요.
+전송된 정보가 어떻게 다뤄지는지에 대해서는 <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>개인정보 보호정책</a>을 살펴보세요.
 
 
 ;You are currently sharing your health report with Mozilla.
