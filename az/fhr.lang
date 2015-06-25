@@ -488,7 +488,7 @@ Başlanma sürəti kimi açar sürət ölçüləri.
 
 
 ;Browsing duration, install time, number of bookmarks and pages.
-Browsing duration, install time, number of bookmarks and pages.
+Səyahət vaxtı, qurulma vaxtı, əlfəcin və səhifə sayı.
 
 
 ;Home
@@ -504,7 +504,7 @@ Android tərəfindən bildirilən prosessor nüvələrinin sayı.
 
 
 ;Memory in MB:
-Memory in MB:
+Yaddaş MB ilə:
 
 
 ;The amount of memory reported by Android. Typically excludes graphics memory.
@@ -540,7 +540,7 @@ Tətbiqin Qurulma ID-si:
 
 
 ;The internal build timestamp.
-The internal build timestamp.
+Daxili qurulma vaxt damğası.
 
 
 ;Update Channel:
