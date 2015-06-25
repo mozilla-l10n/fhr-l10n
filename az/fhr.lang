@@ -67,11 +67,11 @@ qəzalar
 
 
 ;application crashes
-application crashes
+tətbiq çökmələri
 
 
 ;plugin crashes
-plugin crashes
+qoşma çökmələri
 
 
 ;Add-ons
@@ -335,15 +335,15 @@ Bu axtarış mühərriki ilə İnterfeysin bu hissəsindən edilən axtarışlar
 
 
 ;Whether this add-on was installed in the application directory or profile directory
-Whether this add-on was installed in the application directory or profile directory
+Bu əlavə tətbiq qovluğuna qurulub yoxsa profil
 
 
 ;Whether this add-on is an extension or a plug-in
-Whether this add-on is an extension or a plug-in
+Bu əlavə uzatmadır yoxsa qoşma
 
 
 ;The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
-The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
+Bu əlavənin ən son güncəllənmə tarixi (silinmiş əlavələr haqqında əvvəlki məlumatlar saxlanmır).
 
 
 ;<var>True</var> if the user manually disabled the add-on
@@ -355,51 +355,51 @@ Bu əlavənin mövcud versiyası
 
 
 ;How long in milliseconds it took during startup for the application to render the UI and display the window
-How long in milliseconds it took during startup for the application to render the UI and display the window
+Tətbiqlərin açılarkən görünüşü hazırlaması və pəncərəni göstərməsi üçün sərf edilən vaxt millisaniyələrlə
 
 
 ;How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
-How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
+Tətbiqlərin açılarkən kitabxanaları yükləməsi və əsas başlatmalar üçün sərf edilən vaxt millisaniyələrlə
 
 
 ;How long in milliseconds it took during startup for the application to restore tabs from the previous session
-How long in milliseconds it took during startup for the application to restore tabs from the previous session
+Tətbiqlərin açılarkən əvvəlki sessiyadan olan vərəqləri bərpası üçün sərf edilən vaxt millisaniyələrlə
 
 
 ;The number of times the application was run and not cleanly shut down.
-The number of times the application was run and not cleanly shut down.
+Tətbiqlərin işləyib və müvəffəqiyyətsiz söndürülmə sayı.
 
 
 ;The time in seconds that the aborted sessions were not idle
-The time in seconds that the aborted sessions were not idle
+Ləğv edilən sessiyaların gözləmədə olmama vaxtları saniyələrlə
 
 
 ;The time in seconds that the aborted sessions were running
-The time in seconds that the aborted sessions were running
+Ləğv edilən sessiyaların işləmə vaxtı saniyələrlə
 
 
 ;The number of days since this application profile directory was created
-The number of days since this application profile directory was created
+Tətbiqlərin profil qovluğunun yaradıldığı vaxt günlərlə
 
 
 ;The number of times the application was run and cleanly shut down.
-The number of times the application was run and cleanly shut down.
+Tətbiqlərin işləyib və müvəffəqiyyətlə söndürülmə sayı.
 
 
 ;The time in seconds that the completed sessions were not idle
-The time in seconds that the completed sessions were not idle
+Bitmiş sessiyaların gözləmədə olmayan vaxtı saniyələrlə
 
 
 ;The time in seconds that the completed sessions were running
-The time in seconds that the completed sessions were running
+Bitmiş sessiyaların işləmə vaxtı saniyələrlə
 
 
 ;Total number of crashes that were recorded but not yet submitted
-Total number of crashes that were recorded but not yet submitted
+Qeydə alınıb amma hələlik göndərilməmiş çökmələrin toplam sayısı
 
 
 ;Total number of crashes that have been submitted
-Total number of crashes that have been submitted
+Göndərilmiş çökmələrin toplam sayısı
 
 
 ;Time in seconds the app has not been idle
@@ -656,7 +656,7 @@ Nə qədər mövzü əlavəsi qurulub.
 
 
 ;A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
-A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
+Qurulmuş əlavələri izah edən kolleksiya. Bütün əlavələr xəbər edilmir: ancaq qoşmalar, uzatmalar və xidmətlər.
 
 
 ;Search Counts:
@@ -664,7 +664,7 @@ Axtarış Sayısı:
 
 
 ;A count of how many searches you issued to each of Mozilla's partner providers.
-A count of how many searches you issued to each of Mozilla's partner providers.
+Mozillanın axtarış əməkdaşları ilə axtarışlarınızın sayısı.
 
 
 ;Sessions and Startup Times
@@ -680,7 +680,7 @@ Profil Yaradılması:
 
 
 ;The day on which your browser profile was created. Counted in days since January 1st 1970.
-The day on which your browser profile was created. Counted in days since January 1st 1970.
+Səyyah profilinizin yaradılma tarixi. 1 Yanvar 1970-dən bəri günlərlə hesablanıb.
 
 
 ;Learn More
