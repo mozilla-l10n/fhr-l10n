@@ -7,7 +7,7 @@ Date brute
 
 
 ;Get insights and performance information about your version of Firefox.
-Obșineși perspective și informații despre performanța versiunii Firefox.
+Perspective și informații despre performanța versiunii Firefox.
 
 
 ;Learn more...
@@ -23,7 +23,7 @@ Pornită
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
-Ați ales să opriți partajarea de date cu Mozilla, dar veți putea să vedeți în continuare cum funcționează navigatorul dvs.
+Ați ales să opriți partajarea de date cu Mozilla, puteți vedea în continuare cum funcționează navigatorul dvs.
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
@@ -35,7 +35,7 @@ Ați ales să partajați periodic datele dvs. cu Mozilla. Vă mulțumim pentru c
 
 
 ;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
-Află cum gestionăm datele dvs. în <a href="%(privacy_url)s">politica noastră de confidențialitate.</a>
+Aflați cum gestionăm datele dvs. în <a href="%(privacy_url)s">politica noastră de confidențialitate.</a>
 
 
 ;Vital Stats
@@ -71,7 +71,7 @@ defecțiuni ale aplicației
 
 
 ;plugin crashes
-defecțiuni ale module
+defecțiuni module
 
 
 ;Add-ons
@@ -127,7 +127,7 @@ Vizitați <a href="%(sumo_url)s">saitul nostru de suport</a>
 
 
 ;View more <a href="%(details_url)s">detailed information</a>
-Vedeți mai multe <a href="%(details_url)s">informații detaliate</a>
+Mai multe <a href="%(details_url)s">informații detaliate</a>
 
 
 ;pages visited
@@ -139,7 +139,7 @@ Se pare că navigatorul dvs. rulează mai încet decât în mod normal. Pentru a
 
 
 ;You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
-Veți putea vedea informații mai interesante și mai detaliate pe măsură ce veți folosi navigatorul mai mult. Reveniți în câteva săptămâni pentru a începe sa vedeți niște tendințe.
+Veți putea vedea informații mai interesante și mai detaliate pe măsură ce veți folosi navigatorul mai mult. Reveniți în câteva săptămâni pentru a observa niște tendințe.
 
 
 ;Startup Time by Day
@@ -464,7 +464,7 @@ Sfat
 
 
 ;Looks like your Firefox is brand new! Check back after using Firefox for a while.
-Se pare că Firefox este nou instalat! Reveniți aici după ce folosiți Firefox pentru o vreme.
+Se pare că Firefox este nou instalat! Reveniți aici după ce folosiți Firefox o vreme.
 
 
 ;Important Metrics
@@ -472,7 +472,7 @@ Metrici importante
 
 
 ;Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
-Raportul de stare Firefox prezintă informații despre navigator și dispozitiv. Puteți <a href="#raw" class="navigate">vedea informațiile ce se înregistrează.</a> Puteți vedea, de asemenea, ce informații se împărtășesc cu Mozilla.
+Raportul de stare Firefox prezintă informații despre navigator și dispozitiv. Puteți <a href="#raw" class="navigate">vedea informațiile ce se înregistrează.</a> Puteți vedea și ce informații se împărtășesc cu Mozilla.
 
 
 ;Device hardware, operating system, Firefox version.
@@ -672,7 +672,7 @@ Sesiuni și perioade de pornire
 
 
 ;For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
-Pentru fiecare sesiune de navigare, Raportul de stare pentru Firefox înregistrează aproximativ cât de mult ați navigat (în secunde), și dacă sesiunea s-a încheiat în mod normal sau s-a încheiat din cauza unei erori. Include, de asemenea, timpul de pornire (în milisecunde), dacă este disponibil.
+Pentru fiecare sesiune de navigare, Raportul de stare Firefox înregistrează aproximativ cât de mult ați navigat (în secunde), și dacă sesiunea s-a încheiat în mod normal sau s-a încheiat din cauza unei erori. Include și timpul de pornire (în milisecunde) dacă este disponibil.
 
 
 ;Profile Creation:
@@ -688,7 +688,7 @@ Aflați mai multe
 
 
 ;Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
-Raportul de stare Firefox (FHR) analizează informațiile privind performanța navigatorului dvs., cu scopul de a vă oferi sfaturi utile care vă ajută să obțineți ce e mai bun de la Firefox. Pentru mai multe informații despre Raportul de stare Firefox, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>vizitați secțiunea de suport Mozilla.</a>
+Raportul de stare Firefox (FHR) analizează informațiile privind performanța navigatorului dvs., cu scopul de a vă oferi sfaturi utile care vă ajută să folosiți Firefox la maxim. Pentru mai multe informații despre Raportul de stare Firefox, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>vizitați secțiunea de suport Mozilla.</a>
 
 
 ;For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
@@ -704,6 +704,6 @@ Alegeți ce transmiteți
 
 
 ;You are currently not sharing your health report with Mozilla.
-În prezent nu partajați raportul de stare către Mozilla.
+În prezent nu transmiteți raportul de stare către Mozilla.
 
 
