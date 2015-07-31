@@ -67,11 +67,11 @@ crashes {ok}
 
 
 ;application crashes
-application crashes
+application crashes {ok}
 
 
 ;plugin crashes
-plugin crashes
+plugin crashes {ok}
 
 
 ;Add-ons
