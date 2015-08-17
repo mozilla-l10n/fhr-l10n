@@ -576,7 +576,7 @@ Pe Android este un nume alternativ pentru appBuildID.
 
 
 ;xpcomabi:
-xpcomabi:{ok}
+xpcomabi: {ok}
 
 
 ;The CPU architecture for which this application was built.
