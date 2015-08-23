@@ -1,5 +1,5 @@
 ;Firefox Health Report
-Raport de stare pentru Firefox
+Raport de stare Firefox
 
 
 ;Raw Data
@@ -7,11 +7,11 @@ Date brute
 
 
 ;Get insights and performance information about your version of Firefox.
-Obțineți perspective și informații despre performanța versiunii Firefox.
+Obține perspective și informații despre performanța versiunii de Firefox.
 
 
 ;Learn more...
-Aflați mai multe...
+Află mai multe...
 
 
 ;Data Sharing
@@ -23,19 +23,19 @@ Pornită
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
-Ați ales să opriți partajarea de date cu Mozilla, dar veți putea vedea în continuare cum se comportă navigatorul.
+Ai ales să oprești partajarea de date cu Mozilla, dar vei putea vedea în continuare cum se comportă browserul.
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
-Datele din raportul de stare vor fi de asemenea șterse de pe serverele Mozilla. Aflați mai multe în <a href="%(privacy_url)s">politica noastră de confidențialitate.</a>
+Datele din raportul de stare vor fi, de asemenea, șterse de pe serverele Mozilla. Află mai multe în <a href="%(privacy_url)s">politica noastră de confidențialitate.</a>
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
-Ați ales să partajați periodic datele cu Mozilla. Vă mulțumim că faceți parte din misiunea noastră de a construi un viitor mai luminos pentru Web.
+Ai ales să partajezi periodic datele cu Mozilla. Îți mulțumim că faci parte din misiunea noastră de a clădi un viitor mai luminos pentru web.
 
 
 ;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
-Aflați cum gestionăm datele dumneavoastră în <a href="%(privacy_url)s">politica noastră de confidențialitate.</a>
+Află cum gestionăm datele tale în <a href="%(privacy_url)s">politica noastră de confidențialitate.</a>
 
 
 ;Vital Stats
@@ -63,7 +63,7 @@ Luna aceasta
 
 
 ;crashes
-defecte
+defecțiuni
 
 
 ;application crashes
@@ -71,7 +71,7 @@ defecțiuni ale aplicației
 
 
 ;plugin crashes
-defecțiuni ale modulelor
+defecțiuni ale pluginurilor
 
 
 ;Add-ons
@@ -79,7 +79,7 @@ Suplimente
 
 
 ;View List
-Vedeți lista
+Vezi lista
 
 
 ;enabled
@@ -91,7 +91,7 @@ dezactivate
 
 
 ;Plugins
-Module
+Pluginuri
 
 
 ;always activate
@@ -107,7 +107,7 @@ niciodată activate
 
 
 ;Tips
-Sfaturi
+Ponturi
 
 
 ;Wear and Tear
@@ -115,15 +115,15 @@ Folosire și uzură
 
 
 ;It looks like your browser has crashed a number of times recently. To learn more:
-Se pare că navigatorul a înregistrat câteva defecte recent. Pentru a afla mai multe:
+Se pare că browserul a înregistrat câteva defecțiuni recent. Pentru a afla mai multe:
 
 
 ;OFF
-Oprit
+Oprită
 
 
 ;Visit our <a href="%(sumo_url)s">support website</a>
-Vizitați <a href="%(sumo_url)s">saitul nostru de suport</a>
+Vizitați <a href="%(sumo_url)s">site-ul nostru de suport</a>
 
 
 ;View more <a href="%(details_url)s">detailed information</a>
@@ -135,11 +135,11 @@ pagini vizitate
 
 
 ;Your browser seems to be running slower than usual. To learn more:
-Se pare că navigatorul rulează mai încet decât în mod normal. Pentru a afla mai multe:
+Se pare că browserul rulează mai încet decât în mod normal. Pentru a afla mai multe:
 
 
 ;You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
-Veți putea vedea informații mai interesante și mai detaliate pe măsură ce veți folosi navigatorul mai mult. Reveniți în câteva săptămâni pentru a observa niște tendințe.
+Vei putea vedea informații mai interesante și mai detaliate pe măsură ce vei folosi browserul mai mult. Revino în câteva săptămâni pentru a observa niște tendințe.
 
 
 ;Startup Time by Day
@@ -159,7 +159,7 @@ Tot
 
 
 ;Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
-Timpul de pornire ne ajută să determinăm cât de bine funcționează versiunea dumneavoastră de Firefox. În general, timpii mai rapizi (de ex. mai puțin timp) indică o performanță mai bună.
+Timpul de pornire ne ajută să determinăm cât de bine funcționează versiunea de Firefox. În general, timpii mai rapizi (de ex. mai puțin timp) indică o performanță mai bună.
 
 
 ;Data Collected
@@ -175,43 +175,43 @@ Ce măsoară raportul de stare Firefox
 
 
 ;The Firefox Health Report (FHR) has 4 categories of metrics:
-Raportul de stare Firefox (FHR) are 4 categorii de metrici:
+Raportul de stare Firefox (FHR) are 4 categorii de indici de măsurare:
 
 
 ;Configuration
-Configurație
+Configurația
 
 
 ;Device hardware, operating system, Firefox version
-Dispozitiv hardware, sistem de operare, versiune Firefox
+Hardware-ul dispozitivului, sistemul de operare, versiunea Firefox
 
 
 ;Customizations
-Personalizări
+Personalizările
 
 
 ;Add-ons, count and type
-Suplimente, număr și tip
+Suplimentele, numărul și tipul
 
 
 ;Performance
-Performanță
+Performanța
 
 
 ;Timing of browser events, rendering, session restores
-Cronometrarea evenimentelor navigatorului, randarea, restaurarea sesiunii
+Cronometrarea evenimentelor browserului, randarea, restaurările sesiunilor
 
 
 ;Length of session, how old a profile is, count of crashes, count of pages
-Lungimea sesiunii, vechimea profilului, numărul de rapoarte de defecte, numărul de pagini
+Lungimea sesiunii, vechimea profilului, numărul de rapoarte de defecțiuni, numărul de pagini
 
 
 ;Detailed Description
-Descriere detaliată
+Descrierea detaliată
 
 
 ;Metric
-Metrica
+Metrică
 
 
 ;Description
@@ -251,7 +251,7 @@ Numele configurat al aplicației (de exemplu Firefox/Aurora/Nightly)
 
 
 ;The channel this installation checks for application updates (nightly/aurora/beta/release)
-Canalul pe care această aplicație verifică pentru actualizări (nightly/aurora/beta/release)
+Sursa pe care această aplicație verifică pentru actualizări (nightly/aurora/beta/release)
 
 
 ;The name of the company/provider who built this version
@@ -259,7 +259,7 @@ Numele companiei/furnizorului care a construit această versiune
 
 
 ;The current version of the product
-Versiunea curentă a produsului
+Versiunea actuală a produsului
 
 
 ;Number of processor cores
@@ -267,7 +267,7 @@ Numărul de nuclee ale procesorului
 
 
 ;Whether the application is currently configured to be the default browser for the operating system
-Dacă aplicația este configurată în prezent ca navigator implicit pentru sistemul de operare
+Dacă aplicația este configurată în prezent ca browser implicit pentru sistemul de operare
 
 
 ;Locale currently being used
@@ -275,15 +275,15 @@ Limba folosită în prezent
 
 
 ;Amount of RAM in megabytes
-Capacitatea RAM în megabytes
+Cantitatea RAM în megabytes
 
 
 ;Currently running Operating System (kernel) name
-Numele sistemului de operare (kernel) curent
+Numele sistemului de operare (kernel) în prezent
 
 
 ;Currently running Operating System (kernel) version
-Versiunea curentă a sistemului de operare (kernel)
+Versiunea sistemului de operare (kernel) în prezent
 
 
 ;The build identifier of the Gecko platform code
@@ -311,7 +311,7 @@ Numărul de suplimente de acest tip care existau în profil la această dată
 
 
 ;<var>True</var> if the application automatically disabled the add-on
-<var>True</var> dacă aplicația dezinstalează automat suplimentul
+<var>Adevărat</var> dacă aplicația a dezinstalat automat suplimentul
 
 
 ;Whether this add-on was installed by the user or automatically by another application
@@ -331,7 +331,7 @@ Data cea mai recentă la care acest supliment a fost instalat (informațiile ant
 
 
 ;The number of searches performed with this search engine from this part of the UI
-Numărul de căutări făcute cu acest motor de căutare din această componentă de interfață
+Numărul de căutări realizate cu acest motor de căutare din această componentă de interfață
 
 
 ;Whether this add-on was installed in the application directory or profile directory
@@ -339,7 +339,7 @@ Dacă acest supliment a fost instalat în directorul aplicației sau în directo
 
 
 ;Whether this add-on is an extension or a plug-in
-Dacă acest supliment este o extensie sau un modul
+Dacă acest supliment este o extensie sau un plugin
 
 
 ;The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
@@ -347,11 +347,11 @@ Data cea mai recentă la care acest supliment a fost actualizat (informațiile a
 
 
 ;<var>True</var> if the user manually disabled the add-on
-<var>True</var> dacă utilizatorul a dezactivat manual suplimentul
+<var>Adevărat</var> dacă utilizatorul a dezactivat manual suplimentul
 
 
 ;The current version of this add-on
-Versiunea curentă a acestui supliment
+Versiunea actuală a acestui supliment
 
 
 ;How long in milliseconds it took during startup for the application to render the UI and display the window
@@ -423,15 +423,15 @@ Cât timp în minute a rulat această sesiune
 
 
 ;Welcome to your Firefox Health Report
-Bine ați venit la raportul de stare Firefox
+Bine ai venit la raportul de stare Firefox
 
 
 ;Welcome!
-Bine ați venit!
+Bine ai venit!
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
-Raportul de stare pentru Firefox vă permite să știți cât de bine funcționează Firefox și ce puteți face pentru a îmbunătăți performanța.
+Raportul de stare pentru Firefox îți permite să știi cât de bine funcționează Firefox și ce poți face pentru a-l îmbunătăți.
 
 
 ;See My Report
@@ -452,35 +452,35 @@ Politică de confidențialitate
 
 # The following strings are used only in the Mobile version of about:healthreport (Firefox for Android)
 ;Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
-Raportul de stare pentru Firefox vă permite să îl optimizați și ne ajută să creăm un navigator mai excelent. Rapoartele vor fi destul de simple la început, dar vor continua să evolueze și să crească.
+Raportul de stare pentru Firefox permite să optimizezi Firefox și ne ajută să creăm un browser mai excelent. Rapoartele vor fi destul de simple la început, dar vor continua să evolueze și să crească.
 
 
 ;Learn More&hellip;
-Aflați mai multe&hellip;
+Află mai multe&hellip;
 
 
 ;Tip
-Sfat
+Pont
 
 
 ;Looks like your Firefox is brand new! Check back after using Firefox for a while.
-Se pare că Firefox este nou instalat! Reveniți aici după ce folosiți Firefox o vreme.
+Se pare că Firefox este nou nouț! Reveniți aici după ce folosiți Firefox o vreme.
 
 
 ;Important Metrics
-Metrici importante
+Indici de măsurare importanți
 
 
 ;Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
-Raportul de stare Firefox prezintă informații despre navigator și dispozitiv. Puteți <a href="#raw" class="navigate">vedea informațiile ce se înregistrează.</a> Puteți vedea și ce informații se împărtășesc cu Mozilla.
+Raportul de stare Firefox prezintă informații despre browser și dispozitiv. Poți <a href="#raw" class="navigate">vedea informațiile care se înregistrează.</a> Poți vedea și ce informații se partajează cu Mozilla.
 
 
 ;Device hardware, operating system, Firefox version.
-Dispozitiv hardware, sistem de operare, versiune Firefox.
+Hardware-ul dispozitivului, sistemul de operare, versiunea Firefox.
 
 
 ;Extensions, plugins, and number of installed add-ons.
-Extensii, module și numărul de suplimente instalate.
+Extensiile, pluginurile și numărul de suplimente instalate.
 
 
 ;Key performance measures, such as launch speed.
@@ -512,15 +512,15 @@ Cantitatea de memorie raportată de către Android. Exclude de obicei memoria gr
 
 
 ;Application Name:
-Nume aplicație:
+Numele aplicației:
 
 
 ;The internal application name for the browser.
-Numele aplicației interne pentru navigator.
+Numele aplicației interne pentru browser.
 
 
 ;Application ID:
-ID aplicație:
+ID-ul aplicației:
 
 
 ;The internal identifier for the application.
@@ -528,15 +528,15 @@ Identificatorul intern pentru aplicație.
 
 
 ;Application Version:
-Versiune aplicație:
+Versiunea aplicației:
 
 
 ;The current version of the browser
-Versiunea curentă a navigatorului
+Versiunea actuală a browserului
 
 
 ;Application Build ID:
-ID-ul de construcție al aplicației:
+ID-ul versiunii aplicației:
 
 
 ;The internal build timestamp.
@@ -544,11 +544,11 @@ Marcaj temporal intern al versiunii.
 
 
 ;Update Channel:
-Canal de actualizare:
+Sursa de actualizare:
 
 
 ;Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
-Firefox este distribuit prin intermediul canalelor: versiunile Nightly, canalul de pre-lansare Aurora, Beta stabil și canalul de lansare oficială. Acest câmp identifică canalul.
+Firefox este distribuit prin intermediul surselor: versiunile Nightly, sursa de prelansare Aurora, un Beta stabil și sursa de lansare oficială. Acest câmp identifică sursa.
 
 
 ;Vendor:
@@ -560,7 +560,7 @@ Organizația care a produs această aplicație. De obicei Mozilla.
 
 
 ;Platform Version:
-Versiune platformă:
+Versiunea platformei:
 
 
 ;An internal version identifier. Typically the same as appVersion.
@@ -568,7 +568,7 @@ Identificatorul intern al versiunii. De obicei este același ca și appVersion.
 
 
 ;Platform Build ID:
-ID-ul de construcție al platformei:
+ID-ul versiunii platformei:
 
 
 ;On Android this is an alternative name for appBuildID.
@@ -600,11 +600,11 @@ Arhitectura CPU pentru acest dispozitiv.
 
 
 ;System Name:
-Nume sistem:
+Numele sistemului:
 
 
 ;The current system name.
-Numele curent al sistemului.
+Numele actual al sistemului.
 
 
 ;System Version:
@@ -624,11 +624,11 @@ Telemetrie activată:
 
 
 ;Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
-Dacă Firefox raportează date detaliate privind utilizarea pentru a ajuta la dezvoltare. Valoarea implicită este dezactivat pentru cele mai multe canale.
+Dacă Firefox raportează date detaliate privind utilizarea pentru a ajuta la dezvoltare. Valoarea implicită este dezactivată pentru cele mai multe surse.
 
 
 ;Extension Count:
-Număr extensii:
+Număr de extensii:
 
 
 ;How many extension add-ons are installed.
@@ -636,15 +636,15 @@ Câte extensii suplimentare sunt instalate.
 
 
 ;Plugin Count:
-Număr pluginuri:
+Număr de pluginuri:
 
 
 ;How many plugin add-ons are installed.
-Câte module suplimentare sunt instalate.
+Câte pluginuri suplimentare sunt instalate.
 
 
 ;Theme Count:
-Număr teme:
+Număr de teme:
 
 
 ;How many theme add-ons are installed.
@@ -660,7 +660,7 @@ O colecție ce descrie suplimentele instalate. Nu toate suplimentele sunt raport
 
 
 ;Search Counts:
-Număr căutări:
+Număr de căutări:
 
 
 ;A count of how many searches you issued to each of Mozilla's partner providers.
@@ -668,42 +668,42 @@ Numărul de căutări pe care l-ați efectuat pentru fiecare dintre furnizorii p
 
 
 ;Sessions and Startup Times
-Sesiuni și perioade de pornire
+Sesiuni și timpii de pornire
 
 
 ;For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
-Pentru fiecare sesiune de navigare, Raportul de stare Firefox înregistrează aproximativ cât de mult ați navigat (în secunde), și dacă sesiunea s-a încheiat în mod normal sau s-a încheiat din cauza unei erori. Include și timpul de pornire (în milisecunde) dacă este disponibil.
+Pentru fiecare sesiune de navigare, raportul de stare Firefox înregistrează aproximativ cât de mult ați navigat (în secunde), și dacă sesiunea s-a încheiat în mod normal sau s-a încheiat din cauza unei erori. Include și timpul de pornire (în milisecunde) dacă este disponibil.
 
 
 ;Profile Creation:
-Profil creat:
+Crearea profilului:
 
 
 ;The day on which your browser profile was created. Counted in days since January 1st 1970.
-Ziua în care a fost creat profilul navigatorului dumneavoastră. Calculat în zile începând din data de 1 ianuarie 1970.
+Ziua în care a fost creat profilul browserului. Calculat în zile începând din data de 1 ianuarie 1970.
 
 
 ;Learn More
-Aflați mai multe
+Află mai multe
 
 
 ;Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
-Raportul de stare Firefox (FHR) analizează informațiile privind performanța navigatorului dumneavoastră, cu scopul de a vă oferi sfaturi utile care vă ajută să folosiți Firefox la maxim. Pentru mai multe informații despre Raportul de stare Firefox, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>vizitați secțiunea de suport Mozilla.</a>
+Raportul de stare Firefox (FHR) analizează informațiile privind performanța browserului, cu scopul de a oferi ponturi utile care te ajută să folosești Firefox la maxim. Pentru mai multe informații despre Raportul de stare Firefox, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>vizitează secțiunea Mozilla Support.</a>
 
 
 ;For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
-Pentru mai multe informații despre modul în care se gestionează datele dumneavoastră, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>consultați politica noastră de confidențialitate.</a>
+Pentru mai multe informații despre modul în care se gestionează datele dumneavoastră, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>vezi politica noastră de confidențialitate.</a>
 
 
 ;You are currently sharing your health report with Mozilla.
-În prezent transmiteți raportul de stare către Mozilla.
+În prezent partajezi raportul de stare către Mozilla.
 
 
 ;Choose what I share
-Alegeți ce transmiteți
+Alege ce partajez
 
 
 ;You are currently not sharing your health report with Mozilla.
-În prezent nu partajați raportul de stare cu Mozilla.
+În prezent nu partajezi raportul de stare cu Mozilla.
 
 
