@@ -1,5 +1,5 @@
 ;Firefox Health Report
-火狐健康报告
+Firefox 健康报告
 
 
 ;Raw Data
@@ -7,7 +7,7 @@
 
 
 ;Get insights and performance information about your version of Firefox.
-获得您正在使用的火狐版本的评价和性能信息。
+获得您正在使用的 Firefox 版本的指标和性能信息。
 
 
 ;Learn more...
@@ -19,7 +19,7 @@
 
 
 ;ON
-打开
+开启
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
@@ -67,7 +67,7 @@ Mozilla 也会从服务器上删除您的健康报告数据。查看<a href="%(p
 
 
 ;application crashes
-程序崩溃
+应用程序崩溃
 
 
 ;plugin crashes
@@ -95,15 +95,15 @@ Mozilla 也会从服务器上删除您的健康报告数据。查看<a href="%(p
 
 
 ;always activate
-总是启用
+总是激活
 
 
 ;ask to activate
-询问是否启用
+询问是否激活
 
 
 ;never activate
-永不启用
+总不激活
 
 
 ;Tips
@@ -159,7 +159,7 @@ Mozilla 也会从服务器上删除您的健康报告数据。查看<a href="%(p
 
 
 ;Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
-启动时间体现了您使用的火狐版本的性能。一般来说，更快的启动时间（或者说更短的时间）意味着更好的性能。
+启动时间有助您了解您使用的 Firefox 版本的性能。一般来说，更快的启动时间（或者说更短的时间）意味着更好的性能。
 
 
 ;Data Collected
@@ -171,11 +171,11 @@ Mozilla 也会从服务器上删除您的健康报告数据。查看<a href="%(p
 
 
 ;What the Firefox Health Report Measures
-火狐健康报告的测试标准是什么
+Firefox 健康报告的测试标准是什么
 
 
 ;The Firefox Health Report (FHR) has 4 categories of metrics:
-火狐健康报告 (FHR) 有4类指标：
+Firefox 健康报告 (FHR) 有四类指标：
 
 
 ;Configuration
@@ -191,7 +191,7 @@ Mozilla 也会从服务器上删除您的健康报告数据。查看<a href="%(p
 
 
 ;Add-ons, count and type
-附加组件，计数和类型
+附加组件，数量和类型
 
 
 ;Performance
@@ -199,11 +199,11 @@ Mozilla 也会从服务器上删除您的健康报告数据。查看<a href="%(p
 
 
 ;Timing of browser events, rendering, session restores
-浏览器运行、渲染和恢复会话的时间
+浏览器事件、渲染和恢复会话的时间
 
 
 ;Length of session, how old a profile is, count of crashes, count of pages
-会话长度，配置文件历史，崩溃计数，页面计数
+会话长度，配置文件年龄，崩溃次数，页面数量
 
 
 ;Detailed Description
@@ -219,43 +219,43 @@ Mozilla 也会从服务器上删除您的健康报告数据。查看<a href="%(p
 
 
 ;Binary interface for XPCOM
-XPCOM 二进制界面
+XPCOM 二进制接口
 
 
 ;Identifier for this build of the application based on the date the build was started
-基于本次构建开始时间而形成的应用程序版本标识符
+基于本软件的构建开始时间而形成的应用程序版本标识符
 
 
 ;Operating System for which this build was configured
-该构建版本面向的操作系统
+此构建版本面向的操作系统
 
 
 ;Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
-使用中的应用程序的特定分发的标识符，来自<var>distribution.id</var>参数。
+使用的应用程序分发标识符。来自 <var>distribution.id</var> 首选项
 
 
 ;Version of the distribution, taken from the <var>distribution.version</var> preference
-分发版本，来自 <var>distribution.version</var> 参数
+分发版本，来自 <var>distribution.version</var> 首选项
 
 
 ;The version number of any Mozilla hotfix applied to the application
-应用程序上已安装的 Mozilla 补丁的版本号
+Mozilla 已追加的任何热修复补丁的版本号
 
 
 ;Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
-应用程序的唯一标识符，诸如 Firefox、Thunderbird 等等。忽略 <var>appName</var> ，所有安装版本都一样。
+应用程序的唯一标识符，诸如 Firefox、Thunderbird 等等。忽略 <var>appName</var> ，同一程序的所有安装版本都完全一致
 
 
 ;The configured name of the application (Firefox/Aurora/Nightly for instance)
-应用程序配置名 (Firefox/Aurora/Nightly 实例)
+应用程序的配置名称 (Firefox/Aurora/Nightly 实例)
 
 
 ;The channel this installation checks for application updates (nightly/aurora/beta/release)
-当前安装版本检查更新的频道 (nightly/aurora/beta/正式版)
+当前安装版本检查更新的频道 (nightly/aurora/beta/release)
 
 
 ;The name of the company/provider who built this version
-构建该版本的公司/提供者名字
+构建此版本的公司/提供方的名称
 
 
 ;The current version of the product
@@ -267,15 +267,15 @@ XPCOM 二进制界面
 
 
 ;Whether the application is currently configured to be the default browser for the operating system
-应用程序是否配置为操作系统的默认浏览器
+应用程序是否已配置为操作系统的默认浏览器
 
 
 ;Locale currently being used
-当前的语言区域
+当前使用的语言区域
 
 
 ;Amount of RAM in megabytes
-内存数量（MB）
+内存总量（MB）
 
 
 ;Currently running Operating System (kernel) name
@@ -299,7 +299,7 @@ Gecko 平台代码的版本
 
 
 ;The date this version was first used with this installation profile
-当前版本配置文件的首次使用日期
+当前配置文件的首次使用日期
 
 
 ;An application version which has been used with this installation profile
@@ -327,11 +327,11 @@ Gecko 平台代码的版本
 
 
 ;The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
-该附加组件最近安装的日期（已卸载附加组件的过往信息没有保留）
+该附加组件最近的安装日期（已卸载的附加组件不会保留过往信息）。
 
 
 ;The number of searches performed with this search engine from this part of the UI
-这部分界面通过这个搜索引擎执行过的搜索次数
+在这部分界面用这个搜索引擎执行过的搜索次数
 
 
 ;Whether this add-on was installed in the application directory or profile directory
@@ -343,11 +343,11 @@ Gecko 平台代码的版本
 
 
 ;The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
-附加组件最近更新日期（已卸载附加组件的过往信息没有保留）。
+附加组件最近更新日期（已卸载的附加组件不会保留过往信息）。
 
 
 ;<var>True</var> if the user manually disabled the add-on
-用户手动禁用附加组件时为 <var>True</var>
+用户手动禁用了附加组件则为 <var>True</var>
 
 
 ;The current version of this add-on
@@ -359,11 +359,11 @@ Gecko 平台代码的版本
 
 
 ;How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
-应用程序启动时读取库文件和完成基本的初始化所用的时间（毫秒）
+应用程序启动时读取库文件和完成基本初始化所用的时间（毫秒）
 
 
 ;How long in milliseconds it took during startup for the application to restore tabs from the previous session
-应用程序启动时从上次会话中恢复标签页所用的时间（毫秒）
+应用程序启动时从上次会话恢复标签页所用的时间（毫秒）
 
 
 ;The number of times the application was run and not cleanly shut down.
@@ -379,7 +379,7 @@ Gecko 平台代码的版本
 
 
 ;The number of days since this application profile directory was created
-应用程序当前配置文件目录已经创建的天数
+应用程序当前配置文件的目录已经创建的天数
 
 
 ;The number of times the application was run and cleanly shut down.
@@ -395,11 +395,11 @@ Gecko 平台代码的版本
 
 
 ;Total number of crashes that were recorded but not yet submitted
-已记录未提交的崩溃次数
+已记录但未提交的崩溃数量
 
 
 ;Total number of crashes that have been submitted
-已提交的崩溃次数
+已提交的崩溃数量
 
 
 ;Time in seconds the app has not been idle
@@ -415,7 +415,7 @@ Gecko 平台代码的版本
 
 
 ;Total number of pages listed in the history
-历史记录中列出的页面数
+历史记录中列出的页面数量
 
 
 ;How long in minutes the current session has been running
@@ -423,7 +423,7 @@ Gecko 平台代码的版本
 
 
 ;Welcome to your Firefox Health Report
-欢迎查看您的火狐健康报告
+欢迎查看您的 Firefox 健康报告
 
 
 ;Welcome!
@@ -431,7 +431,7 @@ Gecko 平台代码的版本
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
-火狐健康报告帮助您了解火狐的性能以及如何提高。
+Firefox 健康报告有助您了解 Firefox 的性能以及如何改善。
 
 
 ;See My Report
@@ -447,12 +447,12 @@ Gecko 平台代码的版本
 
 
 ;Privacy Policy
-隐私权政策
+隐私政策
 
 
 # The following strings are used only in the Mobile version of about:healthreport (Firefox for Android)
 ;Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
-Firefox 健康报告帮助您优化 Firefox ，帮助我们打造更出色的浏览器。刚开始，报告会很简略，之后会逐渐深入和扩展。
+Firefox 健康报告帮助您优化 Firefox，帮助我们打造更出色的浏览器。刚开始，报告会很简略，之后会逐渐深入和增长。
 
 
 ;Learn More&hellip;
@@ -472,7 +472,7 @@ Firefox 健康报告帮助您优化 Firefox ，帮助我们打造更出色的浏
 
 
 ;Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
-Firefox 健康报告记录了您的浏览器和设备的信息。您可以 <a href="#raw" class="navigate">查看我们记录的信息</a>，并决定将哪些信息与 Mozilla 分享。
+Firefox 健康报告记录了您的浏览器和设备的信息。您可以<a href="#raw" class="navigate">查看我们记录的信息</a>。您可以决定是否要将信息与 Mozilla 分享。
 
 
 ;Device hardware, operating system, Firefox version.
@@ -548,7 +548,7 @@ Android 报告的内存数量，一般情况下不包括显示内存。
 
 
 ;Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
-Firefox 通过几个通道进行分发：Nightly（每夜版），Aurora（早期测试版本），稳定测试版，和公开发布版。这个字段标识了版本通道名称。
+Firefox 通过几个通道进行分发：Nightly（每夜版），Aurora（早期测试版本），Beta（公开测试版），以及公开发布版本。这个字段标识了版本通道。
 
 
 ;Vendor:
@@ -564,7 +564,7 @@ Firefox 通过几个通道进行分发：Nightly（每夜版），Aurora（早�
 
 
 ;An internal version identifier. Typically the same as appVersion.
-内部版本标识符，通常与应用标识符相同。
+内部版本标识符，通常与 appVersion 相同。
 
 
 ;Platform Build ID:
@@ -580,7 +580,7 @@ xpcomabi: {ok}
 
 
 ;The CPU architecture for which this application was built.
-构建此应用程序的 CPU 架构。
+为此应用程序构建的 CPU 架构。
 
 
 ;OS:
@@ -592,11 +592,11 @@ xpcomabi: {ok}
 
 
 ;Architecture:
-架构：
+架构:
 
 
 ;The CPU architecture for this device.
-本设备的 CPU 架构。
+此设备的 CPU 架构。
 
 
 ;System Name:
@@ -616,15 +616,15 @@ Android 操作系统版本。
 
 
 ;Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
-Firefox 是否会获取附加组件阻止列表保护您免受恶意附加组件的侵害。默认打开。
+Firefox 是否会获取附加组件封锁列表，以保护您免受恶意附加组件的侵害。默认开启。
 
 
 ;Telemetry Enabled:
-已启用遥测：:
+已启用遥测:
 
 
 ;Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
-Firefox 是否汇报具体的使用数据以便帮助开发工作。在多数通道版本中默认关闭。
+Firefox 是否要汇报具体的使用数据以便帮助开发工作。在多数通道版本中默认关闭。
 
 
 ;Extension Count:
@@ -632,7 +632,7 @@ Firefox 是否汇报具体的使用数据以便帮助开发工作。在多数通
 
 
 ;How many extension add-ons are installed.
-安装了多少个扩展。
+已安装多少个扩展。
 
 
 ;Plugin Count:
@@ -640,7 +640,7 @@ Firefox 是否汇报具体的使用数据以便帮助开发工作。在多数通
 
 
 ;How many plugin add-ons are installed.
-安装了多少个插件。
+已安装多少个插件。
 
 
 ;Theme Count:
@@ -648,7 +648,7 @@ Firefox 是否汇报具体的使用数据以便帮助开发工作。在多数通
 
 
 ;How many theme add-ons are installed.
-安装了多少个主题。
+已安装多少个主题。
 
 
 ;Addons:
@@ -660,7 +660,7 @@ Firefox 是否汇报具体的使用数据以便帮助开发工作。在多数通
 
 
 ;Search Counts:
-搜索计数:
+搜索次数:
 
 
 ;A count of how many searches you issued to each of Mozilla's partner providers.
@@ -672,11 +672,11 @@ Firefox 是否汇报具体的使用数据以便帮助开发工作。在多数通
 
 
 ;For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
-对于每一个浏览器会话，Firefox 健康报告会近似记录浏览的持续时间（按秒），以及会话是正常或者由于崩溃而终止。如果可能，还会包括启动时间（微妙）。
+对于每一个浏览器会话，Firefox 健康报告会近似记录浏览的持续时间（按秒），以及会话是正常或者由于崩溃而终止。如果可能，还会包括启动时间（微秒）。
 
 
 ;Profile Creation:
-配置文件创建:
+配置文件创建时间:
 
 
 ;The day on which your browser profile was created. Counted in days since January 1st 1970.
@@ -704,6 +704,6 @@ Firefox 健康报告（FHR）分析了您的浏览器性能信息，以便向您
 
 
 ;You are currently not sharing your health report with Mozilla.
-您目前没有和 Mozilla 分享您的健康报告。
+您目前设置不与 Mozilla 分享您的健康报告。
 
 
