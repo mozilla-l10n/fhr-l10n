@@ -1,5 +1,5 @@
 ;Firefox Health Report
-Извештај здравља Firefox-а
+Firefox извештај здравља
 
 
 ;Raw Data
@@ -7,7 +7,7 @@
 
 
 ;Get insights and performance information about your version of Firefox.
-Сазнајте детаље о перформансама Ваше верзије Firefox-а.
+Сазнајте детаље о перформансама ваше верзије Firefox-а.
 
 
 ;Learn more...
@@ -23,7 +23,7 @@
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
-Одлучили сте да не делите податке са Mozilla-ом, али ћете и даље моћи да пратите како се понаша Ваш веб прегледач.
+Одлучили сте да не делите податке са Mozilla-ом, али ћете и даље моћи да пратите како се понаша веб прегледач.
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
@@ -35,7 +35,7 @@
 
 
 ;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
-Сазнајте како се служимо Вашим подацимо у нашој <a href="%(privacy_url)s">полиси приватности.</a>
+Сазнајте како се служимо вашим подацимо у нашој <a href="%(privacy_url)s">полиси приватности.</a>
 
 
 ;Vital Stats
@@ -115,7 +115,7 @@
 
 
 ;It looks like your browser has crashed a number of times recently. To learn more:
-Чини се да се Ваш веб прегледач у последње време повећи број пута срушио. Да бисте сазнали више:
+Чини се да се веб прегледач у последње време повећи број пута срушио. Да бисте сазнали више:
 
 
 ;OFF
@@ -135,7 +135,7 @@
 
 
 ;Your browser seems to be running slower than usual. To learn more:
-Чини се да Ваш веб прегледач ради спорије него иначе. Да бисте сазнали више:
+Чини се да веб прегледач ради спорије него иначе. Да бисте сазнали више:
 
 
 ;You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
@@ -159,7 +159,7 @@
 
 
 ;Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
-Време покретања понекад помаже у закључивању колико се добро Ваша верзија Firefox-a понаша. У принципу, бржа времена (тј. краће време покретања) упућује на боље перформансе.
+Време покретања понекад помаже у закључивању колико се добро ваша верзија Firefox-a понаша. У принципу, бржа времена (тј. краће време покретања) упућује на боље перформансе.
 
 
 ;Data Collected
@@ -171,11 +171,11 @@
 
 
 ;What the Firefox Health Report Measures
-Шта мери Извештај здравља Firefox-a?
+Шта мери Firefox извештај здравља
 
 
 ;The Firefox Health Report (FHR) has 4 categories of metrics:
-Извештај здравља Firefox-a (ИЗФ) има 4 катогорије:
+Firefox извештај здравља има 4 катогорије:
 
 
 ;Configuration
@@ -423,7 +423,7 @@
 
 
 ;Welcome to your Firefox Health Report
-Добродошли у Ваш Извештај здравља Firefox-a
+Добродошли у Firefox извештај здравља
 
 
 ;Welcome!
@@ -431,7 +431,7 @@
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
-Извештај здравља Firefox-a даје Вам увид у перформансе Вашег Firefox-a, те нуди савете за побољшање перформанси.
+Firefox извештај здравља даје увид у перформансе Firefox-a, те нуди савете за побољшање перформанси.
 
 
 ;See My Report
@@ -452,7 +452,7 @@
 
 # The following strings are used only in the Mobile version of about:healthreport (Firefox for Android)
 ;Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
-Извештај здравља Firefox-а омогућава оптимизацију Вашег Firefox-а и помаже нам да изградимо још бољи прегледач. Извештаји ће на почетку бити прилично једноставни, али ће се наставити развијати и расти.
+Firefox извештај здравља омогућава оптимизацију Firefox-а и помаже нам да изградимо још бољи прегледач. Извештаји ће на почетку бити прилично једноставни, али ће се наставити развијати и расти.
 
 
 ;Learn More&hellip;
@@ -464,7 +464,7 @@
 
 
 ;Looks like your Firefox is brand new! Check back after using Firefox for a while.
-Изгледа да је Ваш Firefox нов! Вратите се после одређеног времена коришћења Firefox-а.
+Изгледа да је ваш Firefox нов! Вратите се после одређеног времена коришћења Firefox-а.
 
 
 ;Important Metrics
@@ -472,7 +472,7 @@
 
 
 ;Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
-Извештај здравља Firefox-а чува информације о Вашем прегледачу и уређају. Можете <a href="#raw" class="navigate">погледати информације које чувамо.</a>  Такође можете погледати шта делите са Mozilla-ом.
+Firefox извештај здравља чува информације о прегледачу и уређају. Можете <a href="#raw" class="navigate">погледати информације које чувамо.</a> Такође можете погледати шта делите са Mozilla-ом.
 
 
 ;Device hardware, operating system, Firefox version.
@@ -616,7 +616,7 @@ Android OS ревизија.
 
 
 ;Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
-Да ли Firefox прикупља резултате блокираних додатака да Вас заштити против малициозних додатака. Укључено је по подразумеваном.
+Да ли Firefox прикупља резултате блокираних додатака да заштити против малициозних додатака. Укључено је по подразумеваном.
 
 
 ;Telemetry Enabled:
@@ -680,7 +680,7 @@ Android OS ревизија.
 
 
 ;The day on which your browser profile was created. Counted in days since January 1st 1970.
-Дан када је профил Вашег прегледача креиран. Броји се у данима од првог јануара 1970 године.
+Дан када је профил прегледача креиран. Броји се у данима од првог јануара 1970 године.
 
 
 ;Learn More
@@ -688,11 +688,11 @@ Android OS ревизија.
 
 
 ;Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
-Извештај здравља Firefox-а (ИЗФ) анализира информације о перформансама Вашег прегледача да би Вам пружили корисне савете да извучете најбоље из Firefox-а.  За више информација о Извештају здравља Firefox-а, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>посетите одељак за Mozilla подршку.</a>
+Firefox извештај здравља анализира информације о перформансама прегледача да би пружили корисне савете да извучете најбоље из Firefox-а.  За више информација о Извештају здравља Firefox-а, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>посетите одељак за Mozilla подршку.</a>
 
 
 ;For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
-За више информација о томе како рукујемо Вашим подацима, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>погледаје нашу полису приватности.</a>
+За више информација о томе како рукујемо вашим подацима, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>погледаје нашу полису приватности.</a>
 
 
 ;You are currently sharing your health report with Mozilla.
