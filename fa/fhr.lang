@@ -67,11 +67,11 @@
 
 
 ;application crashes
-application crashes
+فروپاشی‌های برنامه
 
 
 ;plugin crashes
-plugin crashes
+فروپاشی‌های افزونه
 
 
 ;Add-ons
@@ -95,15 +95,15 @@ plugin crashes
 
 
 ;always activate
-always activate
+همیشه فعال
 
 
 ;ask to activate
-ask to activate
+سوال کردن برای فعال‌سازی
 
 
 ;never activate
-never activate
+هیچ‌وقت فعال نشود
 
 
 ;Tips
@@ -452,258 +452,257 @@ never activate
 
 # The following strings are used only in the Mobile version of about:healthreport (Firefox for Android)
 ;Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
-Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
+با گزارش سلامتی فایرفاکس می‌توانید فایرفاکس خود را بهینه‌تر کنید و به ما کمک کنید تا یک مرورگر عالی‌تر بسازیم. گزارش‌ها در ابتدا خیلی ابتدایی هستند، اما بعدا بزرگتر و گسترده‌تر می‌شوند.
 
 
 ;Learn More&hellip;
-Learn More&hellip;
+بیشتر بدانید&hellip;
 
 
 ;Tip
-Tip
+نکته
 
 
 ;Looks like your Firefox is brand new! Check back after using Firefox for a while.
-Looks like your Firefox is brand new! Check back after using Firefox for a while.
+بنظر می‌رسد فایرفاکس شما کاملا نو است! پس از مدتی استفاده از فایرفاکس دوباره اینجا را بررسی کنید.
 
 
 ;Important Metrics
-Important Metrics
+اطلاعات مهم
 
 
 ;Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
-Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
+گزارش سلامت فایرفاکس اطلاعا مهم در باره مرورگر و دستگاه شما را ضبط می‌کند. شما می‌توانید <a href="#raw" class="navigate">اطلاعاتی را که ذخیره می‌کنیم را ببینید.</a>
 
 
 ;Device hardware, operating system, Firefox version.
-Device hardware, operating system, Firefox version.
+سخت‌افزار دستگاه، سیستم‌عامل، نسخه فایرفاکس.
 
 
 ;Extensions, plugins, and number of installed add-ons.
-Extensions, plugins, and number of installed add-ons.
+افزونه‌ها، پلاگین‌ها و تعداد افزونه‌های نصب شده.
 
 
 ;Key performance measures, such as launch speed.
-Key performance measures, such as launch speed.
+مقیاس‌های کارایی کلیدی، مانند سرعت اجرا.
 
 
 ;Browsing duration, install time, number of bookmarks and pages.
-Browsing duration, install time, number of bookmarks and pages.
+زمان مرور وب، زمان نصب، تعداد نشانک‌ها و صفحات.
 
 
 ;Home
-Home
+خانه
 
 
 ;CPU Count:
-CPU Count:
+تعداد CPUها:
 
 
 ;The number of CPU cores reported by Android.
-The number of CPU cores reported by Android.
+تعداد هسته‌های CPU گزارش شده توسط اندروید.
 
 
 ;Memory in MB:
-Memory in MB:
+حافظه بر اساس MB:
 
 
 ;The amount of memory reported by Android. Typically excludes graphics memory.
-The amount of memory reported by Android. Typically excludes graphics memory.
+میزان حافظه گزارش شده توسط اندروید. معمولا حافظه گرافیکی را شامل نمی‌شود.
 
 
 ;Application Name:
-Application Name:
+نام برنامه:
 
 
 ;The internal application name for the browser.
-The internal application name for the browser.
+نام داخلی برنامه برای مرورگر.
 
 
 ;Application ID:
-Application ID:
+شناسه برنامه:
 
 
 ;The internal identifier for the application.
-The internal identifier for the application.
+شناساگر داخلی برای برنامه.
 
 
 ;Application Version:
-Application Version:
+نسخه برنامه:
 
 
 ;The current version of the browser
-The current version of the browser
+نسخه فعلی مرورگر
 
 
 ;Application Build ID:
-Application Build ID:
+شناسه ساخت برنامه:
 
 
 ;The internal build timestamp.
-The internal build timestamp.
+ساعت و تاریخ داخلی ساخت.
 
 
 ;Update Channel:
-Update Channel:
+کانال بروزرسانی:
 
 
 ;Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
-Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
+فایرفاکس بین کانال‌ها توزیع شده است: ساخت‌های شبانه، کانال پیش از انتظار آرورا، نسخه پایدار بتا، و نسخه انتشار عمومی. این فیلد کانال را مشخص می‌کند.
 
 
 ;Vendor:
-Vendor:
+فروشنده:
 
 
 ;The organization that built this application. Typically Mozilla.
-The organization that built this application. Typically Mozilla.
+سازمانی که این برنامه را ساخته است. معمولا موزیلا.
 
 
 ;Platform Version:
-Platform Version:
+نسخه سکو:
 
 
 ;An internal version identifier. Typically the same as appVersion.
-An internal version identifier. Typically the same as appVersion.
+یک شناساگر داخلی نسخه. معمولا مشابه appVersion است.
 
 
-;Platform Build ID:
-Platform Build ID:
+;شناسه ساخت سکو:
 
 
 ;On Android this is an alternative name for appBuildID.
-On Android this is an alternative name for appBuildID.
+برای اندروید، این یک جایگزین برای appBuildID است.
 
 
 ;xpcomabi:
-xpcomabi:
+xpcomabi: {ok}
 
 
 ;The CPU architecture for which this application was built.
-The CPU architecture for which this application was built.
+معماری CPU که این برنامه برای آن ساخته شده است.
 
 
 ;OS:
-OS:
+سیستم‌عامل:
 
 
 ;The current operating system.
-The current operating system.
+سیستم‌عامل فعلی.
 
 
 ;Architecture:
-Architecture:
+معماری:
 
 
 ;The CPU architecture for this device.
-The CPU architecture for this device.
+معماری سیستم‌عامل برای این دستگاه.
 
 
 ;System Name:
-System Name:
+نام سیستم:
 
 
 ;The current system name.
-The current system name.
+نا سیستم فعلی.
 
 
 ;System Version:
-System Version:
+نسخه سیستم:
 
 
 ;The Android OS revision.
-The Android OS revision.
+نسخه بازنگری سیستم‌عامل اندروید.
 
 
 ;Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
-Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
+اینکه آیا فایرفاکس فهرست افزونه‌های مسدود شده را جهت محافظت از شما در برابر افزونه‌های مخرب دریافت می‌کند یا خیر. بطور پیش‌فرض فعال است.
 
 
 ;Telemetry Enabled:
-Telemetry Enabled:
+اندازه‌گیری فعال شد:
 
 
 ;Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
-Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
+اینکه آیا فایرفاکس جزئیات اطلاعات استفاده را برای کمک به توسعه ارسال می‌کند یا خیر. به طور پیش‌فرض برای اکثر کانال غیرفعال است.
 
 
 ;Extension Count:
-Extension Count:
+تعداد افزونه‌ها:
 
 
 ;How many extension add-ons are installed.
-How many extension add-ons are installed.
+چه تعداد افزونه نصب شده است.
 
 
 ;Plugin Count:
-Plugin Count:
+تعداد پلاگین‌ها:
 
 
 ;How many plugin add-ons are installed.
-How many plugin add-ons are installed.
+چه تعداد پلاگین نصب شده است.
 
 
 ;Theme Count:
-Theme Count:
+تعداد تم‌ها:
 
 
 ;How many theme add-ons are installed.
-How many theme add-ons are installed.
+چه تعداد افزونه‌ی تم نصب شده است.
 
 
 ;Addons:
-Addons:
+افزونه‌ها:
 
 
 ;A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
-A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
+یک مجموعه توضیحات از افزونه‌های نصب شده. تمام افزونه‌ها گزارش نمی‌شوند: تنها پلاگین‌های، افزونه‌ها و سرویس‌ها.
 
 
 ;Search Counts:
-Search Counts:
+تعداد جست‌وجوها:
 
 
 ;A count of how many searches you issued to each of Mozilla's partner providers.
-A count of how many searches you issued to each of Mozilla's partner providers.
+تعداد جست‌وجوهایی که شما از طریق شرکای موزیلا انجام داده‌اید.
 
 
 ;Sessions and Startup Times
-Sessions and Startup Times
+دفعات نشست‌ها و اجراها
 
 
 ;For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
-For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
+برای هر نشست، گزارش سلامت فایرفاکس مدت مرور شما (به ثانیه)، و اینکه آیا نشست به شکل معمول پایان یافت یا به فروپاشی برنامه را ضبط می‌کند، همچنین زمان برپایی (براساس میلی‌ثانیه) هم در صورت موجود بودن ضبط می‌شود.
 
 
 ;Profile Creation:
-Profile Creation:
+ساخت نمایه:
 
 
 ;The day on which your browser profile was created. Counted in days since January 1st 1970.
-The day on which your browser profile was created. Counted in days since January 1st 1970.
+روزی که نمایه مرورگر شما ساخته شده است. تعداد بر اساس روز از ۱ ژانویه ۱۹۷۰.
 
 
 ;Learn More
-Learn More
+اطلاعات بیشتر
 
 
 ;Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
-Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
+گزارش سلامت فایرفاکس (FHR) اطلاعات کارایی مرورگر شما را آنالیز می‌کند، تا بتوانید نکاتی مفید برای استفاده بهتر شما از فایرفاکس را فراهم کند. برای اطلاعات بیشتر در مورد گزارش سلامت فایرفاکس، <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>قسمت پشتیبانی موزیلا را ببینید.</a>
 
 
 ;For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
-For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
+برای اطلاعات بیشتر در مورد اینکه ما چگونه از اطلاعات شما استفاده می‌کنیم، <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>سیاست حریم‌خصوصی ما را بخوانید.</a>
 
 
 ;You are currently sharing your health report with Mozilla.
-You are currently sharing your health report with Mozilla.
+شما در حال حاضر اطلاعات سلامت فایرفاکس را با موزیلا به اشتراک می‌گذارید.
 
 
 ;Choose what I share
-Choose what I share
+انتخاب کنید چه چیزهایی به اشتراک می‌گذارم
 
 
 ;You are currently not sharing your health report with Mozilla.
-You are currently not sharing your health report with Mozilla.
+شما در حال حاضر اطلاعات سلامت فایرفاکس را با موزیلا به اشتراک نمی‌گذارید.
 
 
