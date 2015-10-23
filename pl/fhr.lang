@@ -115,7 +115,7 @@ Zużycie
 
 
 ;It looks like your browser has crashed a number of times recently. To learn more:
-Wygląda na to, że ostatnio przegladarka często ulega awariom. Aby dowiedzieć się więcej:
+Wygląda na to, że ostatnio przeglądarka często ulega awariom. Aby dowiedzieć się więcej:
 
 
 ;OFF
@@ -379,7 +379,7 @@ Liczony w sekundach czas, w którym przerwane sesje działały
 
 
 ;The number of days since this application profile directory was created
-Liczba dni od stworzenia katalogu profilu tej aplikacji
+Liczba dni od utworzenia katalogu profilu tej aplikacji
 
 
 ;The number of times the application was run and cleanly shut down.
@@ -520,15 +520,15 @@ Wewnętrzna nazwa aplikacji dla przeglądarki.
 
 
 ;Application ID:
-Identyfikator programu:
+Identyfikator aplikacji:
 
 
 ;The internal identifier for the application.
-Wewnętrzny identyfikator programu.
+Wewnętrzny identyfikator aplikacji.
 
 
 ;Application Version:
-Wersja programu:
+Wersja aplikacji:
 
 
 ;The current version of the browser
@@ -536,11 +536,11 @@ Obecna wersja przeglądarki
 
 
 ;Application Build ID:
-Identyfikator kompilacji programu:
+Identyfikator kompilacji aplikacji:
 
 
 ;The internal build timestamp.
-Wewnętrzne oznaczenie wersji kompilacji programu.
+Wewnętrzne oznaczenie wersji kompilacji aplikacji.
 
 
 ;Update Channel:
@@ -556,7 +556,7 @@ Wydawca:
 
 
 ;The organization that built this application. Typically Mozilla.
-Organizacja, która stworzyła program. Zazwyczaj Mozilla.
+Organizacja, która zbudowała aplikację. Zazwyczaj Mozilla.
 
 
 ;Platform Version:
@@ -580,7 +580,7 @@ xpcomabi: {ok}
 
 
 ;The CPU architecture for which this application was built.
-Architektura procesora, dla której zbudowano program.
+Architektura procesora, dla której zbudowano aplikację.
 
 
 ;OS:
@@ -676,7 +676,7 @@ W odniesieniu do każdej sesji przeglądania Internetu raport o zdrowiu Firefok
 
 
 ;Profile Creation:
-Stworzenie profilu:
+Utworzenie profilu:
 
 
 ;The day on which your browser profile was created. Counted in days since January 1st 1970.
