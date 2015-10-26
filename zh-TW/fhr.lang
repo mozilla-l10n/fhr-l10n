@@ -55,17 +55,17 @@ update channel
 
 
 ;updates
-updates
+更新
 
 
 # Possible value for "updates"
 ;automatic
-automatic
+自動
 
 
 # Possible value for "updates"
 ;prompt
-prompt
+提示
 
 
 ;time open
@@ -85,19 +85,19 @@ prompt
 
 
 ;total sessions
-total sessions
+總使用階段
 
 
 ;Active Add-ons
-Active Add-ons
+使用中的附加元件
 
 
 ;Extensions
-Extensions
+擴充套件
 
 
 ;Plugins (Click-to-Activate)
-Plugins (Click-to-Activate)
+外掛程式（點擊後啟用）
 
 
 ;crashes
@@ -747,12 +747,12 @@ Firefox 健康檢查報告 (FHR) 將會分析您瀏覽器的效能資訊，以�
 
 # This string is displayed when selecting Raw Data near the title
 ;Firefox Health Report (FHR) records anonymous data about your computer, configuration, usage, performance, and error conditions. This data helps us improve Firefox for you and for other Firefox users.
-Firefox Health Report (FHR) records anonymous data about your computer, configuration, usage, performance, and error conditions. This data helps us improve Firefox for you and for other Firefox users.
+Firefox 健康檢查報告（FHR）會匿名地記錄關於您的電腦的設定、使用情況、效能、錯誤狀況等資料。這些資料能讓我們為您與其他使用者改善 Firefox。
 
 
 # This string is displayed when selecting Raw Data near the title
 # Links to https://gecko.readthedocs.org/en/latest/toolkit/components/telemetry/telemetry/
 ;Read technical documentation for the data format and fields.
-Read technical documentation for the data format and fields.
+請參考技術文件，以了解資料格式與欄位內容。
 
 
