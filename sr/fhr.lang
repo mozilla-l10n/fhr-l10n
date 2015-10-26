@@ -51,21 +51,21 @@ Firefox извештај здравља
 
 
 ;update channel
-update channel
+ажурирај канал
 
 
 ;updates
-updates
+надоградње
 
 
 # Possible value for "updates"
 ;automatic
-automatic
+аутоматске
 
 
 # Possible value for "updates"
 ;prompt
-prompt
+захтевај
 
 
 ;time open
@@ -85,19 +85,19 @@ prompt
 
 
 ;total sessions
-total sessions
+број сесија
 
 
 ;Active Add-ons
-Active Add-ons
+Активни додаци
 
 
 ;Extensions
-Extensions
+Екстензије
 
 
 ;Plugins (Click-to-Activate)
-Plugins (Click-to-Activate)
+Прикључци (Клик за активацију)
 
 
 ;crashes
@@ -747,12 +747,12 @@ Firefox извештај здравља анализира информациј�
 
 # This string is displayed when selecting Raw Data near the title
 ;Firefox Health Report (FHR) records anonymous data about your computer, configuration, usage, performance, and error conditions. This data helps us improve Firefox for you and for other Firefox users.
-Firefox Health Report (FHR) records anonymous data about your computer, configuration, usage, performance, and error conditions. This data helps us improve Firefox for you and for other Firefox users.
+Firefox извештај здравља (FHR) бележи анонимне податке са вашег рачунара, конфигурацију, употребу, перфомансе и грешке. Ови подаци помажу да побољшамо Firefox за вас и друге кориснике.
 
 
 # This string is displayed when selecting Raw Data near the title
 # Links to https://gecko.readthedocs.org/en/latest/toolkit/components/telemetry/telemetry/
 ;Read technical documentation for the data format and fields.
-Read technical documentation for the data format and fields.
+Прочитајте техничку документацију за формат и поља за податке.
 
 
