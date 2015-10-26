@@ -51,21 +51,21 @@
 
 
 ;update channel
-update channel
+канал оновлень
 
 
 ;updates
-updates
+оновлення
 
 
 # Possible value for "updates"
 ;automatic
-automatic
+автоматично
 
 
 # Possible value for "updates"
 ;prompt
-prompt
+запит
 
 
 ;time open
@@ -85,19 +85,19 @@ prompt
 
 
 ;total sessions
-total sessions
+всього сеансів
 
 
 ;Active Add-ons
-Active Add-ons
+Активні додатки
 
 
 ;Extensions
-Extensions
+Розширення
 
 
 ;Plugins (Click-to-Activate)
-Plugins (Click-to-Activate)
+Плагіни (натиснути для активації)
 
 
 ;crashes
@@ -747,12 +747,12 @@ xpcomabi: {ok}
 
 # This string is displayed when selecting Raw Data near the title
 ;Firefox Health Report (FHR) records anonymous data about your computer, configuration, usage, performance, and error conditions. This data helps us improve Firefox for you and for other Firefox users.
-Firefox Health Report (FHR) records anonymous data about your computer, configuration, usage, performance, and error conditions. This data helps us improve Firefox for you and for other Firefox users.
+Звіт про справність Firefox (FHR) записує анонімні дані про ваш комп'ютер, конфігурацію, використання, швидкодію та умови виникнення помилок. Ці дані допомагають нам вдосконалювати Firefox для вас та інших користувачів.
 
 
 # This string is displayed when selecting Raw Data near the title
 # Links to https://gecko.readthedocs.org/en/latest/toolkit/components/telemetry/telemetry/
 ;Read technical documentation for the data format and fields.
-Read technical documentation for the data format and fields.
+Ознайомтеся з технічною документацією для формату даних і полів.
 
 
