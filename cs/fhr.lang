@@ -51,21 +51,21 @@ verze
 
 
 ;update channel
-update channel
+aktualizační kanál
 
 
 ;updates
-updates
+aktualizace
 
 
 # Possible value for "updates"
 ;automatic
-automatic
+automatické
 
 
 # Possible value for "updates"
 ;prompt
-prompt
+zeptat se
 
 
 ;time open
@@ -85,19 +85,19 @@ Tento měsíc
 
 
 ;total sessions
-total sessions
+celkem relací
 
 
 ;Active Add-ons
-Active Add-ons
+Aktivní doplňky
 
 
 ;Extensions
-Extensions
+Rozšíření
 
 
 ;Plugins (Click-to-Activate)
-Plugins (Click-to-Activate)
+Zásuvné moduly (Spustit na vyžádání)
 
 
 ;crashes
@@ -747,7 +747,7 @@ Aktuálně nesdílíte informace o zdraví Firefoxu s Mozillou.
 
 # This string is displayed when selecting Raw Data near the title
 ;Firefox Health Report (FHR) records anonymous data about your computer, configuration, usage, performance, and error conditions. This data helps us improve Firefox for you and for other Firefox users.
-Firefox Health Report (FHR) records anonymous data about your computer, configuration, usage, performance, and error conditions. This data helps us improve Firefox for you and for other Firefox users.
+Hlášení o zdraví Firefoxu (Firefox Health Report, FHR) zaznamenává anonymní údaje o vašem počítači, konfiguraci, použití, výkonu a chybách. Tato data nám pomáhají vylepšit Firefox pro vás i pro ostatní uživatele Firefoxu.
 
 
 # This string is displayed when selecting Raw Data near the title
