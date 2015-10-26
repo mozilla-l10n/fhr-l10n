@@ -563,15 +563,12 @@
 نسخه سکو:
 
 
-;Platform Build ID:
-شناسه ساخت سکو:
-
-
 ;An internal version identifier. Typically the same as appVersion.
 یک شناساگر داخلی نسخه. معمولا مشابه appVersion است.
 
 
-;شناسه ساخت سکو:
+;Platform Build ID:
+شناسه ساخت سکو:
 
 
 ;On Android this is an alternative name for appBuildID.
