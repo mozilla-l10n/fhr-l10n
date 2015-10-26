@@ -51,21 +51,21 @@ versão
 
 
 ;update channel
-update channel
+canal de atualização
 
 
 ;updates
-updates
+atualizações
 
 
 # Possible value for "updates"
 ;automatic
-automatic
+automático
 
 
 # Possible value for "updates"
 ;prompt
-prompt
+aviso
 
 
 ;time open
@@ -85,19 +85,19 @@ Este mês
 
 
 ;total sessions
-total sessions
+total de sessões
 
 
 ;Active Add-ons
-Active Add-ons
+Complementos ativos
 
 
 ;Extensions
-Extensions
+Extensões
 
 
 ;Plugins (Click-to-Activate)
-Plugins (Click-to-Activate)
+Plugins (clique para ativar)
 
 
 ;crashes
