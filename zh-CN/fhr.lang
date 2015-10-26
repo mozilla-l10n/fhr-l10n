@@ -51,21 +51,21 @@ Mozilla 也会从服务器上删除您的健康报告数据。查看<a href="%(p
 
 
 ;update channel
-update channel
+更新通道
 
 
 ;updates
-updates
+更新方式
 
 
 # Possible value for "updates"
 ;automatic
-automatic
+自动
 
 
 # Possible value for "updates"
 ;prompt
-prompt
+提示
 
 
 ;time open
@@ -85,19 +85,19 @@ prompt
 
 
 ;total sessions
-total sessions
+总计会话次数
 
 
 ;Active Add-ons
-Active Add-ons
+激活的附加组件
 
 
 ;Extensions
-Extensions
+扩展
 
 
 ;Plugins (Click-to-Activate)
-Plugins (Click-to-Activate)
+插件（点击激活）
 
 
 ;crashes
@@ -586,7 +586,7 @@ Android 报告的内存数量，一般情况下不包括显示内存。
 
 
 ;Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
-Firefox 通过几个通道进行分发：Nightly（每夜版），Aurora（早期测试版本），Beta（公开测试版），以及公开发布版本。这个字段标识了版本通道。
+Firefox 通过几个通道进行分发：Nightly（每夜版），Aurora（早期测试版），Beta（公开测试版），还有公开发布版本。这个字段标识了版本通道。
 
 
 ;Vendor:
@@ -662,7 +662,7 @@ Firefox 是否会获取附加组件封锁列表，以保护您免受恶意附加
 
 
 ;Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
-Firefox 是否要汇报具体的使用数据以便帮助开发工作。在多数通道版本中默认关闭。
+Firefox 是否要报告详尽的使用数据以便帮助开发工作。在多数通道中默认关闭。
 
 
 ;Extension Count:
@@ -747,12 +747,12 @@ Firefox 健康报告（FHR）分析了您的浏览器性能信息，以便向您
 
 # This string is displayed when selecting Raw Data near the title
 ;Firefox Health Report (FHR) records anonymous data about your computer, configuration, usage, performance, and error conditions. This data helps us improve Firefox for you and for other Firefox users.
-Firefox Health Report (FHR) records anonymous data about your computer, configuration, usage, performance, and error conditions. This data helps us improve Firefox for you and for other Firefox users.
+Firefox 健康报告（简称 FHR）会记录有关您的计算机、配置、使用情况、性能以及错误情况的匿名数据。这有助于我们改善 Firefox 对您以及其他 Firefox 用户的体验。
 
 
 # This string is displayed when selecting Raw Data near the title
 # Links to https://gecko.readthedocs.org/en/latest/toolkit/components/telemetry/telemetry/
 ;Read technical documentation for the data format and fields.
-Read technical documentation for the data format and fields.
+阅读有关数据格式和字段的技术文档。
 
 
