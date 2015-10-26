@@ -1,3 +1,7 @@
+## NOTE: To test this page you can open about:config and set datareporting.healthreport.about.reportUrl to https://fhr-dev.allizom.org/%LOCALE%/v4/
+## NOTE: Then open about:healthreport in Firefox
+
+
 ;Firefox Health Report
 Firefox állapotjelentés
 
@@ -46,6 +50,24 @@ Lényeges adatok
 verzió
 
 
+;update channel
+update channel
+
+
+;updates
+updates
+
+
+# Possible value for "updates"
+;automatic
+automatic
+
+
+# Possible value for "updates"
+;prompt
+prompt
+
+
 ;time open
 megnyitási idő
 
@@ -60,6 +82,22 @@ könyvjelzők
 
 ;This Month
 Ez a hónap
+
+
+;total sessions
+total sessions
+
+
+;Active Add-ons
+Active Add-ons
+
+
+;Extensions
+Extensions
+
+
+;Plugins (Click-to-Activate)
+Plugins (Click-to-Activate)
 
 
 ;crashes
@@ -705,5 +743,16 @@ Válassza ki, mit oszt meg
 
 ;You are currently not sharing your health report with Mozilla.
 Jelenleg nem osztja meg az állapotjelentést a Mozillával.
+
+
+# This string is displayed when selecting Raw Data near the title
+;Firefox Health Report (FHR) records anonymous data about your computer, configuration, usage, performance, and error conditions. This data helps us improve Firefox for you and for other Firefox users.
+Firefox Health Report (FHR) records anonymous data about your computer, configuration, usage, performance, and error conditions. This data helps us improve Firefox for you and for other Firefox users.
+
+
+# This string is displayed when selecting Raw Data near the title
+# Links to https://gecko.readthedocs.org/en/latest/toolkit/components/telemetry/telemetry/
+;Read technical documentation for the data format and fields.
+Read technical documentation for the data format and fields.
 
 
