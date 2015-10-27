@@ -51,21 +51,21 @@ Firefox денсаулығы жөніндегі есебі
 
 
 ;update channel
-update channel
+жаңарту арнасы
 
 
 ;updates
-updates
+жаңартулар
 
 
 # Possible value for "updates"
 ;automatic
-automatic
+автоматты түрде
 
 
 # Possible value for "updates"
 ;prompt
-prompt
+сұрау
 
 
 ;time open
@@ -85,19 +85,19 @@ prompt
 
 
 ;total sessions
-total sessions
+жалпы сессиялар
 
 
 ;Active Add-ons
-Active Add-ons
+Белсенді қосымшалар
 
 
 ;Extensions
-Extensions
+Кеңейтулер
 
 
 ;Plugins (Click-to-Activate)
-Plugins (Click-to-Activate)
+Плагиндер (Белсендіру үшін шерту)
 
 
 ;crashes
@@ -361,7 +361,7 @@ Gecko платформа кодының нұсқасы
 
 
 ;The identifier of this add-on as defined by the add-on developer
-Қосымша өндірушімен анықталған қосымшаның анықтағышысы
+Қосымша өндірушімен анықталған қосымшаның анықтағышы
 
 
 ;The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
@@ -747,12 +747,12 @@ Firefox денсаулық есептемесі (FHR) браузеріңізді
 
 # This string is displayed when selecting Raw Data near the title
 ;Firefox Health Report (FHR) records anonymous data about your computer, configuration, usage, performance, and error conditions. This data helps us improve Firefox for you and for other Firefox users.
-Firefox Health Report (FHR) records anonymous data about your computer, configuration, usage, performance, and error conditions. This data helps us improve Firefox for you and for other Firefox users.
+Firefox денсаулық есептемесі (FHR) компьютеріңіз, баптаулар, қолданылуы, өнімділік және қателер шарттару туралы анонимды деректерді жинайды. Бұл деректер бізге Firefox-ты сіз және басқа да Firefox пайдаланушылары үшін жақсартуға көмектеседі.
 
 
 # This string is displayed when selecting Raw Data near the title
 # Links to https://gecko.readthedocs.org/en/latest/toolkit/components/telemetry/telemetry/
 ;Read technical documentation for the data format and fields.
-Read technical documentation for the data format and fields.
+Деректер пішімі және өрістері жөнінде техникалық құжаттаманы оқу.
 
 
