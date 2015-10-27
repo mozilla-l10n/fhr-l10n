@@ -60,12 +60,12 @@ mises à jour
 
 # Possible value for "updates"
 ;automatic
-automatique
+installer automatiquement
 
 
 # Possible value for "updates"
 ;prompt
-invite
+demander
 
 
 ;time open
@@ -97,7 +97,7 @@ Extensions {ok}
 
 
 ;Plugins (Click-to-Activate)
-Plugin (cliquer pour activer)
+Plugins (cliquer pour activer)
 
 
 ;crashes
