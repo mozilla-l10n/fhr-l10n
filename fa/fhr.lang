@@ -51,21 +51,21 @@
 
 
 ;update channel
-update channel
+کانال بروزرسانی
 
 
 ;updates
-updates
+بروزرسانی‌ها
 
 
 # Possible value for "updates"
 ;automatic
-automatic
+خودکار
 
 
 # Possible value for "updates"
 ;prompt
-prompt
+اعلان
 
 
 ;time open
@@ -85,19 +85,19 @@ prompt
 
 
 ;total sessions
-total sessions
+مجموع نشست‌ها
 
 
 ;Active Add-ons
-Active Add-ons
+افزودنی‌های فعال
 
 
 ;Extensions
-Extensions
+متصل‌شونده‌ها
 
 
 ;Plugins (Click-to-Activate)
-Plugins (Click-to-Activate)
+افزونه‌ها (برای فعال‌سازی کلیک کنید)
 
 
 ;crashes
@@ -169,7 +169,7 @@ Plugins (Click-to-Activate)
 
 
 ;pages visited
-صفحات مرور شده
+صفحات بازدید شده
 
 
 ;Your browser seems to be running slower than usual. To learn more:
@@ -747,12 +747,12 @@ xpcomabi: {ok}
 
 # This string is displayed when selecting Raw Data near the title
 ;Firefox Health Report (FHR) records anonymous data about your computer, configuration, usage, performance, and error conditions. This data helps us improve Firefox for you and for other Firefox users.
-Firefox Health Report (FHR) records anonymous data about your computer, configuration, usage, performance, and error conditions. This data helps us improve Firefox for you and for other Firefox users.
+گزارش سلامتی فایرفاکس (FHR) اطلاعاتی ناشناس، از جمله پیکربندی، استفاده، کارایی و موارد خطا را از رایانه شما ضبط می‌کند. این اطلاعات به ما کمک می‌کند که فایرفاکس را برای شما و باقی کاربران فایرفاکس بهبود بخشیم.
 
 
 # This string is displayed when selecting Raw Data near the title
 # Links to https://gecko.readthedocs.org/en/latest/toolkit/components/telemetry/telemetry/
 ;Read technical documentation for the data format and fields.
-Read technical documentation for the data format and fields.
+مستندات تکنیکی مربوط به قالب اطلاعات و فیلدها را بخوانید.
 
 
