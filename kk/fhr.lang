@@ -3,15 +3,15 @@
 
 
 ;Firefox Health Report
-Firefox деңсаулығы жөніндегі есебі
+Firefox денсаулығы жөніндегі есебі
 
 
 ;Raw Data
-Шикі мәліметтер
+Өңделмеген мәліметтер
 
 
 ;Get insights and performance information about your version of Firefox.
-Сіздің Firefox нұсқасы жөнінде өнімділік ақпаратын біліңіз.
+Өзіңіздің Firefox нұсқасы жөнінде өнімділік ақпаратын біліңіз.
 
 
 ;Learn more...
@@ -31,7 +31,7 @@ Firefox деңсаулығы жөніндегі есебі
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
-Сіздің браузердің деңсаулық есебі Mozilla серверлерінен де өшіріледі. Көбірек білу үшін, біздің <a href="%(privacy_url)s">жекелік саясатын</a> оқыңыз.
+Сіздің браузердің денсаулық есебі Mozilla серверлерінен де өшіріледі. Көбірек білу үшін, біздің <a href="%(privacy_url)s">жекелік саясатын</a> оқыңыз.
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
@@ -105,11 +105,11 @@ Plugins (Click-to-Activate)
 
 
 ;application crashes
-application crashes
+қолданба құлаулары
 
 
 ;plugin crashes
-plugin crashes
+плагиндер құлаулары
 
 
 ;Add-ons
@@ -133,15 +133,15 @@ plugin crashes
 
 
 ;always activate
-always activate
+әрқашан белсендіру
 
 
 ;ask to activate
-ask to activate
+белсендіру үшін сұрау
 
 
 ;never activate
-never activate
+ешқашан белсендірмеу
 
 
 ;Tips
@@ -209,11 +209,11 @@ never activate
 
 
 ;What the Firefox Health Report Measures
-Firefox-тың деңсаулығы жөніндегі есептер нені өлшейді
+Firefox-тың денсаулығы жөніндегі есептемелер нені өлшейді
 
 
 ;The Firefox Health Report (FHR) has 4 categories of metrics:
-Firefox-тың деңсаулығы жөніндегі есептерінде (FHR) өлшемдердің 4 санаты бар:
+Firefox-тың денсаулығы жөніндегі есептемелерінде (FHR) өлшемдердің 4 санаты бар:
 
 
 ;Configuration
@@ -237,7 +237,7 @@ Firefox-тың деңсаулығы жөніндегі есептерінде (F
 
 
 ;Timing of browser events, rendering, session restores
-Браузер оқиғалары, рендеринг, сессияларды қалпына келтіру
+Браузер оқиғалары, рендеринг, сессияларды қалпына келтіру уақыттары
 
 
 ;Length of session, how old a profile is, count of crashes, count of pages
@@ -301,7 +301,7 @@ XPCOM үшін бинарлы интерфейсі
 
 
 ;Number of processor cores
-Процессор ядролар саны
+Процессор ядроларының саны
 
 
 ;Whether the application is currently configured to be the default browser for the operating system
@@ -461,7 +461,7 @@ Gecko платформа кодының нұсқасы
 
 
 ;Welcome to your Firefox Health Report
-Firefox деңсаулығы жөніндегі есепке қош келдіңіз
+Firefox денсаулығы жөніндегі есепке қош келдіңіз
 
 
 ;Welcome!
@@ -469,11 +469,11 @@ Firefox деңсаулығы жөніндегі есепке қош келдің
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
-Firefox деңсаулығы жөніндегі есеп сізге Firefox өз жұмысын қалай орындап жатқанын, және оны жақсарту жолдарын көрсетеді.
+Firefox денсаулық есептемесі сізге Firefox өз жұмысын қалай орындап жатқанын, және оны жақсарту жолдарын көрсетеді.
 
 
 ;See My Report
-Менің есебімді қарау
+Менің есептемемді қарау
 
 
 ;Time (in seconds)
@@ -490,259 +490,259 @@ Firefox деңсаулығы жөніндегі есеп сізге Firefox өз
 
 # The following strings are used only in the Mobile version of about:healthreport (Firefox for Android)
 ;Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
-Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
+Firefox денсаулық есептемесі сізге Firefox-ты ығайлату және бізге жақсырақ браузерді жасауға көмектеседі. Есептемелер басында қарапайым болады, бірақ, кейін дамып, өсіп келетін болады.
 
 
 ;Learn More&hellip;
-Learn More&hellip;
+Көбірек білу&hellip;
 
 
 ;Tip
-Tip
+Кеңес
 
 
 ;Looks like your Firefox is brand new! Check back after using Firefox for a while.
-Looks like your Firefox is brand new! Check back after using Firefox for a while.
+Сіздің Firefox-ңыз жап-жаңа сияқты! Firefox-ты біраз қолданып, содан кейін қайта оралыңыз.
 
 
 ;Important Metrics
-Important Metrics
+Маңызды өлшемдер
 
 
 ;Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
-Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
+Firefox денсаулық есептемесі браузер және құрылғыңыз ақпаратын жазып отырады. Сіз <a href="#raw" class="navigate">біз жазатын ақпаратты көре аласыз.</a> Сонымен қатар, Mozilla-мен немен бөлісетініңізді біле аласыз.
 
 
 ;Device hardware, operating system, Firefox version.
-Device hardware, operating system, Firefox version.
+Құрылғы ақпараты, операциялық жүйесі, Firefox нұсқасы.
 
 
 ;Extensions, plugins, and number of installed add-ons.
-Extensions, plugins, and number of installed add-ons.
+Кеңейтулер, плагиндер, және орнатылған қосымшалар.
 
 
 ;Key performance measures, such as launch speed.
-Key performance measures, such as launch speed.
+Жөнелту жылдамдығы сияқты маңызды өнімділік көрсеткіштері.
 
 
 ;Browsing duration, install time, number of bookmarks and pages.
-Browsing duration, install time, number of bookmarks and pages.
+Шолу ұзақтығы, орнату уақыты, бетбелгілер және беттер саны.
 
 
 ;Home
-Home
+Басы
 
 
 ;CPU Count:
-CPU Count:
+Процессорлар саны:
 
 
 ;The number of CPU cores reported by Android.
-The number of CPU cores reported by Android.
+Android деректері бойынша процессор ядроларының саны.
 
 
 ;Memory in MB:
-Memory in MB:
+МБ есебімен жады:
 
 
 ;The amount of memory reported by Android. Typically excludes graphics memory.
-The amount of memory reported by Android. Typically excludes graphics memory.
+Android деректері бойынша жады шамасы. Әдетте графика жадысы есепке алынбайды.
 
 
 ;Application Name:
-Application Name:
+Қолданба атауы:
 
 
 ;The internal application name for the browser.
-The internal application name for the browser.
+Браузердің ішкі қолданба атауы.
 
 
 ;Application ID:
-Application ID:
+Қолданба анықтағышы:
 
 
 ;The internal identifier for the application.
-The internal identifier for the application.
+Қолданбаның ішкі анықтағышы.
 
 
 ;Application Version:
-Application Version:
+Қолданба нұсқасы:
 
 
 ;The current version of the browser
-The current version of the browser
+Браузердің ағымдағы нұсқасы
 
 
 ;Application Build ID:
-Application Build ID:
+Қолданбаның жиналу анықтағышы:
 
 
 ;The internal build timestamp.
-The internal build timestamp.
+Жиналудың ішкі уақыт белгісі.
 
 
 ;Update Channel:
-Update Channel:
+Жаңарту арнасы:
 
 
 ;Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
-Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
+Firefox арналар арқылы таратылады: Nightly жинақтары, Aurora шығарылымға дейінгі арна, тұрақты Beta, және публикалық шығарылым. Бұл өріс арнаны сипаттайды.
 
 
 ;Vendor:
-Vendor:
+Жасап шығарушы:
 
 
 ;The organization that built this application. Typically Mozilla.
-The organization that built this application. Typically Mozilla.
+Бұл қолданбаны жинаған ұйым. Әдетте Mozilla.
 
 
 ;Platform Version:
-Platform Version:
+Платформа нұсқасы:
 
 
 ;An internal version identifier. Typically the same as appVersion.
-An internal version identifier. Typically the same as appVersion.
+Нұсқасының ішкі анықтағышы. Әдетте appVersion мәнімен бірдей.
 
 
 ;Platform Build ID:
-Platform Build ID:
+Платформаның жиналу анықтағышы:
 
 
 ;On Android this is an alternative name for appBuildID.
-On Android this is an alternative name for appBuildID.
+Android-ты бұл appBuildID үшін балама аты болып табылады.
 
 
 ;xpcomabi:
-xpcomabi:
+xpcomabi: {ok}
 
 
 ;The CPU architecture for which this application was built.
-The CPU architecture for which this application was built.
+Бұл қолданба қай процессор архитектурасы үшін жиналғанын көрсетеді.
 
 
 ;OS:
-OS:
+ОЖ:
 
 
 ;The current operating system.
-The current operating system.
+Ағымдағы операциялық жүйесі.
 
 
 ;Architecture:
-Architecture:
+Архитектура:
 
 
 ;The CPU architecture for this device.
-The CPU architecture for this device.
+Бұл құрылғының процессор архитектурасы.
 
 
 ;System Name:
-System Name:
+Жүйе атауы:
 
 
 ;The current system name.
-The current system name.
+Жүйенің ағымдағы атауы.
 
 
 ;System Version:
-System Version:
+Жүйе нұсқасы:
 
 
 ;The Android OS revision.
-The Android OS revision.
+Android ОЖ нұсқасы.
 
 
 ;Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
-Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
+Firefox сіздің зиянды қосымшалардан қорғау мақсатында қосымшалардың блоктізімін алып отыра ма. Үнсіз келісім бойынша іске қосылған.
 
 
 ;Telemetry Enabled:
-Telemetry Enabled:
+Телеметрия іске қосылған:
 
 
 ;Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
-Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
+Өндіруге көмектесу үшін Firefox қолданылу ақпаратымен бөлісе ме. Арналардың көбі үшін үнсіз келісім бойынша сөндірілген.
 
 
 ;Extension Count:
-Extension Count:
+Кеңейтулер саны:
 
 
 ;How many extension add-ons are installed.
-How many extension add-ons are installed.
+Қанша кеңейту қосымшасы орнатылған.
 
 
 ;Plugin Count:
-Plugin Count:
+Плагиндер саны:
 
 
 ;How many plugin add-ons are installed.
-How many plugin add-ons are installed.
+Қанша плагин қосымшасы орнатылған.
 
 
 ;Theme Count:
-Theme Count:
+Темалар саны:
 
 
 ;How many theme add-ons are installed.
-How many theme add-ons are installed.
+Қанша тема қосымшасы орнатылған.
 
 
 ;Addons:
-Addons:
+Қосымшалар:
 
 
 ;A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
-A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
+Орнатылған қосымшаларды сипаттайтын жинақ. Қосымшалардың барлығы бірдей кірмейді: тек плагиндер, кеңейтулер және қызметтер.
 
 
 ;Search Counts:
-Search Counts:
+Іздеулер саны:
 
 
 ;A count of how many searches you issued to each of Mozilla's partner providers.
-A count of how many searches you issued to each of Mozilla's partner providers.
+Әр Mozilla серіктес ұсынушысында қанша іздеу жасағансыз.
 
 
 ;Sessions and Startup Times
-Sessions and Startup Times
+Сессиялар және іске қосылу уақыттары
 
 
 ;For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
-For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
+Әр шолу сессиясы үшін, Firefox денсаулық есептемесі сіздің шамамен шолу уақыты ұзақтығын (секундпен), және сессия қалыпты бітті ме, немесе құлады ма, соны жазып отырады. Сонымен қатар, қолжетерлік болса, іске қосылу уақыт ұзақтығын (миллисекундпен) сақтайды.
 
 
 ;Profile Creation:
-Profile Creation:
+Профиль жасалуы:
 
 
 ;The day on which your browser profile was created. Counted in days since January 1st 1970.
-The day on which your browser profile was created. Counted in days since January 1st 1970.
+Браузер профилі жасалған күні. 1970 жылдың 1-ші қаңтарынан өткен күн санымен саналады.
 
 
 ;Learn More
-Learn More
+Көбірек білу
 
 
 ;Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
-Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
+Firefox денсаулық есептемесі (FHR) браузеріңіздің өнімділік ақпаратын сізге Firefox-тан көбірек алуға көмектесуге арналған пайдалы кеңестерді ұсыну үшін зерттейді. Firefox денсаулық есептемесі туралы көбірек білу үшін, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>Mozilla қолдау санатын</a> шолыңыз.
 
 
 ;For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
-For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
+Сіздің деректеріңізді біз қалай өңдейтініміз туралы <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>жекелік саясатымыз</a> ішінен біліңіз.
 
 
 ;You are currently sharing your health report with Mozilla.
-You are currently sharing your health report with Mozilla.
+Сіз ағымдағы уақытта Mozilla-мен денсаулық есептемесімен бөлісесіз.
 
 
 ;Choose what I share
-Choose what I share
+Мен немен бөлісетінімді таңдау
 
 
 ;You are currently not sharing your health report with Mozilla.
-You are currently not sharing your health report with Mozilla.
+Сіз ағымдағы уақытта Mozilla-мен денсаулық есептемесімен бөліспейсіз.
 
 
 # This string is displayed when selecting Raw Data near the title
