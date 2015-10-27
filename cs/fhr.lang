@@ -753,6 +753,6 @@ Hlášení o zdraví Firefoxu (Firefox Health Report, FHR) zaznamenává anonymn
 # This string is displayed when selecting Raw Data near the title
 # Links to https://gecko.readthedocs.org/en/latest/toolkit/components/telemetry/telemetry/
 ;Read technical documentation for the data format and fields.
-Read technical documentation for the data format and fields.
+Pro více informací o formátu dat a uvedených polích si přečtěte technickou dokumentaci.
 
 
