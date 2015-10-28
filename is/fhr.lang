@@ -51,21 +51,21 @@ Mikilvægar upplýsingar
 
 
 ;update channel
-update channel
+uppfærslurás
 
 
 ;updates
-updates
+uppfærslur
 
 
 # Possible value for "updates"
 ;automatic
-automatic
+sjálfvirkt
 
 
 # Possible value for "updates"
 ;prompt
-prompt
+spyrja
 
 
 ;time open
@@ -85,19 +85,19 @@ bókamerki
 
 
 ;total sessions
-total sessions
+fjöldi lota
 
 
 ;Active Add-ons
-Active Add-ons
+Virkar viðbætur
 
 
 ;Extensions
-Extensions
+Viðbætur
 
 
 ;Plugins (Click-to-Activate)
-Plugins (Click-to-Activate)
+Tengiforrit (Smelltu til að virkja)
 
 
 ;crashes
@@ -747,12 +747,12 @@ Velja hverju ég vill deila
 
 # This string is displayed when selecting Raw Data near the title
 ;Firefox Health Report (FHR) records anonymous data about your computer, configuration, usage, performance, and error conditions. This data helps us improve Firefox for you and for other Firefox users.
-Firefox Health Report (FHR) records anonymous data about your computer, configuration, usage, performance, and error conditions. This data helps us improve Firefox for you and for other Firefox users.
+Firefox Health Report (FHR) skráir niður ópersónuleg gögn um tölvuna þína, stillingar, notkun, afkastagetu, og villur. Þessi gögn hjálpa okkur að gera Firefox betri fyrir þig og aðra Firefox notendur.
 
 
 # This string is displayed when selecting Raw Data near the title
 # Links to https://gecko.readthedocs.org/en/latest/toolkit/components/telemetry/telemetry/
 ;Read technical documentation for the data format and fields.
-Read technical documentation for the data format and fields.
+Lestu tæknilega skjölun fyrir gagnasniðið og gagnasvæði.
 
 
