@@ -51,21 +51,21 @@ versión
 
 
 ;update channel
-update channel
+actualizar canal
 
 
 ;updates
-updates
+actualizaciones
 
 
 # Possible value for "updates"
 ;automatic
-automatic
+automáticas
 
 
 # Possible value for "updates"
 ;prompt
-prompt
+preguntar
 
 
 ;time open
@@ -85,19 +85,19 @@ Este mes
 
 
 ;total sessions
-total sessions
+sesiones totales
 
 
 ;Active Add-ons
-Active Add-ons
+Complementos activos
 
 
 ;Extensions
-Extensions
+Extensiones
 
 
 ;Plugins (Click-to-Activate)
-Plugins (Click-to-Activate)
+Plugins (Clic-para-activar)
 
 
 ;crashes
@@ -747,12 +747,11 @@ Actualmente no comparte su informe de salud con Mozilla
 
 # This string is displayed when selecting Raw Data near the title
 ;Firefox Health Report (FHR) records anonymous data about your computer, configuration, usage, performance, and error conditions. This data helps us improve Firefox for you and for other Firefox users.
-Firefox Health Report (FHR) records anonymous data about your computer, configuration, usage, performance, and error conditions. This data helps us improve Firefox for you and for other Firefox users.
-
+El Informe de salud de Firefox registra datos anónimos sobre su equipo, configuración, uso, rendimiento y condiciones de error. Estos datos nos ayudan a mejorar Firefox para usted y para otros usuarios de Firefox.
 
 # This string is displayed when selecting Raw Data near the title
 # Links to https://gecko.readthedocs.org/en/latest/toolkit/components/telemetry/telemetry/
 ;Read technical documentation for the data format and fields.
-Read technical documentation for the data format and fields.
+Lea la documentación técnica para los campos y el formato de los datos.
 
 
