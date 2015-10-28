@@ -31,7 +31,7 @@ Keni zgjedhur të reshtë ndarja e të dhënave me Mozilla-n, por prapë do të 
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
-Të dhënat tuaja për Raportin Mbi Shëndetin do të hiqen prej shërbyesve të Mozilla-s po ashtu. Mësoni më tepër rreth kësaj te <a href="%(privacy_url)s">rregullat tona për privatësinë.</a>
+Të dhënat tuaja për Raportin Mbi Shëndetin do të hiqen edhe prej shërbyesve të Mozilla-s. Mësoni më tepër rreth kësaj te <a href="%(privacy_url)s">rregullat tona për privatësinë.</a>
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
@@ -39,7 +39,7 @@ Keni zgjedhur të ndani herë pas here të dhënat tuaja me Mozilla-n. Faleminde
 
 
 ;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
-Mësoni te <a href="%(privacy_url)s">rregullat tona mbi privatësinë</a> se si t'i trajtoni të dhënat tuaja.
+Mësoni te <a href="%(privacy_url)s">rregullat tona mbi privatësinë</a> se si i trajtojmë të dhënat tuaja.
 
 
 ;Vital Stats
@@ -51,21 +51,21 @@ version {ok}
 
 
 ;update channel
-update channel
+kanal përditësimesh
 
 
 ;updates
-updates
+përditësime
 
 
 # Possible value for "updates"
 ;automatic
-automatic
+vetvetiu
 
 
 # Possible value for "updates"
 ;prompt
-prompt
+pyet
 
 
 ;time open
@@ -85,19 +85,19 @@ Këtë Muaj
 
 
 ;total sessions
-total sessions
+sesione gjithsej
 
 
 ;Active Add-ons
-Active Add-ons
+Shtesa Aktive
 
 
 ;Extensions
-Extensions
+Zgjerime
 
 
 ;Plugins (Click-to-Activate)
-Plugins (Click-to-Activate)
+Shtojca (Klikoni që të aktivizohet)
 
 
 ;crashes
@@ -161,7 +161,7 @@ OFF {ok}
 
 
 ;Visit our <a href="%(sumo_url)s">support website</a>
-Vizitoni <a href="%(sumo_url)s">site-in tonë web të asistencës</a>
+Vizitoni <a href="%(sumo_url)s">sajtin tonë të asistencës</a>
 
 
 ;View more <a href="%(details_url)s">detailed information</a>
@@ -530,7 +530,7 @@ Kohëzgjatje shfletimi, kohë instalimi, numër faqerojtësish dhe faqesh.
 
 
 ;Home
-Hyrje
+Kreu
 
 
 ;CPU Count:
@@ -747,12 +747,12 @@ Hëpërhë nuk e ndani me Mozilla-n raportin tuaj të shëndetit.
 
 # This string is displayed when selecting Raw Data near the title
 ;Firefox Health Report (FHR) records anonymous data about your computer, configuration, usage, performance, and error conditions. This data helps us improve Firefox for you and for other Firefox users.
-Firefox Health Report (FHR) records anonymous data about your computer, configuration, usage, performance, and error conditions. This data helps us improve Firefox for you and for other Firefox users.
+Raporti Mbi Shëndetin e Firefox-it (FHR) regjistron të dhëna anonime mbi kompjuterin tuaj, formësimin e tij, përdorimin, punimin dhe kushte gabimesh. Këto të dhëna na ndihmojnë të përmirësojmë Firefox-in për ju dhe për të tjerë përdorues të Firefox-it.
 
 
 # This string is displayed when selecting Raw Data near the title
 # Links to https://gecko.readthedocs.org/en/latest/toolkit/components/telemetry/telemetry/
 ;Read technical documentation for the data format and fields.
-Read technical documentation for the data format and fields.
+Rreth formatesh dhe fushash të dhënash lexoni dokumentimin.
 
 
