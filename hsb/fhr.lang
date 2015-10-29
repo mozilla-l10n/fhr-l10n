@@ -51,21 +51,21 @@ wersija
 
 
 ;update channel
-update channel
+aktualizowanski kanal
 
 
 ;updates
-updates
+aktualizacije
 
 
 # Possible value for "updates"
 ;automatic
-automatic
+awtomatiski
 
 
 # Possible value for "updates"
 ;prompt
-prompt
+namołwa
 
 
 ;time open
@@ -85,19 +85,19 @@ Tutón měsac
 
 
 ;total sessions
-total sessions
+posedźenja dohromady
 
 
 ;Active Add-ons
-Active Add-ons
+Aktiwne přidatki
 
 
 ;Extensions
-Extensions
+Rozšěrjenja
 
 
 ;Plugins (Click-to-Activate)
-Plugins (Click-to-Activate)
+Tykače (klikńće, zo byšće aktiwizował)
 
 
 ;crashes
@@ -747,12 +747,12 @@ Tuchwilu njedźěliće swoju statusowu rozprawu z Mozilla.
 
 # This string is displayed when selecting Raw Data near the title
 ;Firefox Health Report (FHR) records anonymous data about your computer, configuration, usage, performance, and error conditions. This data helps us improve Firefox for you and for other Firefox users.
-Firefox Health Report (FHR) records anonymous data about your computer, configuration, usage, performance, and error conditions. This data helps us improve Firefox for you and for other Firefox users.
+Firefox Health Report (FHR) zběra anonymne daty wo wašim ličaku, konfiguraciji, wužiću, wukonje a zmylkowe wuměnjenja. Tute daty nam pomhaja, Firefox za was a druhich wužiwarjow Firefox polěpšić.
 
 
 # This string is displayed when selecting Raw Data near the title
 # Links to https://gecko.readthedocs.org/en/latest/toolkit/components/telemetry/telemetry/
 ;Read technical documentation for the data format and fields.
-Read technical documentation for the data format and fields.
+Čitajće technisku dokumentaciju za datowy format a datowe pola.
 
 
