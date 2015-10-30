@@ -93,7 +93,7 @@ Firefox ヘルスレポート
 
 
 ;Extensions
-拡張
+拡張機能
 
 
 ;Plugins (Click-to-Activate)
@@ -747,7 +747,7 @@ Mozilla があなたのデータをどう扱うかについては、<a href="htt
 
 # This string is displayed when selecting Raw Data near the title
 ;Firefox Health Report (FHR) records anonymous data about your computer, configuration, usage, performance, and error conditions. This data helps us improve Firefox for you and for other Firefox users.
-Firefox Health Report (FHR) は、パフォーマンス、ハードウェア、使用状況、設定を匿名化し記録します。これらは Firefox をよりよくするために使用されます。
+Firefox ヘルスレポート (FHR) は、パフォーマンス、ハードウェア、使用状況、設定を匿名化し記録します。これらは Firefox をよりよくするために使用されます。
 
 
 # This string is displayed when selecting Raw Data near the title
