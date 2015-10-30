@@ -31,7 +31,7 @@ Wyłączasz udostępnianie danych Mozilli, ale nadal możesz zbadać wydajność
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
-Dane z twojego raportu o zdrowiu zostaną też usunięte z serwerów Mozilli. Więcej informacji znajdziesz w naszej <a href="%(privacy_url)s">polityce prywatności.</a>
+Dane z Twojego raportu o zdrowiu zostaną też usunięte z serwerów Mozilli. Więcej informacji znajdziesz w naszej <a href="%(privacy_url)s">polityce prywatności.</a>
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
@@ -39,7 +39,7 @@ Dziękujemy za wyrażenie zgody na udostępnianie Mozilli od czasu do czasu swoi
 
 
 ;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
-Z naszej <a href="%(privacy_url)s">polityki prywatności</a> dowiesz się, jak wykorzystujemy twoje dane.
+Z naszej <a href="%(privacy_url)s">polityki prywatności</a> dowiesz się, jak wykorzystujemy Twoje dane.
 
 
 ;Vital Stats
@@ -51,21 +51,21 @@ Wersja
 
 
 ;update channel
-update channel
+Kanał aktualizacji
 
 
 ;updates
-updates
+Aktualizacje
 
 
 # Possible value for "updates"
 ;automatic
-automatic
+Automatyczne
 
 
 # Possible value for "updates"
 ;prompt
-prompt
+Wymagane potwierdzenie
 
 
 ;time open
@@ -85,19 +85,19 @@ W tym miesiącu
 
 
 ;total sessions
-total sessions
+Razem sesji
 
 
 ;Active Add-ons
-Active Add-ons
+Aktywne dodatki
 
 
 ;Extensions
-Extensions
+Rozszerzenia
 
 
 ;Plugins (Click-to-Activate)
-Plugins (Click-to-Activate)
+Wtyczki (pytanie o aktywację)
 
 
 ;crashes
@@ -133,15 +133,15 @@ Wtyczki
 
 
 ;always activate
-Zawsze uruchamiane
+Zawsze aktywowane
 
 
 ;ask to activate
-Uruchamiane na życzenie
+Pytanie o aktywację
 
 
 ;never activate
-Nigdy nie uruchamiane
+Nigdy nie aktywowane
 
 
 ;Tips
@@ -469,7 +469,7 @@ Witaj!
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
-Raport o zdrowiu Firefoksa pozwala dowiedzieć się, jak wydajnie działa twoja przeglądarka i jak możesz ulepszyć jej działanie.
+Raport o zdrowiu Firefoksa pozwala dowiedzieć się, jak wydajnie działa Twoja przeglądarka i jak możesz ulepszyć jej działanie.
 
 
 ;See My Report
@@ -510,7 +510,7 @@ Ważne informacje
 
 
 ;Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
-Raport o zdrowiu Firefoksa zbiera informacje o twojej przeglądarce i sprzęcie. Możesz <a href="#raw" class="navigate">przejrzeć zbierane przez nas dane.</a> Możesz też sprawdzić, co udostępniasz Mozilli.
+Raport o zdrowiu Firefoksa zbiera informacje o Twojej przeglądarce i sprzęcie. Możesz <a href="#raw" class="navigate">przejrzeć zbierane przez nas dane.</a> Możesz też sprawdzić, co udostępniasz Mozilli.
 
 
 ;Device hardware, operating system, Firefox version.
@@ -730,7 +730,7 @@ Raport o zdrowiu Firefoksa analizuje informacje o wydajności przeglądarki, a
 
 
 ;For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
-Aby dowiedzieć się więcej o tym, co robimy z twoimi danymi, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>przeczytaj naszą politykę prywatności.</a>
+Aby dowiedzieć się więcej o tym, co robimy z Twoimi danymi, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>przeczytaj naszą politykę prywatności.</a>
 
 
 ;You are currently sharing your health report with Mozilla.
@@ -747,12 +747,12 @@ Obecnie nie udostępniasz Mozilli swojego raportu o zdrowiu.
 
 # This string is displayed when selecting Raw Data near the title
 ;Firefox Health Report (FHR) records anonymous data about your computer, configuration, usage, performance, and error conditions. This data helps us improve Firefox for you and for other Firefox users.
-Firefox Health Report (FHR) records anonymous data about your computer, configuration, usage, performance, and error conditions. This data helps us improve Firefox for you and for other Firefox users.
+Raport o zdrowiu Firefoksa zbiera anonimowe dane o Twoim komputerze, konfiguracji, użyciu przeglądarki, wydajności i błędach. Pomaga nam to ulepszać Firefoksa dla wszystkich użytkowników.
 
 
 # This string is displayed when selecting Raw Data near the title
 # Links to https://gecko.readthedocs.org/en/latest/toolkit/components/telemetry/telemetry/
 ;Read technical documentation for the data format and fields.
-Read technical documentation for the data format and fields.
+Dokumentacja techniczna zawiera informacje o formacie danych i znaczeniu poszczególnych wartości.
 
 
