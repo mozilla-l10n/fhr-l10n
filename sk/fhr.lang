@@ -51,21 +51,21 @@ verzia
 
 
 ;update channel
-update channel
+aktualizačný kanál
 
 
 ;updates
-updates
+aktualizácie
 
 
 # Possible value for "updates"
 ;automatic
-automatic
+automatické
 
 
 # Possible value for "updates"
 ;prompt
-prompt
+spýtať sa
 
 
 ;time open
@@ -85,19 +85,19 @@ Tento mesiac
 
 
 ;total sessions
-total sessions
+relácií celkovo
 
 
 ;Active Add-ons
-Active Add-ons
+Aktívne doplnky
 
 
 ;Extensions
-Extensions
+Rozšírenia
 
 
 ;Plugins (Click-to-Activate)
-Plugins (Click-to-Activate)
+Zásuvné moduly (spustiť na požiadanie)
 
 
 ;crashes
@@ -747,12 +747,12 @@ Aktuálne nezdieľate údaje o kondícii so spoločnosťou Mozilla.
 
 # This string is displayed when selecting Raw Data near the title
 ;Firefox Health Report (FHR) records anonymous data about your computer, configuration, usage, performance, and error conditions. This data helps us improve Firefox for you and for other Firefox users.
-Firefox Health Report (FHR) records anonymous data about your computer, configuration, usage, performance, and error conditions. This data helps us improve Firefox for you and for other Firefox users.
+Hlásenie o zdraví Firefoxu (Firefox Health Report, FHR) zaznamenáva anonymné údaje o vašom počítači, konfigurácii, používaní, výkone a chybách. Tieto údaje nám pomáhajú vylepšiť Firefox pre vás a pre ďalších používateľov Firefoxu.
 
 
 # This string is displayed when selecting Raw Data near the title
 # Links to https://gecko.readthedocs.org/en/latest/toolkit/components/telemetry/telemetry/
 ;Read technical documentation for the data format and fields.
-Read technical documentation for the data format and fields.
+Pre viac informácií o formáte údajov a uvedených poliach si prečítajte technickú dokumentáciu.
 
 
