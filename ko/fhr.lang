@@ -747,12 +747,12 @@ Firefox 상태 검사 보고서(FHR)는 최상의 Firefox 사용 경험을 위�
 
 # This string is displayed when selecting Raw Data near the title
 ;Firefox Health Report (FHR) records anonymous data about your computer, configuration, usage, performance, and error conditions. This data helps us improve Firefox for you and for other Firefox users.
-Firefox Health Report (FHR) records anonymous data about your computer, configuration, usage, performance, and error conditions. This data helps us improve Firefox for you and for other Firefox users.
+Firefox 상태 보고서(Firefox Health Report)는 컴퓨터 내 설정, 사용량, 성능 및 오류 조건에 대한 기능을 무명으로 기록합니다. 이 데이터들은 Firefox의 기능을 향상하는 통계 데이터로 활용합니다.
 
 
 # This string is displayed when selecting Raw Data near the title
 # Links to https://gecko.readthedocs.org/en/latest/toolkit/components/telemetry/telemetry/
 ;Read technical documentation for the data format and fields.
-Read technical documentation for the data format and fields.
+데이터 형식 및 항목에 대한 기술 문서
 
 
