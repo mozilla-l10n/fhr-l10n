@@ -15,11 +15,11 @@ Krij ynsicht en prestaasje-ynformaasje oer jo ferzje fan Firefox.
 
 
 ;Learn more...
-Mear ynformaasje&hellip;
+Mear ynformaasje…
 
 
 ;Data Sharing
-Gegevens diele
+Gegevensdieling
 
 
 ;ON
@@ -51,21 +51,21 @@ ferzje
 
 
 ;update channel
-update channel
+fernijingskanaal
 
 
 ;updates
-updates
+fernijingen
 
 
 # Possible value for "updates"
 ;automatic
-automatic
+automatysk
 
 
 # Possible value for "updates"
 ;prompt
-prompt
+freegje
 
 
 ;time open
@@ -85,19 +85,19 @@ Dizze moanne
 
 
 ;total sessions
-total sessions
+totale sesjes
 
 
 ;Active Add-ons
-Active Add-ons
+Aktive add-ons
 
 
 ;Extensions
-Extensions
+Utwreidingen
 
 
 ;Plugins (Click-to-Activate)
-Plugins (Click-to-Activate)
+Ynstekkers (Klikke-foar-aktivaasje)
 
 
 ;crashes
@@ -301,7 +301,7 @@ De aktuele ferzje fan it produkt
 
 
 ;Number of processor cores
-Oantal processorkearnen
+Oantal prosessorkearnen
 
 
 ;Whether the application is currently configured to be the default browser for the operating system
@@ -747,12 +747,12 @@ Op dit stuit diele jo jo sûnensrapport net mei Mozilla.
 
 # This string is displayed when selecting Raw Data near the title
 ;Firefox Health Report (FHR) records anonymous data about your computer, configuration, usage, performance, and error conditions. This data helps us improve Firefox for you and for other Firefox users.
-Firefox Health Report (FHR) records anonymous data about your computer, configuration, usage, performance, and error conditions. This data helps us improve Firefox for you and for other Firefox users.
+It Firefox-steatrapport (FHR) leit anonime gegevens fêst oer jo kompjûter, konfiguraasje, gebrûk, prestaasjes en flaterkondysjes. Dizze gegevens helpe ús Firefox foar jo en foar oare Firefox-brûkers te ferbetterjen.
 
 
 # This string is displayed when selecting Raw Data near the title
 # Links to https://gecko.readthedocs.org/en/latest/toolkit/components/telemetry/telemetry/
 ;Read technical documentation for the data format and fields.
-Read technical documentation for the data format and fields.
+Lês technyske dokumintaasje oer de gegevensyndieling en -fjilden.
 
 
