@@ -27,7 +27,7 @@ aktiva
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
-Vi decidis ne plu dividi datumojn kun Mozilla, sed vi povos vidi kiel fartas via retesplorilo.
+Vi decidis ne plu dividi datumojn kun Mozilla, sed vi povos vidi kiel fartas via retumilo.
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
@@ -51,21 +51,21 @@ versio
 
 
 ;update channel
-update channel
+ĝisdatiga kanalo
 
 
 ;updates
-updates
+ĝisdatigoj
 
 
 # Possible value for "updates"
 ;automatic
-automatic
+aŭtomate
 
 
 # Possible value for "updates"
 ;prompt
-prompt
+demandi
 
 
 ;time open
@@ -85,19 +85,19 @@ legosignoj
 
 
 ;total sessions
-total sessions
+nombro de seancoj
 
 
 ;Active Add-ons
-Active Add-ons
+Aktivaj aldonaĵoj
 
 
 ;Extensions
-Extensions
+Etendaĵoj
 
 
 ;Plugins (Click-to-Activate)
-Plugins (Click-to-Activate)
+Komprogramoj (alklaku-por-aktivigi)
 
 
 ;crashes
@@ -153,7 +153,7 @@ Eluzado
 
 
 ;It looks like your browser has crashed a number of times recently. To learn more:
-Ŝajnas ke via retesplorilo multe paneis lastatempe. Pli da informo:
+Ŝajnas ke via retumilo multe paneis lastatempe. Pli da informo:
 
 
 ;OFF
@@ -173,11 +173,11 @@ vizititaj paĝoj
 
 
 ;Your browser seems to be running slower than usual. To learn more:
-Via retesplorilo ŝajnas ruli siajn taskojn pli malrapide ol kutime. Pli da informo:
+Via retumilo ŝajnas ruli siajn taskojn pli malrapide ol kutime. Pli da informo:
 
 
 ;You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
-Ju pli vi uzos la retesplorilon des pli interesa kaj detala estos la informo. Kontrolu denove post unu aŭ du semajnoj kaj vi ekvidos tendencojn.
+Ju pli vi uzos la retumilon des pli interesa kaj detala estos la informo. Kontrolu denove post unu aŭ du semajnoj kaj vi ekvidos tendencojn.
 
 
 ;Startup Time by Day
@@ -237,7 +237,7 @@ Efikeco
 
 
 ;Timing of browser events, rendering, session restores
-Mezuroj pri la funkciado de la retesplorilo, montrado, restartigo de seancoj
+Mezuroj pri la funkciado de la retumilo, montrado, restartigo de seancoj
 
 
 ;Length of session, how old a profile is, count of crashes, count of pages
@@ -305,7 +305,7 @@ Nombro de kernoj en ĉeftraktilo
 
 
 ;Whether the application is currently configured to be the default browser for the operating system
-Ĉu la programo estas nun la norma retesplorilo por la mastruma sistemo
+Ĉu la programo estas nun la norma retumilo por la mastruma sistemo
 
 
 ;Locale currently being used
@@ -397,11 +397,11 @@ Milonsekundoj bezonataj dum starto de la programo por desegni la fasadon kaj mon
 
 
 ;How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
-Milonsekundoj bezonataj dum starto de la programo por la ŝargado de bibliotekoj kaj bazajn valorojn
+Milisekundoj bezonataj dum starto de la programo por la ŝargado de bibliotekoj kaj bazajn valorojn
 
 
 ;How long in milliseconds it took during startup for the application to restore tabs from the previous session
-Milonsekundoj bezonataj dum starto de la programo por restartigi langetojn de la antaŭa seanco
+Milisekundoj bezonataj dum starto de la programo por restartigi langetojn de la antaŭa seanco
 
 
 ;The number of times the application was run and not cleanly shut down.
@@ -718,7 +718,7 @@ Kreado de profilo:
 
 
 ;The day on which your browser profile was created. Counted in days since January 1st 1970.
-La tago kiam via retesplorila profila estis kreita. Kalkulita jene: tagoj ekde la 1a de januaro de 1970.
+La tago kiam via retumila profilo estis kreita. Kalkulita jene: tagoj ekde la 1a de januaro de 1970.
 
 
 ;Learn More
@@ -726,7 +726,7 @@ Pli da informo
 
 
 ;Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
-La sanraporto de Firefox analizas informon pri la efikeco de via retesplorilo, por povi doni al vi utilajn konsilojn kiuj helpu vin eltiri la maksimumon el Firefox. Pli da informo pri la sanraporto de Firefox <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>troveblas en la helpa sekcio de Mozilla.</a>
+La sanraporto de Firefox analizas informon pri la efikeco de via retumilo, por povi doni al vi utilajn konsilojn kiuj helpu vin eltiri la maksimumon el Firefox. Pli da informo pri la sanraporto de Firefox <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>troveblas en la helpa sekcio de Mozilla.</a>
 
 
 ;For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
@@ -747,12 +747,12 @@ Vi nuntempe ne dividias vian sanraporton kun Mozilla.
 
 # This string is displayed when selecting Raw Data near the title
 ;Firefox Health Report (FHR) records anonymous data about your computer, configuration, usage, performance, and error conditions. This data helps us improve Firefox for you and for other Firefox users.
-Firefox Health Report (FHR) records anonymous data about your computer, configuration, usage, performance, and error conditions. This data helps us improve Firefox for you and for other Firefox users.
+La sanraporto de Firefox (FHR) registras anonimajn datumojn pri via komputilo, agordoj, uzado, efikeco kaj eraroj. Tiuj ĉi datumoj helpas nin plibonigi Firefox por vi kaj por aliaj uzantoj.
 
 
 # This string is displayed when selecting Raw Data near the title
 # Links to https://gecko.readthedocs.org/en/latest/toolkit/components/telemetry/telemetry/
 ;Read technical documentation for the data format and fields.
-Read technical documentation for the data format and fields.
+Legi teĥnikan dokumentaron pri la formo kaj kampoj de la datumoj.
 
 
