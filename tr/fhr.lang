@@ -51,21 +51,21 @@ sürüm
 
 
 ;update channel
-update channel
+güncelleme kanalı
 
 
 ;updates
-updates
+güncellemeler
 
 
 # Possible value for "updates"
 ;automatic
-automatic
+otomatik
 
 
 # Possible value for "updates"
 ;prompt
-prompt
+sorarak
 
 
 ;time open
@@ -85,19 +85,19 @@ Bu Ay
 
 
 ;total sessions
-total sessions
+toplam oturum
 
 
 ;Active Add-ons
-Active Add-ons
+Etkin eklentiler
 
 
 ;Extensions
-Extensions
+Uzantılar
 
 
 ;Plugins (Click-to-Activate)
-Plugins (Click-to-Activate)
+Yan uygulamalar (etkinleştirmek için tıkla)
 
 
 ;crashes
