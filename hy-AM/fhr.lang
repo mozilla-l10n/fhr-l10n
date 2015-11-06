@@ -51,21 +51,21 @@ Firefox-ի վիճակի մասին զեկույց
 
 
 ;update channel
-update channel
+թարմացումների ալիք
 
 
 ;updates
-updates
+թարմացումներ
 
 
 # Possible value for "updates"
 ;automatic
-automatic
+ինքնաբար
 
 
 # Possible value for "updates"
 ;prompt
-prompt
+հարցում
 
 
 ;time open
@@ -85,19 +85,19 @@ prompt
 
 
 ;total sessions
-total sessions
+աշխատաշրջաններ
 
 
 ;Active Add-ons
-Active Add-ons
+Ակտիվ հավելումներ
 
 
 ;Extensions
-Extensions
+Ընդլայնումներ
 
 
 ;Plugins (Click-to-Activate)
-Plugins (Click-to-Activate)
+Բաղադրիչներ (սեղմել՝ ակտիվացնելու համար)
 
 
 ;crashes
@@ -747,12 +747,12 @@ Firefox-ի վիճակի մասին զեկույցը (FHR) վերլուծում �
 
 # This string is displayed when selecting Raw Data near the title
 ;Firefox Health Report (FHR) records anonymous data about your computer, configuration, usage, performance, and error conditions. This data helps us improve Firefox for you and for other Firefox users.
-Firefox Health Report (FHR) records anonymous data about your computer, configuration, usage, performance, and error conditions. This data helps us improve Firefox for you and for other Firefox users.
+Firefox Health Report (FHR)-ը գրառում է անանուն տվյալներ ձեր համակարգչի մասին, կազմաձևումը, օգտագործումը, արագագործությունը և սխալները: Այդ տվյալները օգնում են մեզ լավարկել Firefox-ը ձեր և Firefox-ի օգտվողների համար:
 
 
 # This string is displayed when selecting Raw Data near the title
 # Links to https://gecko.readthedocs.org/en/latest/toolkit/components/telemetry/telemetry/
 ;Read technical documentation for the data format and fields.
-Read technical documentation for the data format and fields.
+Կարդացեք տեխնիկական նկարագրությունը՝ տվյալների ձևաչափի և դաշտերի համար:
 
 
