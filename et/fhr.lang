@@ -51,21 +51,21 @@ versioon
 
 
 ;update channel
-update channel
+uuendustekanal
 
 
 ;updates
-updates
+uuendused
 
 
 # Possible value for "updates"
 ;automatic
-automatic
+automaatne
 
 
 # Possible value for "updates"
 ;prompt
-prompt
+küsitakse kinnitust
 
 
 ;time open
@@ -85,19 +85,19 @@ See kuu
 
 
 ;total sessions
-total sessions
+seansse
 
 
 ;Active Add-ons
-Active Add-ons
+Lubatud lisad
 
 
 ;Extensions
-Extensions
+Laiendused
 
 
 ;Plugins (Click-to-Activate)
-Plugins (Click-to-Activate)
+Pluginad (aktiveerimiseks küsitakse luba)
 
 
 ;crashes
@@ -747,12 +747,12 @@ Terviseraportit praegu Mozillaga ei jagata.
 
 # This string is displayed when selecting Raw Data near the title
 ;Firefox Health Report (FHR) records anonymous data about your computer, configuration, usage, performance, and error conditions. This data helps us improve Firefox for you and for other Firefox users.
-Firefox Health Report (FHR) records anonymous data about your computer, configuration, usage, performance, and error conditions. This data helps us improve Firefox for you and for other Firefox users.
+Firefoxi terviseraport (ingl FHR) salvestab anonüümseid andmeid sinu arvuti, selle seadistuse, kasutuse, jõudluse ja vigade kohta. Need andmed aitavad meil Firefoxi sinu ja teiste kasutajate jaoks paremaks muuta.
 
 
 # This string is displayed when selecting Raw Data near the title
 # Links to https://gecko.readthedocs.org/en/latest/toolkit/components/telemetry/telemetry/
 ;Read technical documentation for the data format and fields.
-Read technical documentation for the data format and fields.
+Loe tehnilist dokumentatsiooni andmete formaadi ja väljade kohta.
 
 
