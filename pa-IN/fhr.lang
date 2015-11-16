@@ -11,7 +11,7 @@
 
 
 ;Get insights and performance information about your version of Firefox.
-ਫਾਇਰਫਾਕਸ ਦੇ ਆਪਣੇ ਵਰਜਨ ਬਾਰੇ ਅੰਦਰੂਨੀ ਡਾਟਾ ਤੇ ਕਾਰਗੁਜ਼ਾਰੀ ਜਾਣਕਾਰੀ ਲਵੋ।
+ਫਾਇਰਫਾਕਸ ਦੇ ਆਪਣੇ ਵਰਜ਼ਨ ਬਾਰੇ ਅੰਦਰੂਨੀ ਡਾਟਾ ਤੇ ਕਾਰਗੁਜ਼ਾਰੀ ਜਾਣਕਾਰੀ ਲਵੋ।
 
 
 ;Learn more...
@@ -31,7 +31,7 @@
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
-ਤੁਹਾਡਾ ਸਿਹਤ ਰਿਪੋਰਟ ਡਾਟਾ ਮੋਜ਼ੀਲਾ ਦੇ ਸਰਵਰ ਤੋਂ ਹਟਾਇਆ ਜਾਵੇਗਾ। ਸਾਡੀ <a href="%(privacy_url)s">ਪਰਾਈਵੇਸੀ ਪਾਲਸੀ</a> ਵਿੱਚ ਹੋਰ ਜਾਣਕਾਰੀ ਹਾਸਿਲ ਕਰੋ।
+ਤੁਹਾਡਾ ਹਾਲਤ ਰਿਪੋਰਟ ਡਾਟਾ ਮੋਜ਼ੀਲਾ ਦੇ ਸਰਵਰ ਤੋਂ ਹਟਾਇਆ ਜਾਵੇਗਾ। ਸਾਡੀ <a href="%(privacy_url)s">ਪਰਾਈਵੇਸੀ ਪਾਲਸੀ</a> ਵਿੱਚ ਹੋਰ ਜਾਣਕਾਰੀ ਹਾਸਿਲ ਕਰੋ।
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
@@ -51,21 +51,21 @@
 
 
 ;update channel
-update channel
+ਅੱਪਡੇਟ ਚੈਨਲ
 
 
 ;updates
-updates
+ਅੱਪਡੇਟ
 
 
 # Possible value for "updates"
 ;automatic
-automatic
+ਆਟੋਮੈਟਿਕ
 
 
 # Possible value for "updates"
 ;prompt
-prompt
+ਪੁੱਛੋ
 
 
 ;time open
@@ -85,20 +85,19 @@ prompt
 
 
 ;total sessions
-total sessions
+ਕੁੱਲ ਸ਼ੈਸ਼ਨ
 
 
 ;Active Add-ons
-Active Add-ons
+ਸਰਗਰਮ ਐਡ-ਆਨ
 
 
 ;Extensions
-Extensions
+ਇਕਸ਼ਟੈਨਸ਼ਨਾਂ
 
 
 ;Plugins (Click-to-Activate)
-Plugins (Click-to-Activate)
-
+ਪਲੱਗਇਨਾਂ (ਸਰਗਰਮ ਕਰਨ ਲਈ ਕਲਿੱਕ)
 
 ;crashes
 ਕਰੈਸ਼
@@ -197,7 +196,7 @@ Plugins (Click-to-Activate)
 
 
 ;Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
-ਸ਼ੁਰੂਆਤ ਸਮਾਂ ਦੱਸਦਾ ਹੈ ਕਿ ਫਾਇਰਫਾਕਸ ਦਾ ਤੁਹਾਡਾ ਵਰਜਨ ਕਿਵੇਂ ਕੰਮ ਕਰ ਰਿਹਾ ਹੈ। ਆਮ ਤੌਰ ਉੱਤੇ, ਤੇਜ਼ ਸ਼ੁਰੂ ਹੋਣਾ (ਘੱਟ ਸਮਾਂ ਲੱਗਣਾ) ਵਧੀਆ ਕਾਰਗੁਜ਼ਾਰੀ ਦਰਸਾਉਂਦਾ ਹੈ।
+ਸ਼ੁਰੂਆਤ ਸਮਾਂ ਦੱਸਦਾ ਹੈ ਕਿ ਫਾਇਰਫਾਕਸ ਦਾ ਤੁਹਾਡਾ ਵਰਜ਼ਨ ਕਿਵੇਂ ਕੰਮ ਕਰ ਰਿਹਾ ਹੈ। ਆਮ ਤੌਰ ਉੱਤੇ, ਤੇਜ਼ ਸ਼ੁਰੂ ਹੋਣਾ (ਘੱਟ ਸਮਾਂ ਲੱਗਣਾ) ਵਧੀਆ ਕਾਰਗੁਜ਼ਾਰੀ ਦਰਸਾਉਂਦਾ ਹੈ।
 
 
 ;Data Collected
@@ -213,7 +212,7 @@ Plugins (Click-to-Activate)
 
 
 ;The Firefox Health Report (FHR) has 4 categories of metrics:
-ਫਾਇਰਫਾਕਸ ਸਿਹਤ ਰਿਪੋਰਟ (ਐਫਐਚਆਰ) ਵਿੱਚ ਸਾਰਣੀਆਂ ਦੇ ਚਾਰ ਵਰਗ ਹਨ:
+ਫਾਇਰਫਾਕਸ ਹਾਲਤ ਰਿਪੋਰਟ (FHR) ਵਿੱਚ ਸਾਰਣੀਆਂ ਦੇ ਚਾਰ ਵਰਗ ਹਨ:
 
 
 ;Configuration
@@ -221,7 +220,7 @@ Plugins (Click-to-Activate)
 
 
 ;Device hardware, operating system, Firefox version
-ਜੰਤਰ ਹਾਰਡਵੇਅਰ, ਓਪਰੇਟਿੰਗ ਸਿਸਟਮ, ਫਾਇਰਫਾਕਸ ਵਰਜਨ
+ਜੰਤਰ ਹਾਰਡਵੇਅਰ, ਓਪਰੇਟਿੰਗ ਸਿਸਟਮ, ਫਾਇਰਫਾਕਸ ਵਰਜ਼ਨ
 
 
 ;Customizations
@@ -273,11 +272,11 @@ XPCOM ਲਈ ਬਾਈਨਰੀ ਇੰਟਰਫੇਸ
 
 
 ;Version of the distribution, taken from the <var>distribution.version</var> preference
-ਵੰਡ ਦਾ ਵਰਜਨ, <var>distribution.version</var> ਪਸੰਦ ਤੋਂ ਲਿਆ
+ਵੰਡ ਦਾ ਵਰਜ਼ਨ, <var>distribution.version</var> ਪਸੰਦ ਤੋਂ ਲਿਆ
 
 
 ;The version number of any Mozilla hotfix applied to the application
-ਕਿਸੇ ਮੋਜ਼ੀਲਾ ਦਾ ਵਰਜਨ ਨੰਬਰ ਐਪਲੀਕੇਸ਼ਨ ਲਈ ਲਾਗੂ ਕੀਤਾ
+ਕਿਸੇ ਮੋਜ਼ੀਲਾ ਦਾ ਵਰਜ਼ਨ ਨੰਬਰ ਐਪਲੀਕੇਸ਼ਨ ਲਈ ਲਾਗੂ ਕੀਤਾ
 
 
 ;Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
@@ -293,11 +292,11 @@ XPCOM ਲਈ ਬਾਈਨਰੀ ਇੰਟਰਫੇਸ
 
 
 ;The name of the company/provider who built this version
-ਕੰਪਨੀ/ਉਪਲੱਬਧ ਕਰਵਾਉਣ ਵਾਲੇ ਦਾ ਨਾਂ, ਜਿਸ ਨੇ ਇਹ ਵਰਜਨ ਬਿਲਡ ਕੀਤਾ ਹੈ।
+ਕੰਪਨੀ/ਉਪਲੱਬਧ ਕਰਵਾਉਣ ਵਾਲੇ ਦਾ ਨਾਂ, ਜਿਸ ਨੇ ਇਹ ਵਰਜ਼ਨ ਬਿਲਡ ਕੀਤਾ ਹੈ।
 
 
 ;The current version of the product
-ਪ੍ਰੋਡੱਕਟ ਦਾ ਮੌਜੂਦਾ ਵਰਜਨ
+ਪ੍ਰੋਡੱਕਟ ਦਾ ਮੌਜੂਦਾ ਵਰਜ਼ਨ
 
 
 ;Number of processor cores
@@ -313,7 +312,7 @@ XPCOM ਲਈ ਬਾਈਨਰੀ ਇੰਟਰਫੇਸ
 
 
 ;Amount of RAM in megabytes
-ਰੈਮ(RAM) ਦੀ ਮਾਤਰਾ ਮੈਗਾਬਾਈਟ ਵਿੱਚ
+ਰੈਮ (RAM) ਦੀ ਮਾਤਰਾ ਮੈਗਾਬਾਈਟ ਵਿੱਚ
 
 
 ;Currently running Operating System (kernel) name
@@ -329,7 +328,7 @@ XPCOM ਲਈ ਬਾਈਨਰੀ ਇੰਟਰਫੇਸ
 
 
 ;The version of the Gecko platform code
-ਗੀਕੋ ਪਲੇਟਫਾਰਮ ਕੋਡ ਦਾ ਵਰਜਨ
+ਗੀਕੋ ਪਲੇਟਫਾਰਮ ਕੋਡ ਦਾ ਵਰਜ਼ਨ
 
 
 ;Processor architecture
@@ -337,11 +336,11 @@ XPCOM ਲਈ ਬਾਈਨਰੀ ਇੰਟਰਫੇਸ
 
 
 ;The date this version was first used with this installation profile
-ਮਿਤੀ, ਜਦੋਂ ਇਹ ਵਰਜਨ ਇਸ ਇੰਸਟਾਲੇਸ਼ਨ ਪਰੋਫਾਇਲ ਨਾਲ ਪਹਿਲੀ ਵਾਰ ਵਰਤਿਆ ਗਿਆ ਸੀ
+ਮਿਤੀ, ਜਦੋਂ ਇਹ ਵਰਜ਼ਨ ਇਸ ਇੰਸਟਾਲੇਸ਼ਨ ਪਰੋਫਾਇਲ ਨਾਲ ਪਹਿਲੀ ਵਾਰ ਵਰਤਿਆ ਗਿਆ ਸੀ
 
 
 ;An application version which has been used with this installation profile
-ਐਪਲੀਕੇਸ਼ਨ ਵਰਜਨ, ਜੋ ਕਿ ਇਹ ਇੰਸਟਾਲੇਸ਼ਨ ਪਰੋਫਾਇਲ ਨਾਲ ਵਰਤਿਆ ਗਿਆ ਹੈ।
+ਐਪਲੀਕੇਸ਼ਨ ਵਰਜ਼ਨ, ਜੋ ਕਿ ਇਹ ਇੰਸਟਾਲੇਸ਼ਨ ਪਰੋਫਾਇਲ ਨਾਲ ਵਰਤਿਆ ਗਿਆ ਹੈ।
 
 
 ;The number of add-ons of this type that existed in the profile on this date
@@ -381,7 +380,7 @@ XPCOM ਲਈ ਬਾਈਨਰੀ ਇੰਟਰਫੇਸ
 
 
 ;The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
-ਸਭ ਤੋਂ ਤਾਜ਼ਾ ਮਿਤੀ, ਜਦੋਂ ਐਡ-ਆਨ ਨੂੰ ਅੱਪਡੇਟ ਕੀਤਾ ਗਿਆ ਸੀ (ਅਣ-ਇੰਸਟਾਲ ਕੀਤੀ ਐਡ-ਆਨ ਦੇ ਪਿਛਲੇ ਵਰਜਨ ਦੀ ਜਾਣਕਾਰੀ ਨੂੰ ਰੱਖਿਆ ਨਹੀਂ ਜਾਂਦਾ)
+ਸਭ ਤੋਂ ਤਾਜ਼ਾ ਮਿਤੀ, ਜਦੋਂ ਐਡ-ਆਨ ਨੂੰ ਅੱਪਡੇਟ ਕੀਤਾ ਗਿਆ ਸੀ (ਅਣ-ਇੰਸਟਾਲ ਕੀਤੀ ਐਡ-ਆਨ ਦੇ ਪਿਛਲੇ ਵਰਜ਼ਨ ਦੀ ਜਾਣਕਾਰੀ ਨੂੰ ਰੱਖਿਆ ਨਹੀਂ ਜਾਂਦਾ)
 
 
 ;<var>True</var> if the user manually disabled the add-on
@@ -389,7 +388,7 @@ XPCOM ਲਈ ਬਾਈਨਰੀ ਇੰਟਰਫੇਸ
 
 
 ;The current version of this add-on
-ਇਹ ਐਡ-ਆਨ ਦਾ ਮੌਜੂਦਾ ਵਰਜਨ
+ਇਹ ਐਡ-ਆਨ ਦਾ ਮੌਜੂਦਾ ਵਰਜ਼ਨ
 
 
 ;How long in milliseconds it took during startup for the application to render the UI and display the window
@@ -485,7 +484,7 @@ XPCOM ਲਈ ਬਾਈਨਰੀ ਇੰਟਰਫੇਸ
 
 
 ;Privacy Policy
-ਪਰਾਈਵੇਸੀ ਪਾਲਸੀ
+ਪਰਦੇਦਾਰੀ ਨੀਤੀ
 
 
 # The following strings are used only in the Mobile version of about:healthreport (Firefox for Android)
@@ -514,11 +513,11 @@ XPCOM ਲਈ ਬਾਈਨਰੀ ਇੰਟਰਫੇਸ
 
 
 ;Device hardware, operating system, Firefox version.
-ਜੰਤਰ ਹਾਰਡਵੇਅਰ, ਓਪਰੇਟਿੰਗ ਸਿਸਟਮ, ਫਾਇਰਫਾਕਸ ਵਰਜਨ।
+ਜੰਤਰ ਹਾਰਡਵੇਅਰ, ਓਪਰੇਟਿੰਗ ਸਿਸਟਮ, ਫਾਇਰਫਾਕਸ ਵਰਜ਼ਨ।
 
 
 ;Extensions, plugins, and number of installed add-ons.
-ਇਕਸਟੈਨਸ਼ਨ, ਪਲੱਗਇਨ ਅਤੇ ਇੰਸਟਾਲ ਕੀਤੀਆਂ ਐਡ-ਆਨ ਦੀ ਗਿਣਤੀ।
+ਇਕਸਟੈਨਸ਼ਨਾਂ, ਪਲੱਗਇਨਾਂ ਅਤੇ ਇੰਸਟਾਲ ਕੀਤੀਆਂ ਐਡ-ਆਨਾਂ ਦੀ ਗਿਣਤੀ।
 
 
 ;Key performance measures, such as launch speed.
@@ -646,7 +645,7 @@ OS:{ok}
 
 
 ;System Version:
-ਸਿਸਟਮ ਵਰਜਨ:
+ਸਿਸਟਮ ਵਰਜ਼ਨ:
 
 
 ;The Android OS revision.
@@ -747,12 +746,12 @@ OS:{ok}
 
 # This string is displayed when selecting Raw Data near the title
 ;Firefox Health Report (FHR) records anonymous data about your computer, configuration, usage, performance, and error conditions. This data helps us improve Firefox for you and for other Firefox users.
-Firefox Health Report (FHR) records anonymous data about your computer, configuration, usage, performance, and error conditions. This data helps us improve Firefox for you and for other Firefox users.
+ਫਾਇਰਫਾਕਸ ਹਾਲਤ ਰਿਪੋਰਟ (FHR) ਤੁਹਾਡੇ ਕੰਪਿਊਟਰ, ਸੰਰਚਨਾ, ਵਰਤੋਂ, ਕਾਰਗੁਜ਼ਾਰੀ ਅਤੇ ਗਲਤੀ ਦੇ ਹਾਲਤਾਂ ਬਾਰੇ ਅਣਪਛਾਤੇ ਰੂਪ ਵਿੱਚ ਜਾਣਕਾਰੀ ਇਕੱਤਰ ਕਰਦੀ ਹੈ। ਇਹ ਡਾਟੇ ਸਾਨੂੰ ਤੁਹਾਡੇ ਤੇ ਹੋਰ ਫਾਇਰਫਾਕਸ ਵਰਤੋਂਕਾਰਾਂ ਲਈ ਸੁਧਾਰ ਕਰਨ ਵਾਸਤੇ ਮਦਦ ਕਰਦਾ ਹੈ।
 
 
 # This string is displayed when selecting Raw Data near the title
 # Links to https://gecko.readthedocs.org/en/latest/toolkit/components/telemetry/telemetry/
 ;Read technical documentation for the data format and fields.
-Read technical documentation for the data format and fields.
+ਡਾਟਾ ਫਾਰਮੈਟ ਅਤੇ ਖੇਤਰਾਂ ਬਾਰੇ ਤਕਨੀਕੀ ਦਸਤਾਵੇਜ਼ ਪੜ੍ਹੋ।
 
 
