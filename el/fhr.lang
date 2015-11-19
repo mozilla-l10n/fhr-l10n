@@ -47,29 +47,29 @@
 
 
 ;version
-Έκδοση
+έκδοση
 
 
 ;update channel
-update channel
+κανάλι ενημερώσεων
 
 
 ;updates
-updates
+ενημερώσεις
 
 
 # Possible value for "updates"
 ;automatic
-automatic
+αυτόματα
 
 
 # Possible value for "updates"
 ;prompt
-prompt
+ερώτηση πάντα
 
 
 ;time open
-Χρόνος που παρέμεινε ανοικτός
+χρόνος που παρέμεινε ανοικτός
 
 
 ;last crash
@@ -85,19 +85,19 @@ prompt
 
 
 ;total sessions
-total sessions
+συνολικές συνεδρίες
 
 
 ;Active Add-ons
-Active Add-ons
+Ενεργά πρόσθετα
 
 
 ;Extensions
-Extensions
+Επεκτάσεις
 
 
 ;Plugins (Click-to-Activate)
-Plugins (Click-to-Activate)
+Πρόσθετες λειτουργίες (κλικ για ενεργοποίηση)
 
 
 ;crashes
@@ -747,12 +747,12 @@ xpcomabi: {ok}
 
 # This string is displayed when selecting Raw Data near the title
 ;Firefox Health Report (FHR) records anonymous data about your computer, configuration, usage, performance, and error conditions. This data helps us improve Firefox for you and for other Firefox users.
-Firefox Health Report (FHR) records anonymous data about your computer, configuration, usage, performance, and error conditions. This data helps us improve Firefox for you and for other Firefox users.
+Η Αναφορά Υγείας του Firefox (FHR) συλλέγει ανώνυμα δεδομένα για τον υπολογιστή σας, τις ρυθμίσεις σας, την χρήση που κάνετε, τις επιδόσεις και τα σφάλματα που προκύπτουν. Αυτά τα δεδομένα συμβάλουν στη βελτίωση του Firefox για εσάς και τους υπόλοιπους χρήστες.
 
 
 # This string is displayed when selecting Raw Data near the title
 # Links to https://gecko.readthedocs.org/en/latest/toolkit/components/telemetry/telemetry/
 ;Read technical documentation for the data format and fields.
-Read technical documentation for the data format and fields.
+Διαβάστε την τεχνική τεκμηρίωση σχετικά με τα διάφορα πεδία και τη μορφή των δεδομένων.
 
 
