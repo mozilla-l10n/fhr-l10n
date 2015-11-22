@@ -149,7 +149,7 @@ Mozilla 也会从服务器上删除您的健康报告数据。查看<a href="%(p
 
 
 ;Wear and Tear
-磨损
+损耗
 
 
 ;It looks like your browser has crashed a number of times recently. To learn more:
@@ -185,11 +185,11 @@ Mozilla 也会从服务器上删除您的健康报告数据。查看<a href="%(p
 
 
 ;Graph:
-图形:
+图表：
 
 
 ;Average
-平均
+平均值
 
 
 ;All
@@ -241,7 +241,7 @@ Firefox 健康报告 (FHR) 有四类指标：
 
 
 ;Length of session, how old a profile is, count of crashes, count of pages
-会话长度，配置文件年龄，崩溃次数，页面数量
+会话时长、配置文件创建了多久、崩溃次数、页面数量
 
 
 ;Detailed Description
