@@ -749,6 +749,7 @@ Actualmente no comparte su informe de salud con Mozilla
 ;Firefox Health Report (FHR) records anonymous data about your computer, configuration, usage, performance, and error conditions. This data helps us improve Firefox for you and for other Firefox users.
 El Informe de salud de Firefox registra datos anónimos sobre su equipo, configuración, uso, rendimiento y condiciones de error. Estos datos nos ayudan a mejorar Firefox para usted y para otros usuarios de Firefox.
 
+
 # This string is displayed when selecting Raw Data near the title
 # Links to https://gecko.readthedocs.org/en/latest/toolkit/components/telemetry/telemetry/
 ;Read technical documentation for the data format and fields.
