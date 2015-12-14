@@ -51,21 +51,21 @@ leagan
 
 
 ;update channel
-update channel
+cainéal
 
 
 ;updates
-updates
+nuashonruithe
 
 
 # Possible value for "updates"
 ;automatic
-automatic
+uathoibríoch
 
 
 # Possible value for "updates"
 ;prompt
-prompt
+láithreach
 
 
 ;time open
@@ -85,19 +85,19 @@ An Mhí Seo
 
 
 ;total sessions
-total sessions
+líon iomlán seisiún
 
 
 ;Active Add-ons
-Active Add-ons
+Breiseáin Ghníomhacha
 
 
 ;Extensions
-Extensions
+Eisínteachtaí
 
 
 ;Plugins (Click-to-Activate)
-Plugins (Click-to-Activate)
+Forlíontáin (Cliceáil-le-cur-ar-siúl)
 
 
 ;crashes
@@ -105,11 +105,11 @@ tuairteanna
 
 
 ;application crashes
-application crashes
+tuairteanna feidhmchláir
 
 
 ;plugin crashes
-plugin crashes
+tuairteanna forlíontáin
 
 
 ;Add-ons
@@ -747,12 +747,12 @@ Ní bhíonn tú ag seoladh tuairisc shláinte chuig Mozilla.
 
 # This string is displayed when selecting Raw Data near the title
 ;Firefox Health Report (FHR) records anonymous data about your computer, configuration, usage, performance, and error conditions. This data helps us improve Firefox for you and for other Firefox users.
-Firefox Health Report (FHR) records anonymous data about your computer, configuration, usage, performance, and error conditions. This data helps us improve Firefox for you and for other Firefox users.
+Taifeadann Tuairisc Shláinte Firefox (FHR) sonraí gan ainm faoi do ríomhaire, a chumraíocht, úsáid, feidhmíocht, agus earráidí. Cabhraíonn na sonraí seo linn Firefox a fheabhsú ar do shonsa agus ar son úsáideoirí eile.
 
 
 # This string is displayed when selecting Raw Data near the title
 # Links to https://gecko.readthedocs.org/en/latest/toolkit/components/telemetry/telemetry/
 ;Read technical documentation for the data format and fields.
-Read technical documentation for the data format and fields.
+Féach ar an doiciméadú teicniúil faoin fhormáid agus na réimsí sonraí.
 
 
