@@ -51,21 +51,21 @@
 
 
 ;update channel
-update channel
+ಪರಿಷ್ಕರಣೆ ಚಾನಲ್
 
 
 ;updates
-updates
+ಪರಿಷ್ಕರಣೆಗಳು
 
 
 # Possible value for "updates"
 ;automatic
-automatic
+ಸ್ವಯಂಚಾಲಿತ
 
 
 # Possible value for "updates"
 ;prompt
-prompt
+ಕೇಳು
 
 
 ;time open
@@ -85,19 +85,19 @@ prompt
 
 
 ;total sessions
-total sessions
+ಒಟ್ಟು ಅಧಿವೇಶನಗಳು
 
 
 ;Active Add-ons
-Active Add-ons
+ಸಕ್ರಿಯ ಆಡ್-ಆನ್‌ಗಳು
 
 
 ;Extensions
-Extensions
+ವಿಸ್ತರಣೆಗಳು
 
 
 ;Plugins (Click-to-Activate)
-Plugins (Click-to-Activate)
+ಪ್ಲಗಿನ್‌ಗಳು (ಸಕ್ರಿಯಗೊಳಿಸಲು-ಕ್ಲಿಕ್-ಮಾಡಿ)
 
 
 ;crashes
@@ -747,12 +747,12 @@ OS: {ok}
 
 # This string is displayed when selecting Raw Data near the title
 ;Firefox Health Report (FHR) records anonymous data about your computer, configuration, usage, performance, and error conditions. This data helps us improve Firefox for you and for other Firefox users.
-Firefox Health Report (FHR) records anonymous data about your computer, configuration, usage, performance, and error conditions. This data helps us improve Firefox for you and for other Firefox users.
+Firefox ಆರೋಗ್ಯ ವರದಿ (FHR) ನಿಮ್ಮ ಕಂಪ್ಯೂಟರಿನ ಅನಾಮದೇಯ ದತ್ತಾಂಶವನ್ನು, ಸಂರಚನೆಯನ್ನು, ಬಳಕೆ, ಕಾರ್ಯಾಚರಣೆ, ಮತ್ತು ದೋಷ ಸ್ಥಿತಿಗಳನ್ನು ಸಂಗ್ರಹಿಸುತ್ತದೆ. ಈ ದತ್ತಾಂಶ Firefox ಅನ್ನು ನಿಮಗೆ ಮತ್ತು ಇತರೆ Firefox ಬಳಕೆದಾರರಿಗೆ ಉತ್ತಮಗೊಳಿಸುವಲ್ಲಿ ನಮಗೆ ಸಹಾಯಕವಾಗುತ್ತದೆ.
 
 
 # This string is displayed when selecting Raw Data near the title
 # Links to https://gecko.readthedocs.org/en/latest/toolkit/components/telemetry/telemetry/
 ;Read technical documentation for the data format and fields.
-Read technical documentation for the data format and fields.
+ದತ್ತಾಂಶ ವಿನ್ಯಾಸವನ್ನು ಮತ್ತು ಕ್ಷೇತ್ರಗಳಿಗೆ ತಾಂತ್ರಿಕ ಕೈಪಿಡಿ ಓದಿ.
 
 
