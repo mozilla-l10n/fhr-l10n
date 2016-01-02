@@ -1,7 +1,5 @@
-## NOTE: To test this page you can open about:config and set datareporting.healthreport.about.reportUrl to https://fhr-dev.allizom.org/%LOCALE%/v4/
-## NOTE: Then open about:healthreport in Firefox
-
-
+# # NOTE: To test this page you can open about:config and set datareporting.healthreport.about.reportUrl to https://fhr-dev.allizom.org/%LOCALE%/v4/
+# # NOTE: Then open about:healthreport in Firefox
 ;Firefox Health Report
 Informe de Salut de Firefox
 
@@ -51,21 +49,21 @@ versión
 
 
 ;update channel
-update channel
+esviellar canal
 
 
 ;updates
-updates
+actualizacions
 
 
 # Possible value for "updates"
 ;automatic
-automatic
+automatico
 
 
 # Possible value for "updates"
 ;prompt
-prompt
+pregunta
 
 
 ;time open
@@ -85,19 +83,19 @@ En iste mes
 
 
 ;total sessions
-total sessions
+sesions en total
 
 
 ;Active Add-ons
-Active Add-ons
+Complementos activos
 
 
 ;Extensions
-Extensions
+Extensions {ok}
 
 
 ;Plugins (Click-to-Activate)
-Plugins (Click-to-Activate)
+Plugins (clic-pa-activar)
 
 
 ;crashes
@@ -747,12 +745,10 @@ Por agora no yes compartindo o tuyo reporte de salut con Mozilla.
 
 # This string is displayed when selecting Raw Data near the title
 ;Firefox Health Report (FHR) records anonymous data about your computer, configuration, usage, performance, and error conditions. This data helps us improve Firefox for you and for other Firefox users.
-Firefox Health Report (FHR) records anonymous data about your computer, configuration, usage, performance, and error conditions. This data helps us improve Firefox for you and for other Firefox users.
+O Firefox Health Report (FHR) grava datos anonimos sobre lo tuyo ordinador, configuración, uso, rendimiento y condicions d'error. Istos datos nos aduyan a amillorar o Firefox pa tu y pa atros usuarios de Firefox.
 
 
 # This string is displayed when selecting Raw Data near the title
 # Links to https://gecko.readthedocs.org/en/latest/toolkit/components/telemetry/telemetry/
 ;Read technical documentation for the data format and fields.
-Read technical documentation for the data format and fields.
-
-
+Leye la documentación tecnica pa saber mas sobre lo formato y capmos de datos.
