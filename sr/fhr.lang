@@ -39,7 +39,7 @@ Firefox извештај здравља
 
 
 ;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
-Сазнајте како се служимо вашим подацимо у нашој <a href="%(privacy_url)s">полиси приватности.</a>
+Сазнајте како се служимо вашим подацима у нашој <a href="%(privacy_url)s">полиси приватности.</a>
 
 
 ;Vital Stats
@@ -730,7 +730,7 @@ Firefox извештај здравља анализира информациј�
 
 
 ;For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
-За више информација о томе како рукујемо вашим подацима, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>погледаје нашу полису приватности.</a>
+За више информација о томе како рукујемо вашим подацима, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>погледајте нашу полису приватности.</a>
 
 
 ;You are currently sharing your health report with Mozilla.
@@ -747,7 +747,7 @@ Firefox извештај здравља анализира информациј�
 
 # This string is displayed when selecting Raw Data near the title
 ;Firefox Health Report (FHR) records anonymous data about your computer, configuration, usage, performance, and error conditions. This data helps us improve Firefox for you and for other Firefox users.
-Firefox извештај здравља (FHR) бележи анонимне податке са вашег рачунара, конфигурацију, употребу, перфомансе и грешке. Ови подаци помажу да побољшамо Firefox за вас и друге кориснике.
+Firefox извештај здравља (FHR) бележи анонимне податке са вашег рачунара, конфигурацију, употребу, перформансе и грешке. Ови подаци помажу да побољшамо Firefox за вас и друге кориснике.
 
 
 # This string is displayed when selecting Raw Data near the title
