@@ -7,7 +7,7 @@ Relatório de estado do Firefox
 
 
 ;Raw Data
-Data Não Processada
+Dados em bruto
 
 
 ;Get insights and performance information about your version of Firefox.
@@ -19,11 +19,11 @@ Saber mais…
 
 
 ;Data Sharing
-Partilha de Dados
+Partilha de dados
 
 
 ;ON
-Ligado
+Ligada
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
@@ -31,15 +31,15 @@ Escolheu parar a partilha de dados com a Mozilla, mas ainda poderá saber mais a
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
-O seu relatório de desempenho também será removido dos servidores da Mozilla. Saiba mais, na nossa <a href="%(privacy_url)s">política de privacidade.</a>
+Os dados do relatório de estado também serão removidos dos servidores da Mozilla. Saiba mais, na nossa <a href="%(privacy_url)s">política de privacidade.</a>
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
-Escolheu partilhar a sua informação com a Mozilla ocasionalmente. Obrigado por fazer parte da nossa missão para construír um futuro brilhante para a Internet.
+Escolheu partilhar os seus dados com a Mozilla de tempos a tempos. Obrigado por fazer parte da nossa missão para construir um futuro mais brilhante para a Web.
 
 
 ;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
-Saber mais sobre como usamos a sua informação na nossa <a href="%(privacy_url)s">política de privacidade.</a>
+Saiba mais sobre como utilizamos os seus dados na nossa <a href="%(privacy_url)s">política de privacidade.</a>
 
 
 ;Vital Stats
@@ -69,7 +69,7 @@ solicitar
 
 
 ;time open
-hora de Abertura
+hora de abertura
 
 
 ;last crash
@@ -125,7 +125,7 @@ ativado
 
 
 ;disabled
-Desativado
+desativado
 
 
 ;Plugins
@@ -157,7 +157,7 @@ Parece que o seu navegador falhou algumas vezes recentemente. Para saber mais:
 
 
 ;OFF
-Desligado
+Desligada
 
 
 ;Visit our <a href="%(sumo_url)s">support website</a>
@@ -201,7 +201,7 @@ O tempo de início ajuda a determinar o desempenho da sua versão do Firefox. Ge
 
 
 ;Data Collected
-Informação recolhida
+Dados recolhidos
 
 
 ;Glossary
@@ -257,7 +257,7 @@ Descrição
 
 
 ;Binary interface for XPCOM
-Interface binária do XPCOM
+Interface binária para XPCOM
 
 
 ;Identifier for this build of the application based on the date the build was started
@@ -325,11 +325,11 @@ Atualmente a executar o Sistema Operativo (kernel) versão
 
 
 ;The build identifier of the Gecko platform code
-O identificador de construção de código da plataforma Geko
+O identificador de compilação do código da plataforma Gecko
 
 
 ;The version of the Gecko platform code
-Versão do código da plataforma Geko
+Versão do código da plataforma Gecko
 
 
 ;Processor architecture
@@ -337,7 +337,7 @@ Arquitetura do processador
 
 
 ;The date this version was first used with this installation profile
-Data em que esta versão foi usada pela primeira vez com este perfil de instalação
+A data em que esta versão foi usada pela primeira vez com este perfil de instalação
 
 
 ;An application version which has been used with this installation profile
@@ -365,7 +365,7 @@ O identificador deste extra definido pelo programador do extra
 
 
 ;The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
-A data mais recente de instalação deste extra (informação prévia acerca de extras desinstalados não é mantida).
+A data mais recente de instalação deste extra (informação prévia acerca de um extra desinstalado não é mantida).
 
 
 ;The number of searches performed with this search engine from this part of the UI
@@ -381,7 +381,7 @@ Se este extra é uma extensão ou um plug-in
 
 
 ;The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
-A data de atualização mais recente deste extra (informação prévia acerca de extras desinstalados não é mantida).
+A data de atualização mais recente deste extra (informação prévia acerca de um extra desinstalado não é mantida).
 
 
 ;<var>True</var> if the user manually disabled the add-on
@@ -449,11 +449,11 @@ Tempo em segundos desde a última vez que a aplicação foi iniciada
 
 
 ;Total number of bookmarks
-Número total de Favoritos
+Número total de marcadores
 
 
 ;Total number of pages listed in the history
-Número total de páginas listadas na história
+Número total de páginas listadas no histórico
 
 
 ;How long in minutes the current session has been running
@@ -469,7 +469,7 @@ Bem-vindo!
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
-O relatório  de estado do Firefox permite que você saiba como o seu Firefox está a funcionar e o que poderá fazer para melhorar o seu funcionamento.
+O relatório de estado do Firefox permite-lhe que saber como o seu Firefox está a funcionar e o que poderá fazer para o melhorar.
 
 
 ;See My Report
@@ -578,7 +578,7 @@ ID da versão da aplicação:
 
 
 ;The internal build timestamp.
-A hora da versão.
+A marca temporal da compilação interna.
 
 
 ;Update Channel:
@@ -590,7 +590,7 @@ O Firefox é distribuído a partir de canais: Nightly builds, o canal Aurora pre
 
 
 ;Vendor:
-Vendor: {ok}
+Fornecedor:
 
 
 ;The organization that built this application. Typically Mozilla.
@@ -618,7 +618,7 @@ xpcomabi: {ok}
 
 
 ;The CPU architecture for which this application was built.
-A arquitetura de CPU para a qual esta aplicaçõe foi feita.
+A arquitetura de CPU para a qual esta aplicação foi feita.
 
 
 ;OS:
@@ -650,11 +650,11 @@ Versão do sistema:
 
 
 ;The Android OS revision.
-A revisão do SO do Android.
+A revisão do Android OS.
 
 
 ;Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
-Se o Firefox indica a lista de bloqueios de extras para o proteger contra extras maliciosos. Pré-definição é ligado.
+Se o Firefox descarrega a lista de bloqueios de extras para o proteger contra extras maliciosos. O valor predefinido é, ligado.
 
 
 ;Telemetry Enabled:
