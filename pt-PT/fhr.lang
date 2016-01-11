@@ -43,7 +43,7 @@ Saiba mais sobre como utilizamos os seus dados na nossa <a href="%(privacy_url)s
 
 
 ;Vital Stats
-Estatísticas Vitais
+Estatísticas vitais
 
 
 ;version
@@ -60,7 +60,7 @@ atualizações
 
 # Possible value for "updates"
 ;automatic
-automático
+automáticas
 
 
 # Possible value for "updates"
@@ -353,7 +353,7 @@ Número de extras deste tipo que existiam no perfil nesta data
 
 
 ;Whether this add-on was installed by the user or automatically by another application
-Se este extra foi instalado pelo utilizador ou automáticamente por uma outra aplicação
+Se este extra foi instalado pelo utilizador ou automaticamente por uma outra aplicação
 
 
 ;Whether this add-on has native code.
