@@ -69,7 +69,7 @@ solicitar
 
 
 ;time open
-hora de abertura
+tempo aberto
 
 
 ;last crash
@@ -105,11 +105,11 @@ falhas
 
 
 ;application crashes
-bloqueios de aplicação
+falhas de aplicação
 
 
 ;plugin crashes
-bloqueios de plugin
+falhas de plugin
 
 
 ;Add-ons
@@ -393,15 +393,15 @@ A versão atual deste extra
 
 
 ;How long in milliseconds it took during startup for the application to render the UI and display the window
-Quanto tempo em milisegundos demorou durante a abertura, para a aplicação renderizar a interface e mostrar a janela
+Quanto tempo em milissegundos demorou durante a abertura, para a aplicação renderizar a interface e mostrar a janela
 
 
 ;How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
-Quanto tempo em milisegundos demorou durante a abertura, para a aplicação carregar a biblioteca e terminar a inicialização básica
+Quanto tempo em milissegundos demorou durante a abertura, para a aplicação carregar a biblioteca e terminar a inicialização básica
 
 
 ;How long in milliseconds it took during startup for the application to restore tabs from the previous session
-Quanto tempo em milisegundos que demorou durante a abertura, para o restauro das janelas da aplicação das sessões prévias
+Quanto tempo em milissegundos que demorou durante a abertura, para o restauro das janelas da aplicação das sessões prévias
 
 
 ;The number of times the application was run and not cleanly shut down.
@@ -710,7 +710,7 @@ Sessões e tempos de arranque
 
 
 ;For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
-Para cada sessão de navegação, grava no relatório de estado do Firefox quanto tempo navegou (em segundos) e se a sessão terminou normalmente ou com erros. Também inclui os tempos de arranque (em milisegundos) de disponível.
+Para cada sessão de navegação, o relatório de estado do Firefox grava quanto tempo navegou (em segundos) e se a sessão terminou normalmente ou por causa de uma falha. Também inclui os tempos de arranque (em milissegundos) se disponível.
 
 
 ;Profile Creation:
