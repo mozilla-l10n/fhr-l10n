@@ -85,11 +85,11 @@ Bulan ini
 
 
 ;total sessions
-total sessions
+total sesi
 
 
 ;Active Add-ons
-Active Add-ons
+Pengaya yang Aktif
 
 
 ;Extensions
@@ -97,7 +97,7 @@ Extensions
 
 
 ;Plugins (Click-to-Activate)
-Plugins (Click-to-Activate)
+Plugin (Klik-untuk-Aktifkan)
 
 
 ;crashes
@@ -747,7 +747,7 @@ Anda tidak sedang berbagi laporan kebugaran dengan Mozilla.
 
 # This string is displayed when selecting Raw Data near the title
 ;Firefox Health Report (FHR) records anonymous data about your computer, configuration, usage, performance, and error conditions. This data helps us improve Firefox for you and for other Firefox users.
-Firefox Health Report (FHR) records anonymous data about your computer, configuration, usage, performance, and error conditions. This data helps us improve Firefox for you and for other Firefox users.
+Laporan Kebugaran Firefox (FHR) merekam data anonim tentang komputer Anda, konfigurasi, penggunaan, kinerja, dan kondisi masalah. Data ini membantu kita untuk meningkatkan Firefox untuk Anda dan juga pengguna Firefox lainnya.
 
 
 # This string is displayed when selecting Raw Data near the title
