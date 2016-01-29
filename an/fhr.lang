@@ -1,5 +1,7 @@
-# # NOTE: To test this page you can open about:config and set datareporting.healthreport.about.reportUrl to https://fhr-dev.allizom.org/%LOCALE%/v4/
-# # NOTE: Then open about:healthreport in Firefox
+## NOTE: To test this page you can open about:config and set datareporting.healthreport.about.reportUrl to https://fhr-dev.allizom.org/%LOCALE%/v4/
+## NOTE: Then open about:healthreport in Firefox
+
+
 ;Firefox Health Report
 Informe de Salut de Firefox
 
@@ -752,3 +754,5 @@ O Firefox Health Report (FHR) grava datos anonimos sobre lo tuyo ordinador, conf
 # Links to https://gecko.readthedocs.org/en/latest/toolkit/components/telemetry/telemetry/
 ;Read technical documentation for the data format and fields.
 Leye la documentación tecnica pa saber mas sobre lo formato y capmos de datos.
+
+
