@@ -51,21 +51,21 @@ versi
 
 
 ;update channel
-update channel
+memperbarui saluran
 
 
 ;updates
-updates
+memperbarui
 
 
 # Possible value for "updates"
 ;automatic
-automatic
+otomatis
 
 
 # Possible value for "updates"
 ;prompt
-prompt
+segera
 
 
 ;time open
@@ -93,7 +93,7 @@ Pengaya Aktif
 
 
 ;Extensions
-Extensions
+Perpanjangan
 
 
 ;Plugins (Click-to-Activate)
@@ -753,6 +753,6 @@ Laporan Kebugaran Firefox (FHR) merekam data anonim tentang komputer Anda, konfi
 # This string is displayed when selecting Raw Data near the title
 # Links to https://gecko.readthedocs.org/en/latest/toolkit/components/telemetry/telemetry/
 ;Read technical documentation for the data format and fields.
-Read technical documentation for the data format and fields.
+Bacalah pendokumentasian teknis untuk format bidang dan data.
 
 
