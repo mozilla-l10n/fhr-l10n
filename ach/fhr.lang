@@ -3,55 +3,55 @@
 
 
 ;Firefox Health Report
-Firefox Health Report
+Ripot me yot kom pa Firefox
 
 
 ;Raw Data
-Raw Data
+Data ma numu
 
 
 ;Get insights and performance information about your version of Firefox.
-Get insights and performance information about your version of Firefox.
+Nong niango matut ki ngec me tic ikom kit me Firefox mamegi.
 
 
 ;Learn more...
-Learn more...
+Nong ngec mapol…
 
 
 ;Data Sharing
-Data Sharing
+Nywako data
 
 
 ;ON
-ON
+Tye
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
-You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
+Iyero me juko nywako data ki Mozilla, ento pud i bibedo ki kero me neno kit ma layeny mamegi tye katic kwede.
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
-Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
+Data me yotkom mamegi bene ki bikwanyo woko ki i lapok tic pa Mozilla. Nong ngec mapol i <a href="%(privacy_url)s">cik me mung wa.</a>
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
-You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
+Iyero me nywako data ni ki Mozilla kare ki kare. Wapwoyo pi bedo i but micion wa me yubo anyim maleng pi Kakube.
 
 
 ;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
-Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
+Nong ngec i kit ma tero kwede data mamegi i <a href="%(privacy_url)s">cik me mung wa.</a>
 
 
 ;Vital Stats
-Vital Stats
+Wel mapire tek
 
 
 ;version
-version
+kit
 
 
 ;update channel
-update channel
+Yoo me keto ngec manyen:
 
 
 ;updates
@@ -69,19 +69,19 @@ prompt
 
 
 ;time open
-time open
+cawa ma ayaba
 
 
 ;last crash
-last crash
+poto me agiki
 
 
 ;bookmarks
-bookmarks
+alamabuk
 
 
 ;This Month
-This Month
+Dwe eni
 
 
 ;total sessions
@@ -101,107 +101,107 @@ Plugins (Click-to-Activate)
 
 
 ;crashes
-crashes
+poto
 
 
 ;application crashes
-application crashes
+poto pa purugram
 
 
 ;plugin crashes
-plugin crashes
+poto pa larwak
 
 
 ;Add-ons
-Add-ons
+Med-ikome
 
 
 ;View List
-View List
+Nen jami
 
 
 ;enabled
-enabled
+kicako
 
 
 ;disabled
-disabled
+kijuko
 
 
 ;Plugins
-Plugins
+Larwak
 
 
 ;always activate
-always activate
+jwijwi caki
 
 
 ;ask to activate
-ask to activate
+peny me cako
 
 
 ;never activate
-never activate
+pe i cak matwal
 
 
 ;Tips
-Tips
+Tam
 
 
 ;Wear and Tear
-Wear and Tear
+Bale ne
 
 
 ;It looks like your browser has crashed a number of times recently. To learn more:
-It looks like your browser has crashed a number of times recently. To learn more:
+Nen calo layeny mamegi opoto tyen mapol ma cokcoki. Me nongo ngec mapol:
 
 
 ;OFF
-OFF
+Pe tye
 
 
 ;Visit our <a href="%(sumo_url)s">support website</a>
-Visit our <a href="%(sumo_url)s">support website</a>
+Lim <a href="%(sumo_url)s">kakube me kony</a> ma megwa
 
 
 ;View more <a href="%(details_url)s">detailed information</a>
-View more <a href="%(details_url)s">detailed information</a>
+Nen <a href="%(details_url)s">ngec mapol kore ki kore</a>
 
 
 ;pages visited
-pages visited
+potbuk ma kilimo
 
 
 ;Your browser seems to be running slower than usual. To learn more:
-Your browser seems to be running slower than usual. To learn more:
+Layeny mamegi nen calo tye ka tic mot mukato kakare. Me nongo ngec mapol:
 
 
 ;You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
-You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
+I bi bedo ki kero me neno ngec mapol ma mwonya ki kore ki kore ka i mede ki tic ki layeny mamegi. Rot lacen inge cabit manok me cako neno alokaloka mogo.
 
 
 ;Startup Time by Day
-Startup Time by Day
+Cawa me acaki ki nino
 
 
 ;Graph:
-Graph:
+Graph: {ok}
 
 
 ;Average
-Average
+La dyere
 
 
 ;All
-All
+Weng
 
 
 ;Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
-Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
+Cawa me acaki konyo me byeko kit ma kit me Firefox tye katic kwede. Pol kare, cawa ma dwir (en aye cawa me tic matidi) nyuto tic maber.
 
 
 ;Data Collected
-Data Collected
+Data ma kicoko
 
 
 ;Glossary
@@ -209,15 +209,15 @@ Glossary
 
 
 ;What the Firefox Health Report Measures
-What the Firefox Health Report Measures
+Ngo ma ripot me yot kom pa Firefox pimo
 
 
 ;The Firefox Health Report (FHR) has 4 categories of metrics:
-The Firefox Health Report (FHR) has 4 categories of metrics:
+Ripot me yot kom pa Firefox (FHR) tye ki dul me pim 4:
 
 
 ;Configuration
-Configuration
+Cano
 
 
 ;Device hardware, operating system, Firefox version
@@ -233,7 +233,7 @@ Add-ons, count and type
 
 
 ;Performance
-Performance
+Tic
 
 
 ;Timing of browser events, rendering, session restores
@@ -245,15 +245,15 @@ Length of session, how old a profile is, count of crashes, count of pages
 
 
 ;Detailed Description
-Detailed Description
+Lok kore ki kore
 
 
 ;Metric
-Metric
+La pim
 
 
 ;Description
-Description
+Lok ikome
 
 
 ;Binary interface for XPCOM
@@ -285,7 +285,7 @@ Identifier unique to the application that indicates it is Firefox or Thunderbird
 
 
 ;The configured name of the application (Firefox/Aurora/Nightly for instance)
-The configured name of the application (Firefox/Aurora/Nightly for instance)
+Nying ma kitero pi purugram (calo Firefox/Aurora/Nightly)
 
 
 ;The channel this installation checks for application updates (nightly/aurora/beta/release)
@@ -293,11 +293,11 @@ The channel this installation checks for application updates (nightly/aurora/bet
 
 
 ;The name of the company/provider who built this version
-The name of the company/provider who built this version
+Nying kampuni/lami tic ma oyubo kit man
 
 
 ;The current version of the product
-The current version of the product
+Kit me jami ma kombedi
 
 
 ;Number of processor cores
@@ -309,7 +309,7 @@ Whether the application is currently configured to be the default browser for th
 
 
 ;Locale currently being used
-Locale currently being used
+Leb ma kitye katic kwede kombedi
 
 
 ;Amount of RAM in megabytes
@@ -349,15 +349,15 @@ The number of add-ons of this type that existed in the profile on this date
 
 
 ;<var>True</var> if the application automatically disabled the add-on
-<var>True</var> if the application automatically disabled the add-on
+<var>Ada</var> kacce purugram ojuko woko med-ikome pire kene
 
 
 ;Whether this add-on was installed by the user or automatically by another application
-Whether this add-on was installed by the user or automatically by another application
+Kono onyo latic aye oketo med-ikome man onyo purugram mukene aye oketo pire kene
 
 
 ;Whether this add-on has native code.
-Whether this add-on has native code.
+Kono onyo med-ikome man tye ki kod me gang.
 
 
 ;The identifier of this add-on as defined by the add-on developer
@@ -377,7 +377,7 @@ Whether this add-on was installed in the application directory or profile direct
 
 
 ;Whether this add-on is an extension or a plug-in
-Whether this add-on is an extension or a plug-in
+Kono onyo med-ikome man obedo lamed onyo larwak
 
 
 ;The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
@@ -389,7 +389,7 @@ The most recent date this add-on was updated (previous information about an unin
 
 
 ;The current version of this add-on
-The current version of this add-on
+Kit me jami ma kombedi
 
 
 ;How long in milliseconds it took during startup for the application to render the UI and display the window
@@ -433,11 +433,11 @@ The time in seconds that the completed sessions were running
 
 
 ;Total number of crashes that were recorded but not yet submitted
-Total number of crashes that were recorded but not yet submitted
+Wel me poto ma kicoko ento pud pe ya ki cwalo
 
 
 ;Total number of crashes that have been submitted
-Total number of crashes that have been submitted
+Wel me poto ma kicwalo
 
 
 ;Time in seconds the app has not been idle
@@ -449,11 +449,11 @@ Time in seconds since the app was last started
 
 
 ;Total number of bookmarks
-Total number of bookmarks
+Wel alama buk
 
 
 ;Total number of pages listed in the history
-Total number of pages listed in the history
+Wel pot buk ma tye i gin mukato
 
 
 ;How long in minutes the current session has been running
@@ -461,23 +461,23 @@ How long in minutes the current session has been running
 
 
 ;Welcome to your Firefox Health Report
-Welcome to your Firefox Health Report
+Wajoli i Ripot me yot kom pa Firefox mamegi
 
 
 ;Welcome!
-Welcome!
+Wajoli!
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
-Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
+Ripot me yot kom pa Firefox weko i ngeyo kit ma Firefox mamegi tye katic kwede ki ngo ma i twero timo me yilo rwom me malo.
 
 
 ;See My Report
-See My Report
+Nen Ripot mamega
 
 
 ;Time (in seconds)
-Time (in seconds)
+Cawa (i ceken)
 
 
 ;Show Statistics
@@ -494,23 +494,23 @@ Firefox Health Report lets you optimize your Firefox and helps us build a more e
 
 
 ;Learn More&hellip;
-Learn More&hellip;
+Nong ngec mapol&hellip;
 
 
 ;Tip
-Tip
+Tam
 
 
 ;Looks like your Firefox is brand new! Check back after using Firefox for a while.
-Looks like your Firefox is brand new! Check back after using Firefox for a while.
+Nen calo Firefox mamegi nyen! Rot inge tic ki Firefox pi kare mo.
 
 
 ;Important Metrics
-Important Metrics
+La pim mapi gi tego
 
 
 ;Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
-Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
+Ripot me yot kom pa Firefox gwoko ngec ikom layeny ki nyonyo mamegi. I twero <a href="#raw" class="navigate">neno ngec ma wagwoko.</a> Itwero bene neno ngo ma inywako ki Mozilla.
 
 
 ;Device hardware, operating system, Firefox version.
@@ -518,7 +518,7 @@ Device hardware, operating system, Firefox version.
 
 
 ;Extensions, plugins, and number of installed add-ons.
-Extensions, plugins, and number of installed add-ons.
+Lamed, larwak, ki wel med-ikome ma kiketo.
 
 
 ;Key performance measures, such as launch speed.
@@ -530,11 +530,11 @@ Browsing duration, install time, number of bookmarks and pages.
 
 
 ;Home
-Home
+Gang
 
 
 ;CPU Count:
-CPU Count:
+Kwan me CPU:
 
 
 ;The number of CPU cores reported by Android.
@@ -542,7 +542,7 @@ The number of CPU cores reported by Android.
 
 
 ;Memory in MB:
-Memory in MB:
+Memory i MB:
 
 
 ;The amount of memory reported by Android. Typically excludes graphics memory.
@@ -550,7 +550,7 @@ The amount of memory reported by Android. Typically excludes graphics memory.
 
 
 ;Application Name:
-Application Name:
+Nying purugram:
 
 
 ;The internal application name for the browser.
@@ -558,7 +558,7 @@ The internal application name for the browser.
 
 
 ;Application ID:
-Application ID:
+ID pa purugram:
 
 
 ;The internal identifier for the application.
@@ -570,11 +570,11 @@ Application Version:
 
 
 ;The current version of the browser
-The current version of the browser
+Kit layeny ma kombedi
 
 
 ;Application Build ID:
-Application Build ID:
+ID me gedo pa purugram:
 
 
 ;The internal build timestamp.
@@ -582,7 +582,7 @@ The internal build timestamp.
 
 
 ;Update Channel:
-Update Channel:
+Yoo me keto ngec manyen:
 
 
 ;Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
@@ -590,11 +590,11 @@ Firefox is distributed through channels: Nightly builds, the Aurora pre-release 
 
 
 ;Vendor:
-Vendor:
+Lacat:
 
 
 ;The organization that built this application. Typically Mozilla.
-The organization that built this application. Typically Mozilla.
+Dul ma oyubo purugram man. Pol kare Mozilla.
 
 
 ;Platform Version:
@@ -622,7 +622,7 @@ The CPU architecture for which this application was built.
 
 
 ;OS:
-OS:
+OS: {ok}
 
 
 ;The current operating system.
@@ -638,11 +638,11 @@ The CPU architecture for this device.
 
 
 ;System Name:
-System Name:
+Nying nyonyo:
 
 
 ;The current system name.
-The current system name.
+Nying ma kombedi pi nyonyo.
 
 
 ;System Version:
@@ -670,7 +670,7 @@ Extension Count:
 
 
 ;How many extension add-ons are installed.
-How many extension add-ons are installed.
+Med-ikome adi me lamed ma kiketo.
 
 
 ;Plugin Count:
@@ -678,7 +678,7 @@ Plugin Count:
 
 
 ;How many plugin add-ons are installed.
-How many plugin add-ons are installed.
+Med-ikome adi me larwak ma kiketo.
 
 
 ;Theme Count:
@@ -686,11 +686,11 @@ Theme Count:
 
 
 ;How many theme add-ons are installed.
-How many theme add-ons are installed.
+Med-ikome adi me larwak ma kiketo.
 
 
 ;Addons:
-Addons:
+Med-ikome:
 
 
 ;A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
@@ -706,7 +706,7 @@ A count of how many searches you issued to each of Mozilla's partner providers.
 
 
 ;Sessions and Startup Times
-Sessions and Startup Times
+Kare ki cawa me acaki
 
 
 ;For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
@@ -714,35 +714,35 @@ For each browsing session, Firefox Health Report records approximately how long 
 
 
 ;Profile Creation:
-Profile Creation:
+Cweyo Propwail:
 
 
 ;The day on which your browser profile was created. Counted in days since January 1st 1970.
-The day on which your browser profile was created. Counted in days since January 1st 1970.
+Nino ma kicweyo ki propwail me layeny mamegi. Kikwano i nino cake i nino dwe acel me dwe me acel i 1970.
 
 
 ;Learn More
-Learn More
+Nong ngec mapol
 
 
 ;Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
-Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
+Ripot me yot kom pa Firefox (FHR) ngiyo ngec ikom tic me layeny mamegi me miyo yin ngec mogo mabeco me konyi nongo jami mabeco ki bot Firefox. Pi ngec mapol ikom Ripot me yot kom pa Firefox, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>lim but Mozilla me Kony.</a>
 
 
 ;For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
-For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
+Pi ngec mapol ikom kit ma wa tero kwede data ni <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>nen cik me mung wa.</a>
 
 
 ;You are currently sharing your health report with Mozilla.
-You are currently sharing your health report with Mozilla.
+Kombedi i tye ka nywako ripot me yot kom mamegi ki Mozilla.
 
 
 ;Choose what I share
-Choose what I share
+Yer ngo ma anywako
 
 
 ;You are currently not sharing your health report with Mozilla.
-You are currently not sharing your health report with Mozilla.
+Kombedi i pe ka nywako ripot me yot kom mamegi ki Mozilla.
 
 
 # This string is displayed when selecting Raw Data near the title
