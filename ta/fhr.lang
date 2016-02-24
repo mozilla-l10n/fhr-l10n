@@ -3,7 +3,7 @@
 
 
 ;Firefox Health Report
-பயர்பாக்ஸ் நல அறிக்கை
+பயர்பாக்ஸ் ஆரோக்கிய அறிக்கை
 
 
 ;Raw Data
@@ -15,7 +15,7 @@
 
 
 ;Learn more...
-மேலும் அறிக...
+மேலும் அறிய
 
 
 ;Data Sharing
@@ -31,15 +31,15 @@
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
-உங்கள் நல அறிக்கை தரவு மொசில்லாவின் சேவையகங்களிலிருந்து அகற்றப்படும். மேலும் எங்களுடைய <a href="%(privacy_url)s">தனியுரிமை கொள்கையைப் பற்றி அறிய.</a>
+உங்கள் உலாவியின் ஆரோக்கிய அறிக்கை தரவு மொசில்லாவின் சேவையகங்களிலிருந்து அகற்றப்படும். மேலும் எங்களுடைய <a href="%(privacy_url)s">தனியுரிமை கொள்கையில் அறிக.</a>
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
-அவ்வப்போது மொசில்லாவுடன் உங்கள் தரவைப் பகிர்ந்துகொள்ளத் தேர்வு செய்துள்ளீர்கள். இணையத்திற்கு சிறப்பான எதிர்காலத்தை உருவாக்கும் எங்கள் நோக்கத்திற்காக பங்களிப்பதமைப்பு மிக்க நன்றி.
+உங்கள் தரவை அவ்வப்போது மொசில்லாவுடன் பகிர்ந்துகொள்ளத் தேர்வு செய்துள்ளீர்கள். இணையத்திற்கு சிறப்பான எதிர்காலத்தை உருவாக்கும் எங்கள் நோக்கத்திற்காக பங்களிப்பதற்கு மிக்க நன்றி.
 
 
 ;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
-நாங்கள் உங்கள் தரவை எப்படிக் கையாள்வோம் என்பதைப் பற்றி எங்களடைய <a href="%(privacy_url)s">தனியுரிமை கொள்கையில் அறிக.</a>
+நாங்கள் உங்கள் தரவை எப்படிக் கையாள்வோம் என்பதைப் பற்றி எங்களுடைய <a href="%(privacy_url)s">தனியுரிமை கொள்கையில் அறிக.</a>
 
 
 ;Vital Stats
@@ -51,7 +51,7 @@
 
 
 ;update channel
-update channel
+அலைவரிசையை புதுப்பி:
 
 
 ;updates
@@ -105,11 +105,11 @@ Plugins (Click-to-Activate)
 
 
 ;application crashes
-application crashes
+பயன்பாடு செயலிழப்புகள்
 
 
 ;plugin crashes
-plugin crashes
+செருகி செயலிழப்புகள்
 
 
 ;Add-ons
@@ -241,7 +241,7 @@ plugin crashes
 
 
 ;Length of session, how old a profile is, count of crashes, count of pages
-அமர்வின் நீளம், ஒரு சுயவிவரத்தின் வயது, செயலிழப்புகளின் எண்ணிக்கை, பக்கங்களின் எண்ணிக்கை
+அமர்வு நேரம், ஒரு சுயவிவரத்தின் வயது, செயலிழப்புகளின் எண்ணிக்கை, பக்கங்களின் எண்ணிக்கை
 
 
 ;Detailed Description
