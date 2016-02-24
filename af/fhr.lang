@@ -3,7 +3,7 @@
 
 
 ;Firefox Health Report
-Firefox Health Report
+Firefox-gesondheidsverslag
 
 
 ;Raw Data
@@ -11,7 +11,7 @@ Rou data
 
 
 ;Get insights and performance information about your version of Firefox.
-Get insights and performance information about your version of Firefox.
+Kry insig en inligting oor werkverrigting oor u weergawe van Firefox.
 
 
 ;Learn more...
@@ -19,7 +19,7 @@ Meer inligting…
 
 
 ;Data Sharing
-Data Sharing
+Deel van data
 
 
 ;ON
@@ -27,7 +27,7 @@ AAN
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
-You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
+U het gekies om nie meer data met Mozilla te deel nie, maar u kan steeds die blaaier se werkverrigting sien.
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
