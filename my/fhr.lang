@@ -510,7 +510,7 @@ How long in milliseconds it took during startup for the application to load libr
 
 
 ;Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
-Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
+မီးမြေခွေး ကျန်းမာရေး အစီရင်ခံစာသည် သင့်ဘယောက်ဆာ၏ အချက်အလက်များအားစုဆောင်းထားပါသည်။ မည်သည့် အချက်အလက်များစုဆောင်းသည်ကို သိရှိလိုပါက <a href="#raw" class="navigate">ဒီတွင်</a>ကြ့်ပါ။ မည်သည့် အချက်အလက်များကို မျှဝေလိုက်သည်ကို လည်း ကြည့်နိုင်ပါသည်။
 
 
 ;Device hardware, operating system, Firefox version.
@@ -518,11 +518,11 @@ Firefox Health Report records information about your browser and device. You can
 
 
 ;Extensions, plugins, and number of installed add-ons.
-Extensions, plugins, and number of installed add-ons.
+ထည့်ပေါင်းချက်များ၊ ပလပ်အင်များ နှင့် တပ်ဆင်ထားသော အတ်အွန်များ
 
 
 ;Key performance measures, such as launch speed.
-Key performance measures, such as launch speed.
+စတင်အမြန်နှုန်း ကဲ့သို့ အဓိက လုပ်ဆောင်ချက်များ
 
 
 ;Browsing duration, install time, number of bookmarks and pages.
