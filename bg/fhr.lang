@@ -7,7 +7,7 @@
 
 
 ;Raw Data
-Необработени данни
+Сурови данни
 
 
 ;Get insights and performance information about your version of Firefox.
@@ -51,7 +51,7 @@
 
 
 ;update channel
-update channel
+Канал за обновяване:
 
 
 ;updates
@@ -614,7 +614,7 @@ Build ID на платформата;
 
 
 ;xpcomabi:
-xpcomabi:{ok}
+xpcomabi: {ok}
 
 
 ;The CPU architecture for which this application was built.
