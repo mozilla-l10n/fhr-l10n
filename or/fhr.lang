@@ -289,7 +289,7 @@ XPCOM ପାଇଁ ବାଇନାରି ଅନ୍ତରାପୃଷ୍ଠ
 
 
 ;The channel this installation checks for application updates (nightly/aurora/beta/release)
-ପ୍ରୟୋଗ ଅଦ୍ୟତନ ପାଇଁ  ଯେଉଁ ଚ୍ୟାନେଲକୁ ଏହି ସ୍ଥାପନ ଯାଞ୍ଚ କରିଥାଏ (ନାଇଟଲି/ଏରୋରୋ/ବିଟା/ପ୍ରକାଶନ)
+ଏହି ଇନଷ୍ଟଲେସନ ପରଖୁଥିବା ଆପ୍ଲିକେସନ ଅପଡେଟ (ନାଇଟଲି/ଏରୋରୋ/ବିଟା/ପ୍ରକାଶନ) ଚ୍ୟାନେଲ
 
 
 ;The name of the company/provider who built this version
@@ -381,7 +381,7 @@ UI ର ଏହି ଭାଗରୁ ଏହି ସନ୍ଧାନ ଯନ୍ତ୍ର
 
 
 ;The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
-ଏହି ଏଡ଼-ଅନକୁ ଅଦ୍ୟତନ କରିଥିବା ନିକଟତମ ତାରିଖ (ସ୍ଥାପନ ହୋଇନଥିବା ଏଡ଼-ଅନର ପୂର୍ବ ସୂଚନା ରଖାଯାଇନଥାଏ)।
+ଏହି ଆଡ଼-ଅନକୁ ଅପଡେଟ କରିଥିବା ନିକଟତମ ତାରିଖ (ସ୍ଥାପନ ହୋଇନଥିବା ଆଡ଼-ଅନର ପୂର୍ବ ସୂଚନା ରଖାଯାଇନଥାଏ) ।
 
 
 ;<var>True</var> if the user manually disabled the add-on
@@ -498,7 +498,7 @@ Learn More&hellip;
 
 
 ;Tip
-Tip
+ସୂଚନାଗୁଡ଼ିକ
 
 
 ;Looks like your Firefox is brand new! Check back after using Firefox for a while.
@@ -514,7 +514,7 @@ Firefox Health Report records information about your browser and device. You can
 
 
 ;Device hardware, operating system, Firefox version.
-Device hardware, operating system, Firefox version.
+ଉପକରଣ ହାର୍ଡୱେର, ପ୍ରଚାଳନ ତନ୍ତ୍ର, Firefox ସଂସ୍କରଣ
 
 
 ;Extensions, plugins, and number of installed add-ons.
@@ -570,7 +570,7 @@ Application Version:
 
 
 ;The current version of the browser
-The current version of the browser
+ଏହି ଉତ୍ପାଦନର ପ୍ରଚଳିତ ସଂସ୍କରଣ
 
 
 ;Application Build ID:
