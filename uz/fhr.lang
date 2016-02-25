@@ -55,17 +55,17 @@ Kanalni yangilash:
 
 
 ;updates
-updates
+yangilanishlar
 
 
 # Possible value for "updates"
 ;automatic
-automatic
+avtomatik
 
 
 # Possible value for "updates"
 ;prompt
-prompt
+urinish
 
 
 ;time open
@@ -85,19 +85,19 @@ Bu oy
 
 
 ;total sessions
-total sessions
+barcha seanslar
 
 
 ;Active Add-ons
-Active Add-ons
+Faol qo‘shimcha dasturlar
 
 
 ;Extensions
-Extensions
+Kengaytmalar
 
 
 ;Plugins (Click-to-Activate)
-Plugins (Click-to-Activate)
+Plaginlar (Faollashtirish uchun bosing)
 
 
 ;crashes
@@ -747,12 +747,10 @@ Siz hozirda yaroqlilik ma’lumotini Mozilla bilan bo‘lishmayapsiz.
 
 # This string is displayed when selecting Raw Data near the title
 ;Firefox Health Report (FHR) records anonymous data about your computer, configuration, usage, performance, and error conditions. This data helps us improve Firefox for you and for other Firefox users.
-Firefox Health Report (FHR) records anonymous data about your computer, configuration, usage, performance, and error conditions. This data helps us improve Firefox for you and for other Firefox users.
+Firefox yaroqlilik hisoboti (FHR) anonim tarzda kompyuteringiz, konfiguratsiyasi, foydalanish, ishlash tezligi va xatolik muhitlari haqidagi ma’lumotlarni yozib oladi. Bu ma’lumotlar Firefox brauzerini siz va boshqa foydalanuvchilar uchun yaxshilashda yordam beradi.
 
 
 # This string is displayed when selecting Raw Data near the title
 # Links to https://gecko.readthedocs.org/en/latest/toolkit/components/telemetry/telemetry/
 ;Read technical documentation for the data format and fields.
-Read technical documentation for the data format and fields.
-
-
+Ma’lumotlar formati va maydonlari haqida ma’lumot olish uchun texnik qo‘llanmalar bilan tanishib chiqing.
