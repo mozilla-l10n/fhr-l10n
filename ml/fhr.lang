@@ -3,11 +3,11 @@
 
 
 ;Firefox Health Report
-ഫയര്‍ഫോക്സ് ആരോഗ്യ റിപ്പോര്‍ട്ട്
+ഫയര്‍ഫോക്സിന്റെ ആരോഗ്യ അറിയിപ്പ്‌
 
 
 ;Raw Data
-റോ ഡേറ്റാ
+അസംസ്കൃത ഡാറ്റ
 
 
 ;Get insights and performance information about your version of Firefox.
@@ -39,7 +39,7 @@
 
 
 ;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
-ഞങ്ങളുടെ <a href="%(privacy_url)s">സ്വകാര്യ പോളിസില്‍</a> നിങ്ങളുടെ ഡേറ്റാ എങ്ങനെ കൈകാര്യം ചെയ്യുന്നു എന്നറിയുക.
+ഞങ്ങളുടെ <a href="%(privacy_url)s">സ്വകാര്യ കരാര്‍പത്രം</a> നിങ്ങളുടെ ഡേറ്റാ എങ്ങനെ കൈകാര്യം ചെയ്യുന്നു എന്നറിയുക.
 
 
 ;Vital Stats
@@ -105,11 +105,11 @@ Plugins (Click-to-Activate)
 
 
 ;application crashes
-application crashes
+പ്രയോഗം തകരാറുകള്‍
 
 
 ;plugin crashes
-plugin crashes
+പ്ലഗിന്‍ തകരാറുകള്‍
 
 
 ;Add-ons
@@ -133,11 +133,11 @@ plugin crashes
 
 
 ;always activate
-എപ്പോഴും സജീവമാക്കൂ
+എപ്പോഴും സജീവം
 
 
 ;ask to activate
-ask to activate
+സജീവമാക്കുവാന്‍ ആവശ്യപ്പെടുക
 
 
 ;never activate
@@ -490,7 +490,7 @@ Hപ്രയോഗത്തിന്റെ പ്രാരംഭത്തില
 
 # The following strings are used only in the Mobile version of about:healthreport (Firefox for Android)
 ;Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
-Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
+ഫയര്‍ഫോക്സ് ഹെല്‍ത്ത് റിപ്പോര്‍ട്ട് താങ്കളുടെ ഫയര്‍ഫോക്സ് മികച്ചതാക്കാന്‍ താങ്കളെ അനുവദിക്കുകയും, കൂടുതല്‍ മികച്ച ഒരു ബ്രൗസര്‍ നിര്‍മ്മിക്കാന്‍ ഞങ്ങളെ സഹായിക്കുകയും ചെയ്യുന്നു. അറിയിപ്പുകള്‍ ആദ്യം പ്രാഥമികം മാത്രമായിരിക്കുമെങ്കിലു, പതിയെ വളരുകയും വലുതാവുകയും ചെയ്യും.
 
 
 ;Learn More&hellip;
@@ -502,31 +502,31 @@ Firefox Health Report lets you optimize your Firefox and helps us build a more e
 
 
 ;Looks like your Firefox is brand new! Check back after using Firefox for a while.
-Looks like your Firefox is brand new! Check back after using Firefox for a while.
+താങ്കളുടെ ഫയര്‍ഫോക്സ് ഏറ്റവും പുതിയതാണല്ലോ! ഫയര്‍ഫോക്സ് കുറച്ചുനാള്‍ ഉപയോഗിച്ചതിനു ശേഷം പരിശോധിക്കൂ.
 
 
 ;Important Metrics
-Important Metrics
+പ്രധാനപ്പെട്ട അളവുകള്‍
 
 
 ;Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
-Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
+ഫയര്‍ഫോക്സ് ഹെല്‍ത്ത് റിപ്പോറ് താങ്കളുടെ ബ്രൗസറിനെപ്പറ്റിയും ഉപകരണത്തെപ്പറ്റിയും ഉള്ള വിവരങ്ങള്‍ സൂക്ഷിക്കുന്നു. താങ്കള്‍ക്ക് <a href="#raw" class="navigate">ഞങ്ങള്‍ സൂക്ഷിക്കുന്ന വിവരങ്ങള്‍ കാണാവുന്നതാണു്.</a> താങ്കള്‍ക്ക് താങ്കള്‍ മോസില്ലയുമായി എന്തൊക്കെ പങ്കിടുന്നു എന്നും കാണാവുന്നതാണു്.
 
 
 ;Device hardware, operating system, Firefox version.
-Device hardware, operating system, Firefox version.
+ഉപകരണത്തിന്റെ ഹാര്‍ഡ്‌വെയര്‍, ഓപ്പറേറ്റിങ്ങ് സിസ്റ്റം, ഫയര്‍ഫോക്സ് പതിപ്പ്.
 
 
 ;Extensions, plugins, and number of installed add-ons.
-Extensions, plugins, and number of installed add-ons.
+എക്സ്റ്റന്‍ഷനുകള്‍, പ്ലഗിനുകള്‍, കൂടാതെ ചേര്‍ത്തിട്ടുള്ള നിരവധി ആഡ്‌ഓണുകള്‍.
 
 
 ;Key performance measures, such as launch speed.
-Key performance measures, such as launch speed.
+തുറക്കാനുള്ള വേഗം മുതലായ പ്രവര്‍ത്തനം അളക്കാനുള്ള പ്രധാന അളവുകള്‍
 
 
 ;Browsing duration, install time, number of bookmarks and pages.
-Browsing duration, install time, number of bookmarks and pages.
+ബ്രൗസിങ്ങ് നീണ്ടുനിന്ന സമയം, ചേര്‍ക്കാനെടുത്ത സമയം, അടയാളക്കുറിപ്പുകളുടേയും താളുകളുടേയും എണ്ണം.
 
 
 ;Home
@@ -534,11 +534,11 @@ Browsing duration, install time, number of bookmarks and pages.
 
 
 ;CPU Count:
-CPU Count:
+സിപിയു എണ്ണം:
 
 
 ;The number of CPU cores reported by Android.
-The number of CPU cores reported by Android.
+ആന്‍ഡ്രോയിഡ് അറിയിച്ച സിപിയു കോറുകളുടെ എണ്ണം.
 
 
 ;Memory in MB:
@@ -546,19 +546,19 @@ The number of CPU cores reported by Android.
 
 
 ;The amount of memory reported by Android. Typically excludes graphics memory.
-The amount of memory reported by Android. Typically excludes graphics memory.
+ആന്‍ഡ്രോയിഡ് അറിയിച്ച മെമ്മറിയുടെ വലുപ്പം. സാധാരണഗതിയില്‍ ഗ്രാഫിക്സ് മെമ്മറി ഒഴിവാക്കിയിരിക്കും.
 
 
 ;Application Name:
-Application Name:
+പ്രയോഗത്തിന്റെ പേരു്:
 
 
 ;The internal application name for the browser.
-The internal application name for the browser.
+ബ്രൗസറിന്റെ ആന്തരികമായിട്ടുള്ള നാമം.
 
 
 ;Application ID:
-Application ID:
+ആപ്ലിക്കേഷന്റെ ഐഡി:
 
 
 ;The internal identifier for the application.
