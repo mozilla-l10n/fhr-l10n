@@ -51,7 +51,7 @@
 
 
 ;update channel
-update channel
+ឆានែល​ធ្វើ​បច្ចុប្បន្នភាព៖
 
 
 ;updates
@@ -105,11 +105,11 @@ Plugins (Click-to-Activate)
 
 
 ;application crashes
-application crashes
+កម្មវិធី​គាំង
 
 
 ;plugin crashes
-plugin crashes
+កម្មវិធី​បន្ថែម​គាំង
 
 
 ;Add-ons
@@ -481,11 +481,11 @@ Firefox Health Report (FHR) មាន​៤​ប្រភេទ៖
 
 
 ;Show Statistics
-បង្ហាញ<200b>ស្ថិតិ
+បង្ហាញ​ស្ថិតិ
 
 
 ;Privacy Policy
-គោលនយោបាយ<200b>ឯកជន
+គោលនយោបាយ​ឯកជន
 
 
 # The following strings are used only in the Mobile version of about:healthreport (Firefox for Android)
