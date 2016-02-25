@@ -3,27 +3,27 @@
 
 
 ;Firefox Health Report
-Firefox Health Report
+Firefox Helserapport
 
 
 ;Raw Data
-Raw Data
+Rådata
 
 
 ;Get insights and performance information about your version of Firefox.
-Get insights and performance information about your version of Firefox.
+Få innsikt og ytingsinformasjon om din Firefox.
 
 
 ;Learn more...
-Learn more...
+Lær meir …
 
 
 ;Data Sharing
-Data Sharing
+Data-deling
 
 
 ;ON
-ON
+PÅ
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
@@ -47,7 +47,7 @@ Vital Stats
 
 
 ;version
-version
+versjon
 
 
 ;update channel
@@ -73,15 +73,15 @@ time open
 
 
 ;last crash
-last crash
+siste krasj
 
 
 ;bookmarks
-bookmarks
+bokmerke
 
 
 ;This Month
-This Month
+Denne månaden
 
 
 ;total sessions
@@ -101,7 +101,7 @@ Plugins (Click-to-Activate)
 
 
 ;crashes
-crashes
+krasj
 
 
 ;application crashes
@@ -113,39 +113,39 @@ plugin crashes
 
 
 ;Add-ons
-Add-ons
+Utvidingar
 
 
 ;View List
-View List
+Vis liste
 
 
 ;enabled
-enabled
+påslått
 
 
 ;disabled
-disabled
+avslått
 
 
 ;Plugins
-Plugins
+Programtillegg
 
 
 ;always activate
-always activate
+alltid slå på
 
 
 ;ask to activate
-ask to activate
+spør om å slå på
 
 
 ;never activate
-never activate
+aldri slå på
 
 
 ;Tips
-Tips
+Råd
 
 
 ;Wear and Tear
@@ -157,7 +157,7 @@ It looks like your browser has crashed a number of times recently. To learn more
 
 
 ;OFF
-OFF
+AV
 
 
 ;Visit our <a href="%(sumo_url)s">support website</a>
@@ -169,7 +169,7 @@ View more <a href="%(details_url)s">detailed information</a>
 
 
 ;pages visited
-pages visited
+sider vitja
 
 
 ;Your browser seems to be running slower than usual. To learn more:
@@ -189,11 +189,11 @@ Graph:
 
 
 ;Average
-Average
+Gjennomsnittleg
 
 
 ;All
-All
+Alle
 
 
 ;Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
@@ -225,7 +225,7 @@ Device hardware, operating system, Firefox version
 
 
 ;Customizations
-Customizations
+Tilpassingar
 
 
 ;Add-ons, count and type
@@ -233,7 +233,7 @@ Add-ons, count and type
 
 
 ;Performance
-Performance
+Yting
 
 
 ;Timing of browser events, rendering, session restores
@@ -253,7 +253,7 @@ Metric
 
 
 ;Description
-Description
+Skildring
 
 
 ;Binary interface for XPCOM
@@ -297,7 +297,7 @@ The name of the company/provider who built this version
 
 
 ;The current version of the product
-The current version of the product
+Gjeldande versjon av produktet
 
 
 ;Number of processor cores
@@ -389,7 +389,7 @@ The most recent date this add-on was updated (previous information about an unin
 
 
 ;The current version of this add-on
-The current version of this add-on
+Gjeldande versjon av produktet
 
 
 ;How long in milliseconds it took during startup for the application to render the UI and display the window
@@ -461,11 +461,11 @@ How long in minutes the current session has been running
 
 
 ;Welcome to your Firefox Health Report
-Welcome to your Firefox Health Report
+Velkomen til din Firefox Helserapport
 
 
 ;Welcome!
-Welcome!
+Velkomen!
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
@@ -477,7 +477,7 @@ See My Report
 
 
 ;Time (in seconds)
-Time (in seconds)
+Tid (i sekund)
 
 
 ;Show Statistics
@@ -485,7 +485,7 @@ Vis statistikk
 
 
 ;Privacy Policy
-Personvern
+Personvernpraksis
 
 
 # The following strings are used only in the Mobile version of about:healthreport (Firefox for Android)
@@ -498,7 +498,7 @@ Learn More&hellip;
 
 
 ;Tip
-Tip
+Tips
 
 
 ;Looks like your Firefox is brand new! Check back after using Firefox for a while.
@@ -530,7 +530,7 @@ Browsing duration, install time, number of bookmarks and pages.
 
 
 ;Home
-Home
+Heim
 
 
 ;CPU Count:
@@ -570,7 +570,7 @@ Application Version:
 
 
 ;The current version of the browser
-The current version of the browser
+Gjeldande versjon av produktet
 
 
 ;Application Build ID:
@@ -598,7 +598,7 @@ The organization that built this application. Typically Mozilla.
 
 
 ;Platform Version:
-Platform Version:
+Plattformversjon:
 
 
 ;An internal version identifier. Typically the same as appVersion.
@@ -622,15 +622,15 @@ The CPU architecture for which this application was built.
 
 
 ;OS:
-OS:
+OS: {ok}
 
 
 ;The current operating system.
-The current operating system.
+Gjeldande operativsystem.
 
 
 ;Architecture:
-Architecture:
+Arkitektur:
 
 
 ;The CPU architecture for this device.
@@ -638,15 +638,15 @@ The CPU architecture for this device.
 
 
 ;System Name:
-System Name:
+Systemnamn:
 
 
 ;The current system name.
-The current system name.
+Gjeldande systemnamn.
 
 
 ;System Version:
-System Version:
+Systemversjon:
 
 
 ;The Android OS revision.
@@ -658,7 +658,7 @@ Whether Firefox fetches add-on blocklist results to protect you against maliciou
 
 
 ;Telemetry Enabled:
-Telemetry Enabled:
+Telemetri påslått:
 
 
 ;Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
@@ -722,7 +722,7 @@ The day on which your browser profile was created. Counted in days since January
 
 
 ;Learn More
-Learn More
+Lær meir
 
 
 ;Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
@@ -734,15 +734,15 @@ For more information about how we handle your data, <a href="https://www.mozilla
 
 
 ;You are currently sharing your health report with Mozilla.
-You are currently sharing your health report with Mozilla.
+Du deler no helserapporten din med Mozilla.
 
 
 ;Choose what I share
-Choose what I share
+Vel kva eg deler
 
 
 ;You are currently not sharing your health report with Mozilla.
-You are currently not sharing your health report with Mozilla.
+Du deler no ikkje helserapporten din med Mozilla.
 
 
 # This string is displayed when selecting Raw Data near the title
