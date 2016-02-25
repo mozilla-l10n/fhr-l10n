@@ -3,43 +3,43 @@
 
 
 ;Firefox Health Report
-Firefox Health Report
+ফায়ারফক্সের হেলথ রিপোর্ট
 
 
 ;Raw Data
-Raw Data
+প্রাথমিক ডাটা
 
 
 ;Get insights and performance information about your version of Firefox.
-Get insights and performance information about your version of Firefox.
+আপনার ফায়ারফক্স সংস্করণের অভ্যন্তরীন পরিসংখ্যানিক তথ্য ও কার্যক্ষমতা সম্পর্কিত তথ্য দেখুন।
 
 
 ;Learn more...
-Learn more...
+আরও জানুন...
 
 
 ;Data Sharing
-Data Sharing
+ডাটা শেয়ারিং
 
 
 ;ON
-ON
+ON {ok}
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
-You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
+আপনি মজিলার সাথে ডাটা শেয়ারিং বন্ধ করেছেন, কিন্তু আপনি এখনও ব্রাউজারের কার্যকারিতা দেখতে পারবেন।
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
-Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
+আপনার স্বাস্থ্য প্রতিবেদনের তথ্যও মজিলার সার্ভার থেকে সরানো হবে। আরও জানুন আমাদের <a href="%(privacy_url)s">গোপনীয়তা নীতিতে।</a>
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
-You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
+আপনি সময়ে সময়ে আপনার ডাটা মজিলার সাথে শেয়ার করবেন এমনটা পছন্দ করেছেন। ওয়েবের উজ্জ্বল ভবিষ্যত গড়াত আমাদের মিশনের অংশ হওয়ার জন্য আপনাকে অসংখ্য ধন্যবাদ।
 
 
 ;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
-Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
+কিভাবে আপনার ডাটা আমরা ব্যবহার করি জানতে দেখুন <a href="%(privacy_url)s">গোপনীয়তা নীতি।</a>
 
 
 ;Vital Stats
@@ -117,15 +117,15 @@ Add-ons
 
 
 ;View List
-View List
+তালিকা দেখুন
 
 
 ;enabled
-enabled
+সক্রিয়
 
 
 ;disabled
-disabled
+নিষ্ক্রিয়
 
 
 ;Plugins
