@@ -55,17 +55,17 @@ Sianel Diweddaru:
 
 
 ;updates
-updates
+diweddariadau
 
 
 # Possible value for "updates"
 ;automatic
-automatic
+awtomatig
 
 
 # Possible value for "updates"
 ;prompt
-prompt
+anogydd
 
 
 ;time open
@@ -85,19 +85,19 @@ Mis yma
 
 
 ;total sessions
-total sessions
+cyfanswm y sesiynau
 
 
 ;Active Add-ons
-Active Add-ons
+Ychwanegion Gweithredol
 
 
 ;Extensions
-Extensions
+Estyniadau
 
 
 ;Plugins (Click-to-Activate)
-Plugins (Click-to-Activate)
+Ategion (Clicio i'w Gweithredu)
 
 
 ;crashes
@@ -747,12 +747,10 @@ Nid ydych y rhannu ei adrodiad iechyd gyda Mozilla ar hyn o bryd.
 
 # This string is displayed when selecting Raw Data near the title
 ;Firefox Health Report (FHR) records anonymous data about your computer, configuration, usage, performance, and error conditions. This data helps us improve Firefox for you and for other Firefox users.
-Firefox Health Report (FHR) records anonymous data about your computer, configuration, usage, performance, and error conditions. This data helps us improve Firefox for you and for other Firefox users.
+Mae Adroddiad Iechyd Firefox (FHR) yn cofnodi data dienw am eich cyfrifiadur, ffurfweddiad, defnydd, perfformiad a chyflwr gwallau. Mae'r data yma'n ein cynorthwyo i wella Firefox ar eich cyfer chi a defnyddwyr Firefox eraill.
 
 
 # This string is displayed when selecting Raw Data near the title
 # Links to https://gecko.readthedocs.org/en/latest/toolkit/components/telemetry/telemetry/
 ;Read technical documentation for the data format and fields.
-Read technical documentation for the data format and fields.
-
-
+Darllenwch y dogfennau technegol am fformat a meysydd y data.
