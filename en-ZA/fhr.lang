@@ -133,15 +133,15 @@ Plugins {ok}
 
 
 ;always activate
-always activate
+always activate {ok}
 
 
 ;ask to activate
-ask to activate
+ask to activate {ok}
 
 
 ;never activate
-never activate
+never activate {ok}
 
 
 ;Tips
