@@ -3,55 +3,55 @@
 
 
 ;Firefox Health Report
-Firefox Health Report
+फायरफॉक्स क' स्वास्थ्य रिपोट
 
 
 ;Raw Data
-Raw Data
+राव डेटा
 
 
 ;Get insights and performance information about your version of Firefox.
-Get insights and performance information about your version of Firefox.
+फ़ायरफ़ॉक्स केर अपन संस्करणक संबंधमे अंतर्दृष्टि आओर कार्यकुशलता जानकारी पाबू.
 
 
 ;Learn more...
-Learn more...
+आओर जानू...
 
 
 ;Data Sharing
-Data Sharing
+डेटा साझाकरण
 
 
 ;ON
-ON
+चालू
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
-You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
+अहाँ मोजिला सँ डेटा केँ साझा करब खातिर चुनने छी, मुदा अहाँ अखन देखब मे समर्थ हाएब जे कओन तरहेँ अहाँक ब्राउज़र काम क' रहल अछि.
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
-Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
+अहाँक स्वास्थ्य रिपोट आँकड़ा सेहो मोजिला सर्वर सँ हटाए देल जाएत. हमर <a href="%(privacy_url)s">गोपनीयता नीति</a> केर संबंधमे बेसी जानू.
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
-You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
+अहाँ मोजिला केर सँग समय-समय पर आँकड़ा साझा करबाक लेल चुनने छी. वेब कलेल बेहतर भविष्य खातिर हमर मिशन केर हिस्सा बनबाक लेल धन्यवाद.
 
 
 ;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
-Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
+जानू जे कोन तरहेँ हम अहाँक डेटा केँ <a href="%(privacy_url)s">गोपनीयता नीति</a> मे हैंडल करैत छी.
 
 
 ;Vital Stats
-Vital Stats
+जरूरी आँकड़ा
 
 
 ;version
-version
+संस्करण
 
 
 ;update channel
-update channel
+चैनल अद्यतन करू
 
 
 ;updates
@@ -69,19 +69,19 @@ prompt
 
 
 ;time open
-time open
+समय चालू
 
 
 ;last crash
-last crash
+अंतिम क्रैश
 
 
 ;bookmarks
-bookmarks
+पुस्तचिह्न
 
 
 ;This Month
-This Month
+ई महिना
 
 
 ;total sessions
@@ -101,299 +101,299 @@ Plugins (Click-to-Activate)
 
 
 ;crashes
-crashes
+क्रैश
 
 
 ;application crashes
-application crashes
+अनुप्रयोग क्रैश
 
 
 ;plugin crashes
-plugin crashes
+प्लगइन क्रैश
 
 
 ;Add-ons
-Add-ons
+सहयुक्ति
 
 
 ;View List
-View List
+सूची देखू
 
 
 ;enabled
-enabled
+सक्रिय
 
 
 ;disabled
-disabled
+निष्क्रिय
 
 
 ;Plugins
-Plugins
+प्लगइन
 
 
 ;always activate
-always activate
+हरदम सक्रिय राखू
 
 
 ;ask to activate
-ask to activate
+सक्रिय करबाक लेल पूछू
 
 
 ;never activate
-never activate
+बिल्कुल सक्रिय नहि करू
 
 
 ;Tips
-Tips
+संकेत
 
 
 ;Wear and Tear
-Wear and Tear
+टूट-फूट
 
 
 ;It looks like your browser has crashed a number of times recently. To learn more:
-It looks like your browser has crashed a number of times recently. To learn more:
+एहन लागि रहल अछि जे अहाँक ब्राउज़र हाल मे बहुत बेर क्रैश भ गेल अछि. अधिक जानकारी लेल:
 
 
 ;OFF
-OFF
+बन्न
 
 
 ;Visit our <a href="%(sumo_url)s">support website</a>
-Visit our <a href="%(sumo_url)s">support website</a>
+हमर <a href="%(sumo_url)s">सपोर्ट वेबसाइट</a> केँ देखू
 
 
 ;View more <a href="%(details_url)s">detailed information</a>
-View more <a href="%(details_url)s">detailed information</a>
+आन <a href="%(details_url)s">विस्तृत विवरण</a> केँ देखू
 
 
 ;pages visited
-pages visited
+देखल गेल पृष्ठ
 
 
 ;Your browser seems to be running slower than usual. To learn more:
-Your browser seems to be running slower than usual. To learn more:
+अहाँक ब्राउज़र सामान्य सँ धीमा रफ्तार मे चलि रहल अछि. बेसी जानकारी कलेल:
 
 
 ;You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
-You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
+अहाँ आओर रुचिकर आओर विस्तृत जानकारी देखब जतेक बेसी बेर अहाँ ब्राउज़रक उपयोग करब. किछु प्रवृत्ति देखए कलेल किछु सप्ताह मे जाँचू.
 
 
 ;Startup Time by Day
-Startup Time by Day
+दिवसक अनुसार आरंभ
 
 
 ;Graph:
-Graph:
+आलेख:
 
 
 ;Average
-Average
+औसत
 
 
 ;All
-All
+सभ
 
 
 ;Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
-Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
+आरंभन समय निर्धारित करए मे मदति करैत अछि कि कतेक बढ़िया तरीका सँ फ़ायरफ़ॉक्स केर संस्करण काम कए रहल अछि. सामान्य रूप सँ, तेज समय (यानी कम समय) बेहतर प्रदर्शन केर संबंध मे बतबैत अछि.
 
 
 ;Data Collected
-Data Collected
+संग्रहित आँकड़ा
 
 
 ;Glossary
-Glossary
+शब्दकोश
 
 
 ;What the Firefox Health Report Measures
-What the Firefox Health Report Measures
+फ़ायरफ़ॉक्स स्वास्थ्य रिपोट कथि मापैत अछि
 
 
 ;The Firefox Health Report (FHR) has 4 categories of metrics:
-The Firefox Health Report (FHR) has 4 categories of metrics:
+फ़ायरफ़ॉक्स स्वास्थ्य रिपोट (FHR) केर सँग मैट्रिक्स केर चार श्रेणी अछि :
 
 
 ;Configuration
-Configuration
+विन्यास
 
 
 ;Device hardware, operating system, Firefox version
-Device hardware, operating system, Firefox version
+युक्ति हार्डवेयर, ऑपरेटिंग तंत्र, फ़ायरफ़ॉक्स संस्करण
 
 
 ;Customizations
-Customizations
+मनपसंदीकरण
 
 
 ;Add-ons, count and type
-Add-ons, count and type
+सहयुक्ति, गणना, आओर प्रकार
 
 
 ;Performance
-Performance
+प्रदर्शन
 
 
 ;Timing of browser events, rendering, session restores
-Timing of browser events, rendering, session restores
+ब्राउज़र इवेंट, रेंडरिंग, सत्र पुनर्बहाली केर समय
 
 
 ;Length of session, how old a profile is, count of crashes, count of pages
-Length of session, how old a profile is, count of crashes, count of pages
+सत्र केर नमाइ, प्रोफ़ाइलक आयु, क्रैश गणना आओर पृष्ठ गणना
 
 
 ;Detailed Description
-Detailed Description
+विस्तृत विवरण
 
 
 ;Metric
-Metric
+मैट्रिक
 
 
 ;Description
-Description
+विवरण
 
 
 ;Binary interface for XPCOM
-Binary interface for XPCOM
+XPCOM कलेल द्विपदीय अंतरफलक
 
 
 ;Identifier for this build of the application based on the date the build was started
-Identifier for this build of the application based on the date the build was started
+एङि अनुप्रयोग केर ई बिल्ड कलेल पहिचानकर्ता ओ तिथि पर जखन बिल्ड आरंभ कएल गेल छला
 
 
 ;Operating System for which this build was configured
-Operating System for which this build was configured
+ऑपरेटिंग तंत्र जकरा लेल बिल्ड विन्यस्त कएल गेल छला
 
 
 ;Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
-Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
+उपयोग मे अनुप्रयोग केर खास वितरण कलेल पहिचानकर्ता. एकरा <var>distribution.id</var> कार्यकुशलता सँ लेल गेल अछि
 
 
 ;Version of the distribution, taken from the <var>distribution.version</var> preference
-Version of the distribution, taken from the <var>distribution.version</var> preference
+वितरणक संस्करण, <var>distribution.version</var> वरीयता सँ लेल गेल
 
 
 ;The version number of any Mozilla hotfix applied to the application
-The version number of any Mozilla hotfix applied to the application
+ई अनुप्रयोगमे लागू मोज़िल्ला हॉटफिक्स केर संस्करण केर संख्या
 
 
 ;Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
-Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
+अनुप्रयोग केर बारे मे अद्वितीय पहिचानकर्ता जे बतबैत अछि जे ई फ़ायरफ़ॉक्स अथवा थंडरबर्ड आदि अछि. <var>appName</var> केर मान केर अलावा अनुप्रयोग केर सभ संस्थापन कलेल समान अछि.
 
 
 ;The configured name of the application (Firefox/Aurora/Nightly for instance)
-The configured name of the application (Firefox/Aurora/Nightly for instance)
+अनुप्रयोग (उदाहरण कलेल फ़ायरफ़ॉक्स/ऑरोरा/नाइटली) क' विन्यस्त नाम
 
 
 ;The channel this installation checks for application updates (nightly/aurora/beta/release)
-The channel this installation checks for application updates (nightly/aurora/beta/release)
+चैनल जाहि सँ ई संस्थापन अनुप्रयोग अद्यतन कलेल जाँचैत अछि (नाइटली/ऑरोरा/बीटा/रिलीज)
 
 
 ;The name of the company/provider who built this version
-The name of the company/provider who built this version
+कंपनी/प्रदाता केर नाम जे ई संस्करण केर प्रदाता अछि
 
 
 ;The current version of the product
-The current version of the product
+उत्पाद केर मोजुदा संस्करण
 
 
 ;Number of processor cores
-Number of processor cores
+प्रोसेसर कोर केर संख्या
 
 
 ;Whether the application is currently configured to be the default browser for the operating system
-Whether the application is currently configured to be the default browser for the operating system
+की एहि अनुप्रयोग ऑपरेटिंग तंत्र कलेल तयशुदा ब्राउज़र रूप मे विन्यस्त अछि
 
 
 ;Locale currently being used
-Locale currently being used
+अखन प्रयुक्त लोकेल
 
 
 ;Amount of RAM in megabytes
-Amount of RAM in megabytes
+मेगाबाइट मे RAM केर मात्रा
 
 
 ;Currently running Operating System (kernel) name
-Currently running Operating System (kernel) name
+अखन चलायमान ऑपरेटिंग तंत्र (कर्नेल) केर नाम
 
 
 ;Currently running Operating System (kernel) version
-Currently running Operating System (kernel) version
+अखन चलायमान ऑपरेटिंग तंत्र (कर्नेल) केर संस्करण
 
 
 ;The build identifier of the Gecko platform code
-The build identifier of the Gecko platform code
+गेको प्लैटफॉर्म कोड केर बिल्ड पहिचानकर्ता
 
 
 ;The version of the Gecko platform code
-The version of the Gecko platform code
+गेको प्लैटफॉर्म कोड केर संस्करण
 
 
 ;Processor architecture
-Processor architecture
+प्रोसेसर ऑर्किटेक्चर
 
 
 ;The date this version was first used with this installation profile
-The date this version was first used with this installation profile
+ई संस्थापन प्रोफ़ाइल केर सँग तिथि जाहिपर ई संस्करण पहलि बेर प्रयोग कएल गेल छला
 
 
 ;An application version which has been used with this installation profile
-An application version which has been used with this installation profile
+अनुप्रयोग संस्करण जकरा ई संस्थापन प्रोफ़ाइल केर सँग प्रयोग कएल गेल छला
 
 
 ;The number of add-ons of this type that existed in the profile on this date
-The number of add-ons of this type that existed in the profile on this date
+एहि प्रकारक सहयुक्ति केर संख्या जे ई तिथि पर एहि प्रोफ़ाइल मे मोजुद रहत
 
 
 ;<var>True</var> if the application automatically disabled the add-on
-<var>True</var> if the application automatically disabled the add-on
+<var>सही</var> जँ अनुप्रयोगने सहयुक्ति केँ स्वतः निष्क्रिय कएलक
 
 
 ;Whether this add-on was installed by the user or automatically by another application
-Whether this add-on was installed by the user or automatically by another application
+की ओ सहयुक्ति उपयोक्ता या स्वतः दोसर अनुप्रयोग द्वारा संस्थापित कएल गेल छला
 
 
 ;Whether this add-on has native code.
-Whether this add-on has native code.
+की ई सहयुक्ति केर कोड नेटिव अछि.
 
 
 ;The identifier of this add-on as defined by the add-on developer
-The identifier of this add-on as defined by the add-on developer
+सहयुक्ति डेवलेपर द्वारा परिभाषित ई सहयुक्ति क पहिचानकर्ता
 
 
 ;The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
-The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
+सबसँ हाल केर तिथि जाहिपर ई सहयुक्ति संस्थापित कएल गेल छला (विसंस्थापित सहयुक्ति केर बारे मे पछिला सूचना नहि राखल गेल छल).
 
 
 ;The number of searches performed with this search engine from this part of the UI
-The number of searches performed with this search engine from this part of the UI
+UI केर ई हिस कलेल एहि खोज इंजन केर सँग कएल गेल खोज केर संख्या
 
 
 ;Whether this add-on was installed in the application directory or profile directory
-Whether this add-on was installed in the application directory or profile directory
+की एहि अनुप्रयोग निर्देशिकामे या प्रोफ़ाइल निर्देशिकामे ई सहयुक्ति केँ संस्थापित कएल गेल छल या नहि
 
 
 ;Whether this add-on is an extension or a plug-in
-Whether this add-on is an extension or a plug-in
+की ई सहयुक्ति एक विस्तार अछि या एकटा प्लगिन
 
 
 ;The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
-The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
+सबसँ हाल केर तिथि जाहिपर ई सहयुक्ति अद्यतन कएल गेल छला (विसंस्थापित सहयुक्ति केर बारे मे पछिला सूचना नहि राखल अछि).
 
 
 ;<var>True</var> if the user manually disabled the add-on
-<var>True</var> if the user manually disabled the add-on
+<var>सही</var> जँ उपयोक्ता सहयुक्ति केँ दस्ती रूप सँ निष्क्रिय कएने अछि
 
 
 ;The current version of this add-on
-The current version of this add-on
+एहि सहयुक्ति केर मोजुदा संस्करण
 
 
 ;How long in milliseconds it took during startup for the application to render the UI and display the window
-How long in milliseconds it took during startup for the application to render the UI and display the window
+अनुप्रयोग आरंभन कलेल आरंभन केर दौरान कतेक मिलीसेकेंड लागैत अछि ताकि यूआई रेंडर हुए आओर विंडो देखाओल जाए सकै
 
 
 ;How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
@@ -449,7 +449,7 @@ Time in seconds since the app was last started
 
 
 ;Total number of bookmarks
-Total number of bookmarks
+कुल पुस्तकचिह्न
 
 
 ;Total number of pages listed in the history
@@ -461,11 +461,11 @@ How long in minutes the current session has been running
 
 
 ;Welcome to your Firefox Health Report
-Welcome to your Firefox Health Report
+अहाँक फ़ायरफ़ॉक्स स्वास्थ्य रिपोर्ट मे स्वागत अछि
 
 
 ;Welcome!
-Welcome!
+स्वागत अछि
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
@@ -473,11 +473,11 @@ Firefox Health Report lets you know how your Firefox is performing and what you 
 
 
 ;See My Report
-See My Report
+हमर रिपोट देखू
 
 
 ;Time (in seconds)
-Time (in seconds)
+समय ( सकेंड मे )
 
 
 ;Show Statistics
@@ -494,11 +494,11 @@ Firefox Health Report lets you optimize your Firefox and helps us build a more e
 
 
 ;Learn More&hellip;
-Learn More&hellip;
+आओर जनु  और मदत
 
 
 ;Tip
-Tip
+संकेत
 
 
 ;Looks like your Firefox is brand new! Check back after using Firefox for a while.
@@ -506,7 +506,7 @@ Looks like your Firefox is brand new! Check back after using Firefox for a while
 
 
 ;Important Metrics
-Important Metrics
+महत्वपूर्ण मेट्रिक्स
 
 
 ;Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
@@ -514,35 +514,35 @@ Firefox Health Report records information about your browser and device. You can
 
 
 ;Device hardware, operating system, Firefox version.
-Device hardware, operating system, Firefox version.
+युक्ति हार्डवेयर, ऑपरेटिंग तंत्र, फ़ायरफ़ॉक्स संस्करण
 
 
 ;Extensions, plugins, and number of installed add-ons.
-Extensions, plugins, and number of installed add-ons.
+प्रसार, प्लगइन्स, और स्थापित सहयुक्ति की संख्या।
 
 
 ;Key performance measures, such as launch speed.
-Key performance measures, such as launch speed.
+कुंजी प्रदर्शन उपायों, इस तरह के लांच गति के रूप में.
 
 
 ;Browsing duration, install time, number of bookmarks and pages.
-Browsing duration, install time, number of bookmarks and pages.
+ब्राउजिंग इतिहास, समय स्थापित करू, पुस्तकचिह्न आओर पृष्ठ
 
 
 ;Home
-Home
+घर
 
 
 ;CPU Count:
-CPU Count:
+CPU गिनती
 
 
 ;The number of CPU cores reported by Android.
-The number of CPU cores reported by Android.
+सीपीयू कोर की संख्या के एंड्रॉयड द्वारा रिपोर्ट .
 
 
 ;Memory in MB:
-Memory in MB:
+स्मृति एमबी मे
 
 
 ;The amount of memory reported by Android. Typically excludes graphics memory.
@@ -550,39 +550,39 @@ The amount of memory reported by Android. Typically excludes graphics memory.
 
 
 ;Application Name:
-Application Name:
+अनुप्रयोग नाम
 
 
 ;The internal application name for the browser.
-The internal application name for the browser.
+ब्राउज़र लेल आंतरिक आवेदन नाम
 
 
 ;Application ID:
-Application ID:
+अनुप्रयोग पहचान
 
 
 ;The internal identifier for the application.
-The internal identifier for the application.
+आवेदन लेल आंतरिक पहचानकर्ता
 
 
 ;Application Version:
-Application Version:
+अनुप्रयोग संस्करण
 
 
 ;The current version of the browser
-The current version of the browser
+ब्राउज़र के वर्तमान संस्करण
 
 
 ;Application Build ID:
-Application Build ID:
+अनुप्रयोग पहचान बनाबू
 
 
 ;The internal build timestamp.
-The internal build timestamp.
+आंतरिक निर्माण टाइमस्टैम्प
 
 
 ;Update Channel:
-Update Channel:
+चैनल अद्यतन करू
 
 
 ;Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
@@ -590,15 +590,15 @@ Firefox is distributed through channels: Nightly builds, the Aurora pre-release 
 
 
 ;Vendor:
-Vendor:
+विक्रेता
 
 
 ;The organization that built this application. Typically Mozilla.
-The organization that built this application. Typically Mozilla.
+इ आवेदन के संग बनाबल संगठन. आम तौर पर मोज़िला.
 
 
 ;Platform Version:
-Platform Version:
+प्लेटफ़ॉर्म संस्करण
 
 
 ;An internal version identifier. Typically the same as appVersion.
@@ -606,7 +606,7 @@ An internal version identifier. Typically the same as appVersion.
 
 
 ;Platform Build ID:
-Platform Build ID:
+अनुप्रयोग पहचान बनाबू
 
 
 ;On Android this is an alternative name for appBuildID.
@@ -614,7 +614,7 @@ On Android this is an alternative name for appBuildID.
 
 
 ;xpcomabi:
-xpcomabi:
+xpcomabi: {ok}
 
 
 ;The CPU architecture for which this application was built.
@@ -622,35 +622,35 @@ The CPU architecture for which this application was built.
 
 
 ;OS:
-OS:
+ओएस:
 
 
 ;The current operating system.
-The current operating system.
+अखन चलायमान ऑपरेटिंग तंत्र
 
 
 ;Architecture:
-Architecture:
+वास्तुकला:
 
 
 ;The CPU architecture for this device.
-The CPU architecture for this device.
+इ डिवाइस लेल CPU वास्तुकला
 
 
 ;System Name:
-System Name:
+सिस्टम नाम
 
 
 ;The current system name.
-The current system name.
+अखन चलायमान सिस्टम नाम
 
 
 ;System Version:
-System Version:
+सिस्टम संस्करण
 
 
 ;The Android OS revision.
-The Android OS revision.
+Android ओएस संशोधन
 
 
 ;Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
@@ -658,7 +658,7 @@ Whether Firefox fetches add-on blocklist results to protect you against maliciou
 
 
 ;Telemetry Enabled:
-Telemetry Enabled:
+दूरमापी सक्रिय करू
 
 
 ;Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
@@ -666,31 +666,31 @@ Whether Firefox reports detailed usage data to help with development. Defaults t
 
 
 ;Extension Count:
-Extension Count:
+विस्तार गिनू
 
 
 ;How many extension add-ons are installed.
-How many extension add-ons are installed.
+कतए विस्तार सहयुक्ति स्थापित कर रहल छे.
 
 
 ;Plugin Count:
-Plugin Count:
+प्लगइन गिनू
 
 
 ;How many plugin add-ons are installed.
-How many plugin add-ons are installed.
+कतए विस्तार स्थापित कर रहल छे.
 
 
 ;Theme Count:
-Theme Count:
+प्रसंग गिनू
 
 
 ;How many theme add-ons are installed.
-How many theme add-ons are installed.
+कतए विस्तार स्थापित कर रहल छे.
 
 
 ;Addons:
-Addons:
+जोरु
 
 
 ;A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
@@ -698,7 +698,7 @@ A collection describing the installed add-ons. Not all add-ons are reported: onl
 
 
 ;Search Counts:
-Search Counts:
+खोज गिनू
 
 
 ;A count of how many searches you issued to each of Mozilla's partner providers.
@@ -706,7 +706,7 @@ A count of how many searches you issued to each of Mozilla's partner providers.
 
 
 ;Sessions and Startup Times
-Sessions and Startup Times
+सत्र आओर आरंभ केर समय
 
 
 ;For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
@@ -714,7 +714,7 @@ For each browsing session, Firefox Health Report records approximately how long 
 
 
 ;Profile Creation:
-Profile Creation:
+प्रोफाइल निर्माण
 
 
 ;The day on which your browser profile was created. Counted in days since January 1st 1970.
@@ -722,7 +722,7 @@ The day on which your browser profile was created. Counted in days since January
 
 
 ;Learn More
-Learn More
+आओर जानू
 
 
 ;Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
@@ -734,15 +734,15 @@ For more information about how we handle your data, <a href="https://www.mozilla
 
 
 ;You are currently sharing your health report with Mozilla.
-You are currently sharing your health report with Mozilla.
+अहाँ अखन अपन स्वास्थ्य रिपोर्ट मोजिल्ला संग साझा कए रहल अछि.
 
 
 ;Choose what I share
-Choose what I share
+चुनू जकरा हम साझा कएलहुँ
 
 
 ;You are currently not sharing your health report with Mozilla.
-You are currently not sharing your health report with Mozilla.
+अहाँ अखन अपन स्वास्थ्य रिपोर्ट मोजिल्ला संग साझा नहि कए रहल अछि.
 
 
 # This string is displayed when selecting Raw Data near the title
