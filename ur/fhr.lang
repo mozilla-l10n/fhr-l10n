@@ -51,7 +51,7 @@
 
 
 ;update channel
-update channel
+تازہ کاری کریں چینل:
 
 
 ;updates
@@ -105,11 +105,11 @@ Plugins (Click-to-Activate)
 
 
 ;application crashes
-application crashes
+ایپلی کیشن تباہ ہو جاتی ہے
 
 
 ;plugin crashes
-plugin crashes
+پلگ ان تباہ ہوتا ہے
 
 
 ;Add-ons
@@ -353,7 +353,7 @@ XPCOM کے لئے ثنائی مواجہ
 
 
 ;Whether this add-on was installed by the user or automatically by another application
-آیا کہ یہ اضافہ صارف نے یا خودبخود کسی اور ایپلی کیشن نے نصب کیا تھا
+کیا یہ ایڈ-اون صارف نے یا کسی اور ایپلی کیشن نے خودبخود نصب کیا تھا
 
 
 ;Whether this add-on has native code.
@@ -510,7 +510,7 @@ XPCOM کے لئے ثنائی مواجہ
 
 
 ;Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
-Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
+Firefox Health Report آپ کے براؤزر اور آلے کے بارے میں معلومات  ریکارڈ کرتا ہے۔ آپ ہماری ریکارڈ کی گئی معلومات کو دیکھ سکتے ہیں۔ آپ یہ بھی دیکھ سکتے ہیں کہ آپ Mozilla کے ساتھ کیا شیئر کرتے ہیں۔
 
 
 ;Device hardware, operating system, Firefox version.
@@ -522,11 +522,11 @@ Firefox Health Report records information about your browser and device. You can
 
 
 ;Key performance measures, such as launch speed.
-Key performance measures, such as launch speed.
+چالو کاری رفتار کی طرح کی، کلیدی سرانجام دہی مقداریں۔
 
 
 ;Browsing duration, install time, number of bookmarks and pages.
-Browsing duration, install time, number of bookmarks and pages.
+براؤزنگ دورانیہ، تنصیب کاری وقت، نشانیاوں اور صفحات کی تعداد۔
 
 
 ;Home
@@ -534,11 +534,11 @@ Browsing duration, install time, number of bookmarks and pages.
 
 
 ;CPU Count:
-CPU Count:
+CPU شمار:
 
 
 ;The number of CPU cores reported by Android.
-The number of CPU cores reported by Android.
+اینڈروائڈ کی جانب سے رپورٹ کردہ CPU مرکز۔
 
 
 ;Memory in MB:
@@ -546,23 +546,23 @@ MB میں میموری:
 
 
 ;The amount of memory reported by Android. Typically excludes graphics memory.
-The amount of memory reported by Android. Typically excludes graphics memory.
+اینڈروائڈ کی جانب سے رپورٹ کردہ میموری۔ عموعی طور پر گرافکس میموری کے بنا۔
 
 
 ;Application Name:
-ایپلی کیشن نام:
+ایپلی کیشن کا نام:
 
 
 ;The internal application name for the browser.
-The internal application name for the browser.
+براؤزر کے لیے اندرونی ایپلی کیشن نام۔
 
 
 ;Application ID:
-ایپلی کیشن ID:
+ایپلی کیشن کا ID:
 
 
 ;The internal identifier for the application.
-The internal identifier for the application.
+ایپلی کیشن کے لیے اندرونی شناخت کنندہ۔
 
 
 ;Application Version:
@@ -586,7 +586,7 @@ The internal identifier for the application.
 
 
 ;Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
-Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
+Firefox چینلوں کے ذریعے ڈسٹریبیوتٹ ہوتا ہے: Nightly بلڈ، Aurora پر ریلیس چینل، ایک مستحکم Beta، اور عوامی ریلیس۔ یہ قطعہ چینل کی شناخت کرتی ہے۔
 
 
 ;Vendor:
@@ -594,7 +594,7 @@ Firefox is distributed through channels: Nightly builds, the Aurora pre-release 
 
 
 ;The organization that built this application. Typically Mozilla.
-The organization that built this application. Typically Mozilla.
+وہ تنظیم جس نے یہ ایپلی کیشن بنائی ہے۔ عموعی طور پر موزیلا۔
 
 
 ;Platform Version:
@@ -602,127 +602,127 @@ The organization that built this application. Typically Mozilla.
 
 
 ;An internal version identifier. Typically the same as appVersion.
-An internal version identifier. Typically the same as appVersion.
+ایک اندرونی ورژن شناخت کنندہ۔ عموعی طور پر appVersion کے جیسا۔
 
 
 ;Platform Build ID:
-Platform Build ID:
+پلیٹ فارم بلڈ شناخط:
 
 
 ;On Android this is an alternative name for appBuildID.
-On Android this is an alternative name for appBuildID.
+اینڈوائڈ پر یہ appBuildID کے لیے ایک متبادل نام ہے۔
 
 
 ;xpcomabi:
-xpcomabi:
+xpcomabi: {ok}
 
 
 ;The CPU architecture for which this application was built.
-The CPU architecture for which this application was built.
+وہ CPU تعمیر جس کے لیے یہ ایپلی کیشن بنی تھی۔
 
 
 ;OS:
-OS:
+آپریٹنگ سسٹم:
 
 
 ;The current operating system.
-The current operating system.
+موجودہ آپریٹنگ سسٹم۔
 
 
 ;Architecture:
-Architecture:
+تعمیر:
 
 
 ;The CPU architecture for this device.
-The CPU architecture for this device.
+اس آلے کے لیے CPU تعمیر۔
 
 
 ;System Name:
-System Name:
+سسٹم کا نام:
 
 
 ;The current system name.
-The current system name.
+موجودہ سسٹم نام۔
 
 
 ;System Version:
-System Version:
+سسٹم ورژن:
 
 
 ;The Android OS revision.
-The Android OS revision.
+اینڈروائڈ OS ریوژن
 
 
 ;Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
-Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
+کیا Firefox آپ کو مضر ایڈ اون سے محفوظ رکھنے کے لیے ایڈ اون بلاک فہرست لاتی ہے۔ طےشدہ طور پر آن ہوتا ہے۔
 
 
 ;Telemetry Enabled:
-Telemetry Enabled:
+ٹیل میٹری اہل ہے:
 
 
 ;Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
-Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
+کیا Firefox تکمیل کاری میں مدد دینے کے لیے مفصل استعمال کے کوائف رپورٹ کرتا ہے۔ زیادہ تر چینلوں کے لیے آف پر طے شدہ ہوتا ہے۔
 
 
 ;Extension Count:
-Extension Count:
+توسیع شمار
 
 
 ;How many extension add-ons are installed.
-How many extension add-ons are installed.
+تنصیب شدہ ایڈ اون کی تعداد کتنی ہیں۔
 
 
 ;Plugin Count:
-Plugin Count:
+پلگ ان شمار:
 
 
 ;How many plugin add-ons are installed.
-How many plugin add-ons are installed.
+تنصیب شدہ پلگ ان ایڈ اون کی تعداد۔
 
 
 ;Theme Count:
-Theme Count:
+خیالیہ شمار
 
 
 ;How many theme add-ons are installed.
-How many theme add-ons are installed.
+تنصیب شدہ خیالیہ ایڈ اون کی تعداد۔
 
 
 ;Addons:
-Addons:
+ایڈ اون:
 
 
 ;A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
-A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
+ایک مجموعہ جو وظاہت کرتا ہے تنصیب شدہ ایڈ-اون کی۔ تمام ایڈ-اون کی رپورٹ نہیں ہوتئ: صرف پلگ ان، توسیعات، اور خدمات کی۔
 
 
 ;Search Counts:
-Search Counts:
+تلاش شمار:
 
 
 ;A count of how many searches you issued to each of Mozilla's partner providers.
-A count of how many searches you issued to each of Mozilla's partner providers.
+شمار کریں کتنے تلاشیں آپ نے مہیا کیے ہیں ہر Mozilla's شریک کو۔
 
 
 ;Sessions and Startup Times
-Sessions and Startup Times
+سیشن اور وقت آغاز
 
 
 ;For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
-For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
+ہر ایک براؤزنگ سیشن کے لئے، Firefox ہیلتھ رپورٹ آپ کی براؤزنگ کا ریکارڈ رکھتا ہے (سیکنڈوں میں)، اور سیشن چاہے عام طور پر یا کریش کی وجہ سے اختتام پذیر ہوا۔ اس کے علاوہ آغاز وقت (ملی سیکنڈ میں) اگر دستیاب ہے تو۔
 
 
 ;Profile Creation:
-Profile Creation:
+پروفائل تخلیق:
 
 
 ;The day on which your browser profile was created. Counted in days since January 1st 1970.
-The day on which your browser profile was created. Counted in days since January 1st 1970.
+جس دن سے آپکی براؤزر کی پروفائل بنائ گئ تھی۔ جنوری 1st 1970 کے بعد کے دنوں میں شمار کیا۔
 
 
 ;Learn More
-Learn More
+مزید سیکھیں
 
 
 ;Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
@@ -734,15 +734,15 @@ For more information about how we handle your data, <a href="https://www.mozilla
 
 
 ;You are currently sharing your health report with Mozilla.
-You are currently sharing your health report with Mozilla.
+آپ فی الحال Mozilla کے ساتھ اپنی تندرستی رپورٹ شیئر کر رہیں ہیں۔
 
 
 ;Choose what I share
-Choose what I share
+اپنے شیئر کرنے کی اشیا چنیں
 
 
 ;You are currently not sharing your health report with Mozilla.
-You are currently not sharing your health report with Mozilla.
+آپ فی الحال موزیلا کے ساتھ اپنی صحت رپورٹ کے اشتراک نہیں کر رہے ہیں.
 
 
 # This string is displayed when selecting Raw Data near the title
