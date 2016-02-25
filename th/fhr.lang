@@ -106,11 +106,11 @@ Plugins (Click-to-Activate)
 
 
 ;application crashes
-application crashes
+แอปพลิเคชันทำงานผิดพลาด
 
 
 ;plugin crashes
-plugin crashes
+โปรแกรมเสริมทำงานผิดพลาด
 
 
 ;Add-ons
@@ -134,15 +134,15 @@ plugin crashes
 
 
 ;always activate
-always activate
+เปิดใช้งานตลอด
 
 
 ;ask to activate
-ask to activate
+ถามเพื่อเปิดใช้งาน
 
 
 ;never activate
-never activate
+ไม่เปิดใช้งาน
 
 
 ;Tips
@@ -499,7 +499,7 @@ Learn More&hellip;
 
 
 ;Tip
-Tip
+เคล็ดลับ
 
 
 ;Looks like your Firefox is brand new! Check back after using Firefox for a while.
@@ -515,7 +515,7 @@ Firefox Health Report records information about your browser and device. You can
 
 
 ;Device hardware, operating system, Firefox version.
-Device hardware, operating system, Firefox version.
+ชิ้นส่วนอุปกรณ์, ระบบปฏิบัติการ, รุ่นของ Firefox
 
 
 ;Extensions, plugins, and number of installed add-ons.
@@ -571,7 +571,7 @@ Application Version:
 
 
 ;The current version of the browser
-The current version of the browser
+รุ่นปัจจุบันของผลิตภัณฑ์
 
 
 ;Application Build ID:
