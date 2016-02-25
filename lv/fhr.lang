@@ -51,7 +51,7 @@ versija
 
 
 ;update channel
-update channel
+Jauninājumu kanāls:
 
 
 ;updates
@@ -105,11 +105,11 @@ avārijas
 
 
 ;application crashes
-application crashes
+lietotņu avārijas
 
 
 ;plugin crashes
-plugin crashes
+spraudņu avārijas
 
 
 ;Add-ons
@@ -133,15 +133,15 @@ Spraudņi
 
 
 ;always activate
-always activate
+vienmēr aktīvs
 
 
 ;ask to activate
-ask to activate
+jautāt aktivēšanu
 
 
 ;never activate
-never activate
+nekad neaktivēt
 
 
 ;Tips
@@ -490,123 +490,123 @@ Privātuma politika
 
 # The following strings are used only in the Mobile version of about:healthreport (Firefox for Android)
 ;Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
-Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
+Firefox veselības ziņojums ļauj jums optimizēt Firefox un palīdz mums būvēt labāku pārlūku. Sākumā ziņojumi būs salīdzinoši vienkārši, bet laika gaitā attīstīsies un pilnveidosies.
 
 
 ;Learn More&hellip;
-Learn More&hellip;
+Uzzināt vairāk &hellip;
 
 
 ;Tip
-Tip
+Padoms
 
 
 ;Looks like your Firefox is brand new! Check back after using Firefox for a while.
-Looks like your Firefox is brand new! Check back after using Firefox for a while.
+Izskatās, ka Firefox ir pavisam jauns! Atnāciet vēlreiz nedaudz vēlāk.
 
 
 ;Important Metrics
-Important Metrics
+Svarīgās metrikas
 
 
 ;Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
-Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
+Firefox veselības pārskats apkopo informāciju par pārlūku un ierīci. Jūs varat <a href="#raw" class="navigate">aplūkot apkopoto informāciju</a> un uzzināt, kas tiks nosūtīs Mozilla.
 
 
 ;Device hardware, operating system, Firefox version.
-Device hardware, operating system, Firefox version.
+Ierīces aparatūra, operētājsistēma un Firefox versija.
 
 
 ;Extensions, plugins, and number of installed add-ons.
-Extensions, plugins, and number of installed add-ons.
+Papildinājumi, spraudņi un instalēto papildinājumu skaits.
 
 
 ;Key performance measures, such as launch speed.
-Key performance measures, such as launch speed.
+Svarīgākie veiktspējas dati, piemēram palaišanās ātrums.
 
 
 ;Browsing duration, install time, number of bookmarks and pages.
-Browsing duration, install time, number of bookmarks and pages.
+Pārlūkošanas ilgums, instalēšanas laiks, grāmatzīmju un lapu skaits.
 
 
 ;Home
-Home
+Sākums
 
 
 ;CPU Count:
-CPU Count:
+CPU skaits:
 
 
 ;The number of CPU cores reported by Android.
-The number of CPU cores reported by Android.
+CPU kodolu skaits, kā tās uzskaita Android.
 
 
 ;Memory in MB:
-Memory in MB:
+Atmiņa MB:
 
 
 ;The amount of memory reported by Android. Typically excludes graphics memory.
-The amount of memory reported by Android. Typically excludes graphics memory.
+Atmiņas daudzums, kā to ziņo Android. Tipiski neiekļauj grafisko atmiņu.
 
 
 ;Application Name:
-Application Name:
+Lietotnes nosaukums:
 
 
 ;The internal application name for the browser.
-The internal application name for the browser.
+Pārlūka lietotnes iekšējais nosaukums.
 
 
 ;Application ID:
-Application ID:
+Lietotnes ID:
 
 
 ;The internal identifier for the application.
-The internal identifier for the application.
+Pārlūka lietotnes iekšējais ID.
 
 
 ;Application Version:
-Application Version:
+Lietotnes versija:
 
 
 ;The current version of the browser
-The current version of the browser
+Pašreizējā pārlūka versija
 
 
 ;Application Build ID:
-Application Build ID:
+Lietotnes būvējuma ID:
 
 
 ;The internal build timestamp.
-The internal build timestamp.
+Iekšējais būvējuma laika spiedogs.
 
 
 ;Update Channel:
-Update Channel:
+Jauninājumu kanāls:
 
 
 ;Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
-Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
+Firefox tiek izplatīts pa vairākiem kanāliem: Nightly būvējumi, Aurora pirms laidiena versijas, stabilā Beta un publiskā release versija. Šis lauks nosaka izmantoto kanālu.
 
 
 ;Vendor:
-Vendor:
+Ražotājs:
 
 
 ;The organization that built this application. Typically Mozilla.
-The organization that built this application. Typically Mozilla.
+Organizācija, kas būvē lietotni. Tipiski Mozilla.
 
 
 ;Platform Version:
-Platform Version:
+Platformas versija:
 
 
 ;An internal version identifier. Typically the same as appVersion.
-An internal version identifier. Typically the same as appVersion.
+Iekšējais versijas ID. Tipiski tāds pat kā appVersion.
 
 
 ;Platform Build ID:
-Platform Build ID:
+Platformas būvējuma ID:
 
 
 ;On Android this is an alternative name for appBuildID.
