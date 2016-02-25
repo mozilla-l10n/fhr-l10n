@@ -109,7 +109,7 @@ application crashes
 
 
 ;plugin crashes
-plugin crashes
+ప్లగిన్ క్రాషులు
 
 
 ;Add-ons
@@ -514,7 +514,7 @@ Firefox Health Report records information about your browser and device. You can
 
 
 ;Device hardware, operating system, Firefox version.
-Device hardware, operating system, Firefox version.
+పరికర హార్డువేర్, ఆపరేటింగ్ సిస్టమ్, ఫైర్‌ఫాక్స్ వర్షన్
 
 
 ;Extensions, plugins, and number of installed add-ons.
@@ -558,7 +558,7 @@ The internal application name for the browser.
 
 
 ;Application ID:
-Application ID:
+అనువర్తనపు పేరు:
 
 
 ;The internal identifier for the application.
@@ -570,7 +570,7 @@ Application Version:
 
 
 ;The current version of the browser
-The current version of the browser
+ఉత్పత్తి యొక్క ప్రస్తుత వర్షన్
 
 
 ;Application Build ID:
@@ -590,7 +590,7 @@ Firefox is distributed through channels: Nightly builds, the Aurora pre-release 
 
 
 ;Vendor:
-Vendor:
+అమ్మకందారు:
 
 
 ;The organization that built this application. Typically Mozilla.
@@ -638,7 +638,7 @@ The CPU architecture for this device.
 
 
 ;System Name:
-System Name:
+సిస్టమ్ పేరు:
 
 
 ;The current system name.
