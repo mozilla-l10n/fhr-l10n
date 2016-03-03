@@ -31,7 +31,7 @@
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
-ستُحذف بيانات تقريرك الصحي من خادومات موزيلا أيضًا. اعرف المزيد في صفحة <a href="%(privacy_url)s">سياسة الخصوصية.</a>
+ستُحذف بيانات تقريرك الصحي من خواديم موزيلا أيضًا. اعرف المزيد في صفحة <a href="%(privacy_url)s">سياسة الخصوصية.</a>
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
@@ -55,17 +55,17 @@
 
 
 ;updates
-updates
+التحديثات
 
 
 # Possible value for "updates"
 ;automatic
-automatic
+تلقائية
 
 
 # Possible value for "updates"
 ;prompt
-prompt
+اسأل
 
 
 ;time open
@@ -85,23 +85,23 @@ prompt
 
 
 ;total sessions
-total sessions
+إجمالي الجلسات
 
 
 ;Active Add-ons
-Active Add-ons
+الملحقات النشطة
 
 
 ;Extensions
-Extensions
+الامتدادات
 
 
 ;Plugins (Click-to-Activate)
-Plugins (Click-to-Activate)
+الملحقات (النقر عليها يفعّلها)
 
 
 ;crashes
-انهيارات
+الانهيارات
 
 
 ;application crashes
@@ -121,11 +121,11 @@ Plugins (Click-to-Activate)
 
 
 ;enabled
-مفعّل(ة)
+مفعّل
 
 
 ;disabled
-معطل(ة)
+معطل
 
 
 ;Plugins
@@ -133,11 +133,11 @@ Plugins (Click-to-Activate)
 
 
 ;always activate
-فعّل باستمرار
+فعّل دائمًا
 
 
 ;ask to activate
-استأذن للتفعيل
+اسأل قبل التفعيل
 
 
 ;never activate
@@ -169,7 +169,7 @@ Plugins (Click-to-Activate)
 
 
 ;pages visited
-الصفحات التي تمت زيارتها
+الصفحات التي زرتها
 
 
 ;Your browser seems to be running slower than usual. To learn more:
@@ -205,7 +205,7 @@ Plugins (Click-to-Activate)
 
 
 ;Glossary
-المُعجم
+مَسْرَد مصطلحات
 
 
 ;What the Firefox Health Report Measures
@@ -213,7 +213,7 @@ Plugins (Click-to-Activate)
 
 
 ;The Firefox Health Report (FHR) has 4 categories of metrics:
-تقرير أداء فَيَرفُكس مبني علي أربعة معايير رئيسة
+تقرير أداء فَيَرفُكس مبني علي أربعة معايير رئيسة:
 
 
 ;Configuration
@@ -494,31 +494,31 @@ Plugins (Click-to-Activate)
 
 
 ;Learn More&hellip;
-اطّلع على المزيد
+اطّلع على المزيد&hellip;
 
 
 ;Tip
-تلميحات
+فائدة
 
 
 ;Looks like your Firefox is brand new! Check back after using Firefox for a while.
-يبدو بأنك ثبتّ فَيَرفُكس لتوّك، تحقق لاحقًا بعد استخدامك للمُتصفح لبعض الوقت.
+يبدو بأنك ثبتَّ فَيَرفُكس لتوّك، تحقق لاحقًا بعد استخدامك للمُتصفح لبعض الوقت.
 
 
 ;Important Metrics
-المقياسات المُهمة
+المقاييس المُهمة
 
 
 ;Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
-يسجل تقرير فَيَرفُكس الصحي معلومات عن مُتصفحك وجهازك. بإمكانك. <a href="#raw" class="navigate">الاطّلاع على البيانات التي نقوم بتسجيلها.</a> بإمكانك أيضا الاطلاع على البيانات التي تتشاركها مع موزيلا.
+يسجل تقرير فَيَرفُكس الصحي معلومات عن مُتصفحك و جهازك. بإمكانك. <a href="#raw" class="navigate">الاطّلاع على البيانات التي نقوم بتسجيلها.</a> بإمكانك أيضا الاطلاع على البيانات التي تتشاركها مع موزيلا.
 
 
 ;Device hardware, operating system, Firefox version.
-نوع الجهاز، نظام التشغيل، إصدار فَيَرفُكس.
+عتاد الجهاز، نظام التشغيل، إصدار فَيَرفُكس
 
 
 ;Extensions, plugins, and number of installed add-ons.
-امتدادات وملحقات وعدد الإضافات المُثبتة.
+الامتدادات و الملحقات و عدد الإضافات المُثبتة.
 
 
 ;Key performance measures, such as launch speed.
@@ -526,7 +526,7 @@ Plugins (Click-to-Activate)
 
 
 ;Browsing duration, install time, number of bookmarks and pages.
-مُدّة التصفح، وقت التثبيت، عدد العلامات والصفحات.
+مُدّة التصفح و وقت التثبيت و عدد العلامات و الصفحات.
 
 
 ;Home
@@ -538,15 +538,15 @@ Plugins (Click-to-Activate)
 
 
 ;The number of CPU cores reported by Android.
-عدد أنوية المُعالجات المُعلن عنها من طرف أندرويد.
+عدد أنوية المُعالجات المُعلن عنها من أندرويد.
 
 
 ;Memory in MB:
-الذاكرة بالميغابايت:
+الذاكرة بالميجابايت:
 
 
 ;The amount of memory reported by Android. Typically excludes graphics memory.
-مقدار الذاكرة المُعلن عنها من طرف أندرويد. عادة ما يتم استثناء الذاكرة الرسومية.
+مقدار الذاكرة المُعلن عنها من أندرويد. عادة ما يتم استثناء الذاكرة الرسومية.
 
 
 ;Application Name:
@@ -578,7 +578,7 @@ Plugins (Click-to-Activate)
 
 
 ;The internal build timestamp.
-الطابع الزمني الداخلي الخاص بعملية البناء.
+الطابع الزمني الداخلي لعملية البناء.
 
 
 ;Update Channel:
@@ -586,15 +586,15 @@ Plugins (Click-to-Activate)
 
 
 ;Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
-يتم توزيع فَيَرفُكس عبر قنوات: البناءات الليلية، قناة أورورا الخاصة بالإصدارات ما قبل النهائية، الإصدارات التجريبية المستقرة، إضافة إلى الإصدارات النهائية. يحدد هذا الحقل القناة المعنية بالأمر.
+يتم توزيع فَيَرفُكس عبر قنوات: البناءات الليلية، قناة أورورا الخاصة بالإصدارات ما قبل النهائية، الإصدارات التجريبية المستقرة، إضافة إلى الإصدارات النهائية. يحدد هذا الحقل القناة المستخدمة.
 
 
 ;Vendor:
-البائع:
+المُنتِج:
 
 
 ;The organization that built this application. Typically Mozilla.
-المنظمة التي قامت ببناء التطبيق. يُفترض أن تكون موزيلا هي التي قامت بذلك.
+المنظمة التي بنت هذا التطبيق. عادة ما تكون موزيلا.
 
 
 ;Platform Version:
@@ -602,7 +602,7 @@ Plugins (Click-to-Activate)
 
 
 ;An internal version identifier. Typically the same as appVersion.
-مُعرف الإصدار الداخلي. عادة ما يكون مُطابقا لـ appVersion.
+مُعرف الإصدار الداخلي. عادة ما يكون مُطابقا ل‍ appVersion.
 
 
 ;Platform Build ID:
@@ -610,7 +610,7 @@ Plugins (Click-to-Activate)
 
 
 ;On Android this is an alternative name for appBuildID.
-مُرادف لـ appBuildID على أندرويد.
+مُرادف appBuildID على أندرويد.
 
 
 ;xpcomabi:
@@ -747,12 +747,10 @@ xpcomabi: {ok}
 
 # This string is displayed when selecting Raw Data near the title
 ;Firefox Health Report (FHR) records anonymous data about your computer, configuration, usage, performance, and error conditions. This data helps us improve Firefox for you and for other Firefox users.
-Firefox Health Report (FHR) records anonymous data about your computer, configuration, usage, performance, and error conditions. This data helps us improve Firefox for you and for other Firefox users.
+يسجّل تقرير فَيَرفُكس الصحي بيانات مجهّلة الهوية عن حاسوبك، و الضبط، و الاستخدام، و الأداء و حالات الخطأ الأخرى. تساعدنا هذه البيانات في تحسين فَيَرفُكس لك و لمستخدميه الآخرين.
 
 
 # This string is displayed when selecting Raw Data near the title
 # Links to https://gecko.readthedocs.org/en/latest/toolkit/components/telemetry/telemetry/
 ;Read technical documentation for the data format and fields.
-Read technical documentation for the data format and fields.
-
-
+اطّلع على التوثيق التقني لتنسيق البيانات و الحقول.
