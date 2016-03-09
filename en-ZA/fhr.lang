@@ -1,7 +1,3 @@
-## NOTE: To test this page you can open about:config and set datareporting.healthreport.about.reportUrl to https://fhr-dev.allizom.org/%LOCALE%/v4/
-## NOTE: Then open about:healthreport in Firefox
-
-
 ;Firefox Health Report
 Firefox Health Report {ok}
 
@@ -51,21 +47,21 @@ version {ok}
 
 
 ;update channel
-update channel
+update channel: {ok}
 
 
 ;updates
-updates
+updates {ok}
 
 
 # Possible value for "updates"
 ;automatic
-automatic
+automatic {ok}
 
 
 # Possible value for "updates"
 ;prompt
-prompt
+prompt {ok}
 
 
 ;time open
@@ -85,19 +81,19 @@ This Month {ok}
 
 
 ;total sessions
-total sessions
+total sessions {ok}
 
 
 ;Active Add-ons
-Active Add-ons
+Active Add-ons {ok}
 
 
 ;Extensions
-Extensions
+Extensions {ok}
 
 
 ;Plugins (Click-to-Activate)
-Plugins (Click-to-Activate)
+Plugins (Click-to-Activate) {ok}
 
 
 ;crashes
@@ -105,11 +101,11 @@ crashes {ok}
 
 
 ;application crashes
-application crashes
+application crashes {ok}
 
 
 ;plugin crashes
-plugin crashes
+plugin crashes {ok}
 
 
 ;Add-ons
@@ -747,12 +743,10 @@ You are currently not sharing your health report with Mozilla. {ok}
 
 # This string is displayed when selecting Raw Data near the title
 ;Firefox Health Report (FHR) records anonymous data about your computer, configuration, usage, performance, and error conditions. This data helps us improve Firefox for you and for other Firefox users.
-Firefox Health Report (FHR) records anonymous data about your computer, configuration, usage, performance, and error conditions. This data helps us improve Firefox for you and for other Firefox users.
+Firefox Health Report (FHR) records anonymous data about your computer, configuration, usage, performance, and error conditions. This data helps us improve Firefox for you and for other Firefox users. {ok}
 
 
 # This string is displayed when selecting Raw Data near the title
 # Links to https://gecko.readthedocs.org/en/latest/toolkit/components/telemetry/telemetry/
 ;Read technical documentation for the data format and fields.
-Read technical documentation for the data format and fields.
-
-
+Read technical documentation for the data format and fields. {ok}
