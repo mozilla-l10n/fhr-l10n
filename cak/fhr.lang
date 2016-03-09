@@ -3,756 +3,754 @@
 
 
 ;Firefox Health Report
-Firefox Health Report
+Rutzijol Raxnaqil Firefox
 
 
 ;Raw Data
-Raw Data
+Kutam taq tzij
 
 
 ;Get insights and performance information about your version of Firefox.
-Get insights and performance information about your version of Firefox.
+Kek'ul taq na'oj chuqa' etamab'äl pa ruwi' rub'eyal nisamäj rik'in ri ruwäch chi Firefox.
 
 
 ;Learn more...
-Learn more...
+Tetamäx ch'aqa' chik...
 
 
 ;Data Sharing
-Data Sharing
+Komonin taq tzij
 
 
 ;ON
-ON
+TZIJÏL
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
-You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
+Xacha' richin man yatikïr ta chik ye'akomonij ri taq tzij rik'in Mozilla, k'a yatikïr na natz'ët ri rub'eyal tajin ninuk' ri okik'amaya'l.
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
-Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
+Ri taq atzij pa rutzijol raxnaqil xkeyuj el chuqa' pa ri taq ruk'u'x rusamaj Mozilla. Ch'aqa' chik taq rutzijol pa <a href="%(privacy_url)s">ichinan qana'ojil.</a>
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
-You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
+Rat xacha' chi jantäq xtakomonij ri taq atzij rik'in Mozilla. Niqamatyoxij chawe nawichinaj ri qataqel taqanem richin niqanük' jun utziläj ruk'aslem okik'amaya'l ri chwa'q kab'ij.
 
 
 ;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
-Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
+Tawetamaj rub'eyal niqasamajij ri taq atzij pa <a href="%(privacy_url)s">ichinan qana'oj.</a>
 
 
 ;Vital Stats
-Vital Stats
+Ajoxel taq Molob'a'
 
 
 ;version
-version
+ruwäch
 
 
 ;update channel
-update channel
+ruq'asab'al k'exoj
 
 
 ;updates
-updates
+taq k'exoj
 
 
 # Possible value for "updates"
 ;automatic
-automatic
+choj ruyonil
 
 
 # Possible value for "updates"
 ;prompt
-prompt
+chanin
 
 
 ;time open
-time open
+ruq'ijul jaqon
 
 
 ;last crash
-last crash
+ruk'isib'äl q'atoj
 
 
 ;bookmarks
-bookmarks
+taq etal
 
 
 ;This Month
-This Month
+Re ik' re'
 
 
 ;total sessions
-total sessions
+konojel ri taq molojri'ïl
 
 
 ;Active Add-ons
-Active Add-ons
+Add-ons e tzijïl
 
 
 ;Extensions
-Extensions
+Taq k'amal
 
 
 ;Plugins (Click-to-Activate)
-Plugins (Click-to-Activate)
+Taq pluyin (Tapitz'a' richin nitzijtäj)
 
 
 ;crashes
-crashes
+q'aton
 
 
 ;application crashes
-application crashes
+chokoy eq'aton
 
 
 ;plugin crashes
-plugin crashes
+pluyin eq'aton
 
 
 ;Add-ons
-Add-ons
+Taq rutz’aqat
 
 
 ;View List
-View List
+Titz'et cholb'äl
 
 
 ;enabled
-enabled
+jaqon
 
 
 ;disabled
-disabled
+chupun
 
 
 ;Plugins
-Plugins
+Taq pluyin
 
 
 ;always activate
-always activate
+junelïk titzij
 
 
 ;ask to activate
-ask to activate
+tik'utüx pe richin nitzij
 
 
 ;never activate
-never activate
+majub'ey titzij
 
 
 ;Tips
-Tips
+Taq pixa'
 
 
 ;Wear and Tear
-Wear and Tear
+Tokisäx chuqa' tiyuj el
 
 
 ;It looks like your browser has crashed a number of times recently. To learn more:
-It looks like your browser has crashed a number of times recently. To learn more:
+Achi'exa chi ri awokik'amaya'l k'a ja re' k'ïy mul tiq'ate'. Tetamäx ch'aqa' chik:
 
 
 ;OFF
-OFF
+CHUPÜL
 
 
 ;Visit our <a href="%(sumo_url)s">support website</a>
-Visit our <a href="%(sumo_url)s">support website</a>
+Tatz'eta' ri <a href="%(sumo_url)s">to'ojri'ïl ruxaq qak'amaya'l</a>
 
 
 ;View more <a href="%(details_url)s">detailed information</a>
-View more <a href="%(details_url)s">detailed information</a>
+Tatz'eta' ch'aqa' chik <a href="%(details_url)s">rucholik qatzijol</a>
 
 
 ;pages visited
-pages visited
+tz'eton taq ruxaq
 
 
 ;Your browser seems to be running slower than usual. To learn more:
-Your browser seems to be running slower than usual. To learn more:
+Ri awokik'amaya'l achi'el ta chi yalan eqal nisamäj man achi'el ta ojer. Tetamäx ch'aqa' chik:
 
 
 ;You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
-You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
+Xkatikïr xtatz'ët ri jeb'ël chuqa' chololen taq tzijob'äl toq k'a ja ri' xtawokisaj ri awokik'amaya'l. Katzolin pe pa ka'i' apo taq wuqq'ij richin yetu'atz'eta' jujun taq ajowab'äl.
 
 
 ;Startup Time by Day
-Startup Time by Day
+Ruq'ijul tikirisab'äl chi q'ij
 
 
 ;Graph:
-Graph:
+Wachib'äl:
 
 
 ;Average
-Average
+Tunamilil
 
 
 ;All
-All
+Ronojel
 
 
 ;Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
-Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
+Ri ruq'ijul tikirisab'äl, nuya' retal ri rutzil nub'än ri ruwäch Firefox. Chijun, ri anin taq q'ijul (jub'a ramaj) nuya' retal chi ütz rub'eyal nisamäj.
 
 
 ;Data Collected
-Data Collected
+Taq ka'al molon
 
 
 ;Glossary
-Glossary
+Choltzij
 
 
 ;What the Firefox Health Report Measures
-What the Firefox Health Report Measures
+Achike Rutzijol Raxnaqil Firefox taq rub'eyal
 
 
 ;The Firefox Health Report (FHR) has 4 categories of metrics:
-The Firefox Health Report (FHR) has 4 categories of metrics:
+Ri Rutzijol Raxnaqil F (RRF) k'o 4 kiwäch tz'etnuk'ulem:
 
 
 ;Configuration
-Configuration
+Nuk'ulem
 
 
 ;Device hardware, operating system, Firefox version
-Device hardware, operating system, Firefox version
+Rokisaxel ch'akulakem, samajel q'inoj, ruwäch Firefox
 
 
 ;Customizations
-Customizations
+Taq ichinanem
 
 
 ;Add-ons, count and type
-Add-ons, count and type
+Add-on, tajiläx chuqa' ruwäch
 
 
 ;Performance
-Performance
+Rub'eyal nisamäj
 
 
 ;Timing of browser events, rendering, session restores
-Timing of browser events, rendering, session restores
+Rucholq'ij taq runimaq'ij okik'amaya'l, ruwachinik, rutzolixik ruwäch molojri'ïl
 
 
 ;Length of session, how old a profile is, count of crashes, count of pages
-Length of session, how old a profile is, count of crashes, count of pages
+Ruq'ijul xyaloj molojri'ïl, rujuna' jun ruwäch b'i'aj, kajlaxik taq kajib'äl, kajlaxik taq ruxaq
 
 
 ;Detailed Description
-Detailed Description
+chololen rutzijoxkil
 
 
 ;Metric
-Metric
+Tz'etnuk'ulem
 
 
 ;Description
-Description
+Tzijoxkil
 
 
 ;Binary interface for XPCOM
-Binary interface for XPCOM
+Kach'akul ruk'amal XPCOM
 
 
 ;Identifier for this build of the application based on the date the build was started
-Identifier for this build of the application based on the date the build was started
+Rutz'etöy re runuk'ik ri chokoy k'o ruxe'el chi rij ri q'ij xtikirisäx ri rutikirisaxik
 
 
 ;Operating System for which this build was configured
-Operating System for which this build was configured
+Samajel q'inoj richin re b'anöl runuk'ulem
 
 
 ;Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
-Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
+Tz'etöy richin ri ichinan rujachik ri chokoy nokisäx. Nichap el pa ri <var>distribution.id</var>ajowab'äl
 
 
 ;Version of the distribution, taken from the <var>distribution.version</var> preference
-Version of the distribution, taken from the <var>distribution.version</var> preference
+Ri ruwäch jachïk, xchap pe pa ri <var>distribution.version</var>ajowab'äl
 
 
 ;The version number of any Mozilla hotfix applied to the application
-The version number of any Mozilla hotfix applied to the application
+Ri ruwäch rajilab'al xab'achike Mozilla nik'on chi rij ri chokoy
 
 
 ;Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
-Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
+Jun tz'etöy ri nuya' retal we ri chokoy richin Firefox o Thunderbird, ch'aqa' chik. Junam pa kiwi' konojel ri taq ruyakik jun chokoy xab'achike rejqalem <var>appName</var>
 
 
 ;The configured name of the application (Firefox/Aurora/Nightly for instance)
-The configured name of the application (Firefox/Aurora/Nightly for instance)
+Ri nuk'un rub'i' chokoy (Firefox/Aurora/Nightly kichin molaj)
 
 
 ;The channel this installation checks for application updates (nightly/aurora/beta/release)
-The channel this installation checks for application updates (nightly/aurora/beta/release)
+Ri q'asab'äl re yakoj re' nunik'oj we e k'o taq ruk'exoj ri chokoy (nightly/aurora/beta/release)
 
 
 ;The name of the company/provider who built this version
-The name of the company/provider who built this version
+Rub'i' ri ajk'aymoloj/nuya' rutzijol ri niya'o re ruwäch re'
 
 
 ;The current version of the product
-The current version of the product
+Ruwäch ri tikojil wakami
 
 
 ;Number of processor cores
-Number of processor cores
+Rajilab'al ruk'u'x samajib'äl ruwäch
 
 
 ;Whether the application is currently configured to be the default browser for the operating system
-Whether the application is currently configured to be the default browser for the operating system
+Ri chokoy nuk'un wakami richin nok ri okik'amaya'l, ri ruk'amon wi pe, richin ri samajel q'inoj
 
 
 ;Locale currently being used
-Locale currently being used
+Aj wawe', ri tajin nokisäx wakami
 
 
 ;Amount of RAM in megabytes
-Amount of RAM in megabytes
+Ronojel ri RAM pa nimab'it
 
 
 ;Currently running Operating System (kernel) name
-Currently running Operating System (kernel) name
+Tajin nisamajïx ri samajel q'inoj (kernel) b'i'aj
 
 
 ;Currently running Operating System (kernel) version
-Currently running Operating System (kernel) version
+Tajin nisamajïx ri samajel q'inoj (kernel) ruwäch
 
 
 ;The build identifier of the Gecko platform code
-The build identifier of the Gecko platform code
+Ri ruch'akulal tz'etöy richin ri Gecko platform nuk'
 
 
 ;The version of the Gecko platform code
-The version of the Gecko platform code
+Ruwäch ri Gecko platform nuk'
 
 
 ;Processor architecture
-Processor architecture
+Tz'aqonem samajib'äl ruwäch
 
 
 ;The date this version was first used with this installation profile
-The date this version was first used with this installation profile
+Ri ruq'ijul re ruwäch re', xokisäj nab'ey mul rik'in re ruwäch b'i'aj yakonïk re'
 
 
 ;An application version which has been used with this installation profile
-An application version which has been used with this installation profile
+Jun ruwäch chokoy, ri okisan rik'in re ruwäch b'i'aj yakonïk re'
 
 
 ;The number of add-ons of this type that existed in the profile on this date
-The number of add-ons of this type that existed in the profile on this date
+Ri rajilab'al add-ons richin re ruwäch re', kan k'o wi pa ruwäch b'i'aj re ruq'ijul re'
 
 
 ;<var>True</var> if the application automatically disabled the add-on
-<var>True</var> if the application automatically disabled the add-on
+<var>Qitzij</var>we ri chokoy pa ruyonil nuchüp ri add-on
 
 
 ;Whether this add-on was installed by the user or automatically by another application
-Whether this add-on was installed by the user or automatically by another application
+Rik'in jub'a' re add-on re xyak ruma ri winäq o pa ruyonil ruma jun chik chokoy
 
 
 ;Whether this add-on has native code.
-Whether this add-on has native code.
+Rik'in jub'a' re add-on k'o ajnab'ey runuk'.
 
 
 ;The identifier of this add-on as defined by the add-on developer
-The identifier of this add-on as defined by the add-on developer
+Ri rutz'etöy re add-on re jikib'an achi'el ruma ri add b'anonel
 
 
 ;The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
-The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
+Ri k'ak'a' ruq'ijul re chokoy re' xyak kan (man k'o ta chik rutzijol ri jun add-on xelesäx el chupam).
 
 
 ;The number of searches performed with this search engine from this part of the UI
-The number of searches performed with this search engine from this part of the UI
+Rajlab'al ta kanoxïk b'anon rik'in re samajinel kanob'äl re' pa re ruk'ojlib'al UI
 
 
 ;Whether this add-on was installed in the application directory or profile directory
-Whether this add-on was installed in the application directory or profile directory
+Tikirel niyak re add-on re' pa rucholb'al chokoy o rucholb'al ruwäch b'i'aj
 
 
 ;Whether this add-on is an extension or a plug-in
-Whether this add-on is an extension or a plug-in
+ Re jun add-on re' jun k'amal o un pluyin
 
 
 ;The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
-The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
+Ri k'ak'a' ruq'ijul re chokoy re' xk'ex kan (man k'o ta chik rutzijol ri jun add-on xelesäx el chupam).
 
 
 ;<var>True</var> if the user manually disabled the add-on
-<var>True</var> if the user manually disabled the add-on
+<var>Qitzij</var>we ri retamawuj winäq nuchüp ri add-on
 
 
 ;The current version of this add-on
-The current version of this add-on
+Ruwäch re add-on re' wakami
 
 
 ;How long in milliseconds it took during startup for the application to render the UI and display the window
-How long in milliseconds it took during startup for the application to render the UI and display the window
+Pa janipe' xil nich'ramaj richin xutikirisaj ri chokoy richin xuk'üt pe ri UI chuqa' nuk'üt pe tzuwäch
 
 
 ;How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
-How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
+Pa janipe' xil nich'ramaj richin xutikirisaj ri chokoy richin xusamajij ri ruchokoy wujib'äl chuqa' chuqa' richin xuk'isib'ej ri ruxe' tikirib'äl 
 
 
 ;How long in milliseconds it took during startup for the application to restore tabs from the previous session
-How long in milliseconds it took during startup for the application to restore tabs from the previous session
+Pa janipe' xil nich'ramaj richin xutikirisaj ri chokoy richin xerutzolij ri taq ruwi' ri jun kan molojri'ïl
 
 
 ;The number of times the application was run and not cleanly shut down.
-The number of times the application was run and not cleanly shut down.
+Jarupe' mul nisamäj ri chokoy chuqa' majun sachoj toq nitz'apitäj.
 
 
 ;The time in seconds that the aborted sessions were not idle
-The time in seconds that the aborted sessions were not idle
+Ri ramaj pa nich'ramaj xq'ate' toq ri molojri'ïl man jaqäl ta
 
 
 ;The time in seconds that the aborted sessions were running
-The time in seconds that the aborted sessions were running
+Ri ramaj pa nich'ramaj xq'ate' ri molojri'ïl toq tajin nisamajïx
 
 
 ;The number of days since this application profile directory was created
-The number of days since this application profile directory was created
+Ri rajilab'al q'ij toq xnuk' ri ruwäch rub'i' cholb'äl
 
 
 ;The number of times the application was run and cleanly shut down.
-The number of times the application was run and cleanly shut down.
+Rajilab'äl taq q'ij ri chokoy nisamäj chuqa nujosq'ij ri chupuj.
 
 
 ;The time in seconds that the completed sessions were not idle
-The time in seconds that the completed sessions were not idle
+Ramaj pa nich'ramaj ri tz'aqatisan taq molojri'ïl toq man e tzijïl ta
 
 
 ;The time in seconds that the completed sessions were running
-The time in seconds that the completed sessions were running
+Ramaj pa nich'ramaj ri xetz'aqät taq molojri'ïl toq nisamäj
 
 
 ;Total number of crashes that were recorded but not yet submitted
-Total number of crashes that were recorded but not yet submitted
+Rajlab'al taq q'atoj xetz'et, xa xe chi man ek'utun ta pe
 
 
 ;Total number of crashes that have been submitted
-Total number of crashes that have been submitted
+Ronojel rajlab'al sachoj ri xetaq
 
 
 ;Time in seconds the app has not been idle
-Time in seconds the app has not been idle
+Ramaj pa nich'ramaj chupül ri chokoy
 
 
 ;Time in seconds since the app was last started
-Time in seconds since the app was last started
+Ramaj pa nich'ramaj xtikirisäx ri chokoy
 
 
 ;Total number of bookmarks
-Total number of bookmarks
+Ronojel kajilab'al taq etal
 
 
 ;Total number of pages listed in the history
-Total number of pages listed in the history
+Ronojel rajlab'al taq ruxaq echolajin pa k'ulwachixel
 
 
 ;How long in minutes the current session has been running
-How long in minutes the current session has been running
+Janipe q'ijul pa ch'utiramaj samajinäq ri molojri'ïl wakami
 
 
 ;Welcome to your Firefox Health Report
-Welcome to your Firefox Health Report
+Ütz apetik pa Rutzijol Raxnaqil Firefox awichin
 
 
 ;Welcome!
-Welcome!
+Ütz apetik!
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
-Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
+Rutzijol Raxnaqil Firefox nuya' q'ij chawe nawetamaj rub'eyal nisamäj ri Firefox awichin chuqa' ri yatikïr nab'än richin nawutzilaj.
 
 
 ;See My Report
-See My Report
+Titz'et nutzijol
 
 
 ;Time (in seconds)
-Time (in seconds)
+Q'ijul (pa nich'ramaj)
 
 
 ;Show Statistics
-Show Statistics
+Kek'ut pe ri taq molob'a'
 
 
 ;Privacy Policy
-Privacy Policy
+Ichinan na'oj
 
 
 # The following strings are used only in the Mobile version of about:healthreport (Firefox for Android)
 ;Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
-Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
+Ri Rutzijol Raxnaqil Firefox nuya' q'ij chawe chi nawutzilaj ri Firefox awichin chuqa' yojato' richin niqab'än jun utziläj okik'amaya'l. Ri taq rutzijol samaj e k'o pa ruxe'el wakami, xa xe chi xkek'exetäj chuqa' xkek'iyïr.
 
 
 ;Learn More&hellip;
-Learn More&hellip;
+Tetamäx ch'aqa' chik&hellip;
 
 
 ;Tip
-Tip
+Pixa'
 
 
 ;Looks like your Firefox is brand new! Check back after using Firefox for a while.
-Looks like your Firefox is brand new! Check back after using Firefox for a while.
+¡Achi'exa chi k'ak'a' ri Afirefox! Tanik'oj chik k'a ri katzolin pe chi rokisaxik Firefox.
 
 
 ;Important Metrics
-Important Metrics
+K'atzinel taq Tz'etnuk'ulem
 
 
 ;Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
-Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
+Rutzijol Raxnaqil Firefox yerutz'ib'aj ri etamab'äl chi rij ri awokisaxel chuqa' owokisaxel. Yatikïr <a href="#raw" class="navigate">natz'ët ri etamab'äl eqatz'ib'an.</a> Yatikïr natz'ët ri nakomonij rik'in Mozilla.
 
 
 ;Device hardware, operating system, Firefox version.
-Device hardware, operating system, Firefox version.
+Rokisaxel ch'akulakem, samajib'äl q'inoj, ruwäch Firefox.
 
 
 ;Extensions, plugins, and number of installed add-ons.
-Extensions, plugins, and number of installed add-ons.
+Taq k'amal, taq pluyin, chuqa' rajlab'al taq add-ons eyakon.
 
 
 ;Key performance measures, such as launch speed.
-Key performance measures, such as launch speed.
+Ewan taq rutzij rub'eyal nisamäj, achi'el ri ranin elesanem.
 
 
 ;Browsing duration, install time, number of bookmarks and pages.
-Browsing duration, install time, number of bookmarks and pages.
+Ruyalojem okem pa k'amaya'l, ruramaj yakoj, kajlab'al taq etal chuqa' taq ruxaq.
 
 
 ;Home
-Home
+Tikirib'äl
 
 
 ;CPU Count:
-CPU Count:
+CPU rajlaxik:
 
 
 ;The number of CPU cores reported by Android.
-The number of CPU cores reported by Android.
+Ri rajilab'al CPU ruk'u'x ya'on rutzijol richin Android.
 
 
 ;Memory in MB:
-Memory in MB:
+Rupam rujolom pa MB:
 
 
 ;The amount of memory reported by Android. Typically excludes graphics memory.
-The amount of memory reported by Android. Typically excludes graphics memory.
+Ri jaru'il rupam rujolom ya'on rutzijol richin Android. Man etz'aqatisan ta pe ri rupam jolom kichin taq wachib'äl.
 
 
 ;Application Name:
-Application Name:
+Rub'i' chokoy:
 
 
 ;The internal application name for the browser.
-The internal application name for the browser.
+Ri aj rupam rub'i' chokoy richin ri okik'amaya'l.
 
 
 ;Application ID:
-Application ID:
+Rucholajem chokoy:
 
 
 ;The internal identifier for the application.
-The internal identifier for the application.
+Ri aj rupam tz'etöy richin ri chokoy.
 
 
 ;Application Version:
-Application Version:
+Ruwäch chokoy:
 
 
 ;The current version of the browser
-The current version of the browser
+Ri ruwäch okik'amaya'l wakami
 
 
 ;Application Build ID:
-Application Build ID:
+Tinuk' rucholajem chokoy:
 
 
 ;The internal build timestamp.
-The internal build timestamp.
+Retal ruramaj ri aj rupam nuk'uj.
 
 
 ;Update Channel:
-Update Channel:
+Tik'ex q'asab'äl:
 
 
 ;Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
-Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
+Nitalüx ri Firefox rik'in taq q'asab'äl: Nightly builds, ri q'asab'äl Aurora chuwäch nelesäx pe, jun Beta jikïl, chuqa' ri relesaxik chi kiwäch winaqi'. Re k'ojlib'ál re' nuya' retal ri q'asab'äl.
 
 
 ;Vendor:
-Vendor:
+K'ayinel:
 
 
 ;The organization that built this application. Typically Mozilla.
-The organization that built this application. Typically Mozilla.
+Ri moloj xnuk'u re chokoy re'. Ja ri Mozilla.
 
 
 ;Platform Version:
-Platform Version:
+Ruwäch nuk'uxe'el:
 
 
 ;An internal version identifier. Typically the same as appVersion.
-An internal version identifier. Typically the same as appVersion.
+Jun aj rupam ruwäch tz'etöy. Kan ja ri junam rik'in ri appVersion.
 
 
 ;Platform Build ID:
-Platform Build ID:
+Tinuk' rucholajem Nuk'uxe'el:
 
 
 ;On Android this is an alternative name for appBuildID.
-On Android this is an alternative name for appBuildID.
+Pa Android, re re' jun ajk'exel rub'i' appBuildID. 
 
 
 ;xpcomabi:
-xpcomabi:
+xpcomabi: {ok}
 
 
 ;The CPU architecture for which this application was built.
-The CPU architecture for which this application was built.
+Ri CPU tz'aqonem achoq ichin xnuk' re chokoy re'.
 
 
 ;OS:
-OS:
+OS: {ok}
 
 
 ;The current operating system.
-The current operating system.
+Ri samajib'äl q'inoj wakami.
 
 
 ;Architecture:
-Architecture:
+Retamab'alil tz'aqonem:
 
 
 ;The CPU architecture for this device.
-The CPU architecture for this device.
+Ri CPU tz'aqonem richin re okisaxel re'.
 
 
 ;System Name:
-System Name:
+Rub'i' q'inoj:
 
 
 ;The current system name.
-The current system name.
+Ri rub'i' q'inoj wakami.
 
 
 ;System Version:
-System Version:
+Ruwäch q'inoj:
 
 
 ;The Android OS revision.
-The Android OS revision.
+Ri runik'oxik Android samajib'äl q'inoj.
 
 
 ;Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
-Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
+Firefox nrïl taq tz'aqat pa ri kicholb'al taq q'atoj richin yaruto' chi kiwäch ri itzel taq tz'aqat. Kan etzijon wi pe.
 
 
 ;Telemetry Enabled:
-Telemetry Enabled:
+Etataqonel tzijïl:
 
 
 ;Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
-Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
+Firefox nuya' kitzijol ri taq tzij tajin ye'okisäx richin nito'on rik'in ri runuk'ik. Ri rejqalem kan k'o wi pa chupül kichin konojel ri taq q'asab'äl.
 
 
 ;Extension Count:
-Extension Count:
+Rajilanel k'amal:
 
 
 ;How many extension add-ons are installed.
-How many extension add-ons are installed.
+Janipe' taq kik'amal tz'aqat yeyak.
 
 
 ;Plugin Count:
-Plugin Count:
+Rajilanel pluyin:
 
 
 ;How many plugin add-ons are installed.
-How many plugin add-ons are installed.
+Janipe' taq kipluyin tz'aqat yeyak.
 
 
 ;Theme Count:
-Theme Count:
+Rajilanel wachinel:
 
 
 ;How many theme add-ons are installed.
-How many theme add-ons are installed.
+Achike rub'eyal yeyak ri taq kiwachinel tz'aqat.
 
 
 ;Addons:
-Addons:
+Taq tz'aqat:
 
 
 ;A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
-A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
+Jun molonïk, ri yerucholajik taq tz'aqat eyakon. Man niya' ta kitzijol konojel ri taq tz'aqat: xa xe ri taq pluyin, taq k'amal chuqa' taq samaj.
 
 
 ;Search Counts:
-Search Counts:
+Rajilanel kanoxïk:
 
 
 ;A count of how many searches you issued to each of Mozilla's partner providers.
-A count of how many searches you issued to each of Mozilla's partner providers.
+Kajlaxik jarupe' kanoxïk xtib'analöx chi ke chi kijujunal ri ajya'öl e ruwinaq Mozilla.
 
 
 ;Sessions and Startup Times
-Sessions and Startup Times
+Ri taq molojri'ïl chuqa' ri taq ruq'ijul tikirib'äl
 
 
 ;For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
-For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
+Chi kijujunal ri rumolojri'ïl okem pa k'amaya'l, Firefox Health Report nuya' retal jarupe' ramaj at okinäq pa k'amaya'l (pa nich'ramaj) chuqa' we choj xuk'isib'ej o xq'ate' ri molojri'ïl. Chuqa' nuq'alajisaj pe ri ramaj nutikirisaj (pa xil nich'ramaj) we e wachel.
 
 
 ;Profile Creation:
-Profile Creation:
+Kinuk'ik kiwäch b'i'aj:
 
 
 ;The day on which your browser profile was created. Counted in days since January 1st 1970.
-The day on which your browser profile was created. Counted in days since January 1st 1970.
+Ri q'ij xnuk' ruwäch rub'i' ri okik'amaya'l. Xtrajlaj chi q'ij pa ri 1 richin ri nab'ey rik'in ri 1970 juna'.
 
 
 ;Learn More
-Learn More
+Tetamäx ch'aqa' chik
 
 
 ;Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
-Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
+Rutzijol Raxnaqil Firefox (RRF) yerusöl taq na'oj pa ruwi' rub'eyal nisamäj ri awokik'amaya'l, richin nuq'alajisaj jeb'ël taq pixa' chawe, ri xkatkito' chi nawïl rutz'il ri Firefox. Richin nak'ül ch'aqa' chik taq na'oj chi rij ri Rutzijol Raxnaqil Firefox, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>tab'etz'eta' ri to'onel ruk'ojlib'al Mozilla.</a>
 
 
 ;For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
-For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
+Richin nawetaman ch'aqa' chik pa ruwi' kokisaxik taq atzij, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>tatz'eta' ri ichinan qana'oj.</a>
 
 
 ;You are currently sharing your health report with Mozilla.
-You are currently sharing your health report with Mozilla.
+Wakami tajin nakomonij ri atzijol pa ruwi' raxnaqil rik'in Mozilla.
 
 
 ;Choose what I share
-Choose what I share
+Tincha' ri ninkomonij
 
 
 ;You are currently not sharing your health report with Mozilla.
-You are currently not sharing your health report with Mozilla.
+K'a majani nakomonij ri atzijol pa ruwi' raxnaqil rik'in Mozilla.
 
 
 # This string is displayed when selecting Raw Data near the title
 ;Firefox Health Report (FHR) records anonymous data about your computer, configuration, usage, performance, and error conditions. This data helps us improve Firefox for you and for other Firefox users.
-Firefox Health Report (FHR) records anonymous data about your computer, configuration, usage, performance, and error conditions. This data helps us improve Firefox for you and for other Firefox users.
+Rutzijol Raxnaqil Firefox (RRF) yerutz'ib'aj kan ri taq man etaman ta kiwäch tzij pa ruwi' rub'anikil akematz'ib', nuk'ulem, rokisaxik, rub'eyal nisamäj chuqa' sachoj. Konojel re taq tzij re' yeto'on pa ruwi' rutzil Firefox richin nawokisaj chuqa' ch'aqa' chik ruwinaq Firefox.
 
 
 # This string is displayed when selecting Raw Data near the title
 # Links to https://gecko.readthedocs.org/en/latest/toolkit/components/telemetry/telemetry/
 ;Read technical documentation for the data format and fields.
-Read technical documentation for the data format and fields.
-
-
+Tisik'ïx ri samajel ruwujil richin ri kib'anikil taq tzij chuqa' taq k'ojlib'äl.
