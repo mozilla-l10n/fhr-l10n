@@ -11,7 +11,7 @@ Fonte de dados
 
 
 ;Get insights and performance information about your version of Firefox.
-Obtenha percepções e informações sobre o desempenho da sua versão do Firefox.
+Obtenha informações sobre o desempenho da sua versão do Firefox.
 
 
 ;Learn more...
@@ -23,7 +23,7 @@ Compartilhamento de dados
 
 
 ;ON
-ATIVADO
+Ligado
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
@@ -31,11 +31,11 @@ Você decidiu parar de compartilhar seus dados com a Mozilla, mas você ainda se
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
-Os dados enviados do seu relatório de integridade também serão removidos do servidor da Mozilla. Saiba mais na nossa <a href="%(privacy_url)s">política de privacidade</a>.
+Os dados do relatório de integridade também serão removidos dos servidores da Mozilla. Saiba mais na nossa <a href="%(privacy_url)s">política de privacidade</a>.
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
-Você decidiu compartilhar seus dados com a Mozilla de tempos em tempos. Obrigado por fazer parte da nossa missão de criar um futuro mais brilhante para a Web.
+Você decidiu compartilhar seus dados com a Mozilla de tempos em tempos. Obrigado por fazer parte da nossa missão de construir um futuro mais brilhante para a Web.
 
 
 ;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
@@ -43,7 +43,7 @@ Saiba como nós lidamos com seus dados em nossa <a href="%(privacy_url)s">polít
 
 
 ;Vital Stats
-Estatísticas
+Estatísticas vitais
 
 
 ;version
@@ -157,7 +157,7 @@ Parece que o seu navegador travou algumas vezes recentemente. Para saber mais:
 
 
 ;OFF
-DESATIVADO
+Desligado
 
 
 ;Visit our <a href="%(sumo_url)s">support website</a>
@@ -722,7 +722,7 @@ Quantidade de dias desde que seu perfil foi criado.
 
 
 ;Learn More
-Conheça melhor
+Saiba mais
 
 
 ;Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
