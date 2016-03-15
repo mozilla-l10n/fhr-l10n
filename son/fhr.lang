@@ -55,17 +55,17 @@ Taagandiri kanaara:
 
 
 ;updates
-updates
+taagandirey
 
 
 # Possible value for "updates"
 ;automatic
-automatic
+boŋdirandi
 
 
 # Possible value for "updates"
 ;prompt
-prompt
+mee-karyan
 
 
 ;time open
@@ -85,19 +85,19 @@ Handoo woo
 
 
 ;total sessions
-total sessions
+goywaatey kul
 
 
 ;Active Add-ons
-Active Add-ons
+Tontoni dirantey
 
 
 ;Extensions
-Extensions
+Dobuyaney
 
 
 ;Plugins (Click-to-Activate)
-Plugins (Click-to-Activate)
+Sukarey (Naagu-ka-dirandi)
 
 
 ;crashes
@@ -747,12 +747,10 @@ War ši war gaahambaani bayrandi sanbo Mozilla do sohõ.
 
 # This string is displayed when selecting Raw Data near the title
 ;Firefox Health Report (FHR) records anonymous data about your computer, configuration, usage, performance, and error conditions. This data helps us improve Firefox for you and for other Firefox users.
-Firefox Health Report (FHR) records anonymous data about your computer, configuration, usage, performance, and error conditions. This data helps us improve Firefox for you and for other Firefox users.
+Firefox baani bayrandoo (FHR) ga bayhaya marga bila boro maa war ordinater, goyyan, goysahã nda firka daliley ga. Bayhayey wey g'ir gaa ka Firefox boryandi ka tonton war nda Frefox goykaw taney se.
 
 
 # This string is displayed when selecting Raw Data near the title
 # Links to https://gecko.readthedocs.org/en/latest/toolkit/components/telemetry/telemetry/
 ;Read technical documentation for the data format and fields.
-Read technical documentation for the data format and fields.
-
-
+Goyyan fahamandi tiira caw bayhaya takaroo nda faarey ga.
