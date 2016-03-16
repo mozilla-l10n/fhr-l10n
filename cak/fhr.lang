@@ -377,7 +377,7 @@ Tikirel niyak re add-on re' pa rucholb'al chokoy o rucholb'al ruwäch b'i'aj
 
 
 ;Whether this add-on is an extension or a plug-in
- Re jun add-on re' jun k'amal o un pluyin
+Re jun add-on re' jun k'amal o un pluyin
 
 
 ;The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
@@ -610,7 +610,7 @@ Tinuk' rucholajem Nuk'uxe'el:
 
 
 ;On Android this is an alternative name for appBuildID.
-Pa Android, re re' jun ajk'exel rub'i' appBuildID. 
+Pa Android, re re' jun ajk'exel rub'i' appBuildID.
 
 
 ;xpcomabi:
@@ -674,11 +674,11 @@ Janipe' taq kik'amal tz'aqat yeyak.
 
 
 ;Plugin Count:
-Rajilanel pluyin:
+Rajilanel nak'ab'äl:
 
 
 ;How many plugin add-ons are installed.
-Janipe' taq kipluyin tz'aqat yeyak.
+Janipe' taq kinak'ab'al tz'aqat yeyak.
 
 
 ;Theme Count:
