@@ -181,7 +181,7 @@ Poderá aceder a mais e melhor informação quanto mais uso der ao seu navegador
 
 
 ;Startup Time by Day
-Tempo de início por dia
+Tempo de arranque por dia
 
 
 ;Graph:
@@ -197,7 +197,7 @@ Tudo
 
 
 ;Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
-O tempo de início ajuda a determinar o desempenho da sua versão do Firefox. Geralmente, tempos mais rápidos (menos tempo) são indicativos de um melhor desempenho.
+O tempo de arranque ajuda a determinar o quão bem a sua versão do Firefox se está a desempenhar. Geralmente, tempos mais rápidos (ex: menos tempo) indicam melhor desempenho.
 
 
 ;Data Collected
@@ -305,7 +305,7 @@ Número de núcleos do processador
 
 
 ;Whether the application is currently configured to be the default browser for the operating system
-Se a aplicação está atualmente configurada para ser o navegador pré-definido do sistema operativo
+Se a aplicação está atualmente configurada para ser o navegador predefinido do sistema operativo
 
 
 ;Locale currently being used
@@ -373,7 +373,7 @@ Número de pesquisas executadas com este motor de busca apartir desta parte da i
 
 
 ;Whether this add-on was installed in the application directory or profile directory
-Se este extra foi instalado na pasta da aplicação ou na pasta de perfil
+Se este extra foi instalado no diretório da aplicação ou no diretório de perfil
 
 
 ;Whether this add-on is an extension or a plug-in
@@ -393,15 +393,15 @@ A versão atual deste extra
 
 
 ;How long in milliseconds it took during startup for the application to render the UI and display the window
-Quanto tempo em milissegundos demorou durante a abertura, para a aplicação renderizar a interface e mostrar a janela
+Quanto tempo em milissegundos que demorou durante o arranque para a aplicação renderizar a interface de utilizador e mostrar a janela
 
 
 ;How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
-Quanto tempo em milissegundos demorou durante a abertura, para a aplicação carregar a biblioteca e terminar a inicialização básica
+Quanto tempo em milissegundos que demorou durante o arranque para a aplicação carregar a biblioteca e terminar a inicialização básica
 
 
 ;How long in milliseconds it took during startup for the application to restore tabs from the previous session
-Quanto tempo em milissegundos que demorou durante a abertura, para o restauro das janelas da aplicação das sessões prévias
+Quanto tempo em milissegundos que demorou durante o arranque para a aplicação restaurar separadores da sessão prévia
 
 
 ;The number of times the application was run and not cleanly shut down.
@@ -417,15 +417,15 @@ Tempo em segundos em que a sessão abortada esteve a ser executada
 
 
 ;The number of days since this application profile directory was created
-Numero de dias desde que o directório de perfil da aplicação foi criado.
+Número de dias desde que o diretório de perfil da aplicação foi criado
 
 
 ;The number of times the application was run and cleanly shut down.
-Número de vezes que a aplicação foi executada e correctamente desligada.
+Número de vezes que a aplicação foi executada e corretamente desligada.
 
 
 ;The time in seconds that the completed sessions were not idle
-O tempo em segundos que as sessões completadas não estiveram inactivas
+O tempo em segundos que as sessões completadas não estiveram inativas
 
 
 ;The time in seconds that the completed sessions were running
@@ -441,7 +441,7 @@ Número total de falhas que foram submetidas
 
 
 ;Time in seconds the app has not been idle
-Tempo em segundos em que a aplicação não tem estado inactiva
+Tempo em segundos em que a aplicação não tem estado inativa
 
 
 ;Time in seconds since the app was last started
@@ -534,7 +534,7 @@ Página inicial
 
 
 ;CPU Count:
-Contador de CPU:
+Contagem de CPUs:
 
 
 ;The number of CPU cores reported by Android.
@@ -654,7 +654,7 @@ A revisão do Android OS.
 
 
 ;Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
-Se o Firefox descarrega a lista de bloqueios de extras para o proteger contra extras maliciosos. O valor predefinido é, ligado.
+Se o Firefox descarrega a lista de bloqueios de extras para o proteger contra extras maliciosos. Predefinido para ligado.
 
 
 ;Telemetry Enabled:
@@ -662,11 +662,11 @@ Telemetria ativada:
 
 
 ;Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
-Se o Firefox relata dados detalhados sobre a utilização para ajudar no desenvolvimento. Pré-definição é desligado para a maioria dos canais.
+Se o Firefox relata dados detalhados sobre a utilização para ajudar no desenvolvimento. Predefinido para desligado para a maioria dos canais.
 
 
 ;Extension Count:
-Contador de extensões:
+Contagem de extensões:
 
 
 ;How many extension add-ons are installed.
@@ -674,7 +674,7 @@ Quantas extensões estão instaladas.
 
 
 ;Plugin Count:
-Contador de plugin:
+Contagem de plugins:
 
 
 ;How many plugin add-ons are installed.
@@ -682,7 +682,7 @@ Quantos plugins estão instalados.
 
 
 ;Theme Count:
-Contador de temas:
+Contagem de temas:
 
 
 ;How many theme add-ons are installed.
@@ -698,7 +698,7 @@ Uma coleção que descreve que extras estão instalados. Nem todos os extras sã
 
 
 ;Search Counts:
-Contadores de pesquisa:
+Contagem de pesquisas:
 
 
 ;A count of how many searches you issued to each of Mozilla's partner providers.
@@ -726,11 +726,11 @@ Saber mais
 
 
 ;Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
-O relatório de estado do Firefox analiza a informação de desempenho do seu navegador, de modo a fornecer-nos informação que nos ajude a tornar o Firefox melhor. Para mais informação sobre o relatório de estado do Firefox, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visite a secção de ajuda da Mozilla.</a>
+O relatório de estado do Firefox (Firefox Health Report - FHR) analisa a informação de desempenho do seu navegador, de modo a fornecer-nos informação que nos ajude a tornar o Firefox melhor. Para mais informação sobre o relatório de estado do Firefox, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visite a secção de ajuda da Mozilla.</a>
 
 
 ;For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
-Para mais informação sobre como usamos os seus dados, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>veja a nossa política de privacidade.</a>
+Para mais informação sobre como lidamos com os seus dados, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>veja a nossa política de privacidade.</a>
 
 
 ;You are currently sharing your health report with Mozilla.
