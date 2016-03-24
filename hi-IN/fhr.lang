@@ -3,7 +3,7 @@
 
 
 ;Firefox Health Report
-फ़ायरफ़ॉक्स स्वास्थ्य रिपोर्ट
+Firefox स्वास्थ्य रिपोर्ट
 
 
 ;Raw Data
@@ -11,7 +11,7 @@
 
 
 ;Get insights and performance information about your version of Firefox.
-फ़ायरफ़ॉक्स के आपके संस्करण के बारे में अंतर्दृष्टि और कार्यकुशलता जानकारी पाएँ.
+Firefox के आपके संस्करण के बारे में अंतर्दृष्टि और कार्यकुशलता जानकारी पाएँ.
 
 
 ;Learn more...
@@ -23,7 +23,7 @@
 
 
 ;ON
-चालू
+शुरू करें
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
@@ -55,17 +55,17 @@
 
 
 ;updates
-updates
+अद्यतन
 
 
 # Possible value for "updates"
 ;automatic
-automatic
+स्वचालित
 
 
 # Possible value for "updates"
 ;prompt
-prompt
+संकेत
 
 
 ;time open
@@ -85,19 +85,19 @@ prompt
 
 
 ;total sessions
-total sessions
+कुल सत्र
 
 
 ;Active Add-ons
-Active Add-ons
+सक्रिय सहयुक्तियाँ
 
 
 ;Extensions
-Extensions
+विस्तार
 
 
 ;Plugins (Click-to-Activate)
-Plugins (Click-to-Activate)
+प्लगइन्स (सक्रिय करने के लिए दबाएँ)
 
 
 ;crashes
@@ -145,7 +145,7 @@ Plugins (Click-to-Activate)
 
 
 ;Tips
-संकेत
+सुझाव
 
 
 ;Wear and Tear
@@ -747,12 +747,10 @@ Addons: {ok}
 
 # This string is displayed when selecting Raw Data near the title
 ;Firefox Health Report (FHR) records anonymous data about your computer, configuration, usage, performance, and error conditions. This data helps us improve Firefox for you and for other Firefox users.
-Firefox Health Report (FHR) records anonymous data about your computer, configuration, usage, performance, and error conditions. This data helps us improve Firefox for you and for other Firefox users.
+Firefox हैल्थ रिपोर्ट(FHR) आपके कम्प्यूटर, विन्यास, प्रयोग, प्रदर्शन, तथा त्रुटि से संबद्धित आंकड़ों को रिकॉर्ड करती है. ये आंकड़े Firefox को और बेहतर बनाने मैं सहायक होते हैं.
 
 
 # This string is displayed when selecting Raw Data near the title
 # Links to https://gecko.readthedocs.org/en/latest/toolkit/components/telemetry/telemetry/
 ;Read technical documentation for the data format and fields.
-Read technical documentation for the data format and fields.
-
-
+डेटा प्रारूप और क्षेत्रों के लिए तकनीकी दस्तावेज़ीकरण पढ़ें.
