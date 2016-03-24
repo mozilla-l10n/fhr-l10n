@@ -51,21 +51,21 @@
 
 
 ;update channel
-update channel
+အဆင့်မြှင့်လိုင်း
 
 
 ;updates
-updates
+နောက်ဆုံးပေါ်မြှင့်တင်မှုများ
 
 
 # Possible value for "updates"
 ;automatic
-automatic
+အလိုအလျောက်
 
 
 # Possible value for "updates"
 ;prompt
-prompt
+prompt {ok}
 
 
 ;time open
@@ -85,19 +85,19 @@ prompt
 
 
 ;total sessions
-total sessions
+ဆက်ရှင်စုစုပေါင်း
 
 
 ;Active Add-ons
-Active Add-ons
+အသုံးပြုနေသည့်အတ်အွန်များ
 
 
 ;Extensions
-Extensions
+ထပ်ပေါင်းဆော့ဖ်ဝဲများ
 
 
 ;Plugins (Click-to-Activate)
-Plugins (Click-to-Activate)
+ပလက်အင်များ(စတင်လုပ်ဆောင်ရန် ကလစ်နှိပ်ပါ)
 
 
 ;crashes
@@ -105,11 +105,11 @@ Plugins (Click-to-Activate)
 
 
 ;application crashes
-application crashes
+အက်ပလီကေးရှင်းပျက်စီးမှုများ
 
 
 ;plugin crashes
-plugin crashes
+ပလက်အင်ပျက်စီးမှုများ
 
 
 ;Add-ons
@@ -526,47 +526,47 @@ How long in milliseconds it took during startup for the application to load libr
 
 
 ;Browsing duration, install time, number of bookmarks and pages.
-Browsing duration, install time, number of bookmarks and pages.
+ရှာဖွေကြည့်ရှုမှုကြာချိန်၊ တပ်ဆင်သည့်အချိန်၊ စာမှတ်များနှင့် စာမျက်နှာများ အရေအတွက်
 
 
 ;Home
-Home
+အဖွင့်စာမျက်နှာ
 
 
 ;CPU Count:
-CPU Count:
+CPU အရေအတွက်။
 
 
 ;The number of CPU cores reported by Android.
-The number of CPU cores reported by Android.
+Android မှ စာရင်းပြသော CPU cores အရေအတွက်။
 
 
 ;Memory in MB:
-Memory in MB:
+မှတ်ဉာဏ်(MB ဖြင့်ပြပါ)။
 
 
 ;The amount of memory reported by Android. Typically excludes graphics memory.
-The amount of memory reported by Android. Typically excludes graphics memory.
+Android မှ စာရင်းပြသော မှတ်ဉာဏ်ပမာဏ။ ပုံမှန်အားဖြင့် ရုပ်ထွက်မှတ်ဉာဏ်ကို ထည့်သွင်းမတွက်ချက်ပါ။
 
 
 ;Application Name:
-Application Name:
+Application Name: {ok}
 
 
 ;The internal application name for the browser.
-The internal application name for the browser.
+The internal application name for the browser. {ok}
 
 
 ;Application ID:
-Application ID:
+Application ID: {ok}
 
 
 ;The internal identifier for the application.
-The internal identifier for the application.
+The internal identifier for the application. {ok}
 
 
 ;Application Version:
-Application Version:
+Application Version: {ok}
 
 
 ;The current version of the browser
@@ -574,185 +574,183 @@ Application Version:
 
 
 ;Application Build ID:
-Application Build ID:
+Application Build ID: {ok}
 
 
 ;The internal build timestamp.
-The internal build timestamp.
+The internal build timestamp. {ok}
 
 
 ;Update Channel:
-Update Channel:
+Update Channel: {ok}
 
 
 ;Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
-Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
+Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel. {ok}
 
 
 ;Vendor:
-Vendor:
+Vendor: {ok}
 
 
 ;The organization that built this application. Typically Mozilla.
-The organization that built this application. Typically Mozilla.
+အက်ပလီကေးရှင်းကို တည်ဆောက်သည့်အဖွဲ့အစည်း။ ပုံမှန်အားဖြင့် မော်ဇီလာဖြစ်သည်။
 
 
 ;Platform Version:
-Platform Version:
+Platform Version: {ok}
 
 
 ;An internal version identifier. Typically the same as appVersion.
-An internal version identifier. Typically the same as appVersion.
+An internal version identifier. Typically the same as appVersion. {ok}
 
 
 ;Platform Build ID:
-Platform Build ID:
+Platform Build ID: {ok}
 
 
 ;On Android this is an alternative name for appBuildID.
-On Android this is an alternative name for appBuildID.
+Android တွင် appBuildID အတွက် အခြားအမည် ဖြစ်သည်။
 
 
 ;xpcomabi:
-xpcomabi:
+xpcomabi: {ok}
 
 
 ;The CPU architecture for which this application was built.
-The CPU architecture for which this application was built.
+ဒီအက်ပလီကေးရှင်းတည်ဆောက်ရာတွင် အသုံးပြုခဲ့သော CPU architecture။
 
 
 ;OS:
-OS:
+OS: {ok}
 
 
 ;The current operating system.
-The current operating system.
+လက်ရှိအသုံးပြုနေသော လည်ပတ်မောင်းနှင်သည့်စနစ်။
 
 
 ;Architecture:
-Architecture:
+Architecture: {ok}
 
 
 ;The CPU architecture for this device.
-The CPU architecture for this device.
+ဒီကိရိယာအတွက် CPU architecture။
 
 
 ;System Name:
-System Name:
+စနစ်အမည်။
 
 
 ;The current system name.
-The current system name.
+လက်ရှိအသုံးပြုနေသောစနစ်အမည်။
 
 
 ;System Version:
-System Version:
+System Version: {ok}
 
 
 ;The Android OS revision.
-The Android OS revision.
+The Android OS revision. {ok}
 
 
 ;Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
-Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
+Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on. {ok}
 
 
 ;Telemetry Enabled:
-Telemetry Enabled:
+Telemetry Enabled: {ok}
 
 
 ;Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
-Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
+Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels. {ok}
 
 
 ;Extension Count:
-Extension Count:
+Extension Count: {ok}
 
 
 ;How many extension add-ons are installed.
-How many extension add-ons are installed.
+ထပ်ပေါင်းအတ်အွန် မည်မျှ ထည့်သွင်းတပ်ဆင်ထားသနည်း။
 
 
 ;Plugin Count:
-Plugin Count:
+ပလက်အင်အရေအတွက်။
 
 
 ;How many plugin add-ons are installed.
-How many plugin add-ons are installed.
+ပလက်အင်အတ်အွန် မည်မျှ ထည့်သွင်းတပ်ဆင်ထားသနည်း။
 
 
 ;Theme Count:
-Theme Count:
+Theme အရေအတွက်။
 
 
 ;How many theme add-ons are installed.
-How many theme add-ons are installed.
+Theme အတ်အွန် မည်မျှ ထည့်သွင်းတပ်ဆင်ထားသနည်း။
 
 
 ;Addons:
-Addons:
+အတ်အွန်များ။
 
 
 ;A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
-A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
+A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services. {ok}
 
 
 ;Search Counts:
-Search Counts:
+ရှာဖွေမှုအရေအတွက်များ။
 
 
 ;A count of how many searches you issued to each of Mozilla's partner providers.
-A count of how many searches you issued to each of Mozilla's partner providers.
+မော်ဇီလာ၏အကျိုးတူမိတ်ဖက်ဝန်ဆောင်မှုများမှတဆင့် ရှာဖွေသည့် သင်၏ရှာဖွေမှုများအရေအတွက်။
 
 
 ;Sessions and Startup Times
-Sessions and Startup Times
+ဆက်ရှင်များနှင့် စတင်လုပ်ဆောင်သည့်ကြာချိန်များ
 
 
 ;For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
-For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
+For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available. {ok}
 
 
 ;Profile Creation:
-Profile Creation:
+Profile Creation: {ok}
 
 
 ;The day on which your browser profile was created. Counted in days since January 1st 1970.
-The day on which your browser profile was created. Counted in days since January 1st 1970.
+The day on which your browser profile was created. Counted in days since January 1st 1970. {ok}
 
 
 ;Learn More
-Learn More
+ဆက်လက်လေ့လာရန်
 
 
 ;Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
-Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
+Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a> {ok}
 
 
 ;For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
-For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
+ကျွန်ုပ်တို့ သင့်အချက်အလက်များ မည်ကဲ့သို့ကိုင်တွယ်သည်ကို ပိုမိုလေ့လာသိရှိရန်၊ <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span> ကျွန်ုပ်တို့၏ ကိုယ်ရေးအချက်အလက်မူဝါဒတွင် ကြည့်ရှုပါ။</a>
 
 
 ;You are currently sharing your health report with Mozilla.
-You are currently sharing your health report with Mozilla.
+သင်သည် လက်ရှိတွင် သင့်ဘရောင်ဇာ၏ကျန်းမာရေးအစီရင်ခံစာကို မော်ဇီလာနှင့်အတူ မျှဝေအသုံးပြုနေသည်။
 
 
 ;Choose what I share
-Choose what I share
+မျှဝေမည့်အရာကို ရွေးရန်
 
 
 ;You are currently not sharing your health report with Mozilla.
-You are currently not sharing your health report with Mozilla.
+သင်သည် လက်ရှိတွင် သင့်ဘရောင်ဇာ၏ကျန်းမာရေးအစီရင်ခံစာကို မော်ဇီလာနှင့်အတူ မျှဝေအသုံးမပြုပါ။
 
 
 # This string is displayed when selecting Raw Data near the title
 ;Firefox Health Report (FHR) records anonymous data about your computer, configuration, usage, performance, and error conditions. This data helps us improve Firefox for you and for other Firefox users.
-Firefox Health Report (FHR) records anonymous data about your computer, configuration, usage, performance, and error conditions. This data helps us improve Firefox for you and for other Firefox users.
+Firefox Health Report (FHR) records anonymous data about your computer, configuration, usage, performance, and error conditions. This data helps us improve Firefox for you and for other Firefox users. {ok}
 
 
 # This string is displayed when selecting Raw Data near the title
 # Links to https://gecko.readthedocs.org/en/latest/toolkit/components/telemetry/telemetry/
 ;Read technical documentation for the data format and fields.
-Read technical documentation for the data format and fields.
-
-
+Data format နှင့် field များ အတွက် နည်းပညာဆိုင်ရာအကိုးအကားများကို ဖတ်ပါ။
