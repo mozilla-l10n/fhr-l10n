@@ -69,19 +69,19 @@ prompt
 
 
 ;time open
-time open
+খোলা সময়
 
 
 ;last crash
-last crash
+সর্বশেষ ক্র্যাশ
 
 
 ;bookmarks
-bookmarks
+বুকমার্ক
 
 
 ;This Month
-This Month
+এই মাসে
 
 
 ;total sessions
@@ -101,19 +101,19 @@ Plugins (Click-to-Activate)
 
 
 ;crashes
-crashes
+ক্র্যাশ
 
 
 ;application crashes
-application crashes
+অ্যাপ্লিকেশন ক্রাশ
 
 
 ;plugin crashes
-plugin crashes
+প্লাগইন ক্র্যাশ
 
 
 ;Add-ons
-Add-ons
+অ্যাড-অন
 
 
 ;View List
@@ -129,11 +129,11 @@ Add-ons
 
 
 ;Plugins
-Plugins
+প্লাগইন
 
 
 ;always activate
-always activate
+সর্বদা সক্রিয়
 
 
 ;ask to activate
