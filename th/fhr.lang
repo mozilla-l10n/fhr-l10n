@@ -56,12 +56,12 @@ update channel
 
 
 ;updates
-updates
+ปรับข้อมูล
 
 
 # Possible value for "updates"
 ;automatic
-automatic
+อัตโนมัติ
 
 
 # Possible value for "updates"
@@ -531,7 +531,7 @@ Browsing duration, install time, number of bookmarks and pages.
 
 
 ;Home
-Home
+บ้าน
 
 
 ;CPU Count:
@@ -551,7 +551,7 @@ The amount of memory reported by Android. Typically excludes graphics memory.
 
 
 ;Application Name:
-Application Name:
+ชื่อแอพลิเคชัน:
 
 
 ;The internal application name for the browser.
@@ -591,7 +591,7 @@ Firefox is distributed through channels: Nightly builds, the Aurora pre-release 
 
 
 ;Vendor:
-Vendor:
+ผู้จำหน่าย:
 
 
 ;The organization that built this application. Typically Mozilla.
@@ -623,15 +623,15 @@ The CPU architecture for which this application was built.
 
 
 ;OS:
-OS:
+ระบบปฏิบัติการ:
 
 
 ;The current operating system.
-The current operating system.
+ระบบปฏิบัติการปัจจุบัน
 
 
 ;Architecture:
-Architecture:
+สถาปัตยกรรม:
 
 
 ;The CPU architecture for this device.
@@ -639,15 +639,15 @@ The CPU architecture for this device.
 
 
 ;System Name:
-System Name:
+ชื่อระบบ:
 
 
 ;The current system name.
-The current system name.
+ชื่อของระบบปัจจุบัน
 
 
 ;System Version:
-System Version:
+เวอร์ชันของระบบ:
 
 
 ;The Android OS revision.
