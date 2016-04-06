@@ -397,7 +397,7 @@ Pa janipe' xil nich'ramaj richin xutikirisaj ri chokoy richin xuk'üt pe ri UI c
 
 
 ;How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
-Pa janipe' xil nich'ramaj richin xutikirisaj ri chokoy richin xusamajij ri ruchokoy wujib'äl chuqa' chuqa' richin xuk'isib'ej ri ruxe' tikirib'äl 
+Pa janipe' xil nich'ramaj richin xutikirisaj ri chokoy richin xusamajij ri ruchokoy wujib'äl chuqa' chuqa' richin xuk'isib'ej ri ruxe' tikirib'äl
 
 
 ;How long in milliseconds it took during startup for the application to restore tabs from the previous session
@@ -754,3 +754,5 @@ Rutzijol Raxnaqil Firefox (RRF) yerutz'ib'aj kan ri taq man etaman ta kiwäch tz
 # Links to https://gecko.readthedocs.org/en/latest/toolkit/components/telemetry/telemetry/
 ;Read technical documentation for the data format and fields.
 Tisik'ïx ri samajel ruwujil richin ri kib'anikil taq tzij chuqa' taq k'ojlib'äl.
+
+
