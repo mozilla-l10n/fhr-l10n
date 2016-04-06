@@ -55,17 +55,17 @@
 
 
 ;updates
-updates
+மேம்படுத்தல்கள்
 
 
 # Possible value for "updates"
 ;automatic
-automatic
+தானாக
 
 
 # Possible value for "updates"
 ;prompt
-prompt
+நினைவுபடுத்து
 
 
 ;time open
@@ -89,11 +89,11 @@ total sessions
 
 
 ;Active Add-ons
-Active Add-ons
+செயலிலுள்ள நீட்சிகள்
 
 
 ;Extensions
-Extensions
+நீட்டிப்புகள்
 
 
 ;Plugins (Click-to-Activate)
