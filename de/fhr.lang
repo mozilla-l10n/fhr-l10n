@@ -213,7 +213,7 @@ Was der Firefox-Statusbericht misst
 
 
 ;The Firefox Health Report (FHR) has 4 categories of metrics:
-Der Firefox-Statusbericht (FSB) verwendet 4 Maßkategorien:
+Der Firefox-Statusbericht (FSB) verwendet 4 Messkategorien:
 
 
 ;Configuration
@@ -337,7 +337,7 @@ Prozessorarchitektur
 
 
 ;The date this version was first used with this installation profile
-Das Datum, zu dem diese Version mit diesem Profil der Installation erstmals verwendet wurde
+Das Datum, an dem diese Version mit diesem Profil der Installation erstmals verwendet wurde
 
 
 ;An application version which has been used with this installation profile
@@ -381,7 +381,7 @@ Ob dieses Add-on eine Erweiterung oder ein Plugin ist
 
 
 ;The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
-Das neueste Datum, zu dem dieses Add-on aktualisiertt wurde (vorherige Daten über ein deinstalliertes Add-on werden nicht gespeichert).
+Das neueste Datum, an dem dieses Add-on aktualisiert wurde (vorherige Daten über ein deinstalliertes Add-on werden nicht gespeichert).
 
 
 ;<var>True</var> if the user manually disabled the add-on
