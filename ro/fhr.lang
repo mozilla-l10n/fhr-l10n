@@ -502,7 +502,7 @@ Pont
 
 
 ;Looks like your Firefox is brand new! Check back after using Firefox for a while.
-Se pare că Firefox este nou nouț! Reveniți aici după ce folosiți Firefox o vreme.
+Se pare că Firefox este nou nouț! Revino după ce folosești Firefox o vreme.
 
 
 ;Important Metrics
@@ -702,7 +702,7 @@ Număr de căutări:
 
 
 ;A count of how many searches you issued to each of Mozilla's partner providers.
-Numărul de căutări pe care l-ați efectuat pentru fiecare dintre furnizorii parteneri Mozilla.
+Numărul de căutări pe care l-ai efectuat pentru fiecare dintre furnizorii parteneri Mozilla.
 
 
 ;Sessions and Startup Times
@@ -710,7 +710,7 @@ Sesiuni și timpii de pornire
 
 
 ;For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
-Pentru fiecare sesiune de navigare, raportul de stare Firefox înregistrează aproximativ cât de mult ați navigat (în secunde), și dacă sesiunea s-a încheiat în mod normal sau s-a încheiat din cauza unei erori. Include și timpul de pornire (în milisecunde) dacă este disponibil.
+Pentru fiecare sesiune de navigare, raportul de stare Firefox înregistrează aproximativ cât de mult ai navigat (în secunde), și dacă sesiunea s-a încheiat în mod normal sau s-a încheiat din cauza unei erori. Include și timpul de pornire (în milisecunde) dacă este disponibil.
 
 
 ;Profile Creation:
@@ -730,11 +730,11 @@ Raportul de stare Firefox (FHR) analizează informațiile privind performanța b
 
 
 ;For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
-Pentru mai multe informații despre modul în care se gestionează datele dumneavoastră, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>vezi politica noastră de confidențialitate.</a>
+Pentru mai multe informații despre modul în care gestionăm datele tale, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>vezi politica noastră de confidențialitate.</a>
 
 
 ;You are currently sharing your health report with Mozilla.
-În prezent partajezi raportul de stare către Mozilla.
+În prezent partajezi raportul de stare cu Mozilla.
 
 
 ;Choose what I share
