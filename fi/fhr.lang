@@ -747,12 +747,12 @@ Olet estänyt terveydentilaraportin tietojen lähettämisen Mozillalle.
 
 # This string is displayed when selecting Raw Data near the title
 ;Firefox Health Report (FHR) records anonymous data about your computer, configuration, usage, performance, and error conditions. This data helps us improve Firefox for you and for other Firefox users.
-Firefox Health Report (FHR) records anonymous data about your computer, configuration, usage, performance, and error conditions. This data helps us improve Firefox for you and for other Firefox users.
+Firefoxin terveydentilaraportti (FHR) tallentaa anonyymejä tietoja tietokoneesta, asetuksista, käytöstä, suorituskyvystä ja virhetilanteista. Nämä tiedot auttavat meitä parantamaan Firefoxia sinua ja muita Firefox-käyttäjiä varten.
 
 
 # This string is displayed when selecting Raw Data near the title
 # Links to https://gecko.readthedocs.org/en/latest/toolkit/components/telemetry/telemetry/
 ;Read technical documentation for the data format and fields.
-Lue datan muodosta ja kentistä teknisestä dokumentaatiosta.
+Lue datan muodon ja kenttien kuvaukset teknisestä dokumentaatiosta.
 
 
