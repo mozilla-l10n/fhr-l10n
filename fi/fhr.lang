@@ -51,21 +51,21 @@ versio
 
 
 ;update channel
-update channel
+päivityskanava
 
 
 ;updates
-updates
+päivitykset
 
 
 # Possible value for "updates"
 ;automatic
-automatic
+automaattisesti
 
 
 # Possible value for "updates"
 ;prompt
-prompt
+pyynnöstä
 
 
 ;time open
@@ -85,19 +85,19 @@ Tässä kuussa
 
 
 ;total sessions
-total sessions
+istuntoja yhteensä
 
 
 ;Active Add-ons
-Active Add-ons
+Aktiiviset lisäosat
 
 
 ;Extensions
-Extensions
+Laajennukset
 
 
 ;Plugins (Click-to-Activate)
-Plugins (Click-to-Activate)
+Liitännäisiä (napsauttamalla aktivoitavia)
 
 
 ;crashes
@@ -105,11 +105,11 @@ kaatumistapauksia
 
 
 ;application crashes
-application crashes
+sovelluksen kaatumisia
 
 
 ;plugin crashes
-plugin crashes
+liitännäisen kaatumisia
 
 
 ;Add-ons
@@ -129,7 +129,7 @@ pois käytöstä
 
 
 ;Plugins
-Liitännäiset
+Liitännäisiä
 
 
 ;always activate
@@ -753,6 +753,6 @@ Firefox Health Report (FHR) records anonymous data about your computer, configur
 # This string is displayed when selecting Raw Data near the title
 # Links to https://gecko.readthedocs.org/en/latest/toolkit/components/telemetry/telemetry/
 ;Read technical documentation for the data format and fields.
-Read technical documentation for the data format and fields.
+Lue datan muodosta ja kentistä teknisestä dokumentaatiosta.
 
 
