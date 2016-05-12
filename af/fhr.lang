@@ -93,7 +93,7 @@ Active Add-ons
 
 
 ;Extensions
-Extensions
+Uitbreidings
 
 
 ;Plugins (Click-to-Activate)
@@ -113,7 +113,7 @@ plugin crashes
 
 
 ;Add-ons
-Add-ons
+Byvoegings
 
 
 ;View List
@@ -129,7 +129,7 @@ disabled
 
 
 ;Plugins
-Plugins
+Inproppe
 
 
 ;always activate
@@ -145,7 +145,7 @@ never activate
 
 
 ;Tips
-Tips
+Wenke
 
 
 ;Wear and Tear
@@ -157,7 +157,7 @@ It looks like your browser has crashed a number of times recently. To learn more
 
 
 ;OFF
-OFF
+AF
 
 
 ;Visit our <a href="%(sumo_url)s">support website</a>
@@ -233,7 +233,7 @@ Add-ons, count and type
 
 
 ;Performance
-Performance
+Werkverrigting
 
 
 ;Timing of browser events, rendering, session restores
@@ -253,7 +253,7 @@ Metric
 
 
 ;Description
-Description
+Beskrywing
 
 
 ;Binary interface for XPCOM
