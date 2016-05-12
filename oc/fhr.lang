@@ -51,21 +51,21 @@ version {ok}
 
 
 ;update channel
-update channel
+canal de mesa a jorn
 
 
 ;updates
-updates
+mesas a jorn
 
 
 # Possible value for "updates"
 ;automatic
-automatic
+automatic {ok}
 
 
 # Possible value for "updates"
 ;prompt
-prompt
+convidar
 
 
 ;time open
@@ -93,7 +93,7 @@ Active Add-ons
 
 
 ;Extensions
-Extensions
+Extensions {ok}
 
 
 ;Plugins (Click-to-Activate)
@@ -237,11 +237,11 @@ Performància
 
 
 ;Timing of browser events, rendering, session restores
-Mesuras del foncionament del navigador, son rendut de las paginas, lo restabliment de sesilha
+Mesuras del foncionament del navigador, son rendut de las paginas, lo restabliment de session
 
 
 ;Length of session, how old a profile is, count of crashes, count of pages
-Durada de la sesilha, edat del perfil, nombre de plantatges, nombre de paginas
+Durada de la session, edat del perfil, nombre de plantatges, nombre de paginas
 
 
 ;Detailed Description
@@ -309,7 +309,7 @@ Se l'aplicacion es actualament definida coma navigador per defaut pel sistèma o
 
 
 ;Locale currently being used
-Còde de locala utilizada actualament
+Còdi de locala utilizada actualament
 
 
 ;Amount of RAM in megabytes
@@ -325,11 +325,11 @@ Version del sistèma operatiu utilizat (nucli)
 
 
 ;The build identifier of the Gecko platform code
-Identificant de compilacion del còde plataforma Gecko
+Identificant de compilacion del còdi plataforma Gecko
 
 
 ;The version of the Gecko platform code
-Version del còde plateforme Gecko
+Version del còdi plateforme Gecko
 
 
 ;Processor architecture
@@ -357,7 +357,7 @@ Lo modul es estat installat per l'utilizaire o alara es estat installat automati
 
 
 ;Whether this add-on has native code.
-Lo modul conten de còde natiu
+Lo modul conten de còdi natiu
 
 
 ;The identifier of this add-on as defined by the add-on developer
@@ -401,7 +401,7 @@ Quant de temps en millisegondas a calgut pendent l'aviada de l'aplicacion per ca
 
 
 ;How long in milliseconds it took during startup for the application to restore tabs from the previous session
-Quant de temps en millisegondas a calgut pendent l'aviada de l'aplicacion per restablir los onglets de la sesilha precedenta
+Quant de temps en millisegondas a calgut pendent l'aviada de l'aplicacion per restablir los onglets de la session precedenta
 
 
 ;The number of times the application was run and not cleanly shut down.
@@ -409,11 +409,11 @@ Lo nombre de còps que l'aplicacion es estada executada e es pas estada tampada 
 
 
 ;The time in seconds that the aborted sessions were not idle
-Lo temps en segondas d'activitat continua de las sesilhas interrompudas
+Lo temps en segondas d'activitat continua de las sessions interrompudas
 
 
 ;The time in seconds that the aborted sessions were running
-Lo temps en segondas del foncionament de las sesilhas interrompudas
+Lo temps en segondas del foncionament de las sessions interrompudas
 
 
 ;The number of days since this application profile directory was created
@@ -425,11 +425,11 @@ Lo nombre de còps que l'aplicacion es estada executada e qu'es estada tampada c
 
 
 ;The time in seconds that the completed sessions were not idle
-Lo temps en segondas d'activitat continua de las sesilhas acabadas
+Lo temps en segondas d'activitat continua de las sessions acabadas
 
 
 ;The time in seconds that the completed sessions were running
-Lo temps en segondas del foncionament de las sesilhas acabadas
+Lo temps en segondas del foncionament de las sessions acabadas
 
 
 ;Total number of crashes that were recorded but not yet submitted
@@ -457,7 +457,7 @@ Nombre total de paginas listadas dins l'istoric
 
 
 ;How long in minutes the current session has been running
-Durada de la sesilha en cors en minutas
+Durada de la session en cors en minutas
 
 
 ;Welcome to your Firefox Health Report
@@ -582,7 +582,7 @@ The internal build timestamp.
 
 
 ;Update Channel:
-Update Channel:
+Canal de mesa a jorn :
 
 
 ;Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
@@ -630,7 +630,7 @@ The current operating system.
 
 
 ;Architecture:
-Architecture:
+Arquitectura :
 
 
 ;The CPU architecture for this device.
