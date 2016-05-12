@@ -4,7 +4,7 @@
 
 
 ;Firefox Health Report
-รายงานข้อมูลสุขภาพของ Firefox
+รายงานสุขภาพ Firefox
 
 
 ;Raw Data
@@ -12,7 +12,7 @@
 
 
 ;Get insights and performance information about your version of Firefox.
-เข้าถึงข้อมูลเชิงลึกและข้อมูลประสิทธิภาพของ Firefox รุ่นที่คุณใช้
+รับข้อมูลเชิงลึกและประสิทธิภาพเกี่ยวกับรุ่น Firefox ของคุณ
 
 
 ;Learn more...
@@ -28,19 +28,19 @@
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
-คุณได้เลือกที่จะหยุดแบ่งปันข้อมูลให้ Mozilla แต่คุณจะยังสามารถดูได้ว่าเบราว์เซอร์ของคุณทำงานเป็นอย่างไร
+คุณได้เลือกที่จะหยุดการแบ่งปันข้อมูลกับ Mozilla แต่คุณยังคงสามารถดูได้ว่าเบราว์เซอร์ของคุณทำงานเป็นอย่างไร
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
-ข้อมูลรายงานสุขภาพของคุณจะถูกลบออกจากเซิร์ฟเวอร์ของ Mozilla เรียนรู้เพิ่มเติมเกี่ยวกับ <a href="%(privacy_url)s">นโยบายความเป็นส่วนตัว</a>ของเรา
+ข้อมูลรายงานสุขภาพของคุณจะถูกเอาออกจากเซิร์ฟเวอร์ของ Mozilla ด้วย เรียนรู้เพิ่มเติมใน <a href="%(privacy_url)s">นโยบายความเป็นส่วนตัว</a> ของเรา
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
-คุณเลือกแบ่งปันข้อมูลให้ Mozilla เป็นระยะ ขอขอบคุณที่ช่วยเป็นส่วนหนึ่งของภารกิจการสร้างอนาคตของเว็บที่สดใส
+คุณได้เลือกที่จะแบ่งปันข้อมูลของคุณกับ Mozilla เป็นระยะ ขอบคุณสำหรับการเป็นส่วนหนึ่งในภารกิจของเราในการสร้างอนาคตที่สดใสกว่าให้กับเว็บ
 
 
 ;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
-เรียนรู้ว่าเราทำอะไรกับข้อมูลของคุณบ้างจาก<a href="%(privacy_url)s">นโยบายความเป็นส่วนตัว</a>
+เรียนรู้ว่าเราจัดการกับข้อมูลของคุณอย่างไรใน <a href="%(privacy_url)s">นโยบายความเป็นส่วนตัว</a> ของเรา
 
 
 ;Vital Stats
@@ -52,11 +52,11 @@
 
 
 ;update channel
-update channel
+ช่องทางการปรับปรุง
 
 
 ;updates
-ปรับข้อมูล
+ปรับปรุง
 
 
 # Possible value for "updates"
@@ -70,11 +70,11 @@ prompt
 
 
 ;time open
-เวลาเปิด
+เวลาที่เปิด
 
 
 ;last crash
-หยุดทำงานครั้งสุดท้าย
+ขัดข้องครั้งสุดท้าย
 
 
 ;bookmarks
@@ -86,31 +86,31 @@ prompt
 
 
 ;total sessions
-total sessions
+วาระรวม
 
 
 ;Active Add-ons
-Active Add-ons
+ส่วนเสริมที่ใช้งานอยู่
 
 
 ;Extensions
-Extensions
+ส่วนขยาย
 
 
 ;Plugins (Click-to-Activate)
-Plugins (Click-to-Activate)
+โปรแกรมเสริม (คลิกเพื่อเปิดใช้งาน)
 
 
 ;crashes
-การหยุดทำงาน
+ขัดข้อง
 
 
 ;application crashes
-แอปพลิเคชันทำงานผิดพลาด
+แอปพลิเคชันขัดข้อง
 
 
 ;plugin crashes
-โปรแกรมเสริมทำงานผิดพลาด
+โปรแกรมเสริมขัดข้อง
 
 
 ;Add-ons
@@ -122,11 +122,11 @@ Plugins (Click-to-Activate)
 
 
 ;enabled
-เปิดใช้งาน
+ถูกเปิดใช้งาน
 
 
 ;disabled
-ปิดการใช้งาน
+ถูกปิดใช้งาน
 
 
 ;Plugins
@@ -134,7 +134,7 @@ Plugins (Click-to-Activate)
 
 
 ;always activate
-เปิดใช้งานตลอด
+เปิดใช้งานเสมอ
 
 
 ;ask to activate
@@ -142,7 +142,7 @@ Plugins (Click-to-Activate)
 
 
 ;never activate
-ไม่เปิดใช้งาน
+ไม่เปิดใช้งานเลย
 
 
 ;Tips
@@ -154,7 +154,7 @@ Plugins (Click-to-Activate)
 
 
 ;It looks like your browser has crashed a number of times recently. To learn more:
-ดูเหมือนว่าในช่วงที่ผ่านเบราว์เซอร์ของคุณจะหยุดทำงานเองบ่อย เรียนรู้เพิ่มเติม:
+ดูเหมือนว่าในช่วงที่ผ่านมาเบราว์เซอร์ของคุณจะขัดข้องหลายครั้ง เพื่อเรียนรู้เพิ่มเติม:
 
 
 ;OFF
@@ -162,19 +162,19 @@ Plugins (Click-to-Activate)
 
 
 ;Visit our <a href="%(sumo_url)s">support website</a>
-เยี่ยมชม<a href="%(sumo_url)s">เว็บไซต์ช่วยเหลือ</a>ของเรา
+เยี่ยมชม <a href="%(sumo_url)s">เว็บไซต์สนับสนุน</a> ของเรา
 
 
 ;View more <a href="%(details_url)s">detailed information</a>
-ดู<a href="%(details_url)s">ข้อมูลที่ละเอียดมากขึ้น</a>
+ดู <a href="%(details_url)s">ข้อมูลอย่างละเอียด</a> เพิ่มเติม
 
 
 ;pages visited
-จำนวนหน้าที่เปิด
+หน้าที่เยี่ยมชม
 
 
 ;Your browser seems to be running slower than usual. To learn more:
-ดูเหมือนว่าเบราว์เซอร์ของคุณจะทำงานช้ากว่าที่ควรจะเป็น เรียนรู้เพิ่มเติม:
+ดูเหมือนว่าเบราว์เซอร์ของคุณจะทำงานช้ากว่าที่ควรจะเป็น เพื่อเรียนรู้เพิ่มเติม:
 
 
 ;You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
@@ -202,7 +202,7 @@ Plugins (Click-to-Activate)
 
 
 ;Data Collected
-ข้อมูลที่ถูกเก็บ
+ข้อมูลที่ถูกเก็บรวบรวม
 
 
 ;Glossary
@@ -210,19 +210,19 @@ Plugins (Click-to-Activate)
 
 
 ;What the Firefox Health Report Measures
-รายงานสุขภาพของ Firefox วัดจากอะไรบ้าง
+รายงานสุขภาพ Firefox วัดจากอะไรบ้าง
 
 
 ;The Firefox Health Report (FHR) has 4 categories of metrics:
-รายงานข้อมูลสุขภาพของ Firefox (FHR) มีตัววัด 4 ประเภท:
+รายงานสุขภาพ Firefox (FHR) มีตัวชี้วัด 4 หมวดหมู่:
 
 
 ;Configuration
-การตั้งค่า
+การกำหนดค่า
 
 
 ;Device hardware, operating system, Firefox version
-ชิ้นส่วนอุปกรณ์, ระบบปฏิบัติการ, รุ่นของ Firefox
+ฮาร์ดแวร์อุปกรณ์ ระบบปฏิบัติการ รุ่นของ Firefox
 
 
 ;Customizations
@@ -230,7 +230,7 @@ Plugins (Click-to-Activate)
 
 
 ;Add-ons, count and type
-ส่วนเสริม ชนิดและประเภท
+ส่วนเสริม จำนวนและประเภท
 
 
 ;Performance
@@ -238,23 +238,23 @@ Plugins (Click-to-Activate)
 
 
 ;Timing of browser events, rendering, session restores
-เวลาที่ใช้สำหรับอีเวนท์ของเบราว์เซอร์, การวาดหน้าจอ, การเรียกคืนวาระ
+เวลาที่ใช้ไปในเหตุการณ์ของเบราว์เซอร์ การวาดหน้าจอ การเรียกคืนวาระ
 
 
 ;Length of session, how old a profile is, count of crashes, count of pages
-อายุของวาระ, โพรไฟล์มีอายุมากแค่ไหน, จำนวนครั้งของการแครช, จำนวนหน้าเว็บ
+อายุของวาระ โพรไฟล์มีอายุมากแค่ไหน จำนวนครั้งของการขัดข้อง จำนวนหน้า
 
 
 ;Detailed Description
-รายละเอียดทั้งหมด
+คำอธิบายอย่างละเอียด
 
 
 ;Metric
-ตัววัด
+ตัวชี้วัด
 
 
 ;Description
-รายละเอียด
+คำอธิบาย
 
 
 ;Binary interface for XPCOM
@@ -302,7 +302,7 @@ Plugins (Click-to-Activate)
 
 
 ;Number of processor cores
-จำนวนคอร์ของหน่วยประมวลผล
+จำนวนแกนของหน่วยประมวลผล
 
 
 ;Whether the application is currently configured to be the default browser for the operating system
@@ -310,11 +310,11 @@ Plugins (Click-to-Activate)
 
 
 ;Locale currently being used
-ค่าท้องถิ่นที่กำลังใช้อยู่
+ชุดภาษาที่ใช้งานอยู่ในปัจจุบัน
 
 
 ;Amount of RAM in megabytes
-จำนวนแรมในหน่วยเมกะไบต์
+จำนวน RAM เป็นเมกะไบต์
 
 
 ;Currently running Operating System (kernel) name
@@ -350,11 +350,11 @@ Plugins (Click-to-Activate)
 
 
 ;<var>True</var> if the application automatically disabled the add-on
-<var>True</var> ถ้าแอพพลิเคชันปิดการใช้งานส่วนเสริมโดยอัตโนมัติ
+<var>True</var> หากแอปพลิเคชันปิดใช้งานส่วนเสริมโดยอัตโนมัติ
 
 
 ;Whether this add-on was installed by the user or automatically by another application
-ส่วนเสริมนี้ไม่ว่าจะถูกติดตั้งโดยผู้ใช้หรืออัตโนมัติจากแอพพลิเคชันอื่น
+ส่วนเสริมนี้ไม่ว่าจะถูกติดตั้งโดยผู้ใช้หรือโดยอัตโนมัติจากแอปพลิเคชันอื่น
 
 
 ;Whether this add-on has native code.
@@ -394,19 +394,19 @@ Plugins (Click-to-Activate)
 
 
 ;How long in milliseconds it took during startup for the application to render the UI and display the window
-จำนวนหน่วยมิลลิวินาทีสำหรับแอพพลิเคชันที่ใช้ในการเปิดใช้งาน เพื่อเรนเดอร์ส่วนติดต่อผู้ใช้และแสดงผลหน้าต่าง
+เวลาที่ใช้ไปเป็นมิลลิวินาทีสำหรับเริ่มต้นแอปพลิเคชันเพื่อเรนเดอร์ UI และแสดงผลหน้าต่าง
 
 
 ;How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
-จำนวนหน่วยมิลลิวินาทีสำหรับแอพพลิเคชันที่ใช้ในการเปิดใช้งาน เพื่อโหลดไลบารี่และการกำหนดค่าเริ่มต้นพื้นฐานเสร็จสิ้น
+เวลาที่ใช้ไปเป็นมิลลิวินาทีสำหรับเริ่มต้นแอปพลิเคชันเพื่อโหลดห้องสมุดและเสร็จสิ้นการเตรียมใช้งานขั้นพื้นฐาน
 
 
 ;How long in milliseconds it took during startup for the application to restore tabs from the previous session
-จำนวนหน่วยมิลลิวินาทีสำหรับแอพพลิเคชันที่ใช้ในการเปิดใช้งาน เพื่อเรียกคืนแท็บจากวาระก่อน
+เวลาที่ใช้ไปเป็นมิลลิวินาทีสำหรับเริ่มต้นแอปพลิเคชันเพื่อเรียกคืนแท็บจากวาระก่อนหน้า
 
 
 ;The number of times the application was run and not cleanly shut down.
-จำนวนครั้งที่แอพพลิเคชันที่ถูกใช้งานและไม่ได้ปิดอย่างเรียบร้อย
+จำนวนครั้งที่แอปพลิเคชันทำงานและปิดตัวลงอย่างอย่างไม่สมบูรณ์
 
 
 ;The time in seconds that the aborted sessions were not idle
@@ -462,7 +462,7 @@ Plugins (Click-to-Activate)
 
 
 ;Welcome to your Firefox Health Report
-ยินดีต้อนรับสู่รายงานข้อมูลสุขภาพของ Firefox
+ยินดีต้อนรับสู่รายงานสุขภาพ Firefox ของคุณ
 
 
 ;Welcome!
@@ -470,7 +470,7 @@ Plugins (Click-to-Activate)
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
-รายงานสุขภาพของ Firefox ช่วยให้รู้ว่า Firefox ของคุณทำงานได้ดีแค่ไหน และสามารถปรับปรุงอะไรได้อีกบ้าง
+รายงานสุขภาพ Firefox ทำให้คุณทราบว่า Firefox ของคุณทำงานเป็นอย่างไร และคุณสามารถทำอะไรได้บ้างเพื่อปรับปรุง
 
 
 ;See My Report
@@ -478,7 +478,7 @@ Plugins (Click-to-Activate)
 
 
 ;Time (in seconds)
-เวลา (วินาที)
+เวลา (เป็นวินาที)
 
 
 ;Show Statistics
@@ -495,7 +495,7 @@ Firefox Health Report lets you optimize your Firefox and helps us build a more e
 
 
 ;Learn More&hellip;
-Learn More&hellip;
+เรียนรู้เพิ่มเติม&hellip;
 
 
 ;Tip
@@ -503,11 +503,11 @@ Learn More&hellip;
 
 
 ;Looks like your Firefox is brand new! Check back after using Firefox for a while.
-Looks like your Firefox is brand new! Check back after using Firefox for a while.
+ดูเหมือนว่า Firefox ของคุณยังใหม่อยู่! กลับมาตรวจสอบหลังจากใช้งาน Firefox ไปสักระยะ
 
 
 ;Important Metrics
-Important Metrics
+ตัวชี้วัดสำคัญ
 
 
 ;Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
@@ -515,19 +515,19 @@ Firefox Health Report records information about your browser and device. You can
 
 
 ;Device hardware, operating system, Firefox version.
-ชิ้นส่วนอุปกรณ์, ระบบปฏิบัติการ, รุ่นของ Firefox
+ฮาร์ดแวร์อุปกรณ์ ระบบปฏิบัติการ รุ่นของ Firefox
 
 
 ;Extensions, plugins, and number of installed add-ons.
-Extensions, plugins, and number of installed add-ons.
+ส่วนขยาย โปรแกรมเสริม และจำนวนส่วนเสริมที่ติดตั้ง
 
 
 ;Key performance measures, such as launch speed.
-Key performance measures, such as launch speed.
+ตัวชี้วัดประสิทธิภาพสำคัญ อย่างเช่นความเร็วในการเปิด
 
 
 ;Browsing duration, install time, number of bookmarks and pages.
-Browsing duration, install time, number of bookmarks and pages.
+ระยะเวลาการท่องเว็บ เวลาติดตั้ง จำนวนที่คั่นหน้าและหน้า
 
 
 ;Home
@@ -535,55 +535,55 @@ Browsing duration, install time, number of bookmarks and pages.
 
 
 ;CPU Count:
-CPU Count:
+จำนวน CPU:
 
 
 ;The number of CPU cores reported by Android.
-The number of CPU cores reported by Android.
+จำนวนแกน CPU ที่รายงานโดย Android
 
 
 ;Memory in MB:
-Memory in MB:
+หน่วยความจำเป็น MB:
 
 
 ;The amount of memory reported by Android. Typically excludes graphics memory.
-The amount of memory reported by Android. Typically excludes graphics memory.
+ความจุหน่วยความจำที่รายงานโดย Android โดยปกติจะไม่รวมหน่วยความจำกราฟิก
 
 
 ;Application Name:
-ชื่อแอพลิเคชัน:
+ชื่อแอปพลิเคชัน:
 
 
 ;The internal application name for the browser.
-The internal application name for the browser.
+ชื่อแอปพลิเคชันภายในสำหรับเบราว์เซอร์
 
 
 ;Application ID:
-Application ID:
+ID แอปพลิเคชัน:
 
 
 ;The internal identifier for the application.
-The internal identifier for the application.
+ตัวบ่งชี้ภายในสำหรับแอปพลิเคชัน
 
 
 ;Application Version:
-Application Version:
+รุ่นแอปพลิเคชัน:
 
 
 ;The current version of the browser
-รุ่นปัจจุบันของผลิตภัณฑ์
+รุ่นปัจจุบันของเบราว์เซอร์
 
 
 ;Application Build ID:
-Application Build ID:
+ID การสร้างแอปพลิเคชัน:
 
 
 ;The internal build timestamp.
-The internal build timestamp.
+การประทับเวลาการสร้างภายใน
 
 
 ;Update Channel:
-Update Channel:
+ช่องทางการปรับปรุง:
 
 
 ;Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
@@ -591,15 +591,15 @@ Firefox is distributed through channels: Nightly builds, the Aurora pre-release 
 
 
 ;Vendor:
-ผู้จำหน่าย:
+ผู้จัดจำหน่าย:
 
 
 ;The organization that built this application. Typically Mozilla.
-The organization that built this application. Typically Mozilla.
+องค์กรที่สร้างแอปพลิเคชันนี้ โดยปกติคือ Mozilla
 
 
 ;Platform Version:
-Platform Version:
+รุ่นแพลตฟอร์ม:
 
 
 ;An internal version identifier. Typically the same as appVersion.
@@ -607,7 +607,7 @@ An internal version identifier. Typically the same as appVersion.
 
 
 ;Platform Build ID:
-Platform Build ID:
+ID การสร้างแพลตฟอร์ม:
 
 
 ;On Android this is an alternative name for appBuildID.
@@ -615,7 +615,7 @@ On Android this is an alternative name for appBuildID.
 
 
 ;xpcomabi:
-xpcomabi:
+xpcomabi: {ok}
 
 
 ;The CPU architecture for which this application was built.
@@ -643,11 +643,11 @@ The CPU architecture for this device.
 
 
 ;The current system name.
-ชื่อของระบบปัจจุบัน
+ชื่อระบบปัจจุบัน
 
 
 ;System Version:
-เวอร์ชันของระบบ:
+รุ่นระบบ:
 
 
 ;The Android OS revision.
@@ -667,31 +667,31 @@ Whether Firefox reports detailed usage data to help with development. Defaults t
 
 
 ;Extension Count:
-Extension Count:
+จำนวนส่วนขยาย:
 
 
 ;How many extension add-ons are installed.
-How many extension add-ons are installed.
+มีส่วนเสริมที่เป็นส่วนขยายติดตั้งอยู่จำนวนเท่าไร
 
 
 ;Plugin Count:
-Plugin Count:
+จำนวนโปรแกรมเสริม:
 
 
 ;How many plugin add-ons are installed.
-How many plugin add-ons are installed.
+มีส่วนเสริมที่เป็นโปรแกรมเสริมติดตั้งอยู่จำนวนเท่าไร
 
 
 ;Theme Count:
-Theme Count:
+จำนวนชุดตกแต่ง:
 
 
 ;How many theme add-ons are installed.
-How many theme add-ons are installed.
+มีส่วนเสริมที่เป็นชุดตกแต่งติดตั้งอยู่จำนวนเท่าไร
 
 
 ;Addons:
-Addons:
+ส่วนเสริม:
 
 
 ;A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
@@ -699,7 +699,7 @@ A collection describing the installed add-ons. Not all add-ons are reported: onl
 
 
 ;Search Counts:
-Search Counts:
+จำนวนการค้นหา:
 
 
 ;A count of how many searches you issued to each of Mozilla's partner providers.
@@ -707,7 +707,7 @@ A count of how many searches you issued to each of Mozilla's partner providers.
 
 
 ;Sessions and Startup Times
-Sessions and Startup Times
+วาระและเวลาเริ่มต้น
 
 
 ;For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
@@ -715,15 +715,15 @@ For each browsing session, Firefox Health Report records approximately how long 
 
 
 ;Profile Creation:
-Profile Creation:
+การสร้างโพรไฟล์:
 
 
 ;The day on which your browser profile was created. Counted in days since January 1st 1970.
-The day on which your browser profile was created. Counted in days since January 1st 1970.
+วันที่โพรไฟล์เบราว์เซอร์ของคุณถูกสร้าง นับเป็นวันตั้งแต่ 1 มกราคม 1970
 
 
 ;Learn More
-Learn More
+เรียนรู้เพิ่มเติม
 
 
 ;Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
@@ -735,15 +735,15 @@ For more information about how we handle your data, <a href="https://www.mozilla
 
 
 ;You are currently sharing your health report with Mozilla.
-You are currently sharing your health report with Mozilla.
+คุณกำลังแบ่งปันรายงานสุขภาพของคุณกับ Mozilla ในปัจจุบัน
 
 
 ;Choose what I share
-Choose what I share
+เลือกสิ่งที่ฉันจะแบ่งปัน
 
 
 ;You are currently not sharing your health report with Mozilla.
-You are currently not sharing your health report with Mozilla.
+คุณไม่ได้กำลังแบ่งปันรายงานสุขภาพของคุณกับ Mozilla ในปัจจุบัน
 
 
 # This string is displayed when selecting Raw Data near the title
