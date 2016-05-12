@@ -77,7 +77,7 @@ ruk'isib'äl q'atoj
 
 
 ;bookmarks
-taq etal
+taq yaketal
 
 
 ;This Month
@@ -89,7 +89,7 @@ konojel ri taq molojri'ïl
 
 
 ;Active Add-ons
-Add-ons e tzijïl
+Taq tz'aqat e tzijïl
 
 
 ;Extensions
@@ -113,7 +113,7 @@ naq'ab'äl eq'aton
 
 
 ;Add-ons
-Taq rutz’aqat
+Taq tz’aqat
 
 
 ;View List
@@ -229,7 +229,7 @@ Taq ichinanem
 
 
 ;Add-ons, count and type
-Add-on, tajiläx chuqa' ruwäch
+Taq tz'aqat, tajiläx chuqa' ruwäch
 
 
 ;Performance
@@ -345,7 +345,7 @@ Jun ruwäch chokoy, ri okisan rik'in re ruwäch b'i'aj yakonïk re'
 
 
 ;The number of add-ons of this type that existed in the profile on this date
-Ri rajilab'al add-ons richin re ruwäch re', kan k'o wi pa ruwäch b'i'aj re ruq'ijul re'
+Ri kajilab'al taq tz'aqat richin re ruwäch re', kan k'o wi pa ruwäch b'i'aj re ruq'ijul re'
 
 
 ;<var>True</var> if the application automatically disabled the add-on
@@ -449,7 +449,7 @@ Ramaj pa nich'ramaj xtikirisäx ri chokoy
 
 
 ;Total number of bookmarks
-Ronojel kajilab'al taq etal
+Ronojel kajilab'al taq yaketal
 
 
 ;Total number of pages listed in the history
@@ -518,7 +518,7 @@ Rokisaxel ch'akulakem, samajib'äl q'inoj, ruwäch Firefox.
 
 
 ;Extensions, plugins, and number of installed add-ons.
-Taq k'amal, taq pluyin, chuqa' rajlab'al taq add-ons eyakon.
+Taq k'amal, taq pluyin, chuqa' rajlab'al taq tz'aqat eyakon.
 
 
 ;Key performance measures, such as launch speed.
@@ -526,7 +526,7 @@ Ewan taq rutzij rub'eyal nisamäj, achi'el ri ranin elesanem.
 
 
 ;Browsing duration, install time, number of bookmarks and pages.
-Ruyalojem okem pa k'amaya'l, ruramaj yakoj, kajlab'al taq etal chuqa' taq ruxaq.
+Ruyalojem okem pa k'amaya'l, ruramaj yakoj, kajlab'al taq yaketal chuqa' taq ruxaq.
 
 
 ;Home
@@ -670,7 +670,7 @@ Rajilanel k'amal:
 
 
 ;How many extension add-ons are installed.
-Janipe' taq kik'amal tz'aqat yeyak.
+Janipe' kik'amal taq tz'aqat yeyak.
 
 
 ;Plugin Count:
@@ -678,7 +678,7 @@ Rajilanel nak'ab'äl:
 
 
 ;How many plugin add-ons are installed.
-Janipe' taq kinak'ab'al tz'aqat yeyak.
+Janipe' kinak'ab'al taq tz'aqat yeyak.
 
 
 ;Theme Count:
@@ -686,7 +686,7 @@ Rajilanel wachinel:
 
 
 ;How many theme add-ons are installed.
-Achike rub'eyal yeyak ri taq kiwachinel tz'aqat.
+Achike rub'eyal yeyak ri kiwachinel taq tz'aqat.
 
 
 ;Addons:
@@ -694,7 +694,7 @@ Taq tz'aqat:
 
 
 ;A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
-Jun molonïk, ri yerucholajik taq tz'aqat eyakon. Man niya' ta kitzijol konojel ri taq tz'aqat: xa xe ri taq pluyin, taq k'amal chuqa' taq samaj.
+Jun molonïk, ri yerucholajik taq tz'aqat eyakon. Man niya' ta kitzijol konojel ri taq tz'aqat: xa xe ri taq nak'ab'äl, taq k'amal chuqa' taq samaj.
 
 
 ;Search Counts:
