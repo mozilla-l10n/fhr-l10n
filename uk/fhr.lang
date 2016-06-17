@@ -297,15 +297,15 @@
 
 
 ;The current version of the product
-Поточна версія продукта
+Поточна версія продукту
 
 
 ;Number of processor cores
-Кількість процесорних ядер
+Кількість ядер процесора
 
 
 ;Whether the application is currently configured to be the default browser for the operating system
-Чи застосунок в даний час сконфігурований в якості типового браузера операційної системи
+Чи програма в даний час встановлена в якості типового браузера операційної системи
 
 
 ;Locale currently being used
@@ -325,11 +325,11 @@
 
 
 ;The build identifier of the Gecko platform code
-Збірочний ідентифікатор кода платформи Gecko
+Ідентифікатор складання коду платформи Gecko
 
 
 ;The version of the Gecko platform code
-Версія кода платформи Gecko
+Версія коду платформи Gecko
 
 
 ;Processor architecture
