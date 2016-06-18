@@ -281,15 +281,15 @@
 
 
 ;Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
-Ідентифікатор, що є унікальним для застосунку і вказує що це: Firefox чи Thunderbird, тощо. Він є однаковим для усих встановлень застосунка і не залежить від значення параметру <var>appName</var>
+Ідентифікатор, що є унікальним для програми, який вказує чи це Firefox, чи Thunderbird, і т.д. Однаковий для всіх встановлень програми, незалежно від значення <var>appName</var>
 
 
 ;The configured name of the application (Firefox/Aurora/Nightly for instance)
-Сконфігурована назва застосунка (наприклад, Firefox/Aurora/Nightly)
+Сконфігурована назва програми (наприклад, Firefox/Aurora/Nightly)
 
 
 ;The channel this installation checks for application updates (nightly/aurora/beta/release)
-Канал, який перевіряє цей застосунок на наявність оновлень (нічний/аврора/бета/реліз)
+Канал, за яким ця програма перевіряє наявність оновлень (nightly/aurora/beta/release)
 
 
 ;The name of the company/provider who built this version
@@ -337,23 +337,23 @@
 
 
 ;The date this version was first used with this installation profile
-Дата, коли ця версія була вперше використана з цим встановочним профілем
+Дата першого використання цієї версії з цим профілем встановлення
 
 
 ;An application version which has been used with this installation profile
-Версія застосунка, що використовується з цим встановочним профілем
+Версія програми, що була використана з цим профілем встановлення
 
 
 ;The number of add-ons of this type that existed in the profile on this date
-Кількість додатків цього типу, що знаходяться в профілі до цієї дати
+Кількість додатків цього типу, що знаходились в профілі на цю дату
 
 
 ;<var>True</var> if the application automatically disabled the add-on
-<var>True</var>, якщо застосунок автоматично вимкнув додаток
+<var>True</var>, якщо програма автоматично вимкнула додаток
 
 
 ;Whether this add-on was installed by the user or automatically by another application
-Чи цей додаток був встановлений користувачем, чи автоматично іншим застосунком
+Чи цей додаток був встановлений користувачем, чи автоматично іншою програмою
 
 
 ;Whether this add-on has native code.
