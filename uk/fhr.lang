@@ -490,7 +490,7 @@
 
 # The following strings are used only in the Mobile version of about:healthreport (Firefox for Android)
 ;Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
-Звіт про справність Firefox дозволяє вам оптимізувати свій Firefox та допомогає нам будувати кращий браузер. Спочатку звіти будуть простими, та з часом їх складність та інформативність зростатиме.
+Звіт про справність Firefox дозволяє вам оптимізувати свій Firefox і допомагає нам зробити браузер кращим. Спочатку звіти будуть простими, та з часом їх складність та інформативність зростатиме.
 
 
 ;Learn More&hellip;
@@ -578,15 +578,15 @@ ID збірки програми:
 
 
 ;The internal build timestamp.
-Внутрішня часова мітка збірки.
+Внутрішня часова мітка складання.
 
 
 ;Update Channel:
-Канал оновлення:
+Канал оновлень:
 
 
 ;Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
-Firefox розповсюджується каналами: нічні збірки, канал пре-релізів Aurora, стабільна Бета та загальний випуск. Це поле визначає канал.
+Firefox розповсюджується через наступні канали: канал розробки Nightly, канал попереднього випуску Aurora, стабільна Beta та публічний випуск. В цьому полі вказується канал.
 
 
 ;Vendor:
@@ -606,7 +606,7 @@ Firefox розповсюджується каналами: нічні збірк
 
 
 ;Platform Build ID:
-ID збірки платформи:
+ID складання платформи:
 
 
 ;On Android this is an alternative name for appBuildID.
@@ -650,7 +650,7 @@ xpcomabi: {ok}
 
 
 ;The Android OS revision.
-Версія Android OS.
+Ревізія ОС Android.
 
 
 ;Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
@@ -662,7 +662,7 @@ xpcomabi: {ok}
 
 
 ;Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
-Чи звітує Firefox докладну інформацію про своє використання для допомоги подальшої розробки. Типово, вимкнуто для більшості каналів.
+Чи відправляє Firefox детальні дані про використання для допомоги в розробці. Типово, вимкнено для більшості каналів.
 
 
 ;Extension Count:
@@ -694,11 +694,11 @@ xpcomabi: {ok}
 
 
 ;A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
-Колекція, що описує встановлені додатки. Звітується не про всі додатки: тільки про плагіни, розширення та сервіси.
+Колекція, що описує встановлені додатки. Звітується не про всі додатки: тільки про плагіни, розширення та служби.
 
 
 ;Search Counts:
-Пошуковий лічильник:
+Кількість пошуків:
 
 
 ;A count of how many searches you issued to each of Mozilla's partner providers.
@@ -734,7 +734,7 @@ xpcomabi: {ok}
 
 
 ;You are currently sharing your health report with Mozilla.
-Ви зараз надсилаєте в Mozilla свій звіт про справніть.
+Ви зараз надсилаєте в Mozilla свій звіт про справність.
 
 
 ;Choose what I share
