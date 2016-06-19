@@ -393,59 +393,59 @@
 
 
 ;How long in milliseconds it took during startup for the application to render the UI and display the window
-Як довго в мілісекундах займає промальовування користувацького інтерфейсу та показ вікна під час запуску застосунку
+Як довго в мілісекундах тривав рендеринг користувацького інтерфейсу та показ вікна під час запуску програми
 
 
 ;How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
-Як довго в мілісекундах займає завантаження бібліотек та базова ініціалізація під час запуску застосунку
+Як довго в мілісекундах тривало завантаження бібліотек та завершення базової ініціалізації під час запуску програми
 
 
 ;How long in milliseconds it took during startup for the application to restore tabs from the previous session
-Як довго в мілісекундах займає відновлення вкладок попереднього сеансу під час запуску застосунку
+Як довго в мілісекундах тривало відновлення вкладок попереднього сеансу під час запуску програми
 
 
 ;The number of times the application was run and not cleanly shut down.
-Кількість разів, коли застосунок було запущено і закрито нечинно.
+Скільки разів програму було запущено і неналежним чином закрито.
 
 
 ;The time in seconds that the aborted sessions were not idle
-Час в секундах, коли перервані сеанси не були в пасивному стані
+Час в секундах, коли перервані сеанси не були в простої
 
 
 ;The time in seconds that the aborted sessions were running
-Час в секундах роботи перерваних сеансів
+Час в секундах, коли виконувались перервані сеанси
 
 
 ;The number of days since this application profile directory was created
-Кількість днів відтоді, як було створено теку профілю цього застосунку
+Кількість днів з моменту створення теки профілю цієї програми
 
 
 ;The number of times the application was run and cleanly shut down.
-Кількість разів, коли застосунок було запущено і закрито чинно.
+Скільки разів програму було запущено і належним чином закрито.
 
 
 ;The time in seconds that the completed sessions were not idle
-Час в секундах, коли завершені сеанси не були в пасивному стані
+Час в секундах, коли завершені сеанси не були в простої
 
 
 ;The time in seconds that the completed sessions were running
-Час в секундах роботи завершених сеансів
+Час в секундах, коли виконувались завершені сеанси
 
 
 ;Total number of crashes that were recorded but not yet submitted
-Загальна кількість падінь, які були записані, та про які ще не було відзвітовано
+Загальна кількість падінь, звіти про які було записано, але досі не відправлено
 
 
 ;Total number of crashes that have been submitted
-Загальна кількість падінь, про які було відзвітовано
+Загальна кількість падінь, звіти про які було відправлено
 
 
 ;Time in seconds the app has not been idle
-Час в секундах відтоді, як застосунок перебуває не в пасивному стані
+Час в секундах, коли програма не була в простої
 
 
 ;Time in seconds since the app was last started
-Час в секундах відтоді, як застосунок було запущено востаннє
+Час в секундах з моменту останнього запуску програми
 
 
 ;Total number of bookmarks
@@ -457,7 +457,7 @@
 
 
 ;How long in minutes the current session has been running
-Як довго в хвилинах триває поточний сеанс
+Час роботи поточного сеансу в хвилинах
 
 
 ;Welcome to your Firefox Health Report
