@@ -3,7 +3,7 @@
 
 
 ;Firefox Health Report
-Firefox Helserapport
+Firefox helserapport
 
 
 ;Raw Data
@@ -43,7 +43,7 @@ Les mer om hvordan vi håndterer dine data i våre <a href="%(privacy_url)s">per
 
 
 ;Vital Stats
-Vitale stats
+Vital statistikk
 
 
 ;version
@@ -65,7 +65,7 @@ automatisk
 
 # Possible value for "updates"
 ;prompt
-prompt
+forespørsel
 
 
 ;time open
@@ -85,19 +85,19 @@ Denne måneden
 
 
 ;total sessions
-total sessions
+samlet antall økter
 
 
 ;Active Add-ons
-Active Add-ons
+Aktive utvidelser
 
 
 ;Extensions
-Extensions
+Utvidelser
 
 
 ;Plugins (Click-to-Activate)
-Plugins (Click-to-Activate)
+Programtillegg (trykk for å aktivere)
 
 
 ;crashes
@@ -105,11 +105,11 @@ krasj
 
 
 ;application crashes
-application crashes
+programkrasj
 
 
 ;plugin crashes
-plugin crashes
+programtilleggkrasj
 
 
 ;Add-ons
@@ -747,12 +747,10 @@ Du deler for tiden ikke helserapporten med Mozilla.
 
 # This string is displayed when selecting Raw Data near the title
 ;Firefox Health Report (FHR) records anonymous data about your computer, configuration, usage, performance, and error conditions. This data helps us improve Firefox for you and for other Firefox users.
-Firefox Health Report (FHR) records anonymous data about your computer, configuration, usage, performance, and error conditions. This data helps us improve Firefox for you and for other Firefox users.
+Firefox helserapport (FHR) registrerer anonyme data om din datamaskin, konfigurering, bruk, ytelse og feiltilstander. Disse data hjelper oss med å forbedre Firefox for deg og andre Firefox-brukere.
 
 
 # This string is displayed when selecting Raw Data near the title
 # Links to https://gecko.readthedocs.org/en/latest/toolkit/components/telemetry/telemetry/
 ;Read technical documentation for the data format and fields.
-Read technical documentation for the data format and fields.
-
-
+Les teknisk dokumentasjon for dataformat og felt.
