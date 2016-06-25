@@ -85,19 +85,19 @@ grāmatzīmes
 
 
 ;total sessions
-total sessions
+visas sesijas
 
 
 ;Active Add-ons
-Active Add-ons
+Aktīvie papildinājumi
 
 
 ;Extensions
-Extensions
+Papildinājumi
 
 
 ;Plugins (Click-to-Activate)
-Plugins (Click-to-Activate)
+Papildinājumi (Klikšķiniet lai aktivizētu)
 
 
 ;crashes
@@ -157,7 +157,7 @@ Izskatās, ka jūsu pārlūks pēdējā laikā ir vairākas reizes avarējis. La
 
 
 ;OFF
-Izslēgts
+Izslēgta
 
 
 ;Visit our <a href="%(sumo_url)s">support website</a>
@@ -610,7 +610,7 @@ Platformas būvējuma ID:
 
 
 ;On Android this is an alternative name for appBuildID.
-On Android this is an alternative name for appBuildID.
+Uz Android, šis ir alternatīvs nosaukums appBuildID vietā.
 
 
 ;xpcomabi:
@@ -618,79 +618,79 @@ xpcomabi:
 
 
 ;The CPU architecture for which this application was built.
-The CPU architecture for which this application was built.
+Procesoru arhitektūra kurai šī aplikācija tika uzbūvēta.
 
 
 ;OS:
-OS:
+OS: {ok}
 
 
 ;The current operating system.
-The current operating system.
+Izmantota operētājsistēma.
 
 
 ;Architecture:
-Architecture:
+Arhitektūra:
 
 
 ;The CPU architecture for this device.
-The CPU architecture for this device.
+Šis ierīces procesora arhitektūra:
 
 
 ;System Name:
-System Name:
+Sistēmas nosaukums:
 
 
 ;The current system name.
-The current system name.
+Šī brīža sistēmas nosaukums.
 
 
 ;System Version:
-System Version:
+Sistēmas versija:
 
 
 ;The Android OS revision.
-The Android OS revision.
+Android OS revīzija.
 
 
 ;Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
-Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
+Nosaka vai Firefox apkopo bloķējamo paplašinājumu sarakstu lai jūs pasargāt no bīstamajiem. Pēc noklusējuma ieslēgts.
 
 
 ;Telemetry Enabled:
-Telemetry Enabled:
+Telemetrija stāvoklis:
 
 
 ;Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
-Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
+Nosaka vai Firefox nosūta precīzus lietošanas datus lai palīdzētu izstrādātājiem. Lielākai daļai palaišanas kanālu tas ir pēc noklusējuma izslēgts.
 
 
 ;Extension Count:
-Extension Count:
+Paplašinājumu skaits:
 
 
 ;How many extension add-ons are installed.
-How many extension add-ons are installed.
+Cik daudz papildinājuma spraudņi ir instalēti.
 
 
 ;Plugin Count:
-Plugin Count:
+Papildinājumu skaits:
 
 
 ;How many plugin add-ons are installed.
-How many plugin add-ons are installed.
+Cik daudz papildinājumi ir instalēti.
 
 
 ;Theme Count:
-Theme Count:
+Tēmu skaits:
 
 
 ;How many theme add-ons are installed.
-How many theme add-ons are installed.
+Cik daudz papildus tēmas ir instalētas.
 
 
 ;Addons:
-Addons:
+Papildinājumi:
 
 
 ;A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
@@ -698,31 +698,31 @@ A collection describing the installed add-ons. Not all add-ons are reported: onl
 
 
 ;Search Counts:
-Search Counts:
+Meklējumu skaits:
 
 
 ;A count of how many searches you issued to each of Mozilla's partner providers.
-A count of how many searches you issued to each of Mozilla's partner providers.
+Katram Mozilla partnerim aizsūtīto meklēšanu skaists.
 
 
 ;Sessions and Startup Times
-Sessions and Startup Times
+Sesiju un palaišanas laiki
 
 
 ;For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
-For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
+Katrai pārlūkošanas sesijai, Firefox stāvokļa ziņojums ieraksta cik ilgi jūs apmēram ilgi pārlūkojāt (sekundēs), un vai sesija beidzās parasti vai avārijas dēļ. Tas arī palaišanas laiki (milisekundēs), ja pieejami.
 
 
 ;Profile Creation:
-Profile Creation:
+Profila izveide:
 
 
 ;The day on which your browser profile was created. Counted in days since January 1st 1970.
-The day on which your browser profile was created. Counted in days since January 1st 1970.
+Diena kurā jūsu pārlūka profils tika izveidots. Skaitīts dienās kopš 1970. gada pirmā janvāra.
 
 
 ;Learn More
-Learn More
+Uzzināt vairāk
 
 
 ;Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
@@ -730,19 +730,19 @@ Firefox Health Report (FHR) analyses your browser's performance information, in 
 
 
 ;For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
-For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
+Lai uzzinātu kā mēs apejamies ar jūsu datiem, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>izlasiet mūsu privātuma politiku.</a>
 
 
 ;You are currently sharing your health report with Mozilla.
-You are currently sharing your health report with Mozilla.
+Jūs šobrīd daliet ar Mozilla savu stāvokļa ziņojumu.
 
 
 ;Choose what I share
-Choose what I share
+Izvēlēties ar ko dalīties
 
 
 ;You are currently not sharing your health report with Mozilla.
-You are currently not sharing your health report with Mozilla.
+Jūs šobrīd nedaliet ar Mozilla savu stāvokļa ziņojumu.
 
 
 # This string is displayed when selecting Raw Data near the title
