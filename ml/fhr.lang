@@ -85,11 +85,11 @@ prompt
 
 
 ;total sessions
-total sessions
+മൊത്തം പ്രവര്‍ത്തനവേളകള്‍
 
 
 ;Active Add-ons
-Active Add-ons
+സജീവമായ ആഡ്-ഓണുകള്‍
 
 
 ;Extensions
@@ -562,7 +562,7 @@ Hപ്രയോഗത്തിന്റെ പ്രാരംഭത്തില
 
 
 ;The internal identifier for the application.
-The internal identifier for the application.
+ആപ്ലിക്കേഷനായി ആന്തരിക ഐഡന്റിഫയർ
 
 
 ;Application Version:
@@ -574,7 +574,7 @@ The internal identifier for the application.
 
 
 ;Application Build ID:
-Application Build ID:
+ആപ്ലിക്കേഷന്‍ നിർമ്മിത ഐഡി:
 
 
 ;The internal build timestamp.
@@ -594,7 +594,7 @@ Firefox is distributed through channels: Nightly builds, the Aurora pre-release 
 
 
 ;The organization that built this application. Typically Mozilla.
-The organization that built this application. Typically Mozilla.
+ഈ അപ്ലിക്കേഷൻ പണിത സംഘടന. സാധാരണഗതിയിൽ മോസില്ല.
 
 
 ;Platform Version:
@@ -630,15 +630,15 @@ The CPU architecture for which this application was built.
 
 
 ;Architecture:
-Architecture:
+ആര്‍ക്കിടക്ചര്‍:
 
 
 ;The CPU architecture for this device.
-The CPU architecture for this device.
+ഈ ഉപകരണത്തിന്റെ സിപിയു ആര്‍ക്കിടെക്ചര്‍.
 
 
 ;System Name:
-System Name:
+സിസ്റ്റം നാമം:
 
 
 ;The current system name.
