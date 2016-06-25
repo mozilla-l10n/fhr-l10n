@@ -754,6 +754,4 @@ Firefox Health Report (FHR) records anonymous data about your computer, configur
 # This string is displayed when selecting Raw Data near the title
 # Links to https://gecko.readthedocs.org/en/latest/toolkit/components/telemetry/telemetry/
 ;Read technical documentation for the data format and fields.
-Read technical documentation for the data format and fields.
-
-
+อ่านเอกสารทางเทคนิคสำหรับรูปแบบและเขตของข้อมูล
