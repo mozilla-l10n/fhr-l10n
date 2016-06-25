@@ -51,16 +51,16 @@ versjon
 
 
 ;update channel
-update channel
+oppdateringskanal
 
 
 ;updates
-updates
+oppdateringer
 
 
 # Possible value for "updates"
 ;automatic
-automatic
+automatisk
 
 
 # Possible value for "updates"
