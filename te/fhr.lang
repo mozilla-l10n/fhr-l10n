@@ -51,21 +51,21 @@
 
 
 ;update channel
-update channel
+ఛానల్ ను నవీకరించు
 
 
 ;updates
-updates
+నవీకరణలు
 
 
 # Possible value for "updates"
 ;automatic
-automatic
+స్వయంచాలకం
 
 
 # Possible value for "updates"
 ;prompt
-prompt
+ప్రాంప్ట్
 
 
 ;time open
@@ -85,19 +85,19 @@ prompt
 
 
 ;total sessions
-total sessions
+అన్ని సషెన్లు
 
 
 ;Active Add-ons
-Active Add-ons
+ఆక్టివ్ ఆడ్-ఆన్స్
 
 
 ;Extensions
-Extensions
+పొడిగింతలు
 
 
 ;Plugins (Click-to-Activate)
-Plugins (Click-to-Activate)
+ప్లగిన్లు (ఆక్టివేట్ చేయడానికి క్లిక్ చేయండి)
 
 
 ;crashes
@@ -105,7 +105,7 @@ Plugins (Click-to-Activate)
 
 
 ;application crashes
-application crashes
+అప్లికేషన్ క్రాషులు
 
 
 ;plugin crashes
@@ -133,15 +133,15 @@ application crashes
 
 
 ;always activate
-always activate
+ఎల్లప్పుడూ క్రియాశీలం
 
 
 ;ask to activate
-ask to activate
+క్రియాశీలపరచుటకు అడుగు
 
 
 ;never activate
-never activate
+ఎప్పుడూ క్రియాశీలపరచవద్దు
 
 
 ;Tips
@@ -622,7 +622,7 @@ The CPU architecture for which this application was built.
 
 
 ;OS:
-OS:
+OS: {ok}
 
 
 ;The current operating system.
