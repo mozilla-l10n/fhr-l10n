@@ -490,7 +490,7 @@ UI యొక్క ఈ భాగము నుండి శోధన యంత్
 
 # The following strings are used only in the Mobile version of about:healthreport (Firefox for Android)
 ;Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
-Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
+ఫైర్ఫాక్స్ హెల్త్ రిపోర్ట్ మీరు మీ ఫైర్ఫాక్స్ ఆప్టిమైజ్ మరియు మాకు మరింత అద్భుతమైన బ్రౌజర్ నిర్మించడానికి సహాయం చేయడానికి. నివేదికలు మొదటి వద్ద అందంగా ప్రాథమిక ఉంటుంది, కానీ రూపొందించబడి పెరగడం కొనసాగుతుంది.
 
 
 ;Learn More&hellip;
@@ -502,15 +502,15 @@ Firefox Health Report lets you optimize your Firefox and helps us build a more e
 
 
 ;Looks like your Firefox is brand new! Check back after using Firefox for a while.
-Looks like your Firefox is brand new! Check back after using Firefox for a while.
+మీ ఫైర్ఫాక్సు కొత్తది! కాసేపు ఫైర్ఫాక్స్ ఉపయోగించి తర్వాత తిరిగి చెక్ చేయండి.
 
 
 ;Important Metrics
-Important Metrics
+ముఖ్యమైన మెట్రిక్స్
 
 
 ;Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
-Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
+ఫైర్ఫాక్స్ హెల్త్ రిపోర్ట్ మీ బ్రౌజర్ మరియు పరికరం గురించి సమాచారాన్ని రికార్డ్ చేస్తుంది. మీరు <a href="#raw" class="navigate">మేము రికార్డ్ చేసిన సమాచారాన్ని చూడవచ్చు.</a> మీరు మొజిల్లా తో భాగస్వామ్యం ఏమి చూడగలరు.
 
 
 ;Device hardware, operating system, Firefox version.
@@ -518,15 +518,15 @@ Firefox Health Report records information about your browser and device. You can
 
 
 ;Extensions, plugins, and number of installed add-ons.
-Extensions, plugins, and number of installed add-ons.
+పొడిగింపులు, ప్లగిన్లు మరియు ఇన్స్టాల్ చేసిన పొడగింతలు సంఖ్య.
 
 
 ;Key performance measures, such as launch speed.
-Key performance measures, such as launch speed.
+కీ పనితీరు అంచనా ప్రయోగ వేగం.
 
 
 ;Browsing duration, install time, number of bookmarks and pages.
-Browsing duration, install time, number of bookmarks and pages.
+బ్రౌజింగ్ వ్యవధి, ఇన్స్టాల్ సమయం బుక్మార్క్లు మరియు పేజీల సంఖ్య.
 
 
 ;Home
@@ -534,19 +534,19 @@ Browsing duration, install time, number of bookmarks and pages.
 
 
 ;CPU Count:
-CPU Count:
+CPU కౌంట్:
 
 
 ;The number of CPU cores reported by Android.
-The number of CPU cores reported by Android.
+CPU కోర్స్ నివేదించిన ఆండ్రాయిడ్ సంఖ్య.
 
 
 ;Memory in MB:
-Memory in MB:
+MB లో మెమరీ:
 
 
 ;The amount of memory reported by Android. Typically excludes graphics memory.
-The amount of memory reported by Android. Typically excludes graphics memory.
+ఆండ్రాయిడ్ ద్వారా నివేదించిన మెమోరీ. సాధారణంగా గ్రాఫిక్స్ మెమరీ మినహాయించబడుతుంది.
 
 
 ;Application Name:
@@ -554,7 +554,7 @@ The amount of memory reported by Android. Typically excludes graphics memory.
 
 
 ;The internal application name for the browser.
-The internal application name for the browser.
+బ్రౌజర్ అంతర్గత అప్లికేషన్ పేరు.
 
 
 ;Application ID:
@@ -562,11 +562,11 @@ The internal application name for the browser.
 
 
 ;The internal identifier for the application.
-The internal identifier for the application.
+అప్లికేషన్ కోసం అంతర్గత ఐడెంటిఫైయర్.
 
 
 ;Application Version:
-Application Version:
+అప్లికేషన్ వెర్షన్:
 
 
 ;The current version of the browser
@@ -574,19 +574,19 @@ Application Version:
 
 
 ;Application Build ID:
-Application Build ID:
+అప్లికేషన్ బిల్డ్ ID:
 
 
 ;The internal build timestamp.
-The internal build timestamp.
+అంతర్గత మంతనాలు స్టాంప్.
 
 
 ;Update Channel:
-Update Channel:
+ఛానల్ ను నవీకరించండి:
 
 
 ;Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
-Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
+ఫైర్ఫాక్స్ మార్గాల ద్వారా పంపిణీ చేయబడింది: నైట్లీ ఆధారమై, అరోరా విడుదలకు ముందు ఛానల్, ఒక స్థిరమైన బీటా, మరియు ప్రజా విడుదల. ఈ ఫీల్డ్ ఛానల్ గుర్తిస్తుంది.
 
 
 ;Vendor:
@@ -594,31 +594,31 @@ Firefox is distributed through channels: Nightly builds, the Aurora pre-release 
 
 
 ;The organization that built this application. Typically Mozilla.
-The organization that built this application. Typically Mozilla.
+ఈ అప్లికేషన్ ఆ సంస్థ నిర్మించారు. సాధారణంగా మొజిల్లా.
 
 
 ;Platform Version:
-Platform Version:
+వేదిక వెర్షన్:
 
 
 ;An internal version identifier. Typically the same as appVersion.
-An internal version identifier. Typically the same as appVersion.
+అంతర్గత వెర్షన్ ఐడెంటిఫైయర్. appVersion వంటి సాధారణంగా అదే.
 
 
 ;Platform Build ID:
-Platform Build ID:
+వేదిక బిల్డ్ ID:
 
 
 ;On Android this is an alternative name for appBuildID.
-On Android this is an alternative name for appBuildID.
+ఆండ్రాయిడ్ న ఈ appBuildID కొరకు ఒక ప్రత్యామ్నాయ పేరు.
 
 
 ;xpcomabi:
-xpcomabi:
+xpcomabi: {ok}
 
 
 ;The CPU architecture for which this application was built.
-The CPU architecture for which this application was built.
+ఈ అప్లికేషన్ నిర్మించిన CPU నిర్మాణం.
 
 
 ;OS:
@@ -630,11 +630,11 @@ OS: {ok}
 
 
 ;Architecture:
-Architecture:
+నిర్మాణం:
 
 
 ;The CPU architecture for this device.
-The CPU architecture for this device.
+ఈ పరికరం కోసం CPU నిర్మాణం.
 
 
 ;System Name:
@@ -642,43 +642,43 @@ The CPU architecture for this device.
 
 
 ;The current system name.
-The current system name.
+ప్రస్తుత వ్యవస్థ పేరు.
 
 
 ;System Version:
-System Version:
+సిస్టమ్ వెర్షన్:
 
 
 ;The Android OS revision.
-The Android OS revision.
+ఆండ్రాయిడ్ OS రివిజన్.
 
 
 ;Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
-Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
+ఫైర్ఫాక్స్ యాడ్ఆన్ బ్లాక్ జాబితా ఫలితాలు పొందుతుంది లేదో హానికరమైన పొడగింతలు వ్యతిరేకంగా మీరు రక్షించడానికి. పై అప్రమేయం.
 
 
 ;Telemetry Enabled:
-Telemetry Enabled:
+టెలిమెట్రీ ప్రారంభించబడింది:
 
 
 ;Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
-Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
+అయినా ఫైర్ఫాక్స్ అభివృద్ధి సహాయంగా వివరణాత్మక వాడుక డేటా నివేదిస్తుంది. అత్యంత చానెళ్లకు ఆఫ్ అప్రమేయం.
 
 
 ;Extension Count:
-Extension Count:
+పొడిగింపు కౌంట్:
 
 
 ;How many extension add-ons are installed.
-How many extension add-ons are installed.
+ఎన్ని పొడిగింపు అనుబంధాలు ఇన్స్టాల్ చేశారు.
 
 
 ;Plugin Count:
-Plugin Count:
+ప్లగిన్ సంఖ్య:
 
 
 ;How many plugin add-ons are installed.
-How many plugin add-ons are installed.
+ఎన్ని ప్లగిన్ ఆడ్-ఆన్స్ ఇన్స్టాల్ చేశారు.
 
 
 ;Theme Count:
@@ -686,39 +686,39 @@ How many plugin add-ons are installed.
 
 
 ;How many theme add-ons are installed.
-How many theme add-ons are installed.
+అనేక థీమ్ అనుబంధాలను ఇన్స్టాల్ చేశారు.
 
 
 ;Addons:
-Addons:
+యాడ్-ఆన్లు:
 
 
 ;A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
-A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
+ఇన్స్టాల్ పొడగింతలు వివరిస్తున్న సేకరణ. అన్ని పొడగింతలు నివేదిస్తారు: మాత్రమే ప్లగిన్లు, పొడిగింపులు మరియు సేవలు.
 
 
 ;Search Counts:
-Search Counts:
+శోధన కౌంట్స్:
 
 
 ;A count of how many searches you issued to each of Mozilla's partner providers.
-A count of how many searches you issued to each of Mozilla's partner providers.
+మీరు మొజిల్లా భాగస్వాములైన ప్రొవైడర్లు ప్రతి జారీ ఎన్ని శోధనలు యొక్క గణన.
 
 
 ;Sessions and Startup Times
-Sessions and Startup Times
+సెషన్స్ మరియు స్టార్టప్ టైమ్స్
 
 
 ;For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
-For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
+ప్రతి బ్రౌజింగ్ సెషన్ కోసం, ఫైర్ఫాక్స్ హెల్త్ రిపోర్ట్ (సెకన్లలో) మీరు బ్రౌజ్ ఎంత సుమారు నమోదు, మరియు సెషన్ లేదో క్రాష్ యొక్క సాధారణంగా లేదా ఎందుకంటే ముగిసింది. కూడా ప్రారంభ కాలంలో (మిల్లిసెకన్లలో) అందుబాటులో ఉంటే ఇచ్చింది.
 
 
 ;Profile Creation:
-Profile Creation:
+ప్రొఫైల్ సృష్టి:
 
 
 ;The day on which your browser profile was created. Counted in days since January 1st 1970.
-The day on which your browser profile was created. Counted in days since January 1st 1970.
+మీ బ్రౌజర్ ప్రొఫైల్ను సృష్టించారు ఇది రోజు. జనవరి 1 వ, 1970 నుండి రోజుల్లో లెక్కించారు.
 
 
 ;Learn More
@@ -726,11 +726,11 @@ The day on which your browser profile was created. Counted in days since January
 
 
 ;Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
-Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
+ఫైర్ఫాక్స్ హెల్త్ రిపోర్ట్ (FHR) మీరు ఫైర్ఫాక్సు నుండి ఉత్తమ ఉపయోగకరమైన చిట్కాలు పొందడానికి సహాయంగా మీకు అందించడానికి గాను, మీ బ్రౌజరు పనితీరు సమాచారం విశ్లేషిస్తుంది. ఫైర్ఫాక్స్ హెల్త్ రిపోర్ట్ మరింత సమాచారం కోసం,<a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>మొజిల్లా మద్దతు విభాగం సందర్శించండి.</a>
 
 
 ;For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
-For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
+మేము మీ డేటాను నిర్వహించడానికి ఎలా మీ సమాచారం కోసం మరింత చూస్తామో, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>మా ప్రైవసీ విధానాన్ని చూడండి.</a>
 
 
 ;You are currently sharing your health report with Mozilla.
@@ -747,12 +747,12 @@ For more information about how we handle your data, <a href="https://www.mozilla
 
 # This string is displayed when selecting Raw Data near the title
 ;Firefox Health Report (FHR) records anonymous data about your computer, configuration, usage, performance, and error conditions. This data helps us improve Firefox for you and for other Firefox users.
-Firefox Health Report (FHR) records anonymous data about your computer, configuration, usage, performance, and error conditions. This data helps us improve Firefox for you and for other Firefox users.
+ఫైర్ఫాక్స్ హెల్త్ రిపోర్ట్ (FHR) మీ కంప్యూటర్లో, కాన్ఫిగరేషన్ వాడుక, నిర్వహణ, మరియు లోపం పరిస్థితుల్లో గురించి అనామక డేటా నమోదు. ఈ డేటా మాకు మీరు కోసం మరియు ఇతర ఫైర్ఫాక్సు వినియోగదారులు కోసం ఫైర్ఫాక్సు మెరుగు సహాయపడుతుంది.
 
 
 # This string is displayed when selecting Raw Data near the title
 # Links to https://gecko.readthedocs.org/en/latest/toolkit/components/telemetry/telemetry/
 ;Read technical documentation for the data format and fields.
-Read technical documentation for the data format and fields.
+డేటా ఫార్మాట్ మరియు ఖాళీలను కోసం సాంకేతిక డాక్యుమెంటేషన్ చదవండి.
 
 
