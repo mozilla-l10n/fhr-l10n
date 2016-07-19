@@ -51,21 +51,19 @@ ON {ok}
 
 
 ;update channel
-update channel
+হালনাগাদ চ্যানেল
 
 
 ;updates
-updates
+আপডেট সমূহ
 
 
-# Possible value for "updates"
 ;automatic
-automatic
+স্বয়ংক্রিয়
 
 
-# Possible value for "updates"
 ;prompt
-prompt
+প্রম্পট
 
 
 ;time open
@@ -85,19 +83,19 @@ prompt
 
 
 ;total sessions
-total sessions
+মোট সেশনসমূহ
 
 
 ;Active Add-ons
-Active Add-ons
+সক্রিয় অ্যাড-অনসমূহ
 
 
 ;Extensions
-Extensions
+এক্সটেনশন
 
 
 ;Plugins (Click-to-Activate)
-Plugins (Click-to-Activate)
+প্লাগিন(সক্রিয় করার জন্য ক্লিক করুন)
 
 
 ;crashes
@@ -137,27 +135,27 @@ Plugins (Click-to-Activate)
 
 
 ;ask to activate
-ask to activate
+জিজ্ঞাসা করে সক্রিয়করণ
 
 
 ;never activate
-never activate
+কখনোই সক্রিয় হবে না
 
 
 ;Tips
-Tips
+পরামর্শ
 
 
 ;Wear and Tear
-Wear and Tear
+ধকল
 
 
 ;It looks like your browser has crashed a number of times recently. To learn more:
-It looks like your browser has crashed a number of times recently. To learn more:
+দেখা যাচ্ছে যে আপনার ব্রাউজারটি বেশ কয়েকবার ক্র্যাশ করেছে। আরো জানুন:
 
 
 ;OFF
-OFF
+OFF {ok}
 
 
 ;Visit our <a href="%(sumo_url)s">support website</a>
