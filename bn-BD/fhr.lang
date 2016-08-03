@@ -159,43 +159,43 @@ OFF {ok}
 
 
 ;Visit our <a href="%(sumo_url)s">support website</a>
-Visit our <a href="%(sumo_url)s">support website</a>
+আমাদের <a href="%(sumo_url)s">সাপোর্ট সাইট</a> ভিজিট করুন
 
 
 ;View more <a href="%(details_url)s">detailed information</a>
-View more <a href="%(details_url)s">detailed information</a>
+আরো <a href="%(details_url)s">বিস্তারিত তথ্য</a>দেখুন
 
 
 ;pages visited
-pages visited
+পরিদর্শন করা পাতা
 
 
 ;Your browser seems to be running slower than usual. To learn more:
-Your browser seems to be running slower than usual. To learn more:
+মনে হচ্ছে আপনার ব্রাউজার স্বাভাবিকের তুলনায় ধীরে চলছে। আরো জানুন:
 
 
 ;You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
-You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
+আপনি যত বেশি ব্রাউজার ব্যবহার করবেন তত বেশী মজাদার আর বিস্তারিত তথ্য দেখতে পাবেন। কয়েক সপ্তাহ পরে পরীক্ষা করে দেখুন নতুন নতুন ট্রেন্ডস এর জন্য।
 
 
 ;Startup Time by Day
-Startup Time by Day
+দিনের বেলা চালুর সময়
 
 
 ;Graph:
-Graph:
+গ্রাফ:
 
 
 ;Average
-Average
+গড়
 
 
 ;All
-All
+সবগুলো
 
 
 ;Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
-Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
+ফায়ারফক্সের আপনার সংস্করণের কর্মক্ষমতা কতখানি ভাল তা নির্ধারণ করতে চালু হবার সময় সাহায্য করে। সাধারণভাবে, দ্রুত সময়ে (অর্থাৎ কম সময়) ভাল কাজের ইঙ্গিত দেয়।
 
 
 ;Data Collected
