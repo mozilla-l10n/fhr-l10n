@@ -55,17 +55,17 @@
 
 
 ;updates
-updates
+تجدید
 
 
 # Possible value for "updates"
 ;automatic
-automatic
+خودکار
 
 
 # Possible value for "updates"
 ;prompt
-prompt
+ترغیب
 
 
 ;time open
@@ -85,19 +85,19 @@ prompt
 
 
 ;total sessions
-total sessions
+تمام سیشن
 
 
 ;Active Add-ons
-Active Add-ons
+متحرک اضافاجات
 
 
 ;Extensions
-Extensions
+توسیعات
 
 
 ;Plugins (Click-to-Activate)
-Plugins (Click-to-Activate)
+ پلگ ان (متحرک کرنے کے لئے کلک کریں)
 
 
 ;crashes
@@ -710,7 +710,7 @@ xpcomabi: {ok}
 
 
 ;For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
-ہر ایک براؤزنگ سیشن کے لئے، Firefox ہیلتھ رپورٹ آپ کی براؤزنگ کا ریکارڈ رکھتا ہے (سیکنڈوں میں)، اور سیشن چاہے عام طور پر یا کریش کی وجہ سے اختتام پذیر ہوا۔ اس کے علاوہ آغاز وقت (ملی سیکنڈ میں) اگر دستیاب ہے تو۔
+ہر ایک براؤزنگ سیشن کے لئے، فائر فاکس ہیلتھ رپورٹ ریکارڈز تقریبا  آپ  کب تک  براؤز   (سیکنڈوں میں) ،اورجہاں سیشن چاہے عام طور پر یا   یا کسی حادثے سے ختم ہوا ہو. اس کے علاوہ (ملی سیکنڈ میں) ابتدائیہ اوقات دستیاب سیشن اور آغاز بارشکریہ تو شامل ہیں
 
 
 ;Profile Creation:
