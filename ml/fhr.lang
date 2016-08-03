@@ -51,16 +51,16 @@
 
 
 ;update channel
-update channel
+ചാനല്‍ പുതുക്കുക
 
 
 ;updates
-updates
+പുതുക്കലുകള്‍
 
 
 # Possible value for "updates"
 ;automatic
-automatic
+സ്വയം
 
 
 # Possible value for "updates"
@@ -582,7 +582,7 @@ The internal build timestamp.
 
 
 ;Update Channel:
-Update Channel:
+ചാനല്‍ പുതുക്കുക:
 
 
 ;Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
@@ -738,7 +738,7 @@ You are currently sharing your health report with Mozilla.
 
 
 ;Choose what I share
-Choose what I share
+പങ്കിടുന്നതു് തെരഞ്ഞെടുക്കുക
 
 
 ;You are currently not sharing your health report with Mozilla.
