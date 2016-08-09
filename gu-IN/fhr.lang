@@ -51,21 +51,21 @@ Firefox આરોગ્ય અહેવાલ
 
 
 ;update channel
-update channel
+સુધારા ચેનલ
 
 
 ;updates
-updates
+સુધારો
 
 
 # Possible value for "updates"
 ;automatic
-automatic
+સ્વયંચાલિત
 
 
 # Possible value for "updates"
 ;prompt
-prompt
+સંકેત આપો
 
 
 ;time open
@@ -81,23 +81,23 @@ prompt
 
 
 ;This Month
-This Month
+આ માહિનો
 
 
 ;total sessions
-total sessions
+કુલ સત્રો
 
 
 ;Active Add-ons
-Active Add-ons
+સક્રિય એડ-ઓન
 
 
 ;Extensions
-Extensions
+એક્સટેન્શનો
 
 
 ;Plugins (Click-to-Activate)
-Plugins (Click-to-Activate)
+પ્લગઇન્સ (સક્રિય કરવા માટે ક્લિક કરો)
 
 
 ;crashes
@@ -105,11 +105,11 @@ Plugins (Click-to-Activate)
 
 
 ;application crashes
-application crashes
+એપ્લિકેશન ભંગાણો
 
 
 ;plugin crashes
-plugin crashes
+પ્લગઇન ભંગાણો
 
 
 ;Add-ons
@@ -133,15 +133,15 @@ plugin crashes
 
 
 ;always activate
-always activate
+હંમેશા સક્રિય
 
 
 ;ask to activate
-ask to activate
+સક્રિય કરવા માટે પૂછો
 
 
 ;never activate
-never activate
+ક્યારેય સક્રિય ના કરો
 
 
 ;Tips
@@ -490,23 +490,23 @@ Firefox આરોગ્ય અહેવાલ તમને જણાવે છ�
 
 # The following strings are used only in the Mobile version of about:healthreport (Firefox for Android)
 ;Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
-Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
+ફાયરફોક્સ આરોગ્ય રિપોર્ટ તમે તમારા ફાયરફોક્સ માટે શ્રેષ્ટ કરી દે છે અને અમને વધુ ઉત્તમ બ્રાઉઝર સર્જવા મદદ કરે છે. અહેવાલ ખૂબ પ્રથમ મૂળભૂત હશે, પરંતુ બદલાશે અને વધવા માટે ચાલુ રહેશે.
 
 
 ;Learn More&hellip;
-Learn More&hellip;
+વધુ શીખો &hellip;
 
 
 ;Tip
-Tip
+મદદ
 
 
 ;Looks like your Firefox is brand new! Check back after using Firefox for a while.
-Looks like your Firefox is brand new! Check back after using Firefox for a while.
+એવું લાગે છે કે તમારા ફાયરફોક્સ મારકો નવી છે! જ્યારે માટે ફાયરફોક્સ ઉપયોગ કર્યા બાદ પાછા તપાસો.
 
 
 ;Important Metrics
-Important Metrics
+મહત્વપૂર્ણ મેટ્રિક્સ
 
 
 ;Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
