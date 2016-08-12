@@ -510,79 +510,79 @@ Firefox આરોગ્ય અહેવાલ તમને જણાવે છ�
 
 
 ;Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
-Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
+ફાયરફોક્સ આરોગ્ય રિપોર્ટ તમારા બ્રાઉઝર અને ઉપકરણ વિશે જાણકારી રેકોર્ડ કરે છે. તમે કરી શકો છો <a href="#raw" class="navigate">અમારા રેકોર્ડ માહિતી જુઓ.</a> તમે પણ જોઈ શકો છો કે તમે શું મોઝિલા સાથે શેર કરો.
 
 
 ;Device hardware, operating system, Firefox version.
-Device hardware, operating system, Firefox version.
+ઉપકરણ હાર્ડવેર, ઑપરેટિંગ સિસ્ટમ, Firefox આવૃત્તિ.
 
 
 ;Extensions, plugins, and number of installed add-ons.
-Extensions, plugins, and number of installed add-ons.
+એક્સટેન્શન્સ, પ્લગઈનો અને સ્થાપિત એડ ઓન સંખ્યા.
 
 
 ;Key performance measures, such as launch speed.
-Key performance measures, such as launch speed.
+મુખ્ય કામગીરી પગલાં જેમ કે લોન્ચ ઝડપ.
 
 
 ;Browsing duration, install time, number of bookmarks and pages.
-Browsing duration, install time, number of bookmarks and pages.
+બ્રાઉઝિંગ સમયગાળો, સ્થાપિત સમય, બુકમાર્ક્સ અને પૃષ્ઠોની સંખ્યા.
 
 
 ;Home
-Home
+મુખ્ય પાનું
 
 
 ;CPU Count:
-CPU Count:
+CPU સંખ્યા:
 
 
 ;The number of CPU cores reported by Android.
-The number of CPU cores reported by Android.
+CPU કોર સંખ્યા Android દ્વારા આધારભૂત છે.
 
 
 ;Memory in MB:
-Memory in MB:
+MB માં મેમરી:
 
 
 ;The amount of memory reported by Android. Typically excludes graphics memory.
-The amount of memory reported by Android. Typically excludes graphics memory.
+મેમરીનો જથ્થો ના અહેવાલ Android દ્વારા. ખાસ કરીને ગ્રાફિક્સ મેમરી બાકાત રાખી છે.
 
 
 ;Application Name:
-Application Name:
+એપ્લિકેશન નામ:
 
 
 ;The internal application name for the browser.
-The internal application name for the browser.
+બ્રાઉઝર માટે આંતરિક એપ્લિકેશન નામ.
 
 
 ;Application ID:
-Application ID:
+એપ્લિકેશન ID:
 
 
 ;The internal identifier for the application.
-The internal identifier for the application.
+એપ્લિકેશન માટે આંતરિક ઓળખકર્તા.
 
 
 ;Application Version:
-Application Version:
+એપ્લિકેશન સંસ્કરણ:
 
 
 ;The current version of the browser
-The current version of the browser
+બ્રાઉઝર ની હાલની આવૃત્તિ
 
 
 ;Application Build ID:
-Application Build ID:
+એપ્લિકેશન સર્જન આઈડી:
 
 
 ;The internal build timestamp.
-The internal build timestamp.
+આંતરિક સર્જન ટાઇમસ્ટેમ્પ.
 
 
 ;Update Channel:
-Update Channel:
+સુધારા ચેનલ:
 
 
 ;Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
@@ -590,67 +590,67 @@ Firefox is distributed through channels: Nightly builds, the Aurora pre-release 
 
 
 ;Vendor:
-Vendor:
+વિક્રેતા:
 
 
 ;The organization that built this application. Typically Mozilla.
-The organization that built this application. Typically Mozilla.
+સંસ્થા એ આ એપ્લિકેશન બનાવી છે. ખાસ કરીને મોઝિલા.
 
 
 ;Platform Version:
-Platform Version:
+પ્લેટફોર્મ આવૃત્તિ:
 
 
 ;An internal version identifier. Typically the same as appVersion.
-An internal version identifier. Typically the same as appVersion.
+એક આંતરિક આવૃત્તિ ઓળખકર્તા. appVersion તરીકે સામાન્ય રીતે એક જ.
 
 
 ;Platform Build ID:
-Platform Build ID:
+પ્લેટફોર્મ સર્જન આઈડી:
 
 
 ;On Android this is an alternative name for appBuildID.
-On Android this is an alternative name for appBuildID.
+Android પર આ appBuildID માટે વૈકલ્પિક નામ છે.
 
 
 ;xpcomabi:
-xpcomabi:
+xpcomabi: {ok}
 
 
 ;The CPU architecture for which this application was built.
-The CPU architecture for which this application was built.
+CPU આર્કિટેક્ચર જેના માટે આ એપ્લિકેશન બનાવવામાં આવી હતી.
 
 
 ;OS:
-OS:
+OS: {ok}
 
 
 ;The current operating system.
-The current operating system.
+વર્તમાન ઓપરેટિંગ સિસ્ટમ.
 
 
 ;Architecture:
-Architecture:
+સ્થાપત્ય:
 
 
 ;The CPU architecture for this device.
-The CPU architecture for this device.
+આ ઉપકરણ માટે CPU સ્થાપત્ય.
 
 
 ;System Name:
-System Name:
+તંત્ર નામ:
 
 
 ;The current system name.
-The current system name.
+વર્તમાન તંત્ર નામ.
 
 
 ;System Version:
-System Version:
+તંત્ર આવૃત્તિ:
 
 
 ;The Android OS revision.
-The Android OS revision.
+Android ઓએસ પુનરાવર્તન.
 
 
 ;Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
