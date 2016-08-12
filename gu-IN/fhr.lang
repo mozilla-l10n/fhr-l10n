@@ -666,31 +666,31 @@ Whether Firefox reports detailed usage data to help with development. Defaults t
 
 
 ;Extension Count:
-Extension Count:
+એક્સ્ટેંશન ગણક:
 
 
 ;How many extension add-ons are installed.
-How many extension add-ons are installed.
+કેટલી વિસ્તરણ એડ ઓન સ્થાપિત થયેલ છે.
 
 
 ;Plugin Count:
-Plugin Count:
+પ્લગઇન ગણક:
 
 
 ;How many plugin add-ons are installed.
-How many plugin add-ons are installed.
+કેટલી પ્લગઇન એડ ઓન સ્થાપિત થયેલ છે.
 
 
 ;Theme Count:
-Theme Count:
+થીમ ગણક:
 
 
 ;How many theme add-ons are installed.
-How many theme add-ons are installed.
+ઘણા થીમ એડ ઓન કેવી રીતે સ્થાપિત થયેલ છે.
 
 
 ;Addons:
-Addons:
+Addons: {ok}
 
 
 ;A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
@@ -698,7 +698,7 @@ A collection describing the installed add-ons. Not all add-ons are reported: onl
 
 
 ;Search Counts:
-Search Counts:
+શોધ ગણકો:
 
 
 ;A count of how many searches you issued to each of Mozilla's partner providers.
@@ -714,7 +714,7 @@ For each browsing session, Firefox Health Report records approximately how long 
 
 
 ;Profile Creation:
-Profile Creation:
+રૂપરેખા બનાવટ:
 
 
 ;The day on which your browser profile was created. Counted in days since January 1st 1970.
@@ -722,7 +722,7 @@ The day on which your browser profile was created. Counted in days since January
 
 
 ;Learn More
-Learn More
+વધુ શીખો
 
 
 ;Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
@@ -738,11 +738,11 @@ You are currently sharing your health report with Mozilla.
 
 
 ;Choose what I share
-Choose what I share
+પસંદ કરો હું શું શેર
 
 
 ;You are currently not sharing your health report with Mozilla.
-You are currently not sharing your health report with Mozilla.
+તમે હાલમાં મોઝિલા સાથે તમારા આરોગ્ય અહેવાલ શેરિંગ નથી.
 
 
 # This string is displayed when selecting Raw Data near the title
