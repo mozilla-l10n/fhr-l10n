@@ -3,7 +3,7 @@
 
 
 ;Firefox Health Report
-Firefox Health Report
+Aneqqis n Tezmert n Firefox
 
 
 ;Raw Data
@@ -15,11 +15,11 @@ Get insights and performance information about your version of Firefox.
 
 
 ;Learn more...
-Learn more...
+Issin ugar...
 
 
 ;Data Sharing
-Data Sharing
+Beṭṭu n isefka
 
 
 ;ON
@@ -43,11 +43,11 @@ Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</
 
 
 ;Vital Stats
-Vital Stats
+Tiddadanin n tudert
 
 
 ;version
-version
+lqem
 
 
 ;update channel
@@ -55,12 +55,12 @@ update channel
 
 
 ;updates
-updates
+ileqman
 
 
 # Possible value for "updates"
 ;automatic
-automatic
+awurman
 
 
 # Possible value for "updates"
@@ -77,7 +77,7 @@ last crash
 
 
 ;bookmarks
-bookmarks
+ticraḍ n isebtar
 
 
 ;This Month
@@ -93,7 +93,7 @@ Active Add-ons
 
 
 ;Extensions
-Extensions
+Isiɣzaf
 
 
 ;Plugins (Click-to-Activate)
@@ -101,7 +101,7 @@ Plugins (Click-to-Activate)
 
 
 ;crashes
-crashes
+aɣelluy
 
 
 ;application crashes
@@ -113,7 +113,7 @@ plugin crashes
 
 
 ;Add-ons
-Add-ons
+Izegrar
 
 
 ;View List
@@ -121,27 +121,27 @@ View List
 
 
 ;enabled
-enabled
+yermed
 
 
 ;disabled
-disabled
+ur yermid ara
 
 
 ;Plugins
-Plugins
+Izegrar
 
 
 ;always activate
-always activate
+rmed yal tikelt
 
 
 ;ask to activate
-ask to activate
+suter akken ad yermed
 
 
 ;never activate
-never activate
+wuṛǧen ad yermed
 
 
 ;Tips
@@ -161,15 +161,15 @@ OFF
 
 
 ;Visit our <a href="%(sumo_url)s">support website</a>
-Visit our <a href="%(sumo_url)s">support website</a>
+Ddu ɣer <a href="%(sumo_url)s">usmel nneɣ n tallalt</a>
 
 
 ;View more <a href="%(details_url)s">detailed information</a>
-View more <a href="%(details_url)s">detailed information</a>
+Wali ugar n <a href="%(details_url)s">telɣut leqqayen</a>
 
 
 ;pages visited
-pages visited
+isebtar yettwarzan
 
 
 ;Your browser seems to be running slower than usual. To learn more:
@@ -714,7 +714,7 @@ For each browsing session, Firefox Health Report records approximately how long 
 
 
 ;Profile Creation:
-Profile Creation:
+Timernan umaɣnu:
 
 
 ;The day on which your browser profile was created. Counted in days since January 1st 1970.
@@ -722,7 +722,7 @@ The day on which your browser profile was created. Counted in days since January
 
 
 ;Learn More
-Learn More
+Issin ugar
 
 
 ;Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
@@ -738,7 +738,7 @@ You are currently sharing your health report with Mozilla.
 
 
 ;Choose what I share
-Choose what I share
+Fren ayen ara bḍuɣ
 
 
 ;You are currently not sharing your health report with Mozilla.
