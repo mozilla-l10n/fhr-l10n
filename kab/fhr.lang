@@ -7,11 +7,11 @@ Aneqqis n Tezmert n Firefox
 
 
 ;Raw Data
-Raw Data
+Isefka irewwayen
 
 
 ;Get insights and performance information about your version of Firefox.
-Get insights and performance information about your version of Firefox.
+Issin ugar ɣef tmellit n lqem inek Firefox.
 
 
 ;Learn more...
@@ -23,23 +23,23 @@ Beṭṭu n isefka
 
 
 ;ON
-ON
+ON {ok}
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
-You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
+Tferneḍ akken ur beṭṭuḍ ara isefka yinek akked Mozilla. acukan tzemreḍ ad twaliḍ tamellit n imig inek.
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
-Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
+Tacrawt inek n tezmert ad tettwasfed seg iqeddacen n Mozilla. Issin ugar ɣef <a href="%(privacy_url)s">tasertit tabaḍnit</a> nneɣ
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
-You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
+Tferneḍ ad tebḍuḍ isefka yinek akked Mozilla. Tanemmirt imi d-mudded afus akken ad neddu deg umahil nneɣ udiɣ ad tebnuḍ yid-neɣ azekka ifazen i Web.
 
 
 ;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
-Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
+Wali amek ad nessefrek isefka yinek di <a href="%(privacy_url)s">tasertit n tbaḍnit</a>-nneɣ
 
 
 ;Vital Stats
@@ -51,7 +51,7 @@ lqem
 
 
 ;update channel
-update channel
+abadu n uleqqem
 
 
 ;updates
@@ -65,15 +65,15 @@ awurman
 
 # Possible value for "updates"
 ;prompt
-prompt
+suter
 
 
 ;time open
-time open
+armud
 
 
 ;last crash
-last crash
+aɣelluy aneggaru
 
 
 ;bookmarks
@@ -81,15 +81,15 @@ ticraḍ n isebtar
 
 
 ;This Month
-This Month
+Aggur agi
 
 
 ;total sessions
-total sessions
+amḍan n tɣimiyin
 
 
 ;Active Add-ons
-Active Add-ons
+Izegrar urmiden
 
 
 ;Extensions
@@ -97,7 +97,7 @@ Isiɣzaf
 
 
 ;Plugins (Click-to-Activate)
-Plugins (Click-to-Activate)
+Izegrar (Sit akken ad ttwaremden)
 
 
 ;crashes
@@ -105,11 +105,11 @@ aɣelluy
 
 
 ;application crashes
-application crashes
+aɣelluy n usnas
 
 
 ;plugin crashes
-plugin crashes
+aɣelluy n uzegrir
 
 
 ;Add-ons
@@ -117,7 +117,7 @@ Izegrar
 
 
 ;View List
-View List
+Sken tabdart
 
 
 ;enabled
