@@ -269,127 +269,127 @@ Anagraw wammud imumi yettwaswel useɣẓan
 
 
 ;Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
-Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
+Asulay n ubadu n tussa n useɣẓan yettwaseqdacen. Yettwakkes-d seg usmenyaf n <var>distribution.id</var>
 
 
 ;Version of the distribution, taken from the <var>distribution.version</var> preference
-Version of the distribution, taken from the <var>distribution.version</var> preference
+Lqem n tussa, yettwakkes-d seg usmenyaf n <var>distribution.version</var>
 
 
 ;The version number of any Mozilla hotfix applied to the application
-The version number of any Mozilla hotfix applied to the application
+Uṭṭun n lqem n yal aseɣti n Mozilla icudden ɣer usnas
 
 
 ;Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
-Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
+Asulay assuf i usnas i d-yemmalen ama d Firefox neɣ Thunderbird, atg. Am aggad akk n usebded n yesnasen akken yebɣu yella wazal n <var>appName</var>
 
 
 ;The configured name of the application (Firefox/Aurora/Nightly for instance)
-The configured name of the application (Firefox/Aurora/Nightly for instance)
+Isem n twila n usnas (Firefox/Aurora/Nightly akka tura)
 
 
 ;The channel this installation checks for application updates (nightly/aurora/beta/release)
-The channel this installation checks for application updates (nightly/aurora/beta/release)
+Abadu yettwaseqdacen i usenqed n ileqman (nightly/aurora/beta/release)
 
 
 ;The name of the company/provider who built this version
-The name of the company/provider who built this version
+Isem n tkebbanit /provider i yebnan lqem agi
 
 
 ;The current version of the product
-The current version of the product
+Lqem amiran n useɣẓan
 
 
 ;Number of processor cores
-Number of processor cores
+Amḍan n wulawen deg usasker
 
 
 ;Whether the application is currently configured to be the default browser for the operating system
-Whether the application is currently configured to be the default browser for the operating system
+Ma yella asnas yettuswel akka tura d iminig amezwer deg unagraw n wammud
 
 
 ;Locale currently being used
-Locale currently being used
+Tangalt n tutlayt tettuseqdac akka tura
 
 
 ;Amount of RAM in megabytes
-Amount of RAM in megabytes
+Tanecta n tkatut RAM s imigaṭamḍanen
 
 
 ;Currently running Operating System (kernel) name
-Currently running Operating System (kernel) name
+Isem n unagraw n wammud yettwaselkamen tura (iɣes)
 
 
 ;Currently running Operating System (kernel) version
-Currently running Operating System (kernel) version
+Lqem n unagraw n wammud yettwaselkamen tura (iɣes)
 
 
 ;The build identifier of the Gecko platform code
-The build identifier of the Gecko platform code
+Asulay n lqem n tengalt n telɣubliṭ Gecko
 
 
 ;The version of the Gecko platform code
-The version of the Gecko platform code
+Lqem n tengalt n telɣubliṭ Gecko
 
 
 ;Processor architecture
-Processor architecture
+Taɣessa n usasker
 
 
 ;The date this version was first used with this installation profile
-The date this version was first used with this installation profile
+Azemz n lqem agi yettwaeqdec di tazwara s umaɣnu agi n usebded
 
 
 ;An application version which has been used with this installation profile
-An application version which has been used with this installation profile
+Lqem n usnas yettwasqedcen s umaɣnu n usebded agi
 
 
 ;The number of add-ons of this type that existed in the profile on this date
-The number of add-ons of this type that existed in the profile on this date
+Amḍan n izegrar n tewsit agi i yellan deg umaɣnu deg wazemz agi
 
 
 ;<var>True</var> if the application automatically disabled the add-on
-<var>True</var> if the application automatically disabled the add-on
+<var>True</var> ma yella asnas yekkes armad n uzegrir s wudem awurman
 
 
 ;Whether this add-on was installed by the user or automatically by another application
-Whether this add-on was installed by the user or automatically by another application
+Ma yella azegrir yesbedd-it useqdac neɣ asnas nniḍen s wudem awurman
 
 
 ;Whether this add-on has native code.
-Whether this add-on has native code.
+Ma yella azegrir yegber tangalt taneẓlit.
 
 
 ;The identifier of this add-on as defined by the add-on developer
-The identifier of this add-on as defined by the add-on developer
+Asulay n uzegrir agi akken it-id-imudd uneflay n uzegrir
 
 
 ;The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
-The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
+Azemz aneggaru melmi i yettwasebded uzegrir agi (talqut yezrin ɣef tukksa n usebded n uzegrir ur tettwaḥraz ara).
 
 
 ;The number of searches performed with this search engine from this part of the UI
-The number of searches performed with this search engine from this part of the UI
+Amḍan n unadi s umsedday agi n unadi seg uḥric agi n ugrudem UI
 
 
 ;Whether this add-on was installed in the application directory or profile directory
-Whether this add-on was installed in the application directory or profile directory
+Ma yella azegrir agi yettwasebded seg ukaram n yesnasen neɣ akaram n umaɣnu
 
 
 ;Whether this add-on is an extension or a plug-in
-Whether this add-on is an extension or a plug-in
+Ma yella azegrir agi d asiɣzef neɣ d aseɣẓan
 
 
 ;The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
-The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
+Azemz aneggaru melmi i yettwaleqqem uzegrir agi (talɣut yezrin ɣef tukksa n usebded n uzegrir ur tettwaḥraz ara).
 
 
 ;<var>True</var> if the user manually disabled the add-on
-<var>True</var> if the user manually disabled the add-on
+<var>True</var> ma yella aseqdac yekkes armad n uzegrir s ufus
 
 
 ;The current version of this add-on
-The current version of this add-on
+Lqem amiran n uzegrir agi
 
 
 ;How long in milliseconds it took during startup for the application to render the UI and display the window
