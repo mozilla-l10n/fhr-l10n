@@ -490,7 +490,7 @@ Tasertit n tbaḍnit
 
 # The following strings are used only in the Mobile version of about:healthreport (Firefox for Android)
 ;Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
-Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
+Tacrawt n tezmemrt n Firefox ad teseggem Firefox udiɣ aɣ-d-mudd afus ad nesnulfu iminig ifazen. Ineqqisen ad ilin cebḥit di tazwara, acukan ad nernin.
 
 
 ;Learn More&hellip;
@@ -506,7 +506,7 @@ A yettban d akken Firefox d tacreṭ tamaynut! Uɣal-d ticki seld aseqdec n Fire
 
 
 ;Important Metrics
-Important Metrics
+Tisnaktiwin tixatarin
 
 
 ;Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
@@ -522,7 +522,7 @@ Isiɣzaf, izegrar akked umḍan n izegrar ibedden.
 
 
 ;Key performance measures, such as launch speed.
-Key performance measures, such as launch speed.
+Akat n tmellit tisura, am urured n tnekra.
 
 
 ;Browsing duration, install time, number of bookmarks and pages.
@@ -546,7 +546,7 @@ Takatut s MAṬ:
 
 
 ;The amount of memory reported by Android. Typically excludes graphics memory.
-The amount of memory reported by Android. Typically excludes graphics memory.
+Tanecta n tkatut i d-yuzen Android. Takatut tudlift ur ttekki ara s umata.
 
 
 ;Application Name:
@@ -554,7 +554,7 @@ Isem n usnas:
 
 
 ;The internal application name for the browser.
-The internal application name for the browser.
+Isem agensan n usnas i yiminig.
 
 
 ;Application ID:
@@ -562,7 +562,7 @@ Asulay n usnas:
 
 
 ;The internal identifier for the application.
-The internal identifier for the application.
+Asulay agensan n usnas.
 
 
 ;Application Version:
@@ -574,11 +574,11 @@ Lqem amiran n iminig
 
 
 ;Application Build ID:
-Application Build ID:
+Asulay n lebni n usnas:
 
 
 ;The internal build timestamp.
-The internal build timestamp.
+Azemzakud n lebni agensan.
 
 
 ;Update Channel:
@@ -586,7 +586,7 @@ Abadu n uleqqem:
 
 
 ;Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
-Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
+Firefox yettwazuzer seg ibuda: Asefsu n yiḍ Nightly , abadu Aurora, abadu urkid Beta akked ubaduazayez. Urti agi yemmal-d abadu.
 
 
 ;Vendor:
@@ -594,7 +594,7 @@ Asaǧǧaw:
 
 
 ;The organization that built this application. Typically Mozilla.
-The organization that built this application. Typically Mozilla.
+Takebbanit ixedemen asnas agi. Mozilla s umata.
 
 
 ;Platform Version:
@@ -602,11 +602,11 @@ Lqem n telɣubliṭ:
 
 
 ;An internal version identifier. Typically the same as appVersion.
-An internal version identifier. Typically the same as appVersion.
+Asulay n lqem agensan. Isme-is am appVersion.
 
 
 ;Platform Build ID:
-Platform Build ID:
+Asulay n usefsu n telɣubliṭ:
 
 
 ;On Android this is an alternative name for appBuildID.
@@ -618,7 +618,7 @@ xpcomabi: {ok}
 
 
 ;The CPU architecture for which this application was built.
-The CPU architecture for which this application was built.
+Tasegda n usasfer CPU n usefsu n usnas agi.
 
 
 ;OS:
@@ -634,7 +634,7 @@ Tasegda:
 
 
 ;The CPU architecture for this device.
-The CPU architecture for this device.
+Tasegda n usasker CPU n yibenk agi.
 
 
 ;System Name:
@@ -650,19 +650,19 @@ Lqem n unagraw:
 
 
 ;The Android OS revision.
-The Android OS revision.
+Lqem n unagraw Android.
 
 
 ;Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
-Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
+Ma yella Firefox yettawi-d tabdart n usewḥ€l n izegrar akken ak-immesten mgal n yir izegrar. Yettawemed s umezwer.
 
 
 ;Telemetry Enabled:
-Telemetry Enabled:
+Tasnakta tettwarmed:
 
 
 ;Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
-Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
+Ma yella Firefox ad yazen isefka n useqdec leqqayen akken ad d-imudd afus di tneflit. Mačči d amezwer ɣef deqs n ibuda.
 
 
 ;Extension Count:
@@ -694,7 +694,7 @@ Izegrar:
 
 
 ;A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
-A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
+Agmar d-immalen izegrar ibedden. Mačči akk izegrar ddan-d: ala izegrar, isiɣzaf, akked imeẓla.
 
 
 ;Search Counts:
@@ -702,7 +702,7 @@ Amḍan n unadi:
 
 
 ;A count of how many searches you issued to each of Mozilla's partner providers.
-A count of how many searches you issued to each of Mozilla's partner providers.
+Amḍan n tarrayin n unadi i tsenkreḍ di yal asaǧǧaw amendid n Mozilla.
 
 
 ;Sessions and Startup Times
@@ -710,7 +710,7 @@ Amḍan n tɣimiyin akked usenker
 
 
 ;For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
-For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
+Di yal tiɣimit n tunigin, Tacrawt n tezmert n Firefox tesseklas acḥal n wakud i teqqneḍ (s tmilisinin), ma yella tiɣimit tfuk akken iwata neɣ s uɣelluy. Daɣen akud n tnekra (s tmilisinin) ma yella.
 
 
 ;Profile Creation:
@@ -718,7 +718,7 @@ Timernan umaɣnu:
 
 
 ;The day on which your browser profile was created. Counted in days since January 1st 1970.
-The day on which your browser profile was created. Counted in days since January 1st 1970.
+Ass anida amaɣnu n iminig inek yettwarna. S wussan si 1 Yennayer 1970.
 
 
 ;Learn More
@@ -726,7 +726,7 @@ Issin ugar
 
 
 ;Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
-Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
+Tacrawt n tezmert n Firefox (FHR) ad tesweḍ talɣut n tmellit n iminig inek, akken ak-d-mudd tixbula ilaqen akken ad tefaṛṣeḍ tagnitt si Firefox. Ugar n telɣut ɣef tecrawt n tezmert n Firefox, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>rzu ɣer tgezmi n tallalt n Mozilla.</a>
 
 
 ;For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
