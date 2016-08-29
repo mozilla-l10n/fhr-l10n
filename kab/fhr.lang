@@ -145,19 +145,19 @@ wuṛǧen ad yermed
 
 
 ;Tips
-Tips
+Tixbula
 
 
 ;Wear and Tear
-Wear and Tear
+Ɛeggu
 
 
 ;It looks like your browser has crashed a number of times recently. To learn more:
-It looks like your browser has crashed a number of times recently. To learn more:
+Iminig inek yettban d akken iɣelli aṭas tagara agi. Akken ad teẓreḍ ugar:
 
 
 ;OFF
-OFF
+OFF {ok}
 
 
 ;Visit our <a href="%(sumo_url)s">support website</a>
@@ -173,99 +173,99 @@ isebtar yettwarzan
 
 
 ;Your browser seems to be running slower than usual. To learn more:
-Your browser seems to be running slower than usual. To learn more:
+Iminig yettban d akken yettuselkam s wudem ẓẓayen. Akken ad tezreḍ ugar:
 
 
 ;You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
-You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
+Ad tizmired ad t wali ugar telɣut s telqayt skud tesseqdaceḍ iminig inek. Senqed tikelt nniḍen akka kra n dduṛtat akken ad twalid sanida te-tteddu tneflit.
 
 
 ;Startup Time by Day
-Startup Time by Day
+Akud n tnekra deg ass
 
 
 ;Graph:
-Graph:
+Adlef:
 
 
 ;Average
-Average
+Talemmast
 
 
 ;All
-All
+Akk
 
 
 ;Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
-Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
+Akud n tnekra ad isireg ad yaf timellit n lqem inek n Firefox. Di tanumi, akud wezzilen (i.e. azalen meẓẓiyen) mmalen-d timellit ifazen.
 
 
 ;Data Collected
-Data Collected
+Isefka i d-yettwaleqḍen
 
 
 ;Glossary
-Glossary
+Amawal
 
 
 ;What the Firefox Health Report Measures
-What the Firefox Health Report Measures
+D acu tektal n tecrawt n tezmert n Firefox
 
 
 ;The Firefox Health Report (FHR) has 4 categories of metrics:
-The Firefox Health Report (FHR) has 4 categories of metrics:
+Tacrawt n tezmert n firefox (FHR) ɣur-s 4 n taggayin tilisɣal:
 
 
 ;Configuration
-Configuration
+Tawila
 
 
 ;Device hardware, operating system, Firefox version
-Device hardware, operating system, Firefox version
+Arrum, anagraw n wammud, lqem n Firefox
 
 
 ;Customizations
-Customizations
+Aggan
 
 
 ;Add-ons, count and type
-Add-ons, count and type
+Izegrar, amḍan akked wanaw
 
 
 ;Performance
-Performance
+Timellit
 
 
 ;Timing of browser events, rendering, session restores
-Timing of browser events, rendering, session restores
+Aktazal n tiddin n iminig, tiririt n isebtar, tiririt n tɣimiyin
 
 
 ;Length of session, how old a profile is, count of crashes, count of pages
-Length of session, how old a profile is, count of crashes, count of pages
+Tanzagt n tɣimit, awtay n umaqnu, amḍan n iɣelluyen, amḍan n isebtar
 
 
 ;Detailed Description
-Detailed Description
+Aglam leqqayen
 
 
 ;Metric
-Metric
+Tasnakta
 
 
 ;Description
-Description
+Aglam
 
 
 ;Binary interface for XPCOM
-Binary interface for XPCOM
+Agrudem imsin i XPCOM
 
 
 ;Identifier for this build of the application based on the date the build was started
-Identifier for this build of the application based on the date the build was started
+Asulay n usnas yettwabnan seg azemz n usefsu
 
 
 ;Operating System for which this build was configured
-Operating System for which this build was configured
+Anagraw wammud imumi yettwaswel useɣẓan
 
 
 ;Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
