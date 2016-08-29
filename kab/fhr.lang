@@ -23,7 +23,7 @@ Beṭṭu n isefka
 
 
 ;ON
-ON {ok}
+Yermed
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
@@ -157,7 +157,7 @@ Iminig inek yettban d akken iɣelli aṭas tagara agi. Akken ad teẓreḍ ugar:
 
 
 ;OFF
-OFF {ok}
+Ur yermid ara
 
 
 ;Visit our <a href="%(sumo_url)s">support website</a>
@@ -393,99 +393,99 @@ Lqem amiran n uzegrir agi
 
 
 ;How long in milliseconds it took during startup for the application to render the UI and display the window
-How long in milliseconds it took during startup for the application to render the UI and display the window
+Tanzagt s tmilisinin i yettawi usnas segmi yekker arama d tiririt n ugrudem UI akked uskan n usfaylu
 
 
 ;How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
-How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
+Tanzagt s tmilisinin i yettawi usnas segmi d-yessuli tamkaṛḍit akked tagara n uwennez azadur
 
 
 ;How long in milliseconds it took during startup for the application to restore tabs from the previous session
-How long in milliseconds it took during startup for the application to restore tabs from the previous session
+Tanzagt s tmilisinin i yettawi usnas akken ad d-yerr iccaren si tɣimit yezrin
 
 
 ;The number of times the application was run and not cleanly shut down.
-The number of times the application was run and not cleanly shut down.
+Amḍan n tikal i yettwaselkem usnas war ma yemdel akken iwata.
 
 
 ;The time in seconds that the aborted sessions were not idle
-The time in seconds that the aborted sessions were not idle
+Tanzagt s tmilisinin n warmud n tɣimiyin iḥebsen
 
 
 ;The time in seconds that the aborted sessions were running
-The time in seconds that the aborted sessions were running
+Tanzagt s tmilisinin n warmud n tɣimiyin iḥebsen
 
 
 ;The number of days since this application profile directory was created
-The number of days since this application profile directory was created
+Amḍan n wussan seg mi akaram n usnas yettwarna
 
 
 ;The number of times the application was run and cleanly shut down.
-The number of times the application was run and cleanly shut down.
+Amḍan n tikal anida asnas war yemdel akken iwata.
 
 
 ;The time in seconds that the completed sessions were not idle
-The time in seconds that the completed sessions were not idle
+Tanzagt s tmilisinin n warmud n tɣimiyin iḥebsen
 
 
 ;The time in seconds that the completed sessions were running
-The time in seconds that the completed sessions were running
+Tanzagt s tmilisinin n warmud n tɣimiyin ifuken
 
 
 ;Total number of crashes that were recorded but not yet submitted
-Total number of crashes that were recorded but not yet submitted
+Amḍan n iɣelluyen yettwakelsen acukan ur ttwaznen ara
 
 
 ;Total number of crashes that have been submitted
-Total number of crashes that have been submitted
+Amḍan n iɣelluyen i yettwaznen
 
 
 ;Time in seconds the app has not been idle
-Time in seconds the app has not been idle
+Tanzagt s tmilisinin n warmud amaɣlal n usnas
 
 
 ;Time in seconds since the app was last started
-Time in seconds since the app was last started
+Tanzagt s tmilisinin seg usenker aneggaru n usnas
 
 
 ;Total number of bookmarks
-Total number of bookmarks
+Amḍan n tecrad n isebtar
 
 
 ;Total number of pages listed in the history
-Total number of pages listed in the history
+Amḍan n isebtar deg umazray
 
 
 ;How long in minutes the current session has been running
-How long in minutes the current session has been running
+Tanzagt s tesdatin n tɣimit tamirant
 
 
 ;Welcome to your Firefox Health Report
-Welcome to your Firefox Health Report
+Ansuf yis-k ɣer tecrawt n tezmert n Firefox
 
 
 ;Welcome!
-Welcome!
+Ansuf!
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
-Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
+Tacrawt n tezmert n Firefox ak-teǧǧ ad tessineḍ ma yella Firefox inek yeǧǧhed, akked wayen yessefk ad teggeḍ akken yesnerni tazmert ines.
 
 
 ;See My Report
-See My Report
+Wali aneqqis inu
 
 
 ;Time (in seconds)
-Time (in seconds)
+Akud (s tasinin)
 
 
 ;Show Statistics
-Show Statistics
+Sken tiddadanin
 
 
 ;Privacy Policy
-Privacy Policy
+Tasertit n tbaḍnit
 
 
 # The following strings are used only in the Mobile version of about:healthreport (Firefox for Android)
@@ -494,15 +494,15 @@ Firefox Health Report lets you optimize your Firefox and helps us build a more e
 
 
 ;Learn More&hellip;
-Learn More&hellip;
+Issin ugar &hellip;
 
 
 ;Tip
-Tip
+Taxbalut
 
 
 ;Looks like your Firefox is brand new! Check back after using Firefox for a while.
-Looks like your Firefox is brand new! Check back after using Firefox for a while.
+A yettban d akken Firefox d tacreṭ tamaynut! Uɣal-d ticki seld aseqdec n Firefox kra n wakud.
 
 
 ;Important Metrics
@@ -510,15 +510,15 @@ Important Metrics
 
 
 ;Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
-Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
+Firefox yesseklas talɣut ɣef iminig akked yibenk inek. Tzemreḍ ad <a href="#raw" class="navigate">twaliḍ talɣut i nessekles.</a> Tzemreḍ daɣen ad twaliḍ ayen tebḍiḍ akked Mozilla.
 
 
 ;Device hardware, operating system, Firefox version.
-Device hardware, operating system, Firefox version.
+Arrum. anagraw n wammud. lqem n Firefox.
 
 
 ;Extensions, plugins, and number of installed add-ons.
-Extensions, plugins, and number of installed add-ons.
+Isiɣzaf, izegrar akked umḍan n izegrar ibedden.
 
 
 ;Key performance measures, such as launch speed.
@@ -526,23 +526,23 @@ Key performance measures, such as launch speed.
 
 
 ;Browsing duration, install time, number of bookmarks and pages.
-Browsing duration, install time, number of bookmarks and pages.
+Tanzagt n tunigin, amḍan n usebded, amḍan n tecraḍ akked d isebtar.
 
 
 ;Home
-Home
+Asebter agejdan
 
 
 ;CPU Count:
-CPU Count:
+Amḍan n isaskaren:
 
 
 ;The number of CPU cores reported by Android.
-The number of CPU cores reported by Android.
+Amḍan n wulawen n isasfaren i d-yuzen Android.
 
 
 ;Memory in MB:
-Memory in MB:
+Takatut s MAṬ:
 
 
 ;The amount of memory reported by Android. Typically excludes graphics memory.
@@ -550,7 +550,7 @@ The amount of memory reported by Android. Typically excludes graphics memory.
 
 
 ;Application Name:
-Application Name:
+Isem n usnas:
 
 
 ;The internal application name for the browser.
@@ -558,7 +558,7 @@ The internal application name for the browser.
 
 
 ;Application ID:
-Application ID:
+Asulay n usnas:
 
 
 ;The internal identifier for the application.
@@ -566,11 +566,11 @@ The internal identifier for the application.
 
 
 ;Application Version:
-Application Version:
+Lqem n usnas:
 
 
 ;The current version of the browser
-The current version of the browser
+Lqem amiran n iminig
 
 
 ;Application Build ID:
@@ -582,7 +582,7 @@ The internal build timestamp.
 
 
 ;Update Channel:
-Update Channel:
+Abadu n uleqqem:
 
 
 ;Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
@@ -590,7 +590,7 @@ Firefox is distributed through channels: Nightly builds, the Aurora pre-release 
 
 
 ;Vendor:
-Vendor:
+Asaǧǧaw:
 
 
 ;The organization that built this application. Typically Mozilla.
@@ -598,7 +598,7 @@ The organization that built this application. Typically Mozilla.
 
 
 ;Platform Version:
-Platform Version:
+Lqem n telɣubliṭ:
 
 
 ;An internal version identifier. Typically the same as appVersion.
@@ -610,11 +610,11 @@ Platform Build ID:
 
 
 ;On Android this is an alternative name for appBuildID.
-On Android this is an alternative name for appBuildID.
+Ɣef Android wagi d isem nniḍen i appBuildID.
 
 
 ;xpcomabi:
-xpcomabi:
+xpcomabi: {ok}
 
 
 ;The CPU architecture for which this application was built.
@@ -622,15 +622,15 @@ The CPU architecture for which this application was built.
 
 
 ;OS:
-OS:
+Anagraw n wammud:
 
 
 ;The current operating system.
-The current operating system.
+Anagraw n wammud amiran.
 
 
 ;Architecture:
-Architecture:
+Tasegda:
 
 
 ;The CPU architecture for this device.
@@ -638,15 +638,15 @@ The CPU architecture for this device.
 
 
 ;System Name:
-System Name:
+Isem n unagraw:
 
 
 ;The current system name.
-The current system name.
+Isem n unagraw amiran.
 
 
 ;System Version:
-System Version:
+Lqem n unagraw:
 
 
 ;The Android OS revision.
@@ -666,31 +666,31 @@ Whether Firefox reports detailed usage data to help with development. Defaults t
 
 
 ;Extension Count:
-Extension Count:
+Amḍan n isiɣzaf:
 
 
 ;How many extension add-ons are installed.
-How many extension add-ons are installed.
+Acḥal tikal ttwasbedden isiɣzaf.
 
 
 ;Plugin Count:
-Plugin Count:
+Amḍan n uzegrir:
 
 
 ;How many plugin add-ons are installed.
-How many plugin add-ons are installed.
+Acḥal tikal ttwasbedden izegrar.
 
 
 ;Theme Count:
-Theme Count:
+Amḍan n isental:
 
 
 ;How many theme add-ons are installed.
-How many theme add-ons are installed.
+Acḥal tikal ttwasbedden izegrar n isental.
 
 
 ;Addons:
-Addons:
+Izegrar:
 
 
 ;A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
@@ -698,7 +698,7 @@ A collection describing the installed add-ons. Not all add-ons are reported: onl
 
 
 ;Search Counts:
-Search Counts:
+Amḍan n unadi:
 
 
 ;A count of how many searches you issued to each of Mozilla's partner providers.
@@ -706,7 +706,7 @@ A count of how many searches you issued to each of Mozilla's partner providers.
 
 
 ;Sessions and Startup Times
-Sessions and Startup Times
+Amḍan n tɣimiyin akked usenker
 
 
 ;For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
@@ -730,11 +730,11 @@ Firefox Health Report (FHR) analyses your browser's performance information, in 
 
 
 ;For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
-For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
+Ugar n telɣut ɣef wamek i nessaqdac isefka yinek, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>wali tasertit tabaḍnit.</a>
 
 
 ;You are currently sharing your health report with Mozilla.
-You are currently sharing your health report with Mozilla.
+Aqla-k tebḍiḍ tacrawt inek n tezmert akked Mozilla.
 
 
 ;Choose what I share
@@ -742,17 +742,17 @@ Fren ayen ara bḍuɣ
 
 
 ;You are currently not sharing your health report with Mozilla.
-You are currently not sharing your health report with Mozilla.
+Aqla-k ur tebḍiḍ ara tacrawt inek n tezmert akked Mozilla.
 
 
 # This string is displayed when selecting Raw Data near the title
 ;Firefox Health Report (FHR) records anonymous data about your computer, configuration, usage, performance, and error conditions. This data helps us improve Firefox for you and for other Firefox users.
-Firefox Health Report (FHR) records anonymous data about your computer, configuration, usage, performance, and error conditions. This data helps us improve Firefox for you and for other Firefox users.
+Tacrawt n tezmert n Firefox (FHR) tesseklas isefka udrigen ɣef uselkim inek, tawila, asqdec, timellit akked tuccḍiwin. ISefka agi aɣ-d-mudden afus akken asnerni Firefox i kečč akked i yiseqdacen nniḍen n Firefox.
 
 
 # This string is displayed when selecting Raw Data near the title
 # Links to https://gecko.readthedocs.org/en/latest/toolkit/components/telemetry/telemetry/
 ;Read technical documentation for the data format and fields.
-Read technical documentation for the data format and fields.
+Ɣaṛ tasemlit tatiknikant ɣef umasal n isefka akked wurtan.
 
 
