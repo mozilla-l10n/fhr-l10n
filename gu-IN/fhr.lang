@@ -586,7 +586,7 @@ MB માં મેમરી:
 
 
 ;Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
-Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
+ફાયરફોક્સ ચેનલો મારફતે વિતરિત થયેલ છે: રાત્રિનો બિલ્ડ્સ, ઓરોરા પૂર્વ પ્રકાશન ચેનલ, સ્થિર બીટા, અને જાહેર પ્રકાશન. આ ક્ષેત્ર ચેનલ સૂચવે છે.
 
 
 ;Vendor:
@@ -654,15 +654,15 @@ Android ઓએસ પુનરાવર્તન.
 
 
 ;Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
-Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
+ફાયરફોક્સ બ્લોકલીસ્ટ પરિણામો મેળવશે દૂષિત એડ ઓન સામે તમને રક્ષણ આપે છે. મૂળભૂત પર.
 
 
 ;Telemetry Enabled:
-Telemetry Enabled:
+સક્ષમ ટેલિમેટ્રી:
 
 
 ;Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
-Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
+શું ફાયરફોક્સ વિગતવાર વપરાશ માહિતી વિકાસ સાથે મદદ કરવા માટે જણાવે છે. સૌથી વધુ ચેનલો માટે આ બોલ પર મૂળભૂત કરે છે.
 
 
 ;Extension Count:
@@ -694,7 +694,7 @@ Addons: {ok}
 
 
 ;A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
-A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
+સંગ્રહ સ્થાપિત એડ ઓન વર્ણન. બધા એડ ઓન અહેવાલ છે: માત્ર પ્લગઈનો, એક્સ્ટેન્શન્સ, અને સેવાઓ.
 
 
 ;Search Counts:
@@ -702,15 +702,15 @@ A collection describing the installed add-ons. Not all add-ons are reported: onl
 
 
 ;A count of how many searches you issued to each of Mozilla's partner providers.
-A count of how many searches you issued to each of Mozilla's partner providers.
+કેવી રીતે ઘણા બધા શોધના તમે મોઝિલા ભાગીદાર પ્રદાતાઓ જારી એક ગણતરી.
 
 
 ;Sessions and Startup Times
-Sessions and Startup Times
+સેશન્સ અને સુયોજન ટાઇમ્સ
 
 
 ;For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
-For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
+દરેક બ્રાઉઝિંગ સત્ર માટે, ફાયરફોક્સ આરોગ્ય રિપોર્ટ લગભગ રેકોર્ડ લાંબા તમે કેવી રીતે બ્રાઉઝ (સેકન્ડોમાં), અને શું સત્ર સામાન્ય રીતે અથવા ભંગાણ કારણે અંત આવ્યો હતો. સ્ટાર્ટઅપ વખત (મિલિસેકન્ડોમાં) પણ ઉપલબ્ધ હોય તો સમાવેશ થાય છે.
 
 
 ;Profile Creation:
@@ -718,7 +718,7 @@ For each browsing session, Firefox Health Report records approximately how long 
 
 
 ;The day on which your browser profile was created. Counted in days since January 1st 1970.
-The day on which your browser profile was created. Counted in days since January 1st 1970.
+જે દિવસે તમારા બ્રાઉઝર પ્રોફાઇલ બનાવવામાં આવી હતી. 1 લી જાન્યુઆરી 1970 થી દિવસ ગણાશે.
 
 
 ;Learn More
@@ -726,15 +726,15 @@ The day on which your browser profile was created. Counted in days since January
 
 
 ;Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
-Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
+ફાયરફોક્સ આરોગ્ય રિપોર્ટ (FHR) ક્રમમાં છે કે જે તમને મદદ ફાયરફોક્સ ના શ્રેષ્ઠ વિચાર ઉપયોગી ટીપ્સ સાથે તમે પ્રદાન કરવા માટે તમારા બ્રાઉઝરની કામગીરી માહિતી વિશ્લેષણ. ફાયરફોક્સ આરોગ્ય રિપોર્ટ,<a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>મોઝિલા આધાર વિભાગની મુલાકાત.</a>
 
 
 ;For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
-For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
+અમે તમારી માહિતી, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>જુઓ અમારી ગોપનીયતા નીતિ.</a>
 
 
 ;You are currently sharing your health report with Mozilla.
-You are currently sharing your health report with Mozilla.
+તમે હાલમાં મોઝિલા સાથે તમારા આરોગ્ય અહેવાલ શેર કરી રહ્યાં છે.
 
 
 ;Choose what I share
@@ -747,12 +747,12 @@ You are currently sharing your health report with Mozilla.
 
 # This string is displayed when selecting Raw Data near the title
 ;Firefox Health Report (FHR) records anonymous data about your computer, configuration, usage, performance, and error conditions. This data helps us improve Firefox for you and for other Firefox users.
-Firefox Health Report (FHR) records anonymous data about your computer, configuration, usage, performance, and error conditions. This data helps us improve Firefox for you and for other Firefox users.
+ફાયરફોક્સ આરોગ્ય રિપોર્ટ (FHR) તમારા કમ્પ્યુટર, રૂપરેખાંકન, ઉપયોગ, કામગીરી, અને ભૂલ શરતો વિશે અનામી માહિતી રેકોર્ડ કરે છે. આ માહિતી અમને તમારા માટે અને અન્ય ફાયરફોક્સ વપરાશકર્તાઓ માટે ફાયરફોક્સ સુધારવા મદદ કરે છે.
 
 
 # This string is displayed when selecting Raw Data near the title
 # Links to https://gecko.readthedocs.org/en/latest/toolkit/components/telemetry/telemetry/
 ;Read technical documentation for the data format and fields.
-Read technical documentation for the data format and fields.
+માહિતી બંધારણ અને ક્ષેત્રો માટે ટેક્નીકલ દસ્તાવેજીકરણ વાંચો.
 
 
