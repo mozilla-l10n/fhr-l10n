@@ -31,7 +31,7 @@ Vous avez choisi de ne plus partager de données avec Mozilla, néanmoins vous p
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
-Votre Bilan de santé sera aussi effacé des serveurs de Mozilla. Apprenez-en davantage dans notre <a href="%(privacy_url)s">politique de respect de la vie privée.</a>
+Votre Bilan de santé sera aussi effacé des serveurs de Mozilla. Apprenez-en davantage dans notre <a href="%(privacy_url)s">politique de confidentialité.</a>
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
@@ -105,7 +105,7 @@ plantages
 
 
 ;application crashes
-plantages de l'application
+plantages de l’application
 
 
 ;plugin crashes
@@ -161,7 +161,7 @@ INACTIF
 
 
 ;Visit our <a href="%(sumo_url)s">support website</a>
-Visitez notre <a href="%(sumo_url)s">site d'assistance</a>
+Visitez notre <a href="%(sumo_url)s">site d’assistance</a>
 
 
 ;View more <a href="%(details_url)s">detailed information</a>
@@ -173,11 +173,11 @@ pages visitées
 
 
 ;Your browser seems to be running slower than usual. To learn more:
-Votre navigateur semble fonctionner plus lentement que d'habitude. Pour en savoir plus&nbsp;:
+Votre navigateur semble fonctionner plus lentement que d’habitude. Pour en savoir plus&nbsp;:
 
 
 ;You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
-Vous pourrez afficher davantage d'informations intéressantes et détaillées au fur et à mesure de votre utilisation du navigateur. Vérifiez à nouveau dans quelques semaines pour voir apparaître certaines tendances.
+Vous pourrez afficher davantage d’informations intéressantes et détaillées au fur et à mesure de votre utilisation du navigateur. Vérifiez à nouveau dans quelques semaines pour voir apparaître certaines tendances.
 
 
 ;Startup Time by Day
@@ -197,7 +197,7 @@ Tout
 
 
 ;Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
-Le temps de démarrage permet de déterminer les performances de votre version de Firefox. De façon générale, des temps courts (c'est-à-dire de faibles valeurs) indiquent de meilleures performances.
+Le temps de démarrage permet de déterminer les performances de votre version de Firefox. De façon générale, des temps courts (c’est-à-dire de faibles valeurs) indiquent de meilleures performances.
 
 
 ;Data Collected
@@ -221,7 +221,7 @@ Configuration {ok}
 
 
 ;Device hardware, operating system, Firefox version
-Matériel, système d'exploitation, version de Firefox
+Matériel, système d’exploitation, version de Firefox
 
 
 ;Customizations
@@ -261,11 +261,11 @@ Interface binaire pour XPCOM
 
 
 ;Identifier for this build of the application based on the date the build was started
-Identifiant de l'application construit à partir de la date de compilation
+Identifiant de l’application construit à partir de la date de compilation
 
 
 ;Operating System for which this build was configured
-Système d'exploitation pour lequel ce logiciel a été configuré
+Système d’exploitation pour lequel ce logiciel a été configuré
 
 
 ;Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
@@ -277,15 +277,15 @@ Version de la distribution, extraite de la préférence <var>distribution.versio
 
 
 ;The version number of any Mozilla hotfix applied to the application
-Le numéro de version de tout correctif de Mozilla appliqué à l'application
+Le numéro de version de tout correctif de Mozilla appliqué à l’application
 
 
 ;Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
-Identifiant unique pour l'application indiquant qu'il s'agit de Firefox, Thunderbird etc. Il a toujours la même valeur pour toutes les installations, quelle que soit la valeur de <var>appName</var>
+Identifiant unique pour l’application indiquant qu’il s’agit de Firefox, Thunderbird etc. Il a toujours la même valeur pour toutes les installations, quelle que soit la valeur de <var>appName</var>
 
 
 ;The configured name of the application (Firefox/Aurora/Nightly for instance)
-Nom paramétré de l'application (Firefox/Aurora/Nightly par exemple)
+Nom paramétré de l’application (Firefox/Aurora/Nightly par exemple)
 
 
 ;The channel this installation checks for application updates (nightly/aurora/beta/release)
@@ -293,7 +293,7 @@ Canal utilisé pour la vérification des mises à jour (nightly/aurora/beta/rele
 
 
 ;The name of the company/provider who built this version
-Nom de l'entreprise ou du fournisseur qui a créé cette version
+Nom de l’entreprise ou du fournisseur qui a créé cette version
 
 
 ;The current version of the product
@@ -305,7 +305,7 @@ Nombre de cœurs du processeur
 
 
 ;Whether the application is currently configured to be the default browser for the operating system
-Si l'application est actuellement définie comme navigateur par défaut pour le système d'exploitation
+Si l’application est actuellement définie comme navigateur par défaut pour le système d’exploitation
 
 
 ;Locale currently being used
@@ -317,11 +317,11 @@ Quantité de RAM en méga-octets
 
 
 ;Currently running Operating System (kernel) name
-Nom du système d'exploitation utilisé (noyau)
+Nom du système d’exploitation utilisé (noyau)
 
 
 ;Currently running Operating System (kernel) version
-Version du système d'exploitation utilisé (noyau)
+Version du système d’exploitation utilisé (noyau)
 
 
 ;The build identifier of the Gecko platform code
@@ -337,11 +337,11 @@ Architecture du processeur
 
 
 ;The date this version was first used with this installation profile
-Date de première utilisation de cette version avec ce profil d'installation
+Date de première utilisation de cette version avec ce profil d’installation
 
 
 ;An application version which has been used with this installation profile
-Version d'application utilisée avec ce profil d'installation
+Version d’application utilisée avec ce profil d’installation
 
 
 ;The number of add-ons of this type that existed in the profile on this date
@@ -349,11 +349,11 @@ Nombre de modules complémentaires de ce type qui existaient dans le profil à c
 
 
 ;<var>True</var> if the application automatically disabled the add-on
-<var>True</var> si l'application a automatiquement désactivé le module
+<var>True</var> si l’application a automatiquement désactivé le module
 
 
 ;Whether this add-on was installed by the user or automatically by another application
-Le module a-t-il été installé par l'utilisateur ou bien a-t-il été installé automatiquement par une autre application
+Le module a-t-il été installé par l’utilisateur ou bien a-t-il été installé automatiquement par une autre application
 
 
 ;Whether this add-on has native code.
@@ -365,11 +365,11 @@ Identifiant du module tel que défini par son développeur
 
 
 ;The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
-La date d'installation la plus récente pour ce module (les précédentes informations concernant un module désinstallé ne sont pas conservées)
+La date d’installation la plus récente pour ce module (les précédentes informations concernant un module désinstallé ne sont pas conservées)
 
 
 ;The number of searches performed with this search engine from this part of the UI
-Le nombre de recherches effectuées avec ce moteur de recherche depuis cette partie de l'interface
+Le nombre de recherches effectuées avec ce moteur de recherche depuis cette partie de l’interface
 
 
 ;Whether this add-on was installed in the application directory or profile directory
@@ -385,7 +385,7 @@ La date de mise à jour la plus récente pour ce module (les précédentes infor
 
 
 ;<var>True</var> if the user manually disabled the add-on
-<var>True</var> si l'utilisateur a manuellement désactivé le module
+<var>True</var> si l’utilisateur a manuellement désactivé le module
 
 
 ;The current version of this add-on
@@ -393,23 +393,23 @@ La version actuelle de ce module complémentaire
 
 
 ;How long in milliseconds it took during startup for the application to render the UI and display the window
-Combien de temps en millisecondes a-t-il fallu pendant le démarrage de l'application pour dessiner l'interface et afficher la fenêtre
+Combien de temps en millisecondes a-t-il fallu pendant le démarrage de l’application pour dessiner l’interface et afficher la fenêtre
 
 
 ;How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
-Combien de temps en millisecondes a-t-il fallu pendant le démarrage de l'application pour charger les bibliothèques et terminer l'initialisation de base
+Combien de temps en millisecondes a-t-il fallu pendant le démarrage de l’application pour charger les bibliothèques et terminer l’initialisation de base
 
 
 ;How long in milliseconds it took during startup for the application to restore tabs from the previous session
-Combien de temps en millisecondes a-t-il fallu pendant le démarrage de l'application pour restaurer les onglets de la session précédente
+Combien de temps en millisecondes a-t-il fallu pendant le démarrage de l’application pour restaurer les onglets de la session précédente
 
 
 ;The number of times the application was run and not cleanly shut down.
-Le nombre de fois où l'application a été exécutée mais n'a pas été correctement quittée
+Le nombre de fois où l’application a été exécutée mais n’a pas été correctement quittée
 
 
 ;The time in seconds that the aborted sessions were not idle
-Le temps en secondes d'activité continue des sessions interrompues
+Le temps en secondes d’activité continue des sessions interrompues
 
 
 ;The time in seconds that the aborted sessions were running
@@ -417,15 +417,15 @@ Le temps en secondes du fonctionnement des sessions interrompues
 
 
 ;The number of days since this application profile directory was created
-Le nombre de jours depuis que le répertoire de l'application a été créé
+Le nombre de jours depuis que le répertoire de l’application a été créé
 
 
 ;The number of times the application was run and cleanly shut down.
-Le nombre de fois où l'application a été exécutée et correctement quittée
+Le nombre de fois où l’application a été exécutée et correctement quittée
 
 
 ;The time in seconds that the completed sessions were not idle
-Le temps en secondes d'activité continue des sessions terminées
+Le temps en secondes d’activité continue des sessions terminées
 
 
 ;The time in seconds that the completed sessions were running
@@ -441,11 +441,11 @@ Nombre total de plantages envoyés
 
 
 ;Time in seconds the app has not been idle
-Temps en secondes d'activité continue de l'application
+Temps en secondes d’activité continue de l’application
 
 
 ;Time in seconds since the app was last started
-Temps en secondes depuis le dernier lancement de l'application
+Temps en secondes depuis le dernier lancement de l’application
 
 
 ;Total number of bookmarks
@@ -453,7 +453,7 @@ Nombre total de marque-pages
 
 
 ;Total number of pages listed in the history
-Nombre total de pages listées dans l'historique
+Nombre total de pages listées dans l’historique
 
 
 ;How long in minutes the current session has been running
@@ -514,7 +514,7 @@ Le Bilan de santé de Firefox collecte des informations sur votre navigateur et 
 
 
 ;Device hardware, operating system, Firefox version.
-Type d'appareil, système d'exploitation, version de Firefox.
+Type d’appareil, système d’exploitation, version de Firefox.
 
 
 ;Extensions, plugins, and number of installed add-ons.
@@ -526,7 +526,7 @@ Mesures de performances clés, telles que la vitesse de démarrage.
 
 
 ;Browsing duration, install time, number of bookmarks and pages.
-Durée de navigation, date d'installation, nombre de pages et de marque-pages.
+Durée de navigation, date d’installation, nombre de pages et de marque-pages.
 
 
 ;Home
@@ -550,23 +550,23 @@ La quantité de mémoire communiquée par Android. La mémoire graphique est gé
 
 
 ;Application Name:
-Nom de l'application&nbsp;:
+Nom de l’application&nbsp;:
 
 
 ;The internal application name for the browser.
-Le nom de l'application interne pour le navigateur.
+Le nom de l’application interne pour le navigateur.
 
 
 ;Application ID:
-ID de l'application&nbsp;:
+ID de l’application&nbsp;:
 
 
 ;The internal identifier for the application.
-L'identifiant interne de l'application.
+L’identifiant interne de l’application.
 
 
 ;Application Version:
-Version de l'application&nbsp;:
+Version de l’application&nbsp;:
 
 
 ;The current version of the browser
@@ -574,11 +574,11 @@ La version actuelle du navigateur.
 
 
 ;Application Build ID:
-ID de compilation de l'application&nbsp;:
+ID de compilation de l’application&nbsp;:
 
 
 ;The internal build timestamp.
-L'horodatage interne de la compilation.
+L’horodatage interne de la compilation.
 
 
 ;Update Channel:
@@ -594,7 +594,7 @@ Firefox est distribué à travers plusieurs canaux&nbsp;: les compilations noctu
 
 
 ;The organization that built this application. Typically Mozilla.
-L'organisation qui a réalisé cette application. Généralement Mozilla.
+L’organisation qui a réalisé cette application. Généralement Mozilla.
 
 
 ;Platform Version:
@@ -610,7 +610,7 @@ ID de compilation de la plate-forme&nbsp;:
 
 
 ;On Android this is an alternative name for appBuildID.
-Sur Android, c'est un synonyme pour appBuildID.
+Sur Android, c’est un synonyme pour appBuildID.
 
 
 ;xpcomabi:
@@ -618,15 +618,15 @@ xpcomabi&nbsp;:
 
 
 ;The CPU architecture for which this application was built.
-L'architecture du processeur pour laquelle l'application a été conçue.
+L’architecture du processeur pour laquelle l’application a été conçue.
 
 
 ;OS:
-Système d'exploitation&nbsp;:
+Système d’exploitation&nbsp;:
 
 
 ;The current operating system.
-Le système d'exploitation actuel.
+Le système d’exploitation actuel.
 
 
 ;Architecture:
@@ -634,7 +634,7 @@ Architecture&nbsp;:
 
 
 ;The CPU architecture for this device.
-Le type d'architecture du processeur de cet appareil.
+Le type d’architecture du processeur de cet appareil.
 
 
 ;System Name:
@@ -650,7 +650,7 @@ Version du système&nbsp;:
 
 
 ;The Android OS revision.
-Le numéro de version du système d'exploitation Android.
+Le numéro de version du système d’exploitation Android.
 
 
 ;Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
@@ -662,15 +662,15 @@ Télémétrie activée&nbsp;:
 
 
 ;Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
-Firefox envoie-t-il des données d'utilisation détaillées afin de faciliter son développement. Désactivé par défaut sur la plupart des canaux.
+Firefox envoie-t-il des données d’utilisation détaillées afin de faciliter son développement. Désactivé par défaut sur la plupart des canaux.
 
 
 ;Extension Count:
-Nombre d'extensions&nbsp;:
+Nombre d’extensions&nbsp;:
 
 
 ;How many extension add-ons are installed.
-Combien d'extensions sont installées.
+Combien d’extensions sont installées.
 
 
 ;Plugin Count:
@@ -702,7 +702,7 @@ Nombre de recherches&nbsp;:
 
 
 ;A count of how many searches you issued to each of Mozilla's partner providers.
-Combien de recherches vous avez effectuées à l'aide des moteurs de recherche partenaires de Mozilla.
+Combien de recherches vous avez effectuées à l’aide des moteurs de recherche partenaires de Mozilla.
 
 
 ;Sessions and Startup Times
@@ -710,7 +710,7 @@ Sessions et temps de démarrage&nbsp;:
 
 
 ;For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
-À chaque session de navigation, le Bilan de santé de Firefox enregistre le temps approximatif de navigation (en secondes) et si la session s'est terminée normalement ou à cause d'une erreur. Il peut aussi éventuellement inclure les temps de démarrage (en millisecondes).
+À chaque session de navigation, le Bilan de santé de Firefox enregistre le temps approximatif de navigation (en secondes) et si la session s’est terminée normalement ou à cause d’une erreur. Il peut aussi éventuellement inclure les temps de démarrage (en millisecondes).
 
 
 ;Profile Creation:
@@ -726,11 +726,11 @@ En savoir plus
 
 
 ;Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
-Le Bilan de santé de Firefox analyse les performances de votre navigateur pour vous proposer des astuces pratiques qui vous aideront à tirer le meilleur parti de Firefox. Pour plus d'informations sur le Bilan de santé de Firefox, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visiter la section assistance de Mozilla.</a>
+Le Bilan de santé de Firefox analyse les performances de votre navigateur pour vous proposer des astuces pratiques qui vous aideront à tirer le meilleur parti de Firefox. Pour plus d’informations sur le Bilan de santé de Firefox, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visiter la section assistance de Mozilla.</a>
 
 
 ;For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
-Pour plus d'informations sur le traitement de vos données, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>consulter notre politique de confidentialité.</a>
+Pour plus d’informations sur le traitement de vos données, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>consulter notre politique de confidentialité.</a>
 
 
 ;You are currently sharing your health report with Mozilla.
