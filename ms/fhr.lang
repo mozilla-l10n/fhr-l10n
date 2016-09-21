@@ -55,17 +55,17 @@ Saluran Kemaskini:
 
 
 ;updates
-updates
+kemas kini
 
 
 # Possible value for "updates"
 ;automatic
-automatic
+automatik
 
 
 # Possible value for "updates"
 ;prompt
-prompt
+prompt {ok}
 
 
 ;time open
