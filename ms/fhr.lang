@@ -197,7 +197,7 @@ Semua
 
 
 ;Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
-Permulaan masa bantu menentukan bagaimana versi daripada Firefox anda dilaksanakan. Secara umum, berganda masa (i.e kurang masa) mengukur lebih kelancaran.
+Masa permulaan membantu anda menentukan prestasi versi Firefox anda. Secara umum, lebih pantas (iaitu jimat masa) menandakan prestasi lebih baik.
 
 
 ;Data Collected
@@ -209,11 +209,11 @@ Glosari
 
 
 ;What the Firefox Health Report Measures
-Apakah Ukuran Laporan Kesihatan Firefox
+Apa yang diukur oleh Firefox Health Report
 
 
 ;The Firefox Health Report (FHR) has 4 categories of metrics:
-Laporan Kesihatan Firefox (FHR) mempunyai 4 kategori daripada metrik:
+Firefox Health Report (FHR) ada 4 kategori metrik:
 
 
 ;Configuration
@@ -225,11 +225,11 @@ Perkakasan peranti, sistem operasi, versi Firefox
 
 
 ;Customizations
-Kustomisasi
+Penyesuaian
 
 
 ;Add-ons, count and type
-Addon, bilangan dan jenis
+Add-ons, bilangan dan jenis
 
 
 ;Performance
@@ -237,15 +237,15 @@ Prestasi
 
 
 ;Timing of browser events, rendering, session restores
-Pemasaan daripada acara pelayar web, rendering, sesi dipulihkan
+Pemasaanperistiwa pelayar, rendering, sesi dikembalikan semula
 
 
 ;Length of session, how old a profile is, count of crashes, count of pages
-Jarak daripada masa, berapa lama profil digunakan, bilangan daripada kerosakan, bilangan daripada halaman
+Jangkamasa, usia profil, bilangan ranap, bilangan halaman
 
 
 ;Detailed Description
-Huraian Lanjut
+Keterangan Terperinci
 
 
 ;Metric
@@ -253,39 +253,39 @@ Metrik
 
 
 ;Description
-Huraian
+Keterangan
 
 
 ;Binary interface for XPCOM
-Permukaan Binari untuk XPCOM
+Antara muka binari untuk XPCOM
 
 
 ;Identifier for this build of the application based on the date the build was started
-Pengenal pasti untuk binaan daripada aplikasi yang bergantung kepada tarikh binaan dimulakan
+Pengenal pasti binaan aplikasi ini berdasarkan tarikh binaan dimulakan
 
 
 ;Operating System for which this build was configured
-Sistem Operasi untuk menentukan binaan telah dikonfigurasikan
+Sistem Operasi binaan ini dikonfigurasikan
 
 
 ;Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
-Pengenal pasti untuk keluaran tertentu daripada aplikasi yang digunakan. Ia diambil daripada keutamaan <var>distribution.id</var>
+Pengenal pasti keluaran tertentu aplikasi yang digunakan. Diambil daripada keutamaan <var>distribution.id</var>
 
 
 ;Version of the distribution, taken from the <var>distribution.version</var> preference
-Versi daripada keluaran, diambil daripada keutamaan <var>distribution.version</var>
+Versi keluaran, diambil daripada keutamaan <var>distribution.version</var>
 
 
 ;The version number of any Mozilla hotfix applied to the application
-Nombor versi daripada sebarang hotfix Mozilla digunakan untuk aplikasi
+Nombor versi hotfix Mozilla yang digunakan untuk aplikasi
 
 
 ;Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
-Pengenal pasti unik untuk aplikasi yang diukur ia adalah Firefox mahupun Thunderbird, lain-lain. Sama untuk semua instalasi daripada sebuah aplikasi menghiraukan nilai daripada <var>appName</var>
+Pengenal pasti unik aplikasi yang menyatakan samada Firefox atau Thunderbird, dan lain-lain. Sama juga untuk semua pemasangan aplikasi tanpa mengambil kira nila <var>appName</var>
 
 
 ;The configured name of the application (Firefox/Aurora/Nightly for instance)
-Nama dikonfigurasikan untuk permohonan aplikasi (Firefox/Aurora/Nightly bagi contoh)
+Nama konfigurasi aplikasi (Firefox/Aurora/Nightly sebagai contoh)
 
 
 ;The channel this installation checks for application updates (nightly/aurora/beta/release)
@@ -293,23 +293,23 @@ Saluran bagi instalasi ini disemak untuk kemaskini aplikasi (nightly/aurora/beta
 
 
 ;The name of the company/provider who built this version
-Nama daripada syarikat/pengeluar yang membina versi ini
+Nama syarikat//provider yang membina versi ini
 
 
 ;The current version of the product
-Versi semasa daripada produk
+Versi semasa produk
 
 
 ;Number of processor cores
-Nombor berteras pemprosesan
+Nombor teras pemproses
 
 
 ;Whether the application is currently configured to be the default browser for the operating system
-Sama ada permohonan kini menyusun untuk menjadi pelayar lalai untuk sistem pengendalian
+Sama ada aplikasi sedang dikonfigurasi untuk menjadi pelayar piawai sistem operasi
 
 
 ;Locale currently being used
-Locale semasa yang digunakan
+Locale sedang digunakan
 
 
 ;Amount of RAM in megabytes
