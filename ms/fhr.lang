@@ -85,19 +85,19 @@ Bulan Ini
 
 
 ;total sessions
-total sessions
+jumlah sesi
 
 
 ;Active Add-ons
-Active Add-ons
+Add-ons Aktif
 
 
 ;Extensions
-Extensions
+Ekstensi
 
 
 ;Plugins (Click-to-Activate)
-Plugins (Click-to-Activate)
+Plugin (Klik-untuk-Aktifkan)
 
 
 ;crashes
@@ -618,7 +618,7 @@ xpcomabi: {ok}
 
 
 ;The CPU architecture for which this application was built.
-The arkitektur CPU untuk dimana aplikasi ini dibina.
+Seni bina CPU aplikasi ini dibina.
 
 
 ;OS:
@@ -626,15 +626,15 @@ OS: {ok}
 
 
 ;The current operating system.
-Sistem operasi terkini.
+Sistem operasi semasa.
 
 
 ;Architecture:
-Arkitektur:
+Seni bina:
 
 
 ;The CPU architecture for this device.
-Arkitektur CPU untuk peranti ini.
+Seni bina CPU peranti ini.
 
 
 ;System Name:
@@ -642,7 +642,7 @@ Nama Sistem:
 
 
 ;The current system name.
-Nama sistem terkini.
+Nama sistem semasa.
 
 
 ;System Version:
@@ -650,19 +650,19 @@ Versi Sistem:
 
 
 ;The Android OS revision.
-Rujukan Android OS.
+Semakan Android OS.
 
 
 ;Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
-Sama ada Firefox addon memperoleh senarai yang di blok untuk melindungi anda dari addon yang berbahaya. Setkan kepada lalai.
+Sama ada Firefox mengambil kira senarai sekatan add-on untuk melindungi anda daripada add-on hasad. Tetapan piawai akan mengaktifkannya.
 
 
 ;Telemetry Enabled:
-Telemetri Dibolehkan:
+Telemetri Didayakan:
 
 
 ;Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
-Sama ada laporan Firefox memperincikan kegunaan data untuk membantu dalam pembangunan. Setkan lalai kepada tutup untuk kebanyakan saluran.
+Sama ada laporan Firefox memperincikan kegunaan data untuk membantu pembangunan. Tetapan piawai akan menyahaktifkannya pada sebahagian besar saluran.
 
 
 ;Extension Count:
@@ -670,7 +670,7 @@ Bilangan Ekstensi:
 
 
 ;How many extension add-ons are installed.
-Berapa banyak ekstensi addon yang terpasang.
+Bilangan ekstensi add-ons yang dipasang.
 
 
 ;Plugin Count:
@@ -678,7 +678,7 @@ Bilangan Plugin:
 
 
 ;How many plugin add-ons are installed.
-Berapa banyak plugin addon yang terpasang.
+Bilangan plugin add-ons yang dipasang.
 
 
 ;Theme Count:
@@ -686,7 +686,7 @@ Bilangan Tema:
 
 
 ;How many theme add-ons are installed.
-Berapa banyak tema addon yang terpasang.
+Bilangan tema add-ona yang dipasang.
 
 
 ;Addons:
@@ -694,7 +694,7 @@ Addons: {ok}
 
 
 ;A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
-Sebuah koleksi memperincikan addon yang terpasang. Tidak semua addon dilaporkan: hanya plugin, esktensi dan perkhidmatan.
+Koleksi yang menerangkan add-ons yang dipasang. Tidak semua add-ons akan dilaporkan: hanya plugin, esktensi dan perkhidmatan.
 
 
 ;Search Counts:
@@ -702,7 +702,7 @@ Bilangan Carian:
 
 
 ;A count of how many searches you issued to each of Mozilla's partner providers.
-Satu bilangan berkaitan berapa banyak carian yang dikeluarkan kepada setiap rakan kongsi pengeluar Mozilla.
+Bilangan carian yang anda hantar kepada setiap rakan kongsi pengeluar Mozilla.
 
 
 ;Sessions and Startup Times
@@ -710,7 +710,7 @@ Sesi dan Waktu Permulaan
 
 
 ;For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
-Untuk setiap sesi pelayar , Firefox Health Report merekod masa anda melayari (dalam saat), dan sama ada sesi itu berakhir secara normal atau kerana ranap. Juga disertakan masa permulaan (dalam mili saat) jika ada.
+Untuk setiap sesi pelayar , Firefox Health Report merekod masa anda melayari (dalam saat), dan sama ada sesi itu berakhir secara normal atau kerana ranap. Juga disertakan masa permulaan (dalam milisaat) jika ada.
 
 
 ;Profile Creation:
@@ -718,19 +718,19 @@ Perciptaan Profil:
 
 
 ;The day on which your browser profile was created. Counted in days since January 1st 1970.
-Hari di mana profil pelayar anda diwujudkan. Dikira dalam hari sejak 1hb Januari 1970.
+Tarikh profil pelayar anda dicipta. Dikira dalam bilangan hari bermula 1hb Januari 1970.
 
 
 ;Learn More
-Ketahui lanjut
+Ketahui Selanjutnya
 
 
 ;Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
-Firefox Health Report (FHR) menganalisis maklumat prestasi penyemak imbas anda, bagi menyediakan anda dengan tip-tip yang berguna yang membantu anda mendapat yang terbaik dari Firefox. Untuk maklumat lanjut Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>layari Mozilla seksyen Support</a>
+Firefox Health Report (FHR) menganalisis maklumat prestasi pelayar anda, menyediakan anda dengan panduan berguna yang membantu anda mendapat hasil yang terbaik daripada Firefox. Untuk maklumat lanjut Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>layari bahagian Mozilla Support.</a>
 
 
 ;For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
-Untuk maklumat lanjut tentang cara kami menguruskan data anda, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>lihat polisi privasi kami.</a>
+Untuk maklumat lanjut mengenai cara kami menguruskan data anda, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>layari polisi privasi kami.</a>
 
 
 ;You are currently sharing your health report with Mozilla.
@@ -738,11 +738,11 @@ Anda kini berkongsi laporan kesihatan anda dengan Mozilla.
 
 
 ;Choose what I share
-Pilih bahan perkongsian saya
+Pilih kandungan yang saya kongsi
 
 
 ;You are currently not sharing your health report with Mozilla.
-Anda kini tidak berkongsi laporan kesihatan anda dengan Mozilla.
+Anda kini tidak berkongsi laporan prestasi pelayar anda dengan Mozilla.
 
 
 # This string is displayed when selecting Raw Data near the title
@@ -753,6 +753,6 @@ Firefox Health Report (FHR) records anonymous data about your computer, configur
 # This string is displayed when selecting Raw Data near the title
 # Links to https://gecko.readthedocs.org/en/latest/toolkit/components/telemetry/telemetry/
 ;Read technical documentation for the data format and fields.
-Read technical documentation for the data format and fields.
+Baca dokumentasi teknikal untuk format data dan medan.
 
 
