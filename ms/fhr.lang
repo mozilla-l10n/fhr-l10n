@@ -11,11 +11,11 @@ Data mentah
 
 
 ;Get insights and performance information about your version of Firefox.
-Dapatkan pandangan dan maklumat prestasi mengenai versi Firefox anda.
+Dapatkan maklumat dalaman dan prestasi versi Firefox anda.
 
 
 ;Learn more...
-Ketahui lanjut...
+Ketahui selanjutnya...
 
 
 ;Data Sharing
@@ -27,7 +27,7 @@ ON {ok}
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
-Anda telah memilih untuk berhenti berkongsi data dengan Mozilla, tetapi anda masih akan dapat melihat bagaimana pelayar anda melaksanakan.
+Anda telah memilih untuk berhenti berkongsi data dengan Mozilla, tetapi anda masih akan dapat melihat prestasi pelayar anda.
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
@@ -35,11 +35,11 @@ Data Laporan Kesihatan anda juga akan dibuang dari pelayan-pelayan Mozilla. Keta
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
-Anda telah memilih berkongsi data anda dengan Mozilla dari semasa ke semasa. Terima kasih kerana menjadi sebahagian daripada misi kami untuk membina satu masa depan lebih cerah dalam Jaringan.
+Anda telah memilih untuk berkongsi data anda dengan Mozilla dari semasa ke semasa. Terima kasih kerana menjadi sebahagian daripada misi kami untuk membina satu masa depan lebih cerah dalam Web.
 
 
 ;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
-Belajar bagaimana kita mengendalikan data anda dalam <a href="%(privacy_url)s">dasar privasi.</a>
+Belajar cara kami mengendalikan data anda dalam <a href="%(privacy_url)s">polisi privasi.</a>
 
 
 ;Vital Stats
@@ -51,7 +51,7 @@ versi
 
 
 ;update channel
-Saluran Kemaskini:
+saluran kemas kini
 
 
 ;updates
@@ -73,11 +73,11 @@ masa dibuka
 
 
 ;last crash
-kerosakan lepas
+ranah terakhir
 
 
 ;bookmarks
-Tandabuku
+tanda buku
 
 
 ;This Month
@@ -101,15 +101,15 @@ Plugins (Click-to-Activate)
 
 
 ;crashes
-musnah
+ranap
 
 
 ;application crashes
-aplikasi musnah
+aplikasi ranap
 
 
 ;plugin crashes
-plugin musnah
+plugin ranap
 
 
 ;Add-ons
@@ -117,15 +117,15 @@ Add-ons {ok}
 
 
 ;View List
-Lihat Senarai
+Papar Senarai
 
 
 ;enabled
-dihidupkan
+dayakan
 
 
 ;disabled
-dilumpuhkan
+nyahdayakan
 
 
 ;Plugins
@@ -137,15 +137,15 @@ sentiasa aktif
 
 
 ;ask to activate
-Tanya untuk diaktifkan
+tanya untuk diaktifkan
 
 
 ;never activate
-jangan aktif
+jangan sekali-kali mengaktifkan
 
 
 ;Tips
-Petua
+Tip
 
 
 ;Wear and Tear
@@ -153,11 +153,11 @@ Haus dan lusuh
 
 
 ;It looks like your browser has crashed a number of times recently. To learn more:
-Ia seolah-olah pelayar anda telah rosak beberapa kali baru-baru ini. Untuk belajar lebih:
+Pelayar anda telah ranap beberapa kali baru-baru ini. Untuk ketahui selanjutnya:
 
 
 ;OFF
-PADAM
+OFF {ok}
 
 
 ;Visit our <a href="%(sumo_url)s">support website</a>
@@ -165,7 +165,7 @@ Layari <a href="%(sumo_url)s">laman web sokongan</a>
 
 
 ;View more <a href="%(details_url)s">detailed information</a>
-Lebih lanjut <a href="%(details_url)s">maklumat terperinci</a>
+Papar selanjutnya <a href="%(details_url)s">maklumat terperinci</a>
 
 
 ;pages visited
@@ -173,19 +173,19 @@ Halaman dilawati
 
 
 ;Your browser seems to be running slower than usual. To learn more:
-Pelayar anda nampaknya akan bergerak lebih perlahan daripada biasa. Untuk belajar lebih:
+Pelayar anda bergerak lebih perlahan daripada biasa. Untuk ketahui selanjutnya:
 
 
 ;You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
-Anda akan boleh untuk melihat lebih menarik dan maklumat lanjut informasi penggunaan pelayar web anda. Semak kembali dalam beberapa minggu lagi untuk mula melihat beberapa trend akan datang.
+Anda akan dapat melihat lebih banyak maklumat menarik dan terperinci apabila anda lebih kerap  menggunakan pelayar anda. Semak semula  dalam beberapa minggu lagi untuk melihat aliran akan datang.
 
 
 ;Startup Time by Day
-Dimulakan Masa oleh Hari
+Permulaan Masa mengikut Hari
 
 
 ;Graph:
-Graf
+Graf:
 
 
 ;Average
