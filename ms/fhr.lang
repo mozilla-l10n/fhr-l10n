@@ -313,91 +313,91 @@ Locale sedang digunakan
 
 
 ;Amount of RAM in megabytes
-Jumlah RAM dalam megabytes
+Bilangan RAM dalam megabait
 
 
 ;Currently running Operating System (kernel) name
-Nama Sistem Operasi (kernel) semasa dijalankan
+Nama Sistem Operasi (kernel) yang sedang digunakan
 
 
 ;Currently running Operating System (kernel) version
-Versi Sistem Operasi (kernel) semasa dijalankan
+Versi Sistem Operasi (kernel) yang sedang digunakan
 
 
 ;The build identifier of the Gecko platform code
-Pengenal pasti binaan daripada kod platform Gecko
+Kod platform Gecko binaan pengenal pasti
 
 
 ;The version of the Gecko platform code
-Versi daripada kod platform Gecko
+Versi kod platform Gecko
 
 
 ;Processor architecture
-Arkitektur Prosesor
+Seni bina pemproses
 
 
 ;The date this version was first used with this installation profile
-Tarikh versi ini telah pertama kali digunakan bagi profil instalasi
+Tarikh versi ini pertama kali digunakan bagi profil pemasangan ini
 
 
 ;An application version which has been used with this installation profile
-Sebuah versi aplikasi dimana telah digunakan dengan profil instalasi ini
+Versi aplikasi yang digunakan dengan profil pemasangan ini
 
 
 ;The number of add-ons of this type that existed in the profile on this date
-Nombor addons daripada jenis ini telah berada dalam profil pada tarikh ini
+Nombor add-ons jenis ini yang sudah wujud dalam profil pada tarikh ini
 
 
 ;<var>True</var> if the application automatically disabled the add-on
-<var>True</var> jika aplikasi secara automatik melumpuhkan addon
+<var>True</var> jika aplikasi secara automatik menyahdayakan add-on
 
 
 ;Whether this add-on was installed by the user or automatically by another application
-Sama ada addon ini telah dipasang oleh pengguna atau secara automatik oleh aplikasi yang lain
+Sama ada add-on ini telah dipasang oleh pengguna atau secara automatik oleh aplikasi yang lain
 
 
 ;Whether this add-on has native code.
-Sama ada addon ini mempunyai kod natif.
+Sama ada add-on ini ada kod natif.
 
 
 ;The identifier of this add-on as defined by the add-on developer
-Pengenal pasti daripada addon ini seperti mana dikesan oleh pembangun addon
+Pengenal pasti add-on ini mengikut takrif pembangun add-on
 
 
 ;The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
-Tarikh yang terkini addon ini telah dipasang (informasi yang sebelum mengenai addon dinyah pasang ialah tidak disimpan).
+Tarikh terkini add-on ini dipasang (maklumat sebelum ini mengenai add-on yang dinyahpasang tidak disimpan).
 
 
 ;The number of searches performed with this search engine from this part of the UI
-Nombor daripada carian dijalankan dengan enjin carian ini daripada sebahagian UI
+Bilangan carian yang dilaksanakan enjin carian ini daripada bahagian UI ini
 
 
 ;Whether this add-on was installed in the application directory or profile directory
-Sama ada addon ini telah dipasang dalam direktori aplikasi atau direktori profil
+Sama ada add-on ini telah dipasang dalam direktori aplikasi atau direktori profil
 
 
 ;Whether this add-on is an extension or a plug-in
-Sama ada addon ini adalah ektensi atau sebuah plugin
+Sama ada add-on ini adalah ektensi atau plugin
 
 
 ;The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
-Tarikh yang terkini bagi addon telah dikemaskini (informasi sebelum mengenai addon yang dinyah pasang ialah tidak disimpan).
+Tarikh terkini add-on ini dikemas kini (maklumat sebalum ini mengenai add-on yang dinyahpasang tidak disimpan).
 
 
 ;<var>True</var> if the user manually disabled the add-on
-<var>True</var> jika pengguna secara manual melumpuhkan addon
+<var>True</var> jika pengguna secara manual menyahdayakan add-on
 
 
 ;The current version of this add-on
-Versi semasa daripada addon ini
+Versi semasa daripada add-on ini
 
 
 ;How long in milliseconds it took during startup for the application to render the UI and display the window
-Berapa lama dalam milisaat ia diambil sewaktu permulaan untuk aplikasi bagi render UI dan memaparkan tetingkap
+Tempoh dalam milisaat yang diambil sewaktu permulaan aplikasi merealisasikan UI dan memaparkan tetingkap
 
 
 ;How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
-Berapa lama dalam milisaat ia diambil sewaktu permulaan untuk aplikasi bagi memuatkan libraries dan menghabiskan initialisasi yang mudah
+Tempoh dalam milisaat yang diambil sewaktu permulaan aplikasi memuatkan pustaka dan menyiapkan permulaan asas
 
 
 ;How long in milliseconds it took during startup for the application to restore tabs from the previous session
