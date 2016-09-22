@@ -510,27 +510,27 @@ Metrik Penting
 
 
 ;Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
-Firefox Health Report merekodkan maklumat tentang pelayar dan peranti anda. Anda boleh<a href="#raw" class="navigate">lihat maklumat yang kami catatkan.</a> Anda boleh juga melihat apa yang anda berkongsi dengan Mozilla.
+Firefox Health Report merakamkan maklumat pelayar dan peranti anda. Anda boleh<a href="#raw" class="navigate">papar maklumat yang kami rakam.</a> Anda boleh juga papar maklumat yang anda kongsi dengan Mozilla.
 
 
 ;Device hardware, operating system, Firefox version.
-Perkakas peranti, sistem operasi, versi Firefox.
+Perkakasan peranti, sistem operasi, versi Firefox.
 
 
 ;Extensions, plugins, and number of installed add-ons.
-Ekstensi,plugin dan bilangan addon yang terpasang.
+Ekstensi, plugin dan bilangan add-on yang dipasang.
 
 
 ;Key performance measures, such as launch speed.
-Langkah-langkah petunjuk prestasi, seperti pelancaran kelajuan.
+Petunjuk prestasi mengira, contohnya kelajuan pelancaran.
 
 
 ;Browsing duration, install time, number of bookmarks and pages.
-Tempoh pelayaran, masa pemasangan, bilangan penandabuku dan muka surat.
+Tempoh pelayaran, tempoh pemasangan, bilangan tanda buku dan halaman.
 
 
 ;Home
-Utama
+Halaman utama
 
 
 ;CPU Count:
@@ -538,7 +538,7 @@ Bilangan CPU:
 
 
 ;The number of CPU cores reported by Android.
-Jumlah berteras CPU dilaporkan oleh Android.
+Jumlah teras CPU dilaporkan oleh Android.
 
 
 ;Memory in MB:
@@ -546,7 +546,7 @@ Memori dalam MB:
 
 
 ;The amount of memory reported by Android. Typically excludes graphics memory.
-Jumlah ingatan dilaporkan oleh Android. Lazimnya mengecualikan ingatan grafik.
+Jumlah memori yang dilaporkan oleh Android. Lazimnya mengecualikan memori grafik.
 
 
 ;Application Name:
@@ -570,7 +570,7 @@ Versi Aplikasi:
 
 
 ;The current version of the browser
-Versi terbaru pelayar
+Versi semasa pelayar
 
 
 ;Application Build ID:
@@ -578,15 +578,15 @@ ID Binaan Aplikasi:
 
 
 ;The internal build timestamp.
-Pembinaan dalaman cop masa.
+Cap masa binaan dalaman.
 
 
 ;Update Channel:
-Saluran Kemaskini:
+Saluran Kemas kini:
 
 
 ;Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
-Firefox diedarkan melalui saluran; Pembinaan nightly , saluran pra-keluaran Aurora , Beta yang stabil , dan keluaran awam. Ruangan ini mengenalpasti saluran.
+Firefox diedarkan melalui saluran; binaan Nightly , saluran pra-keluaran Aurora, Beta yang stabil, dan keluaran amum. Medan ini mengenal pasti saluran.
 
 
 ;Vendor:
@@ -594,7 +594,7 @@ Pembekal:
 
 
 ;The organization that built this application. Typically Mozilla.
-Organisasi yang membina permohonan ini. Lazimnya Mozilla.
+Organisasi yang membina aplikasi ini. Lazimnya Mozilla.
 
 
 ;Platform Version:
@@ -602,7 +602,7 @@ Versi Platform:
 
 
 ;An internal version identifier. Typically the same as appVersion.
-Pengenalpasti versi dalaman. Biasanya sama seperti appVersion.
+Pengenal pasti versi dalaman. Lazimnya sama seperti appVersion.
 
 
 ;Platform Build ID:
@@ -610,7 +610,7 @@ ID Binaan Platform:
 
 
 ;On Android this is an alternative name for appBuildID.
-Pada Android ini merupakan nama alternatif bagi appBuildID.
+On Android ialah nama alternatif bagi appBuildID.
 
 
 ;xpcomabi:
