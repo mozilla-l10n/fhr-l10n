@@ -31,7 +31,7 @@ Anda telah memilih untuk berhenti berkongsi data dengan Mozilla, tetapi anda mas
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
-Data Laporan Kesihatan anda juga akan dibuang dari pelayan-pelayan Mozilla. Ketahui lebih lanjut dalam <a href="%(privacy_url)s">dasar privasi.</a>
+Data Health Report anda juga akan dialih keluar dari pelayan Mozilla. Ketahui selanjutnya dalam <a href="%(privacy_url)s">dasar privasi.</a>
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
@@ -209,7 +209,7 @@ Glosari
 
 
 ;What the Firefox Health Report Measures
-Apa yang diukur oleh Firefox Health Report
+Ciri yang diukur oleh Firefox Health Report
 
 
 ;The Firefox Health Report (FHR) has 4 categories of metrics:
@@ -734,7 +734,7 @@ Untuk maklumat lanjut mengenai cara kami menguruskan data anda, <a href="https:/
 
 
 ;You are currently sharing your health report with Mozilla.
-Anda kini berkongsi laporan kesihatan anda dengan Mozilla.
+Anda kini berkongsi laporan keupayaan pelayar anda dengan Mozilla.
 
 
 ;Choose what I share
@@ -742,12 +742,12 @@ Pilih kandungan yang saya kongsi
 
 
 ;You are currently not sharing your health report with Mozilla.
-Anda kini tidak berkongsi laporan prestasi pelayar anda dengan Mozilla.
+Anda kini tidak berkongsi laporan keupayaan pelayar anda dengan Mozilla.
 
 
 # This string is displayed when selecting Raw Data near the title
 ;Firefox Health Report (FHR) records anonymous data about your computer, configuration, usage, performance, and error conditions. This data helps us improve Firefox for you and for other Firefox users.
-Firefox Health Report (FHR) records anonymous data about your computer, configuration, usage, performance, and error conditions. This data helps us improve Firefox for you and for other Firefox users.
+Firefox Health Report (FHR) merekod data anonimus komputer, konfigurasi, penggunaan, prestasi dan keadaan ralat anda. Data ini membantu kami memperbaiki Firefox untuk anda dan pengguna Firefox lain.
 
 
 # This string is displayed when selecting Raw Data near the title
