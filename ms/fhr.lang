@@ -437,31 +437,31 @@ Bilangan ranap yang dirakam tapi belum lagi dihantar
 
 
 ;Total number of crashes that have been submitted
-Jumlah nombor daripada kerosakan dimana telah dihantarkan
+Bilangan ranap yang telah dihantar
 
 
 ;Time in seconds the app has not been idle
-Masa dalam saat applikasi tidak dalam waktu melahu atau idle
+Tempoh dalam saat aplikasi ini tidak melahu
 
 
 ;Time in seconds since the app was last started
-Masa dalam saat sejak aplikasi telah dimulakan
+Tempoh dalam saat bermula tarikh terakhir aplikasi ini dilaksanakan
 
 
 ;Total number of bookmarks
-Jumlah bilangan penandabuku
+Bilangan tanda buku
 
 
 ;Total number of pages listed in the history
-Jumlah keseluruhan halaman menyenaraikan dalam sejarah
+Bilangan halaman yang disenaraikan dalam sejarah
 
 
 ;How long in minutes the current session has been running
-Berapa lama dalam minit sesi semasa telah dijalankan
+Tempoh dalam minit sesi semasa ini dilaksanakan
 
 
 ;Welcome to your Firefox Health Report
-Selamat Datang Laporan Kesihatan Firefox anda
+Selamat Datang Ke Firefox Health Report anda
 
 
 ;Welcome!
@@ -469,11 +469,11 @@ Selamat datang!
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
-Laporan Kesihatan Firefox membenarkan anda mengetahui bagaimana Firefox anda dilancarkan dan apa yang anda dapat menambahbaik lagi.
+Firefox Health Report membolehkan anda mengetahui prestasi Firefox anda dan sumbangan yang anda boleh lakukan untuk memperbaikinya.
 
 
 ;See My Report
-Lihat Laporan Saya
+Papar Laporan Saya
 
 
 ;Time (in seconds)
@@ -481,7 +481,7 @@ Masa (dalam saat)
 
 
 ;Show Statistics
-Pamer Statistik
+Papar Statistik
 
 
 ;Privacy Policy
@@ -490,11 +490,11 @@ Polisi Privasi
 
 # The following strings are used only in the Mobile version of about:healthreport (Firefox for Android)
 ;Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
-Firefox Health Report membiarkan anda mengoptimumkan Firefox anda dan membantu kami membina satu pelayar yang lebih cemerlang. Laporan adalah agak asas pada mulanya, tetapi akan meneruskan untuk berevolusi dan berkembang.
+Firefox Health Report membolehkan anda mengoptimum Firefox anda dan membantu kami membina pelayar yang lebih baik. Laporan ini agak asas pada mulanya, tetapi akan terus berevolusi dan berkembang.
 
 
 ;Learn More&hellip;
-Ketahui lanjut&hellip;
+Ketahui selanjutnya &hellip;
 
 
 ;Tip
@@ -502,7 +502,7 @@ Tip {ok}
 
 
 ;Looks like your Firefox is brand new! Check back after using Firefox for a while.
-Seolah-olah Firefox anda baru! Semak kembali selepas menggunakan Firefox untuk seketika.
+Firefox anda kelihatan diperbaharui! Semak semula selepas anda menggunakan Firefox untuk beberapa ketika.
 
 
 ;Important Metrics
