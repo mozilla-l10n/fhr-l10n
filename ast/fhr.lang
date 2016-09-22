@@ -11,7 +11,7 @@ Datos en bruto
 
 
 ;Get insights and performance information about your version of Firefox.
-Obtén indicaciones ya información sobre'l rendimientu de la to versión de Firefox.
+Consigui indicaciones ya información tocante al rindimientu de la to versión de Firefox.
 
 
 ;Learn more...
@@ -27,19 +27,19 @@ ACTIVAR
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
-Escoyisti dexar de compartir información con Mozilla, pero pues siguir viendo'l rendimientu del to navegador.
+Escoyesti dexar de compartir datos con Mozilla, pero entá sedrás a ver cómo ta rindiendo'l to restolador.
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
-La información sobre los informes de salú tamién va desaniciase de los sirvidores de Mozilla. Conoz más lleendo les <a href="%(privacy_url)s">polítiques de privacidá.</a>
+El to informe de salú tamién se desaniciará de los sirvidores de Mozilla. Depriendi más na nuesa <a href="%(privacy_url)s">política de privacidá.</a>
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
-Escoyisti compartir dacuando los tos datos con Mozilla. Gracies por ser parte de la nuesa misión y ayudanos a crear un futuru meyor pa la Web.
+Escoyesti compartir dacuando los tos datos con Mozilla. Gracies por ser parte de la nuesa misión pa construyir un futuru meyor pa la Web.
 
 
 ;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
-Conoz cómo xestionamos la to información na nuesa <a href="%(privacy_url)s">política de privacidá.</a>
+Depriendi cómo remanamos los tos datos na nuesa <a href="%(privacy_url)s">política de privacidá.</a>
 
 
 ;Vital Stats
@@ -60,12 +60,12 @@ anovamientos
 
 # Possible value for "updates"
 ;automatic
-automatic
+automátiques
 
 
 # Possible value for "updates"
 ;prompt
-prompt
+suxerir
 
 
 ;time open
@@ -73,7 +73,7 @@ tiempu abiertu
 
 
 ;last crash
-últimu cuelgue
+casque caberu
 
 
 ;bookmarks
@@ -85,31 +85,31 @@ Esti mes
 
 
 ;total sessions
-total sessions
+sesiones totales
 
 
 ;Active Add-ons
-Active Add-ons
+Add-ons activos
 
 
 ;Extensions
-Extensions
+Estensiones
 
 
 ;Plugins (Click-to-Activate)
-Plugins (Click-to-Activate)
+Complementos (Primir p'activar)
 
 
 ;crashes
-cuelgues
+casques
 
 
 ;application crashes
-application crashes
+casques d'aplicación
 
 
 ;plugin crashes
-plugin crashes
+casques de complementos
 
 
 ;Add-ons
@@ -117,7 +117,7 @@ Complementos
 
 
 ;View List
-Ver llista
+Ver llistáu
 
 
 ;enabled
@@ -129,11 +129,11 @@ deshabilitáu
 
 
 ;Plugins
-Plugins {ok}
+Complementos
 
 
 ;always activate
-activar siempre
+activar siempres
 
 
 ;ask to activate
@@ -141,7 +141,7 @@ entrugar p'activar
 
 
 ;never activate
-nun activar nunca
+enxamás nun activar
 
 
 ;Tips
@@ -153,7 +153,7 @@ Desgaste
 
 
 ;It looks like your browser has crashed a number of times recently. To learn more:
-Paez qu'el to navegador colgóse delles vegaes apocayá. Si quies tener más información:
+Paez qu'apocayá'l to restolador cascó un númberu de vegaes. Pa deprender más:
 
 
 ;OFF
@@ -161,11 +161,11 @@ DESACTIVAR
 
 
 ;Visit our <a href="%(sumo_url)s">support website</a>
-Visita'l nuesu <a href="%(sumo_url)s">centru d'ayuda</a>
+Visita'l nuesu <a href="%(sumo_url)s">sitiu web de sofitu</a>
 
 
 ;View more <a href="%(details_url)s">detailed information</a>
-Lleer más <a href="%(details_url)s">información detallada</a>
+Mira más <a href="%(details_url)s">información detallada</a>
 
 
 ;pages visited
@@ -173,11 +173,11 @@ páxines visitaes
 
 
 ;Your browser seems to be running slower than usual. To learn more:
-Paez qu'el to navegador ta diendo más lento de lo habitual. Si quies tener más información:
+Paez que'l to restolador ta executándose más lentu de los normal. Pa deprender más:
 
 
 ;You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
-Vas poder ver información más detallada ya interesante a midida que uses el navegador. Nun par de selmanes vuelvi comprobalo pa entamar a ver dalgunes tendencies.
+Sedrás a ver más información interesante y detallada cuanto más uses el to restolador. Volvi nunes selmanes pa entamar a ver delles tendencies.
 
 
 ;Startup Time by Day
@@ -193,7 +193,7 @@ Promediu
 
 
 ;All
-Toos
+Too
 
 
 ;Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
