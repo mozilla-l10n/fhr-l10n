@@ -39,7 +39,7 @@ Anda telah memilih untuk berkongsi data anda dengan Mozilla dari semasa ke semas
 
 
 ;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
-Belajar cara kami mengendalikan data anda dalam <a href="%(privacy_url)s">polisi privasi.</a>
+Ketahui cara kami mengendalikan data anda dalam <a href="%(privacy_url)s">polisi privasi.</a>
 
 
 ;Vital Stats
@@ -237,7 +237,7 @@ Prestasi
 
 
 ;Timing of browser events, rendering, session restores
-Pemasaanperistiwa pelayar, rendering, sesi dikembalikan semula
+Pemasaan peristiwa pelayar, rendering, sesi dikembalikan semula
 
 
 ;Length of session, how old a profile is, count of crashes, count of pages
@@ -389,7 +389,7 @@ Tarikh terkini add-on ini dikemas kini (maklumat sebalum ini mengenai add-on yan
 
 
 ;The current version of this add-on
-Versi semasa daripada add-on ini
+Versi semasa add-on ini
 
 
 ;How long in milliseconds it took during startup for the application to render the UI and display the window
@@ -401,39 +401,39 @@ Tempoh dalam milisaat yang diambil sewaktu permulaan aplikasi memuatkan pustaka 
 
 
 ;How long in milliseconds it took during startup for the application to restore tabs from the previous session
-Berapa lama dalam milisaat ia diambil sewaktu permulaan untuk aplikasi bagi memulihkan tab daripada sesi sebelum ia
+Tempoh dalam milisaat yang diambil sewaktu permulaan aplikasi mengembalikan semula tab daripada sesi sebelum ini
 
 
 ;The number of times the application was run and not cleanly shut down.
-Nombor daripada berapa kali aplikasi ini dijalankan dan tidak sempurna sewaktu penutupan.
+Bilangan aplikasi ini dilaksanakan dan tidak ditutup dengan sempurna.
 
 
 ;The time in seconds that the aborted sessions were not idle
-Masa dalam saat dimana sesi dihentikan tidak melahu atau idle
+Tempoh dalam saat sesi yang dihentikan ketika tidak melahu
 
 
 ;The time in seconds that the aborted sessions were running
-Masa dalam saat dimana sesi dihentikan sewaktu dijalankan
+Tempoh dalam saat sesi dihentikan ketika sedang dilaksanakan
 
 
 ;The number of days since this application profile directory was created
-Nombor dalam hari sejak direktori profil aplikasi ini dicipta
+Bilangan hari bermula tarikh direktori profil aplikasi ini dicipta
 
 
 ;The number of times the application was run and cleanly shut down.
-Nombor daripada berapa kali aplikasi dijalankan dan ditutup dengan sempurna.
+Bilangan aplikasi ini dilaksanakan dan ditutup dengan sempurna.
 
 
 ;The time in seconds that the completed sessions were not idle
-Masa dalam saat dimana sesi yang lengkap telah tidak melahu atau idle
+Tempoh dalam saat sesi ini lengkap tanpa melahu
 
 
 ;The time in seconds that the completed sessions were running
-Masa dalam saat dimana sesi lengkap telah dijalankan
+Tempoh dalam saat sesi ini lengkap sewaktu dilaksanakan
 
 
 ;Total number of crashes that were recorded but not yet submitted
-Jumlah nombor daripada kerosakan dimana telah direkod tapi belum lagi dihantar
+Bilangan ranap yang dirakam tapi belum lagi dihantar
 
 
 ;Total number of crashes that have been submitted
