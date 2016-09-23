@@ -161,7 +161,7 @@ Desligada
 
 
 ;Visit our <a href="%(sumo_url)s">support website</a>
-Visite o nosso <a href="%(sumo_url)s">sítio web de ajuda</a>
+Visite o nosso <a href="%(sumo_url)s">website de ajuda</a>
 
 
 ;View more <a href="%(details_url)s">detailed information</a>
@@ -173,11 +173,11 @@ páginas visitadas
 
 
 ;Your browser seems to be running slower than usual. To learn more:
-O seu navegador parece estar a funcionar mais lentamente do que é normal. Para saber mais:
+O seu navegador parece estar a funcionar mais lentamente do que é usual. Para saber mais:
 
 
 ;You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
-Poderá aceder a mais e melhor informação quanto mais uso der ao seu navegador. Regresse daqui a uns dias, para começar a ver padrões de uso.
+Poderá aceder a mais e melhor informação quanto mais uso der ao seu navegador. Verifique daqui a umas semanas para começar a ver algumas tendências.
 
 
 ;Startup Time by Day
