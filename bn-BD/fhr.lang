@@ -58,10 +58,12 @@ ON {ok}
 আপডেট সমূহ
 
 
+# Possible value for "updates"
 ;automatic
 স্বয়ংক্রিয়
 
 
+# Possible value for "updates"
 ;prompt
 প্রম্পট
 
