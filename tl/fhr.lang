@@ -23,7 +23,7 @@ Data Sharing
 
 
 ;ON
-ON
+ON {ok}
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
@@ -47,7 +47,7 @@ Vital Stats
 
 
 ;version
-version
+bersyon
 
 
 ;update channel
@@ -93,7 +93,7 @@ Active Add-ons
 
 
 ;Extensions
-Extensions
+Extensions {ok}
 
 
 ;Plugins (Click-to-Activate)
@@ -113,7 +113,7 @@ plugin crashes
 
 
 ;Add-ons
-Add-ons
+Mga Add-on
 
 
 ;View List
@@ -157,7 +157,7 @@ It looks like your browser has crashed a number of times recently. To learn more
 
 
 ;OFF
-OFF
+OFF {ok}
 
 
 ;Visit our <a href="%(sumo_url)s">support website</a>
@@ -205,7 +205,7 @@ Data Collected
 
 
 ;Glossary
-Glossary
+Talasalitaan
 
 
 ;What the Firefox Health Report Measures
@@ -297,7 +297,7 @@ The name of the company/provider who built this version
 
 
 ;The current version of the product
-The current version of the product
+Ang kasalukyang bersyon ng produktong ito
 
 
 ;Number of processor cores
