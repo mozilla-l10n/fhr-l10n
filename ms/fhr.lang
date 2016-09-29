@@ -3,7 +3,7 @@
 
 
 ;Firefox Health Report
-Firefox Health Report {ok}
+Laporan Sistem Firefox
 
 
 ;Raw Data
@@ -31,7 +31,7 @@ Anda telah memilih untuk berhenti berkongsi data dengan Mozilla, tetapi anda mas
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
-Data Health Report anda juga akan dialih keluar dari pelayan Mozilla. Ketahui selanjutnya dalam <a href="%(privacy_url)s">dasar privasi.</a>
+Data Laporan Sistem anda juga akan dialih keluar dari pelayan Mozilla. Ketahui selanjutnya dalam <a href="%(privacy_url)s">dasar privasi.</a>
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
@@ -209,11 +209,11 @@ Glosari
 
 
 ;What the Firefox Health Report Measures
-Ciri yang diukur oleh Firefox Health Report
+Ciri yang diukur oleh Laporan Sistem Firefox
 
 
 ;The Firefox Health Report (FHR) has 4 categories of metrics:
-Firefox Health Report (FHR) ada 4 kategori metrik:
+Laporan Sistem Firefox (FHR) ada 4 kategori metrik:
 
 
 ;Configuration
@@ -461,7 +461,7 @@ Tempoh dalam minit sesi semasa ini dilaksanakan
 
 
 ;Welcome to your Firefox Health Report
-Selamat Datang Ke Firefox Health Report anda
+Selamat datang ke Laporan Sistem Firefox anda
 
 
 ;Welcome!
@@ -469,7 +469,7 @@ Selamat datang!
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
-Firefox Health Report membolehkan anda mengetahui prestasi Firefox anda dan sumbangan yang anda boleh lakukan untuk memperbaikinya.
+Laporan Sistem Firefox membolehkan anda mengetahui prestasi Firefox anda dan sumbangan yang anda boleh lakukan untuk memperbaikinya.
 
 
 ;See My Report
@@ -490,7 +490,7 @@ Polisi Privasi
 
 # The following strings are used only in the Mobile version of about:healthreport (Firefox for Android)
 ;Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
-Firefox Health Report membolehkan anda mengoptimum Firefox anda dan membantu kami membina pelayar yang lebih baik. Laporan ini agak asas pada mulanya, tetapi akan terus berevolusi dan berkembang.
+Laporan Sistem Firefox membolehkan anda mengoptimum Firefox anda dan membantu kami membina pelayar yang lebih baik. Laporan ini agak asas pada mulanya, tetapi akan terus berevolusi dan berkembang.
 
 
 ;Learn More&hellip;
@@ -510,7 +510,7 @@ Metrik Penting
 
 
 ;Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
-Firefox Health Report merakamkan maklumat pelayar dan peranti anda. Anda boleh<a href="#raw" class="navigate">papar maklumat yang kami rakam.</a> Anda boleh juga papar maklumat yang anda kongsi dengan Mozilla.
+Laporan Sistem Firefox merakam maklumat pelayar dan peranti anda. Anda boleh<a href="#raw" class="navigate">papar maklumat yang kami rakam.</a> Anda boleh juga papar maklumat yang anda kongsi dengan Mozilla.
 
 
 ;Device hardware, operating system, Firefox version.
@@ -710,7 +710,7 @@ Sesi dan Waktu Permulaan
 
 
 ;For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
-Untuk setiap sesi pelayar , Firefox Health Report merekod masa anda melayari (dalam saat), dan sama ada sesi itu berakhir secara normal atau kerana ranap. Juga disertakan masa permulaan (dalam milisaat) jika ada.
+Untuk setiap sesi pelayaran Laporan Sistem Firefox merakam masa anda melayar (dalam saat), dan sama ada sesi itu berakhir secara normal atau kerana ranap. Juga disertakan masa permulaan (dalam milisaat) jika ada.
 
 
 ;Profile Creation:
