@@ -51,11 +51,11 @@ versi
 
 
 ;update channel
-saluran kemas kini
+saluran kemaskini
 
 
 ;updates
-kemas kini
+kemaskini
 
 
 # Possible value for "updates"
@@ -289,7 +289,7 @@ Nama konfigurasi aplikasi (Firefox/Aurora/Nightly sebagai contoh)
 
 
 ;The channel this installation checks for application updates (nightly/aurora/beta/release)
-Saluran bagi instalasi ini disemak untuk kemaskini aplikasi (nightly/aurora/beta/stabil)
+Saluran bagi pemasangan ini disemak untuk kemaskini aplikasi (nightly/aurora/beta/stabil)
 
 
 ;The name of the company/provider who built this version
@@ -381,7 +381,7 @@ Sama ada add-on ini adalah ektensi atau plugin
 
 
 ;The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
-Tarikh terkini add-on ini dikemas kini (maklumat sebalum ini mengenai add-on yang dinyahpasang tidak disimpan).
+Tarikh terkini add-on ini dikemaskini (maklumat sebelum ini mengenai add-on yang dinyahpasang tidak disimpan).
 
 
 ;<var>True</var> if the user manually disabled the add-on
@@ -582,7 +582,7 @@ Cap masa binaan dalaman.
 
 
 ;Update Channel:
-Saluran Kemas kini:
+Saluran Kemaskini:
 
 
 ;Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
