@@ -27,7 +27,7 @@ Ligado
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
-Você decidiu parar de compartilhar seus dados com a Mozilla, mas você ainda será capaz de verificar o desempenho do seu navegador.
+Você escolheu parar o compartilhamento de dados com a Mozilla, mas ainda poderá consultar a perfomance do seu navegador.
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
@@ -35,11 +35,11 @@ Os dados do relatório de integridade também serão removidos dos servidores da
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
-Você decidiu compartilhar seus dados com a Mozilla de tempos em tempos. Obrigado por fazer parte da nossa missão de construir um futuro mais brilhante para a Web.
+Você escolheu compartilhar seus dados com a Mozilla de tempos em tempos. Obrigado por fazer parte da nossa missão parar construir um futuro mais brilhante para a Web.
 
 
 ;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
-Saiba como nós lidamos com seus dados em nossa <a href="%(privacy_url)s">política de privacidade.</a>
+Saiba como manejamos seus dados na nossa <a href="%(privacy_url)s">política de privacidade.</a>
 
 
 ;Vital Stats
