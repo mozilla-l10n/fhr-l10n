@@ -277,7 +277,7 @@ Version of the distribution, taken from the <var>distribution.version</var> pref
 
 
 ;The version number of any Mozilla hotfix applied to the application
-The version number of any Mozilla hotfix applied to the application
+Ang numero ng bersyon ng anumang Mozilla hotfix inilapat sa application
 
 
 ;Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
@@ -301,7 +301,7 @@ Ang kasalukyang bersyon ng produktong ito
 
 
 ;Number of processor cores
-Number of processor cores
+Bilang ng mga processor cores
 
 
 ;Whether the application is currently configured to be the default browser for the operating system
@@ -309,7 +309,7 @@ Whether the application is currently configured to be the default browser for th
 
 
 ;Locale currently being used
-Locale currently being used
+Locale na kasalukuyang ginagamit
 
 
 ;Amount of RAM in megabytes
