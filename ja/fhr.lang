@@ -333,7 +333,7 @@ Gecko プラットフォームコードのバージョン
 
 
 ;Processor architecture
-プロセッサのアーキテクチャ
+プロセッサーのアーキテクチャ
 
 
 ;The date this version was first used with this installation profile
@@ -546,7 +546,7 @@ Android によって報告された CPU コア数。
 
 
 ;The amount of memory reported by Android. Typically excludes graphics memory.
-Android によって報告されたメモリ容量。通常はグラフィックスメモリを除いたものです。
+Android によって報告されたメモリ容量。通常はグラフィックスメモリーを除いたものです。
 
 
 ;Application Name:
@@ -658,7 +658,7 @@ Firefox が、悪質なアドオンからシステムを保護するためアド
 
 
 ;Telemetry Enabled:
-テレメトリーの有効設定:
+Telemetry の有効設定:
 
 
 ;Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
@@ -702,7 +702,7 @@ Firefox が、開発に役立てるため詳細な仕様データを報告して
 
 
 ;A count of how many searches you issued to each of Mozilla's partner providers.
-Mozilla のパートナープロバイダを通じて実行された検索の回数。
+Mozilla のパートナープロバイダーを通じて実行された検索の回数。
 
 
 ;Sessions and Startup Times
@@ -718,7 +718,7 @@ Mozilla のパートナープロバイダを通じて実行された検索の回
 
 
 ;The day on which your browser profile was created. Counted in days since January 1st 1970.
-あなたのブラウザープロフィールが作成された日。1970 年 1 月 1 日からの日数です。
+あなたのブラウザープロファイルが作成された日。1970 年 1 月 1 日からの日数です。
 
 
 ;Learn More
@@ -753,6 +753,6 @@ Firefox ヘルスレポート (FHR) は、パフォーマンス、ハードウ�
 # This string is displayed when selecting Raw Data near the title
 # Links to https://gecko.readthedocs.org/en/latest/toolkit/components/telemetry/telemetry/
 ;Read technical documentation for the data format and fields.
-データフォーマットと属性に関しては技術文書をご覧ください。
+データ形式と属性に関しては技術文書をご覧ください。
 
 
