@@ -31,7 +31,7 @@ Firefox ヘルスレポート
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
-あなたのヘルスレポートデータは Mozilla のサーバからも消去されます。詳しくは <a href="%(privacy_url)s">プライバシーポリシー</a> をご覧ください。
+あなたのヘルスレポートデータは Mozilla のサーバーからも消去されます。詳しくは <a href="%(privacy_url)s">プライバシーポリシー</a> をご覧ください。
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
