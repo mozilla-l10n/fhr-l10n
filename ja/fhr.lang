@@ -27,7 +27,7 @@ Firefox ヘルスレポート
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
-あなたは Mozilla にデータを送信しないことを選択しましたが、今後もお使いのブラウザのパフォーマンスは確認できます。
+あなたは Mozilla にデータを送信しないことを選択しましたが、今後もお使いのブラウザーのパフォーマンスは確認できます。
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
@@ -153,7 +153,7 @@ Firefox ヘルスレポート
 
 
 ;It looks like your browser has crashed a number of times recently. To learn more:
-あなたのブラウザは最近頻繁にクラッシュしているようです。詳しくはこちら:
+あなたのブラウザーは最近頻繁にクラッシュしているようです。詳しくはこちら:
 
 
 ;OFF
@@ -173,11 +173,11 @@ Mozilla の <a href="%(sumo_url)s">サポートサイト</a> を訪れる
 
 
 ;Your browser seems to be running slower than usual. To learn more:
-あなたのブラウザは通常よりも動作が遅くなっているようです。詳しくはこちら:
+あなたのブラウザーは通常よりも動作が遅くなっているようです。詳しくはこちら:
 
 
 ;You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
-あなたがブラウザを使えば使うほど、より興味深く詳細な情報を見られるようになります。データを表示可能になるまで数週間かかりますので、後日また見に来てください。
+あなたがブラウザーを使えば使うほど、より興味深く詳細な情報を見られるようになります。データを表示可能になるまで数週間かかりますので、後日また見に来てください。
 
 
 ;Startup Time by Day
@@ -237,7 +237,7 @@ Firefox ヘルスレポート (FHR) には 4 つの解析区分があります�
 
 
 ;Timing of browser events, rendering, session restores
-ブラウザのイベント、描画、セッション復元のタイミング
+ブラウザーのイベント、描画、セッション復元のタイミング
 
 
 ;Length of session, how old a profile is, count of crashes, count of pages
@@ -305,7 +305,7 @@ XPCOM のバイナリインタフェース
 
 
 ;Whether the application is currently configured to be the default browser for the operating system
-アプリケーションが OS の既定のブラウザに設定されているかどうか
+アプリケーションが OS の既定のブラウザーに設定されているかどうか
 
 
 ;Locale currently being used
@@ -490,7 +490,7 @@ Firefox ヘルスレポートでは、あなたがお使いの Firefox のパフ
 
 # The following strings are used only in the Mobile version of about:healthreport (Firefox for Android)
 ;Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
-Firefox ヘルスレポートは、あなたがお使いの Firefox を最適化するとともに、Mozilla がブラウザを改善するための手がかりとなります。レポートは最初のうちはごく基本的な内容ですが、徐々に進化し充実していきます。
+Firefox ヘルスレポートは、あなたがお使いの Firefox を最適化するとともに、Mozilla がブラウザーを改善するための手がかりとなります。レポートは最初のうちはごく基本的な内容ですが、徐々に進化し充実していきます。
 
 
 ;Learn More&hellip;
@@ -510,7 +510,7 @@ Firefox ヘルスレポートは、あなたがお使いの Firefox を最適化
 
 
 ;Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
-Firefox ヘルスレポートは、お使いのブラウザと端末に関する情報を記録します。<a href="#raw" class="navigate">Mozilla が記録する情報</a> や、あなたが Mozilla へ送信している情報を確認できます。
+Firefox ヘルスレポートは、お使いのブラウザーと端末に関する情報を記録します。<a href="#raw" class="navigate">Mozilla が記録する情報</a> や、あなたが Mozilla へ送信している情報を確認できます。
 
 
 ;Device hardware, operating system, Firefox version.
@@ -526,7 +526,7 @@ Firefox ヘルスレポートは、お使いのブラウザと端末に関する
 
 
 ;Browsing duration, install time, number of bookmarks and pages.
-ブラウザを起動してからの時間、インストール日時、ブックマークと履歴のページ数。
+ブラウザーを起動してからの時間、インストール日時、ブックマークと履歴のページ数。
 
 
 ;Home
@@ -554,7 +554,7 @@ Android によって報告されたメモリ容量。通常はグラフィック
 
 
 ;The internal application name for the browser.
-ブラウザの内部アプリケーション名。
+ブラウザーの内部アプリケーション名。
 
 
 ;Application ID:
@@ -570,7 +570,7 @@ Android によって報告されたメモリ容量。通常はグラフィック
 
 
 ;The current version of the browser
-現在使用中のブラウザのバージョン。
+現在使用中のブラウザーのバージョン。
 
 
 ;Application Build ID:
@@ -718,7 +718,7 @@ Mozilla のパートナープロバイダを通じて実行された検索の回
 
 
 ;The day on which your browser profile was created. Counted in days since January 1st 1970.
-あなたのブラウザプロファイルが作成された日。1970 年 1 月 1 日からの日数です。
+あなたのブラウザープロフィールが作成された日。1970 年 1 月 1 日からの日数です。
 
 
 ;Learn More
@@ -726,7 +726,7 @@ Mozilla のパートナープロバイダを通じて実行された検索の回
 
 
 ;Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
-Firefox ヘルスレポート (FHR) は、お使いのブラウザのパフォーマンス情報を分析し、あなたが Firefox 上で最高のユーザ体験を得られるように役立つヒントを提供します。Firefox ヘルスレポートに関する詳細は <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>Mozilla サポートの記事</a> をご覧ください。
+Firefox ヘルスレポート (FHR) は、お使いのブラウザーのパフォーマンス情報を分析し、あなたが Firefox 上で最高のユーザ体験を得られるように役立つヒントを提供します。Firefox ヘルスレポートに関する詳細は <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>Mozilla サポートの記事</a> をご覧ください。
 
 
 ;For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
