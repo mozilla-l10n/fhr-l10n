@@ -353,7 +353,7 @@ Gecko プラットフォームコードのバージョン
 
 
 ;Whether this add-on was installed by the user or automatically by another application
-このアドオンがユーザによってインストールされたか、他のアプリケーションによって自動的にインストールされたか
+このアドオンがユーザーによってインストールされたか、他のアプリケーションによって自動的にインストールされたか
 
 
 ;Whether this add-on has native code.
@@ -369,7 +369,7 @@ Gecko プラットフォームコードのバージョン
 
 
 ;The number of searches performed with this search engine from this part of the UI
-ユーザインタフェースのこの部分からこの検索エンジンで実行された検索の回数
+ユーザーインタフェースのこの部分からこの検索エンジンで実行された検索の回数
 
 
 ;Whether this add-on was installed in the application directory or profile directory
@@ -385,7 +385,7 @@ Gecko プラットフォームコードのバージョン
 
 
 ;<var>True</var> if the user manually disabled the add-on
-ユーザが自分自身でアドオンを無効化した場合は <var>True</var>
+ユーザーが自分自身でアドオンを無効化した場合は <var>True</var>
 
 
 ;The current version of this add-on
@@ -393,7 +393,7 @@ Gecko プラットフォームコードのバージョン
 
 
 ;How long in milliseconds it took during startup for the application to render the UI and display the window
-アプリケーション起動時に、ユーザインタフェースの描画とウィンドウの表示にかかった時間 (ミリ秒)
+アプリケーション起動時に、ユーザーインタフェースの描画とウィンドウの表示にかかった時間 (ミリ秒)
 
 
 ;How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
@@ -726,7 +726,7 @@ Mozilla のパートナープロバイダを通じて実行された検索の回
 
 
 ;Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
-Firefox ヘルスレポート (FHR) は、お使いのブラウザーのパフォーマンス情報を分析し、あなたが Firefox 上で最高のユーザ体験を得られるように役立つヒントを提供します。Firefox ヘルスレポートに関する詳細は <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>Mozilla サポートの記事</a> をご覧ください。
+Firefox ヘルスレポート (FHR) は、お使いのブラウザーのパフォーマンス情報を分析し、あなたが Firefox 上で最高のユーザー体験を得られるように役立つヒントを提供します。Firefox ヘルスレポートに関する詳細は <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>Mozilla サポートの記事</a> をご覧ください。
 
 
 ;For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
