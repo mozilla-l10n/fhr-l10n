@@ -51,21 +51,21 @@
 
 
 ;update channel
-update channel
+চ্যানেল আপডেট করুন
 
 
 ;updates
-updates
+আপডেটসমূহ
 
 
 # Possible value for "updates"
 ;automatic
-automatic
+স্বয়ংক্রিয়
 
 
 # Possible value for "updates"
 ;prompt
-prompt
+অনুরোধবার্তা
 
 
 ;time open
@@ -85,19 +85,19 @@ prompt
 
 
 ;total sessions
-total sessions
+সমস্ত সেশনগুলি
 
 
 ;Active Add-ons
-Active Add-ons
+সক্রিয় অ্যাড-অন গুলি
 
 
 ;Extensions
-Extensions
+এক্সটেনশনগুলি
 
 
 ;Plugins (Click-to-Activate)
-Plugins (Click-to-Activate)
+প্লাগ-ইনগুলি (চালু করতে ক্লিক করুন)
 
 
 ;crashes
@@ -747,12 +747,12 @@ Firefox Health Report (FHR) আপনার ব্রাউজারের প�
 
 # This string is displayed when selecting Raw Data near the title
 ;Firefox Health Report (FHR) records anonymous data about your computer, configuration, usage, performance, and error conditions. This data helps us improve Firefox for you and for other Firefox users.
-Firefox Health Report (FHR) records anonymous data about your computer, configuration, usage, performance, and error conditions. This data helps us improve Firefox for you and for other Firefox users.
+Firefox স্বাস্থ্য রিপোর্ট (FHR) আপনার কম্পিউটারের কনফিগারেশন, ব্যবহার, কর্মক্ষমতা, এবং ত্রুটি শর্ত সম্পর্কে বেনামী তথ্য সংগ্রহ করে। এই তথ্য আমাদের আপনার জন্য এবং অন্য ফায়ারফক্স ব্যবহারকারীদের জন্য ফায়ারফক্স উন্নত করতে সাহায্য করে।
 
 
 # This string is displayed when selecting Raw Data near the title
 # Links to https://gecko.readthedocs.org/en/latest/toolkit/components/telemetry/telemetry/
 ;Read technical documentation for the data format and fields.
-Read technical documentation for the data format and fields.
+ডেটা ফরম্যাট এবং ক্ষেত্রের জন্য প্রযুক্তিগত নথিপত্র পড়ুন।
 
 
