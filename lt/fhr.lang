@@ -51,21 +51,21 @@ versija
 
 
 ;update channel
-update channel
+naujinimų kanalas
 
 
 ;updates
-updates
+naujinimai
 
 
 # Possible value for "updates"
 ;automatic
-automatic
+automatiškai
 
 
 # Possible value for "updates"
 ;prompt
-prompt
+pranešti
 
 
 ;time open
@@ -85,19 +85,19 @@ adresynas
 
 
 ;total sessions
-total sessions
+viso seansų
 
 
 ;Active Add-ons
-Active Add-ons
+Aktyvūs priedai
 
 
 ;Extensions
-Extensions
+Plėtiniai
 
 
 ;Plugins (Click-to-Activate)
-Plugins (Click-to-Activate)
+Įskiepiai (aktyvinami paspaudus)
 
 
 ;crashes
