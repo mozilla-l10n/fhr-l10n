@@ -39,11 +39,11 @@ You've chosen to share your data with Mozilla from time to time. Thanks for bein
 
 
 ;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
-Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
+Sien hoe ons data hanteer in ons <a href="%(privacy_url)s">privaatheidsbeleid</a>.
 
 
 ;Vital Stats
-Vital Stats
+Belangrike statistiek
 
 
 ;version
@@ -51,29 +51,29 @@ weergawe
 
 
 ;update channel
-update channel
+bywerkkanaal
 
 
 ;updates
-updates
+bywerkings
 
 
 # Possible value for "updates"
 ;automatic
-automatic
+outomaties
 
 
 # Possible value for "updates"
 ;prompt
-prompt
+vra
 
 
 ;time open
-time open
+tyd oop
 
 
 ;last crash
-last crash
+laaste keer omgeval
 
 
 ;bookmarks
@@ -85,11 +85,11 @@ Vandeesmaand
 
 
 ;total sessions
-total sessions
+totale sessies
 
 
 ;Active Add-ons
-Active Add-ons
+Aktiewe byvoegings
 
 
 ;Extensions
@@ -97,11 +97,11 @@ Uitbreidings
 
 
 ;Plugins (Click-to-Activate)
-Plugins (Click-to-Activate)
+Inproppe (klik-om-te-aktiveer)
 
 
 ;crashes
-crashes
+kere omgeval
 
 
 ;application crashes
@@ -125,7 +125,7 @@ enabled
 
 
 ;disabled
-disabled
+gedeaktiveer
 
 
 ;Plugins
@@ -747,12 +747,12 @@ You are currently not sharing your health report with Mozilla.
 
 # This string is displayed when selecting Raw Data near the title
 ;Firefox Health Report (FHR) records anonymous data about your computer, configuration, usage, performance, and error conditions. This data helps us improve Firefox for you and for other Firefox users.
-Firefox Health Report (FHR) records anonymous data about your computer, configuration, usage, performance, and error conditions. This data helps us improve Firefox for you and for other Firefox users.
+Firefox Health Report (FHR) hou anonieme data oor u rekenaar, opstelling, gebruik, werkverrigting, en fouttoestande. Dié data help ons om Firefox te verbeter vir u en ander Firefox-gebruikers.
 
 
 # This string is displayed when selecting Raw Data near the title
 # Links to https://gecko.readthedocs.org/en/latest/toolkit/components/telemetry/telemetry/
 ;Read technical documentation for the data format and fields.
-Read technical documentation for the data format and fields.
+Lees tegniese dokumentasie oor die dataformaat en -velde.
 
 
