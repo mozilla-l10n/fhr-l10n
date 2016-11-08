@@ -51,7 +51,7 @@ kit
 
 
 ;update channel
-Yoo me keto ngec manyen:
+yoo me keto ngec manyen
 
 
 ;updates
@@ -89,7 +89,7 @@ total sessions
 
 
 ;Active Add-ons
-Active Add-ons
+med-ikome ma yte katic
 
 
 ;Extensions
@@ -97,7 +97,7 @@ Extensions
 
 
 ;Plugins (Click-to-Activate)
-Plugins (Click-to-Activate)
+lamed kor jami (Dii-me-cakone)
 
 
 ;crashes
@@ -229,7 +229,7 @@ Customizations
 
 
 ;Add-ons, count and type
-Add-ons, count and type
+med-ikome, kwan ka idii
 
 
 ;Performance
@@ -237,7 +237,7 @@ Tic
 
 
 ;Timing of browser events, rendering, session restores
-Timing of browser events, rendering, session restores
+pimo jami matime i layeny, jalo, dwoko kare me time pa jami
 
 
 ;Length of session, how old a profile is, count of crashes, count of pages
@@ -261,7 +261,7 @@ Binary interface for XPCOM
 
 
 ;Identifier for this build of the application based on the date the build was started
-Identifier for this build of the application based on the date the build was started
+Lanyut me jubu purugram ma lube ki nino dwe ma kicako yubu ne kwede
 
 
 ;Operating System for which this build was configured
@@ -273,15 +273,15 @@ Identifier for the particular distribution of the application in use. It is take
 
 
 ;Version of the distribution, taken from the <var>distribution.version</var> preference
-Version of the distribution, taken from the <var>distribution.version</var> preference
+kit distribution, ma kikwanyo ki  <var>distribution.version</var> me amara
 
 
 ;The version number of any Mozilla hotfix applied to the application
-The version number of any Mozilla hotfix applied to the application
+namba me kit Mozilla hotfix ma kiketo ikom purugram
 
 
 ;Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
-Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
+Lanyut ma pire kene ikom purugram ma nyutu ni Firefox onyo Thunderbird, ki mukene ni. Rom pi purugram ma kiketo kede bene ni wel me  <var>appName</var> ki weko woko
 
 
 ;The configured name of the application (Firefox/Aurora/Nightly for instance)
@@ -313,7 +313,7 @@ Leb ma kitye katic kwede kombedi
 
 
 ;Amount of RAM in megabytes
-Amount of RAM in megabytes
+Wel RAM i megabytes
 
 
 ;Currently running Operating System (kernel) name
@@ -421,7 +421,7 @@ The number of days since this application profile directory was created
 
 
 ;The number of times the application was run and cleanly shut down.
-The number of times the application was run and cleanly shut down.
+Wel tyen ma purugram man otiyo ka kiloro maber.
 
 
 ;The time in seconds that the completed sessions were not idle
