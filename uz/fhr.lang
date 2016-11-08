@@ -11,7 +11,7 @@ Qayta ishlanmagan ma’lumotlar
 
 
 ;Get insights and performance information about your version of Firefox.
-"Firefox"ning ushbu versiyasi ishlashi haqida ma’lumot va g‘oyalarni olish.
+"Firefox"ning qurilmangizdagi versiyasi ishlash tezligi haqida ma’lumot va g‘oyalarni olishingiz mumkin.
 
 
 ;Learn more...
@@ -23,15 +23,15 @@ Ma’lumot ulashish
 
 
 ;ON
-YOQILGAN
+YONIQ
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
-"Mozilla"ga ma’lumotlarni ulashishni to‘xtatishni tanladingiz, ammo hozir ham brauzeringiz ishlashini ko‘rishingiz mumkin.
+"Mozilla"ga ma’lumotlarni ulashishni to‘xtatishni tanladingiz, ammo hozir ham brauzeringiz ishlashi haqidagi ma’lumotlarni ko‘rishingiz mumkin.
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
-Yaroqlilik ma’lumotlari ham Mozilla'ning serverlaridan o‘chirildi. Bu haqda <a href="%(privacy_url)s">maxfiylik siyosati</a>dan o‘qishingiz mumkin.
+Yaroqlilik ma’lumotlari ham Mozilla serverlaridan o‘chirildi. Bu haqda <a href="%(privacy_url)s">maxfiylik siyosati</a>dan o‘qishingiz mumkin.
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
