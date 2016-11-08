@@ -55,17 +55,17 @@ Cập nhật kênh:
 
 
 ;updates
-updates
+cập nhật
 
 
 # Possible value for "updates"
 ;automatic
-automatic
+tự động
 
 
 # Possible value for "updates"
 ;prompt
-prompt
+nhắc
 
 
 ;time open
@@ -85,19 +85,19 @@ Tháng Hiện Tại
 
 
 ;total sessions
-total sessions
+tổng số phiên làm việc
 
 
 ;Active Add-ons
-Active Add-ons
+Tiện ích hoạt động
 
 
 ;Extensions
-Extensions
+Phần mở rộng
 
 
 ;Plugins (Click-to-Activate)
-Plugins (Click-to-Activate)
+Phần bổ trợ (Nhấp chuột để kích hoạt)
 
 
 ;crashes
@@ -747,12 +747,12 @@ Bạn đang không chia sẻ health report của bạn với Mozilla.
 
 # This string is displayed when selecting Raw Data near the title
 ;Firefox Health Report (FHR) records anonymous data about your computer, configuration, usage, performance, and error conditions. This data helps us improve Firefox for you and for other Firefox users.
-Firefox Health Report (FHR) records anonymous data about your computer, configuration, usage, performance, and error conditions. This data helps us improve Firefox for you and for other Firefox users.
+Firefox Health Report (FHR) ghi lại dữ liệu ẩn danh về máy tính của bạn, cấu hình, thói quen, hiệu năng, và các trường hợp lỗi. Dữ liệu này giúp chúng tôi cải tiến Firefox cho bạn và những người dùng Firefox khác.
 
 
 # This string is displayed when selecting Raw Data near the title
 # Links to https://gecko.readthedocs.org/en/latest/toolkit/components/telemetry/telemetry/
 ;Read technical documentation for the data format and fields.
-Read technical documentation for the data format and fields.
+Đọc tài liệu kỹ thuật về dạng dữ liệu và các trường.
 
 
