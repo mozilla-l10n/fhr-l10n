@@ -51,21 +51,21 @@ Firefox ସ୍ୱାସ୍ଥ୍ୟ ବିବରଣୀ
 
 
 ;update channel
-update channel
+ଚ୍ୟାନେଲ ଅପଡେଟ କରନ୍ତୁ
 
 
 ;updates
-updates
+ଅପଡେଟଗୁଡ଼ିକ
 
 
 # Possible value for "updates"
 ;automatic
-automatic
+ସ୍ୱୟଂଚାଳିତ
 
 
 # Possible value for "updates"
 ;prompt
-prompt
+ଆଗକୁ ବଢ଼ାନ୍ତୁ
 
 
 ;time open
@@ -85,19 +85,19 @@ prompt
 
 
 ;total sessions
-total sessions
+ମୋଟ ଅଧିବେଶନ
 
 
 ;Active Add-ons
-Active Add-ons
+ସକ୍ରିୟ ଆଡ଼-ଅନଗୁଡ଼ିକ
 
 
 ;Extensions
-Extensions
+ଏକ୍ସଟେନସନଗୁଡ଼ିକ
 
 
 ;Plugins (Click-to-Activate)
-Plugins (Click-to-Activate)
+ପ୍ଲଗଇନ (ସକ୍ରିୟ କରିବା ପାଇଁ କ୍ଲିକକରନ୍ତୁ)
 
 
 ;crashes
