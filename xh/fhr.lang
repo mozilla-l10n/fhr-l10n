@@ -65,7 +65,7 @@ automatic
 
 # Possible value for "updates"
 ;prompt
-prompt
+khumbuza
 
 
 ;time open
@@ -85,11 +85,11 @@ Le nyanga
 
 
 ;total sessions
-total sessions
+iiseshoni zizonke
 
 
 ;Active Add-ons
-Active Add-ons
+Izongezelelo ezisebenzayo
 
 
 ;Extensions
@@ -97,7 +97,7 @@ Extensions
 
 
 ;Plugins (Click-to-Activate)
-Plugins (Click-to-Activate)
+Izinto eziplagwayo (Cofa-zisebenze)
 
 
 ;crashes
@@ -747,12 +747,12 @@ Ngoku akwabelani ngengxelo yakho yokjuba sempilweni neMozilla.
 
 # This string is displayed when selecting Raw Data near the title
 ;Firefox Health Report (FHR) records anonymous data about your computer, configuration, usage, performance, and error conditions. This data helps us improve Firefox for you and for other Firefox users.
-Firefox Health Report (FHR) records anonymous data about your computer, configuration, usage, performance, and error conditions. This data helps us improve Firefox for you and for other Firefox users.
+Ingxelo yeMpilo kaFirefox (FHR) irekhoda iinkcukacha ezingaziwayo malunga nekhompyutha yakho, ukuhlelwa, ukusetyenziswa, intsebenzo, neemeko zemposiso. 
 
 
 # This string is displayed when selecting Raw Data near the title
 # Links to https://gecko.readthedocs.org/en/latest/toolkit/components/telemetry/telemetry/
 ;Read technical documentation for the data format and fields.
-Read technical documentation for the data format and fields.
+Funda amaxwebhu aneenkcukacha ukwenzela ifomati yedatha nemimandla yayo.
 
 
