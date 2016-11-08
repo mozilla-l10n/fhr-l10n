@@ -85,7 +85,7 @@
 
 
 ;total sessions
-total sessions
+மொத்த அமர்வுகள் 
 
 
 ;Active Add-ons
@@ -97,7 +97,7 @@ total sessions
 
 
 ;Plugins (Click-to-Activate)
-Plugins (Click-to-Activate)
+செருகுநிரல்கள் (செயல்படுத்த-சொடுக்கவும்)
 
 
 ;crashes
@@ -726,7 +726,7 @@ xpcomabi: {ok}
 
 
 ;Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
-Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
+பயர்பாஃசு தர அறிக்கை (பதஅ) உங்களது உலாவின் செயல்திறனைத் தகவல்களை ஆய்ந்து, அதற்கேற்ப தரும் குறிப்புகளைக் கொண்டு நீங்கள் சிறந்த உலாவலைப் பெறலாம். இது குறித்த மேலதிகத் தகவல்களுக்கு,  <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>மொசில்லாவின் ஆதரவைக் காணவும்..</a>
 
 
 ;For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
