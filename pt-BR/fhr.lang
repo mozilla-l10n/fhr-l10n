@@ -3,7 +3,7 @@
 
 
 ;Firefox Health Report
-Firefox Health Report {ok}
+Relatório de integridade do Firefox
 
 
 ;Raw Data
@@ -89,7 +89,7 @@ total de sessões
 
 
 ;Active Add-ons
-Complementos ativos
+Extensões ativas
 
 
 ;Extensions
@@ -113,7 +113,7 @@ travamento de plugins
 
 
 ;Add-ons
-Complementos
+Extensões
 
 
 ;View List
@@ -121,11 +121,11 @@ Ver lista
 
 
 ;enabled
-ativados
+habilitado
 
 
 ;disabled
-desativados
+desabilitado
 
 
 ;Plugins
@@ -137,7 +137,7 @@ sempre ativar
 
 
 ;ask to activate
-pedir para ativar
+perguntar para ativar
 
 
 ;never activate
@@ -213,7 +213,7 @@ O que o Relatório de Integridade do Firefox mede
 
 
 ;The Firefox Health Report (FHR) has 4 categories of metrics:
-O Relatório de Integridade do Firefox (FHR) possui 4 categorias de medição:
+O relatório de integridade do Firefox possui 4 categorias de medição:
 
 
 ;Configuration
@@ -229,7 +229,7 @@ Personalizações
 
 
 ;Add-ons, count and type
-Complementos, quantidade e tipo
+Extensões, quantidade e tipo
 
 
 ;Performance
@@ -481,7 +481,7 @@ Tempo (em segundos)
 
 
 ;Show Statistics
-Exibir estatísticas
+Mostrar estatísticas
 
 
 ;Privacy Policy
@@ -494,7 +494,7 @@ O Relatório de Integridade do Firefox permite que você maximize a performance 
 
 
 ;Learn More&hellip;
-Veja mais.
+Saiba mais&hellip;
 
 
 ;Tip
@@ -566,7 +566,7 @@ Identificador dado à aplicação internamente.
 
 
 ;Application Version:
-Versão da aplicação:
+Versão do aplicativo:
 
 
 ;The current version of the browser
@@ -578,7 +578,7 @@ Identificador do build da aplicação:
 
 
 ;The internal build timestamp.
-Data e horário do build.
+Data e horário da compilação.
 
 
 ;Update Channel:
@@ -690,11 +690,11 @@ Quantos temas estão instalados.
 
 
 ;Addons:
-Complementos:
+Extensões:
 
 
 ;A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
-Informações sobre os complementos instalados. Nem todos os complementos são analisados, somente plugins, extensões e serviços.
+Informações sobre as extensões instaladas. Nem todos as extensões são analisada: somente plugins, extensões e serviços.
 
 
 ;Search Counts:
