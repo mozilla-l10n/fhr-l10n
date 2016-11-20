@@ -181,7 +181,7 @@ Você poderá ver informações mais detalhadas e interessantes à medida em que
 
 
 ;Startup Time by Day
-Tempo de início por Dia
+Tempo de inicialização por dia
 
 
 ;Graph:
@@ -197,7 +197,7 @@ Tudo
 
 
 ;Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
-O tempo de início ajuda a determinar o desempenho da sua versão do Firefox. Em geral, tempos mais rápidos (i.e. menos tempo) indicam desempenhos melhores.
+O tempo de inicialização ajuda a determinar o desempenho da sua versão do Firefox. Em geral, tempos mais rápidos (i.e. menos tempo) indicam desempenhos melhores.
 
 
 ;Data Collected
@@ -694,7 +694,7 @@ Extensões:
 
 
 ;A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
-Informações sobre as extensões instaladas. Nem todos as extensões são analisada: somente plugins, extensões e serviços.
+Informações sobre as extensões instaladas. Nem todos as extensões são analisada.
 
 
 ;Search Counts:
