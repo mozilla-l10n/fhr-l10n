@@ -27,7 +27,7 @@ Ligada
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
-Escolheu parar a partilha de dados com a Mozilla, mas ainda poderá saber mais acerca do desempenho do seu navegador.
+Escolheu parar a partilha de dados com a Mozilla, mas ainda poderá saber mais sobre o desempenho do seu navegador.
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
@@ -35,7 +35,7 @@ Os dados do relatório de estado também serão removidos dos servidores da Mozi
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
-Escolheu partilhar os seus dados com a Mozilla de tempos a tempos. Obrigado por fazer parte da nossa missão para construir um futuro mais brilhante para a Web.
+Escolheu partilhar os seus dados com a Mozilla de vez em quando. Obrigado por fazer parte da nossa missão para construir um futuro mais brilhante para a Web.
 
 
 ;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
@@ -165,7 +165,7 @@ Visite o nosso <a href="%(sumo_url)s">website de ajuda</a>
 
 
 ;View more <a href="%(details_url)s">detailed information</a>
-Veja mais <a href="%(details_url)s">informação detalhada</a>
+Consulte <a href="%(details_url)s">informação mais detalhada</a>
 
 
 ;pages visited
@@ -173,11 +173,11 @@ páginas visitadas
 
 
 ;Your browser seems to be running slower than usual. To learn more:
-O seu navegador parece estar a funcionar mais lentamente do que é usual. Para saber mais:
+O seu navegador parece estar a funcionar mais lentamente do que é habitual. Para saber mais:
 
 
 ;You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
-Poderá aceder a mais e melhor informação quanto mais uso der ao seu navegador. Verifique daqui a umas semanas para começar a ver algumas tendências.
+Poderá ver informação mais detalhada e interessante quanto mais utilizar o seu navegador. Volte daqui a umas semanas para começar a ver algumas tendências.
 
 
 ;Startup Time by Day
@@ -197,7 +197,7 @@ Tudo
 
 
 ;Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
-O tempo de arranque ajuda a determinar o quão bem a sua versão do Firefox se está a desempenhar. Geralmente, tempos mais rápidos (ex: menos tempo) indicam melhor desempenho.
+O tempo de arranque ajuda a determinar o desempenho da sua versão do Firefox. Geralmente, tempos mais rápidos (por exemplo, menos tempo) indicam um melhor desempenho.
 
 
 ;Data Collected
@@ -277,7 +277,7 @@ Versão da distribuição, tirada da preferência <var>distribução.versão</va
 
 
 ;The version number of any Mozilla hotfix applied to the application
-O número da versão de qualquer hotfix da Mozilla aplicado à aplicação
+O número da versão de qualquer correção da Mozilla aplicado à aplicação
 
 
 ;Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
