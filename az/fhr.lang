@@ -51,21 +51,21 @@ versiya
 
 
 ;update channel
-update channel
+yeniləmə kanalı
 
 
 ;updates
-updates
+yeniləmələr
 
 
 # Possible value for "updates"
 ;automatic
-automatic
+avtomatik
 
 
 # Possible value for "updates"
 ;prompt
-prompt
+soruşmaqla
 
 
 ;time open
@@ -85,19 +85,19 @@ Bu Ay
 
 
 ;total sessions
-total sessions
+ümumi sessiyalar
 
 
 ;Active Add-ons
-Active Add-ons
+Aktiv Əlavələr
 
 
 ;Extensions
-Extensions
+Uzantılar
 
 
 ;Plugins (Click-to-Activate)
-Plugins (Click-to-Activate)
+Qoşmalar (aktivləşdirmək üçün klikləyin)
 
 
 ;crashes
@@ -614,7 +614,7 @@ Bu, Androiddə appBuildID üçün alternativ addır.
 
 
 ;xpcomabi:
-xpcomabi:
+xpcomabi: {ok}
 
 
 ;The CPU architecture for which this application was built.
