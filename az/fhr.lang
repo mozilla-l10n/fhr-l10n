@@ -273,11 +273,11 @@ Identifier for the particular distribution of the application in use. It is take
 
 
 ;Version of the distribution, taken from the <var>distribution.version</var> preference
-Version of the distribution, taken from the <var>distribution.version</var> preference
+Distributivin buraxılış versiyası, <var>distribution.version</var> nizamlamasından əldə olunur
 
 
 ;The version number of any Mozilla hotfix applied to the application
-The version number of any Mozilla hotfix applied to the application
+Tətbiqə tətbiq olunmuş hər bir Mozilla düzəlişinin buraxılış versiyası
 
 
 ;Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
@@ -289,7 +289,7 @@ Tətbiqin konfiqurasiya olunmuş adı (məsələn: Firefox/Aurora/Nightly)
 
 
 ;The channel this installation checks for application updates (nightly/aurora/beta/release)
-The channel this installation checks for application updates (nightly/aurora/beta/release)
+Bu quraşdırılmanın proqram yenilənmələrini yoxladığı kanal (nightly/aurora/beta/release)
 
 
 ;The name of the company/provider who built this version
@@ -441,11 +441,11 @@ Göndərilmiş çökmələrin toplam sayısı
 
 
 ;Time in seconds the app has not been idle
-Time in seconds the app has not been idle
+Tətbiqin aktiv olduğu müddət saniyələrlə
 
 
 ;Time in seconds since the app was last started
-Time in seconds since the app was last started
+Tətbiqin sonuncu dəfə başladılmasından keçən müddət saniyələrlə
 
 
 ;Total number of bookmarks
@@ -490,7 +490,7 @@ Məxfilik Siyasəti
 
 # The following strings are used only in the Mobile version of about:healthreport (Firefox for Android)
 ;Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
-Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
+Firefox Sağlamlıq Hesabatı sizə öz Firefox səyyahınızı yaxşılaşdırma imkanı verir və bizə daha mükəmməl bir səyyah hazırlamaqda kömək edir. Hesabatlar başlanğıcda sadə olacaq, ancaq təkmilləşməyə və böyüməyə davam edəcəklər.
 
 
 ;Learn More&hellip;
@@ -753,6 +753,6 @@ Firefox Health Report (FHR) records anonymous data about your computer, configur
 # This string is displayed when selecting Raw Data near the title
 # Links to https://gecko.readthedocs.org/en/latest/toolkit/components/telemetry/telemetry/
 ;Read technical documentation for the data format and fields.
-Read technical documentation for the data format and fields.
+Məlumat formatı və sahələr üçün texniki sənədləri oxuyun.
 
 
