@@ -237,7 +237,7 @@ Desempenho
 
 
 ;Timing of browser events, rendering, session restores
-Cronometragem de eventos do navegador, renderização, restauração de sessões
+Temporização de eventos do navegador, renderização, sessões restauradas
 
 
 ;Length of session, how old a profile is, count of crashes, count of pages
@@ -261,7 +261,7 @@ Interface binária para XPCOM
 
 
 ;Identifier for this build of the application based on the date the build was started
-Identificador da versão da aplicação baseado na data em que ela foi construída
+Identificador de compilação da aplicação baseado na data em que ela foi construída
 
 
 ;Operating System for which this build was configured
@@ -269,11 +269,11 @@ Sistema operacional para o qual a versão foi configurada
 
 
 ;Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
-Identificador da distribuição particular da aplicação em uso. É obtido da preferência <var>distribution.id</var>
+Identificador de distribuição da aplicação em uso. É obtido através da variável <var>distribution.id</var>
 
 
 ;Version of the distribution, taken from the <var>distribution.version</var> preference
-Versão da distribuição, obtido da preferência <var>distribution.version</var>
+Versão da distribuição, obtido da variável <var>distribution.version</var>
 
 
 ;The version number of any Mozilla hotfix applied to the application
@@ -409,11 +409,11 @@ Número de vezes que a aplicação foi executada e não foi finalizada corretame
 
 
 ;The time in seconds that the aborted sessions were not idle
-Tempo, em segundos, pelo qual as sessões abortadas não ficaram ociosas
+Tempo, em segundos, que as sessões abortadas não ficaram ociosas
 
 
 ;The time in seconds that the aborted sessions were running
-Tempo, em segundos, pelo qual as sessões abortadas foram executadas
+Tempo, em segundos, que as sessões abortadas foram executadas
 
 
 ;The number of days since this application profile directory was created
@@ -425,15 +425,15 @@ Número de vezes que a aplicação foi executada e finalizada corretamente.
 
 
 ;The time in seconds that the completed sessions were not idle
-Tempo, em segundos, pelo qual as sessões completadas não ficaram ociosas
+Tempo, em segundos, que as sessões completadas não ficaram ociosas
 
 
 ;The time in seconds that the completed sessions were running
-Tempo, em segundos, pelo qual as sessões completadas foram executadas
+Tempo, em segundos, que as sessões completadas foram executadas
 
 
 ;Total number of crashes that were recorded but not yet submitted
-Número total de travamentos que foram registrados mas ainda não forem enviados
+Número total de travamentos que foram registrados mas ainda não foram enviados
 
 
 ;Total number of crashes that have been submitted
@@ -441,7 +441,7 @@ Número total de travamentos que foram enviados
 
 
 ;Time in seconds the app has not been idle
-Tempo, em segundos, pelo qual a aplicação não ficou ociosa
+Tempo, em segundos, que a aplicação não ficou ociosa
 
 
 ;Time in seconds since the app was last started
@@ -490,7 +490,7 @@ Política de privacidade
 
 # The following strings are used only in the Mobile version of about:healthreport (Firefox for Android)
 ;Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
-O Relatório de Integridade do Firefox permite que você maximize a performance do seu Firefox. Eles serão simples no começo, mas estamos melhorando a cada dia.
+O Relatório de Integridade do Firefox permite que você otimize o desempenho do seu Firefox. Eles serão simples no começo, mas estamos melhorando a cada dia.
 
 
 ;Learn More&hellip;
@@ -502,7 +502,7 @@ Dica
 
 
 ;Looks like your Firefox is brand new! Check back after using Firefox for a while.
-Parece que seu Firefox foi instalado há pouco! Confira novamente após usá-lo por algum tempo.
+Parece que seu Firefox foi instalado recentemente! Confira novamente após usá-lo por algum tempo.
 
 
 ;Important Metrics
@@ -510,7 +510,7 @@ Medições importantes
 
 
 ;Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
-O Relatório de Integridade do Firefox salva informações sobre seu navegador e seu dispositivo. Você pode <a href="#raw" class="navigate">visualizar as informações que salvamos</a> ou ainda ver quais informações você está compartilhando conosco.
+O Relatório de Integridade do Firefox salva informações sobre seu navegador e seu dispositivo. Você pode <a href="#raw" class="navigate">visualizar as informações que salvamos</a> ou ainda, ver quais informações você está compartilhando conosco.
 
 
 ;Device hardware, operating system, Firefox version.
@@ -518,11 +518,11 @@ Informações sobre o aparelho, sistema operacional e versão do Firefox.
 
 
 ;Extensions, plugins, and number of installed add-ons.
-Informações sobre extensões, plugins e número de complementos instalados.
+Informações sobre plugins e número de extensões instaladas.
 
 
 ;Key performance measures, such as launch speed.
-Informações de desempenho, como tempo de abertura do Firefox.
+Principais informações de desempenho, como tempo de abertura do Firefox.
 
 
 ;Browsing duration, install time, number of bookmarks and pages.
@@ -530,11 +530,11 @@ Tempo de navegação, tempo instalado e número de favoritos.
 
 
 ;Home
-Home {ok}
+Início
 
 
 ;CPU Count:
-CPUs:
+Contagem de CPU:
 
 
 ;The number of CPU cores reported by Android.
@@ -550,7 +550,7 @@ Tamanho da memória informada pelo Android. Geralmente não inclui memória grá
 
 
 ;Application Name:
-Nome da aplicativo:
+Nome da aplicação:
 
 
 ;The internal application name for the browser.
@@ -558,11 +558,11 @@ Nome dado ao navegador internamente.
 
 
 ;Application ID:
-ID do aplicativo:
+Identificador da aplicação:
 
 
 ;The internal identifier for the application.
-Identificador dado à aplicação internamente.
+Identificador interno da aplicação.
 
 
 ;Application Version:
@@ -574,7 +574,7 @@ Versão atual do navegador
 
 
 ;Application Build ID:
-Identificador do build da aplicação:
+Identificador de compilação da aplicação:
 
 
 ;The internal build timestamp.
@@ -586,11 +586,11 @@ Canal de atualizações:
 
 
 ;Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
-O Firefox é distribuído através dos canais Nightly, Aurora, Beta e estável. Esse campo identifica qual a versão utilizada.
+O Firefox é distribuído através dos canais: Nightly, Aurora, Beta e estável. Esse campo identifica qual a versão utilizada.
 
 
 ;Vendor:
-Empresa:
+Fabricante:
 
 
 ;The organization that built this application. Typically Mozilla.
