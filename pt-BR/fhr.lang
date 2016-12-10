@@ -27,7 +27,7 @@ Ligado
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
-Você escolheu parar de compartilhar dados com a Mozilla, mas ainda poderá consultar a perfomance do seu navegador.
+Você escolheu parar de compartilhar dados com a Mozilla, mas ainda poderá consultar o desempenho do seu navegador.
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
@@ -734,7 +734,7 @@ Para mais informações sobre como tratamos seus dados, <a href="https://www.moz
 
 
 ;You are currently sharing your health report with Mozilla.
-Neste momento, você está compartilhando seu Relatório de Integridade com a Mozilla.
+Você está compartilhando seu Relatório de Integridade com a Mozilla.
 
 
 ;Choose what I share
@@ -742,7 +742,7 @@ Escolher o que compartilhar
 
 
 ;You are currently not sharing your health report with Mozilla.
-Neste momento, você não está compartilhando seu Relatório de Integridade com a Mozilla.
+Você não está compartilhando seu Relatório de Integridade com a Mozilla.
 
 
 # This string is displayed when selecting Raw Data near the title
