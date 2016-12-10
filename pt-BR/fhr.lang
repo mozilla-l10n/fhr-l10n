@@ -542,7 +542,7 @@ Número de CPUs informado pelo Android.
 
 
 ;Memory in MB:
-MBs de memória:
+Memória em MB:
 
 
 ;The amount of memory reported by Android. Typically excludes graphics memory.
@@ -594,7 +594,7 @@ Empresa:
 
 
 ;The organization that built this application. Typically Mozilla.
-A empresa que criou esse aplicativo. Quase sempre é a Mozilla.
+A empresa que criou esse aplicativo. Normalmente a Mozilla.
 
 
 ;Platform Version:
@@ -606,7 +606,7 @@ Identificador interno de versão. Geralmente o mesmo que appVersion.
 
 
 ;Platform Build ID:
-Identificador de build da plataforma:
+Identificador de compilação da plataforma:
 
 
 ;On Android this is an alternative name for appBuildID.
@@ -618,7 +618,7 @@ xpcomabi: {ok}
 
 
 ;The CPU architecture for which this application was built.
-Arquitetura para qual esta aplicação foi desenvolvida.
+Arquitetura de CPU para qual esta aplicação foi desenvolvida.
 
 
 ;OS:
@@ -634,7 +634,7 @@ Arquitetura:
 
 
 ;The CPU architecture for this device.
-Arquitetura de CPU do aparelho.
+Arquitetura de CPU do dispositivo.
 
 
 ;System Name:
@@ -654,23 +654,23 @@ Versão do Android.
 
 
 ;Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
-Define se o Firefox deve buscar a lista de complementos maliciosos para te impedir de ser atacado. Vem ativado por padrão.
+Definir se o Firefox deve buscar a lista de complementos maliciosos para proteger você. Ativado por padrão.
 
 
 ;Telemetry Enabled:
-Ativar Telemetria:
+Telemetria habilitada:
 
 
 ;Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
-Define se o Firefox deve enviar informações detalhadas sobre o uso do navegador para ajudar no desenvolvimento. Desativado por padrão em quase todas as versões.
+Definir se o Firefox deve enviar informações detalhadas sobre o uso do navegador para ajudar no desenvolvimento. Desabilitado por padrão em quase todas as versões.
 
 
 ;Extension Count:
-Contador de complementos:
+Contador de extensões:
 
 
 ;How many extension add-ons are installed.
-Quantos complementos estão instalados.
+Quantos extensões estão instaladas.
 
 
 ;Plugin Count:
@@ -694,7 +694,7 @@ Extensões:
 
 
 ;A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
-Informações sobre as extensões instaladas. Nem todos as extensões são analisada.
+Informações sobre as extensões instaladas. Nem todas as extensões são analisadas: somente plugins, extensões e serviços.
 
 
 ;Search Counts:
@@ -702,11 +702,11 @@ Contador de pesquisas:
 
 
 ;A count of how many searches you issued to each of Mozilla's partner providers.
-Conta quantas pesquisas você fez usando cada motor de busca no Firefox.
+Conta quantas pesquisas você fez usando cada motor de busca parceiro da Mozilla.
 
 
 ;Sessions and Startup Times
-Tempo de iniciação e desligamento.
+Tempos de inicialização e sessões
 
 
 ;For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
