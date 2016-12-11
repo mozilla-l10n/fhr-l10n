@@ -381,7 +381,7 @@ Se o complemento é uma extensão ou um plugin
 
 
 ;The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
-Data mais recente em que o complemento foi atualizado (informações anteriores sobre um complemento atualizado não são mantidas)
+Data mais recente que extensão foi atualizada (informações anteriores sobre extensões atualizadas não são mantidas).
 
 
 ;<var>True</var> if the user manually disabled the add-on
@@ -389,7 +389,7 @@ Data mais recente em que o complemento foi atualizado (informações anteriores 
 
 
 ;The current version of this add-on
-Versão atual do complemento
+Versão atual da extensão
 
 
 ;How long in milliseconds it took during startup for the application to render the UI and display the window
