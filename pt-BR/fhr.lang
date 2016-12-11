@@ -289,11 +289,11 @@ Nome configurado da aplicação (Firefox/Aurora/Nightly, por exemplo)
 
 
 ;The channel this installation checks for application updates (nightly/aurora/beta/release)
-Canal em que a instalação procura atualizações (nightly/aurora/beta/release)
+Canal em que a instalação procura atualizações (Nightly/Aurora/Beta/Release)
 
 
 ;The name of the company/provider who built this version
-Nome da companhia/provedor que construiu a versão
+Nome da empresa/fornecedor que compilou a versão
 
 
 ;The current version of the product
