@@ -381,11 +381,11 @@ Se o complemento é uma extensão ou um plugin
 
 
 ;The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
-Data mais recente que extensão foi atualizada (informações anteriores sobre extensões atualizadas não são mantidas).
+Data mais recente que a extensão foi atualizada (informações anteriores sobre extensões atualizadas não são mantidas).
 
 
 ;<var>True</var> if the user manually disabled the add-on
-<var>True</var> se o usuário desativou o complemento manualmente
+<var>True</var> se o usuário desativou a extensão manualmente
 
 
 ;The current version of this add-on
@@ -437,7 +437,7 @@ Número total de travamentos que foram registrados mas ainda não foram enviados
 
 
 ;Total number of crashes that have been submitted
-Número total de travamentos que foram enviados
+Total de travamentos que foram enviados
 
 
 ;Time in seconds the app has not been idle
@@ -449,15 +449,15 @@ Tempo, em segundos, desde que a aplicação foi iniciada pela última vez
 
 
 ;Total number of bookmarks
-Número total de favoritos
+Total de favoritos
 
 
 ;Total number of pages listed in the history
-Número total de páginas listadas no histórico
+Total de páginas listadas no histórico
 
 
 ;How long in minutes the current session has been running
-Por quanto tempo, em minutos, a sessão atual está sendo executada
+Quanto tempo, em minutos, a sessão atual está sendo executada
 
 
 ;Welcome to your Firefox Health Report
