@@ -309,7 +309,7 @@ Se a aplicação está configurada atualmente para ser o navegador padrão do si
 
 
 ;Locale currently being used
-Região/Idioma selecionado atualmente
+Idioma selecionado atualmente
 
 
 ;Amount of RAM in megabytes
@@ -325,7 +325,7 @@ Versão do sistema operacional (kernel) sendo executado atualmente
 
 
 ;The build identifier of the Gecko platform code
-Identificador da versão do código da plataforma Gecko
+Identificador de compilação do código da plataforma Gecko
 
 
 ;The version of the Gecko platform code
@@ -337,31 +337,31 @@ Arquitetura do processador
 
 
 ;The date this version was first used with this installation profile
-Data em que a versão foi usada pela primeira vez com esse perfil de instalação
+Data que essa versão foi usada pela primeira vez com esse perfil de instalação
 
 
 ;An application version which has been used with this installation profile
-Uma versão da aplicação que foi usada com esse perfil de instalação
+Versão da aplicação que foi usada com esse perfil de instalação
 
 
 ;The number of add-ons of this type that existed in the profile on this date
-Número de complementos desse tipo que existem no perfil nesta data
+Número de extensões desse tipo que existem no perfil nesta data
 
 
 ;<var>True</var> if the application automatically disabled the add-on
-<var>True</var> se a aplicação desativou automaticamente o complemento
+<var>True</var> se a aplicação desabilitou automaticamente a extensão
 
 
 ;Whether this add-on was installed by the user or automatically by another application
-Se o complemento foi instalado pelo usuário ou automaticamente por outra aplicação
+Se a extensão foi instalada pelo usuário ou automaticamente por outra aplicação
 
 
 ;Whether this add-on has native code.
-Se o complemento possui código nativo.
+Se a extensão possui código nativo.
 
 
 ;The identifier of this add-on as defined by the add-on developer
-Identificador do complemento, definido pelo autor do complemento
+Identificador dessa extensão, definido pelo autor
 
 
 ;The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
