@@ -3,7 +3,7 @@
 
 
 ;Firefox Health Report
-Raport Mbi Shëndetin e Firefox-it
+Raport mbi Shëndetin e Firefox-it
 
 
 ;Raw Data
@@ -11,11 +11,11 @@ Të dhëna të Papërpunuara
 
 
 ;Get insights and performance information about your version of Firefox.
-Krijoni një ide dhe merrni të dhëna rreth versionit tuaj të Firefox-it.
+Shihni të dhëna mbi prirjet dhe funksionimin e versionit tuaj të Firefox-it.
 
 
 ;Learn more...
-Mësoni më tepër...
+Mësoni më tepër…
 
 
 ;Data Sharing
@@ -23,27 +23,27 @@ Ndarje të Dhënash Me të Tjerët
 
 
 ;ON
-ON {ok}
+AKTIVE
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
-Keni zgjedhur të reshtë ndarja e të dhënave me Mozilla-n, por prapë do të jeni në gjendje të shihni se sa i suksesshëm është shfletuesi juaj.
+Keni zgjedhur të reshtë ndarja e të dhënave me Mozilla-n, por do të jeni ende në gjendje të shihni se si funksionon shfletuesi juaj.
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
-Të dhënat tuaja për Raportin Mbi Shëndetin do të hiqen edhe prej shërbyesve të Mozilla-s. Mësoni më tepër rreth kësaj te <a href="%(privacy_url)s">rregullat tona për privatësinë.</a>
+Të dhënat e Raportit tuaj të Shëndetit do të hiqen edhe nga shërbyesit e Mozilla-s. Mësoni më tepër te <a href="%(privacy_url)s">rregullat tona të privatësisë.</a>
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
-Keni zgjedhur të ndani herë pas here të dhënat tuaja me Mozilla-n. Faleminderit që bëheni pjesë e misionit tonë të ndërtimit të një të ardhmeje më të ndritshme për Web-in.
+Keni zgjedhur të ndani kohë pas kohe të dhënat tuaja me Mozilla-n. Faleminderit që bëheni pjesë e misionit tonë për ndërtimin e një të ardhme më të ndritur për Web-in.
 
 
 ;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
-Mësoni te <a href="%(privacy_url)s">rregullat tona mbi privatësinë</a> se si i trajtojmë të dhënat tuaja.
+Mësoni se si i trajtojmë të dhënat tuaja, te <a href="%(privacy_url)s">rregullat tona të privatësisë.</a>
 
 
 ;Vital Stats
-Statistika Jetike
+Statistika Kyçe
 
 
 ;version
@@ -60,12 +60,12 @@ përditësime
 
 # Possible value for "updates"
 ;automatic
-vetvetiu
+të vetvetishme
 
 
 # Possible value for "updates"
 ;prompt
-pyet
+pyetmë
 
 
 ;time open
@@ -97,7 +97,7 @@ Zgjerime
 
 
 ;Plugins (Click-to-Activate)
-Shtojca (Klikoni që të aktivizohet)
+Shtojca (Klikoni që të Aktivizohet)
 
 
 ;crashes
@@ -105,11 +105,11 @@ vithisje
 
 
 ;application crashes
-aplikacioni vithiset
+vithisje aplikacionesh
 
 
 ;plugin crashes
-shtojca vithiset
+vithisje shtojcash
 
 
 ;Add-ons
@@ -125,7 +125,7 @@ të aktivizuara
 
 
 ;disabled
-të paaktivizuara
+të çaktivizuara
 
 
 ;Plugins
@@ -133,7 +133,7 @@ Shtojca
 
 
 ;always activate
-aktivizoji përherë
+përherë aktive
 
 
 ;ask to activate
@@ -141,7 +141,7 @@ pyet për aktivizim
 
 
 ;never activate
-mos i aktivizo kurrë
+kurrë aktive
 
 
 ;Tips
@@ -153,11 +153,11 @@ Wear and Tear {ok}
 
 
 ;It looks like your browser has crashed a number of times recently. To learn more:
-Duket se shfletuesi juaj është vithisur një numër herësh tani së fundi. Që të mësoni më tepër:
+Duket se shfletuesi juaj është vithisur një dorë herësh tani afër. Që të mësoni më tepër:
 
 
 ;OFF
-OFF {ok}
+JOAKTIV
 
 
 ;Visit our <a href="%(sumo_url)s">support website</a>
@@ -173,11 +173,11 @@ faqe të vizituara
 
 
 ;Your browser seems to be running slower than usual. To learn more:
-Shfletuesi juaj duket se po xhiron më ngadalë se zakonisht. Që të mësoni më tepër:
+Duket se shfletuesi juaj po funksionon më ngadalë se zakonisht. Që të mësoni më tepër:
 
 
 ;You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
-Do të jeni në gjendje të shihni më tepër të dhëna me interes dhe të hollësishme, sa më tepër që përdorni shfletuesin tuaj. Rikthehuni pas nja dy javësh që të shihni disa prirje.
+Do të jeni në gjendje të shihni të dhëna më interesante dhe më të hollësishme sa më tepër që e përdorni shfletuesin tuaj. Rikthehuni këtu pas disa javësh që të filloni të shihni disa prirje.
 
 
 ;Startup Time by Day
@@ -197,7 +197,7 @@ Krejt
 
 
 ;Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
-Kohët e nisjeve ndihmojnë të përcaktohet se sa me sukses po punon versioni juaj i Firefox-it. Përgjithësisht, kohë më të shpejta (pra më pak kohë) tregojnë punim më të mirë.
+Koha e nisjes ndihmon të përcaktohet se sa mirë po funksionon versioni juaj i Firefox-it. Përgjithësish, kohë më të mira (d.m.th. më pak kohë) do të thotë punim më i mirë.
 
 
 ;Data Collected
@@ -209,11 +209,11 @@ Fjalorth
 
 
 ;What the Firefox Health Report Measures
-Çfarë Matet Për Raportin Mbi Shëndetin e Firefox-it
+Çfarë Matet Për Raportin mbi Shëndetin e Firefox-it
 
 
 ;The Firefox Health Report (FHR) has 4 categories of metrics:
-Raporti Mbi Shëndetin e Firefox-it (RSHF) përmban 4 kategori matjesh:
+Raporti mbi Shëndetin e Firefox-it (RSHF) përmban 4 kategori matjesh:
 
 
 ;Configuration
@@ -265,35 +265,35 @@ Identifikues për këtë montim të aplikacionit, bazuar në datën kur pat fill
 
 
 ;Operating System for which this build was configured
-Sistemi Operativ për të cilin ky montim qe formësuar
+Sistem Operativ për të cilin qe formësuar ky montim
 
 
 ;Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
-Identifikues për shpërndarjen e dhënë të aplikacionit në përdorim. Merret prej parapëlqimit <var>distribution.id</var>
+Identifikues për shpërndarjen në të cilën përdoret aplikacioni. Vlera merret prej parapëlqimit <var>distribution.id</var>
 
 
 ;Version of the distribution, taken from the <var>distribution.version</var> preference
-Version i shpërndarjes, marrë prej parapëlqimit <var>distribution.version</var>
+Version i shpërndarjes, marrë nga parapëlqimi <var>distribution.version</var>
 
 
 ;The version number of any Mozilla hotfix applied to the application
-Numër versioni për çfarëdo hotfix Mozilla të zbatuar mbi aplikacionin
+Numër versioni i çfarëdo ndreqjeje të zbatuar nga Mozilla mbi aplikacionin
 
 
 ;Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
-Identifikues unik për aplikacionin, i cili tregon se bëhet fjalë për Firefox-in ose Thunderbird-in, etj. Po njësoj për krejt instalimet e një aplikacioni, pavarësisht nga vlera e <var>appName</var>
+Identifikues unik i aplikacionit që tregon nëse është Firefox apo Thunderbird, etj. Po njësoj për krejt instalimet e aplikacionit, pavarësisht vlerës së <var>appName</var>
 
 
 ;The configured name of the application (Firefox/Aurora/Nightly for instance)
-Emri i formësuar për aplikacionin (për shembull, Firefox/Aurora/Nightly)
+Emri i formësuar i aplikacionit (për shembull, Firefox/Aurora/Nightly)
 
 
 ;The channel this installation checks for application updates (nightly/aurora/beta/release)
-Kanali që kontrollohet prej këtij instalimi për përditësime aplikacioni (hedhje në qarkullim të përnatshme/aurora/beta)
+Kanali që ky instalim kontrollon për përditësime aplikacioni (nightly/aurora/beta/release)
 
 
 ;The name of the company/provider who built this version
-Emri i kompanisë/ofruesit që montoi këtë version
+Emri i shoqërisë/furnizuesit që montoi këtë version
 
 
 ;The current version of the product
@@ -301,7 +301,7 @@ Versioni i tanishëm i produktit
 
 
 ;Number of processor cores
-Numri i qendrave të procesorit
+Numri qendrash procesori
 
 
 ;Whether the application is currently configured to be the default browser for the operating system
@@ -317,55 +317,55 @@ Sasi RAM-i në megabajt
 
 
 ;Currently running Operating System (kernel) name
-Emri i Sistemit Operativ (kernelit) të xhiruar tani
+Emri (i kernelit) i Sistemit Operativ në përdorim
 
 
 ;Currently running Operating System (kernel) version
-Versioni i Sistemit Operativ (kernelit) të xhiruar tani
+Versioni (i kernelit) i Sistemit Operativ në përdorim
 
 
 ;The build identifier of the Gecko platform code
-Kodi i identifikuesit të montimit për platformën Gecko
+Identifikues montimi i kodit të platformës Gecko
 
 
 ;The version of the Gecko platform code
-Kodi i versionit për platformën Gecko
+Version i kodit të platformës Gecko
 
 
 ;Processor architecture
-Arkitektura e Procesorit
+Arkitekturë procesori
 
 
 ;The date this version was first used with this installation profile
-Data kur ky version u përdor për herë me këtë profil instalimi
+Data kur ky version u përdor për herë të parë me këtë profil instalimi
 
 
 ;An application version which has been used with this installation profile
-Version aplikacioni që është përdorur me këtë profil instalimi
+Version aplikacioni i cili është përdorur me këtë profil instalimi
 
 
 ;The number of add-ons of this type that existed in the profile on this date
-Numri i shtesave të këtij lloji që gjendeshin te profili në këtë datë
+Numër shtesash të këtij lloji që gjendeshin te profili në këtë datë
 
 
 ;<var>True</var> if the application automatically disabled the add-on
-<var>True</var> nëse aplikacioni e çaktivizoi automatikisht shtesën
+<var>True</var> nëse aplikacioni çaktivizoi vetvetiu shtesën
 
 
 ;Whether this add-on was installed by the user or automatically by another application
-Kjo shtesë qe instaluar nga përdoruesi apo vetvetiu nga një aplikacion tjetër
+Nëse kjo shtesë qe instaluar nga përdoruesi apo vetvetiu nga një aplikacion tjetër
 
 
 ;Whether this add-on has native code.
-Nëse ka a jo kod origjinal kjo shtesë.
+Ka apo jo kod origjinal nga Firefox-i.
 
 
 ;The identifier of this add-on as defined by the add-on developer
-Identifikuesi i kësaj shtese, ashtu si e përcakton zhvilluesi i shtesës
+Identifikuesi i kësaj shtese, ashtu si e ka përcaktuar zhvilluesi i shtesës
 
 
 ;The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
-Data më e afërt kur kjo shtesë qe instaluar (nuk mbahen të dhëna të mëparshme rreth shtese të painstaluar).
+Data më e afërt e instalimit të kësaj shtese (nuk ruhen të dhëna të mëparshme rreth një shtese të çinstaluar).
 
 
 ;The number of searches performed with this search engine from this part of the UI
@@ -373,19 +373,19 @@ Numri i kërkimeve të kryera me këtë motor kërkimesh prej kësaj pjese të N
 
 
 ;Whether this add-on was installed in the application directory or profile directory
-Ku qe instaluar kjo shtesë, te drejtoria e aplikacioneve apo te drejtoria e profileve
+Nëse kjo shtesë qe instaluar te drejtoria e aplikacionit apo te drejtori profili
 
 
 ;Whether this add-on is an extension or a plug-in
-Kjo shtesë është zgjerim apo shtojcë
+Nëse kjo shtesë është një zgjerim apo një shtojcë
 
 
 ;The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
-Data më e re kur kjo shtesë qe përditësuar (nuk mbahen të dhëna të mëparshme rreth shtese të painstaluar).
+Data më e afërt kur kjo shtesë u përditësua (nuk ruhen të dhëna të mëparshme rreth një shtese të çinstaluar).
 
 
 ;<var>True</var> if the user manually disabled the add-on
-<var>True</var>, nëse përdoruesi e ka çaktivizuar dorazi shtesën
+<var>True</var> nëse përdoruesi e çaktivizoi shtesën vetë
 
 
 ;The current version of this add-on
@@ -397,7 +397,7 @@ Sa kohë, në milisekonda, iu desh aplikacionit gjatë nisjes të vizatojë NP-n
 
 
 ;How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
-Sa kohë, në milisekonda, iu desh aplikacionit gjatë nisjes të ngarkojë libraritë dhe të përfundojë gatitjen bazë
+Sa kohë, në milisekonda, iu desh aplikacionit gjatë nisjes të ngarkojë libraritë dhe përfundojë gatitjen bazë
 
 
 ;How long in milliseconds it took during startup for the application to restore tabs from the previous session
@@ -409,11 +409,11 @@ Sa herë është xhiruar dhe mbyllur jo si duhet aplikacioni.
 
 
 ;The time in seconds that the aborted sessions were not idle
-Koha, në sekonda, gjatë së cilës sesionet e ndërprera nuk qenë të plogështa
+Sa kohë, në sekonda, gjatë së cilës sesionet e ndërprera nuk qenë të plogështa
 
 
 ;The time in seconds that the aborted sessions were running
-Koha, në sekonda, gjatë së cilës sesionet e ndërprera qenë në xhirim e sipër
+Sa kohë, në sekonda, gjatë së cilës sesionet e ndërprera qenë në xhirim e sipër
 
 
 ;The number of days since this application profile directory was created
@@ -421,7 +421,7 @@ Numri i ditëve qëkurse është krijuar kjo drejtori profili aplikacioni
 
 
 ;The number of times the application was run and cleanly shut down.
-Numri i herëve që aplikacioni është xhiruar dhe mbyllur pastër.
+Sa herë është xhiruar dhe mbyllur si duhet aplikacioni.
 
 
 ;The time in seconds that the completed sessions were not idle
@@ -433,11 +433,11 @@ Koha, në sekonda, gjatë së cilës sesionet e plotësuara qenë në xhirim e s
 
 
 ;Total number of crashes that were recorded but not yet submitted
-Numri gjithsej i vithisjeve që janë regjistruar, por jo parashtruar
+Numër gjithsej i vithisjeve që janë regjistruar, por jo parashtruar
 
 
 ;Total number of crashes that have been submitted
-Numri gjithsej i vithisjeve që janë parashtruar
+Numër gjithsej i vithisjeve që janë parashtruar
 
 
 ;Time in seconds the app has not been idle
@@ -453,15 +453,15 @@ Numër faqerojtësish gjithsej
 
 
 ;Total number of pages listed in the history
-Numër faqesh të radhitura te historiku gjithsej
+Numër gjithsej i faqeve të pranishme në historik
 
 
 ;How long in minutes the current session has been running
-Për sa kohë, në minuta, po xhiron sesioni i tanishëm
+Për sa kohë, në minuta, është duke xhiruar sesioni i tanishëm
 
 
 ;Welcome to your Firefox Health Report
-Mirë se vini te Raporti Mbi Shëndetin e Firefox-it
+Mirë se vini te Raporti juaj mbi Shëndetin e Firefox-it
 
 
 ;Welcome!
@@ -469,7 +469,7 @@ Mirë se vini!
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
-Raporti Mbi Shëndetin e Firefox-it ju lejon të njihni se si po funksionon Firefox-i juaj dhe se çfarë mund të bëni për ta përmirësuar këtë gjë.
+Raporti mbi Shëndetin e Firefox-it ju lejon të njihni se si po ecën Firefox-i juaj dhe se ç’mund të bëni për ta përmirësuar.
 
 
 ;See My Report
@@ -490,7 +490,7 @@ Rregulla Privatësie
 
 # The following strings are used only in the Mobile version of about:healthreport (Firefox for Android)
 ;Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
-Raporti mbi Shëndetin e Firefox-it ju lejon të optimizoni Firefox-in tuaj dhe na ndihmon ne të krijojmë një shfletues edhe më të shkëlqyer. Raportet fillimisht do të jenë elementarë, por do të vazhdojnë të përparojnë dhe piqen.
+Raporti mbi Shëndetin e Firefox-it ju lejon të optimizoni Firefox-in tuaj dhe na ndihmon të realizojmë një shfletues edhe më të shkëlqyer. Raportet fillimisht do të jenë elementarë, por do të vazhdojnë të përparojnë dhe rriten.
 
 
 ;Learn More&hellip;
@@ -510,7 +510,7 @@ Matje të Rëndësishme
 
 
 ;Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
-Raporti mbi Shëndetin e Firefox-it regjistron të dhëna rreth shfletuesit dhe pajisjes tuaj. Mundeni <a href="#raw" class="navigate">të shihni të dhënat që regjistrojmë.</a> Mundeni të shihni gjithashtu çfarë ndajmë me Mozilla-n.
+Raporti mbi Shëndetin e Firefox-it regjistron të dhëna rreth shfletuesit dhe pajisjes tuaj. Mundeni <a href="#raw" class="navigate">të shihni të dhënat që regjistrojmë.</a> Mundeni të shihni edhe se çfarë prej tyre ndahen me Mozilla-n.
 
 
 ;Device hardware, operating system, Firefox version.
@@ -522,7 +522,7 @@ Zgjerime, shtojca, dhe numër shtesash të instaluara.
 
 
 ;Key performance measures, such as launch speed.
-Matje qendrore punimi, të tilla si shpejtësia e nisjes.
+Matje kyçe punimi, të tilla si shpejtësia e nisjes.
 
 
 ;Browsing duration, install time, number of bookmarks and pages.
@@ -550,7 +550,7 @@ Sasia e kujtesës raportuar nga Android-i. Zakonisht përjashtohet kujtesa grafi
 
 
 ;Application Name:
-Emër aplikacioni:
+Emër Aplikacioni:
 
 
 ;The internal application name for the browser.
@@ -574,7 +574,7 @@ Versioni i tanishëm i shfletuesit
 
 
 ;Application Build ID:
-ID Montimi i Aplikaciont:
+ID Montimi Aplikacioni:
 
 
 ;The internal build timestamp.
@@ -594,7 +594,7 @@ Ofrues:
 
 
 ;The organization that built this application. Typically Mozilla.
-Organizmi që monton këtë aplikacion. Zakonisht Mozilla.
+Organizmi që montoi këtë aplikacion. Zakonisht Mozilla.
 
 
 ;Platform Version:
@@ -606,11 +606,11 @@ Një identifikues i brendshëm versioni. Zakonisht i njëjtë me appVersion.
 
 
 ;Platform Build ID:
-Platform Build ID: {ok}
+ID Platforme Montimi:
 
 
 ;On Android this is an alternative name for appBuildID.
-Në Android ky është një emër alternativ për appBuildID.
+Te Android, ky është një emër alternativ për appBuildID.
 
 
 ;xpcomabi:
@@ -626,7 +626,7 @@ OS: {ok}
 
 
 ;The current operating system.
-Sistemi i tanishëm operativ.
+Sistemi operativ i tanishëm.
 
 
 ;Architecture:
@@ -642,7 +642,7 @@ Emër Sistemi:
 
 
 ;The current system name.
-Emri i sistemit të tanishëm.
+Emri i tanishëm i sistemit.
 
 
 ;System Version:
@@ -650,19 +650,19 @@ Version Sistemi:
 
 
 ;The Android OS revision.
-Versioni i Android OS-it.
+Numër rishikimi versioni SO Android.
 
 
 ;Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
-Furnizon a jo Firefox-i të dhëna liste bllokimi shtojcash, për t'ju mbrojtur nga shtesa dashakeqe. Si parazgjedhje, aktive.
+Furnizon a jo Firefox-i të dhëna listash bllokimesh shtojcash, për t’ju mbrojtur nga shtesa dashakeqe. Si parazgjedhje, është aktive.
 
 
 ;Telemetry Enabled:
-Telemetry-a e Aktivizuar:
+Me Telemetri të aktivizuar:
 
 
 ;Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
-Raporton a jo Firefox-i të dhëna të hollësishme përdorimi, për të ndihmuar programimin. Për shumicën e kanaleve është e çaktivizuar, si parazgjedhje.
+Nëse raporton apo jo Firefox-i të dhëna të hollësishme mbi përdorimin, për të ndihmuar në zhvillimin e tij. Për shumicën e kanaleve, parazgjedhja është off.
 
 
 ;Extension Count:
@@ -670,7 +670,7 @@ Numër Zgjerimesh:
 
 
 ;How many extension add-ons are installed.
-Sa shtesa zgjerimesh janë instaluar.
+Sa zgjerime janë instaluar.
 
 
 ;Plugin Count:
@@ -678,7 +678,7 @@ Numër Shtojcash:
 
 
 ;How many plugin add-ons are installed.
-Sa shtesa shtojcash janë instaluar.
+Sa shtojca janë instaluar.
 
 
 ;Theme Count:
@@ -686,7 +686,7 @@ Numër Temash:
 
 
 ;How many theme add-ons are installed.
-Sa shtesa temash janë instaluar.
+Sa tema janë instaluar.
 
 
 ;Addons:
@@ -694,7 +694,7 @@ Shtesa:
 
 
 ;A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
-Një koleksion që përshkruan shtesat e instaluara. Nuk raportohen krejt shtesat: vetëm shtojcat, zgjerimet, dhe shërbimet.
+Një koleksion që përshkruan shtesat e instaluara. Jo të gjitha shtesat raportohen: vetëm shtojcat, zgjerimet dhe shërbimet.
 
 
 ;Search Counts:
@@ -710,7 +710,7 @@ Kohë Sesionesh dhe Nisjesh
 
 
 ;For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
-Për çdo sesion shfletimi, Raporti i Shëndetit të Firefox-it regjistron afërsisht sa gjatë shfletuat (në sekonda), dhe nëse sesioni përfundoi normalisht apo për shkak të ndonjë vithisjeje. Përfshin gjithashtu kohë nisjesh (në milisekonda) në qoftë e mundur.
+Për çdo sesion shfletimi, Raporti mbi Shëndetin e Firefox-it regjistron afërsisht sa kohëë shfletuat (në sekonda), dhe nëse sesioni përfundoi normalisht apo për shkak të ndonjë vithisjeje. Përfshin gjithashtu kohë nisjesh (në milisekonda), në qoftë e mundur.
 
 
 ;Profile Creation:
@@ -722,11 +722,11 @@ Dita kur u krijua profili juaj i shfletuesit. Matur në ditë, që prej 1 Janari
 
 
 ;Learn More
-Mësoni Më tepër
+Mësoni Më Tepër
 
 
 ;Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
-Raporti i Shëndetit të Firefox-it (FHR) analizon të dhënat e funksionimit të shfletuesit tuaj, që t'ju furnizojë ndihmëza të vyera që ju ndihmojnë të arrimi më të mirën prej Firefox-it. Për më tepër të dhëna mbi Raportin e Shëndetit të Firefox-it, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>vizitoni ndarjen te Asistenca e Mozilla-s.</a>
+Raporti mbi Shëndetin e Firefox-it (FHR) analizon të dhënat e funksionimit të shfletuesit tuaj, që t’ju ofrojnë ndihmëza të vyera që ju ndihmojnë të arrini më të mirën prej Firefox-it. Për më tepër të dhëna rreth Raportit mbi Shëndetin e Firefox-it, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>vizitoni ndarjen te Asistenca e Mozilla-s.</a>
 
 
 ;For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
@@ -734,25 +734,25 @@ Për më tepër të dhëna se si i trajtojmë të dhënat tuaja, <a href="https:
 
 
 ;You are currently sharing your health report with Mozilla.
-Hëpërhë jeni duke e ndarë me Mozilla-n raportin tuaj të shëndetit.
+Jeni duke e ndarë me Mozilla-n Raportin tuaj mbi Shëndetin e Firefox-it.
 
 
 ;Choose what I share
-Zgjidhni se çfarë ndani
+Zgjidhni se ç’të ndahet
 
 
 ;You are currently not sharing your health report with Mozilla.
-Hëpërhë nuk e ndani me Mozilla-n raportin tuaj të shëndetit.
+Nuk e ndani me Mozilla-n Raportin tuaj mbi Shëndetin e Firefox-it.
 
 
 # This string is displayed when selecting Raw Data near the title
 ;Firefox Health Report (FHR) records anonymous data about your computer, configuration, usage, performance, and error conditions. This data helps us improve Firefox for you and for other Firefox users.
-Raporti Mbi Shëndetin e Firefox-it (FHR) regjistron të dhëna anonime mbi kompjuterin tuaj, formësimin e tij, përdorimin, punimin dhe kushte gabimesh. Këto të dhëna na ndihmojnë të përmirësojmë Firefox-in për ju dhe për të tjerë përdorues të Firefox-it.
+Raporti mbi Shëndetin e Firefox-it (FHR) regjistron të dhëna anonime mbi kompjuterin tuaj, formësimin e tij, përdorimin, punimin dhe kushte gabimesh. Këto të dhëna na ndihmojnë të përmirësojmë Firefox-in për ju dhe për të tjerë përdorues të tij.
 
 
 # This string is displayed when selecting Raw Data near the title
 # Links to https://gecko.readthedocs.org/en/latest/toolkit/components/telemetry/telemetry/
 ;Read technical documentation for the data format and fields.
-Rreth formatesh dhe fushash të dhënash lexoni dokumentimin.
+Lexoni dokumentim teknik mbi formate dhe fusha të dhënash.
 
 
