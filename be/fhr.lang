@@ -1,0 +1,758 @@
+## NOTE: To test this page you can open about:config and set datareporting.healthreport.about.reportUrl to https://fhr-dev.allizom.org/%LOCALE%/v4/
+## NOTE: Then open about:healthreport in Firefox
+
+
+;Firefox Health Report
+Справаздача пра стан Firefox
+
+
+;Raw Data
+Сырыя здаткі
+
+
+;Get insights and performance information about your version of Firefox.
+Углядзецца і атрымаць звесткі пра працавыніковасць вашай версіі Firefox.
+
+
+;Learn more...
+Падрабязней...
+
+
+;Data Sharing
+Падзел здаткамі
+
+
+;ON
+Укл.
+
+
+;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
+Вы вырашылі спыніць дзяліцца здаткамі з Mozilla, аднак вы ўсё яшчэ можаце бачыць, як ваш азіральнік выконваецца.
+
+
+;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
+Здаткі вашых справаздачаў пра стан будуць выдалены з паслугачоў Mozilla. Падрабязна ў нашай <a href="%(privacy_url)s">палітыцы адасаблення.</a>
+
+
+;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
+Вы вырашылі дзяліцца вашымі здаткамі з Mozilla час ад часу. Дзякуй вам за ўдзел у нашай місіі: пабудаваць больш яркае будучае Сеціва.
+
+
+;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
+Даведацца, як мы апрацоўваем вашы здаткі ў нашай <a href="%(privacy_url)s">палітыцы адасаблення.</a>
+
+
+;Vital Stats
+Істотная статыстыка
+
+
+;version
+версія
+
+
+;update channel
+update channel
+
+
+;updates
+updates
+
+
+# Possible value for "updates"
+;automatic
+automatic
+
+
+# Possible value for "updates"
+;prompt
+prompt
+
+
+;time open
+час працы
+
+
+;last crash
+апошні крах
+
+
+;bookmarks
+Закладкі
+
+
+;This Month
+Гэты месяц
+
+
+;total sessions
+total sessions
+
+
+;Active Add-ons
+Active Add-ons
+
+
+;Extensions
+Extensions
+
+
+;Plugins (Click-to-Activate)
+Plugins (Click-to-Activate)
+
+
+;crashes
+крахі
+
+
+;application crashes
+application crashes
+
+
+;plugin crashes
+plugin crashes
+
+
+;Add-ons
+Дадаткі
+
+
+;View List
+Прагляд спіса
+
+
+;enabled
+дазволена
+
+
+;disabled
+забаронена
+
+
+;Plugins
+Убудовы
+
+
+;always activate
+заўсёды задзейнічаць
+
+
+;ask to activate
+спытаць, каб задзейнічаць
+
+
+;never activate
+ніколі не задзейнічаць
+
+
+;Tips
+Парады
+
+
+;Wear and Tear
+Прарэхі
+
+
+;It looks like your browser has crashed a number of times recently. To learn more:
+Выглядае, што ваш азіральнік нядаўна пацярпеў крах некалькі разоў. Падрабязней:
+
+
+;OFF
+Выкл.
+
+
+;Visit our <a href="%(sumo_url)s">support website</a>
+Наведайце нашу <a href="%(sumo_url)s">пляцоўку падтрымкі</a>
+
+
+;View more <a href="%(details_url)s">detailed information</a>
+Прагляд больш <a href="%(details_url)s">падрабязных звестак</a>
+
+
+;pages visited
+наведаныя старонкі
+
+
+;Your browser seems to be running slower than usual. To learn more:
+Выглядае, што ваш азіральнік выконваецца марудней, чым раней. Падрабязней:
+
+
+;You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
+Вы будзеце здольнымі бачыць больш цікавыя і падрабязныя звесткі, калі будзеце больш карыстацца вашым азіральнікам. Вярніцеся праз пару тыдняў, каб пабачыць нейкія кірункі.
+
+
+;Startup Time by Day
+Час запуску штодзённа
+
+
+;Graph:
+Графік:
+
+
+;Average
+Сярэдняе
+
+
+;All
+Усё
+
+
+;Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
+Час запуску дапамагае вызначыць, як добра ваша версія Firefox выконваецца. Звычайна больш хуткі запуск (меншы час) паказвае на лепшую працавыніковасць.
+
+
+;Data Collected
+Назбіраныя здаткі
+
+
+;Glossary
+Тлумачнік
+
+
+;What the Firefox Health Report Measures
+Што справаздачнік стану Firefox вымярае
+
+
+;The Firefox Health Report (FHR) has 4 categories of metrics:
+Справаздачнік стану Firefox (FHR) мае 4 катэгорыі вымярэння:
+
+
+;Configuration
+Наладжванні
+
+
+;Device hardware, operating system, Firefox version
+Начынне збудовы, аперацыйная сістэма, версія Firefox
+
+
+;Customizations
+Уладкаванні
+
+
+;Add-ons, count and type
+Дадаткі, колькасць і тып
+
+
+;Performance
+Працавыніковасць
+
+
+;Timing of browser events, rendering, session restores
+Вымярэнні падзеяў азіральніка, адлюстравання, аднаўлення сэсіяў
+
+
+;Length of session, how old a profile is, count of crashes, count of pages
+Працяг сэсіі, узрост профілю, колькасць крахаў, колькасць старонак
+
+
+;Detailed Description
+Падрабязнае апісанне
+
+
+;Metric
+Вымярэнне
+
+
+;Description
+Апісанне
+
+
+;Binary interface for XPCOM
+Двайковы інтэрфэйс для XPCOM
+
+
+;Identifier for this build of the application based on the date the build was started
+Вызначальнік пабудовы гэтага прыстасавання, заснаваны на даце пачатка пабудовы
+
+
+;Operating System for which this build was configured
+Аперацыйная сістэма, для якой гэтая пабудова наладжана
+
+
+;Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
+Вызначальнік асаблівага распаўсюду прыстасавання, што ўжываецца. Узяты з перавагі <var>distribution.id</var>
+
+
+;Version of the distribution, taken from the <var>distribution.version</var> preference
+Версія распаўсюду, узятая з перавагі <var>distribution.version</var>
+
+
+;The version number of any Mozilla hotfix applied to the application
+Нумар версіі Mozilla хуткага выпраўлення, ужытага для прыстасавання
+
+
+;Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
+Адзіны вызначальнік прыстасавання, які адзначае яго ці як Firefox, ці як Thunderbird, ці як інш. Аднолькавы для ўсіх прыстасаванняў незалежна ад значэння <var>appName</var>
+
+
+;The configured name of the application (Firefox/Aurora/Nightly for instance)
+Наладжаная назва прыстасавання (напрыклад: Firefox/Aurora/Nightly)
+
+
+;The channel this installation checks for application updates (nightly/aurora/beta/release)
+Канал, на якім прыстасаванне правярае наяўнасць абнаўленняў (nightly/aurora/beta/release)
+
+
+;The name of the company/provider who built this version
+Назва прадпрыемства або дастаўшчыка, якія пабудавалі гэтую версію
+
+
+;The current version of the product
+Гэтачасовая версія прадукту
+
+
+;Number of processor cores
+Лік працэсарных ядраў
+
+
+;Whether the application is currently configured to be the default browser for the operating system
+Ці наладжана зараз прыстасаванне змоўчным азіральнікам аперацыйнай сістэмы
+
+
+;Locale currently being used
+Мясцовасць, якая зараз выкарыстоўваецца
+
+
+;Amount of RAM in megabytes
+Колькасць аператыўнай памяці (МБ)
+
+
+;Currently running Operating System (kernel) name
+Назва аперацыйнай сістэмы (ядра), якая зараз выконваецца
+
+
+;Currently running Operating System (kernel) version
+Версія аперацыйнай сістэмы (ядра), якая зараз выконваецца
+
+
+;The build identifier of the Gecko platform code
+Вызначальнік пабудовы кода платформы Gecko
+
+
+;The version of the Gecko platform code
+Версія кода платформы Gecko
+
+
+;Processor architecture
+Архітэктура працэсара
+
+
+;The date this version was first used with this installation profile
+Дата, калі гэтая версія была ўпершыню ўжыта з гэтым профілям усталявання
+
+
+;An application version which has been used with this installation profile
+Версія прыстасавання, якая была ўпершыню ўжыта з гэтым профілям усталявання
+
+
+;The number of add-ons of this type that existed in the profile on this date
+Лік дадаткаў гэтага тыпу, якія існавалі ў профілю на гэтую дату
+
+
+;<var>True</var> if the application automatically disabled the add-on
+<var>True</var>, калі прыстасаванне самастойна забараніла дадатак
+
+
+;Whether this add-on was installed by the user or automatically by another application
+Ці гэты дадатак быў усталяваны карыстальнікам або іншым прыстасаваннем самастойна
+
+
+;Whether this add-on has native code.
+Ці мае гэты дадатак родны код.
+
+
+;The identifier of this add-on as defined by the add-on developer
+Вызначальнік гэтага дадатка, прызначаны распрацаўніком дадатка
+
+
+;The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
+Найбольш апошняя дата, калі дадатак быў усталяваны (звесткі пра папярэдне высталяваныя дадаткі не ўтрымліваюцца).
+
+
+;The number of searches performed with this search engine from this part of the UI
+Лік пошукаў, выкананы з дапамогаю гэтай машыны пошукаў з гэтай адзінкі інтэрфэйса
+
+
+;Whether this add-on was installed in the application directory or profile directory
+Ці быў гэты дадатак усталяваны ў дырэкторыю прыстасавання або дырэкторыю профілю
+
+
+;Whether this add-on is an extension or a plug-in
+Ці гэты дадатак прыстасаванне або ўбудова
+
+
+;The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
+Найбольш апошняя дата, калі дадатак быў абноўлены (звесткі пра папярэдне высталяваныя дадаткі не ўтрымліваюцца).
+
+
+;<var>True</var> if the user manually disabled the add-on
+<var>True</var>, калі карыстальнік уручную забараніў дадатак
+
+
+;The current version of this add-on
+Цяперашняя версія дадатка
+
+
+;How long in milliseconds it took during startup for the application to render the UI and display the window
+Колькі мілісекундаў каштавала прыстасаванню адлюстраваць інтэрфэйс і акно падчас запуску
+
+
+;How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
+Колькі мілісекундаў каштавала прыстасаванню загрузіць бібліятэкі і завяршыць асноўнае прадвызначэнне падчас запуску
+
+
+;How long in milliseconds it took during startup for the application to restore tabs from the previous session
+Колькі мілісекундаў каштавала прыстасаванню аднавіць устаўкі папярэдняй сэсіі падчас запуску
+
+
+;The number of times the application was run and not cleanly shut down.
+Колькасць разоў, калі прыстасаванне крыва закрылася пасля запуску.
+
+
+;The time in seconds that the aborted sessions were not idle
+Лік секундаў, якіх абарваныя сэсіі не былі бяздзейнымі
+
+
+;The time in seconds that the aborted sessions were running
+Лік секундаў, якіх абарваныя сэсіі былі дзейнымі
+
+
+;The number of days since this application profile directory was created
+Лік дзён ад стварэння дырэкторыі профілю прыстасавання
+
+
+;The number of times the application was run and cleanly shut down.
+Колькасць разоў, калі прыстасаванне чыста закрылася пасля запуску.
+
+
+;The time in seconds that the completed sessions were not idle
+Лік секундаў, якіх скончаныя сэсіі не былі бяздзейнымі
+
+
+;The time in seconds that the completed sessions were running
+Лік секундаў, якіх скончаныя сэсіі былі дзейнымі
+
+
+;Total number of crashes that were recorded but not yet submitted
+Агульная колькасць крахаў, якія не пададзены
+
+
+;Total number of crashes that have been submitted
+Агульная колькасць пададзеных крахаў
+
+
+;Time in seconds the app has not been idle
+Лік секундаў, якіх прыстасаванне не было бяздзейным
+
+
+;Time in seconds since the app was last started
+Лік секундаў, якія прайшлі ад запуску прыстасавання
+
+
+;Total number of bookmarks
+Агульны лік закладак
+
+
+;Total number of pages listed in the history
+Агульны лік старонак, пералічаных у гісторыі
+
+
+;How long in minutes the current session has been running
+Як доўга ў хвілінах цяперашняя сэсія выконваецца
+
+
+;Welcome to your Firefox Health Report
+Калі ласка да вашай справаздачы пра стан Firefox
+
+
+;Welcome!
+Калі ласка!
+
+
+;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
+Справаздача пра стан Firefox дазваляе вам даведацца, як Firefox выконваецца і што вы можаце зрабіць для паляпшэння.
+
+
+;See My Report
+Прабачыць маю справаздачу
+
+
+;Time (in seconds)
+Час (у секундах)
+
+
+;Show Statistics
+Паказаць статыстыку
+
+
+;Privacy Policy
+Палітыка адасаблення
+
+
+# The following strings are used only in the Mobile version of about:healthreport (Firefox for Android)
+;Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
+Справаздачнік стану Firefox дазваляе вам удасканаліць ваш Firefox і дапамагае нам пабудаваць больш выдатны азіральнік. Справаздачы будуць вельмі простымі спачатку, але будуць развівацца і расці.
+
+
+;Learn More&hellip;
+Падрабязней&hellip;
+
+
+;Tip
+Парада
+
+
+;Looks like your Firefox is brand new! Check back after using Firefox for a while.
+Ваш Firefox выглядае новым! Праверце пасля, праз нейкі час карыстання Firefox.
+
+
+;Important Metrics
+Важныя вымярэнні
+
+
+;Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
+Справаздачнік стану Firefox запісвае звесткі пра ваш азіральнік і збудову. Вы можаце <a href="#raw" class="navigate">пабачыць звесткі, якія мы запісваем.</a> Вы можаце пабачыць таксама, чым вы дзеліцеся з Mozilla.
+
+
+;Device hardware, operating system, Firefox version.
+Начынне збудовы, аперацыйная сістэма, версія Firefox.
+
+
+;Extensions, plugins, and number of installed add-ons.
+Пашырэнні, збудовы, лік усталяваных дадаткаў.
+
+
+;Key performance measures, such as launch speed.
+Ключавыя меры працавыніковасці, такія, як хуткасць запуску.
+
+
+;Browsing duration, install time, number of bookmarks and pages.
+Працягласць азірання, час усталявання, лік закладак і старонак.
+
+
+;Home
+Хатняя старонка
+
+
+;CPU Count:
+Лік ЦП:
+
+
+;The number of CPU cores reported by Android.
+Лік ядраў ЦП, паведамлены Android.
+
+
+;Memory in MB:
+Памяць у МБ:
+
+
+;The amount of memory reported by Android. Typically excludes graphics memory.
+Памер памяці, паведамлены Android. Звычайна за выключэннем графічнай памяці.
+
+
+;Application Name:
+Назва прыстасавання:
+
+
+;The internal application name for the browser.
+Унутраная назва прыстасавання для азіральніка.
+
+
+;Application ID:
+Вызначальнік прыстасавання:
+
+
+;The internal identifier for the application.
+Унутраны вызначальнік прыстасавання.
+
+
+;Application Version:
+Версія прыстасавання:
+
+
+;The current version of the browser
+Цяперашняя версія азіральніка
+
+
+;Application Build ID:
+Вызначальнік пабудовы прыстасавання:
+
+
+;The internal build timestamp.
+Унутраная часаадзнака пабудовы.
+
+
+;Update Channel:
+Канал абнаўлення:
+
+
+;Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
+Firefox распаўсюджваецца праз каналы: начныя пабудовы, канал перадвыдання Аўрора, устойлівая Бета, прылюдныя выданні. Гэтае поле вызначае канал.
+
+
+;Vendor:
+Прадавец:
+
+
+;The organization that built this application. Typically Mozilla.
+Установа, якая пабудавала прыстасаванне. Звычайна Mozilla.
+
+
+;Platform Version:
+Версія платформы:
+
+
+;An internal version identifier. Typically the same as appVersion.
+Унутраны вызначальнік версіі. Звычайна аднолькавы з appVersion.
+
+
+;Platform Build ID:
+Вызначальнік пабудовы платформы:
+
+
+;On Android this is an alternative name for appBuildID.
+На Android гэта альтэрнатыўная назва appBuildID.
+
+
+;xpcomabi:
+xpcomabi: {ok}
+
+
+;The CPU architecture for which this application was built.
+Архітэктура ЦП, для якой прыстасаванне было пабудавана.
+
+
+;OS:
+АС:
+
+
+;The current operating system.
+Гэтачасовая аперацыйная сістэма.
+
+
+;Architecture:
+Архітэктура:
+
+
+;The CPU architecture for this device.
+Архітэктура ЦП гэтай збудовы.
+
+
+;System Name:
+Назва сістэмы:
+
+
+;The current system name.
+Назва гэтачасовай сістэмы.
+
+
+;System Version:
+Версія сістэмы:
+
+
+;The Android OS revision.
+Перагляд АС Android OS.
+
+
+;Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
+Ці Firefox атрымлівае чорны спіс дадаткаў, каб засцерагчы вас ад зламысных дадаткаў. Змоўчна ўкл.
+
+
+;Telemetry Enabled:
+Тэлеметрыя дазволена:
+
+
+;Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
+Ці Firefox робіць справаздачу падрабязных здаткаў выкарыстання, каб дапамагчы распрацоўцы. Змоўчна выкл. для большасці каналаў.
+
+
+;Extension Count:
+Лік пашырэння:
+
+
+;How many extension add-ons are installed.
+Колькі пашырэнняў усталявана.
+
+
+;Plugin Count:
+Лік убудоваў:
+
+
+;How many plugin add-ons are installed.
+Колькі ўбудоваў усталявана.
+
+
+;Theme Count:
+Лік тэмаў:
+
+
+;How many theme add-ons are installed.
+Колькі тэмаў усталявана.
+
+
+;Addons:
+Дадаткі:
+
+
+;A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
+Збор, які апісвае ўсталяваныя дадткі. Не ўсе пералічваюцца, толькі ўбудовы, пашырэнні, службы.
+
+
+;Search Counts:
+Лік пошукаў:
+
+
+;A count of how many searches you issued to each of Mozilla's partner providers.
+Колькі пошукаў вы зрабілі на кожным з дастаўшчыкоў-партнёраў Mozilla.
+
+
+;Sessions and Startup Times
+Часы сэсіяў і запускаў
+
+
+;For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
+Справаздачнік стану Firefox запісвае прыблізную працягласць кожнай сэсіі азірання, якім чынам яна скончылася, звычайна або з крахам. Таксама ўключаюцца часы працягласць запускаў (у мілісекундах), калі даступна.
+
+
+;Profile Creation:
+Стварэнне профілю:
+
+
+;The day on which your browser profile was created. Counted in days since January 1st 1970.
+Дата, калі профіль азіральніка быў створаны. Лічыцца ў днях з 1-га студзеня 1970 г.
+
+
+;Learn More
+Падрабязней
+
+
+;Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
+Справаздачнік стану Firefox (FHR) даследуе звесткі працавыніковасці азіральніка, каб даць вам карысныя парады для атрымання лепшага з Firefox. Каб атрымаць больш падрабязныя звесткі пра справаздачнік стану Firefox, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>наведайце раздзел падтрымкі Mozilla.</a>
+
+
+;For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
+Каб атрымаць больш падрабязныя звесткі пра апрацоўку намі вашых здаткаў, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>пазнаёмцеся з нашай палітыкай захавання адасаблення.</a>
+
+
+;You are currently sharing your health report with Mozilla.
+Вы зараз дзеліцеся вашай справаздачай пра стан з Mozilla.
+
+
+;Choose what I share
+Выбраць, чым дзяліцца
+
+
+;You are currently not sharing your health report with Mozilla.
+Вы зараз не дзеліцеся вашай справаздачай пра стан з Mozilla.
+
+
+# This string is displayed when selecting Raw Data near the title
+;Firefox Health Report (FHR) records anonymous data about your computer, configuration, usage, performance, and error conditions. This data helps us improve Firefox for you and for other Firefox users.
+Firefox Health Report (FHR) records anonymous data about your computer, configuration, usage, performance, and error conditions. This data helps us improve Firefox for you and for other Firefox users.
+
+
+# This string is displayed when selecting Raw Data near the title
+# Links to https://gecko.readthedocs.org/en/latest/toolkit/components/telemetry/telemetry/
+;Read technical documentation for the data format and fields.
+Read technical documentation for the data format and fields.
+
+
