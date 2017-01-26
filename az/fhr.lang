@@ -269,7 +269,7 @@ Bu struktur üçün sazlanmış əməliyyat sistemi
 
 
 ;Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
-Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
+İstifadədə olan tətbiqetmənin ayrıca paylanması. <var>distribution.id</var> nizamlamalarından götürülüb
 
 
 ;Version of the distribution, taken from the <var>distribution.version</var> preference
@@ -281,7 +281,7 @@ Tətbiqə tətbiq olunmuş hər bir Mozilla düzəlişinin buraxılış versiyas
 
 
 ;Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
-Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
+Tətbiqetmənin Firefox və ya Thunderbird və s. olmadığını bildirən unikal identifikator. <var>appName</var> dəyərindən asılı olmayaraq tətbiqetmənin bütün yükləmələri üçün eynidir
 
 
 ;The configured name of the application (Firefox/Aurora/Nightly for instance)
