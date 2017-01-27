@@ -586,7 +586,7 @@ Yenilənmə Kanalı:
 
 
 ;Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
-Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
+Firefox, Nightly yığımlar, Aurora ön buraxılış kanalı, stabil Beta və kütləvi buraxılışlar vasitəsi ilə yayılır. Bu sahə kanalı müəyyən edir.
 
 
 ;Vendor:
@@ -662,7 +662,7 @@ Telemetriya Aktivləşdirilib:
 
 
 ;Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
-Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
+Firefox inkişafa dətək olmaq üçün istifadə haqqında məlumatları təfərrüatlı şəkildə təqdim edəcəkmi. Bir çox kanal üçün standart olaraq sönülüdür.
 
 
 ;Extension Count:
@@ -710,7 +710,7 @@ Sessiyalar və Başlama Vaxtları
 
 
 ;For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
-For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
+Hər səyahət seansında Firefox Sağlamlıq Hesabatı təqribi səyahət vaxtını ölçür (saniyələrlə) və seansın normal və ya qəza nəticəsində bitdiyini qeyd edir. Həmçinin mümkün olduqda başlatma vaxtını ölçür (millisaniyələrlə).
 
 
 ;Profile Creation:
