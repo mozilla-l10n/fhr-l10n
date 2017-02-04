@@ -77,7 +77,7 @@ last crash
 
 
 ;bookmarks
-bookmarks
+mga bookmark
 
 
 ;This Month
@@ -101,7 +101,7 @@ Plugins (Click-to-Activate)
 
 
 ;crashes
-crashes
+mga crash
 
 
 ;application crashes
@@ -129,19 +129,19 @@ disabled
 
 
 ;Plugins
-Plugins
+Mga Plugin
 
 
 ;always activate
-always activate
+palaging i-activate
 
 
 ;ask to activate
-ask to activate
+itanong bago i-activate
 
 
 ;never activate
-never activate
+huwag i-activate
 
 
 ;Tips
@@ -530,11 +530,11 @@ Browsing duration, install time, number of bookmarks and pages.
 
 
 ;Home
-Home
+Home {ok}
 
 
 ;CPU Count:
-CPU Count:
+CPU Count: {ok}
 
 
 ;The number of CPU cores reported by Android.
@@ -542,7 +542,7 @@ The number of CPU cores reported by Android.
 
 
 ;Memory in MB:
-Memory in MB:
+Memory in MB: {ok}
 
 
 ;The amount of memory reported by Android. Typically excludes graphics memory.
@@ -622,7 +622,7 @@ The CPU architecture for which this application was built.
 
 
 ;OS:
-OS:
+OS: {ok}
 
 
 ;The current operating system.
@@ -630,7 +630,7 @@ The current operating system.
 
 
 ;Architecture:
-Architecture:
+Architecture: {ok}
 
 
 ;The CPU architecture for this device.
@@ -638,7 +638,7 @@ The CPU architecture for this device.
 
 
 ;System Name:
-System Name:
+System Name: {ok}
 
 
 ;The current system name.
