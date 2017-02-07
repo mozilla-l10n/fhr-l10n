@@ -710,7 +710,7 @@ Kohë Sesionesh dhe Nisjesh
 
 
 ;For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
-Për çdo sesion shfletimi, Raporti mbi Shëndetin e Firefox-it regjistron afërsisht sa kohëë shfletuat (në sekonda), dhe nëse sesioni përfundoi normalisht apo për shkak të ndonjë vithisjeje. Përfshin gjithashtu kohë nisjesh (në milisekonda), në qoftë e mundur.
+Për çdo sesion shfletimi, Raporti mbi Shëndetin e Firefox-it regjistron afërsisht sa kohë shfletuat (në sekonda), dhe nëse sesioni përfundoi normalisht apo për shkak të ndonjë vithisjeje. Përfshin gjithashtu kohë nisjesh (në milisekonda), në qoftë e mundur.
 
 
 ;Profile Creation:
