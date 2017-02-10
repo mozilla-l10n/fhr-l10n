@@ -85,19 +85,19 @@
 
 
 ;total sessions
-total sessions
+усяго сесій
 
 
 ;Active Add-ons
-Active Add-ons
+Актыўныя дадаткі
 
 
 ;Extensions
-Extensions
+Пашырэнні
 
 
 ;Plugins (Click-to-Activate)
-Plugins (Click-to-Activate)
+Убудовы (Уключаюцца-па-пстрычцы)
 
 
 ;crashes
@@ -105,11 +105,11 @@ Plugins (Click-to-Activate)
 
 
 ;application crashes
-application crashes
+збоі прыкладання
 
 
 ;plugin crashes
-plugin crashes
+збоі ўбудоў
 
 
 ;Add-ons
@@ -747,12 +747,12 @@ xpcomabi: {ok}
 
 # This string is displayed when selecting Raw Data near the title
 ;Firefox Health Report (FHR) records anonymous data about your computer, configuration, usage, performance, and error conditions. This data helps us improve Firefox for you and for other Firefox users.
-Firefox Health Report (FHR) records anonymous data about your computer, configuration, usage, performance, and error conditions. This data helps us improve Firefox for you and for other Firefox users.
+Справаздача аб працаздольнасці Firefox (FHR) запісвае ананімныя дадзеныя аб вашым кампутары, канфігурацыі, выкарыстанні, прадукцыйнасці і ўмовах узнікнення памылак. Гэтыя дадзеныя дапамагаюць нам палепшыць Firefox для вас і для іншых карыстальнікаў Firefox.
 
 
 # This string is displayed when selecting Raw Data near the title
 # Links to https://gecko.readthedocs.org/en/latest/toolkit/components/telemetry/telemetry/
 ;Read technical documentation for the data format and fields.
-Read technical documentation for the data format and fields.
+Прачытаць тэхнічную дакументацыю на фармат і інфармацыйныя палі.
 
 
