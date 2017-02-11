@@ -105,11 +105,11 @@
 
 
 ;application crashes
-збоі прыкладання
+крахі праграмы
 
 
 ;plugin crashes
-збоі ўбудоў
+крахі ўбудоў
 
 
 ;Add-ons
@@ -747,7 +747,7 @@ xpcomabi: {ok}
 
 # This string is displayed when selecting Raw Data near the title
 ;Firefox Health Report (FHR) records anonymous data about your computer, configuration, usage, performance, and error conditions. This data helps us improve Firefox for you and for other Firefox users.
-Справаздача аб працаздольнасці Firefox (FHR) запісвае ананімныя дадзеныя аб вашым кампутары, канфігурацыі, выкарыстанні, прадукцыйнасці і ўмовах узнікнення памылак. Гэтыя дадзеныя дапамагаюць нам палепшыць Firefox для вас і для іншых карыстальнікаў Firefox.
+Справаздача аб працаздольнасці Firefox (FHR) запісвае ананімныя звесткі пра ваш камп'ютар, канфігурацыю, выкарыстанне, прадукцыйнасць і ўмовы ўзнікнення памылак. Гэтыя звескі дапамагаюць нам палепшыць Firefox для вас і для іншых карыстальнікаў Firefox.
 
 
 # This string is displayed when selecting Raw Data near the title
