@@ -3,7 +3,7 @@
 
 
 ;Firefox Health Report
-فائرفاکس صحت رپورٹ
+Firefox صحت رپورٹ
 
 
 ;Raw Data
@@ -11,7 +11,7 @@
 
 
 ;Get insights and performance information about your version of Firefox.
-فائر فاکس کے ورژن کے بارے میں بصیرت اور کارکردگی کی معلومات حاصل کریں۔
+Firefox کے ورژن کے بارے میں بصیرت اور کارکردگی کی معلومات حاصل کریں۔
 
 
 ;Learn more...
@@ -197,7 +197,7 @@
 
 
 ;Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
-آغاز وقت اس بات کا تعین کرنے میں معاونت کرتا ہے کہ آپ کا فائر فاکس ورژن کیسی کارکردگی کا مظاہرہ کر رہا ہے۔ عموما تیز تر اوقات (یعنی کم وقت) بہتر کارکردگی کی نشاندہی کرتے ہیں۔
+آغاز وقت اس بات کا تعین کرنے میں معاونت کرتا ہے کہ آپ کا Firefox ورژن کیسی کارکردگی کا مظاہرہ کر رہا ہے۔ عموما تیز تر اوقات (یعنی کم وقت) بہتر کارکردگی کی نشاندہی کرتے ہیں۔
 
 
 ;Data Collected
@@ -209,11 +209,11 @@
 
 
 ;What the Firefox Health Report Measures
-فائر فاکس صحت رپورٹ کس چیز کی پیمائش کرتی ہے
+Firefox صحت رپورٹ کس چیز کی پیمائش کرتی ہے
 
 
 ;The Firefox Health Report (FHR) has 4 categories of metrics:
-فائر فاکس صحت رپورٹ (FHR) کے میٹرک 4 زمرہ جات کے ہیں:
+Firefox صحت رپورٹ (FHR) کے میٹرک 4 زمرہ جات کے ہیں:
 
 
 ;Configuration
@@ -221,7 +221,7 @@
 
 
 ;Device hardware, operating system, Firefox version
-آلہ ہارڈ ویئر، آپریٹنگ سسٹم، فائر فاکس ورژن
+آلہ ہارڈ ویئر، آپریٹنگ سسٹم، Firefox ورژن
 
 
 ;Customizations
@@ -281,11 +281,11 @@ XPCOM کے لئے ثنائی مواجہ
 
 
 ;Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
-ایپلی کیشن کا منفرد شناخت کنندہ جو نشاندہی کرتا ہے کہ یہ فائر فاکس یا تھنڈر برڈ وغیرہ ہے۔ <var>appName</var> کی قدر سے قطع نظر ایک ایپلی کیشن کی تمام تنصیبات کے لیے ایک ہی ہے
+ایپلی کیشن کا منفرد شناخت کنندہ جو نشاندہی کرتا ہے کہ یہ Firefox یا تھنڈر برڈ وغیرہ ہے۔ <var>appName</var> کی قدر سے قطع نظر ایک ایپلی کیشن کی تمام تنصیبات کے لیے ایک ہی ہے
 
 
 ;The configured name of the application (Firefox/Aurora/Nightly for instance)
-ایپلی کیشن کا تشکیل شدہ نام (مثال کے طور پر فائر فاکس/ارورا/نائٹلی)
+ایپلی کیشن کا تشکیل شدہ نام (مثال کے طور پر Firefox/Aurora/Nightly)
 
 
 ;The channel this installation checks for application updates (nightly/aurora/beta/release)
@@ -461,7 +461,7 @@ XPCOM کے لئے ثنائی مواجہ
 
 
 ;Welcome to your Firefox Health Report
-آپ کی فائر فاکس صحت رپورٹ میں خوش آمدید
+آپ کی Firefox صحت رپورٹ میں خوش آمدید
 
 
 ;Welcome!
@@ -469,7 +469,7 @@ XPCOM کے لئے ثنائی مواجہ
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
-فائر فاکس صحت رپورٹ آپ کے علم میں لاتی ہے کہ آپ کے فائر فاکس کی کارکردگی کیسی ہے اور اسے بہتر بنانے کے لیے آپ کیا کر سکتے ہیں۔
+Firefox صحت رپورٹ آپ کے علم میں لاتی ہے کہ آپ کے Firefox کی کارکردگی کیسی ہے اور اسے بہتر بنانے کے لیے آپ کیا کر سکتے ہیں۔
 
 
 ;See My Report
@@ -490,7 +490,7 @@ XPCOM کے لئے ثنائی مواجہ
 
 # The following strings are used only in the Mobile version of about:healthreport (Firefox for Android)
 ;Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
-فائر فاکس تندرستی رپورٹ آپ کو فائرفاکس کو تیز ترین بنانے میں اور ہمیں اور بھی بہتر براؤزر بنانے دیتی ہے۔ رپورٹس شروع میں کافی سادہ ہوں گی، لیکن آگے چل کر بڑھتی اور بہتر ہوتی جائیں گی۔
+Firefox تندرستی رپورٹ آپ کو Firefox کو تیز ترین بنانے میں اور ہمیں اور بھی بہتر براؤزر بنانے دیتی ہے۔ رپورٹس شروع میں کافی سادہ ہوں گی، لیکن آگے چل کر بڑھتی اور بہتر ہوتی جائیں گی۔
 
 
 ;Learn More&hellip;
@@ -502,7 +502,7 @@ XPCOM کے لئے ثنائی مواجہ
 
 
 ;Looks like your Firefox is brand new! Check back after using Firefox for a while.
-لگتا ہے کہ آپ کا فائر فاکس بلکل نیا ہے! فائر فاکس کو کچھ دیر استعمال کرنے کے بعد پھر آکر چیک کریں۔
+لگتا ہے کہ آپ کا Firefox بلکل نیا ہے! Firefox کو کچھ دیر استعمال کرنے کے بعد پھر آکر چیک کریں۔
 
 
 ;Important Metrics
@@ -514,7 +514,7 @@ Firefox Health Report آپ کے براؤزر اور آلے کے بارے میں 
 
 
 ;Device hardware, operating system, Firefox version.
-آلہ ہارڈ ویئر، آپریٹنگ نظام، فائر فاکس ورژن۔
+آلہ ہارڈ ویئر، آپریٹنگ نظام، Firefox ورژن۔
 
 
 ;Extensions, plugins, and number of installed add-ons.
@@ -710,7 +710,7 @@ xpcomabi: {ok}
 
 
 ;For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
-ہر ایک براؤزنگ سیشن کے لئے، فائر فاکس ہیلتھ رپورٹ ریکارڈز تقریبا  آپ  کب تک  براؤز   (سیکنڈوں میں) ،اورجہاں سیشن چاہے عام طور پر یا   یا کسی حادثے سے ختم ہوا ہو. اس کے علاوہ (ملی سیکنڈ میں) ابتدائیہ اوقات دستیاب سیشن اور آغاز بارشکریہ تو شامل ہیں
+ہر ایک براؤزنگ سیشن کے لئے، Firefox ہیلتھ رپورٹ ریکارڈز تقریبا آپ کب تک براؤز (سیکنڈوں میں) ،اورجہاں سیشن چاہے عام طور پر یا یا کسی حادثے سے ختم ہوا ہو۔ اس کے علاوہ (ملی سیکنڈ میں) ابتدائیہ اوقات دستیاب سیشن اور آغاز بارشکریہ تو شامل ہیں۔
 
 
 ;Profile Creation:
@@ -726,7 +726,7 @@ xpcomabi: {ok}
 
 
 ;Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
-فائرفاکس صحت رپورٹ (FHR) آپ کے براؤزر کی کارکردگی معلومات کا تجزیہ کرتا ہے، تاکہ آ اور آپ کو مفید ٹوٹکے فراہم کریں تاکہ آپ فائرفاکس سے بہترین حاصل کر سکیں۔ فائرفاکس صحت رپورٹ پر مزید معلومات کے لیئے <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"></span> موزیلا تعاون کار صیغہ کا دورہ کریں۔ </a>
+Firefox صحت رپورٹ (FHR) آپ کے براؤزر کی کارکردگی معلومات کا تجزیہ کرتا ہے، تاکہ آ اور آپ کو مفید ٹوٹکے فراہم کریں تاکہ آپ Firefox سے بہترین حاصل کر سکیں۔ Firefox صحت رپورٹ پر مزید معلومات کے لیئے، <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span> Mozilla تعاون کار صیغہ کا دورہ کریں۔ </a>
 
 
 ;For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
@@ -747,7 +747,7 @@ xpcomabi: {ok}
 
 # This string is displayed when selecting Raw Data near the title
 ;Firefox Health Report (FHR) records anonymous data about your computer, configuration, usage, performance, and error conditions. This data helps us improve Firefox for you and for other Firefox users.
-فائر فاکس صحت رپورٹ (FHR)  آپکے کمپیوٹر کی تشکیل، استعمال، کارکردگی، اور نقص کی حالت کے بارے میں گمنام کوائف ریکارڈ کرتا ہے۔ یہ کوائف ہمیں آپ اور دوسرے صارفین کے لیئے فائرفاکس کو بہتر کرنے میں مدد دیتے ہیں۔
+Firefox صحت رپورٹ (FHR)  آپکے کمپیوٹر کی تشکیل، استعمال، کارکردگی، اور نقص کی حالت کے بارے میں گمنام کوائف ریکارڈ کرتا ہے۔ یہ کوائف ہمیں آپ اور دوسرے صارفین کے لیئے Firefox کو بہتر کرنے میں مدد دیتے ہیں۔
 
 
 # This string is displayed when selecting Raw Data near the title
