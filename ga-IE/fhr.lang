@@ -27,7 +27,7 @@ AR SIÚL
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
-Dúirt tú nár mhaith leat sonraí a sheoladh chuig Mhozilla, ach beidh tú ábalta feidhmíocht do bhrabhsálaí a iniúchadh mar sin féin.
+Dúirt tú nár mhaith leat sonraí a sheoladh chuig Mhozilla, ach beidh tú ábalta feidhmíocht do bhrabhsálaí a iniúchadh mar sin féin.
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
@@ -35,11 +35,11 @@ Scriosfar do chuid sonraí ó Thuairiscí Sláinte ó fhreastalaithe Mozilla. Fa
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
-Dúirt tú go mbeifeá sásta sonraí a chomhroinnt le Mozilla anois is arís. Go raibh maith agat as cabhrú linn feabhas a chur ar an nGréasán.
+Dúirt tú go mbeifeá sásta sonraí a chomhroinnt le Mozilla anois is arís. Go raibh maith agat as cabhrú linn feabhas a chur ar an nGréasán.
 
 
 ;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
-Faigh tuilleadh eolais faoi úsáid do chuid sonraí sa <a href="%(privacy_url)s">bpolasaí príobháideachta.</a>
+Faigh tuilleadh eolais faoi úsáid do chuid sonraí sa <a href="%(privacy_url)s">bpolasaí príobháideachta.</a>
 
 
 ;Vital Stats
@@ -153,7 +153,7 @@ Caitheamh is Cuimilt
 
 
 ;It looks like your browser has crashed a number of times recently. To learn more:
-Dealraíonn sé gur thuairteáil do bhrabhsálaí cúpla uair le déanaí. Tuilleadh eolais:
+Dealraíonn sé gur thuairteáil do bhrabhsálaí cúpla uair le déanaí. Tuilleadh eolais:
 
 
 ;OFF
@@ -445,7 +445,7 @@ Cá fhad atá an feidhmchlár gníomhach, i soicindí
 
 
 ;Time in seconds since the app was last started
-Cá fhad ó tosaíodh an feidhmchlár
+Cá fhad ó tosaíodh an feidhmchlár
 
 
 ;Total number of bookmarks
@@ -490,7 +490,7 @@ Polasaí Príobháideachta
 
 # The following strings are used only in the Mobile version of about:healthreport (Firefox for Android)
 ;Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
-Is féidir leat an Tuairisc Shláinte a úsáid chun Firefox a optamú, agus is mór an chabhair dúinn na sonraí seo agus Firefox á fheabhsú. I dtosach báire, ní fhaigheann tú ach tuairiscí an-simplí, ach éireoidh siad níos cuimsithí de réir a chéile.
+Is féidir leat an Tuairisc Shláinte a úsáid chun Firefox a optamú, agus is mór an chabhair dúinn na sonraí seo agus Firefox á fheabhsú. I dtosach báire, ní fhaigheann tú ach tuairiscí an-simplí, ach éireoidh siad níos cuimsithí de réir a chéile.
 
 
 ;Learn More&hellip;
@@ -510,7 +510,7 @@ Méadrachtaí Tábhachtacha
 
 
 ;Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
-Déanann Tuairisc Shláinte Firefox taifead ar fhaisnéis a bhaineann le do bhrabhsálaí agus le do ghléas. Is féidir leat <a href="#raw" class="navigate">an fhaisnéis seo go léir a fheiceáil.</a> Is féidir na sonraí a sheolann tú chuig Mozilla a fheiceáil freisin.
+Déanann Tuairisc Shláinte Firefox taifead ar fhaisnéis a bhaineann le do bhrabhsálaí agus le do ghléas. Is féidir leat <a href="#raw" class="navigate">an fhaisnéis seo go léir a fheiceáil.</a> Is féidir na sonraí a sheolann tú chuig Mozilla a fheiceáil freisin.
 
 
 ;Device hardware, operating system, Firefox version.
@@ -610,7 +610,7 @@ Aitheantas Tógála an Ardáin:
 
 
 ;On Android this is an alternative name for appBuildID.
-Ar Android, is ainm malartach ar appBuildID é seo.
+Ar Android, is ainm malartach ar appBuildID é seo.
 
 
 ;xpcomabi:
