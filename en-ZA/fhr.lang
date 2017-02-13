@@ -51,7 +51,7 @@ version {ok}
 
 
 ;update channel
-update channel: {ok}
+update channel:
 
 
 ;updates
