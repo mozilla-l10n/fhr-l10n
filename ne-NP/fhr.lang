@@ -1,13 +1,12 @@
 ## NOTE: To test this page you can open about:config and set datareporting.healthreport.about.reportUrl to https://fhr-dev.allizom.org/%LOCALE%/v4/
 ## NOTE: Then open about:healthreport in Firefox
 
-
 ;Firefox Health Report
-Firefox Health Report
+Firefox स्वास्थ्य विवरण
 
 
 ;Raw Data
-Raw Data
+अप्रसोधित डाटाहरू
 
 
 ;Get insights and performance information about your version of Firefox.
@@ -47,11 +46,11 @@ Vital Stats
 
 
 ;version
-version
+संस्करण
 
 
 ;update channel
-update channel
+अद्यावधि च्यानल
 
 
 ;updates
@@ -60,24 +59,24 @@ updates
 
 # Possible value for "updates"
 ;automatic
-automatic
+स्वाचालित
 
 
 # Possible value for "updates"
 ;prompt
-prompt
+प्रोम्प्ट
 
 
 ;time open
-time open
+खुला रहेको समय
 
 
 ;last crash
-last crash
+अन्तिम क्र्यास
 
 
 ;bookmarks
-bookmarks
+पुस्तकचिनोहरू
 
 
 ;This Month
@@ -249,11 +248,11 @@ Detailed Description
 
 
 ;Metric
-Metric
+मेट्रिक
 
 
 ;Description
-Description
+वर्णन
 
 
 ;Binary interface for XPCOM
