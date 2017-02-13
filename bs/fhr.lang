@@ -51,21 +51,21 @@ verzija
 
 
 ;update channel
-update channel
+kanal nadogradnji:
 
 
 ;updates
-updates
+nadogradnje
 
 
 # Possible value for "updates"
 ;automatic
-automatic
+automatski
 
 
 # Possible value for "updates"
 ;prompt
-prompt
+prompt {ok}
 
 
 ;time open
@@ -85,19 +85,19 @@ Ovaj mjesec
 
 
 ;total sessions
-total sessions
+ukupno sesija
 
 
 ;Active Add-ons
-Active Add-ons
+Aktivni add-oni
 
 
 ;Extensions
-Extensions
+Ekstenzije
 
 
 ;Plugins (Click-to-Activate)
-Plugins (Click-to-Activate)
+Plugini (Klik-za-aktivaciju)
 
 
 ;crashes
@@ -105,11 +105,11 @@ rušenja
 
 
 ;application crashes
-application crashes
+rušenja aplikacije
 
 
 ;plugin crashes
-plugin crashes
+rušenja plugina
 
 
 ;Add-ons
@@ -133,15 +133,15 @@ Plugini
 
 
 ;always activate
-always activate
+uvijek aktiviraj
 
 
 ;ask to activate
-ask to activate
+pitaj za aktivaciju
 
 
 ;never activate
-never activate
+nikad ne aktiviraj
 
 
 ;Tips
@@ -209,11 +209,11 @@ Rječnik
 
 
 ;What the Firefox Health Report Measures
-Šta mjeri Firefox izvještaj o zdravlju
+Šta mjeri Izvještaj o zdravlju Firefoxa
 
 
 ;The Firefox Health Report (FHR) has 4 categories of metrics:
-Firefox izvještaj o zdravlju (FHR) ima četiri kategorije metrike:
+Izvještaj o zdravlju Firefoxa (FHR) ima četiri kategorije metrike:
 
 
 ;Configuration
@@ -461,7 +461,7 @@ Koliko minuta je trenutna sesija pokrenuta
 
 
 ;Welcome to your Firefox Health Report
-Dobrodošli u vaš Firefox izvještaj o zdravlju
+Dobrodošli u vaš Izvještaj o zdravlju Firefoxa
 
 
 ;Welcome!
@@ -469,7 +469,7 @@ Dobrodošli!
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
-Firefox izvještaj o zdravlju omogućava vam da saznate kako dobro radi vaš Firefox i šta možete učiniti da ga unaprijedite.
+Izvještaj o zdravlju Firefoxa omogućava vam da saznate koliko dobro radi vaš Firefox i šta možete učiniti da ga unaprijedite.
 
 
 ;See My Report
@@ -490,269 +490,269 @@ Polica privatnosti
 
 # The following strings are used only in the Mobile version of about:healthreport (Firefox for Android)
 ;Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
-Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
+Izvještaj o zdravlju Firefoxa vam omogućava optimizaciju Firefoxa i pomaže vam da izgradite savršeniji browser. Izvještaji će isprva biti elementarni, ali će vremenom da evoluiraju i rastu.
 
 
 ;Learn More&hellip;
-Learn More&hellip;
+Saznajte više&hellip;
 
 
 ;Tip
-Tip
+Savjet
 
 
 ;Looks like your Firefox is brand new! Check back after using Firefox for a while.
-Looks like your Firefox is brand new! Check back after using Firefox for a while.
+Čini se da je vaš Firefox potpuno nov! Provjerite opet nakon određenog vremena korištenja Firefoxa.
 
 
 ;Important Metrics
-Important Metrics
+Važne metrike
 
 
 ;Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
-Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
+Izvještaj o zdravlju Firefoxa snima informacije o vašem pretraživaču i uređaju. Možete <a href="#raw" class="navigate">vidjeti informacije koje pratimo.</a> Također možete vidjeti koje informacije dijelite s Mozillom.
 
 
 ;Device hardware, operating system, Firefox version.
-Device hardware, operating system, Firefox version.
+Hardver uređaja, operativni sistem, verzija Firefoxa.
 
 
 ;Extensions, plugins, and number of installed add-ons.
-Extensions, plugins, and number of installed add-ons.
+Ekstenzije, plugini, i broj instaliranih add-ona.
 
 
 ;Key performance measures, such as launch speed.
-Key performance measures, such as launch speed.
+Ključne mjere performansi, poput brzine pokretanja.
 
 
 ;Browsing duration, install time, number of bookmarks and pages.
-Browsing duration, install time, number of bookmarks and pages.
+Trajanje surfanja, potrebno vrijeme za instalaciju, broj zabilješki i stranica.
 
 
 ;Home
-Home
+Početak
 
 
 ;CPU Count:
-CPU Count:
+Broj CPU-ova:
 
 
 ;The number of CPU cores reported by Android.
-The number of CPU cores reported by Android.
+Broj CPU jezgri koje prijavljuje Android.
 
 
 ;Memory in MB:
-Memory in MB:
+Memorija u MB:
 
 
 ;The amount of memory reported by Android. Typically excludes graphics memory.
-The amount of memory reported by Android. Typically excludes graphics memory.
+Količina memorije koju prijavljuje Android. U pravilu, ne uračunava grafičku memoriju.
 
 
 ;Application Name:
-Application Name:
+Naziv aplikacije:
 
 
 ;The internal application name for the browser.
-The internal application name for the browser.
+Interni aplikacijski naziv za browser.
 
 
 ;Application ID:
-Application ID:
+ID Aplikacije:
 
 
 ;The internal identifier for the application.
-The internal identifier for the application.
+Interni identifikator aplikacije.
 
 
 ;Application Version:
-Application Version:
+Verzija aplikacije:
 
 
 ;The current version of the browser
-The current version of the browser
+Trenutna verzija browsera
 
 
 ;Application Build ID:
-Application Build ID:
+Build ID aplikacije:
 
 
 ;The internal build timestamp.
-The internal build timestamp.
+Unutrašnja build vremenska oznaka.
 
 
 ;Update Channel:
-Update Channel:
+Kanal nadogradnji:
 
 
 ;Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
-Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
+Firefox je distribuiran putem kanala: Nightly edicije, Aurora predizdanje, stabilna Beta i finalna verzija. Ovo polje identificira kanal.
 
 
 ;Vendor:
-Vendor:
+Proizvođač:
 
 
 ;The organization that built this application. Typically Mozilla.
-The organization that built this application. Typically Mozilla.
+Organizacija koja razvija ovu aplikaciju. U pravilu, Mozilla.
 
 
 ;Platform Version:
-Platform Version:
+Verzija platforme:
 
 
 ;An internal version identifier. Typically the same as appVersion.
-An internal version identifier. Typically the same as appVersion.
+Interni identifikator verzije. U pravilu, isti kao appVersion.
 
 
 ;Platform Build ID:
-Platform Build ID:
+Build ID platforme:
 
 
 ;On Android this is an alternative name for appBuildID.
-On Android this is an alternative name for appBuildID.
+Na Androidu to je alternativni naziv za appBuildID.
 
 
 ;xpcomabi:
-xpcomabi:
+xpcomabi: {ok}
 
 
 ;The CPU architecture for which this application was built.
-The CPU architecture for which this application was built.
+Arhitektura CPUa za koji je ova aplikacija napravljena.
 
 
 ;OS:
-OS:
+OS: {ok}
 
 
 ;The current operating system.
-The current operating system.
+Trenutni operativni sistem.
 
 
 ;Architecture:
-Architecture:
+Arhitektura:
 
 
 ;The CPU architecture for this device.
-The CPU architecture for this device.
+CPU arhitektura za ovaj uređaj.
 
 
 ;System Name:
-System Name:
+Naziv sistema:
 
 
 ;The current system name.
-The current system name.
+Naziv trenutnog sistema.
 
 
 ;System Version:
-System Version:
+Verzija sistema:
 
 
 ;The Android OS revision.
-The Android OS revision.
+Android OS revizija.
 
 
 ;Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
-Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
+Da li Firefox dobavlja rezultate liste blokiranih add-ona radi vaše zaštite od zlonamjernih add-ona. Opcija je izvorno uključena.
 
 
 ;Telemetry Enabled:
-Telemetry Enabled:
+Telemetrija omogućena:
 
 
 ;Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
-Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
+Da li Firefox šalje detaljne podatke o korištenju kako bi pomogao u razvoju. Izvorno je isključeno za većinu kanala.
 
 
 ;Extension Count:
-Extension Count:
+Broj ekstenzija:
 
 
 ;How many extension add-ons are installed.
-How many extension add-ons are installed.
+Koliko ektenzijskih add-ona je instalirano.
 
 
 ;Plugin Count:
-Plugin Count:
+Broj plugina:
 
 
 ;How many plugin add-ons are installed.
-How many plugin add-ons are installed.
+Koliko plugin add-ona je instalirano.
 
 
 ;Theme Count:
-Theme Count:
+Broj tema:
 
 
 ;How many theme add-ons are installed.
-How many theme add-ons are installed.
+Koliko tema je instalirano.
 
 
 ;Addons:
-Addons:
+Addoni:
 
 
 ;A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
-A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
+Kolekcija koja opisuje instalirane add-one. Ne izvještava o svim add-onima: samo plugini, ekstenzije, i servisi.
 
 
 ;Search Counts:
-Search Counts:
+Broj pretraga:
 
 
 ;A count of how many searches you issued to each of Mozilla's partner providers.
-A count of how many searches you issued to each of Mozilla's partner providers.
+Broj pretraga koje su upućene svakom od Mozillinih partnera.
 
 
 ;Sessions and Startup Times
-Sessions and Startup Times
+Sesije i vremena pokretanja
 
 
 ;For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
-For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
+Za svaku od sesija surfanja, Izvještaj o zdravlju Firefoxa bilježi otprilike koliko dugo ste surfali (u sekundama), te da li je sesija regularno završena ili usljed rušenja. Također, ukoliko je moguće, sadrži i vremena pokretanja (u milisekundama).
 
 
 ;Profile Creation:
-Profile Creation:
+Kreiranje profila:
 
 
 ;The day on which your browser profile was created. Counted in days since January 1st 1970.
-The day on which your browser profile was created. Counted in days since January 1st 1970.
+Dan na koji je kreiran vaš profil u browseru. Broji se u danima od 1. januara 1970.
 
 
 ;Learn More
-Learn More
+Saznajte više
 
 
 ;Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
-Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
+Izvještaj o zdravlju Firefoxa (FHR) analizira informacije o performansama vašeg browsera kako bi vam pružio korisne savjete kako da izvučete maksimum iz Firefoxa. Za više informacije o Izvještaju o zdravlju Firefoxa, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>posjetite sekciju Mozilla podrške.</a>
 
 
 ;For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
-For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
+Za više informacija o tome kako upravljamo vašim podacima, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>pogledajte našu policu privatnosti.</a>
 
 
 ;You are currently sharing your health report with Mozilla.
-You are currently sharing your health report with Mozilla.
+Trenutno dijelite s Mozillom vaš izvještaj o zdravlju.
 
 
 ;Choose what I share
-Choose what I share
+Izaberite šta dijelite
 
 
 ;You are currently not sharing your health report with Mozilla.
-You are currently not sharing your health report with Mozilla.
+Trenutno ne dijelite s Mozillom vaš izvještaj o zdravlju.
 
 
 # This string is displayed when selecting Raw Data near the title
 ;Firefox Health Report (FHR) records anonymous data about your computer, configuration, usage, performance, and error conditions. This data helps us improve Firefox for you and for other Firefox users.
-Firefox Health Report (FHR) records anonymous data about your computer, configuration, usage, performance, and error conditions. This data helps us improve Firefox for you and for other Firefox users.
+Izvještaj o zdravlju Firefoxa (FHR) snima anonimne podatke o vašem računaru, konfiguraciji, upotrebi, performansama, te uvjetima grešaka. Ovi podaci nam pomažu da unaprijedimo Firefox za vas i druge Firefox korisnike.
 
 
 # This string is displayed when selecting Raw Data near the title
 # Links to https://gecko.readthedocs.org/en/latest/toolkit/components/telemetry/telemetry/
 ;Read technical documentation for the data format and fields.
-Read technical documentation for the data format and fields.
+Pročitajte tehničku dokumentaciju za format podataka i polja.
 
 
