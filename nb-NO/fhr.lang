@@ -177,7 +177,7 @@ Nettleseren din ser ut til å være tregere enn vanlig. For å finne ut mer:
 
 
 ;You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
-Du vil kunne se mer interessant info jo mer du du bruker nettleseren. Kom tilbake om noen uker for å se trender.
+Du vil kunne se mer interessant info jo mer du bruker nettleseren. Kom tilbake om noen uker for å se trender.
 
 
 ;Startup Time by Day
@@ -317,11 +317,11 @@ Mengde RAM i megabyte
 
 
 ;Currently running Operating System (kernel) name
-Navn på kjørende operativsystem/kjerne
+Navn på kjørende operativsystem (kjerne)
 
 
 ;Currently running Operating System (kernel) version
-Kjørende operativsystem/kjerne-versjon
+Versjon av kjørende operativsystem (kjerne)
 
 
 ;The build identifier of the Gecko platform code
