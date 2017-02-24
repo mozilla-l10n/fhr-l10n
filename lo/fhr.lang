@@ -43,11 +43,11 @@ Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</
 
 
 ;Vital Stats
-Vital Stats
+ສະຖິຕິທີ່ສຳຄັນ
 
 
 ;version
-version
+ເວີຊັ່ນ
 
 
 ;update channel
@@ -55,12 +55,12 @@ update channel
 
 
 ;updates
-updates
+ອັບເດດ
 
 
 # Possible value for "updates"
 ;automatic
-automatic
+ອັດຕະໂນມັດ
 
 
 # Possible value for "updates"
@@ -69,19 +69,19 @@ prompt
 
 
 ;time open
-time open
+ເວລາເປີດ
 
 
 ;last crash
-last crash
+ຂໍ້ຜິດຜາດຄັ້ງທີ່ແລ້ວນີ້
 
 
 ;bookmarks
-bookmarks
+ບຸກມາກ
 
 
 ;This Month
-This Month
+ເດືອນນີ້
 
 
 ;total sessions
