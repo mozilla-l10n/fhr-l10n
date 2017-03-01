@@ -378,7 +378,7 @@ prompt
 
 
 ;Whether this add-on is an extension or a plug-in
-ส่วนเสริมนี้เป็นส่วนขยายหรือโปรแกรมเสริม
+ส่วนเสริมนี้เป็นส่วนขยายหรือปลั๊กอิน
 
 
 ;The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
@@ -519,7 +519,7 @@ Firefox Health Report records information about your browser and device. You can
 
 
 ;Extensions, plugins, and number of installed add-ons.
-ส่วนขยาย โปรแกรมเสริม และจำนวนส่วนเสริมที่ติดตั้ง
+ส่วนขยาย, ปลั๊กอิน และจำนวนส่วนเสริมที่ติดตั้ง
 
 
 ;Key performance measures, such as launch speed.
@@ -679,7 +679,7 @@ Whether Firefox reports detailed usage data to help with development. Defaults t
 
 
 ;How many plugin add-ons are installed.
-มีส่วนเสริมที่เป็นโปรแกรมเสริมติดตั้งอยู่จำนวนเท่าไร
+มีส่วนเสริมที่เป็นปลั๊กอินติดตั้งอยู่จำนวนเท่าไร
 
 
 ;Theme Count:
