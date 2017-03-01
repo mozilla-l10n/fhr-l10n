@@ -52,11 +52,11 @@
 
 
 ;update channel
-ช่องทางการปรับปรุง
+ช่องทางการอัปเดต
 
 
 ;updates
-ปรับปรุง
+อัปเดต
 
 
 # Possible value for "updates"
@@ -583,7 +583,7 @@ ID การสร้างแอปพลิเคชัน:
 
 
 ;Update Channel:
-ช่องทางการปรับปรุง:
+ช่องทางการอัปเดต:
 
 
 ;Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
