@@ -98,7 +98,7 @@ prompt
 
 
 ;Plugins (Click-to-Activate)
-โปรแกรมเสริม (คลิกเพื่อเปิดใช้งาน)
+ปลั๊กอิน (คลิกเพื่อเปิดใช้งาน)
 
 
 ;crashes
@@ -110,7 +110,7 @@ prompt
 
 
 ;plugin crashes
-โปรแกรมเสริมขัดข้อง
+ปลั๊กอินขัดข้อง
 
 
 ;Add-ons
@@ -130,7 +130,7 @@ prompt
 
 
 ;Plugins
-โปรแกรมเสริม
+ปลั๊กอิน
 
 
 ;always activate
@@ -290,7 +290,7 @@ prompt
 
 
 ;The channel this installation checks for application updates (nightly/aurora/beta/release)
-ช่องทางที่การติดตั้งนี้ใช้ตรวจสอบการปรับปรุงโปรแกรม (nightly/aurora/beta/release)
+ช่องทางที่การติดตั้งนี้ใช้ตรวจสอบการอัปเดตแอปพลิเคชัน (nightly/aurora/beta/release)
 
 
 ;The name of the company/provider who built this version
@@ -382,7 +382,7 @@ prompt
 
 
 ;The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
-ครั้งสุดท้ายที่ส่วนเสริมนี้ได้รับการปรับปรุง (ไม่เก็บข้อมูลย้อนหลังเกี่ยวกับการถอนการติดตั้งส่วนเสริม)
+วันที่ล่าสุดที่ส่วนเสริมนี้ได้รับการอัปเดต (ไม่เก็บข้อมูลย้อนหลังเกี่ยวกับการถอนการติดตั้งส่วนเสริม)
 
 
 ;<var>True</var> if the user manually disabled the add-on
@@ -675,7 +675,7 @@ Whether Firefox reports detailed usage data to help with development. Defaults t
 
 
 ;Plugin Count:
-จำนวนโปรแกรมเสริม:
+จำนวนปลั๊กอิน:
 
 
 ;How many plugin add-ons are installed.
