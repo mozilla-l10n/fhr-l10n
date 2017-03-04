@@ -570,11 +570,11 @@
 
 
 ;The current version of the browser
-Цяперашняя версія азіральніка
+Цяперашняя версія браўзера
 
 
 ;Application Build ID:
-Вызначальнік пабудовы прыстасавання:
+Ідэнтыфікатар зборкі праграмы:
 
 
 ;The internal build timestamp.
@@ -626,7 +626,7 @@ xpcomabi: {ok}
 
 
 ;The current operating system.
-Гэтачасовая аперацыйная сістэма.
+Цяперашняя аперацыйная сістэма.
 
 
 ;Architecture:
@@ -634,7 +634,7 @@ xpcomabi: {ok}
 
 
 ;The CPU architecture for this device.
-Архітэктура ЦП гэтай збудовы.
+Архітэктура ЦП гэтай прылады.
 
 
 ;System Name:
@@ -642,7 +642,7 @@ xpcomabi: {ok}
 
 
 ;The current system name.
-Назва гэтачасовай сістэмы.
+Цяперашняя назва сістэмы.
 
 
 ;System Version:
