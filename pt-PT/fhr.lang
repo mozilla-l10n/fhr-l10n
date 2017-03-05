@@ -237,7 +237,7 @@ Desempenho
 
 
 ;Timing of browser events, rendering, session restores
-Tempo de eventos do browser, renderização, restauro de sessão
+Cronometragem de eventos do navegador, renderização, restauros de sessão
 
 
 ;Length of session, how old a profile is, count of crashes, count of pages
@@ -329,7 +329,7 @@ O identificador de compilação do código da plataforma Gecko
 
 
 ;The version of the Gecko platform code
-Versão do código da plataforma Gecko
+A versão do código da plataforma Gecko
 
 
 ;Processor architecture
@@ -337,15 +337,15 @@ Arquitetura do processador
 
 
 ;The date this version was first used with this installation profile
-A data em que esta versão foi usada pela primeira vez com este perfil de instalação
+A data em que esta versão foi utilizada pela primeira vez com este perfil de instalação
 
 
 ;An application version which has been used with this installation profile
-Uma versão da aplicação que tem sido usada com este perfil de instalação
+Uma versão da aplicação que tem sido utilizada com este perfil de instalação
 
 
 ;The number of add-ons of this type that existed in the profile on this date
-Número de extras deste tipo que existiam no perfil nesta data
+O número de extras deste tipo que existiam no perfil nesta data
 
 
 ;<var>True</var> if the application automatically disabled the add-on
@@ -353,7 +353,7 @@ Número de extras deste tipo que existiam no perfil nesta data
 
 
 ;Whether this add-on was installed by the user or automatically by another application
-Se este extra foi instalado pelo utilizador ou automaticamente por uma outra aplicação
+Se este extra foi instalado pelo utilizador ou automaticamente por outra aplicação
 
 
 ;Whether this add-on has native code.
@@ -365,11 +365,11 @@ O identificador deste extra definido pelo programador do extra
 
 
 ;The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
-A data mais recente de instalação deste extra (informação anterior sobre um extra desinstalado não é mantida).
+A data mais recente de instalação deste extra (informação anterior acerca de um extra desinstalado não é mantida).
 
 
 ;The number of searches performed with this search engine from this part of the UI
-Número de pesquisas executadas com este motor de pesquisa a partir desta parte do interface de utilizador
+O número de pesquisas executadas com este motor de pesquisa a partir desta parte da interface de utilizador
 
 
 ;Whether this add-on was installed in the application directory or profile directory
@@ -381,7 +381,7 @@ Se este extra é uma extensão ou um plugin
 
 
 ;The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
-A data de atualização mais recente deste extra (informação anterior sobre um extra desinstalado não é mantida).
+A data de atualização mais recente deste extra (informação anterior acerca de um extra desinstalado não é mantida).
 
 
 ;<var>True</var> if the user manually disabled the add-on
@@ -405,31 +405,31 @@ Quanto tempo em milissegundos que demorou durante o arranque para a aplicação 
 
 
 ;The number of times the application was run and not cleanly shut down.
-Número de vezes em que a aplicação foi executada e não foi corretamente desligada.
+O número de vezes em que a aplicação foi executada e não foi corretamente encerrada.
 
 
 ;The time in seconds that the aborted sessions were not idle
-Tempo em segundos que a sessão abortada não esteve inativa
+O tempo em segundos que as sessões abortadas não estiveram inativas
 
 
 ;The time in seconds that the aborted sessions were running
-Tempo em segundos em que a sessão abortada esteve a ser executada
+O tempo em segundos em que as sessões abortadas estiveram a ser executadas
 
 
 ;The number of days since this application profile directory was created
-Número de dias desde que o diretório de perfil da aplicação foi criado
+O número de dias desde que o diretório de perfil da aplicação foi criado
 
 
 ;The number of times the application was run and cleanly shut down.
-Número de vezes que a aplicação foi executada e corretamente desligada.
+O número de vezes que a aplicação foi executada e corretamente encerrada.
 
 
 ;The time in seconds that the completed sessions were not idle
-O tempo em segundos que as sessões completadas não estiveram inativas
+O tempo em segundos em que as sessões completadas não estiveram inativas
 
 
 ;The time in seconds that the completed sessions were running
-O tempo em segundos que as sessões completadas estiveram a funcionar
+O tempo em segundos em que as sessões completadas estiveram a ser executadas
 
 
 ;Total number of crashes that were recorded but not yet submitted
@@ -469,7 +469,7 @@ Bem-vindo!
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
-O relatório de estado do Firefox permite-lhe que saber como o seu Firefox está a funcionar e o que poderá fazer para o melhorar.
+O relatório de estado do Firefox permite-lhe saber como o seu Firefox se está a desempenhar e o que pode fazer para o melhorar.
 
 
 ;See My Report
@@ -586,7 +586,7 @@ Canal de atualização:
 
 
 ;Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
-O Firefox é distribuído a partir de canais: Nightly builds, o canal Aurora pre-release, a Beta estável, e a versão pública. Este campo identifica o canal.
+O Firefox é distribuído a partir dos canais: compilações Nightly, o canal Aurora de pré-lançamento, o Beta estável, e o lançamento público. Este campo identifica o canal.
 
 
 ;Vendor:
@@ -594,7 +594,7 @@ Fornecedor:
 
 
 ;The organization that built this application. Typically Mozilla.
-A organização que fez esta aplicação. Normalmente a Mozilla.
+A organização que fez esta aplicação. Tipicamente a Mozilla.
 
 
 ;Platform Version:
@@ -734,7 +734,7 @@ Para mais informação sobre como lidamos com os seus dados, <a href="https://ww
 
 
 ;You are currently sharing your health report with Mozilla.
-De momento está a partilhar o seu relatório de estado com a Mozilla.
+Está atualmente a partilhar o seu relatório de estado com a Mozilla.
 
 
 ;Choose what I share
