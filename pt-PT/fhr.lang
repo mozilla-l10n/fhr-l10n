@@ -730,7 +730,7 @@ O relatório de estado do Firefox (Firefox Health Report - FHR) analisa a inform
 
 
 ;For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
-Para mais informação sobre como lidamos com os seus dados, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>veja a nossa política de privacidade.</a>
+Para mais informação acerca de como lidamos com os seus dados, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>veja a nossa política de privacidade.</a>
 
 
 ;You are currently sharing your health report with Mozilla.
@@ -742,7 +742,7 @@ Escolher o que partilhar
 
 
 ;You are currently not sharing your health report with Mozilla.
-De momento não está a partilhar o seu relatório de estado com a Mozilla.
+Não está atualmente a partilhar o seu relatório de estado com a Mozilla.
 
 
 # This string is displayed when selecting Raw Data near the title
@@ -753,6 +753,6 @@ O Relatório de Estado do Firefox (Firefox Health Report - FHR) regista informa�
 # This string is displayed when selecting Raw Data near the title
 # Links to https://gecko.readthedocs.org/en/latest/toolkit/components/telemetry/telemetry/
 ;Read technical documentation for the data format and fields.
-Consulte a documentação técnica para campos e formato de dados.
+Leia a documentação técnica para os campos e formato de dados.
 
 
