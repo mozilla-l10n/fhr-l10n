@@ -19,7 +19,7 @@
 
 
 ;Data Sharing
-Падзел здаткамі
+Абагуленне звестак
 
 
 ;ON
@@ -27,11 +27,11 @@
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
-Вы вырашылі спыніць дзяліцца здаткамі з Mozilla, аднак вы ўсё яшчэ можаце бачыць, як ваш азіральнік выконваецца.
+Вы вырашылі больш не дзяліцца звесткамі з Mozilla, аднак вы ўсё яшчэ можаце бачыць прадукцыйнасць вашага браўзера.
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
-Здаткі вашых справаздачаў пра стан будуць выдалены з паслугачоў Mozilla. Падрабязна ў нашай <a href="%(privacy_url)s">палітыцы адасаблення.</a>
+Звесткі вашых справаздач пра стан будуць выдалены з сервераў Mozilla. Даведайцеся больш у нашай <a href="%(privacy_url)s">палітыцы прыватнасці.</a>
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
@@ -39,7 +39,7 @@
 
 
 ;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
-Даведацца, як мы апрацоўваем вашы здаткі ў нашай <a href="%(privacy_url)s">палітыцы адасаблення.</a>
+Даведайцеся, як мы апрацоўваем вашы звесткі, у нашай <a href="%(privacy_url)s">палітыцы прыватнасці.</a>
 
 
 ;Vital Stats
@@ -85,7 +85,7 @@
 
 
 ;total sessions
-усяго сесій
+усяго сеансаў
 
 
 ;Active Add-ons
@@ -153,7 +153,7 @@
 
 
 ;It looks like your browser has crashed a number of times recently. To learn more:
-Выглядае, што ваш азіральнік нядаўна пацярпеў крах некалькі разоў. Падрабязней:
+Выглядае, што ваш браўзер нядаўна пацярпеў крах некалькі разоў. Падрабязней:
 
 
 ;OFF
@@ -173,7 +173,7 @@
 
 
 ;Your browser seems to be running slower than usual. To learn more:
-Выглядае, што ваш азіральнік выконваецца марудней, чым раней. Падрабязней:
+Выглядае, што ваш браўзер выконваецца марудней, чым раней. Падрабязней:
 
 
 ;You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
