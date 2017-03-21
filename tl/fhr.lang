@@ -3,15 +3,15 @@
 
 
 ;Firefox Health Report
-Firefox Health Report
+Mga ulat tungkol sa Firefox Health
 
 
 ;Raw Data
-Raw Data
+Raw Data {ok}
 
 
 ;Get insights and performance information about your version of Firefox.
-Get insights and performance information about your version of Firefox.
+Kumuha ng mga pananaw at pagganap ng impormasyon tungkol sa iyong bersyon ng Firefox.
 
 
 ;Learn more...
@@ -43,7 +43,7 @@ Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</
 
 
 ;Vital Stats
-Vital Stats
+Vital Stats {ok}
 
 
 ;version
@@ -81,11 +81,11 @@ mga bookmark
 
 
 ;This Month
-This Month
+Ngayong Buwan
 
 
 ;total sessions
-total sessions
+lahat ng sessions
 
 
 ;Active Add-ons
@@ -189,11 +189,11 @@ Graph:
 
 
 ;Average
-Average
+Katamtaman
 
 
 ;All
-All
+Lahat
 
 
 ;Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
@@ -201,7 +201,7 @@ Startup time helps determine how well your version of Firefox is performing. In 
 
 
 ;Data Collected
-Data Collected
+Mga nakolektang data
 
 
 ;Glossary
@@ -217,7 +217,7 @@ The Firefox Health Report (FHR) has 4 categories of metrics:
 
 
 ;Configuration
-Configuration
+Kompigurasyon
 
 
 ;Device hardware, operating system, Firefox version
@@ -245,7 +245,7 @@ Length of session, how old a profile is, count of crashes, count of pages
 
 
 ;Detailed Description
-Detailed Description
+Detalyadong Paglalarawan
 
 
 ;Metric
@@ -253,7 +253,7 @@ Metric
 
 
 ;Description
-Description
+Paglalarawan
 
 
 ;Binary interface for XPCOM
@@ -465,7 +465,7 @@ Welcome to your Firefox Health Report
 
 
 ;Welcome!
-Welcome!
+Maligayang pagdating!
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
@@ -494,7 +494,7 @@ Firefox Health Report lets you optimize your Firefox and helps us build a more e
 
 
 ;Learn More&hellip;
-Learn More&hellip;
+Matuto ng Higit pa&hellip;
 
 
 ;Tip
@@ -722,7 +722,7 @@ The day on which your browser profile was created. Counted in days since January
 
 
 ;Learn More
-Learn More
+Matuto ng Higit pa
 
 
 ;Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
