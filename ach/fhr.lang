@@ -65,7 +65,7 @@ matime kene
 
 # Possible value for "updates"
 ;prompt
-prompt
+peny
 
 
 ;time open
@@ -85,7 +85,7 @@ Dwe eni
 
 
 ;total sessions
-total sessions
+kare weng
 
 
 ;Active Add-ons
@@ -93,7 +93,7 @@ med-ikome ma yte katic
 
 
 ;Extensions
-Extensions
+Lamed
 
 
 ;Plugins (Click-to-Activate)
@@ -205,7 +205,7 @@ Data ma kicoko
 
 
 ;Glossary
-Glossary
+Tyen lok madongo
 
 
 ;What the Firefox Health Report Measures
@@ -385,7 +385,7 @@ The most recent date this add-on was updated (previous information about an unin
 
 
 ;<var>True</var> if the user manually disabled the add-on
-<var>True</var> if the user manually disabled the add-on
+<var>Ada</var> kacce latic kwede aye ma ojuko med-ikome
 
 
 ;The current version of this add-on
@@ -405,15 +405,15 @@ How long in milliseconds it took during startup for the application to restore t
 
 
 ;The number of times the application was run and not cleanly shut down.
-The number of times the application was run and not cleanly shut down.
+Wel tyen ma purugram man otiyo ki pe kiloro maber.
 
 
 ;The time in seconds that the aborted sessions were not idle
-The time in seconds that the aborted sessions were not idle
+Wel cawa i ceken ma kare ma kijuko ni onongo pe tye ata
 
 
 ;The time in seconds that the aborted sessions were running
-The time in seconds that the aborted sessions were running
+Wel cawa i ceken ma kare ma kijuko ni onongo tye ka tic
 
 
 ;The number of days since this application profile directory was created
@@ -425,11 +425,11 @@ Wel tyen ma purugram man otiyo ka kiloro maber.
 
 
 ;The time in seconds that the completed sessions were not idle
-The time in seconds that the completed sessions were not idle
+Wel cawa i ceken ma kare ma otum ni onongo pe tye ata
 
 
 ;The time in seconds that the completed sessions were running
-The time in seconds that the completed sessions were running
+Wel cawa i ceken ma kare ma otum ni onongo pe tye ka tic
 
 
 ;Total number of crashes that were recorded but not yet submitted
@@ -441,11 +441,11 @@ Wel me poto ma kicwalo
 
 
 ;Time in seconds the app has not been idle
-Time in seconds the app has not been idle
+Wel cawa i ceken ma purugram onongo pe tye ata
 
 
 ;Time in seconds since the app was last started
-Time in seconds since the app was last started
+Wel cawa i ceken ni cake ma purugram kicako me agiki
 
 
 ;Total number of bookmarks
@@ -457,7 +457,7 @@ Wel pot buk ma tye i gin mukato
 
 
 ;How long in minutes the current session has been running
-How long in minutes the current session has been running
+Dakika ma rom mene ma kare ma kombedi ni obedo ka tic
 
 
 ;Welcome to your Firefox Health Report
@@ -490,7 +490,7 @@ Cik me Tic
 
 # The following strings are used only in the Mobile version of about:healthreport (Firefox for Android)
 ;Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
-Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
+Ripot me yot kom pa Firefox weko wa yiko Firefox mamegi ki konyo wa me yubo layeny maber loyo. Ripot bi bedo yot tutwal ii acaki, ento bi mede ki loke ki dongo.
 
 
 ;Learn More&hellip;
