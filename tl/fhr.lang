@@ -89,7 +89,7 @@ lahat ng sessions
 
 
 ;Active Add-ons
-Active Add-ons
+Active Add-ons {ok}
 
 
 ;Extensions
@@ -105,11 +105,11 @@ mga crash
 
 
 ;application crashes
-application crashes
+application crashes {ok}
 
 
 ;plugin crashes
-plugin crashes
+plugin crashes {ok}
 
 
 ;Add-ons
@@ -117,15 +117,15 @@ Mga Add-on
 
 
 ;View List
-View List
+Tingnan ang Listahan
 
 
 ;enabled
-enabled
+pinagana
 
 
 ;disabled
-disabled
+hindi pinagana
 
 
 ;Plugins
@@ -145,15 +145,15 @@ huwag i-activate
 
 
 ;Tips
-Tips
+Tips {ok}
 
 
 ;Wear and Tear
-Wear and Tear
+Pagkasira sa Paggamit
 
 
 ;It looks like your browser has crashed a number of times recently. To learn more:
-It looks like your browser has crashed a number of times recently. To learn more:
+Tila ang iyong browser nag-crash ng ilang beses kamakailan. Upang matuto nang higit pa:
 
 
 ;OFF
@@ -169,7 +169,7 @@ View more <a href="%(details_url)s">detailed information</a>
 
 
 ;pages visited
-pages visited
+mga pahina na binisita
 
 
 ;Your browser seems to be running slower than usual. To learn more:
@@ -181,11 +181,11 @@ You'll be able to see more interesting and detailed information the more you use
 
 
 ;Startup Time by Day
-Startup Time by Day
+Simula ng Oras sa pamamagitan ng Araw
 
 
 ;Graph:
-Graph:
+Grap:
 
 
 ;Average
@@ -209,7 +209,7 @@ Talasalitaan
 
 
 ;What the Firefox Health Report Measures
-What the Firefox Health Report Measures
+Ano ang mga Hakbang ng Firefox Health Report
 
 
 ;The Firefox Health Report (FHR) has 4 categories of metrics:
@@ -225,7 +225,7 @@ Device hardware, operating system, Firefox version
 
 
 ;Customizations
-Customizations
+Pag-customize
 
 
 ;Add-ons, count and type
@@ -233,7 +233,7 @@ Add-ons, count and type
 
 
 ;Performance
-Performance
+Pagganap
 
 
 ;Timing of browser events, rendering, session restores
@@ -333,7 +333,7 @@ The version of the Gecko platform code
 
 
 ;Processor architecture
-Processor architecture
+Processor architecture {ok}
 
 
 ;The date this version was first used with this installation profile
@@ -457,11 +457,11 @@ Total number of pages listed in the history
 
 
 ;How long in minutes the current session has been running
-How long in minutes the current session has been running
+Hanggang sa ilang minuto sa kasalukuyang sesyon ay tumatakbo
 
 
 ;Welcome to your Firefox Health Report
-Welcome to your Firefox Health Report
+Maligayang pagdating sa iyong Firefox Health Report
 
 
 ;Welcome!
@@ -469,11 +469,11 @@ Maligayang pagdating!
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
-Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
+Firefox Health Report ipinapaalam sa iyo kung paano ang iyong Firefox ay gumaganap at kung ano ang maaari mong gawin upang mapabuti ito.
 
 
 ;See My Report
-See My Report
+Tingnan ang Aking Report
 
 
 ;Time (in seconds)
@@ -498,15 +498,15 @@ Matuto ng Higit pa&hellip;
 
 
 ;Tip
-Tip
+Tip {ok}
 
 
 ;Looks like your Firefox is brand new! Check back after using Firefox for a while.
-Looks like your Firefox is brand new! Check back after using Firefox for a while.
+Tila ang iyong Firefox ay bago! Balikan matapos gumamit ng Firefox para sa isang habang.
 
 
 ;Important Metrics
-Important Metrics
+Mahalagang Sukatan
 
 
 ;Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
@@ -550,7 +550,7 @@ The amount of memory reported by Android. Typically excludes graphics memory.
 
 
 ;Application Name:
-Application Name:
+Pangalan ng Application:
 
 
 ;The internal application name for the browser.
@@ -558,7 +558,7 @@ The internal application name for the browser.
 
 
 ;Application ID:
-Application ID:
+ID ng Application:
 
 
 ;The internal identifier for the application.
@@ -590,7 +590,7 @@ Firefox is distributed through channels: Nightly builds, the Aurora pre-release 
 
 
 ;Vendor:
-Vendor:
+Vendor: {ok}
 
 
 ;The organization that built this application. Typically Mozilla.
@@ -626,7 +626,7 @@ OS: {ok}
 
 
 ;The current operating system.
-The current operating system.
+Ang kasalukuyang operating system.
 
 
 ;Architecture:
@@ -646,7 +646,7 @@ The current system name.
 
 
 ;System Version:
-System Version:
+System Bersyon:
 
 
 ;The Android OS revision.
@@ -698,7 +698,7 @@ A collection describing the installed add-ons. Not all add-ons are reported: onl
 
 
 ;Search Counts:
-Search Counts:
+Bilang na Hanapin:
 
 
 ;A count of how many searches you issued to each of Mozilla's partner providers.
@@ -738,7 +738,7 @@ You are currently sharing your health report with Mozilla.
 
 
 ;Choose what I share
-Choose what I share
+Piliin kung ano ang ibahagi
 
 
 ;You are currently not sharing your health report with Mozilla.
