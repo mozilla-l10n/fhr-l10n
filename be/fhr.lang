@@ -217,11 +217,11 @@
 
 
 ;Configuration
-Наладжванні
+Канфігурацыя
 
 
 ;Device hardware, operating system, Firefox version
-Начынне збудовы, аперацыйная сістэма, версія Firefox
+Абсталяванне, аперацыйная сістэма, версія Firefox
 
 
 ;Customizations
@@ -233,15 +233,15 @@
 
 
 ;Performance
-Працавыніковасць
+Прадукцыйнасць
 
 
 ;Timing of browser events, rendering, session restores
-Вымярэнні падзеяў азіральніка, адлюстравання, аднаўлення сэсіяў
+Вымярэнні падзеяў браўзера, адлюстравання, аднаўлення сесій
 
 
 ;Length of session, how old a profile is, count of crashes, count of pages
-Працяг сэсіі, узрост профілю, колькасць крахаў, колькасць старонак
+Працяг сесіі, узрост профілю, колькасць крахаў, колькасць старонак
 
 
 ;Detailed Description
@@ -261,7 +261,7 @@
 
 
 ;Identifier for this build of the application based on the date the build was started
-Вызначальнік пабудовы гэтага прыстасавання, заснаваны на даце пачатка пабудовы
+Ідэнтыфікатар пабудовы гэтай праграмы, заснаваны на даце пачатка пабудовы
 
 
 ;Operating System for which this build was configured
@@ -269,15 +269,15 @@
 
 
 ;Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
-Вызначальнік асаблівага распаўсюду прыстасавання, што ўжываецца. Узяты з перавагі <var>distribution.id</var>
+Ідэнтыфікатар пэўнага дыстрыбутыву гэтай праграмы. Узяты з перавагі <var>distribution.id</var>
 
 
 ;Version of the distribution, taken from the <var>distribution.version</var> preference
-Версія распаўсюду, узятая з перавагі <var>distribution.version</var>
+Версія дыстрыбутыву, узятая з перавагі <var>distribution.version</var>
 
 
 ;The version number of any Mozilla hotfix applied to the application
-Нумар версіі Mozilla хуткага выпраўлення, ужытага для прыстасавання
+Нумар версіі хуткага выпраўлення ад Mozilla, ужытага для праграмы
 
 
 ;Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
