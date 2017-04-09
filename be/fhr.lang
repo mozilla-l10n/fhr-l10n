@@ -97,7 +97,7 @@
 
 
 ;Plugins (Click-to-Activate)
-Убудовы (Уключаюцца-па-пстрычцы)
+Плагіны (уключаюцца-па-пстрычцы)
 
 
 ;crashes
@@ -109,7 +109,7 @@
 
 
 ;plugin crashes
-крахі ўбудоў
+крахі плагінаў
 
 
 ;Add-ons
@@ -129,7 +129,7 @@
 
 
 ;Plugins
-Убудовы
+Плагіны
 
 
 ;always activate
@@ -209,11 +209,11 @@
 
 
 ;What the Firefox Health Report Measures
-Што справаздачнік стану Firefox вымярае
+Што вымяраецца для справаздачы пра стан Firefox
 
 
 ;The Firefox Health Report (FHR) has 4 categories of metrics:
-Справаздачнік стану Firefox (FHR) мае 4 катэгорыі вымярэння:
+Справаздача пра стан Firefox (FHR) мае 4 катэгорыі вымярэння:
 
 
 ;Configuration
@@ -377,7 +377,7 @@
 
 
 ;Whether this add-on is an extension or a plug-in
-Гэты дадатак ёсць пашырэннем ці ўбудовай
+Гэты дадатак ёсць пашырэннем ці плагінам
 
 
 ;The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
@@ -710,7 +710,7 @@ xpcomabi: {ok}
 
 
 ;For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
-Справаздачнік стану Firefox запісвае прыблізную працягласць кожнай сэсіі азірання, якім чынам яна скончылася, звычайна або з крахам. Таксама ўключаюцца часы працягласць запускаў (у мілісекундах), калі даступна.
+Справаздача пра стан Firefox запісвае прыблізную працягласць кожнай сесіі аглядання (у секундах) і якім чынам яна скончылася, добра ці з крахам. Таксама ўключаюцца працягласці запускаў (у мілісекундах), калі даступна.
 
 
 ;Profile Creation:
@@ -718,7 +718,7 @@ xpcomabi: {ok}
 
 
 ;The day on which your browser profile was created. Counted in days since January 1st 1970.
-Дата, калі профіль азіральніка быў створаны. Лічыцца ў днях з 1-га студзеня 1970 г.
+Дата, калі профіль браўзера быў створаны. Лічыцца ў днях з 1-га студзеня 1970 г.
 
 
 ;Learn More
@@ -726,15 +726,15 @@ xpcomabi: {ok}
 
 
 ;Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
-Справаздачнік стану Firefox (FHR) даследуе звесткі працавыніковасці азіральніка, каб даць вам карысныя парады для атрымання лепшага з Firefox. Каб атрымаць больш падрабязныя звесткі пра справаздачнік стану Firefox, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>наведайце раздзел падтрымкі Mozilla.</a>
+Справаздача пра стан Firefox (FHR) даследуе прадукцыйнасць вашага браўзера, каб даць вам парады па паляпшэнні працы Firefox. Каб атрымаць больш падрабязныя звесткі аб справаздачы пра стан Firefox, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>наведайце раздзел падтрымкі Mozilla.</a>
 
 
 ;For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
-Каб атрымаць больш падрабязныя звесткі пра апрацоўку намі вашых здаткаў, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>пазнаёмцеся з нашай палітыкай захавання адасаблення.</a>
+Каб даведацца больш пра апрацоўку намі вашых звестак, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>азнаёмцеся з нашай палітыкай прыватнасці.</a>
 
 
 ;You are currently sharing your health report with Mozilla.
-Вы зараз дзеліцеся вашай справаздачай пра стан з Mozilla.
+Вы зараз дзеліцеся з Mozilla справаздачай пра стан вашага браўзера.
 
 
 ;Choose what I share
@@ -742,12 +742,12 @@ xpcomabi: {ok}
 
 
 ;You are currently not sharing your health report with Mozilla.
-Вы зараз не дзеліцеся вашай справаздачай пра стан з Mozilla.
+Вы зараз не дзеліцеся з Mozilla справаздачай пра стан вашага браўзера.
 
 
 # This string is displayed when selecting Raw Data near the title
 ;Firefox Health Report (FHR) records anonymous data about your computer, configuration, usage, performance, and error conditions. This data helps us improve Firefox for you and for other Firefox users.
-Справаздача аб працаздольнасці Firefox (FHR) запісвае ананімныя звесткі пра ваш камп'ютар, канфігурацыю, выкарыстанне, прадукцыйнасць і ўмовы ўзнікнення памылак. Гэтыя звескі дапамагаюць нам палепшыць Firefox для вас і для іншых карыстальнікаў Firefox.
+Справаздача пра стан Firefox (FHR) запісвае ананімныя звесткі пра ваш камп'ютар, канфігурацыю, выкарыстанне, прадукцыйнасць і ўмовы ўзнікнення памылак. Гэтыя звесткі дапамагаюць нам палепшыць Firefox для вас і для іншых карыстальнікаў.
 
 
 # This string is displayed when selecting Raw Data near the title
