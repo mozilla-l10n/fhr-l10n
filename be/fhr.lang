@@ -281,15 +281,15 @@
 
 
 ;Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
-Адзіны вызначальнік прыстасавання, які адзначае яго ці як Firefox, ці як Thunderbird, ці як інш. Аднолькавы для ўсіх прыстасаванняў незалежна ад значэння <var>appName</var>
+Адзіны ідэнтыфікатар праграмы, які вызначае яе як Firefox, Thunderbird ці інш. Аднолькавы для ўсіх усталёвак праграмы, незалежна ад значэння <var>appName</var>
 
 
 ;The configured name of the application (Firefox/Aurora/Nightly for instance)
-Наладжаная назва прыстасавання (напрыклад: Firefox/Aurora/Nightly)
+Зададзеная назва праграмы (напрыклад Firefox, Aurora ці Nightly)
 
 
 ;The channel this installation checks for application updates (nightly/aurora/beta/release)
-Канал, на якім прыстасаванне правярае наяўнасць абнаўленняў (nightly/aurora/beta/release)
+Канал, на якім праграма правярае наяўнасць абнаўленняў (nightly/aurora/beta/release)
 
 
 ;The name of the company/provider who built this version
@@ -297,7 +297,7 @@
 
 
 ;The current version of the product
-Гэтачасовая версія прадукту
+Дзейная версія прадукту
 
 
 ;Number of processor cores
@@ -305,11 +305,11 @@
 
 
 ;Whether the application is currently configured to be the default browser for the operating system
-Ці наладжана зараз прыстасаванне змоўчным азіральнікам аперацыйнай сістэмы
+Ці ёсць праграма зараз прадвызначаным браўзерам аперацыйнай сістэмы
 
 
 ;Locale currently being used
-Мясцовасць, якая зараз выкарыстоўваецца
+Дзейная лакалізацыя
 
 
 ;Amount of RAM in megabytes
@@ -317,15 +317,15 @@
 
 
 ;Currently running Operating System (kernel) name
-Назва аперацыйнай сістэмы (ядра), якая зараз выконваецца
+Назва аперацыйнай сістэмы (ядра)
 
 
 ;Currently running Operating System (kernel) version
-Версія аперацыйнай сістэмы (ядра), якая зараз выконваецца
+Версія аперацыйнай сістэмы (ядра)
 
 
 ;The build identifier of the Gecko platform code
-Вызначальнік пабудовы кода платформы Gecko
+Ідэнтыфікатар пабудовы кода платформы Gecko
 
 
 ;The version of the Gecko platform code
@@ -337,15 +337,15 @@
 
 
 ;The date this version was first used with this installation profile
-Дата, калі гэтая версія была ўпершыню ўжыта з гэтым профілям усталявання
+Дата, калі гэтая версія была ўпершыню ўжыта з гэтым профілем усталявання
 
 
 ;An application version which has been used with this installation profile
-Версія прыстасавання, якая была ўпершыню ўжыта з гэтым профілям усталявання
+Версія праграмы, якая была ўпершыню ўжыта з гэтым профілем усталявання
 
 
 ;The number of add-ons of this type that existed in the profile on this date
-Лік дадаткаў гэтага тыпу, якія існавалі ў профілю на гэтую дату
+Лік дадаткаў гэтага тыпу, якія існавалі ў профілі на гэтую дату
 
 
 ;<var>True</var> if the application automatically disabled the add-on
@@ -353,35 +353,35 @@
 
 
 ;Whether this add-on was installed by the user or automatically by another application
-Ці гэты дадатак быў усталяваны карыстальнікам або іншым прыстасаваннем самастойна
+Гэты дадатак быў усталяваны карыстальнікам або іншай праграмай самастойна
 
 
 ;Whether this add-on has native code.
-Ці мае гэты дадатак родны код.
+Ці мае гэты дадатак натыўны код.
 
 
 ;The identifier of this add-on as defined by the add-on developer
-Вызначальнік гэтага дадатка, прызначаны распрацаўніком дадатка
+Ідэнтыфікатар гэтага дадатка, прызначаны яго распрацоўшчыкам
 
 
 ;The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
-Найбольш апошняя дата, калі дадатак быў усталяваны (звесткі пра папярэдне высталяваныя дадаткі не ўтрымліваюцца).
+Самая апошняя дата, калі дадатак быў усталяваны (звесткі пра папярэдне выдаленыя дадаткі не захоўваюцца).
 
 
 ;The number of searches performed with this search engine from this part of the UI
-Лік пошукаў, выкананы з дапамогаю гэтай машыны пошукаў з гэтай адзінкі інтэрфэйса
+Лік пошукаў, выкананых з дапамогаю гэтага пашукавіка з гэтага элемента інтэрфейсу
 
 
 ;Whether this add-on was installed in the application directory or profile directory
-Ці быў гэты дадатак усталяваны ў дырэкторыю прыстасавання або дырэкторыю профілю
+У каталог праграмы ці профілю быў усталяваны гэты дадатак
 
 
 ;Whether this add-on is an extension or a plug-in
-Ці гэты дадатак прыстасаванне або ўбудова
+Гэты дадатак ёсць пашырэннем ці ўбудовай
 
 
 ;The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
-Найбольш апошняя дата, калі дадатак быў абноўлены (звесткі пра папярэдне высталяваныя дадаткі не ўтрымліваюцца).
+Самая апошняя дата, калі дадатак быў абноўлены (звесткі пра папярэдне выдаленыя дадаткі не захоўваюцца).
 
 
 ;<var>True</var> if the user manually disabled the add-on
@@ -389,55 +389,55 @@
 
 
 ;The current version of this add-on
-Цяперашняя версія дадатка
+Дзейная версія дадатка
 
 
 ;How long in milliseconds it took during startup for the application to render the UI and display the window
-Колькі мілісекундаў каштавала прыстасаванню адлюстраваць інтэрфэйс і акно падчас запуску
+Праз колькі мілісекундаў пасля запуску з'явіліся галоўнае акно і інтэрфейс
 
 
 ;How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
-Колькі мілісекундаў каштавала прыстасаванню загрузіць бібліятэкі і завяршыць асноўнае прадвызначэнне падчас запуску
+Колькі мілісекундаў заняло загрузіць бібліятэкі і завяршыць ініцыялізацыю
 
 
 ;How long in milliseconds it took during startup for the application to restore tabs from the previous session
-Колькі мілісекундаў каштавала прыстасаванню аднавіць устаўкі папярэдняй сэсіі падчас запуску
+Колькі мілісекундаў заняло аднавіць карткі папярэдняй сесіі
 
 
 ;The number of times the application was run and not cleanly shut down.
-Колькасць разоў, калі прыстасаванне крыва закрылася пасля запуску.
+Колькасць разоў, калі праграма некарэктна спыняла выкананне.
 
 
 ;The time in seconds that the aborted sessions were not idle
-Лік секундаў, якіх абарваныя сэсіі не былі бяздзейнымі
+Колькі секундаў абарваныя сесіі не былі бяздзейнымі
 
 
 ;The time in seconds that the aborted sessions were running
-Лік секундаў, якіх абарваныя сэсіі былі дзейнымі
+Колькі секундаў абарваныя сесіі яшчэ працавалі
 
 
 ;The number of days since this application profile directory was created
-Лік дзён ад стварэння дырэкторыі профілю прыстасавання
+Колькі дзён таму быў створаны каталог профілю праграмы
 
 
 ;The number of times the application was run and cleanly shut down.
-Колькасць разоў, калі прыстасаванне чыста закрылася пасля запуску.
+Колькасць разоў, калі праграма была карэктна закрыта.
 
 
 ;The time in seconds that the completed sessions were not idle
-Лік секундаў, якіх скончаныя сэсіі не былі бяздзейнымі
+Колькі секундаў скончаныя сесіі не былі бяздзейнымі
 
 
 ;The time in seconds that the completed sessions were running
-Лік секундаў, якіх скончаныя сэсіі былі дзейнымі
+Колькі секундаў скончаныя сесіі яшчэ працавалі
 
 
 ;Total number of crashes that were recorded but not yet submitted
-Агульная колькасць крахаў, якія не пададзены
+Агульная колькасць крахаў, пра якія не было паведамлена
 
 
 ;Total number of crashes that have been submitted
-Агульная колькасць пададзеных крахаў
+Агульная колькасць паведамленых крахаў
 
 
 ;Time in seconds the app has not been idle
