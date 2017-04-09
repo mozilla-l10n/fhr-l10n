@@ -441,11 +441,11 @@
 
 
 ;Time in seconds the app has not been idle
-Лік секундаў, якіх прыстасаванне не было бяздзейным
+Колькі секундаў праграма не была бяздзейнай
 
 
 ;Time in seconds since the app was last started
-Лік секундаў, якія прайшлі ад запуску прыстасавання
+Колькі секундаў мінула ад апошняга запуску праграмы
 
 
 ;Total number of bookmarks
