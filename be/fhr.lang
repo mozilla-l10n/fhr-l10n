@@ -457,23 +457,23 @@
 
 
 ;How long in minutes the current session has been running
-Як доўга ў хвілінах цяперашняя сэсія выконваецца
+Колькі хвілін выконваецца дзейная сесія
 
 
 ;Welcome to your Firefox Health Report
-Калі ласка да вашай справаздачы пра стан Firefox
+Вітаем у справаздачы пра стан Firefox
 
 
 ;Welcome!
-Калі ласка!
+Вітаем!
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
-Справаздача пра стан Firefox дазваляе вам даведацца, як Firefox выконваецца і што вы можаце зрабіць для паляпшэння.
+Справаздача пра стан Firefox паказвае, як Firefox выконваецца, і што можна зрабіць для паляпшэння прадукцыйнасці.
 
 
 ;See My Report
-Прабачыць маю справаздачу
+Паглядзець маю справаздачу
 
 
 ;Time (in seconds)
@@ -485,12 +485,12 @@
 
 
 ;Privacy Policy
-Палітыка адасаблення
+Палітыка прыватнасці
 
 
 # The following strings are used only in the Mobile version of about:healthreport (Firefox for Android)
 ;Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
-Справаздачнік стану Firefox дазваляе вам удасканаліць ваш Firefox і дапамагае нам пабудаваць больш выдатны азіральнік. Справаздачы будуць вельмі простымі спачатку, але будуць развівацца і расці.
+Справаздача пра стан Firefox дазваляе вам удасканаліць Firefox і дапамагае нам пабудаваць лепшы браўзер. Справаздачы спачатку будуць вельмі простымі, але далей будуць развівацца і расці.
 
 
 ;Learn More&hellip;
@@ -502,7 +502,7 @@
 
 
 ;Looks like your Firefox is brand new! Check back after using Firefox for a while.
-Ваш Firefox выглядае новым! Праверце пасля, праз нейкі час карыстання Firefox.
+Ваш Firefox выглядае новым! Праз нейкі час карыстання Firefox праверце ізноў.
 
 
 ;Important Metrics
