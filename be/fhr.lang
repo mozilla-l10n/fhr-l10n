@@ -618,7 +618,7 @@ xpcomabi: {ok}
 
 
 ;The CPU architecture for which this application was built.
-Архітэктура ЦП, для якой прыстасаванне было пабудавана.
+Архітэктура ЦП, для якой была пабудавана праграма.
 
 
 ;OS:
@@ -650,11 +650,11 @@ xpcomabi: {ok}
 
 
 ;The Android OS revision.
-Перагляд АС Android OS.
+Рэдакцыя Android OS.
 
 
 ;Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
-Ці Firefox атрымлівае чорны спіс дадаткаў, каб засцерагчы вас ад зламысных дадаткаў. Змоўчна ўкл.
+Ці атрымліваць чорны спіс дадаткаў, каб засцерагчы вас ад зламысных дадаткаў. Прадвызначана ўключана.
 
 
 ;Telemetry Enabled:
@@ -662,11 +662,11 @@ xpcomabi: {ok}
 
 
 ;Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
-Ці Firefox робіць справаздачу падрабязных здаткаў выкарыстання, каб дапамагчы распрацоўцы. Змоўчна выкл. для большасці каналаў.
+Ці паведамляць падрабязныя звесткі пра выкарыстанне, каб дапамагчы распрацоўцы. Прадвызначана выключана для большасці каналаў.
 
 
 ;Extension Count:
-Лік пашырэння:
+Колькасць пашырэнняў:
 
 
 ;How many extension add-ons are installed.
@@ -674,15 +674,15 @@ xpcomabi: {ok}
 
 
 ;Plugin Count:
-Лік убудоваў:
+Колькасць плагінаў:
 
 
 ;How many plugin add-ons are installed.
-Колькі ўбудоваў усталявана.
+Колькі плагінаў усталявана.
 
 
 ;Theme Count:
-Лік тэмаў:
+Колькасць тэмаў:
 
 
 ;How many theme add-ons are installed.
@@ -694,19 +694,19 @@ xpcomabi: {ok}
 
 
 ;A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
-Збор, які апісвае ўсталяваныя дадткі. Не ўсе пералічваюцца, толькі ўбудовы, пашырэнні, службы.
+Пералік усталяваных дадаткаў. Не пра ўсе дадаткі паведамляецца: толькі пра плагіны, пашырэнні і службы.
 
 
 ;Search Counts:
-Лік пошукаў:
+Колькасць пошукаў:
 
 
 ;A count of how many searches you issued to each of Mozilla's partner providers.
-Колькі пошукаў вы зрабілі на кожным з дастаўшчыкоў-партнёраў Mozilla.
+Колькі пошукаў вы зрабілі на кожным з партнёраў-правайдараў Mozilla.
 
 
 ;Sessions and Startup Times
-Часы сэсіяў і запускаў
+Час сесій і запускаў
 
 
 ;For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
