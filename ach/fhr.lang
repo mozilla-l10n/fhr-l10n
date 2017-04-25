@@ -269,7 +269,7 @@ Operating System for which this build was configured
 
 
 ;Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
-Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
+Lanyut pi pok moni pa purugram ma tye i tic. ki kwanyo ki i ter me <var>distribution.id</var>
 
 
 ;Version of the distribution, taken from the <var>distribution.version</var> preference
@@ -289,7 +289,7 @@ Nying ma kitero pi purugram (calo Firefox/Aurora/Nightly)
 
 
 ;The channel this installation checks for application updates (nightly/aurora/beta/release)
-The channel this installation checks for application updates (nightly/aurora/beta/release)
+Yoo ma ket man roto pi ngec manyen me purugram (nightly/aurora/beta/release)
 
 
 ;The name of the company/provider who built this version
@@ -301,7 +301,7 @@ Kit me jami ma kombedi
 
 
 ;Number of processor cores
-Number of processor cores
+Wel cuma ma pi gi tego
 
 
 ;Whether the application is currently configured to be the default browser for the operating system
@@ -345,7 +345,7 @@ An application version which has been used with this installation profile
 
 
 ;The number of add-ons of this type that existed in the profile on this date
-The number of add-ons of this type that existed in the profile on this date
+Wel med-ikome ma kit man ma obedo tye i propwail i nino dwe man
 
 
 ;<var>True</var> if the application automatically disabled the add-on
@@ -361,11 +361,11 @@ Kono onyo med-ikome man tye ki kod me gang.
 
 
 ;The identifier of this add-on as defined by the add-on developer
-The identifier of this add-on as defined by the add-on developer
+Lanyut me med-ikome man kit ma ladiro ne otito kwede
 
 
 ;The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
-The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
+Nino dwe macok loyo ma kiketo kwede ki med-ikome man (pe ki gwoko ngec mukato ikom med-ikome ma kikwanyo).
 
 
 ;The number of searches performed with this search engine from this part of the UI
@@ -381,7 +381,7 @@ Kono onyo med-ikome man obedo lamed onyo larwak
 
 
 ;The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
-The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
+Nino dwe macok loyo ma kiketo kwede ngec manyen i med-ikome man (pe ki gwoko ngec mukato ikom med-ikome ma kikwanyo).
 
 
 ;<var>True</var> if the user manually disabled the add-on
@@ -401,7 +401,7 @@ How long in milliseconds it took during startup for the application to load libr
 
 
 ;How long in milliseconds it took during startup for the application to restore tabs from the previous session
-How long in milliseconds it took during startup for the application to restore tabs from the previous session
+Otero kare marom mene i milliceken ikare me cako ki purugram me dwoko dirica matino ki i kare mukato
 
 
 ;The number of times the application was run and not cleanly shut down.
@@ -417,7 +417,7 @@ Wel cawa i ceken ma kare ma kijuko ni onongo tye ka tic
 
 
 ;The number of days since this application profile directory was created
-The number of days since this application profile directory was created
+Wel nino ni cake ma kicweyo kwede boc me propwail pa purugram man
 
 
 ;The number of times the application was run and cleanly shut down.
@@ -522,11 +522,11 @@ Lamed, larwak, ki wel med-ikome ma kiketo.
 
 
 ;Key performance measures, such as launch speed.
-Key performance measures, such as launch speed.
+Pimo tic ma pigi tego, calo dwiro me cako.
 
 
 ;Browsing duration, install time, number of bookmarks and pages.
-Browsing duration, install time, number of bookmarks and pages.
+Kare me yeny, cawa me ket, wel alamabukke ki potbukke.
 
 
 ;Home
@@ -538,7 +538,7 @@ Kwan me CPU:
 
 
 ;The number of CPU cores reported by Android.
-The number of CPU cores reported by Android.
+Wel cuma ma pi gi tego ma Android omiyo ripot pi gi.
 
 
 ;Memory in MB:
@@ -546,7 +546,7 @@ Memory i MB:
 
 
 ;The amount of memory reported by Android. Typically excludes graphics memory.
-The amount of memory reported by Android. Typically excludes graphics memory.
+Wel memory ma Android omiyo ripot pi gi. Pol kare pe kwako memory me cal.
 
 
 ;Application Name:
@@ -554,7 +554,7 @@ Nying purugram:
 
 
 ;The internal application name for the browser.
-The internal application name for the browser.
+Nying me ic pa purugram pi layeny.
 
 
 ;Application ID:
@@ -562,7 +562,7 @@ ID pa purugram:
 
 
 ;The internal identifier for the application.
-The internal identifier for the application.
+Lanyut me ic pi purugram.
 
 
 ;Application Version:
@@ -610,11 +610,11 @@ Platform Build ID:
 
 
 ;On Android this is an alternative name for appBuildID.
-On Android this is an alternative name for appBuildID.
+I Android man aye nying mukene pi appBuildID.
 
 
 ;xpcomabi:
-xpcomabi:
+xpcomabi: {ok}
 
 
 ;The CPU architecture for which this application was built.
@@ -654,7 +654,7 @@ The Android OS revision.
 
 
 ;Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
-Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
+Kono Firefox kelo adwogi me med-ikome ma ki gengo gi me gwoko in ki ikom med-ikome maraco. Tye makwongo.
 
 
 ;Telemetry Enabled:
@@ -662,11 +662,11 @@ Telemetry Enabled:
 
 
 ;Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
-Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
+Kono Firefox miyo ripot matut ikom tic ki data me konyo ki yubo. Pe tye makwongo pi yoo mapol.
 
 
 ;Extension Count:
-Extension Count:
+Wel Lamed:
 
 
 ;How many extension add-ons are installed.
@@ -674,7 +674,7 @@ Med-ikome adi me lamed ma kiketo.
 
 
 ;Plugin Count:
-Plugin Count:
+Wel Larwak:
 
 
 ;How many plugin add-ons are installed.
@@ -694,15 +694,15 @@ Med-ikome:
 
 
 ;A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
-A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
+Dul ma tito pi med-ikome ma kiketo. Pe ki miyo ripot pi med-ikome weng: larwak, lamed, ki tic keken.
 
 
 ;Search Counts:
-Search Counts:
+Wel Yeny:
 
 
 ;A count of how many searches you issued to each of Mozilla's partner providers.
-A count of how many searches you issued to each of Mozilla's partner providers.
+Wel yeny ma yin imiyo bot luwot Mozilla acelacel ma gimiyo.
 
 
 ;Sessions and Startup Times
@@ -710,7 +710,7 @@ Kare ki cawa me acaki
 
 
 ;For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
-For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
+Pi kare me yeny acelacel, Ripot me Yotkom pa Firefox gwoko kare marom mene ma i tero i yeny (i ceken), ki kace kare ne otum maber onyo pien pi poto. Bene kwako kare me cako (i milliceken) ka tye.
 
 
 ;Profile Creation:
@@ -747,7 +747,7 @@ Kombedi i pe ka nywako ripot me yot kom mamegi ki Mozilla.
 
 # This string is displayed when selecting Raw Data near the title
 ;Firefox Health Report (FHR) records anonymous data about your computer, configuration, usage, performance, and error conditions. This data helps us improve Firefox for you and for other Firefox users.
-Firefox Health Report (FHR) records anonymous data about your computer, configuration, usage, performance, and error conditions. This data helps us improve Firefox for you and for other Firefox users.
+Ripot me Yotkom pa Firefox (FHR) gwoko data mape ngene ikom kompiuta ni, ter, tic kwede, tic, ki bal. Data man konyo wa me yubo Firefox maber piri ki pi lutic ki Firefox mukene.
 
 
 # This string is displayed when selecting Raw Data near the title
