@@ -55,17 +55,17 @@ Hlaziya iTshanele:
 
 
 ;updates
-updates
+uhlaziyo
 
 
 # Possible value for "updates"
 ;automatic
-automatic
+qalisa
 
 
 # Possible value for "updates"
 ;prompt
-khumbuza
+qalisa
 
 
 ;time open
@@ -85,19 +85,19 @@ Le nyanga
 
 
 ;total sessions
-iiseshoni zizonke
+iseshoni epheleleyo
 
 
 ;Active Add-ons
-Izongezelelo ezisebenzayo
+Izongezelelo Ezisebenzayo
 
 
 ;Extensions
-Extensions
+Izandiso
 
 
 ;Plugins (Click-to-Activate)
-Izinto eziplagwayo (Cofa-zisebenze)
+Iilagini (Cofa-ukuze uVuselele)
 
 
 ;crashes
