@@ -654,7 +654,7 @@ xpcomabi: {ok}
 
 
 ;Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
-ما إذا كان فَيَرفُكس يستخرج قائمة الإضافات المحظورة لحمايتك من الإضافات الخبيثة. خاصية مُفعلة بشكل مبدئي.
+ما إذا كان فَيَرفُكس يستخرج قائمة الإضافات المحجوبة لحمايتك من الإضافات الخبيثة. خاصية مُفعلة بشكل مبدئي.
 
 
 ;Telemetry Enabled:
