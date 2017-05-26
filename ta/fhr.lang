@@ -51,7 +51,7 @@
 
 
 ;update channel
-அலைவரிசையை புதுப்பி:
+தட்த்தைப் புதுப்பி:
 
 
 ;updates
@@ -69,7 +69,7 @@
 
 
 ;time open
-திறந்திருக்கும் நேரம்
+திறந்த நேரம்
 
 
 ;last crash
@@ -93,7 +93,7 @@
 
 
 ;Extensions
-நீட்டிப்புகள்
+நீட்சிகள்
 
 
 ;Plugins (Click-to-Activate)
@@ -105,7 +105,7 @@
 
 
 ;application crashes
-பயன்பாடு செயலிழப்புகள்
+பயன்பாட்டு செயலிழப்புகள்
 
 
 ;plugin crashes
@@ -129,7 +129,7 @@
 
 
 ;Plugins
-செருகு நிரல்கள்
+சொருகிகள்
 
 
 ;always activate
@@ -137,7 +137,7 @@
 
 
 ;ask to activate
-செயல்படுத்தக் கேட்கவும்
+செயல்படுத்தக் கேள்
 
 
 ;never activate
@@ -145,7 +145,7 @@
 
 
 ;Tips
-உதவிக்குறிப்புகள்
+குறிப்புகள்
 
 
 ;Wear and Tear
@@ -161,7 +161,7 @@
 
 
 ;Visit our <a href="%(sumo_url)s">support website</a>
-எங்கள் <a href="%(sumo_url)s">ஆதரவு வலைத்தளத்தைப்</a> பார்வையிடவும்
+எங்கள் <a href="%(sumo_url)s">ஆதரவு வலைத்தளத்தைப்</a> பார்க்கவும்
 
 
 ;View more <a href="%(details_url)s">detailed information</a>
@@ -173,7 +173,7 @@
 
 
 ;Your browser seems to be running slower than usual. To learn more:
-உங்கள் உலாவி வழக்கத்தை விட மெதுவாக இயங்குவதாகத் தெரிகிறது. மேலும் அறிய:
+உங்கள் உலாவி வழக்கத்தை விட மெதுவாக இயங்குவதாகத் தெரிகிறது. மேலும் தெரிந்துகொள்ள:
 
 
 ;You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
@@ -201,7 +201,7 @@
 
 
 ;Data Collected
-சேகரிக்கப்படும் தரவு
+சேகரிக்கப்பட்ட தரவு
 
 
 ;Glossary
@@ -473,7 +473,7 @@ Firefox நல அறிக்கையின் மூலம், உங்க�
 
 
 ;See My Report
-என் அறிக்கையைக் காண்
+எனது அறிக்கையைப் பார்
 
 
 ;Time (in seconds)
@@ -498,7 +498,7 @@ Firefox நல அறிக்கையின் மூலம், உங்க�
 
 
 ;Tip
-துணுக்கு
+குறிப்பு
 
 
 ;Looks like your Firefox is brand new! Check back after using Firefox for a while.
@@ -530,7 +530,7 @@ Firefox நல அறிக்கையின் மூலம், உங்க�
 
 
 ;Home
-இல்லம்
+முகப்பு
 
 
 ;CPU Count:
@@ -582,7 +582,7 @@ Firefox நல அறிக்கையின் மூலம், உங்க�
 
 
 ;Update Channel:
-அலைவரிசையை புதுப்பி:
+தடத்தைப் புதுப்பி:
 
 
 ;Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
@@ -598,7 +598,7 @@ Firefox நல அறிக்கையின் மூலம், உங்க�
 
 
 ;Platform Version:
-தள பதிப்பு:
+தளத்தின் பதிப்பு:
 
 
 ;An internal version identifier. Typically the same as appVersion.
@@ -626,7 +626,7 @@ xpcomabi: {ok}
 
 
 ;The current operating system.
-தற்பொதைய இயங்குதளம்.
+பயனிலிருந்த இயங்குதளம்.
 
 
 ;Architecture:
@@ -658,7 +658,7 @@ xpcomabi: {ok}
 
 
 ;Telemetry Enabled:
-டெலிமெட்ரி இயக்கப்பட்டது:
+தொலையளவு இயக்கப்பட்டது:
 
 
 ;Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
@@ -690,7 +690,7 @@ xpcomabi: {ok}
 
 
 ;Addons:
-நீட்சிகள்:
+துணை நிரல்கள்:
 
 
 ;A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
@@ -698,7 +698,7 @@ xpcomabi: {ok}
 
 
 ;Search Counts:
-தேடலின் எண்ணிக்கைகள்:
+மொத்த தேடல்:
 
 
 ;A count of how many searches you issued to each of Mozilla's partner providers.
@@ -714,7 +714,7 @@ xpcomabi: {ok}
 
 
 ;Profile Creation:
-விவரக்குறிப்பு உருவாக்கம்:
+சுயவிவர உருவாக்கம்:
 
 
 ;The day on which your browser profile was created. Counted in days since January 1st 1970.
@@ -730,7 +730,7 @@ xpcomabi: {ok}
 
 
 ;For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
-உங்கள் தரவுகளை நாங்கள் எப்படி கையாளுகிறோம் என்பதை அறிய , <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>எங்களுடைய தனியுரிம கொள்கையை பார்க்கவும்.</a>
+உங்கள் தரவுகளை நாங்கள் எப்படி கையாளுகிறோம் என்பதை அறிய , <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>எங்களின் தனியுரிம கொள்கையைப் பாபாருங்கள்.</a>
 
 
 ;You are currently sharing your health report with Mozilla.
@@ -738,7 +738,7 @@ xpcomabi: {ok}
 
 
 ;Choose what I share
-நான் தேர்ந்தெடுத்ததை பகிரவும்
+நான் தேர்ந்தெடுத்ததை பகிர்க
 
 
 ;You are currently not sharing your health report with Mozilla.
@@ -747,12 +747,12 @@ xpcomabi: {ok}
 
 # This string is displayed when selecting Raw Data near the title
 ;Firefox Health Report (FHR) records anonymous data about your computer, configuration, usage, performance, and error conditions. This data helps us improve Firefox for you and for other Firefox users.
-Firefox Health Report (FHR) records anonymous data about your computer, configuration, usage, performance, and error conditions. This data helps us improve Firefox for you and for other Firefox users.
+பாயர்பாக்ஸ் சுகாதார அறிக்கை (ப.சு.அ) உங்களுடைய கணினி, அதன் கட்டமைப்பு, பயனளவு, செயல்திறன், பிழை நிலைமைகள் போன்ற தகவல்களை பதிவு செய்துவருகிறது. இந்த தகவல் உங்களுக்காகவும் மற்ற பயனர்களுக்காகவும் பாயர்பாக்சை மேம்படுத்த உதவுகிறது.
 
 
 # This string is displayed when selecting Raw Data near the title
 # Links to https://gecko.readthedocs.org/en/latest/toolkit/components/telemetry/telemetry/
 ;Read technical documentation for the data format and fields.
-Read technical documentation for the data format and fields.
+தர வடிவத்திற்கும், அதன் புலங்களுக்குமான தொழில்நுட்ப ஆவணங்களைப் படிக்கவும்.
 
 
