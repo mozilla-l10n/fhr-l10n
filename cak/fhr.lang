@@ -397,7 +397,7 @@ Pa janipe' xil nich'ramaj richin xutikirisaj ri chokoy richin xuk'üt pe ri UI c
 
 
 ;How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
-Pa janipe' xil nich'ramaj richin xutikirisaj ri chokoy richin xusamajij ri ruchokoy wujib'äl chuqa' chuqa' richin xuk'isib'ej ri ruxe' tikirib'äl
+Pa janipe' xil nich'ramaj richin xutikirisaj ri chokoy richin xusamajij ri ruchokoy wujib'äl chuqa' richin xuk'isib'ej ri ruxe' tikirib'äl
 
 
 ;How long in milliseconds it took during startup for the application to restore tabs from the previous session
@@ -421,7 +421,7 @@ Ri rajilab'al q'ij toq xnuk' ri ruwäch rub'i' cholb'äl
 
 
 ;The number of times the application was run and cleanly shut down.
-Rajilab'äl taq q'ij ri chokoy nisamäj chuqa nujosq'ij ri chupuj.
+Rajilab'äl taq q'ij ri chokoy nisamäj chuqa' nujosq'ij ri chupuj.
 
 
 ;The time in seconds that the completed sessions were not idle
@@ -437,7 +437,7 @@ Rajlab'al taq q'atoj xetz'et, xa xe chi man ek'utun ta pe
 
 
 ;Total number of crashes that have been submitted
-Ronojel rajlab'al sachoj ri xetaq
+Ronojel rajilab'al sachoj ri xetaq
 
 
 ;Time in seconds the app has not been idle
@@ -453,7 +453,7 @@ Ronojel kajilab'al taq yaketal
 
 
 ;Total number of pages listed in the history
-Ronojel rajlab'al taq ruxaq echolajin pa natab'äl
+Ronojel ri rajilab'al taq ruxaq echolajin pa natab'äl
 
 
 ;How long in minutes the current session has been running
