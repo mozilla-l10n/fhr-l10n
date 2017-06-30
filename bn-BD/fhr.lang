@@ -413,7 +413,7 @@ The time in seconds that the aborted sessions were not idle
 
 
 ;The time in seconds that the aborted sessions were running
-The time in seconds that the aborted sessions were running
+বাতিলকৃত সেশন কত সেকেন্ড চলেছিল
 
 
 ;The number of days since this application profile directory was created
@@ -702,7 +702,7 @@ Whether Firefox reports detailed usage data to help with development. Defaults t
 
 
 ;A count of how many searches you issued to each of Mozilla's partner providers.
-A count of how many searches you issued to each of Mozilla's partner providers.
+মজিলার অংশীদার সেবাদাতাদের কতগুলো অনুসন্ধান আপনি ইস্যু করেছেন
 
 
 ;Sessions and Startup Times
