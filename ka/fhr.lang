@@ -3,19 +3,19 @@
 
 
 ;Firefox Health Report
-Firefox წარმადობის პატაკი
+Firefox მოხსენება წარმადობის შესახებ
 
 
 ;Raw Data
-მონაცემები
+ნედლი მონაცემები
 
 
 ;Get insights and performance information about your version of Firefox.
-მონაცემები თქვენი Firefox ბრაუზერის წარმადობის შესახებ.
+მონაცემები თქვენი Firefox ვერსიის წარმადობის შესახებ.
 
 
 ;Learn more...
-დაწვრილებით...
+შეიტყვეთ მეტი...
 
 
 ;Data Sharing
@@ -23,7 +23,7 @@ Firefox წარმადობის პატაკი
 
 
 ;ON
-დიახ
+ჩართულია
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
@@ -31,15 +31,15 @@ Firefox წარმადობის პატაკი
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
-თქვენი პატაკები წარმადობის შესახებ ასევე ამოიშლება Mozilla-ს სერვერებიდან. დეტალებისთვის გაეცანით ჩვენს <a href="%(privacy_url)s">კონფიდენციალობის პოლიტიკას.</a>
+თქვენი მოხსენებები წარმადობის შესახებ ასევე ამოიშლება Mozilla-ს სერვერებიდან. ვრცლად იხილეთ <a href="%(privacy_url)s">პირადი მონაცემების დაცვის დებულებაში.</a>
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
-თქვენ გადაწყვიტეთ დროდადრო მონაცემები გაუზიაროთ Mozilla-ს. გმადლობთ, რომ ჩვენთან ერთად ცდილობთ ინტერნეტის გაუმჯობესებას.
+თქვენ გადაწყვიტეთ დროდადრო გაუზიაროთ Mozilla-ს მონაცემები. გმადლობთ, რომ გვეხმარებით ინტერნეტის ნათელი მომავლის შექმნაში.
 
 
 ;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
-გაეცანით თქვენი გამოგზავნილი მონაცემების დამუშავების დეტალებს ჩვენი <a href="%(privacy_url)s">კონფიდენციალობის პოლიტიკიდან.</a>
+თქვენ გამოგზავნილი მონაცემების დამუშავების შესახებ იხილეთ ჩვენს <a href="%(privacy_url)s">პირადი მონაცემების დაცვის დებულებაში.</a>
 
 
 ;Vital Stats
@@ -51,21 +51,21 @@ Firefox წარმადობის პატაკი
 
 
 ;update channel
-update channel
+განახლების არხი
 
 
 ;updates
-updates
+განახლებები
 
 
 # Possible value for "updates"
 ;automatic
-automatic
+ავტომატური
 
 
 # Possible value for "updates"
 ;prompt
-prompt
+მოთხოვნით
 
 
 ;time open
@@ -73,7 +73,7 @@ prompt
 
 
 ;last crash
-ბოლო წყვეტა
+ბოლო ავარიული დახურვა
 
 
 ;bookmarks
@@ -81,11 +81,11 @@ prompt
 
 
 ;This Month
-ეს თვე
+ამ თვის
 
 
 ;total sessions
-total sessions
+ყველა სეანსის
 
 
 ;Active Add-ons
