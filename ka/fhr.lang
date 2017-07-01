@@ -747,12 +747,12 @@ Firefox წარმადობის მომხსენებელი (FHR
 
 # This string is displayed when selecting Raw Data near the title
 ;Firefox Health Report (FHR) records anonymous data about your computer, configuration, usage, performance, and error conditions. This data helps us improve Firefox for you and for other Firefox users.
-Firefox Health Report (FHR) records anonymous data about your computer, configuration, usage, performance, and error conditions. This data helps us improve Firefox for you and for other Firefox users.
+Firefox წარმადობის მომხსენებელი (FHR) აგროვებს ანონიმურ მონაცემებს თქვენი კომპიუტერის, გამართვის, გამოყენების, წარმადობის და შეცდომების შესახებ. ეს მონაცემები გვეხმარება Firefox-ის გაუმჯობესებაში თქვენთვის და დანარჩენი მომხმარებლებისთვისაც.
 
 
 # This string is displayed when selecting Raw Data near the title
 # Links to https://gecko.readthedocs.org/en/latest/toolkit/components/telemetry/telemetry/
 ;Read technical documentation for the data format and fields.
-Read technical documentation for the data format and fields.
+გაეცანით ტექნიკურ ინფორმაციას მონაცემების ფორმატისა და ველების შესახებ.
 
 
