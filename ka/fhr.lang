@@ -349,11 +349,11 @@ Gecko პლატფორმის კოდის ვერსია
 
 
 ;<var>True</var> if the application automatically disabled the add-on
-<var>True</var> თუ პროგრამამ მოდული ავტომატურად ამორთო
+<var>True</var> თუ პროგრამამ ავტომატურად ამორთო დამატება
 
 
 ;Whether this add-on was installed by the user or automatically by another application
-ჩაიდგა თუ არა ეს მოდული მომხმარებლის მიერ თუ ავტომატურად სხვა პროგრამის მიერ
+ეს დამატება მომხმარებლის მიერაა ჩადმგული თუ ავტომატურად სხვა პროგრამის მიერ
 
 
 ;Whether this add-on has native code.
