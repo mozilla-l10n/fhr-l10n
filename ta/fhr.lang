@@ -31,7 +31,7 @@
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
-உங்கள் உலாவியின் ஆரோக்கிய அறிக்கை தரவு மொசில்லாவின் சேவையகங்களிலிருந்து அகற்றப்படும். மேலும் எங்களுடைய <a href="%(privacy_url)s">தனியுரிமை கொள்கையில் அறிக.</a>
+உங்கள் உலாவியின் ஆரோக்கிய அறிக்கைத் தரவு மொசில்லாவின் சேவையகங்களிலிருந்து அகற்றப்படும். மேலும் எங்களுடைய <a href="%(privacy_url)s">தனியுரிமைக் கொள்கையில் அறிக.</a>
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
