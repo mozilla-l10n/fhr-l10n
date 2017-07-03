@@ -35,7 +35,7 @@ Helserapportdata vil også fjernes fra Mozillas tjenere. Les mer i våre <a href
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
-Du har valgt å dele data med Mozilla med jevne mellomrom. Takk for at du bidrar til vårt mål om å bygge en bedre fremtid for webben.
+Du har valgt å dele data med Mozilla med jevne mellomrom. Takk for at du bidrar til vårt mål om å bygge en bedre fremtid for nettet.
 
 
 ;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
@@ -261,11 +261,11 @@ Binært grensesnitt for XPCOM
 
 
 ;Identifier for this build of the application based on the date the build was started
-Identifikator av denne byggen applikasjonen er basert på, dato byggen ble startet
+Identifikator av dette bygget applikasjonen er basert på, dato bygget ble startet
 
 
 ;Operating System for which this build was configured
-Operativsystem denne byggen ble konfigurert for
+Operativsystem dette bygget ble konfigurert for
 
 
 ;Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
@@ -574,7 +574,7 @@ Nåværende versjon av nettleseren
 
 
 ;Application Build ID:
-Byggid for applikasjonen:
+Bygg-ID for applikasjonen:
 
 
 ;The internal build timestamp.
@@ -606,7 +606,7 @@ En intern versjonsid. Er typisk det samme som appVersion.
 
 
 ;Platform Build ID:
-Plattform-byggid:
+Plattform-bygg-ID:
 
 
 ;On Android this is an alternative name for appBuildID.
