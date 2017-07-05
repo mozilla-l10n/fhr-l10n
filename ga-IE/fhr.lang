@@ -397,7 +397,7 @@ Cá fhad a bhí sé sular thaispeáin an feidhmchlár an comhéadan agus an fhui
 
 
 ;How long in milliseconds it took during startup for the application to load libraries and finish basic initialization
-Cá fhad a bhí sé sular luchtaigh an feidhmchlár leabharlanna agus sular chríochnaigh sé túsú bunúsach, i milleasoicindí
+Cá fhad a bhí sé sular lódáil an feidhmchlár leabharlanna agus sular chríochnaigh sé túsú bunúsach, i milleasoicindí
 
 
 ;How long in milliseconds it took during startup for the application to restore tabs from the previous session
