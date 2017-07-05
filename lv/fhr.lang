@@ -60,12 +60,12 @@ atjauninājumi
 
 # Possible value for "updates"
 ;automatic
-automatic
+automātiski
 
 
 # Possible value for "updates"
 ;prompt
-prompt
+pieprasījums
 
 
 ;time open
@@ -614,7 +614,7 @@ Uz Android, šis ir alternatīvs nosaukums appBuildID vietā.
 
 
 ;xpcomabi:
-xpcomabi:
+xpcomabi: {ok}
 
 
 ;The CPU architecture for which this application was built.
