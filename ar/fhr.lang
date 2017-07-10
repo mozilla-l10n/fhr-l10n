@@ -209,7 +209,7 @@
 
 
 ;What the Firefox Health Report Measures
-ماهي معايير الأداء التي يقيسها التقرير؟
+ماهي معايير الأداء التي يقيسها التقرير
 
 
 ;The Firefox Health Report (FHR) has 4 categories of metrics:
@@ -357,7 +357,7 @@
 
 
 ;Whether this add-on has native code.
-ما إذا كان لهذه الإضافة كود أصيل
+ما إذا كان لهذه الإضافة كود أصيل.
 
 
 ;The identifier of this add-on as defined by the add-on developer
@@ -365,7 +365,7 @@
 
 
 ;The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
-أحدث تاريخ ثُبّتت هذه الإضافة فيه (لا يُحتفظ بالمعلومات السابقة لإضافة ألغي تثبيتها)
+أحدث تاريخ ثُبّتت هذه الإضافة فيه (لا يُحتفظ بالمعلومات السابقة لإضافة ألغي تثبيتها).
 
 
 ;The number of searches performed with this search engine from this part of the UI
@@ -381,7 +381,7 @@
 
 
 ;The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
-أحدث تاريخ حُدّثت الإضافة فيه (لا يُحتفظ بالمعلومات السابقة لإضافة ألغي تثبيتها)
+أحدث تاريخ حُدّثت الإضافة فيه (لا يُحتفظ بالمعلومات السابقة لإضافة ألغي تثبيتها).
 
 
 ;<var>True</var> if the user manually disabled the add-on
@@ -514,7 +514,7 @@
 
 
 ;Device hardware, operating system, Firefox version.
-عتاد الجهاز، نظام التشغيل، إصدار فَيَرفُكس
+عتاد الجهاز، نظام التشغيل، إصدار فَيَرفُكس.
 
 
 ;Extensions, plugins, and number of installed add-ons.
@@ -738,7 +738,7 @@ xpcomabi: {ok}
 
 
 ;Choose what I share
-اختيار ما أقوم بتشاركه.
+اختيار ما أقوم بتشاركه
 
 
 ;You are currently not sharing your health report with Mozilla.
