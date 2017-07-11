@@ -305,7 +305,7 @@ Anzahl der Prozessorkerne
 
 
 ;Whether the application is currently configured to be the default browser for the operating system
-Ob die Anwendung derzeit der ausgewählte Standard-Browser des Betriebssystems ist
+Ob die Anwendung derzeit der ausgewählte Standardbrowser des Betriebssystems ist
 
 
 ;Locale currently being used
