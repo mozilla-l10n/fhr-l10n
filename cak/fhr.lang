@@ -269,11 +269,11 @@ Samajel q'inoj richin re b'anöl runuk'ulem
 
 
 ;Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
-Tz'etöy richin ri ichinan rujachik ri chokoy nokisäx. Nichap el pa ri <var>distribution.id</var>ajowab'äl
+Tz'etöy richin ri ichinan rujachik ri chokoy nokisäx. Nichap el pa ri <var>distribution.id</var> ajowab'äl
 
 
 ;Version of the distribution, taken from the <var>distribution.version</var> preference
-Ri ruwäch jachïk, xchap pe pa ri <var>distribution.version</var>ajowab'äl
+Ri ruwäch jachïk, xchap pe pa ri <var>distribution.version</var> ajowab'äl
 
 
 ;The version number of any Mozilla hotfix applied to the application
@@ -349,7 +349,7 @@ Ri kajilab'al taq tz'aqat richin re ruwäch re', kan k'o wi pa ruwäch b'i'aj re
 
 
 ;<var>True</var> if the application automatically disabled the add-on
-<var>Qitzij</var>we ri chokoy pa ruyonil nuchüp ri add-on
+<var>Qitzij</var> we ri chokoy pa ruyonil nuchüp ri add-on
 
 
 ;Whether this add-on was installed by the user or automatically by another application
@@ -385,7 +385,7 @@ Ri k'ak'a' ruq'ijul re chokoy re' xk'ex kan (man k'o ta chik rutzijol ri jun add
 
 
 ;<var>True</var> if the user manually disabled the add-on
-<var>Qitzij</var>we ri retamawuj winäq nuchüp ri add-on
+<var>Qitzij</var> we ri retamawuj winäq nuchüp ri add-on
 
 
 ;The current version of this add-on
@@ -710,7 +710,7 @@ Ri taq molojri'ïl chuqa' ri taq ruq'ijul tikirib'äl
 
 
 ;For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
-Chi kijujunal ri rumolojri'ïl okem pa k'amaya'l, Firefox Health Report nuya' retal jarupe' ramaj at okinäq pa k'amaya'l (pa nich'ramaj) chuqa' we choj xuk'isib'ej o xq'ate' ri molojri'ïl. Chuqa' nuq'alajisaj pe ri ramaj nutikirisaj (pa xil nich'ramaj) we e wachel.
+Chi kijujunal ri rumolojri'ïl okem pa k'amaya'l, Firefox Health Report nuya' retal jarupe' ramaj atokinäq pa k'amaya'l (pa nich'ramaj) chuqa' we choj xuk'isib'ej o xq'ate' ri molojri'ïl. Chuqa' nuq'alajisaj pe ri ramaj nutikirisaj (pa xil nich'ramaj) we e wachel.
 
 
 ;Profile Creation:
