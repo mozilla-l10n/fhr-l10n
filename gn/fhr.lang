@@ -7,7 +7,7 @@ Firefox Health Report
 
 
 ;Raw Data
-Raw Data
+Mba'ekuaarã oĩmba'ỹva gueteri
 
 
 ;Get insights and performance information about your version of Firefox.
@@ -15,15 +15,15 @@ Get insights and performance information about your version of Firefox.
 
 
 ;Learn more...
-Learn more...
+Kuave...
 
 
 ;Data Sharing
-Data Sharing
+Mba'ekuaarã Ñemoherakuã
 
 
 ;ON
-ON
+PE
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
@@ -47,25 +47,25 @@ Vital Stats
 
 
 ;version
-version
+peteĩchagua
 
 
 ;update channel
-update channel
+ñembohekopyahu mbohapeha
 
 
 ;updates
-updates
+ñembohekopyahu
 
 
 # Possible value for "updates"
 ;automatic
-automatic
+ijeheguietéva
 
 
 # Possible value for "updates"
 ;prompt
-prompt
+prompt {ok}
 
 
 ;time open
@@ -77,11 +77,11 @@ last crash
 
 
 ;bookmarks
-bookmarks
+techaukaha
 
 
 ;This Month
-This Month
+Ko Jasýpe
 
 
 ;total sessions
