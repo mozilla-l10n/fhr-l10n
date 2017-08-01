@@ -237,7 +237,7 @@ Prestasi
 
 
 ;Timing of browser events, rendering, session restores
-Pemasaan peristiwa pelayar, rendering, sesi dikembalikan semula
+Pemasaan peristiwa pelayar, rendering, sesi pemulihan
 
 
 ;Length of session, how old a profile is, count of crashes, count of pages
@@ -401,7 +401,7 @@ Tempoh dalam milisaat yang diambil sewaktu permulaan aplikasi memuatkan pustaka 
 
 
 ;How long in milliseconds it took during startup for the application to restore tabs from the previous session
-Tempoh dalam milisaat yang diambil sewaktu permulaan aplikasi mengembalikan semula tab daripada sesi sebelum ini
+Tempoh dalam milisaat yang diambil sewaktu permulaan aplikasi memulihkan tab daripada sesi sebelum ini
 
 
 ;The number of times the application was run and not cleanly shut down.
