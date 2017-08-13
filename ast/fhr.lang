@@ -15,7 +15,7 @@ Consigui indicaciones ya información tocante al rindimientu de la to versión d
 
 
 ;Learn more...
-Depriendi más...
+Deprendi más...
 
 
 ;Data Sharing
@@ -23,7 +23,7 @@ Compartición de datos
 
 
 ;ON
-ACTIVAR
+SÍ
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
@@ -31,7 +31,7 @@ Escoyesti dexar de compartir datos con Mozilla, pero entá sedrás a ver cómo t
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
-El to informe de salú tamién se desaniciará de los sirvidores de Mozilla. Depriendi más na nuesa <a href="%(privacy_url)s">política de privacidá.</a>
+El to informe de salú tamién se desaniciará de los sirvidores de Mozilla. Deprendi más na nuesa <a href="%(privacy_url)s">política de privacidá.</a>
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
@@ -39,7 +39,7 @@ Escoyesti compartir dacuando los tos datos con Mozilla. Gracies por ser parte de
 
 
 ;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
-Depriendi cómo remanamos los tos datos na nuesa <a href="%(privacy_url)s">política de privacidá.</a>
+Deprendi cómo remanamos los tos datos na nuesa <a href="%(privacy_url)s">política de privacidá.</a>
 
 
 ;Vital Stats
