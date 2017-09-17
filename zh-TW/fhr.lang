@@ -654,7 +654,7 @@ Android OS 版本。
 
 
 ;Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
-Firefox 是否會取回附加元件的封鎖清單，以保護您避免受到有害的附加元件影響。預設將會開啟。
+Firefox 是否會取回附加元件的封鎖清單，以避免您受到惡意附加元件影響。預設將會開啟。
 
 
 ;Telemetry Enabled:
